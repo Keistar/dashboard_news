@@ -1,91 +1,74 @@
 {
   "genre": "sale",
   "genre_label_ja": "セール・キャンペーン",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:59:52+09:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T15:57:16+09:00",
   "stories": [
     {
-      "title_ja": "アトラスがハロウィーンセール開催、ペルソナシリーズなど最大8割引き",
-      "summary_ja": "ゲーム会社のアトラスがハロウィーンセールを開催している。ペルソナシリーズが最大80％オフになるほか、「メタファー：リファンタジオ」や「真・女神転生V V」なども割引対象となっている。",
-      "source": "電撃オンライン",
-      "url": "https://dengekionline.com/article/202610/91799",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "アトラス ゲーム",
-        "ペルソナ5",
-        "メタファー リファンタジオ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "楽天スーパーDEAL、モトローラ最新スマホが10％ポイント還元",
-      "summary_ja": "楽天市場の「楽天スーパーDEAL」にて、スマートフォン「motorola edge 70 fusion」が発売された。購入時に楽天ポイントがプラス10％還元されるほか、SPUによるポイントアップも適用される。",
-      "source": "Jetstream",
-      "url": "https://jetstream.blog/2026/10/23/motorola-edge-70-fusion-rakuten-superdeal-20261023/",
+      "title_ja": "SwitchBotが秋の大感謝祭、楽天や直販で最大58%オフ",
+      "summary_ja": "SwitchBotが「秋の大感謝祭」セールを公式サイトおよび楽天市場で開催している。最大58パーセントオフとなり、「K11+」が3万7800円で販売されている。楽天市場でのセール期間は10月27日まで、公式サイトは29日までとなっている。",
+      "source": "Smart Watch Life",
+      "url": "https://www.smartwatchlife.jp/84872/",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "motorola edge 70 fusion",
-        "モトローラ スマホ"
+        "SwitchBot",
+        "SwitchBot K11+"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Jackeryのソーラーパネルが楽天で40％引、24日夜からクーポン配布",
-      "summary_ja": "Jackery Japan 楽天市場店において、100Wソーラーパネル「Jackery SolarSaga 100 Prime」の40％引きクーポンが2026年10月24日20時より配布される。通常税込み3万4800円が税込み2万880円となり、SPUのポイント還元も付与される。",
-      "source": "Jetstream",
-      "url": "https://jetstream.blog/2026/10/22/jackery-solarsaga-100-prime-rakuten-discount-coupon-20261024/",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Jackery SolarSaga 100 Prime",
-        "Jackery ソーラーパネル"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "アンカーの45W急速充電器がアマゾンタイムセールで千円引きに",
-      "summary_ja": "Amazonタイムセールにて、急速充電器「Anker 313 Charger (Ace, 45W)」のホワイトが参考価格3,490円から1,000円引きの2,490円で販売されている。セール期間は2026年11月2日23時59分までとなっている。",
-      "source": "AppBank",
-      "url": "https://www.appbank.net/2026/10/22/iphone-news/3140064.php",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Anker 313 Charger",
-        "Anker 充電器"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "シュピゲン、Xperia 10 VIII専用ケース発売記念で最大15％割引",
-      "summary_ja": "モバイルアクセサリーブランドのシュピゲンは、ソニーのスマートフォン「Xperia 10 VIII」専用ケースとガラスフィルムを発売した。ケースは米軍のMIL規格に準拠している。10月25日まで最大15％オフのセールを実施中だ。",
-      "source": "AppBank",
-      "url": "https://www.appbank.net/2026/10/23/goods-books/3139430.php",
+      "title_ja": "GMKtecが楽天お買い物マラソンに参加、ミニPCを最大30%オフ",
+      "summary_ja": "GMKtecが楽天市場のセール企画「お買い物マラソン」に参加している。人気のミニPC製品が最大30パーセント割引の特別価格で販売されている。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/445/4445483/",
       "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "Spigen",
-        "Xperia 10 VIII ケース",
-        "保護フィルム"
+        "GMKtec",
+        "ミニPC"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ベルモンド、楽天市場のお買い物マラソンで全品半額クーポンを配布へ",
-      "summary_ja": "ライフスタイルブランドのベルモンドは、楽天市場のお買い物マラソンに合わせて全商品が50％オフになるクーポンを配布する。クーポンは先着100枚限定で用意されている。",
-      "source": "Dellows News",
-      "url": "https://news.dellows.jp/853235/?from=top_category_area",
+      "title_ja": "motorola edge 70 fusionが楽天DEALで10%還元",
+      "summary_ja": "楽天市場のポイント還元サービス「楽天スーパー DEAL」にて、発売された「motorola edge 70 fusion」が販売されている。楽天ポイントがプラス10パーセント還元されるほか、SPUのポイント還元も加算される。",
+      "source": "Jetstream",
+      "url": "https://jetstream.blog/2026/10/23/motorola-edge-70-fusion-rakuten-superdeal-20261023/",
       "score": 70,
-      "commercial_score": 90,
+      "commercial_score": 85,
       "product_keywords": [
-        "ベルモンド",
-        "BELLEMOND"
+        "motorola edge 70 fusion",
+        "motorola"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "第5世代iPad miniのセルラー中古品が2万2800円で特価販売",
+      "summary_ja": "2019年に発売されたAppleの7.9型タブレット「第5世代iPad mini Wi-Fi+Cellular」の中古品が、期間限定セールで登場した。販売価格は2万2800円となっている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/akibapc_watch/trend/akibapc_watch-2150875",
+      "score": 65,
+      "commercial_score": 80,
+      "product_keywords": [
+        "iPad mini 第5世代",
+        "iPad mini 中古"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "犬用ぬいぐるみに新柄クマが登場、楽天マラソン限定クーポンも配布",
+      "summary_ja": "累計7000個を販売した犬用のぬいぐるみおもちゃに、新デザインの「クマ」が加わり全12種類の展開となった。10月24日の楽天お買い物マラソンに合わせて限定クーポンが提供されている。",
+      "source": "まんたんウェブ",
+      "url": "https://mantan-web.jp/prtimes/article/20261023prt00m200000171a.html",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "犬 おもちゃ ぬいぐるみ"
       ],
       "country": "jp",
       "country_label_ja": "日本"

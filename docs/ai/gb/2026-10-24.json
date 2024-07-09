@@ -1,0 +1,41 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T15:33:48+09:00",
+  "stories": [
+    {
+      "title_ja": "レボリュートが新AI基盤を稼働、不正検知などの処理を高速化",
+      "summary_ja": "英フィンテック大手のレボリュート（Revolut）が、8000万人の顧客に向けた取引処理AIモデルを構築した。新システム「PRAGMA」をエヌビディア（NVIDIA）のハードウェア上で稼働させる。不正利用のチェックや銀行業務の処理を大幅に迅速化させる狙いがある。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/revolut-builds-ai-transaction-model-for-80-million-customers",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Revolut",
+        "NVIDIA"
+      ]
+    },
+    {
+      "title_ja": "米EVリビアン、自動運転開発に向け英AIスタートアップ買収",
+      "summary_ja": "電気自動車メーカーのリビアン（Rivian）が、英新興企業のサード・ディメンションAIを買収した。現実的な走行シミュレーションを生成する技術を取り入れる。市販車や計画中のロボタクシー向けに自律走行システムの開発を強化する。",
+      "source": "Zag Daily",
+      "url": "https://zagdaily.com/connected/rivian-buys-uk-ai-startup-to-develop-self-driving-technology/",
+      "score": 75,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "マイクロソフト、AI普及には人間の制御と信頼が不可欠と強調",
+      "summary_ja": "ロンドンで開かれたマイクロソフトのイベントに6500人が参加し、自律型AIの今後について議論が交わされた。技術の高さだけでなく、信頼性や人間の制御、安全性の確保が普及の鍵になると指摘された。利用者が効果を実感できる形でAIを活用することの重要性が示されている。",
+      "source": "Microsoft UK Stories",
+      "url": "https://ukstories.microsoft.com/features/microsoft-frontier-tour-london-building-trust-in-the-agentic-ai-era/",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "マイクロソフト"
+      ]
+    }
+  ]
+}

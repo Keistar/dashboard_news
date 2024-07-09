@@ -1,171 +1,134 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:33:34+09:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T15:33:48+09:00",
   "stories": [
     {
-      "title_ja": "Google Cloud、OpenAIのモデルを限定プレビューで提供",
-      "summary_ja": "米グーグル（Google）は、Google Cloud上でOpenAIのAIモデルを限定プレビューとして追加した。企業向けにデータ保護や請求の一元管理を提供し、幅広いAI選択肢を用意する。預かった企業データはモデルの学習には使用しない方針を示している。",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/",
+      "title_ja": "メタが対話型AIの日本展開を開始、広告は設けない方針",
+      "summary_ja": "メタ（Meta）がパーソナルAIエージェント「Muse」の日本展開を開始した。同社幹部はサービス内に広告を導入しない方針を示している。今回の日本での提供を皮切りに、国際的なAI開発の展開を推し進める狙いがある。",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/as-muse-personal-ai-agent-debuts-in-japan-meta-exec-says-it-won-t-have-ads",
       "score": 85,
-      "commercial_score": 45,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "YouTube Music、AI生成楽曲に識別ラベルの表示を開始",
-      "summary_ja": "YouTube Musicは、AIによって生成された楽曲を人が制作した曲と見分けるラベル表示を開始すると発表した。生成モデルを用いて作曲やボーカル、楽器演奏を作成した楽曲が順次適用の対象となる。主にAIで制作された楽曲の識別を目的としている。",
-      "source": "Music Ally Japan",
-      "url": "https://www.musically.jp/youtube-music-introduces-ai-generated-music-labels-for-vocals-instruments-and-compositions",
-      "score": 80,
-      "commercial_score": 60,
+      "commercial_score": 80,
       "product_keywords": [
-        "ワイヤレスイヤホン",
-        "ヘッドホン"
+        "Meta"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Uber、全社員3万人以上にChatGPT Workを導入",
-      "summary_ja": "米ウーバー（Uber）は、3万人を超える全従業員に向けてOpenAIのChatGPT Workを展開している。各チームでの調査やデータ分析、資料作成などの業務に活用する。複雑なワークフローを円滑に進める支援体制を整える。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout/",
-      "score": 80,
-      "commercial_score": 50,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米Etsy、AI生成の料理レシピや手芸パターンの出品を禁止",
-      "summary_ja": "オンラインマーケットプレイスのEtsyは、AIで生成された料理レシピや手芸用パターンの販売を禁止した。あわせてAI利用に関する規約を明確にし、人間の関与がない自動生成による出品も禁止対象としている。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "title_ja": "キャンバが初の自社画像AIを発表、レイアウト設計も可能",
+      "summary_ja": "デザインツールのキャンバ（Canva）が、初の自社製画像モデル「Craft」を発表した。2K解像度の画像を出力する前に全体のレイアウトを設計する機能を備えており、ベンチマークでも上位の評価を得ている。本機能はツール内ですでに提供されており、外部向けのAPIも公開されている。",
+      "source": "BetaNews",
+      "url": "https://betanews.com/article/canva-craft-ai-image-model-designarena-api/",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "手芸キット",
-        "型紙"
+        "Canva"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "レボリュートが新AI基盤を稼働、不正検知などの処理を高速化",
+      "summary_ja": "英フィンテック大手のレボリュート（Revolut）が、8000万人の顧客に向けた取引処理AIモデルを構築した。新システム「PRAGMA」をエヌビディア（NVIDIA）のハードウェア上で稼働させる。不正利用のチェックや銀行業務の処理を大幅に迅速化させる狙いがある。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/revolut-builds-ai-transaction-model-for-80-million-customers",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Revolut",
+        "NVIDIA"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国Unitree、ロボットが自己進化する物理AIモデルを開発",
-      "summary_ja": "中国のロボット企業である宇樹科技（Unitree）は、自律的に学習と改善を繰り返す物理AIロボット自進化大モデルの研究を進めている。AI自身が論文調査やコード作成を行い、シミュレーションと実機検証を経てモデルを改良する循環構造を構築する。同社の人形ロボットG1はこれまでに約1万から2万台が生産され、世界的な普及が進んでいる。",
-      "source": "金融界",
-      "url": "https://m.jrj.com.cn/madapter/fund/2026/10/23093258829489.shtml",
+      "title_ja": "中国のAIトークン価格が倍増、1日の消費量は3倍に急伸",
+      "summary_ja": "中国情報通信研究院の報告によると、大規模言語モデルのトークン利用料が前年後半と比べて2倍に上昇した。一方で1日あたりのトークン消費量は3倍に拡大している。AI技術の実用化が進むなかで、データ処理基盤の需要が急拡大している実態が示された。",
+      "source": "ThePaper.cn",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324062",
       "score": 80,
-      "commercial_score": 55,
+      "commercial_score": 75,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "スペースX、企業の対話AI導入を支援する制度を開始",
+      "summary_ja": "スペースX（SpaceX）は、AIの「Grok」を活用した製品やサービスを開発する企業向けのパートナープログラムを開始した。技術分野のリーダーらと連携し、導入企業に対して研修や開発ツール、各種サポートを提供する。ビジネス現場でのAI活用を後押しする体制を整える。",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-enlists-130-tech-leaders-to-help-businesses-deploy-grok-ai/",
+      "score": 75,
+      "commercial_score": 70,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "米EVリビアン、自動運転開発に向け英AIスタートアップ買収",
+      "summary_ja": "電気自動車メーカーのリビアン（Rivian）が、英新興企業のサード・ディメンションAIを買収した。現実的な走行シミュレーションを生成する技術を取り入れる。市販車や計画中のロボタクシー向けに自律走行システムの開発を強化する。",
+      "source": "Zag Daily",
+      "url": "https://zagdaily.com/connected/rivian-buys-uk-ai-startup-to-develop-self-driving-technology/",
+      "score": 75,
+      "commercial_score": 70,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の奇瑞汽車、車載AIモデルと専用チップを公開",
+      "summary_ja": "自動車メーカーの奇瑞汽車（Chery）が技術戦略を発表し、人工知能による基盤刷新を打ち出した。車載専用の大規模モデル「CheryMind」や専用チップの「紫微」シリーズを披露している。車両の知能化に向けた独自の技術開発を加速させる。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_2311077472_89c03e6002002p83a.html?from=finance",
+      "score": 75,
+      "commercial_score": 70,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "科大訊飛が開発者イベント開催、実用AIの成果を披露",
+      "summary_ja": "中国の音声・AI大手である科大訊飛（iFlytek）が開発者向けイベントを開催した。独自の人工知能技術の進化と、産業現場での具体的な社会実装の事例が紹介された。国内技術を基盤とした実用的なAIソリューションの普及をアピールしている。",
+      "source": "华龙网",
+      "url": "https://www.cqnews.net/web/content_1563200984769306624.html",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
-        "Unitree",
-        "ロボット"
+        "iFlytek"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "米Anthropic、エージェント機能向け新アプリを提供",
-      "summary_ja": "米アンソロピック（Anthropic）は、AIエージェント向けの新アプリとなるClaude Duetを発表した。有料プランであるProおよびMaxのユーザーを対象に、ウェイトリスト形式で提供されている。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "score": 75,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英バークレイズ、AI投資を拡大し5000人規模の人員削減へ",
-      "summary_ja": "英大手銀行バークレイズは、人工知能などの最新テクノロジーへの投資を進める中で数千人規模の人員を削減する方針を固めた。対象となる削減規模は約5000人にのぼると報じられている。",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366652509/Barclays-to-cut-5000-jobs-and-employ-more-artificial-intelligence",
-      "score": 75,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "花王、研究知見の活用に向け法人向けAIエージェントを導入",
-      "summary_ja": "花王はナレッジセンスが提供する法人向けAIエージェントを導入した。長年蓄積してきた研究報告書の知見を組織横断で活用することを目指す。研究所や商品カテゴリーの枠組みを越えた情報共有を推進する。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/2d934ddc056588e1b760509bff95df683c21b38c",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "花王"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "元OpenAI幹部、ロボットで実験を自動化する新興企業を設立",
-      "summary_ja": "元OpenAIのサイエンス責任者が、ロボットによる実験室の自動化を目指す新興企業ワープ・サイエンス（Warp Science）を立ち上げた。人間の化学者がカメラやセンサー付き手袋を装着して作業を行い、ロボットに様々な実験作業を学習させる。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "score": 70,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AIが発見した深刻な欠陥の修正で、複数のWebサイトが一時停止",
-      "summary_ja": "人工知能が発見した深刻なセキュリティ上の欠陥を修正するため、複数のWebサイトが一時的に利用停止となった。システムの安全性を確保するための対応措置が取られている。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/newsround/articles/c6wyrp8w7evzo",
-      "score": 70,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "マイクロソフト、ヘルスケア商品の文言を検証するAI基盤で提携",
-      "summary_ja": "米マイクロソフトとヘルスケア企業のオペラ（Opella）は、コンテンツ検証のためのAIプラットフォーム構築で提携した。Lumenと呼ばれる基盤は14のエージェントで構成され、商品の宣伝表現の確認や修正箇所の検出などを行う。",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform",
-      "score": 70,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国でイチジク栽培に特化した世界初の農業用AIモデルが開発",
-      "summary_ja": "中国の西北農林科技大学の研究チームと企業が連携し、世界初となるイチジク特化型の大規模AIモデルを開発した。智果と名付けられたこの農業向け知能基盤は、第33回楊凌農業ハイテク成果博覧会で発表される予定となっている。",
-      "source": "华商网",
-      "url": "https://news.hsw.cn/system/2026/1023/1968978.shtml",
+      "title_ja": "マイクロソフト、AI普及には人間の制御と信頼が不可欠と強調",
+      "summary_ja": "ロンドンで開かれたマイクロソフトのイベントに6500人が参加し、自律型AIの今後について議論が交わされた。技術の高さだけでなく、信頼性や人間の制御、安全性の確保が普及の鍵になると指摘された。利用者が効果を実感できる形でAIを活用することの重要性が示されている。",
+      "source": "Microsoft UK Stories",
+      "url": "https://ukstories.microsoft.com/features/microsoft-frontier-tour-london-building-trust-in-the-agentic-ai-era/",
       "score": 70,
       "commercial_score": 65,
       "product_keywords": [
-        "いちじく",
-        "イチジク"
+        "マイクロソフト"
       ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ディープシーク、開発者向けテスト環境の提供を開始",
+      "summary_ja": "中国のAI開発企業ディープシーク（DeepSeek）が、新環境「DeepSeek Harness」のプレビューテストを公開した。主力モデルの「V4」シリーズ提供に続く取り組みとなる。開発者に向けた基盤ツールの開放を進めている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2453889",
+      "score": 70,
+      "commercial_score": 65,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ソフトクリエイト、Office上で使えるAIアドインを提供",
-      "summary_ja": "ソフトクリエイトは、企業向け生成AIサービスにおいてOfficeアドイン機能の提供を開始した。WordやExcel、PowerPointの操作画面上でAIを利用できるようになる。対象プランでは追加費用なしで標準搭載される。",
-      "source": "クラウド Watch",
-      "url": "https://cloud.watch.impress.co.jp/docs/news/2150369.html",
+      "title_ja": "航空・旅行分野でAIエージェントの実用化が加速",
+      "summary_ja": "航空や旅行の業界において、人工知能の導入が実験段階を終えて自動化による実用化の段階へと移行している。単なる文章作成やコンテンツ生成にとどまらず、現場での実用的な成果や業務への直接的な影響を生み出すことが重視され始めている。",
+      "source": "Routesonline",
+      "url": "https://www.routesonline.com/suppliers/10554/capa-centre-for-aviation/news/299667088/ai-from-artificial-intelligence-to-automated-impact-aviation-enters-the-age-of-the-agent/",
       "score": 65,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Office 365",
-        "マイクロソフト"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "生成AIのおすすめを参考に商品を選ぶ消費者が増加、意識調査",
-      "summary_ja": "生成AIが提示する企業や店舗のおすすめに対する信頼度をめぐり、622人を対象とした調査が実施された。生成AIへの相談をきっかけに80.4パーセントの利用者が検討候補に入れるなど、消費者の選定行動が広がっている。検索結果の一覧から自分で比較する手法に加え、AIのおすすめを参考にする動きが定着しつつある。",
-      "source": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=000003531.000044800&g=prt",
-      "score": 65,
-      "commercial_score": 75,
-      "country": "jp",
-      "country_label_ja": "日本"
+      "commercial_score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

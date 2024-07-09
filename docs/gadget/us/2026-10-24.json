@@ -1,0 +1,74 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T15:36:23+09:00",
+  "stories": [
+    {
+      "title_ja": "富士通が世界最軽量の14型AIノートPCを発表",
+      "summary_ja": "富士通はインテルのCore Ultra 7 355を搭載した14インチAIノートPC「FMV Note U UX-L3」を発表した。世界最軽量を誇るカーボンファイバー製ボディを採用し、高い堅牢性や豊富な端子類を備えている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Fujitsu-unveils-FMV-Note-U-UX-L3-World-s-lightest-14-inch-laptop-with-an-Intel-Core-Ultra-7-355-AI-CPU.1432491.0.html",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "富士通",
+        "FMV",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "中国Vivoが1万mAhバッテリー搭載スマホを10月30日に発売へ",
+      "summary_ja": "中国のVivoは1万mAhの大容量バッテリーを積んだスマートフォン「Vivo Y600 5G」を10月30日に発表する。連続生配信テストで32時間37分を記録し、ギネス世界記録に認定されたという。",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/technology/vivo-y600-with-guinness-record-holding-10-000mah-battery-to-launch-next-week-check-date-design-and-expected-specs-11792746104479.html",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Vivo",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "レノボが高リフレッシュレート液晶の低価格ゲーミングPCを発売",
+      "summary_ja": "レノボが北米などで手頃な価格帯のゲーミングノートPC「LOQ Essential 15IRH11」を発売した。165Hz駆動のディスプレイに加え、10コアのインテル製CPUや増設可能なメモリを搭載している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-budget-gaming-laptop-in-more-countries-with-165-Hz-display-and-75-W-GPU.1432162.0.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Lenovo",
+        "ゲーミングノートPC",
+        "LOQ"
+      ]
+    },
+    {
+      "title_ja": "シャオミが2.5K画質と暗視に対応した見守りカメラを発売",
+      "summary_ja": "シャオミ（Xiaomi）がスマートカメラの新製品「Smart Camera C401」を約50ドルの手頃な価格で発売した。2.5K解像度や夜間撮影機能を備え、Amazon AlexaやGoogle Homeとの連携にも対応している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Xiaomi-releases-affordable-Smart-Camera-C401-with-2-5K-night-vision.1432112.0.html",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Xiaomi",
+        "見守りカメラ",
+        "ネットワークカメラ"
+      ]
+    },
+    {
+      "title_ja": "Cuktechが冷却ファン付きの360W急速充電器を発売",
+      "summary_ja": "CuktechがノートPC向けに最大360Wの急速充電に対応したGaN充電器を発売した。冷却ファンを備えつつ同出力の一般的なアダプタより大幅に小型化されており、発売価格は約75ドルとなっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Cooling-fan-equipped-Cuktech-laptop-charger-launches-with-360W-fast-charging-support.1432392.0.html",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Cuktech",
+        "急速充電器",
+        "窒化ガリウム"
+      ]
+    }
+  ]
+}

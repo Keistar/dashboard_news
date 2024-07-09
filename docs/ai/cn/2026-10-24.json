@@ -1,0 +1,45 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T15:33:48+09:00",
+  "stories": [
+    {
+      "title_ja": "中国のAIトークン価格が倍増、1日の消費量は3倍に急伸",
+      "summary_ja": "中国情報通信研究院の報告によると、大規模言語モデルのトークン利用料が前年後半と比べて2倍に上昇した。一方で1日あたりのトークン消費量は3倍に拡大している。AI技術の実用化が進むなかで、データ処理基盤の需要が急拡大している実態が示された。",
+      "source": "ThePaper.cn",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324062",
+      "score": 80,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "中国の奇瑞汽車、車載AIモデルと専用チップを公開",
+      "summary_ja": "自動車メーカーの奇瑞汽車（Chery）が技術戦略を発表し、人工知能による基盤刷新を打ち出した。車載専用の大規模モデル「CheryMind」や専用チップの「紫微」シリーズを披露している。車両の知能化に向けた独自の技術開発を加速させる。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_2311077472_89c03e6002002p83a.html?from=finance",
+      "score": 75,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "科大訊飛が開発者イベント開催、実用AIの成果を披露",
+      "summary_ja": "中国の音声・AI大手である科大訊飛（iFlytek）が開発者向けイベントを開催した。独自の人工知能技術の進化と、産業現場での具体的な社会実装の事例が紹介された。国内技術を基盤とした実用的なAIソリューションの普及をアピールしている。",
+      "source": "华龙网",
+      "url": "https://www.cqnews.net/web/content_1563200984769306624.html",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "iFlytek"
+      ]
+    },
+    {
+      "title_ja": "ディープシーク、開発者向けテスト環境の提供を開始",
+      "summary_ja": "中国のAI開発企業ディープシーク（DeepSeek）が、新環境「DeepSeek Harness」のプレビューテストを公開した。主力モデルの「V4」シリーズ提供に続く取り組みとなる。開発者に向けた基盤ツールの開放を進めている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2453889",
+      "score": 70,
+      "commercial_score": 65
+    }
+  ]
+}
