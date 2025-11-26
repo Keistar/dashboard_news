@@ -1,0 +1,63 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-25",
+  "generated_at": "2025-11-26T15:35:30+09:00",
+  "stories": [
+    {
+      "title_ja": "診察代わりにAI相談が6割、精神科医がリスクを警告",
+      "summary_ja": "成人の約60％が一般医の診察を受ける代わりにAIに相談しているという調査結果が示された。これを受け、精神科医がメンタルヘルスの助言をAIに求める際に注意すべき主な4つのリスクを指摘している。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/ai-chatgpt-claude-advice-uk-mental-health-b3072595.html",
+      "score": 82,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "画像購入者の約3分の2、生成AIより人間制作を支持",
+      "summary_ja": "素材サイトのストーリーブロックス（Storyblocks）による調査で、コンテンツ購入者の約3分の2が生成AIによる作品よりも人間が制作した作品を好むことが分かった。写真家などのクリエイターにとって追い風となる傾向が示されている。",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/two-thirds-of-image-buyers-believe-human-made-is-better-than-ai-generated-but-87-percent-surveyed-still-admit-to-using-ai",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "デジタルカメラ",
+        "一眼レフ"
+      ]
+    },
+    {
+      "title_ja": "高リスク決済の不正をAIがリアルタイムで検知",
+      "summary_ja": "AIを活用して高リスクな決済取引をリアルタイムでスコアリングする不正検知の取り組みが進んでいる。不正取引やクレジットカードの悪用テストを阻止し、正当な取引の誤拒否を減らす効果を上げている。",
+      "source": "Intelligent Living",
+      "url": "https://www.intelligentliving.co/ai-payment-fraud-detection/",
+      "score": 76,
+      "commercial_score": 60,
+      "product_keywords": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title_ja": "サッカー豪代表選手、自身のAIクローンをライセンス化",
+      "summary_ja": "サッカーオーストラリア代表のクリスティアン・ヴォルパートが、自身のAIクローンをライセンス供与する契約を結んだ。アスリートがデジタル上のアイデンティティを管理し、権利化して収益に結びつける先端的な動きが広がっている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "サッカー用品"
+      ]
+    },
+    {
+      "title_ja": "スマート首輪など農業現場でAIの導入が広がる",
+      "summary_ja": "牛用のスマート首輪や歩行状態の監視など、多くの農場で人工知能（AI）の活用が進んでいる。農業の現場に変革をもたらすなか、農家側が適切な問いを持ちながら技術を導入できているかが論点となっている。",
+      "source": "Agriland UK",
+      "url": "https://www.agriland.co.uk/farming-news/ai-is-changing-farming-are-farmers-asking-the-right-questions/",
+      "score": 73,
+      "commercial_score": 60,
+      "product_keywords": [
+        "スマート農業"
+      ]
+    }
+  ]
+}

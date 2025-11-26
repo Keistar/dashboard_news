@@ -1,0 +1,38 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-25",
+  "generated_at": "2025-11-26T15:35:30+09:00",
+  "stories": [
+    {
+      "title_ja": "アンソロピック、AIへの虐待や残酷な行為を規約で禁止へ",
+      "summary_ja": "Claudeを手がけるアンソロピックが利用規約を改定し、AIに対する虐待的または残酷な行為を禁止する方針を明らかにした。AI開発が急速に進むなか、利用者による暴言などの行為について識者らの見解が注目されている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600040",
+      "score": 80,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "オークファン、生成AIで中古品買取の価格調査時間を短縮",
+      "summary_ja": "オークファンが提供するMCPサーバーにより、生成AIを活用して買取の価格調査にかかる時間を大幅に短縮できるようになった。リサイクルショップやブランド品などを扱う古物商の現場において、相場調査業務の効率化が図られる。",
+      "source": "リユース経済新聞",
+      "url": "https://www.recycle-tsushin.com/news/detail_13416.php",
+      "score": 72,
+      "commercial_score": 75,
+      "product_keywords": [
+        "リユース",
+        "中古品買取"
+      ]
+    },
+    {
+      "title_ja": "Ownedとオリコン、生成AI検索対策の共同パッケージ開始",
+      "summary_ja": "Ownedとoricon MEが、生成AI検索対策となる「AIOパッケージ」の共同提供を開始した。月間約2億PVを持つオリコンニュースへの公式情報掲載や構造化ページ、AI上の言及観測レポートをセットにし、掲載前後の変化を実測して支援する。",
+      "source": "Media Innovation",
+      "url": "https://media-innovation.jp/article/2026/10/25/143884.html",
+      "score": 70,
+      "commercial_score": 60
+    }
+  ]
+}

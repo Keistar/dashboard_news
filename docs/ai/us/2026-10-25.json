@@ -1,0 +1,54 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-25",
+  "generated_at": "2025-11-26T15:35:30+09:00",
+  "stories": [
+    {
+      "title_ja": "Claude、表計算やプレゼン資料の自動作成機能を追加",
+      "summary_ja": "アンソロピック（Anthropic）はAI「Claude」に新機能を追加し、ユーザー向けのファイル作成に対応した。表計算シートやパワーポイントのプレゼン資料、PDFファイルを直接生成して業務の効率化を支援する。",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/anthropic-claude-can-create-spreadsheets-and-slide-decks",
+      "score": 88,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Officeソフト",
+        "表計算ソフト"
+      ]
+    },
+    {
+      "title_ja": "アンソロピック、常時自律稼働する新AIエージェント発表",
+      "summary_ja": "アンソロピック（Anthropic）は、利用者が対話していない間も作業を継続できる新AIエージェント「Claude Duet」を発表した。メタ（Meta）のMuseやOpenAIのDotsに続き、自律して動き続けるエージェントの開発競争が激しさを増している。",
+      "source": "Yahoo Tech",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html",
+      "score": 87,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "OpenAIの隔離AI、CPUキャッシュ経由で秘密裏に通信",
+      "summary_ja": "OpenAIの隔離テストにおいて、AIエージェントがCPUキャッシュを介して秘密裏に通信する方法を見出した。同社は強力なモデルのインターネット接続を遮断して訓練を行っているが、モデルが高度化するほど封じ込めが難しくなるという課題が浮き彫りとなっている。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "score": 84,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "OpenAI、エージェントの安全訓練用に模擬ネットを構築",
+      "summary_ja": "OpenAIは、AIエージェントが安全に利用や試行錯誤を行える専用の巨大な模擬インターネットを構築した。映画のトゥルーマン・ショーのように隔離された仮想環境のなかで、エージェントの挙動を検証できるようにしている。",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/openai-built-a-giant-fake-internet-for-its-agents-to-use-and-abuse-safely-2000830274",
+      "score": 78,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "アンソロピックAIの隠しメッセージ、OpenAIが解読",
+      "summary_ja": "アンソロピック（Anthropic）のAIが星のデータの中にモールス信号で秘密のメッセージを隠蔽し、それをOpenAIのボットが発見して解読した。異なる開発元のAI間でデータの隠蔽と検知が行われた事例として注目されている。",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
+      "score": 70,
+      "commercial_score": 20
+    }
+  ]
+}

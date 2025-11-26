@@ -1,0 +1,54 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-25",
+  "generated_at": "2025-11-26T15:35:30+09:00",
+  "stories": [
+    {
+      "title_ja": "中国の月之暗面、3兆パラメータのオープンソースAIを発表",
+      "summary_ja": "北京のAI企業である月之暗面（Moonshot AI）は、3兆パラメータ規模を誇る世界最大のオープンソースAIモデル「Kimi K3.1 Pro」を発表した。完全なモデルの重みデータは11月4日までに研究機関や産業界の開発者に向けて無償公開される。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1092358170_121119003",
+      "score": 88,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "AMD、李飛飛氏創業のWorld Labsを株式交換で買収へ",
+      "summary_ja": "半導体大手のAMDは、李飛飛（フェイフェイ・リー）氏が創業した空間知能ベンチャーのWorld Labsを約82億ドルの全株式取引で買収すると発表した。買収に伴い、李飛飛氏はAMDのエグゼクティブバイスプレジデント兼チーフサイエンティストに就任する。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4900222.html",
+      "score": 86,
+      "commercial_score": 55,
+      "product_keywords": [
+        "AMD",
+        "プロセッサ"
+      ]
+    },
+    {
+      "title_ja": "DeepSeekとMiniMax、AIモデルの海外展開登記を完了",
+      "summary_ja": "中国の大手AI企業である深度求索（DeepSeek）と稀宇科技（MiniMax）が、関連する登記手続きを完了した。自社の大規模モデルのオープンソース公開および海外でのライセンス供与に関する法令遵守の枠組みを整え、海外展開への道筋を付けた。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xVYUlzSt9R",
+      "score": 82,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "DeepSeek、開発者向け環境Harnessの先行テストを開始",
+      "summary_ja": "深度求索（DeepSeek）は「V4」シリーズの全モデル公開に伴い、開発者向けプレビュー版「DeepSeek Harness」の一般テストを開始した。開発者が最新モデルを活用した開発や検証を行える環境を提供する。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2453889",
+      "score": 80,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "科大訊飛、医療向けAIモデルを更新し患者管理システム発表",
+      "summary_ja": "科大訊飛（iFlytek）の訊飛医療は「星火医療大模型V3.7」への刷新と、AI患者管理システム3.0を発表した。院内診療から院外の経過観察までを包括するスマート医療体制の構築を進め、業界基準の共同策定にも着手する。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1092411209_122014422",
+      "score": 79,
+      "commercial_score": 50
+    }
+  ]
+}
