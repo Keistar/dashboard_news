@@ -35,6 +35,6 @@ jobs:
         run: |
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/index.html
+          git add docs/
           git diff --staged --quiet || git commit -m "Update AI news dashboard $(date -u +'%Y-%m-%d')"
           git push

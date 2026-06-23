@@ -1,11 +1,16 @@
 """
-Generates docs/index.html: a daily AI-industry news dashboard (US edition),
-built by asking Claude to search the web and summarize the day's top stories.
+Generates a multi-page AI news dashboard.
+
+Page structure:
+  docs/index.html              — top page: country list
+  docs/{country}/index.html    — country page: date list (newest first)
+  docs/{country}/{date}.html   — article page: daily stories
 
 Run via GitHub Actions (see .github/workflows/daily-ai-news.yml).
 Requires the ANTHROPIC_API_KEY environment variable.
 """
 
+import glob
 import html
 import json
 import os
@@ -18,9 +23,12 @@ import anthropic
 MODEL = "claude-sonnet-4-6"
 MAX_STORIES = 8
 MAX_TOKENS = 16000
-OUTPUT_PATH = "docs/index.html"
 
 JST = timezone(timedelta(hours=9))
+
+COUNTRY_CODE = "us"
+COUNTRY_LABEL_JA = "アメリカ"
+COUNTRY_LABEL_EN = "US EDITION"
 
 SYSTEM_PROMPT = f"""You are a news curator producing a daily briefing about \
 the US AI industry for a Japanese software engineer who reads it every \
@@ -50,7 +58,7 @@ before or after, matching exactly this schema:
 
 
 def fetch_stories() -> list[dict]:
-    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
+    client = anthropic.Anthropic()
 
     today_jst = datetime.now(JST).strftime("%Y年%m月%d日")
 
@@ -62,7 +70,7 @@ def fetch_stories() -> list[dict]:
             {
                 "type": "web_search_20250305",
                 "name": "web_search",
-                "max_uses": 6,  # caps search cost per run
+                "max_uses": 6,
             }
         ],
         messages=[
@@ -87,11 +95,9 @@ def fetch_stories() -> list[dict]:
             f"block types={block_types})"
         )
 
-    # Strip code fences the model may add despite being told not to.
     raw = re.sub(r"^```(?:json)?", "", raw).strip()
     raw = re.sub(r"```$", "", raw).strip()
 
-    # Extract the outermost JSON object in case the model adds surrounding text.
     json_match = re.search(r"\{.*\}", raw, re.DOTALL)
     if not json_match:
         raise ValueError(f"No JSON object found in response (first 300 chars): {raw[:300]!r}")
@@ -107,7 +113,102 @@ def fetch_stories() -> list[dict]:
     return stories
 
 
-ENTRY_TEMPLATE = """
+# ─── shared CSS ───────────────────────────────────────────────────────────────
+
+_CSS = """
+  :root {
+    --bg: #1c1b17;
+    --line: #3a3727;
+    --text: #f1ecdd;
+    --text-dim: #b7ae96;
+    --amber: #f2a93b;
+    --signal: #6fbe8f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+"""
+
+_FONTS = (
+    '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
+    '<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono'
+    ':wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">'
+)
+
+
+def _head(title: str) -> str:
+    return (
+        '<!doctype html>\n<html lang="ja">\n<head>\n'
+        '<meta charset="utf-8" />\n'
+        '<meta name="viewport" content="width=device-width, initial-scale=1" />\n'
+        f'<title>{title}</title>\n'
+        + _FONTS + '\n'
+        '<style>\n' + _CSS + '</style>\n'
+        '</head>\n<body>\n  <div class="wrap">\n'
+    )
+
+
+_FOOT = '    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>\n  </div>\n</body>\n</html>\n'
+
+_ENTRY = """\
         <li class="entry">
           <span class="entry-index">{index}</span>
           <div class="entry-body">
@@ -120,175 +221,133 @@ ENTRY_TEMPLATE = """
         </li>
 """
 
-PAGE_TEMPLATE = """<!doctype html>
-<html lang="ja">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>AI WIRE — US Edition</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-  :root {{
-    --bg: #1c1b17;
-    --line: #3a3727;
-    --text: #f1ecdd;
-    --text-dim: #b7ae96;
-    --amber: #f2a93b;
-    --signal: #6fbe8f;
-  }}
-  * {{ box-sizing: border-box; }}
-  body {{
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
-    line-height: 1.7;
-  }}
-  .mono {{ font-family: 'JetBrains Mono', monospace; }}
-  .wrap {{
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 32px 20px 64px;
-  }}
-  .masthead {{
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    border-bottom: 1px solid var(--line);
-    padding-bottom: 16px;
-    margin-bottom: 8px;
-  }}
-  .masthead-title {{
-    font-size: 14px;
-    letter-spacing: 0.12em;
-    color: var(--amber);
-    font-weight: 700;
-  }}
-  .live-tag {{
-    font-size: 11px;
-    letter-spacing: 0.08em;
-    color: var(--signal);
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-  }}
-  .live-dot {{
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--signal);
-    animation: pulse 2.4s ease-in-out infinite;
-  }}
-  @media (prefers-reduced-motion: reduce) {{
-    .live-dot {{ animation: none; }}
-  }}
-  @keyframes pulse {{
-    0%, 100% {{ opacity: 1; }}
-    50% {{ opacity: 0.25; }}
-  }}
-  .meta-line {{
-    font-size: 12px;
-    color: var(--text-dim);
-    margin-bottom: 28px;
-  }}
-  ul.entries {{
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }}
-  .entry {{
-    display: flex;
-    gap: 16px;
-    padding: 20px 0;
-    border-bottom: 1px solid var(--line);
-  }}
-  .entry:last-child {{ border-bottom: none; }}
-  .entry-index {{
-    flex: 0 0 auto;
-    color: var(--amber);
-    font-size: 13px;
-    padding-top: 3px;
-  }}
-  .entry-title {{
-    font-size: 16px;
-    font-weight: 600;
-    margin: 0 0 8px;
-    letter-spacing: 0.01em;
-  }}
-  .entry-summary {{
-    font-size: 14px;
-    color: var(--text-dim);
-    margin: 0 0 10px;
-  }}
-  .entry-source {{
-    font-size: 12px;
-    color: var(--amber);
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-  }}
-  .entry-source:hover {{ border-bottom-color: var(--amber); }}
-  footer {{
-    margin-top: 40px;
-    font-size: 11px;
-    color: var(--text-dim);
-    opacity: 0.7;
-  }}
-</style>
-</head>
-<body>
-  <div class="wrap">
-    <div class="masthead">
-      <span class="masthead-title mono">AI WIRE &#9656; US EDITION</span>
-      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
-    </div>
-    <div class="meta-line mono">{date_label} &middot; {time_label} &middot; {count} dispatches</div>
-    <ul class="entries">
-{entries}
-    </ul>
-    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
-  </div>
-</body>
-</html>
-"""
 
+# ─── render functions ─────────────────────────────────────────────────────────
 
-def render_html(stories: list[dict]) -> str:
-    now_jst = datetime.now(JST)
-    date_label = now_jst.strftime("%Y-%m-%d")
-    time_label = now_jst.strftime("%H:%M JST")
-
-    entries_html = ""
+def render_article_page(stories: list[dict], date_str: str, time_str: str) -> str:
+    entries = ""
     for i, story in enumerate(stories, start=1):
-        title = html.escape(story.get("title_ja", ""))
-        summary = html.escape(story.get("summary_ja", ""))
-        source = html.escape(story.get("source", ""))
-        url = html.escape(story.get("url", "#"), quote=True)
-        entries_html += ENTRY_TEMPLATE.format(
-            index=f"{i:02d}", title=title, summary=summary, source=source, url=url
+        entries += _ENTRY.format(
+            index=f"{i:02d}",
+            title=html.escape(story.get("title_ja", "")),
+            summary=html.escape(story.get("summary_ja", "")),
+            source=html.escape(story.get("source", "")),
+            url=html.escape(story.get("url", "#"), quote=True),
         )
 
-    return PAGE_TEMPLATE.format(
-        date_label=date_label,
-        time_label=time_label,
-        count=len(stories),
-        entries=entries_html,
+    return (
+        _head(f"AI WIRE — {date_str} — {COUNTRY_LABEL_EN}")
+        + '    <div class="masthead">\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {COUNTRY_LABEL_EN}</span>\n'
+        + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
+        + '    </div>\n'
+        + f'    <a href="index.html" class="back-link mono">&#8592; 日付一覧</a>\n'
+        + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {len(stories)} dispatches</div>\n'
+        + '    <ul class="entries">\n'
+        + entries
+        + '    </ul>\n'
+        + _FOOT
     )
 
+
+def render_country_index(dates: list[str]) -> str:
+    items = ""
+    for date in dates:
+        items += (
+            '      <li class="nav-item">\n'
+            f'        <a href="{date}.html" class="nav-link mono">\n'
+            f'          <span class="nav-date">{date}</span>\n'
+            '          <span class="nav-arrow">&#8599;</span>\n'
+            '        </a>\n'
+            '      </li>\n'
+        )
+
+    return (
+        _head(f"AI WIRE — {COUNTRY_LABEL_EN}")
+        + '    <div class="masthead">\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {COUNTRY_LABEL_EN}</span>\n'
+        + '    </div>\n'
+        + '    <a href="../index.html" class="back-link mono">&#8592; 国一覧</a>\n'
+        + '    <p class="section-label mono">ARCHIVE</p>\n'
+        + '    <ul class="nav-list">\n'
+        + items
+        + '    </ul>\n'
+        + _FOOT
+    )
+
+
+def render_top_index() -> str:
+    # Add more countries here as needed in the future.
+    countries = [
+        {"code": COUNTRY_CODE, "label_ja": COUNTRY_LABEL_JA, "label_en": COUNTRY_LABEL_EN},
+    ]
+
+    items = ""
+    for c in countries:
+        items += (
+            '      <li class="nav-item">\n'
+            f'        <a href="{c["code"]}/index.html" class="nav-link">\n'
+            '          <span class="nav-label">\n'
+            f'            <span class="nav-label-main">{c["label_ja"]}</span>\n'
+            f'            <span class="nav-label-sub mono">{c["label_en"]}</span>\n'
+            '          </span>\n'
+            '          <span class="nav-arrow mono">&#8599;</span>\n'
+            '        </a>\n'
+            '      </li>\n'
+        )
+
+    return (
+        _head("AI WIRE")
+        + '    <div class="masthead">\n'
+        + '      <span class="masthead-title mono">AI WIRE</span>\n'
+        + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
+        + '    </div>\n'
+        + '    <p class="section-label mono">EDITION</p>\n'
+        + '    <ul class="nav-list">\n'
+        + items
+        + '    </ul>\n'
+        + _FOOT
+    )
+
+
+# ─── main ────────────────────────────────────────────────────────────────────
 
 def main() -> None:
     try:
         stories = fetch_stories()
-    except Exception as exc:  # noqa: BLE001 - want to fail the job loudly either way
+    except Exception as exc:
         print(f"Failed to fetch stories: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    page = render_html(stories)
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write(page)
+    now_jst = datetime.now(JST)
+    date_str = now_jst.strftime("%Y-%m-%d")
+    time_str = now_jst.strftime("%H:%M JST")
 
-    print(f"Wrote {len(stories)} stories to {OUTPUT_PATH}")
+    country_dir = f"docs/{COUNTRY_CODE}"
+    os.makedirs(country_dir, exist_ok=True)
+
+    # Save article page for today.
+    article_path = f"{country_dir}/{date_str}.html"
+    with open(article_path, "w", encoding="utf-8") as f:
+        f.write(render_article_page(stories, date_str, time_str))
+    print(f"Wrote {len(stories)} stories to {article_path}")
+
+    # Rebuild country index from all date files (newest first).
+    date_files = sorted(
+        glob.glob(f"{country_dir}/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].html"),
+        reverse=True,
+    )
+    dates = [os.path.basename(p).replace(".html", "") for p in date_files]
+    country_index_path = f"{country_dir}/index.html"
+    with open(country_index_path, "w", encoding="utf-8") as f:
+        f.write(render_country_index(dates))
+    print(f"Wrote country index ({len(dates)} dates) to {country_index_path}")
+
+    # Rebuild top index.
+    top_index_path = "docs/index.html"
+    with open(top_index_path, "w", encoding="utf-8") as f:
+        f.write(render_top_index())
+    print(f"Wrote top index to {top_index_path}")
 
 
 if __name__ == "__main__":
