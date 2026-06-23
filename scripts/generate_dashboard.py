@@ -117,12 +117,12 @@ def fetch_stories() -> list[dict]:
 
 _CSS = """
   :root {
-    --bg: #1c1b17;
-    --line: #3a3727;
-    --text: #f1ecdd;
-    --text-dim: #b7ae96;
-    --amber: #f2a93b;
-    --signal: #6fbe8f;
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
   }
   * { box-sizing: border-box; }
   body {
@@ -158,6 +158,13 @@ _CSS = """
     text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
   .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
   .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
   /* article list */
@@ -241,7 +248,11 @@ def render_article_page(stories: list[dict], date_str: str, time_str: str) -> st
         + f'      <span class="masthead-title mono">AI WIRE &#9656; {COUNTRY_LABEL_EN}</span>\n'
         + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
         + '    </div>\n'
-        + f'    <a href="index.html" class="back-link mono">&#8592; 日付一覧</a>\n'
+        + '    <nav class="breadcrumb mono">\n'
+        + '      <a href="../index.html">国一覧</a>\n'
+        + '      <span class="breadcrumb-sep">/</span>\n'
+        + '      <a href="index.html">日付一覧</a>\n'
+        + '    </nav>\n'
         + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {len(stories)} dispatches</div>\n'
         + '    <ul class="entries">\n'
         + entries

@@ -8,12 +8,12 @@
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #1c1b17;
-    --line: #3a3727;
-    --text: #f1ecdd;
-    --text-dim: #b7ae96;
-    --amber: #f2a93b;
-    --signal: #6fbe8f;
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
   }
   * { box-sizing: border-box; }
   body {
@@ -74,6 +74,18 @@
     letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text-dim);
+    margin: 12px 0 20px;
+    letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
   .meta-line {
     font-size: 12px;
     color: var(--text-dim);
@@ -129,7 +141,11 @@
       <span class="masthead-title mono">AI WIRE &#9656; US EDITION</span>
       <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
     </div>
-    <a href="index.html" class="back-link mono">&#8592; 日付一覧</a>
+    <nav class="breadcrumb mono">
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
     <div class="meta-line mono">2026-06-23 &middot; 23:09 JST &middot; 8 dispatches</div>
     <ul class="entries">
 
