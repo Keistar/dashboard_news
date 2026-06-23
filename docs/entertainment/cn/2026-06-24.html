@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:07 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">『浪姐7』準決勝で23名が決勝進出、八百長疑惑も浮上</h2>
+            <p class="entry-summary">中国の人気女性グループ結成リアリティ番組『乗風2026（浪姐7）』の準決勝で何宣林と万千恵が脱落し、残る23名が6月27日の総決勝に進出した。しかし脱落発表方法が不透明として「ヤラセ」を疑うネット上の批判が殺到し、大きな騒ぎとなっている。</p>
+            <a class="entry-source" href="https://tw.news.yahoo.com/%E3%80%8A%E6%B5%AA%E5%A7%907%E3%80%8B%E6%B1%BA%E8%B3%BD23%E4%BA%BA%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90%EF%BC%81-%E4%BD%95%E5%AE%A3%E6%9E%97%E6%B7%98%E6%B1%B0%E3%80%8C%E5%AD%AB%E6%80%A1%E6%BB%BF%E8%87%89%E9%8C%AF%E6%84%95%E3%80%8D%E7%88%86%E9%BB%91%E5%B9%95-161719139.html" target="_blank" rel="noopener noreferrer">
+              Yahoo娛樂圈 / 台灣 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">『浪姐7』総決勝は6月27日にノーカット生放送</h2>
+            <p class="entry-summary">『乗風2026（浪姐7）』の総決勝「乗風之夜」が6月27日（土）19時30分から芒果TV・湖南衛視で全開マイク・無修音の完全生放送で行われる予定だ。OB出演者として陳昊宇・劉雨昕・宋妍霏・李晟の4名参加が確認されており、今シーズン最大の盛り上がりが期待されている。</p>
+            <a class="entry-source" href="https://www.sina.cn/news/detail/5310848820318039.html" target="_blank" rel="noopener noreferrer">
+              新浪新聞 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">BLACKPINKジェニー、シャネル・ソウルショーで魅了</h2>
+            <p class="entry-summary">BLACKPINKのジェニーが5月26日にソウルで開催されたシャネル2026年メティエダールショーに出演し、カスタムシャネルのスタイリングで「ヒューマン・シャネル」の称号を再証明した。G-DRAGONとの同時出席も話題を呼び、中国SNSでトレンド入りした。</p>
+            <a class="entry-source" href="https://kbizoom.com/gdragon-jennie-chanel-2026-seoul-event/" target="_blank" rel="noopener noreferrer">
+              KbizoOm <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Netflixアニメ映画OSTがAMAs「年間最優秀楽曲賞」受賞</h2>
+            <p class="entry-summary">NetflixアニメーションKPOP Girls! Demon Hunters（KPOPガールズ！デーモン・ハンターズ）のOST「Golden」がアメリカン・ミュージック・アワードで「ソング・オブ・ザ・イヤー」を受賞した。K-POPとアニメを融合させた作品がグローバルチャートを席巻し、中韓エンタメの存在感を世界に示した。</p>
+            <a class="entry-source" href="https://kstyle.com/category.ksn?categoryCode=ET" target="_blank" rel="noopener noreferrer">
+              Kstyle <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国女性タレントが杨舒予、PRADAミラノショーに登場</h2>
+            <p class="entry-summary">中国人タレントの杨舒予（ヤン・シューユー）と余承恩（ユー・チョンエン）がPRADAのミラノコレクションに登場し、国際的な注目を集めた。中国セレブのグローバルファッション界進出が一層加速している様子が話題となっている。</p>
+            <a class="entry-source" href="https://news.sina.com.cn/" target="_blank" rel="noopener noreferrer">
+              新浪 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">范瑋琪が『浪姐7』で「天后（女王）復活」と話題</h2>
+            <p class="entry-summary">台湾の人気歌手・范瑋琪が『乗風2026（浪姐7）』への出演を通じて実力と存在感を発揮し、ネット上では「天后回帰」と称賛する声が広まっている。30年来の音楽仲間との共演が視聴者の感動を呼んでいる。</p>
+            <a class="entry-source" href="https://hk.news.yahoo.com/celebrity/" target="_blank" rel="noopener noreferrer">
+              Yahoo娛樂圈 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国短編ドラマ市場が急成長、制作者に注目集まる</h2>
+            <p class="entry-summary">縦型スマホ向けの短編ドラマ（短剧）が中国のSNSで爆発的な人気を博しており、10億再生を記録する作品が相次いでいる。脚本家や俳優の新星が続々と登場し、従来の長編ドラマ市場を脅かす新ジャンルとして業界の関心を集めている。</p>
+            <a class="entry-source" href="https://www.fkjlk.com/kuaixun" target="_blank" rel="noopener noreferrer">
+              星娱速览 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">コン・ユ＆キム・ゴウン、「トッケビ」10周年で江陵再会</h2>
+            <p class="entry-summary">韓国ドラマ『トッケビ〜君がくれた愛しい日々〜』の主演コン・ユとキム・ゴウンが放送10周年を記念し、ドラマの名場面の舞台となった江陵で再会した特別番組の予告映像が公開された。中国をはじめアジア全域のファンから大きな反響を呼んでいる。</p>
+            <a class="entry-source" href="https://kstyle.com/newest.ksn/" target="_blank" rel="noopener noreferrer">
+              Kstyle <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

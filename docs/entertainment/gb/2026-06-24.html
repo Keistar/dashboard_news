@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:07 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">デュア・リパ、ロンドン＆シチリアで9日間の結婚式</h2>
+            <p class="entry-summary">ポップスター、デュア・リパが5月30日にロンドンのオールド・マリルボーン市庁舎で俳優カラム・ターナーと入籍し、6月5〜7日にはシチリア・パレルモで豪華な結婚披露宴を開催した。エルトン・ジョンが生演奏でゲストを祝福したと報じられ話題を呼んでいる。</p>
+            <a class="entry-source" href="https://www.theknot.com/content/dua-lipa-boyfriend" target="_blank" rel="noopener noreferrer">
+              The Knot <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">グラストンベリー2026は休止年で開催なし</h2>
+            <p class="entry-summary">英国最大の音楽フェス「グラストンベリー」は2026年が計画的な休耕年のため開催なし。代わりに8月末の「リーディング&amp;リーズ・フェスティバル2026」にCharli XCX、Florence + The Machineらが出演予定で、英国の音楽ファンが注目している。</p>
+            <a class="entry-source" href="https://www.shortlist.com/entertainment/no-glastonbury-no-problem-this-is-2026s-best-festival-line-up" target="_blank" rel="noopener noreferrer">
+              Shortlist / Jetpac Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">クリストファー・ノーラン映画がBFI IMAXで28000枚即完</h2>
+            <p class="entry-summary">クリストファー・ノーラン監督の最新作『The Odyssey』がBFI IMAXでの発売開始24時間で2万8000枚のチケットが完売し、同館の新記録を樹立した。英国映画界での期待の高さを示す出来事として注目を集めている。</p>
+            <a class="entry-source" href="https://deadline.com/" target="_blank" rel="noopener noreferrer">
+              Deadline <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エマ・ワトソン、ウィリアム王子の環境活動に参加</h2>
+            <p class="entry-summary">ハリー・ポッターの女優エマ・ワトソンがロンドンで開催された「ロンドン気候行動週間」のイベントにウィリアム王子の自然保護活動に関連して参加し、久々の公式の場への登場が話題となった。</p>
+            <a class="entry-source" href="https://www.yahoo.com/entertainment/celebrity/" target="_blank" rel="noopener noreferrer">
+              Yahoo Entertainment <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">スターマー首相が辞意を表明、文化界にも波紋</h2>
+            <p class="entry-summary">英国のキア・スターマー首相が6月22日のスピーチで辞任の意向を表明し、エンタメ業界を含む英国社会全体に衝撃が走った。グラストンベリー2025でKneecapが「F--- Keir Starmer」と叫ぶパフォーマンスを見せてからわずか約1年でのことであり、政治とカルチャーの交差点として改めて話題を呼んでいる。</p>
+            <a class="entry-source" href="https://www.hellomagazine.com/" target="_blank" rel="noopener noreferrer">
+              HELLO! Magazine <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">BBCドラマ『Half Man』でリチャード・ガッドが変貌</h2>
+            <p class="entry-summary">『ベイビー・レインディア』で世界的な注目を浴びたリチャード・ガッドが、HBO/BBC共同制作の続編シリーズ『Half Man』でまったく異なるキャラクターを演じ、エミー賞シーズンに向けて話題を集めている。</p>
+            <a class="entry-source" href="https://deadline.com/" target="_blank" rel="noopener noreferrer">
+              Deadline <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ニール・ヤングら伝説の面々がアガサ映画に注目</h2>
+            <p class="entry-summary">ニール・ヤングやチャーリーXCX、オリヴィア・ロドリゴらがグラストンベリー2025で印象的なパフォーマンスを残したのに続き、アガサ・クリスティーの失踪事件を描いたノワールスリラー映画『Eleven Missing Days』が英国で公開予定となり注目を集めている。</p>
+            <a class="entry-source" href="https://www.hellomagazine.com/" target="_blank" rel="noopener noreferrer">
+              HELLO! Magazine <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">WarnerBros.アニメが「ダフィー・シーズン」で新章へ</h2>
+            <p class="entry-summary">ワーナー・ブラザース・ピクチャーズ・アニメーション部門がアヌシー国際アニメーション映画祭で「ダフィー・シーズン」を発表し、2026年を新章の始まりと宣言した。英国でも配信・映画ファンの間で大きな期待を集めている。</p>
+            <a class="entry-source" href="https://deadline.com/" target="_blank" rel="noopener noreferrer">
+              Deadline <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:07 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">スーパーガール映画、本日全米公開＆初評価は賛否</h2>
+            <p class="entry-summary">ジェームズ・ガン監督のDCU第2弾『スーパーガール』が6月26日に全米公開された。主演のミリー・アルコックは「役を完璧に体現した」と称賛される一方、悪役の薄さやシナリオへの批判もあり評価が割れている。</p>
+            <a class="entry-source" href="https://variety.com/2026/film/news/supergirl-first-reactions-milly-alcock-1236784950/" target="_blank" rel="noopener noreferrer">
+              Variety <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">テイラー・スウィフト、7月に大型結婚式を計画</h2>
+            <p class="entry-summary">テイラー・スウィフトとNFLスター、トラヴィス・ケルシーの結婚式が7月3日にニューヨークのマディソン・スクエア・ガーデンで開催される見通しと報じられ、世間の注目が集まっている。当初予定のロードアイランドの会場が流出したため変更を余儀なくされたとされる。</p>
+            <a class="entry-source" href="https://parade.com/celebrities/everyone-invited-to-taylor-swift-and-travis-kelces-wedding" target="_blank" rel="noopener noreferrer">
+              Parade <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">アリアナ・グランデ、ホワイトハウスの楽曲使用に抗議</h2>
+            <p class="entry-summary">アリアナ・グランデがホワイトハウスによる自身の楽曲の無断使用に対し、公式に停止を求めた。政治とポップカルチャーの衝突として、SNSを中心に大きな議論を呼んでいる。</p>
+            <a class="entry-source" href="https://www.cnn.com/entertainment" target="_blank" rel="noopener noreferrer">
+              CNN Entertainment <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ミンディ・ケイリング主演作、Huluでシーズン1完結</h2>
+            <p class="entry-summary">ミンディ・ケイリングが制作するHuluのアンサンブルコメディ『Not Suitable For Work』が6月23日に2話連続でシーズン1を締めくくった。ニューヨークで社会に踏み出す20代の日常を描いた作品で話題を呼んでいる。</p>
+            <a class="entry-source" href="https://deadline.com/" target="_blank" rel="noopener noreferrer">
+              Deadline <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">マドンナ、自伝映画が予算問題でお蔵入りと告白</h2>
+            <p class="entry-summary">マドンナがユニバーサル・ピクチャーズと進めていた自伝映画が予算問題で頓挫したと自ら明かした。2年をかけて脚本を執筆したと語っており、ファンに衝撃を与えている。</p>
+            <a class="entry-source" href="https://deadline.com/" target="_blank" rel="noopener noreferrer">
+              Deadline <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ディズニー『トイ・ストーリー5』が週末興収を席巻</h2>
+            <p class="entry-summary">『トイ・ストーリー5』が全米で驚異的な週末興行成績を記録しており、2026年最大のオープニングウィークエンドになるとの予測が出ている。DCU新作「スーパーガール」の公開と重なり、激しい競合が注目されている。</p>
+            <a class="entry-source" href="https://fandomwire.com/supergirl-first-reactions-milly-alcock-dcu-debut-james-gunn/" target="_blank" rel="noopener noreferrer">
+              FandomWire <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Forbesが2026年クリエイターランキングを発表</h2>
+            <p class="entry-summary">Forbesが第5回「トップクリエイターリスト2026」を公開し、TikTok・YouTube・Instagramなどで最も稼ぐ50人のソーシャルスター影響力者を発表した。ポップカルチャーとSNS経済の最前線を映す内容として注目されている。</p>
+            <a class="entry-source" href="https://www.yahoo.com/entertainment/celebrity/" target="_blank" rel="noopener noreferrer">
+              Yahoo Entertainment <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">アン・ハサウェイが第3子妊娠を発表</h2>
+            <p class="entry-summary">女優のアン・ハサウェイが43歳での第3子妊娠をユーモラスに公表した。「流量をパパラッチに渡さない」とつぶやき、SNSでセルフ発表するスタイルが好感を持って広まっている。</p>
+            <a class="entry-source" href="https://www.excite.co.jp/news/entertainment-topic/" target="_blank" rel="noopener noreferrer">
+              クランクイン！ <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

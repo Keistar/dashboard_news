@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:07 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AKB48・花田藍衣が史上初の契約解除</h2>
+            <p class="entry-summary">AKB48の花田藍衣メンバーが、ファンとの私的な接触が発覚したとしてグループ史上初の契約解除処分を受けた。本人は「運営に坊主にさせられた」と主張しており、ファンの間で真相を巡る議論が過熱している。</p>
+            <a class="entry-source" href="https://geitopi.com/" target="_blank" rel="noopener noreferrer">
+              芸トピ <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">乃木坂46、新曲「是非に及ばず」ジャケ写解禁</h2>
+            <p class="entry-summary">乃木坂46の最新シングル「是非に及ばず」のジャケットアートワーク5種が一挙公開された。コンセプトは「眩光を探して」とされ、発売に向けてファンの期待が高まっている。</p>
+            <a class="entry-source" href="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtcGhHZ0pLVUNnQVAB?hl=ja&amp;gl=JP&amp;ceid=JP%3Aja" target="_blank" rel="noopener noreferrer">
+              Google ニュース / THE FIRST TIMES <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">映画『Michael』が邦画興収ランキング2週連続1位</h2>
+            <p class="entry-summary">マイケル・ジャクソンの公式伝記映画『Michael／マイケル』が日本の映画ランキングで2週連続1位を獲得している。TOWER RECORDS CAFEでは公開記念の期間限定イベントも開催され、MJファンの間で盛り上がりを見せている。</p>
+            <a class="entry-source" href="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtcGhHZ0pLVUNnQVAB?hl=ja&amp;gl=JP&amp;ceid=JP%3Aja" target="_blank" rel="noopener noreferrer">
+              Google ニュース <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">大河ドラマ『豊臣兄弟！』衝撃ラストに視聴者騒然</h2>
+            <p class="entry-summary">NHK大河ドラマ『豊臣兄弟！』第24回「軍師官兵衛！」の意味深なラスト展開がSNSで大きな反響を呼んだ。「不穏」「終わり方が怖い」といった声がネットに溢れ、戦国最大の山場が迫ると話題になっている。</p>
+            <a class="entry-source" href="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtcGhHZ0pLVUNnQVAB?hl=ja&amp;gl=JP&amp;ceid=JP%3Aja" target="_blank" rel="noopener noreferrer">
+              Google ニュース <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">菅田将暉、3年4カ月ぶりラジオ「ANN」復活</h2>
+            <p class="entry-summary">俳優・菅田将暉がオールナイトニッポンに3年4カ月ぶりに復帰し、久々の登場でファンを沸かせた。一方でスタッフへの不満も爆発させる一幕があり、「俺はもう若くて才能あるやつと仕事したい」と発言して注目を集めた。</p>
+            <a class="entry-source" href="https://news.infoseek.co.jp/g/entertainment/" target="_blank" rel="noopener noreferrer">
+              スポニチアネックス <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">24時間テレビ・ランナーに星野真里が決定</h2>
+            <p class="entry-summary">今年の日本テレビ『24時間テレビ』チャリティーマラソンのランナーに女優の星野真里が抜擢された。長女の難病を公表した経緯をもつ星野が新たな挑戦に踏み出すと、ネット上では賛否両論の声が上がっている。</p>
+            <a class="entry-source" href="https://geitopi.com/" target="_blank" rel="noopener noreferrer">
+              芸トピ <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">宮本浩次ニューアルバム『I AM HERO』特番放送決定</h2>
+            <p class="entry-summary">エレファントカシマシの宮本浩次がニューアルバム『I AM HERO』を発表し、独占インタビューを交えた特別番組の放送が決定した。ソロ活動を精力的に続ける宮本の新作にファンから大きな期待が寄せられている。</p>
+            <a class="entry-source" href="https://www.oricon.co.jp/" target="_blank" rel="noopener noreferrer">
+              オリコンニュース <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">なにわ男子・長尾謙杜、スキャンダルで心労激ヤセ報道</h2>
+            <p class="entry-summary">なにわ男子の長尾謙杜が稲垣莉生との熱愛スキャンダルを謝罪後、顔がやつれたと心配の声が広がっている。精神的なダメージの影響が懸念されており、新曲MVの再生数も激減しているとの情報も出ている。</p>
+            <a class="entry-source" href="https://geitopi.com/" target="_blank" rel="noopener noreferrer">
+              芸トピ <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
