@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — DE EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; DE EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独フラッシュ総合PMI48.0、18か月ぶり低水準</h2>
+            <p class="entry-summary">S&amp;Pグローバルが6月23日に発表したドイツの6月フラッシュ総合PMIは48.0と前月（48.8）から低下し、18か月ぶりの低水準となった。特にサービス業活動指数が46.8と43か月ぶりの底まで落ち込み、民間部門活動の縮小が3か月連続となった。予想（49.6）を大幅に下回ったことで、第2四半期に経済が再びマイナス成長に転落する可能性が一段と高まっている。</p>
+            <a class="entry-source" href="https://www.investing.com/news/economic-indicators/german-business-activity-hits-18month-low-in-june-pmi-shows-4754721" target="_blank" rel="noopener noreferrer">
+              Reuters / Investing.com <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独製造業フラッシュPMI50.0、5か月ぶり低水準</h2>
+            <p class="entry-summary">ドイツの6月フラッシュ製造業PMIは50.0と前月（50.1）から小幅低下し、5か月ぶりの低水準に並んだ。製造業は辛うじて拡張領域を維持しているものの、サービス業の急落がドイツ全体の景況感を引きずり下ろしている。中東情勢に関連した不確実性とエネルギーコスト高騰が需要の重荷となっている。</p>
+            <a class="entry-source" href="https://www.investing.com/economic-calendar/germany-manufacturing-purchasing-managers-index-(pmi)-136" target="_blank" rel="noopener noreferrer">
+              S&amp;P Global PMI / Investing.com <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独Q1GDP、前期比0.3%増で緩やかな回復</h2>
+            <p class="entry-summary">ドイツのifo経済研究所によれば、2026年第1四半期のGDPは前期比0.3%増となり、第4四半期（0.2%増）から小幅改善した。財政拡張策と対EU輸出の回復が押し上げ要因だが、個人消費は低調で回復は力強さを欠く。欧州委員会は2026年通年の実質GDP成長率を0.6%と予測している。</p>
+            <a class="entry-source" href="https://www.ifo.de/en/forecasts/ifo-economic-forecast" target="_blank" rel="noopener noreferrer">
+              ifo Institute <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ドイツHICP、エネルギー高で2026年2.9%に急騰予測</h2>
+            <p class="entry-summary">欧州委員会は2026年のドイツのHICP（EU統一消費者物価指数）が2.9%に急上昇すると予測した。2026年2月末に始まった中東紛争による燃料価格の高騰がエネルギーインフレを急激に押し上げており、実質家計所得とマージンを圧迫している。政府は5月から2か月限定で燃料税を引き下げたが、その効果は一時的に留まるとみられている。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独政府、財政拡張で防衛・インフラに大規模投資</h2>
+            <p class="entry-summary">ドイツは2025年3月の憲法改正（財政ルール緩和）を受け、防衛費とインフラへの大規模支出を本格化させている。連邦銀行（ブンデスバンク）は財政出動が2028年までにGDP成長に累積1.3%ポイント寄与すると試算し、移転・減税が家計・企業収入を押し上げる効果も期待されている。一方で政府赤字比率は2028年に4.8%、債務残高比率も68%に上昇する見通しだ。</p>
+            <a class="entry-source" href="https://www.bundesbank.de/en/press/press-releases/bundesbank-s-forecast-for-germany-economy-will-gradually-recover-965032" target="_blank" rel="noopener noreferrer">
+              Deutsche Bundesbank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ドイツZEW景況感、中東停戦交渉で初のプラス転換</h2>
+            <p class="entry-summary">6月のドイツZEW経済センチメント指数が中東紛争開始後初めてプラスに転じた。ホルムズ海峡再開に向けた停戦交渉の進展が投資家の先行き見通しを改善させた形で、エネルギー価格の落ち着きが輸出依存型のドイツ経済への重荷を和らげるとの期待が高まっている。ただしサービス業の低迷と構造的な競争力問題は依然として解消されていない。</p>
+            <a class="entry-source" href="https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html" target="_blank" rel="noopener noreferrer">
+              T. Rowe Price <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独自動車・製造業、中国競合で輸出苦戦続く</h2>
+            <p class="entry-summary">ドイツ製造業の経済的付加価値は2017年にピークを打ち、その後15%近く落ち込んでいる。電気自動車（EV）分野では中国メーカーとの価格競争が激化しており、ゴールドマン・サックスはドイツ輸出が中国競合の影響を中期的に受け続けると予想している。製造業は持ち直しの兆しがあるものの、米国関税と中国競争の二重の逆風が輸出の力強い回復を阻んでいる。</p>
+            <a class="entry-source" href="https://www.goldmansachs.com/insights/articles/german-economic-outlook-growth-in-2026" target="_blank" rel="noopener noreferrer">
+              Goldman Sachs <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独失業率、2026年に4.0%へ上昇の見通し</h2>
+            <p class="entry-summary">欧州委員会はドイツの失業率が2026年に4.0%へ上昇すると予測した。GDP成長の鈍化を背景に労働需要が弱まり、製造業での雇用喪失が公共サービス（教育・医療）での増加によって一部相殺される構図となっている。実質賃金の伸びも2026年はエネルギーインフレの急伸により鈍化する見通しだが、2027年以降は物価安定とともに回復すると予想されている。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

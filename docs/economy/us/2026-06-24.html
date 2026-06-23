@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米FRB、政策金利据え置き―利上げ示唆に転換</h2>
+            <p class="entry-summary">ケビン・ウォーシュ新FRB議長のもと、FOMCは6月17日に政策金利を3.5〜3.75%で据え置いた。ただしドットプロットでは18人中9人が年内利上げを予想し、2026年末の中央値が3.8%に上方修正されるなど、明確なタカ派転換を示した。インフレ率が3年ぶり高水準に達するなか、市場はS&amp;P500が約0.6%下落するなど利上げリスクを織り込んでいる。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米・イラン和平MOU署名、ホルムズ海峡再開へ</h2>
+            <p class="entry-summary">米国とイランは6月中旬にジュネーブで停戦の覚書（MOU）に署名し、ホルムズ海峡の無料通行再開と米海軍封鎖解除で合意した。同海峡封鎖で日量1,400万バレルの供給が失われていたが、合意を受けて原油価格は2026年高値から約20%急落し世界の株式市場が急騰した。ただし海峡の完全正常化には数か月を要するとみられている。</p>
+            <a class="entry-source" href="https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war" target="_blank" rel="noopener noreferrer">
+              Al Jazeera <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">トランプ関税、最高裁違憲判決後も新展開</h2>
+            <p class="entry-summary">最高裁がIEEPA根拠の「相互関税」を違憲と判断した後、トランプ政権は代替措置として暫定10%の世界一律関税を導入し、7月には追加関税復活の可能性が高まっている。財務省のベッセント長官は関税が旧水準に戻る可能性を示唆しており、市場は新たなトレードサーガの幕開けとして警戒を続けている。医薬品関税も2026年後半に最大200%に引き上げられる可能性がある。</p>
+            <a class="entry-source" href="https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs" target="_blank" rel="noopener noreferrer">
+              J.P. Morgan Global Research <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">S&amp;P500企業、Q1増益28%の好決算</h2>
+            <p class="entry-summary">S&amp;P500構成企業の2026年第1四半期売上高は前年比11.7%増、利益は28%増と市場予想を大幅に上回った。高い関税不確実性や原油高にもかかわらず企業業績が堅調で、6月3日時点でS&amp;P500は4月安値から中小型株を中心に60%超の回復を達成している。好決算が株高の根拠として投資家心理を支えている。</p>
+            <a class="entry-source" href="https://www.usbank.com/investing/financial-perspectives/market-news/stock-market-under-trump.html" target="_blank" rel="noopener noreferrer">
+              U.S. Bank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">CBO、財政赤字10年累計23.1兆ドルと試算</h2>
+            <p class="entry-summary">米議会予算局（CBO）は2026〜2035年の財政赤字累計が23.1兆ドルに達すると予測し、GDP比で債務残高は2036年に120%まで上昇すると警告した。2026年度単年の赤字はGDP比5.8%（1.9兆ドル）で、「ワン・ビッグ・ビューティフル・ビル法」による減税がその主因とされる。急膨張する利払い費が中長期的な財政を圧迫するリスクが高まっている。</p>
+            <a class="entry-source" href="https://www.cbo.gov/publication/62105" target="_blank" rel="noopener noreferrer">
+              Congressional Budget Office <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米雇用、月平均18.8万人増で労働市場堅調</h2>
+            <p class="entry-summary">直近3か月の米非農業部門雇用者数は月平均18.8万人増と力強く、失業率は4.3%に留まっている。強い雇用とインフレ（CPI前年比4.2%）の組み合わせがFRBの利下げ余地を一層狭め、年内利上げ観測が市場で高まっている。雇用市場の底堅さが消費支出を下支えし、景気後退リスクは相対的に低いと評価されている。</p>
+            <a class="entry-source" href="https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting" target="_blank" rel="noopener noreferrer">
+              NPR <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AIメモリ株急落、テック相場に冷や水</h2>
+            <p class="entry-summary">AIトレードへの懸念が再燃し、大手メモリチップメーカーの株価が急落するなど米ハイテク株が売り圧力に直面している。サイバーセキュリティ各社もAI競合の台頭への懸念から株価が下落し、市場の焦点はイラン和平の楽観ムードとAI投資の持続性懸念との綱引きとなっている。ビットコインは一時6.2万ドルを割り込み暗号資産市場にも動揺が広がった。</p>
+            <a class="entry-source" href="https://finance.yahoo.com/" target="_blank" rel="noopener noreferrer">
+              Yahoo Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">PCEインフレ3.6%予測、米実質GDPは2.2%成長見通し</h2>
+            <p class="entry-summary">FRBは2026年末のPCEインフレ予測を3.6%（3月時点2.7%）に大幅上方修正する一方、実質GDP成長率予測は2.2%へ下方修正した。中東紛争に伴うエネルギー高騰が物価を押し上げる一方、財政出動と法人・個人減税（「ワン・ビッグ・ビューティフル・ビル法」）が成長を下支えする構図となっている。成長とインフレが同時に悩ましい「スタグフレーション的」リスクが意識されている。</p>
+            <a class="entry-source" href="https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-june-17-2026" target="_blank" rel="noopener noreferrer">
+              Fox Business <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

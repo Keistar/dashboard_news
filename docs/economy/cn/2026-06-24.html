@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国Q1GDP成長率5.0%、輸出は4か月で15%増</h2>
+            <p class="entry-summary">中国の2026年第1四半期GDP成長率は前年比5.0%と前四半期から改善し、2026年目標（4.5〜5.0%）の達成に向け順調なスタートを切った。2026年1〜4月の輸出は前年比15%増と好調を維持し、AIブームと脱炭素移行が構造的な下支え要因となっている。一方で不動産投資が1〜5月に前年比16.2%減少するなど内需の弱さが課題として残っている。</p>
+            <a class="entry-source" href="https://www.usbank.com/investing/financial-perspectives/market-news/chinas-economic-influence.html" target="_blank" rel="noopener noreferrer">
+              U.S. Bank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">PBOCが利率政策に「様子見」姿勢、追加緩和見送りへ</h2>
+            <p class="entry-summary">人民銀行（PBOC）は中東情勢の緩和と物価の小幅反転を受け、残り期間の利下げ・預金準備率引き下げを見送る「様子見」姿勢に転換したとBBVAリサーチが指摘した。PBOCは短期リバースレポ活用拡大と人民元の海外利用促進策など金融市場の機能改善措置を発表している。2026年の消費者物価指数（CPI）見通しは1.2%、PPI見通しは1.4%に上方修正された。</p>
+            <a class="entry-source" href="https://www.bbvaresearch.com/en/publicaciones/china-economic-outlook-june-2026/" target="_blank" rel="noopener noreferrer">
+              BBVA Research <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国不動産、新築価格下落続くが一線都市は3か月連続上昇</h2>
+            <p class="entry-summary">2026年5月の中国全土の新築住宅価格は4月より速いペースで下落し、不動産セクターは引き続き経済の重荷となっている。ただし北京・上海など一線都市では3か月連続で価格が上昇しており、政策支援が大都市に限定的な効果を発揮し始めているとみられる。不動産投資は1〜5月で前年比16.2%減と落ち込みが続いており、回復は地域間で不均一だ。</p>
+            <a class="entry-source" href="https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html" target="_blank" rel="noopener noreferrer">
+              T. Rowe Price <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、EU・グローバルサウス向け輸出多角化を加速</h2>
+            <p class="entry-summary">対米輸出が前年比10%減少する中、中国は東南アジア・欧州・アフリカ・中東向けの輸出を拡大し、2025年の貿易黒字は約1.2兆ドルと過去最大を記録した。人民元建て貿易はサウジアラビア・ブラジル・インドネシアなどとの通貨スワップ協定を通じて拡大しており、上海黄金取引所も人民元建て契約の海外展開を進めている。米国依存からの脱却を図る「南南協力」が中国の中期戦略の核心となっている。</p>
+            <a class="entry-source" href="https://english.ckgsb.edu.cn/knowledge/article/china-economic-consolidation-and-strategic-shifts-in-2026/" target="_blank" rel="noopener noreferrer">
+              CKGSB Knowledge <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">アリババが新世代AIチップ「真武」と新LLMを発表</h2>
+            <p class="entry-summary">アリババは独自開発の高性能AIチップ「真武（Zhenwu）」と大規模言語モデル（LLM）の新バージョンを発表し、中国テック企業によるAI半導体内製化の動きが加速していることを示した。NVIDIAは対中AI半導体市場をほぼ華為（Huawei）に明け渡したと認めており、中国国内でのAIエコシステムが独自路線で発展している。米中間のAIチップ覇権争いは2026年の重要テーマとなっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-markets/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、ボーイング機200機を正式発注―米中協力の象徴</h2>
+            <p class="entry-summary">中国がボーイング製航空機200機の発注を正式確認し、航空分野を米中協力の重点領域と位置づけた。トランプ訪中後に米中関係の緊張が部分的に緩和し、AI技術の対中輸出拡大など実務的な協議が進んでいる。ただしAPEC会合では貿易問題での隔たりが依然大きく、両国が完全な和解に至るには長い道のりが残っている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-markets/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国第15次五か年計画、AIとグリーン経済を最優先</h2>
+            <p class="entry-summary">2026年3月の全国人民代表大会で採択された第15次五か年計画（2026〜30年）は、AI・半導体・脱炭素技術への集中投資を核心に据え、R&amp;D支出を年率7%以上拡大する目標を掲げた。デジタル経済のGDP比率を2030年までに12.5%に高め、モバイル技術・デジタル転換で2兆ドルの付加価値を創出する計画だ。技術的自立を最優先とする供給サイド主導の成長戦略が中国の中長期路線として確立されている。</p>
+            <a class="entry-source" href="https://www.db.com/news/detail/20260331-china-s-2026-economic-blueprint-navigating-a-path-of-stability-and-strategic-growth?language_id=1" target="_blank" rel="noopener noreferrer">
+              Deutsche Bank Private Bank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">新民間航空法施行、ドローン物流が合法化</h2>
+            <p class="entry-summary">2026年中頃に施行された中国の新民間航空法により、物流・緊急サービス向け商業ドローン利用の法的枠組みが整備された。eコマース・医療・物流プラットフォームでは業種特化型（垂直型）AIモデルの実用化が進んでおり、ロボティクスとAIを組み合わせた産業オートメーションが急速に拡大している。このような「垂直AI」と無人機分野が中国の次なる輸出競争力の源泉として注目されている。</p>
+            <a class="entry-source" href="https://english.ckgsb.edu.cn/knowledge/article/china-economic-consolidation-and-strategic-shifts-in-2026/" target="_blank" rel="noopener noreferrer">
+              CKGSB Knowledge <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

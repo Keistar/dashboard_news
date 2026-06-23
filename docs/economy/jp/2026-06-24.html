@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀、政策金利を1.0%に引き上げ―30年ぶり高水準</h2>
+            <p class="entry-summary">日本銀行は6月15〜16日の金融政策決定会合で、政策金利を0.25%引き上げ1.0%とした（7対1の賛成多数）。中東紛争によるエネルギー高騰が国内物価を押し上げるリスクに対応したもので、1995年9月以来の最高水準となる。日銀は引き続きJGB購入を四半期200億円ずつ縮小し、2027年4月に月2兆円で停止する計画を維持した。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">円、対ドル160円台で推移―介入警戒続く</h2>
+            <p class="entry-summary">円相場は対ドル160円台を中心に推移しており、日本の通貨当局が「介入のレッドライン」として警戒している水準に達している。日銀が5月に11.7兆円規模の介入を実施したにもかかわらず、円は再び160円台まで下落しており、利上げなき介入の限界が指摘されている。日米金利差（最大3.0%ポイント）に起因するキャリートレードが円安圧力の主因となっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/05/07/japan-yen-intervention-boj-rate-gap-currency-pressure.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日本の輸出、5月に前年比17%増―IT部品・自動車けん引</h2>
+            <p class="entry-summary">日本の2026年5月の通関輸出額は前年比17.0%増と市場予想（16.2%増）を上回り、テック部品・自動車・非鉄金属が主要な押し上げ要因となった。機械受注も4月に前月比8.7%増と大きく回復しており、企業の設備投資意欲が底堅いことが確認された。円安効果と世界的なIT需要回復が輸出統計を支えている。</p>
+            <a class="entry-source" href="https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html" target="_blank" rel="noopener noreferrer">
+              T. Rowe Price <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀副総裁、追加利上げ継続の姿勢を強調</h2>
+            <p class="entry-summary">日銀の氷見野良三副総裁は議会委員会で、実質金利が「極めて低い水準」にあるとして追加利上げを続ける姿勢を改めて表明した。中東紛争による卸売物価の上昇が幅広い価格転嫁に波及するリスクがあるとして警戒感を示した。次回利上げのタイミングはインフレ・賃金・景気データ次第だが、市場では2026年末までに政策金利が1.25%に達するとの観測が高まっている。</p>
+            <a class="entry-source" href="https://tradingeconomics.com/japan/interest-rate" target="_blank" rel="noopener noreferrer">
+              Trading Economics <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米・イラン和平でイラン原油流入へ、日本精製業者が注目</h2>
+            <p class="entry-summary">米・イラン停戦合意を受けて、イランなど中東産の原油が国際市場に回帰するとの期待からロシア産原油の割引率縮小が見込まれている。日本精製業者にとっては中東産原油の調達コスト低下が見込まれる一方、ホルムズ海峡の完全再開には数か月を要するとされ、短期的なエネルギーコスト改善には時間がかかるとみられている。エネルギー輸入依存度の高い日本にとって停戦進展は経済的追い風だ。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">春闘で5%超の賃上げ3年連続、日銀に自信与える</h2>
+            <p class="entry-summary">日本の主要労組は2026年の春季賃上げ交渉で5%超の賃上げを3年連続で獲得し、賃金と物価の好循環が定着しつつある。OECDや日銀は賃金の伸びが日銀の金融政策正常化を後押しする重要な根拠と位置づけており、実質賃金の改善が個人消費を支えることが期待されている。ただし中東情勢によるエネルギー高騰が実質賃金の上昇を相殺するリスクも残っている。</p>
+            <a class="entry-source" href="https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html" target="_blank" rel="noopener noreferrer">
+              Deloitte <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日本フラッシュPMI、6月に業況持続拡大も投入コスト急伸</h2>
+            <p class="entry-summary">S&amp;Pグローバルの6月日本総合フラッシュPMIは業況の持続的な拡大を示した一方、投入コストの上昇率がほぼ4年ぶりの高さに達した。製造業・サービス業ともに活動が拡大し、中東情勢の落ち着きが需要回復への期待を高めているものの、エネルギー・輸送コストの上昇がスタグフレーション的リスクを高めている。日本のフラッシュPMIは6月23日に公表された。</p>
+            <a class="entry-source" href="https://www.pmi.spglobal.com/" target="_blank" rel="noopener noreferrer">
+              S&amp;P Global PMI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">IMF、日本の2026年成長率0.8%と予測</h2>
+            <p class="entry-summary">IMFは2026年4月の日本との第4条協議を経て、日本の2026年実質GDP成長率を0.8%と予測した。中東紛争に起因する外需の弱体化とエネルギーコスト高騰が下押し要因だが、強い設備投資と個人消費がこれを一部相殺する。日銀には物価目標への収束に向けた漸進的な金融政策正常化の継続を推奨した。</p>
+            <a class="entry-source" href="https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult" target="_blank" rel="noopener noreferrer">
+              IMF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

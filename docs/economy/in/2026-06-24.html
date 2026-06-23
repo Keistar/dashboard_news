@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — IN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; IN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">印EU・FTA、12月署名・来年2〜3月発効へ</h2>
+            <p class="entry-summary">ピユシュ・ゴヤル商工相は6月21日、インドとEUの自由貿易協定（FTA）を12月に署名し、2027年2〜3月に発効させると表明した。1月27日に交渉妥結が宣言された同協定により、インドのEU向け輸出の93%が無関税となり、インド・EU合計でGDPの25%・世界貿易の3分の1を占める巨大経済圏が誕生する。労働集約産業を中心に約750億ドルの輸出拡大が見込まれている。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy/news/india-eu-fta-to-be-signed-by-dec-implemented-from-feb-mar-next-year-goyal-126062100320_1.html" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">RBI・MPC会合議事録を公表、利下げ余地限定と判断</h2>
+            <p class="entry-summary">インド準備銀行（RBI）は6月3〜5日のMPC会合議事録を公表した。2026年のインフレ率は前年比3.9%と予測されRBIの目標値（4%）に近く、前年に合計125ベーシスポイントの利下げを実施したことから追加緩和余地は限定的と判断された。原油価格の動向とモンスーンの進捗が今後のインフレ・成長見通しを左右する主要リスクとして注目されている。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド実質GDPは2026年に6.9%成長と予測―GS</h2>
+            <p class="entry-summary">ゴールドマン・サックスはインドの2026年実質GDP成長率を市場コンサンサスを上回る6.9%と予測した。米印貿易協定の締結による不確実性低下、金融環境の緩和、健全な企業バランスシートが民間設備投資サイクルを後押しすると見込んでいる。2025年に50%もの高関税を米国から課されながら輸出が堅調を維持したことが、インド経済の強靭性を裏付けている。</p>
+            <a class="entry-source" href="https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal" target="_blank" rel="noopener noreferrer">
+              Goldman Sachs <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド、米・イラン停戦でロシア産原油の割引縮小を予想</h2>
+            <p class="entry-summary">米・イラン停戦によりイランや中東産原油が国際市場に再流入する見通しで、インドの精製業者はロシア産原油の割引率縮小を予想している。インドは原油輸入の約85%を海外に依存しており、原油価格が1バレル10ドル上がるだけで年間輸入コストが約1兆ルピー増加する。停戦による原油価格の安定はインドの経常収支赤字縮小・ルピー安定・インフレ抑制に直結する好材料だ。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドの億万長者、2031年に313人へ51%増の見通し</h2>
+            <p class="entry-summary">ナイト・フランクのレポートによれば、インドの億万長者数は2026年の207人から2031年には313人へと51%増加する見通しで、中国・米国を上回る伸び率が予測されている。テクノロジー・工業・資本市場での急速な富の創出が背景にあり、インドは億万長者数で世界3位を維持している。超富裕層（純資産3,000万ドル超）も約2万人から2.5万人以上に増加する見込みだ。</p>
+            <a class="entry-source" href="https://www.bankingfinance.in/industry-news-for-june-2026.html" target="_blank" rel="noopener noreferrer">
+              Banking &amp; Finance India <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド、2025年に風力発電6.3GWを新設し世界2位へ</h2>
+            <p class="entry-summary">ブルームバーグNEFの報告によれば、インドは2025年に6.3GW（前年比85%増）の風力発電を新設し、中国を除く世界最大の風力市場となった。アダニ・グリーンエナジー、スズロン、イノックスウィンドなど国内メーカーの参入拡大が寄与しており、2030年までに累計30GWの風力容量追加が計画されている。送電インフラ整備が進む2026年以降に再び拡大ペースが加速する見通しだ。</p>
+            <a class="entry-source" href="https://www.bankingfinance.in/industry-news-for-june-2026.html" target="_blank" rel="noopener noreferrer">
+              Banking &amp; Finance India <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドが世界最大の送金受取国、2024年に1,370億ドル超</h2>
+            <p class="entry-summary">国際移住機関（IOM）の「世界移住報告書2026」によれば、インドは2024年に1,370億ドル超の送金を受け取り世界最大の送金受取国の地位を維持した。南アジア地域は2024年に世界最高の送金成長率を記録しており、海外就労者・ディアスポラからの収入がインド経済と家計消費を支える重要な柱となっている。</p>
+            <a class="entry-source" href="https://www.bankingfinance.in/industry-news-for-june-2026.html" target="_blank" rel="noopener noreferrer">
+              Banking &amp; Finance India <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">モンスーン弱体化・エルニーニョリスクが農業・食料インフレに影</h2>
+            <p class="entry-summary">降雨量の弱まりとエルニーニョリスクの高まりにより、インドの農業生産・食料インフレ・農村消費・全体的な経済成長が下押し圧力を受けるリスクが浮上している。農業部門はGDPの約15%・雇用の44%を占めており、モンスーンの出来が農村購買力・FMCG・肥料・トラクター市場に直結する。RBIはインフレ見通しへの影響を注視しながら金融政策の調整を慎重に検討している。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
