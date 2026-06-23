@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #0f0d07;
     --line: #342a08;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,85 +101,85 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 07:38 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">米FRB、政策金利据え置き―利上げ示唆に転換</h2>
-            <p class="entry-summary">ケビン・ウォーシュ新FRB議長のもと、FOMCは6月17日に政策金利を3.5〜3.75%で据え置いた。ただしドットプロットでは18人中9人が年内利上げを予想し、2026年末の中央値が3.8%に上方修正されるなど、明確なタカ派転換を示した。インフレ率が3年ぶり高水準に達するなか、市場はS&amp;P500が約0.6%下落するなど利上げリスクを織り込んでいる。</p>
-            <a class="entry-source" href="https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html" target="_blank" rel="noopener noreferrer">
-              CNBC <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">SpaceX株が急落、時価総額4000億ドル消失</h2>
+            <p class="entry-summary">SpaceXは6月12日のIPO後に急騰したが、月曜日に16.4%下落し時価総額4000億ドルが一日で失われた。株価は154.60ドルで引け、依然IPO価格135ドルを上回るが、ピーク時の225ドルから約23%下落した。Bloomberg報道の200億ドル規模の社債発行計画が投資家を動揺させ、AI投資の資金調達負担への懸念が広がっている。</p>
+            <a class="entry-source" href="https://fortune.com/2026/06/23/stock-markets-fed-interest-rate-expectations-400-billion-spacex/" target="_blank" rel="noopener noreferrer">
+              Fortune <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">米・イラン和平MOU署名、ホルムズ海峡再開へ</h2>
-            <p class="entry-summary">米国とイランは6月中旬にジュネーブで停戦の覚書（MOU）に署名し、ホルムズ海峡の無料通行再開と米海軍封鎖解除で合意した。同海峡封鎖で日量1,400万バレルの供給が失われていたが、合意を受けて原油価格は2026年高値から約20%急落し世界の株式市場が急騰した。ただし海峡の完全正常化には数か月を要するとみられている。</p>
-            <a class="entry-source" href="https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war" target="_blank" rel="noopener noreferrer">
-              Al Jazeera <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Fed、利上げを視野に政策金利据え置き</h2>
+            <p class="entry-summary">FOMCは6月17日、政策金利を3.50〜3.75%で据え置くことを全会一致で決定した。しかしドットプロットでは今年末の中央値を3.8%に引き上げ、9名のメンバーが少なくとも1回の利上げを支持するタカ派的な姿勢を示した。新議長ケビン・ウォーシュ氏の初の会合であり、PCEインフレ見通しも3.6%に大幅上方修正された。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">トランプ関税、最高裁違憲判決後も新展開</h2>
-            <p class="entry-summary">最高裁がIEEPA根拠の「相互関税」を違憲と判断した後、トランプ政権は代替措置として暫定10%の世界一律関税を導入し、7月には追加関税復活の可能性が高まっている。財務省のベッセント長官は関税が旧水準に戻る可能性を示唆しており、市場は新たなトレードサーガの幕開けとして警戒を続けている。医薬品関税も2026年後半に最大200%に引き上げられる可能性がある。</p>
-            <a class="entry-source" href="https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs" target="_blank" rel="noopener noreferrer">
-              J.P. Morgan Global Research <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">BofA、Fed今年3回利上げを警告</h2>
+            <p class="entry-summary">バンク・オブ・アメリカはFOMCのタカ派シフトを受け、FRBが今年3回の利上げを実施し昨年の利下げを覆す可能性があると警告した。5月CPI前年比4.2%はイラン紛争による原油価格急騰が主因で2023年4月以来の高水準となっており、インフレ長期化懸念が強まっている。</p>
+            <a class="entry-source" href="https://fortune.com/2026/06/23/stock-markets-fed-interest-rate-expectations-400-billion-spacex/" target="_blank" rel="noopener noreferrer">
+              Fortune <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">S&amp;P500企業、Q1増益28%の好決算</h2>
-            <p class="entry-summary">S&amp;P500構成企業の2026年第1四半期売上高は前年比11.7%増、利益は28%増と市場予想を大幅に上回った。高い関税不確実性や原油高にもかかわらず企業業績が堅調で、6月3日時点でS&amp;P500は4月安値から中小型株を中心に60%超の回復を達成している。好決算が株高の根拠として投資家心理を支えている。</p>
-            <a class="entry-source" href="https://www.usbank.com/investing/financial-perspectives/market-news/stock-market-under-trump.html" target="_blank" rel="noopener noreferrer">
-              U.S. Bank <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">米・イラン覚書に署名、ホルムズ海峡再開合意</h2>
+            <p class="entry-summary">米国とイランは金曜日に覚書（MoU）に署名し、米国がイラン港の海軍封鎖を解除する代わりにイランがホルムズ海峡を再開放することで合意した。この合意を受けて世界の金融資産価格が上昇し、原油価格は下落してブレント原油は1バレル77ドル前後となった。ただし最終的な平和合意ではなく、今後60日間でイランの核開発問題について協議が続く予定。</p>
+            <a class="entry-source" href="https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html" target="_blank" rel="noopener noreferrer">
+              Deloitte Insights <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">CBO、財政赤字10年累計23.1兆ドルと試算</h2>
-            <p class="entry-summary">米議会予算局（CBO）は2026〜2035年の財政赤字累計が23.1兆ドルに達すると予測し、GDP比で債務残高は2036年に120%まで上昇すると警告した。2026年度単年の赤字はGDP比5.8%（1.9兆ドル）で、「ワン・ビッグ・ビューティフル・ビル法」による減税がその主因とされる。急膨張する利払い費が中長期的な財政を圧迫するリスクが高まっている。</p>
-            <a class="entry-source" href="https://www.cbo.gov/publication/62105" target="_blank" rel="noopener noreferrer">
-              Congressional Budget Office <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">ナスダック急落、テック株全面安</h2>
+            <p class="entry-summary">ナスダック総合指数は1.4%超下落し時価総額6800億ドルが消失、マイクロン株は9%下落した。AMDは5.7%、インテルは2.4%、エヌビディアは2.8%それぞれ下落し、マグニフィセント7のうち6銘柄が下押しを受けた。Fed利上げ観測の強まりとSpaceX株の急落が連鎖的にハイテク株全体を圧迫した。</p>
+            <a class="entry-source" href="https://www.aljazeera.com/economy/2026/6/23/spacex-shares-drop-below-debut-price-before-jumping-amid-600bn-sell-off" target="_blank" rel="noopener noreferrer">
+              Al Jazeera <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">米雇用、月平均18.8万人増で労働市場堅調</h2>
-            <p class="entry-summary">直近3か月の米非農業部門雇用者数は月平均18.8万人増と力強く、失業率は4.3%に留まっている。強い雇用とインフレ（CPI前年比4.2%）の組み合わせがFRBの利下げ余地を一層狭め、年内利上げ観測が市場で高まっている。雇用市場の底堅さが消費支出を下支えし、景気後退リスクは相対的に低いと評価されている。</p>
-            <a class="entry-source" href="https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting" target="_blank" rel="noopener noreferrer">
-              NPR <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">米Q1設備投資10%超増、雇用も堅調</h2>
+            <p class="entry-summary">財務省は2026年第1四半期の設備投資が前年比10%超増加し、月平均民間雇用者数も2025年通年平均比2.5倍以上に急増したと発表した。トランプ政権は「大美しい法案」による大型減税と規制緩和による企業投資拡大を成長の柱として挙げている。ただし3月から5月の3ヵ月でCPIが年率換算8%以上のペースで上昇しており、インフレとの綱引きが続く。</p>
+            <a class="entry-source" href="https://home.treasury.gov/news/press-releases/sb0486" target="_blank" rel="noopener noreferrer">
+              U.S. Department of the Treasury <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">AIメモリ株急落、テック相場に冷や水</h2>
-            <p class="entry-summary">AIトレードへの懸念が再燃し、大手メモリチップメーカーの株価が急落するなど米ハイテク株が売り圧力に直面している。サイバーセキュリティ各社もAI競合の台頭への懸念から株価が下落し、市場の焦点はイラン和平の楽観ムードとAI投資の持続性懸念との綱引きとなっている。ビットコインは一時6.2万ドルを割り込み暗号資産市場にも動揺が広がった。</p>
-            <a class="entry-source" href="https://finance.yahoo.com/" target="_blank" rel="noopener noreferrer">
-              Yahoo Finance <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">米、60カ国に強制労働調査でタリフ検討</h2>
+            <p class="entry-summary">トランプ政権はEUを含む60カ国を対象に強制労働関連の輸入品への関税（10〜12.5%）を検討する調査を開始した。最高裁による「相互関税」違法判決で一時打撃を受けたものの、行政は高関税貿易環境の維持に強い意欲を見せている。EUとの間には昨年貿易協定が成立したが、新たな摩擦再燃のリスクが高まった。</p>
+            <a class="entry-source" href="https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html" target="_blank" rel="noopener noreferrer">
+              Deloitte Insights <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">PCEインフレ3.6%予測、米実質GDPは2.2%成長見通し</h2>
-            <p class="entry-summary">FRBは2026年末のPCEインフレ予測を3.6%（3月時点2.7%）に大幅上方修正する一方、実質GDP成長率予測は2.2%へ下方修正した。中東紛争に伴うエネルギー高騰が物価を押し上げる一方、財政出動と法人・個人減税（「ワン・ビッグ・ビューティフル・ビル法」）が成長を下支えする構図となっている。成長とインフレが同時に悩ましい「スタグフレーション的」リスクが意識されている。</p>
-            <a class="entry-source" href="https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-june-17-2026" target="_blank" rel="noopener noreferrer">
-              Fox Business <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">ゴールドマン、米景気後退リスク15%に引き下げ</h2>
+            <p class="entry-summary">ゴールドマン・サックスは米・イラン暫定合意を受けて米国の景気後退リスクを15%に引き下げた。原油価格下落により消費者物価への圧力緩和が期待され、JPモルガンも下半期の消費関連セクター買いを推奨した。ただし市場はFedの次の一手を依然として注視しており、6月25日発表予定のPCEインフレデータが短期的な焦点となっている。</p>
+            <a class="entry-source" href="https://www.investing.com/news/economic-indicators/german-business-activity-hits-18month-low-in-june-pmi-shows-4754721" target="_blank" rel="noopener noreferrer">
+              Investing.com <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

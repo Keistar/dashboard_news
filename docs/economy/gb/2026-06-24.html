@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #0f0d07;
     --line: #342a08;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,85 +101,85 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 07:38 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">スターマー首相が辞任、英政界に激震</h2>
-            <p class="entry-summary">キア・スターマー英首相は6月22日に辞任を表明し、英国はこの10年で7人目の首相を迎えることになる見通しだ。後継最有力候補はアンディ・バーナム前マンチェスター市長で、9月までに正式就任する見込み。スターマーは暫定首相として在任を続け、党首選挙は7月9日から開始される。</p>
-            <a class="entry-source" href="https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns" target="_blank" rel="noopener noreferrer">
-              NPR <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">スターマー首相が辞意表明、バーナムが有力後継候補に</h2>
+            <p class="entry-summary">キア・スターマー首相は6月22日、労働党議員の過半数の信任を失ったとして辞意を表明した。就任から2年未満での辞任となり、アンディ・バーナム前グレーター・マンチェスター市長が有力な後継候補として浮上している。バーナム氏は6月18日のメイカーフィールド補欠選挙で国会議員に当選したばかりで、7月9日に指名受付が開始される党首選に出馬を表明した。</p>
+            <a class="entry-source" href="https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over" target="_blank" rel="noopener noreferrer">
+              Al Jazeera <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">FTSE100、スターマー辞任後も底堅く推移</h2>
-            <p class="entry-summary">6月23日のFTSE100は前日比約0.7%下落し10,363ポイント付近で推移したが、国際的な収益基盤を持つ大型株が多いため政治的混乱への耐性を示した。ポンドは対ドルで約1.319ドルと2026年以来の安値圏で推移し、10年物英国債利回りは4.85%に小幅上昇した。テクセクターの世界的な売り圧力も重なり、投資家心理は慎重だ。</p>
-            <a class="entry-source" href="https://sundayguardianlive.com/business/uk-stock-market-today-ftse-100-ftse-250-and-ftse-350-trading-lower-amid-pm-starmers-resignation-geopolitical-tensions-what-investors-should-watch-211755/" target="_blank" rel="noopener noreferrer">
-              Sunday Guardian Live <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">FTSE100が0.72%高、政治混乱後に回復</h2>
+            <p class="entry-summary">スターマー辞任表明後に一時FTSE250や英ポンドが下落したが、バーナム氏が有力後継と判明すると市場は反発しFTSE100は0.72%高の10,437.85で引けた。10年国債利回りは4bps低下して4.80%となり、ギルト市場も落ち着きを取り戻した。ホルムズ海峡再開合意に伴う原油安も投資家心理改善に寄与した。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-23-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA – Credit Protection Association <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">英中央銀行、ステーブルコイン規制を大幅緩和</h2>
-            <p class="entry-summary">イングランド銀行は金融業界からの競争力低下懸念を受け、ステーブルコイン規制の枠組みを見直した。顧客預金の上限規定を撤廃し、スターリング建てステーブルコインの総額を暫定的に400億ポンドに制限するとともに、中央銀行準備金の保有比率を40%から30%に引き下げた。副総裁のサラ・ブリーデン氏は「英国決済の大きな節目」と評価した。</p>
-            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-23-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
-              CPA / Credit Protection Association <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">6月フラッシュ・サービスPMIが48.7と大幅下振れ</h2>
+            <p class="entry-summary">英国の6月サービス業フラッシュPMIは48.7と市場予想50.1を大きく下回り、高金利と消費需要の減退が企業活動を圧迫していることが鮮明になった。英国は先進国の中で最もガス依存度が高く中東エネルギーショックに脆弱で、IMFも英国のインフレ・成長見通しを他の主要経済国より大幅に下方修正している。RSMUKは「スタグフレーション・ライト」が基本シナリオと指摘した。</p>
+            <a class="entry-source" href="https://investinglive.com/news/investinglive-european-fx-news-wrap-eurozone-pmis-stabilise-uk-data-disappoints-20260623/" target="_blank" rel="noopener noreferrer">
+              investingLive <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">英中銀、政策金利3.75%を維持―イラン情勢を注視</h2>
-            <p class="entry-summary">イングランド銀行は6月の金融政策委員会（MPC）で政策金利を3.75%に据え置いた。中東紛争がインフレに与える影響は「予測困難」と認め、利上げと利下げの双方の可能性を排除しなかった。英国の5月の消費者物価指数は前年比2.8%と変わらずで、エネルギー価格の動向が年後半の金融政策を大きく左右する見通しだ。</p>
-            <a class="entry-source" href="https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html" target="_blank" rel="noopener noreferrer">
-              T. Rowe Price <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">英Q1GDP0.6%増、サービス・製造・建設が3業種そろって拡大</h2>
+            <p class="entry-summary">英国の2026年第1四半期GDP成長率は前期比0.6%と、2025年後半の低迷から回復した。サービス業・製造業ともに0.8%増とバランスの取れた成長を示した。ただし中東紛争を受けたエネルギー価格高騰と政治的不安定が第2四半期以降の下押しリスクとなっており、通年では1.0%前後にとどまる見通し。</p>
+            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
+              UK Finance <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">英GDP、Q1に前期比0.6%成長―製造・サービスが牽引</h2>
-            <p class="entry-summary">英国の2026年第1四半期GDPは前期比0.6%成長と2025年後半の低迷から回復し、製造業・サービス業・建設業すべてが拡大した。ただしRSM UKは中東情勢の長期化リスクと労働党指導部交代の不確実性から「スタグフレーション軽度版」を基本シナリオとし、最悪の場合は年後半の小幅景気後退も否定できないと警告している。通年のGDP成長率は1.0%が基本予測だ。</p>
-            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
-              UK Finance <span aria-hidden="true">&#8599;</span>
-            </a>
-          </div>
-        </li>
-        <li class="entry">
-          <span class="entry-index">06</span>
-          <div class="entry-body">
-            <h2 class="entry-title">英中小企業向け融資、Q1に前年比16%増</h2>
-            <p class="entry-summary">UKファイナンスの調査によれば、2026年第1四半期の中小企業（SME）向け融資は前年比16%増の53億ポンドに達し、2024年末以来最大の伸びを記録した。改善したビジネスセンチメントと金融緩和の効果が融資需要を底上げした形で、承認額の増加は最小規模の企業で特に顕著だった。ただし中東紛争の影響が第2四半期以降の貸し出しに水を差す懸念もある。</p>
-            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
-              UK Finance <span aria-hidden="true">&#8599;</span>
-            </a>
-          </div>
-        </li>
-        <li class="entry">
-          <span class="entry-index">07</span>
-          <div class="entry-body">
-            <h2 class="entry-title">英インフレ、エネルギー高で年末3.5%へ上昇予測</h2>
-            <p class="entry-summary">RSM UKはホルムズ海峡封鎖に伴うエネルギー高騰を受け、英国の2026年平均インフレ率を3.1%、年末には3.5%まで上昇すると予測した。7月のエネルギー料金上限13%引き上げと燃料費の上昇が家計を直撃し、IMFは英国を先進国の中でインフレ・成長見通しを最も大きく下方修正した国の一つと指摘している。イングランド銀行は利上げも排除できず、政策の舵取りが難しさを増している。</p>
+            <h2 class="entry-title">英インフレ、7月エネルギー価格上限13%引き上げで3.5%へ</h2>
+            <p class="entry-summary">RSMUKは7月のエネルギー価格上限引き上げ（13%）と燃料費転嫁によりインフレが年末までに3.5%に達すると予測した。英国中央銀行（BoE）は金利を3.75%で据え置く公算が大きく、利下げ再開は遠のいた。政治的不確実性による追加の国債利回り上昇リスクも重なり、家計・企業の借入コストは高止まりが続く見通し。</p>
             <a class="entry-source" href="https://www.rsmuk.com/insights/real-economy/uk-economic-outlook" target="_blank" rel="noopener noreferrer">
               RSM UK <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
-          <span class="entry-index">08</span>
+          <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">英決済詐欺被害、2025年に12.8億ポンドで4%増</h2>
-            <p class="entry-summary">UKファイナンスの年次詐欺報告書によれば、2025年の英国における決済詐欺被害額は12.8億ポンドと前年比4%増加し、詐欺が「産業規模」で行われる国家安全保障上の脅威であると改めて警告した。デジタル金融取引の拡大に伴い、サイバー詐欺や振込詐欺の手口が精巧化しており、金融機関と当局の連携強化が急務となっている。</p>
+            <h2 class="entry-title">英中銀がステーブルコイン規制を改定、競争力を重視</h2>
+            <p class="entry-summary">イングランド銀行は業界からの懸念を受けてステーブルコイン規制の枠組みを改定し、顧客預金の上限を撤廃する一方でスターリング建てステーブルコイン全体に400億ポンドの暫定上限を設けた。中央銀行準備金への預け入れ比率も40%から30%に引き下げた。副総裁のサラ・ブリーデン氏は「英国の決済分野にとって重要なマイルストーン」と評した。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-23-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA – Credit Protection Association <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SMEへの銀行融資が16%増、Q1に前年比拡大</h2>
+            <p class="entry-summary">UK Financeによると、2026年第1四半期の中小企業（SME）向け融資は前年比16%増の53億ポンドに達した。新政権発足後の予算改善期待と需要見通しの安定化が中小企業の資金需要を後押しした。ただし高金利環境とエネルギーショックによる不確実性が続いており、第2四半期には融資需要が落ち込む可能性がある。</p>
             <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
               UK Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">失業率が5.1〜5.2%に上昇、雇用主NI引き上げが打撃</h2>
+            <p class="entry-summary">2025年4月に施行された雇用主向け国民保険（NI）料率引き上げと成長鈍化が重なり、英国の失業率は5.1〜5.2%台に上昇した。賃金上昇率は高水準から鈍化しつつあり、実質家計所得への圧力が再燃している。OECDは英国に対して成長見通し下振れと失業率上昇を警告しており、新首相のもとでの財政運営が焦点となる。</p>
+            <a class="entry-source" href="https://www.newsnow.co.uk/h/Business+&amp;+Finance/Economy/International/UK?type=ln" target="_blank" rel="noopener noreferrer">
+              NewsNow UK Economy <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

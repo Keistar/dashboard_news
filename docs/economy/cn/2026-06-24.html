@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #0f0d07;
     --line: #342a08;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,84 +101,84 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 07:38 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国Q1GDP成長率5.0%、輸出は4か月で15%増</h2>
-            <p class="entry-summary">中国の2026年第1四半期GDP成長率は前年比5.0%と前四半期から改善し、2026年目標（4.5〜5.0%）の達成に向け順調なスタートを切った。2026年1〜4月の輸出は前年比15%増と好調を維持し、AIブームと脱炭素移行が構造的な下支え要因となっている。一方で不動産投資が1〜5月に前年比16.2%減少するなど内需の弱さが課題として残っている。</p>
-            <a class="entry-source" href="https://www.usbank.com/investing/financial-perspectives/market-news/chinas-economic-influence.html" target="_blank" rel="noopener noreferrer">
-              U.S. Bank <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">固定資産投資1〜5月で4.1%減、コロナ後最大の落ち込み</h2>
+            <p class="entry-summary">中国国家統計局が発表した2026年1〜5月の固定資産投資は前年比4.1%減と、2020年のコロナ禍以来最大の落ち込みとなった。不動産開発投資が16.2%急落し主な下押し要因となっており、製造業投資も0.4%増にとどまった。中国内需低迷の長期化を示す指標として市場に懸念が広がっている。</p>
+            <a class="entry-source" href="https://tradingeconomics.com/china/fixed-asset-investment" target="_blank" rel="noopener noreferrer">
+              Trading Economics <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">PBOCが利率政策に「様子見」姿勢、追加緩和見送りへ</h2>
-            <p class="entry-summary">人民銀行（PBOC）は中東情勢の緩和と物価の小幅反転を受け、残り期間の利下げ・預金準備率引き下げを見送る「様子見」姿勢に転換したとBBVAリサーチが指摘した。PBOCは短期リバースレポ活用拡大と人民元の海外利用促進策など金融市場の機能改善措置を発表している。2026年の消費者物価指数（CPI）見通しは1.2%、PPI見通しは1.4%に上方修正された。</p>
-            <a class="entry-source" href="https://www.bbvaresearch.com/en/publicaciones/china-economic-outlook-june-2026/" target="_blank" rel="noopener noreferrer">
-              BBVA Research <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">5月小売売上高が前年比マイナスに転落</h2>
+            <p class="entry-summary">5月の小売売上高は前年比0.6%減と、2022年12月以来初めてマイナス成長に陥った。不動産市場の低迷が家計資産を毀損し消費意欲を一段と冷やしており、北京による大規模財政刺激も内需回復に結びついていない状況だ。不動産価格は2021年8月のピーク比22.5%下落と、底打ちの気配が見えない。</p>
+            <a class="entry-source" href="https://economy.ac/news/2026/06/202606289352" target="_blank" rel="noopener noreferrer">
+              The Economy <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国不動産、新築価格下落続くが一線都市は3か月連続上昇</h2>
-            <p class="entry-summary">2026年5月の中国全土の新築住宅価格は4月より速いペースで下落し、不動産セクターは引き続き経済の重荷となっている。ただし北京・上海など一線都市では3か月連続で価格が上昇しており、政策支援が大都市に限定的な効果を発揮し始めているとみられる。不動産投資は1〜5月で前年比16.2%減と落ち込みが続いており、回復は地域間で不均一だ。</p>
-            <a class="entry-source" href="https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html" target="_blank" rel="noopener noreferrer">
-              T. Rowe Price <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">5月輸出が前年比19.4%増、半導体輸出は110%増</h2>
+            <p class="entry-summary">中国の5月輸出は前年比19.4%増と高水準を維持し、半導体輸出は同110%増、携帯電話は44%増、自動データ処理機器は66%増となった。AI関連需要の急拡大と中東紛争によるサプライチェーン分断への備えが輸出を押し上げているとみられる。一方、輸出好調が続く反面、内需の弱さとの二極化が経済構造上の課題となっている。</p>
+            <a class="entry-source" href="https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html" target="_blank" rel="noopener noreferrer">
+              Deloitte Insights <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国、EU・グローバルサウス向け輸出多角化を加速</h2>
-            <p class="entry-summary">対米輸出が前年比10%減少する中、中国は東南アジア・欧州・アフリカ・中東向けの輸出を拡大し、2025年の貿易黒字は約1.2兆ドルと過去最大を記録した。人民元建て貿易はサウジアラビア・ブラジル・インドネシアなどとの通貨スワップ協定を通じて拡大しており、上海黄金取引所も人民元建て契約の海外展開を進めている。米国依存からの脱却を図る「南南協力」が中国の中期戦略の核心となっている。</p>
-            <a class="entry-source" href="https://english.ckgsb.edu.cn/knowledge/article/china-economic-consolidation-and-strategic-shifts-in-2026/" target="_blank" rel="noopener noreferrer">
-              CKGSB Knowledge <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">5月鉱工業生産4.5%増、期待以下の伸び</h2>
+            <p class="entry-summary">5月の鉱工業生産は前年比4.5%増となり市場予想の4.3%をわずかに上回ったが、直近2年間の平均と比べると低めの水準にとどまった。製造業が4.4%増、公益事業が7.6%増となった一方、投資関連指標との乖離が続いている。当局は内需梃入れを狙った景気対策を継続しているが、構造的な需要不足の解消には時間を要する見通し。</p>
+            <a class="entry-source" href="https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html" target="_blank" rel="noopener noreferrer">
+              Deloitte Insights <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">アリババが新世代AIチップ「真武」と新LLMを発表</h2>
-            <p class="entry-summary">アリババは独自開発の高性能AIチップ「真武（Zhenwu）」と大規模言語モデル（LLM）の新バージョンを発表し、中国テック企業によるAI半導体内製化の動きが加速していることを示した。NVIDIAは対中AI半導体市場をほぼ華為（Huawei）に明け渡したと認めており、中国国内でのAIエコシステムが独自路線で発展している。米中間のAIチップ覇権争いは2026年の重要テーマとなっている。</p>
-            <a class="entry-source" href="https://www.cnbc.com/china-markets/" target="_blank" rel="noopener noreferrer">
-              CNBC <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">PBoCが「様子見」姿勢、年内利下げなしの見通し</h2>
+            <p class="entry-summary">BBVAリサーチは2026年の中国CPIを1.2%、PPIを1.4%に上方修正した上で、中国人民銀行（PBoC）が主要中央銀行同様に「様子見」の姿勢をとり年内は利下げ・預金準備率引き下げをともに見送ると予測した。輸出とAI産業はプラスの推進力となっているが、不動産低迷が持続し家計消費を重石し続けている。</p>
+            <a class="entry-source" href="https://www.bbvaresearch.com/en/publicaciones/china-economic-outlook-june-2026/" target="_blank" rel="noopener noreferrer">
+              BBVA Research <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国、ボーイング機200機を正式発注―米中協力の象徴</h2>
-            <p class="entry-summary">中国がボーイング製航空機200機の発注を正式確認し、航空分野を米中協力の重点領域と位置づけた。トランプ訪中後に米中関係の緊張が部分的に緩和し、AI技術の対中輸出拡大など実務的な協議が進んでいる。ただしAPEC会合では貿易問題での隔たりが依然大きく、両国が完全な和解に至るには長い道のりが残っている。</p>
-            <a class="entry-source" href="https://www.cnbc.com/china-markets/" target="_blank" rel="noopener noreferrer">
-              CNBC <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">不動産価格、主要4都市でマイナス続く</h2>
+            <p class="entry-summary">5月の新築住宅価格は北京で前年比2.1%、広州3.3%、深センで4.5%それぞれ下落した。第2・第3線都市でも2〜4%台の下落が続いており、取引件数は5年前比53.8%減と壊滅的水準だ。当局は銀行によるホワイトリスト融資の満期延長（最長5年）などの支援策を実施しているが、回復の兆しは見えていない。</p>
+            <a class="entry-source" href="https://economy.ac/news/2026/06/202606289352" target="_blank" rel="noopener noreferrer">
+              The Economy <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国第15次五か年計画、AIとグリーン経済を最優先</h2>
-            <p class="entry-summary">2026年3月の全国人民代表大会で採択された第15次五か年計画（2026〜30年）は、AI・半導体・脱炭素技術への集中投資を核心に据え、R&amp;D支出を年率7%以上拡大する目標を掲げた。デジタル経済のGDP比率を2030年までに12.5%に高め、モバイル技術・デジタル転換で2兆ドルの付加価値を創出する計画だ。技術的自立を最優先とする供給サイド主導の成長戦略が中国の中長期路線として確立されている。</p>
-            <a class="entry-source" href="https://www.db.com/news/detail/20260331-china-s-2026-economic-blueprint-navigating-a-path-of-stability-and-strategic-growth?language_id=1" target="_blank" rel="noopener noreferrer">
-              Deutsche Bank Private Bank <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">国務院が外資活用安定策の記者会見を開催</h2>
+            <p class="entry-summary">国務院情報弁公室は6月22日、外国直接投資（FDI）の安定・最適化に向けた政策措置について記者会見を開催した。FDIは近年減少傾向が続いており、中国経済の構造転換期における外資誘致強化が喫緊の課題となっている。15次五カ年計画（2026〜2030年）では技術自立、デジタル経済、グリーン製造を重点戦略として位置づけている。</p>
+            <a class="entry-source" href="https://www.scmp.com/economy" target="_blank" rel="noopener noreferrer">
+              South China Morning Post <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">新民間航空法施行、ドローン物流が合法化</h2>
-            <p class="entry-summary">2026年中頃に施行された中国の新民間航空法により、物流・緊急サービス向け商業ドローン利用の法的枠組みが整備された。eコマース・医療・物流プラットフォームでは業種特化型（垂直型）AIモデルの実用化が進んでおり、ロボティクスとAIを組み合わせた産業オートメーションが急速に拡大している。このような「垂直AI」と無人機分野が中国の次なる輸出競争力の源泉として注目されている。</p>
-            <a class="entry-source" href="https://english.ckgsb.edu.cn/knowledge/article/china-economic-consolidation-and-strategic-shifts-in-2026/" target="_blank" rel="noopener noreferrer">
+            <h2 class="entry-title">中国輸出依存モデルに危うさ、内需回復が急務</h2>
+            <p class="entry-summary">デロイトの週次レポートは、中国経済が輸出主導の成長に依存する構図が続く一方、内需の弱さが深刻化していると指摘した。2025年貿易黒字は約1.2兆ドルと過去最高を記録したが、貿易相手国との摩擦拡大リスクも高まっている。貿易黒字の縮小なくして中国の持続的成長は難しいとの見方が多く、内需主導への転換が経済政策の最重要課題となっている。</p>
+            <a class="entry-source" href="https://english.ckgsb.edu.cn/knowledge/article/china-2026-a-year-of-consolidation/" target="_blank" rel="noopener noreferrer">
               CKGSB Knowledge <span aria-hidden="true">&#8599;</span>
             </a>
           </div>

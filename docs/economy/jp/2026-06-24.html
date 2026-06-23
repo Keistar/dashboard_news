@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #0f0d07;
     --line: #342a08;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,13 +101,13 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 01:13 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 07:38 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">日銀、政策金利を1.0%に引き上げ―30年ぶり高水準</h2>
-            <p class="entry-summary">日本銀行は6月15〜16日の金融政策決定会合で、政策金利を0.25%引き上げ1.0%とした（7対1の賛成多数）。中東紛争によるエネルギー高騰が国内物価を押し上げるリスクに対応したもので、1995年9月以来の最高水準となる。日銀は引き続きJGB購入を四半期200億円ずつ縮小し、2027年4月に月2兆円で停止する計画を維持した。</p>
+            <h2 class="entry-title">日銀が政策金利を1%に引き上げ、1995年以来の高水準</h2>
+            <p class="entry-summary">日本銀行は6月16日の金融政策決定会合で7対1の賛成多数により政策金利を0.75%から1.00%に引き上げた。1995年以来31年ぶりの高水準であり、イラン紛争による原油高でインフレ圧力が高まる中での引き締めとなった。日銀は四半期ごとに国債購入額を2000億円削減するQT（量的引き締め）も継続し、2027年4月以降は月2兆円購入を維持する方針を示した。</p>
             <a class="entry-source" href="https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html" target="_blank" rel="noopener noreferrer">
               CNBC <span aria-hidden="true">&#8599;</span>
             </a>
@@ -114,70 +116,70 @@
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">円、対ドル160円台で推移―介入警戒続く</h2>
-            <p class="entry-summary">円相場は対ドル160円台を中心に推移しており、日本の通貨当局が「介入のレッドライン」として警戒している水準に達している。日銀が5月に11.7兆円規模の介入を実施したにもかかわらず、円は再び160円台まで下落しており、利上げなき介入の限界が指摘されている。日米金利差（最大3.0%ポイント）に起因するキャリートレードが円安圧力の主因となっている。</p>
-            <a class="entry-source" href="https://www.cnbc.com/2026/05/07/japan-yen-intervention-boj-rate-gap-currency-pressure.html" target="_blank" rel="noopener noreferrer">
-              CNBC <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">円相場が160円台に再び下落、介入警戒高まる</h2>
+            <p class="entry-summary">日銀の利上げ後も円相場は1ドル160円台に戻り、2024年7月以来の円安水準となった。Bloombergは18日時点で160円80銭まで下落したと報じており、為替介入リスクへの警戒感が高まっている。日本の財務省は4月末〜5月にかけて11.7兆円規模の円買い介入を実施したが、その効果は一時的にとどまっている。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-17/yen-slides-to-weakest-level-versus-dollar-since-july-2024-mqih9kot" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">日本の輸出、5月に前年比17%増―IT部品・自動車けん引</h2>
-            <p class="entry-summary">日本の2026年5月の通関輸出額は前年比17.0%増と市場予想（16.2%増）を上回り、テック部品・自動車・非鉄金属が主要な押し上げ要因となった。機械受注も4月に前月比8.7%増と大きく回復しており、企業の設備投資意欲が底堅いことが確認された。円安効果と世界的なIT需要回復が輸出統計を支えている。</p>
-            <a class="entry-source" href="https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html" target="_blank" rel="noopener noreferrer">
-              T. Rowe Price <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">5月卸売物価が前年比6.3%増、3年超ぶりの高伸び率</h2>
+            <p class="entry-summary">5月の企業物価指数（PPI）は前年比6.3%上昇と2023年3月以来最高を記録し、エネルギーコスト上昇が主因となった。日銀は取引価格段階での価格転嫁が速いペースで進んでいることを指摘し、幅広い品目の消費者物価への波及を警戒している。副総裁の氷見野良三氏は「基調インフレが2%目標を上振れるリスクがある」と議会で述べ、追加利上げへの布石を打った。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/06/11/economy/boj-preview-june-meeting-2026/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">日銀副総裁、追加利上げ継続の姿勢を強調</h2>
-            <p class="entry-summary">日銀の氷見野良三副総裁は議会委員会で、実質金利が「極めて低い水準」にあるとして追加利上げを続ける姿勢を改めて表明した。中東紛争による卸売物価の上昇が幅広い価格転嫁に波及するリスクがあるとして警戒感を示した。次回利上げのタイミングはインフレ・賃金・景気データ次第だが、市場では2026年末までに政策金利が1.25%に達するとの観測が高まっている。</p>
-            <a class="entry-source" href="https://tradingeconomics.com/japan/interest-rate" target="_blank" rel="noopener noreferrer">
-              Trading Economics <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">日銀植田総裁が肝嚢胞感染で入院、副総裁が会合を主宰</h2>
+            <p class="entry-summary">日銀の植田和男総裁が肝嚢胞感染のため入院し、6月の金融政策決定会合を欠席した。会合は氷見野良三副総裁が議長を務め、7対1で利上げを決定した。総裁不在での重要政策決定という異例の事態に市場は注目した。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/06/11/economy/boj-preview-june-meeting-2026/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">米・イラン和平でイラン原油流入へ、日本精製業者が注目</h2>
-            <p class="entry-summary">米・イラン停戦合意を受けて、イランなど中東産の原油が国際市場に回帰するとの期待からロシア産原油の割引率縮小が見込まれている。日本精製業者にとっては中東産原油の調達コスト低下が見込まれる一方、ホルムズ海峡の完全再開には数か月を要するとされ、短期的なエネルギーコスト改善には時間がかかるとみられている。エネルギー輸入依存度の高い日本にとって停戦進展は経済的追い風だ。</p>
-            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
-              Business Standard <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">日銀、タカ派スタンスを堅持、中東情勢を注視</h2>
+            <p class="entry-summary">日銀は声明で「経済・物価・金融情勢の発展に応じて引き続き利上げを行う」と明記し、タカ派スタンスを維持した。ホルムズ海峡の再開合意への期待が供給ショックの不確実性を低下させ、日銀に政策正常化を再開する自信を与えたと分析されている。次の利上げタイミングは中東情勢の展開と国内物価データ次第とされている。</p>
+            <a class="entry-source" href="https://tradingeconomics.com/japan/interest-rate" target="_blank" rel="noopener noreferrer">
+              Trading Economics <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">春闘で5%超の賃上げ3年連続、日銀に自信与える</h2>
-            <p class="entry-summary">日本の主要労組は2026年の春季賃上げ交渉で5%超の賃上げを3年連続で獲得し、賃金と物価の好循環が定着しつつある。OECDや日銀は賃金の伸びが日銀の金融政策正常化を後押しする重要な根拠と位置づけており、実質賃金の改善が個人消費を支えることが期待されている。ただし中東情勢によるエネルギー高騰が実質賃金の上昇を相殺するリスクも残っている。</p>
-            <a class="entry-source" href="https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html" target="_blank" rel="noopener noreferrer">
-              Deloitte <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">6月フラッシュPMI、製造業・サービス業とも改善</h2>
+            <p class="entry-summary">6月の日本フラッシュPMIは製造業・サービス業ともに上向き、工場活動が加速しサービス業が成長域に回帰した。IMFの2026年日本経済審査では、国内需要の堅調さと記録的な名目賃金上昇を背景に経済が底堅く推移していると評価された。ただし中東紛争の影響で成長率は0.8%と潜在成長率以下への鈍化が見込まれている。</p>
+            <a class="entry-source" href="https://ph.investing.com/news/forex-news/eurozone-yields-dip-following-ecb-comments-hormuz-easing-2461528" target="_blank" rel="noopener noreferrer">
+              Investing.com <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">日本フラッシュPMI、6月に業況持続拡大も投入コスト急伸</h2>
-            <p class="entry-summary">S&amp;Pグローバルの6月日本総合フラッシュPMIは業況の持続的な拡大を示した一方、投入コストの上昇率がほぼ4年ぶりの高さに達した。製造業・サービス業ともに活動が拡大し、中東情勢の落ち着きが需要回復への期待を高めているものの、エネルギー・輸送コストの上昇がスタグフレーション的リスクを高めている。日本のフラッシュPMIは6月23日に公表された。</p>
-            <a class="entry-source" href="https://www.pmi.spglobal.com/" target="_blank" rel="noopener noreferrer">
-              S&amp;P Global PMI <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">高市政権、エネルギー補助金に3兆円の補正予算成立</h2>
+            <p class="entry-summary">高市早苗首相政権は原油高から家計を守るための3兆円規模の補正予算を成立させた。これにより輸入インフレの家計への直撃を一定程度緩和する措置が講じられているが、財政赤字の拡大という副作用も伴っている。OECDは財政規律の維持と金融政策正常化の両立が日本の最重要課題だと指摘している。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">IMF、日本の2026年成長率0.8%と予測</h2>
-            <p class="entry-summary">IMFは2026年4月の日本との第4条協議を経て、日本の2026年実質GDP成長率を0.8%と予測した。中東紛争に起因する外需の弱体化とエネルギーコスト高騰が下押し要因だが、強い設備投資と個人消費がこれを一部相殺する。日銀には物価目標への収束に向けた漸進的な金融政策正常化の継続を推奨した。</p>
-            <a class="entry-source" href="https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult" target="_blank" rel="noopener noreferrer">
-              IMF <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">日本株式市場、BOJ利上げ後も日経平均が上昇</h2>
+            <p class="entry-summary">日銀利上げ発表後の日経平均は0.46%高で引け、市場は利上げを経済の自信として好感した。6月15日の米・イラン暫定合意報道を受けてアジア株式市場が全面高となり、日経平均は一時最高値圏に迫った。国際的なAI関連資本フローによる日本株への外資流入と、日経高からの円高期待も支援材料となっている。</p>
+            <a class="entry-source" href="https://www.investing.com/economic-calendar/interest-rate-decision-165" target="_blank" rel="noopener noreferrer">
+              Investing.com <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
