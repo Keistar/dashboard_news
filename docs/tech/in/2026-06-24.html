@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — IN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; IN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SarvamAI、2億3400万ドル調達でユニコーンに</h2>
+            <p class="entry-summary">バンガロール拠点のインド語AI企業SarvamがHCLTech主導のシリーズBファーストクローズで2億3400万ドルを調達し、評価額15億ドルでインド130番目のユニコーンになった。22のインド公用語に対応した独自基盤モデルを開発しており、農業省の農家1700万人データ収集や4500万保険契約者向けキャンペーンなど大規模展開実績を持つ。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Fable 5停止がインドの「主権AI」の必要性を再確認</h2>
+            <p class="entry-summary">米国がAnthropic Fable 5・Mythos 5へのアクセスを外国人向けに停止したことで、インドを含む各国が海外のAIプロバイダーに過度依存するリスクが露わになった。SarvamへのHCLTech投資はこの文脈で「主権AIの真剣な商業化への第一歩」と評価されており、インド政府がIndiaAI Missionで3万8000GPU超を確保した取り組みにも追い風となっている。</p>
+            <a class="entry-source" href="https://www.business-standard.com/technology/artificial-intelligence/hcltech-sarvam-ai-investment-sovereign-ai-policy-india-126061701260_1.html" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドITトップ5社、AI影響で純雇用が7000人減少</h2>
+            <p class="entry-summary">インド大手IT5社の2026年3月期純採用数が約7000人減少したことが明らかになった。TCSは今年の新卒採用を2万5000人に絞る計画で、過去3年平均4万人から大幅縮小する。AIによるコーディング自動化が既存の労働裁定モデルを侵食しており、1000万〜1500万人が依存するインドのIT産業の雇用構造が根本から揺らいでいる。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/04/30/ai-threat-indias-growth-story-jobs.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドAIスタートアップ、2026年Q1調達は14.8億ドル</h2>
+            <p class="entry-summary">インドのAIスタートアップは2026年第1四半期だけで14億8000万ドルを調達し、全スタートアップ調達額の38%を占めた。OpenAIとAnthropicの両社がインドを米国に次ぐ第2の最大市場と公言しており、グローバル資本の流入が加速している。政府支援のIndiaAI Missionと民間資本の相乗効果でエコシステムが急拡大している。</p>
+            <a class="entry-source" href="https://www.techtimes.com/articles/318603/20260618/sarvam-ai-hits-15-billion-valuation-hcltech-bets-150-million-india-sovereign-ai.htm" target="_blank" rel="noopener noreferrer">
+              TechTimes <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AnthropicがTCSと戦略的パートナーシップを締結</h2>
+            <p class="entry-summary">AnthropicはTata Consultancy Services（TCS）との提携を発表した。TCSはClaudeを56カ国の自社社員5万人に展開するとともに、金融・医療・公共・規制業界向けのClaude搭載製品を顧客企業に提供する。インドのIT大手がAIファウンデーションモデルを基盤とした新たなビジネスモデルへ転換する象徴的な動きとして注目されている。</p>
+            <a class="entry-source" href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener noreferrer">
+              Anthropic <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Sarvam、農業・保険・防衛へのAI大規模展開を加速</h2>
+            <p class="entry-summary">SarvamのAI会話プラットフォームは現在1日200万件超のインタラクションを処理し、毎月50万時間超の音声を文字起こしし、3500万ページ超の文書をデジタル化している。今回の資金調達により、エージェンティックAI・コーディング・サイバーセキュリティに特化した次世代モデルの研究開発と、インフラ拡充を加速する。</p>
+            <a class="entry-source" href="https://www.arcweb.com/blog/sarvam-building-indias-sovereign-ai-stack-rising-unicorn-status" target="_blank" rel="noopener noreferrer">
+              ARC Advisory Group <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Bernstein、インドIT雇用危機についてモディ首相に警告</h2>
+            <p class="entry-summary">グローバルエクイティ調査会社Bernsteinがモディ首相に公開書簡を送付し、AIによるIT・BPO雇用の喪失がインドの成長モデルを根本から脅かすと警告した。「労働裁定から技術裁定へのシフト」が進む中で、製造業への転換も遅れており、新たな雇用創出なしには国内消費主導の成長が頭打ちになるリスクを指摘している。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/04/30/ai-threat-indias-growth-story-jobs.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドAI市場、2030年に生成AI収益4380億ドル予測</h2>
+            <p class="entry-summary">EYインドの予測によると、インドにおける生成AIの収益は2030年までに4380億ドルに達する見込みで、ITサービス産業の目標4000億ドルを超える可能性があるという。データセンター投資は2026年から本格稼働が始まり500億ドル超の設備投資が進む見通し。Google・Microsoft・OpenAIのいずれもインドをAI最重要市場の一つとして明言している。</p>
+            <a class="entry-source" href="https://www.whalesbook.com/news/English/Tech/Indias-AI-Future-Ignites-2026-Poised-for-Massive-BOOM-as-Govt-and-Big-Tech-Pour-Billions-into-Tech-Revolution/695477e64342f77179ecca5d" target="_blank" rel="noopener noreferrer">
+              Whalesbook <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

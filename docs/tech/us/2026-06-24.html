@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-24 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+
+  :root {
+    --bg: #07101e;
+    --line: #102840;
+    --text: #c8dff0;
+    --text-dim: #527898;
+    --amber: #2ecfba;
+    --signal: #00b8e6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SpaceXがCursorを600億ドルで買収合意</h2>
+            <p class="entry-summary">SpaceXはIPO直後の6月16日、AIコーディングツール「Cursor」開発元のAnysphereを600億ドルの全額株式交換で買収すると発表した。史上最大のVC支援スタートアップ買収とされ、xAIを傘下に持つSpaceXがOpenAIやAnthropicに対抗するAIコーディング市場へ本格参入する狙いがある。買収完了はQ3 2026の見込みで、規制当局の承認を待つ段階。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AnthropicのFable 5、米輸出規制で今も停止中</h2>
+            <p class="entry-summary">6月12日に米商務省の輸出規制指令を受け全世界で停止されたClaude Fable 5とMythos 5は、6月23日時点でもまだ復旧していない。Anthropicはこれを「誤解」と主張し交渉中だが、6月23日からは有料プランでの無料提供も終了し課金制へ移行。二院合同の議会書簡や開発者の公開書簡が復旧を求めており、7月1日までの復旧確率は市場で58〜67%と予測されている。</p>
+            <a class="entry-source" href="https://techjacksolutions.com/ai-brief/claude-fable-5-mythos-5-suspended-us-export-controls/" target="_blank" rel="noopener noreferrer">
+              TechJack Solutions <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Google Gemini 3.5 Pro、GA直前の最終週へ</h2>
+            <p class="entry-summary">Google I/Oで予告されたGemini 3.5 ProはGA期間（6月23〜30日）に入ったが、6月23日時点でVertex AI限定のエンタープライズプレビュー段階にとどまる。200万トークンコンテキストウィンドウとDeep Thinkモードを備え、入力$15/出力$60（百万トークン）と高価格設定。正式リリースを待つ開発者の注目が集まっている。</p>
+            <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026" target="_blank" rel="noopener noreferrer">
+              Build Fast with AI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">OpenAI、PythonツールメーカーのAstralを買収</h2>
+            <p class="entry-summary">OpenAIはPython開発ツール「uv」「Ruff」「ty」を手がけるAstralの買収を発表した（3月19日）。AstralチームはCodexチームに合流し、Pythonエコシステム全体のAI開発フローを強化する狙い。Codexはすでに月間アクティブユーザー200万人超・年初比3倍以上の成長を遂げており、Claude CodeやCursorとの競争がさらに激化する。</p>
+            <a class="entry-source" href="https://openai.com/index/openai-to-acquire-astral/" target="_blank" rel="noopener noreferrer">
+              OpenAI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Qualcomm、TenstorrentをMAX100億ドルで買収交渉</h2>
+            <p class="entry-summary">Qualcommは6月16日、RISC-VベースのAIチップスタートアップTenstorrentを80〜100億ドルで買収する交渉に入っていると報じられた。Tenstorrentは元AppleチップアーキテクトのJim Keller率いる企業で、NVIDIAに対抗するAIアクセラレーターを開発している。買収が成立すればQualcommのデータセンター市場への本格参入を意味し、AI半導体勢力図が大きく変わる。</p>
+            <a class="entry-source" href="https://www.datacenterdynamics.com/en/news/qualcomm-considers-acquiring-ai-chip-firm-tenstorrent/" target="_blank" rel="noopener noreferrer">
+              CNBC / The Information <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Microsoft CEO、「トークン資本」概念を提唱</h2>
+            <p class="entry-summary">MicrosoftのSatya Nadella CEOが6月に発表したエッセイで「トークン資本（Token Capital）」という新概念を提唱した。自社所有のローカルモデルやエージェントネットワーク・セキュアな認知パイプラインを、人的資源と並ぶ企業価値の柱として評価するという考え方で、AIの企業活用が本格化する中で議論を呼んでいる。</p>
+            <a class="entry-source" href="https://www.devflokers.com/blog/ai-tech-news-model-releases-june-2026" target="_blank" rel="noopener noreferrer">
+              devFlokers <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SpaceX、史上最大IPOで$862億調達後に株価急騰</h2>
+            <p class="entry-summary">SpaceXは6月12日にNasdaqへ上場し、グリーンシュー行使後に862億ドルを調達する史上最大のIPOを実現した。上場翌週にはCursorの買収発表で株価がIPO価格の135ドルから192ドル超まで急騰し、時価総額が2.7兆ドルを超えAmazonを抜いて米国4位の企業に浮上した。AI事業を軸に26兆ドルのTAMを投資家にアピールしている。</p>
+            <a class="entry-source" href="https://www.cbsnews.com/news/spacex-cursor-60-billion-ai-acquisition/" target="_blank" rel="noopener noreferrer">
+              CBS News <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">NYCの教育委、AI導入に公平性審査義務化</h2>
+            <p class="entry-summary">ニューヨーク市教育局は110万人規模の生徒を抱える学区で、すべてのAIツールを展開する前に偏見・公平性審査への合格を義務付ける暫定ガイダンスを発行した。2026年6月にはEdtechベンダー向けの詳細なコンプライアンス基準も公表される予定で、自発的なベストプラクティスから強制的なガバナンスへの転換点として注目される。</p>
+            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
+              Crescendo AI News <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
