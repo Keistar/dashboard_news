@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — US Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #1c1b17;
+    --line: #3a3727;
+    --text: #f1ecdd;
+    --text-dim: #b7ae96;
+    --amber: #f2a93b;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 32px 20px 64px;
+  }
+  .masthead-title {
+    font-size: 14px;
+    letter-spacing: 0.12em;
+    color: var(--amber);
+    font-weight: 700;
+    border-bottom: 1px solid var(--line);
+    display: block;
+    padding-bottom: 16px;
+    margin-bottom: 28px;
+  }
+  .empty {
+    font-size: 14px;
+    color: var(--text-dim);
+    line-height: 1.8;
+  }
+  .empty strong { color: var(--text); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <span class="masthead-title mono">AI WIRE &#9656; US EDITION</span>
+    <p class="empty">
+      <strong>まだダッシュボードは生成されていません。</strong><br>
+      GitHub Actionsの「Daily AI News Dashboard」を一度実行すると、
+      ここに最新のAIニュースが表示されます。<br><br>
+      Actionsタブ &rarr; Daily AI News Dashboard &rarr; Run workflow
+    </p>
+  </div>
+</body>
+</html>
