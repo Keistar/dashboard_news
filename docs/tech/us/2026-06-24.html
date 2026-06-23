@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #061614;
     --line: #133858;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,13 +101,13 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 06:36 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">SpaceXがCursorを600億ドルで買収合意</h2>
-            <p class="entry-summary">SpaceXはIPO直後の6月16日、AIコーディングツール「Cursor」開発元のAnysphereを600億ドルの全額株式交換で買収すると発表した。史上最大のVC支援スタートアップ買収とされ、xAIを傘下に持つSpaceXがOpenAIやAnthropicに対抗するAIコーディング市場へ本格参入する狙いがある。買収完了はQ3 2026の見込みで、規制当局の承認を待つ段階。</p>
+            <h2 class="entry-title">SpaceXがCursorを600億ドルで買収</h2>
+            <p class="entry-summary">SpaceXは2026年6月16日、AIコーディングツールCursor（Anysphere社）を600億ドルの全株式交換で買収すると発表した。SpaceX IPO直後の買収であり、VC支援スタートアップの買収額としては史上最大規模。xAIとのモデル統合を通じ、Anthropic・OpenAIに対抗するコーディングAI基盤の確立を目指す。</p>
             <a class="entry-source" href="https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/" target="_blank" rel="noopener noreferrer">
               TechCrunch <span aria-hidden="true">&#8599;</span>
             </a>
@@ -114,18 +116,18 @@
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">AnthropicのFable 5、米輸出規制で今も停止中</h2>
-            <p class="entry-summary">6月12日に米商務省の輸出規制指令を受け全世界で停止されたClaude Fable 5とMythos 5は、6月23日時点でもまだ復旧していない。Anthropicはこれを「誤解」と主張し交渉中だが、6月23日からは有料プランでの無料提供も終了し課金制へ移行。二院合同の議会書簡や開発者の公開書簡が復旧を求めており、7月1日までの復旧確率は市場で58〜67%と予測されている。</p>
-            <a class="entry-source" href="https://techjacksolutions.com/ai-brief/claude-fable-5-mythos-5-suspended-us-export-controls/" target="_blank" rel="noopener noreferrer">
-              TechJack Solutions <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Claude Fable 5が有料化、無料期間終了</h2>
+            <p class="entry-summary">2026年6月23日より、AnthropicのClaude Fable 5はPro/Max/Teamなど全プランで追加課金が必要となった。6月9日のリリース後、米政府の輸出規制指令により6月12日から約6日間グローバルで利用不能になった経緯があり、事実上の無料提供期間は4〜5日に留まった。</p>
+            <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026" target="_blank" rel="noopener noreferrer">
+              Build Fast with AI <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">Google Gemini 3.5 Pro、GA直前の最終週へ</h2>
-            <p class="entry-summary">Google I/Oで予告されたGemini 3.5 ProはGA期間（6月23〜30日）に入ったが、6月23日時点でVertex AI限定のエンタープライズプレビュー段階にとどまる。200万トークンコンテキストウィンドウとDeep Thinkモードを備え、入力$15/出力$60（百万トークン）と高価格設定。正式リリースを待つ開発者の注目が集まっている。</p>
+            <h2 class="entry-title">Gemini 3.5 Pro、GA直前リリース待ち</h2>
+            <p class="entry-summary">GoogleのGemini 3.5 Proは6月23〜30日の間にGA（一般提供）が見込まれているが、現時点ではVertex AIの限定エンタープライズプレビューに留まっている。200万トークンのコンテキストウィンドウとDeep Thinkモードを備え、フロンティアモデル最大のコンテキスト長を誇る。</p>
             <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026" target="_blank" rel="noopener noreferrer">
               Build Fast with AI <span aria-hidden="true">&#8599;</span>
             </a>
@@ -134,8 +136,8 @@
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">OpenAI、PythonツールメーカーのAstralを買収</h2>
-            <p class="entry-summary">OpenAIはPython開発ツール「uv」「Ruff」「ty」を手がけるAstralの買収を発表した（3月19日）。AstralチームはCodexチームに合流し、Pythonエコシステム全体のAI開発フローを強化する狙い。Codexはすでに月間アクティブユーザー200万人超・年初比3倍以上の成長を遂げており、Claude CodeやCursorとの競争がさらに激化する。</p>
+            <h2 class="entry-title">OpenAIがPythonツール企業Astralを買収</h2>
+            <p class="entry-summary">OpenAIはPythonパッケージ管理ツール「uv」・リンター「Ruff」・型チェッカー「ty」を開発するAstralの買収を発表した。Astralチームは傘下のCodexチームに合流し、AIコーディング基盤を強化する。Codexは今年に入りユーザー数3倍・使用量5倍を記録し、週間アクティブユーザー200万人を超えている。</p>
             <a class="entry-source" href="https://openai.com/index/openai-to-acquire-astral/" target="_blank" rel="noopener noreferrer">
               OpenAI <span aria-hidden="true">&#8599;</span>
             </a>
@@ -144,18 +146,18 @@
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">Qualcomm、TenstorrentをMAX100億ドルで買収交渉</h2>
-            <p class="entry-summary">Qualcommは6月16日、RISC-VベースのAIチップスタートアップTenstorrentを80〜100億ドルで買収する交渉に入っていると報じられた。Tenstorrentは元AppleチップアーキテクトのJim Keller率いる企業で、NVIDIAに対抗するAIアクセラレーターを開発している。買収が成立すればQualcommのデータセンター市場への本格参入を意味し、AI半導体勢力図が大きく変わる。</p>
-            <a class="entry-source" href="https://www.datacenterdynamics.com/en/news/qualcomm-considers-acquiring-ai-chip-firm-tenstorrent/" target="_blank" rel="noopener noreferrer">
-              CNBC / The Information <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">QualcommがTenstorrent買収交渉中と報道</h2>
+            <p class="entry-summary">Qualcommが、RISC-V標準のAIチップ設計企業でJim Keller率いるTenstorrentを80〜100億ドルで買収する初期協議に入っていると報じられた。成立すればNVIDIA・AMD支配のAIハードウェア市場でQualcommが存在感を高める契機となる。</p>
+            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
+              Crescendo AI <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">Microsoft CEO、「トークン資本」概念を提唱</h2>
-            <p class="entry-summary">MicrosoftのSatya Nadella CEOが6月に発表したエッセイで「トークン資本（Token Capital）」という新概念を提唱した。自社所有のローカルモデルやエージェントネットワーク・セキュアな認知パイプラインを、人的資源と並ぶ企業価値の柱として評価するという考え方で、AIの企業活用が本格化する中で議論を呼んでいる。</p>
+            <h2 class="entry-title">Satya NadellaがAI時代の「トークン資本」論を提唱</h2>
+            <p class="entry-summary">マイクロソフトCEOのSatya Nadellaは2026年6月のエッセイで「トークン資本」という概念を提唱した。企業固有のローカルモデルやエージェントネットワークの価値を人的資本と同等に評価すべきだという考え方で、企業のAI戦略に新たな経営指標を提示する内容として注目されている。</p>
             <a class="entry-source" href="https://www.devflokers.com/blog/ai-tech-news-model-releases-june-2026" target="_blank" rel="noopener noreferrer">
               devFlokers <span aria-hidden="true">&#8599;</span>
             </a>
@@ -164,20 +166,20 @@
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">SpaceX、史上最大IPOで$862億調達後に株価急騰</h2>
-            <p class="entry-summary">SpaceXは6月12日にNasdaqへ上場し、グリーンシュー行使後に862億ドルを調達する史上最大のIPOを実現した。上場翌週にはCursorの買収発表で株価がIPO価格の135ドルから192ドル超まで急騰し、時価総額が2.7兆ドルを超えAmazonを抜いて米国4位の企業に浮上した。AI事業を軸に26兆ドルのTAMを投資家にアピールしている。</p>
-            <a class="entry-source" href="https://www.cbsnews.com/news/spacex-cursor-60-billion-ai-acquisition/" target="_blank" rel="noopener noreferrer">
-              CBS News <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">米政府の輸出規制でClaudeモデルが一時グローバル停止</h2>
+            <p class="entry-summary">6月12日、米政府は国家安全保障上の理由からClaude Fable 5・Mythos 5への外国人アクセスを禁じる緊急輸出規制指令を発した。Anthropicは外国人ユーザーをリアルタイムで識別できないため、両モデルをグローバルで約6日間停止する事態となった。米国のAI輸出規制が開発者エコシステムに与えるリスクが顕在化した事例として広く注目された。</p>
+            <a class="entry-source" href="https://www.devflokers.com/blog/ai-tech-news-model-releases-june-2026" target="_blank" rel="noopener noreferrer">
+              devFlokers <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">NYCの教育委、AI導入に公平性審査義務化</h2>
-            <p class="entry-summary">ニューヨーク市教育局は110万人規模の生徒を抱える学区で、すべてのAIツールを展開する前に偏見・公平性審査への合格を義務付ける暫定ガイダンスを発行した。2026年6月にはEdtechベンダー向けの詳細なコンプライアンス基準も公表される予定で、自発的なベストプラクティスから強制的なガバナンスへの転換点として注目される。</p>
-            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
-              Crescendo AI News <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">SpaceXが宇宙空間でのAIデータセンター構想を加速</h2>
+            <p class="entry-summary">AIによる未曾有の計算需要を背景に、SpaceXが宇宙軌道上にAIデータセンターを建設する計画を進めている。軌道施設は豊富な太陽エネルギーを活用でき、地上のデータセンターが抱える環境的課題の多くを回避できる可能性がある。</p>
+            <a class="entry-source" href="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/" target="_blank" rel="noopener noreferrer">
+              ScienceDaily <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

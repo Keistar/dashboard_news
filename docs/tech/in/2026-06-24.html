@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #061614;
     --line: #133858;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,13 +101,13 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 06:36 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">SarvamAI、2億3400万ドル調達でユニコーンに</h2>
-            <p class="entry-summary">バンガロール拠点のインド語AI企業SarvamがHCLTech主導のシリーズBファーストクローズで2億3400万ドルを調達し、評価額15億ドルでインド130番目のユニコーンになった。22のインド公用語に対応した独自基盤モデルを開発しており、農業省の農家1700万人データ収集や4500万保険契約者向けキャンペーンなど大規模展開実績を持つ。</p>
+            <h2 class="entry-title">Sarvam AIが2.34億ドル調達、ユニコーン入り</h2>
+            <p class="entry-summary">ベンガルール拠点のインド語特化AIスタートアップSarvam AIが、HCLTech主導で2億3,400万ドルのシリーズBを実施し、評価額15億ドルのユニコーンとなった。Bessemer Venture Partners・Khosla Ventures・Peak XV Partnersも参加し、インド語LLMおよび政府・金融・防衛向けAIインフラの拡充に充てる。</p>
             <a class="entry-source" href="https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/" target="_blank" rel="noopener noreferrer">
               TechCrunch <span aria-hidden="true">&#8599;</span>
             </a>
@@ -114,70 +116,70 @@
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">Fable 5停止がインドの「主権AI」の必要性を再確認</h2>
-            <p class="entry-summary">米国がAnthropic Fable 5・Mythos 5へのアクセスを外国人向けに停止したことで、インドを含む各国が海外のAIプロバイダーに過度依存するリスクが露わになった。SarvamへのHCLTech投資はこの文脈で「主権AIの真剣な商業化への第一歩」と評価されており、インド政府がIndiaAI Missionで3万8000GPU超を確保した取り組みにも追い風となっている。</p>
-            <a class="entry-source" href="https://www.business-standard.com/technology/artificial-intelligence/hcltech-sarvam-ai-investment-sovereign-ai-policy-india-126061701260_1.html" target="_blank" rel="noopener noreferrer">
-              Business Standard <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">MetaとRelianceがグジャラートにAIデータセンター建設</h2>
+            <p class="entry-summary">MetaはReliance Industriesとの提携で、グジャラート州ジャムナガルにインド初のAI対応データセンター（168MW）を建設・リースする協定を結んだ。再生可能エネルギーと海水冷却を採用し、Metaが全エネルギー・水コストを負担する。インドのAIインフラ整備加速の象徴的案件として大きく報じられた。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/" target="_blank" rel="noopener noreferrer">
+              Meta / TechCrunch <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">インドITトップ5社、AI影響で純雇用が7000人減少</h2>
-            <p class="entry-summary">インド大手IT5社の2026年3月期純採用数が約7000人減少したことが明らかになった。TCSは今年の新卒採用を2万5000人に絞る計画で、過去3年平均4万人から大幅縮小する。AIによるコーディング自動化が既存の労働裁定モデルを侵食しており、1000万〜1500万人が依存するインドのIT産業の雇用構造が根本から揺らいでいる。</p>
-            <a class="entry-source" href="https://www.cnbc.com/2026/04/30/ai-threat-indias-growth-story-jobs.html" target="_blank" rel="noopener noreferrer">
-              CNBC <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">インドのAI資金調達、週間4億ドル超を記録</h2>
+            <p class="entry-summary">2026年6月15〜21日の1週間に、インドのスタートアップは20件・総額4億260万ドルを調達した。Sarvam AIの2億3,400万ドルを筆頭に、気候テック・EV・AIなど幅広いセクターに資金が流入しており、インドのスタートアップエコシステムの成熟を示す内容となっている。</p>
+            <a class="entry-source" href="https://www.newskart.com/india-startup-funding-update-june-15-to-june-21-2026-ai-and-climate-deals-lead-a-busy-week/" target="_blank" rel="noopener noreferrer">
+              NewsKart <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">インドAIスタートアップ、2026年Q1調達は14.8億ドル</h2>
-            <p class="entry-summary">インドのAIスタートアップは2026年第1四半期だけで14億8000万ドルを調達し、全スタートアップ調達額の38%を占めた。OpenAIとAnthropicの両社がインドを米国に次ぐ第2の最大市場と公言しており、グローバル資本の流入が加速している。政府支援のIndiaAI Missionと民間資本の相乗効果でエコシステムが急拡大している。</p>
-            <a class="entry-source" href="https://www.techtimes.com/articles/318603/20260618/sarvam-ai-hits-15-billion-valuation-hcltech-bets-150-million-india-sovereign-ai.htm" target="_blank" rel="noopener noreferrer">
-              TechTimes <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">インドAIスタートアップへの世界投資が累計500億ドル突破</h2>
+            <p class="entry-summary">2026年6月時点でインドのAIスタートアップが受け取った世界的な投資総額が500億ドルに達したと報じられた。政府のIndiaAI Missionへの12億5,000万ドル投資や、Microsoft・Google・NVIDIAによる各30億ドル超のインド向け投資が下支えとなっており、インドが世界有数のAI投資先に浮上している。</p>
+            <a class="entry-source" href="https://technosports.co.in/indian-startups-ai-funding-2026/" target="_blank" rel="noopener noreferrer">
+              TechnoSports <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">AnthropicがTCSと戦略的パートナーシップを締結</h2>
-            <p class="entry-summary">AnthropicはTata Consultancy Services（TCS）との提携を発表した。TCSはClaudeを56カ国の自社社員5万人に展開するとともに、金融・医療・公共・規制業界向けのClaude搭載製品を顧客企業に提供する。インドのIT大手がAIファウンデーションモデルを基盤とした新たなビジネスモデルへ転換する象徴的な動きとして注目されている。</p>
-            <a class="entry-source" href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener noreferrer">
-              Anthropic <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">IndiaAIがStation Fと連携し第2期グローバル加速プログラムを開始</h2>
+            <p class="entry-summary">インド電子情報技術省（MeitY）のIndiaAI Missionは、フランス・Station FおよびHECパリと連携した「IndiaAI Startups Global」第2期コホートを発表した。第1期の10社は総額4,200万ユーロを調達し36件の戦略的提携を締結しており、インドAIスタートアップの欧州展開を後押しする官民連携スキームとして注目されている。</p>
+            <a class="entry-source" href="https://indiaai.gov.in/article/indiaai-startups-global-international-acceleration-programs-for-indian-ai-startups-2026-2nd-cohort" target="_blank" rel="noopener noreferrer">
+              IndiaAI Gov <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">Sarvam、農業・保険・防衛へのAI大規模展開を加速</h2>
-            <p class="entry-summary">SarvamのAI会話プラットフォームは現在1日200万件超のインタラクションを処理し、毎月50万時間超の音声を文字起こしし、3500万ページ超の文書をデジタル化している。今回の資金調達により、エージェンティックAI・コーディング・サイバーセキュリティに特化した次世代モデルの研究開発と、インフラ拡充を加速する。</p>
-            <a class="entry-source" href="https://www.arcweb.com/blog/sarvam-building-indias-sovereign-ai-stack-rising-unicorn-status" target="_blank" rel="noopener noreferrer">
-              ARC Advisory Group <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">インドのAI市場、2030年に4,380億ドル規模へ</h2>
+            <p class="entry-summary">EYインドは、ジェネレーティブAIがインドに2030年までに4,380億ドルの収益をもたらす可能性があると試算した。これはインドのITサービス産業の2030年目標（4,000億ドル）を上回るもので、OpenAIとAnthropicの両社がインドを米国に次ぐ第2の市場と位置付けていることも追い風になっている。</p>
+            <a class="entry-source" href="https://www.whalesbook.com/news/English/Tech/Indias-AI-Future-Ignites-2026-Poised-for-Massive-BOOM-as-Govt-and-Big-Tech-Pour-Billions-into-Tech-Revolution/695477e64342f77179ecca5d" target="_blank" rel="noopener noreferrer">
+              Whalesbook <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">Bernstein、インドIT雇用危機についてモディ首相に警告</h2>
-            <p class="entry-summary">グローバルエクイティ調査会社Bernsteinがモディ首相に公開書簡を送付し、AIによるIT・BPO雇用の喪失がインドの成長モデルを根本から脅かすと警告した。「労働裁定から技術裁定へのシフト」が進む中で、製造業への転換も遅れており、新たな雇用創出なしには国内消費主導の成長が頭打ちになるリスクを指摘している。</p>
-            <a class="entry-source" href="https://www.cnbc.com/2026/04/30/ai-threat-indias-growth-story-jobs.html" target="_blank" rel="noopener noreferrer">
-              CNBC <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">インドのディープテック企業数が3,600社超に</h2>
+            <p class="entry-summary">KPMGの最新レポートによれば、インドのスタートアップベースの約12%にあたる3,600社超がAI・ロボティクス・バイオテック・量子コンピューティング等のディープテック分野で活動している。2026年上半期は8,540億ドルが849件のエクイティラウンドで調達されており、ディープテックへの資金流入も堅調に推移している。</p>
+            <a class="entry-source" href="https://tracxn.com/d/geographies/india/__ujYf3QI9FSnpS3x-zJCSwnay2nENQhm1kAN-U8-6Kfg" target="_blank" rel="noopener noreferrer">
+              KPMG / Tracxn <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">インドAI市場、2030年に生成AI収益4380億ドル予測</h2>
-            <p class="entry-summary">EYインドの予測によると、インドにおける生成AIの収益は2030年までに4380億ドルに達する見込みで、ITサービス産業の目標4000億ドルを超える可能性があるという。データセンター投資は2026年から本格稼働が始まり500億ドル超の設備投資が進む見通し。Google・Microsoft・OpenAIのいずれもインドをAI最重要市場の一つとして明言している。</p>
-            <a class="entry-source" href="https://www.whalesbook.com/news/English/Tech/Indias-AI-Future-Ignites-2026-Poised-for-Massive-BOOM-as-Govt-and-Big-Tech-Pour-Billions-into-Tech-Revolution/695477e64342f77179ecca5d" target="_blank" rel="noopener noreferrer">
-              Whalesbook <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Razorpayが機密IPO申請書を提出</h2>
+            <p class="entry-summary">インドのフィンテック大手Razorpayが、機密扱いのIPO申請書を提出したことが明らかになった。AIを活用した決済インフラの急成長を背景に、インドフィンテック市場の上場意欲が再燃しつつある象徴的な動きとして注目されている。</p>
+            <a class="entry-source" href="https://www.newskart.com/india-startup-funding-update-may-30-to-june-14-2026-key-deals-investors-and-founders-to-watch/" target="_blank" rel="noopener noreferrer">
+              NewsKart <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

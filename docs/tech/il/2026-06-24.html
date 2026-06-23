@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #061614;
     --line: #133858;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,85 +101,85 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 06:36 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">イスラエル政府、国家AI計画を閣議決定</h2>
-            <p class="entry-summary">イスラエル政府はネタニヤフ首相主導の国家AI計画を承認した。主権コンピューティングインフラとして10万GPU確保、国産量子コンピュータの設立、Cyber AI・Physical AIへの集中投資などを柱とする。AI責任者のErez Askal氏は「歴史的なチャンスの窓」と表現し、イスラエルをサイバー同様にAI超大国へ変革する意欲を示した。</p>
-            <a class="entry-source" href="https://www.jpost.com/israel-news/article-899354" target="_blank" rel="noopener noreferrer">
-              The Jerusalem Post <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Wixが全従業員の20%削減を発表</h2>
+            <p class="entry-summary">イスラエルのWeb制作プラットフォームWixは、AIの急速な進化とシェケル高による構造的コスト増を理由に、約1,000人（全体の20%）を削減すると発表した。株価は2026年初来約50%下落し、時価総額は約22億ドルとピーク時の10分の1以下に縮小している。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">AI防衛ユニコーンDream、評価額30億ドルに倍増</h2>
-            <p class="entry-summary">イスラエルのAIサイバー防衛スタートアップDreamが2億6000万ドルの新規調達を発表し、評価額を30億ドルに倍増させた。政府・重要インフラ向けの独立型主権AIモデルを自社データセンターで訓練・提供しており、「外国クラウドに機密データを渡せない」政府ニーズに応える。共同創業者はNSOグループ元CEOのShalev Hulioとオーストリア元首相Sebastian Kurz。</p>
-            <a class="entry-source" href="https://www.timesofisrael.com/israeli-cyber-unicorn-valued-at-3-billion-aims-to-help-governments-own-and-control-their-ai/" target="_blank" rel="noopener noreferrer">
-              The Times of Israel <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">WonderfulがシリーズBで15億ドル評価額を達成</h2>
+            <p class="entry-summary">2025年創業のエンタープライズAIエージェント企業Wonderfulが、1億5,000万ドルのシリーズBを完了し、評価額20億ドルを達成した。創業わずか8か月で累計調達額2億8,500万ドルを超え、年内に従業員数を350人から900人へ拡大しつつ、30か国以上の通信・金融・医療・製造分野への展開を計画している。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/hy8t7fcobe" target="_blank" rel="noopener noreferrer">
+              CTech / Calcalist <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">米、ネゲブ砂漠に安全なAI拠点「プロジェクトSpire」検討</h2>
-            <p class="entry-summary">米国とイスラエルが共同で、ネゲブ砂漠に米軍基準のセキュリティと大型テックハブを組み合わせたAI研究拠点「Project Spire」の設立を協議していることが明らかになった。中国からの先端技術保護とAI覇権確保が目的とされ、西部ネゲブ3カ所が候補地として挙がっている。</p>
-            <a class="entry-source" href="https://www.jpost.com/israel-news/article-899354" target="_blank" rel="noopener noreferrer">
-              The Jerusalem Post <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Above Securityが10人で4,300万ドルのシリーズAを調達</h2>
+            <p class="entry-summary">創業わずか8か月のイスラエルのサイバースタートアップAbove Securityが、従業員10人という体制で4,300万ドルのシリーズAを達成した。AIエージェントによるインサイダー脅威対策に特化したプラットフォームを開発しており、急増する企業内部リスクに対応する。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/rq8lzbs4c" target="_blank" rel="noopener noreferrer">
+              CTech / Calcalist <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">イスラエル量子スタートアップQ-Factor、2400万ドル調達</h2>
-            <p class="entry-summary">ステルスモードから姿を現したイスラエルの量子スタートアップQ-Factorが、Intelキャピタル主導で2400万ドルのシード資金を調達した。ワイツマン研究所とテクニオンの科学者が設立した同社は、中性原子技術を用いて従来の量子ビット制約を超えることを目指している。</p>
+            <h2 class="entry-title">Palo Alto Networks創業者がCylakeを4,500万ドルで設立</h2>
+            <p class="entry-summary">Palo Alto Networks創業者Nir Zukが、SentinelOne共同創業者Udi Shamirらと共に新たなサイバーセキュリティスタートアップCylakeを4,500万ドルのシードラウンドで立ち上げた。公共クラウドインフラに依存できない組織向けのAI駆動セキュリティプラットフォームを開発する。</p>
             <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/rq8lzbs4c" target="_blank" rel="noopener noreferrer">
-              Calcalist Tech <span aria-hidden="true">&#8599;</span>
+              CTech / Calcalist <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">Palo Alto創業者Nir Zuk、Cylakeを4500万ドルで設立</h2>
-            <p class="entry-summary">Palo Alto Networks創業者のNir Zukが、SentinelOne共同創業者のEhud Shamirらと共に新サイバーセキュリティスタートアップCylakeを4500万ドルのシード資金で立ち上げた。クラウドインフラに依存できない組織向けのAI主導セキュリティプラットフォームを開発しており、次世代の防衛レイヤーを狙う。</p>
-            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/rq8lzbs4c" target="_blank" rel="noopener noreferrer">
-              Calcalist Tech <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">イスラエルのAI監視技術がイラン作戦で注目</h2>
+            <p class="entry-summary">イスラエルの諜報機関がテヘランの交通カメラ映像をハッキングし、AIで行動パターンを分析、2月28日の作戦に活用したと報じられた。この技術に関連するConntourなどのスタートアップは自然言語で映像を検索できるプラットフォームを提供しており、監視技術の新時代を象徴する事例として世界的な注目を集めている。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/h17rby8bge" target="_blank" rel="noopener noreferrer">
+              CTech / Calcalist <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">イスラエルAI産業、Q1 2026調達30億ドル超で34%増</h2>
-            <p class="entry-summary">2026年第1四半期のイスラエルハイテク企業の資金調達総額が30億ドルを超え、前年同期比34%増を記録した。AIとサイバーセキュリティが資金の大半を占め、戦時下にもかかわらず投資家の意欲は衰えていない。StartupBlinkの2026年ランキングでもイスラエルは世界3位、中東1位を維持した。</p>
-            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/hy8t7fcobe" target="_blank" rel="noopener noreferrer">
-              Calcalist Tech <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Q-Factorが量子コンピュータ開発で2,400万ドル調達</h2>
+            <p class="entry-summary">2026年初頭に設立されたイスラエルの量子コンピューティングスタートアップQ-Factorが、NFX・Intel Capitalなどから2,400万ドルのシードラウンドを完了した。ワイツマン科学研究所・テクニオン出身の著名物理学者が創業チームに名を連ね、中性原子技術を使ったフルスタック量子コンピュータの開発を目指す。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/p9n9w144o" target="_blank" rel="noopener noreferrer">
+              CTech / Calcalist <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">イスラエルAI国家計画、国産量子コンピュータも射程に</h2>
-            <p class="entry-summary">閣議決定されたイスラエル国家AI計画には、可能な限りイスラエル発の技術・知識に基づく国産量子コンピュータの確立も盛り込まれた。研究開発・人材育成・国際連携・公共サービスへのAI統合など幅広い分野を網羅し、次の数十年にわたる国家の繁栄と安全保障を確保する長期戦略と位置づけられている。</p>
-            <a class="entry-source" href="https://www.thejewishnews.com/news/israel-approves-national-ai-plan-to-become-technology-powerhouse/article_fff1cdff-6a2a-495e-8724-3d4f399dc27e.html" target="_blank" rel="noopener noreferrer">
-              The Jewish News <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">シェケル高でイスラエルIT企業の海外移転が加速</h2>
+            <p class="entry-summary">イスラエル・イノベーション庁は、強いシェケルとAI関連の変化を背景にR&amp;D活動や経営機能の海外移転が増加していると警告した。シェケルは対ドルで33年ぶりの高値圏にあり、ドル建て収益に対してシェケル建てコストが膨らむ構造的問題がWixなど複数のIT企業を圧迫している。</p>
+            <a class="entry-source" href="https://www.timesofisrael.com/tech-israel/" target="_blank" rel="noopener noreferrer">
+              Times of Israel <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">Above Security、10人でシリーズA 4300万ドル調達</h2>
-            <p class="entry-summary">創業わずか8ヶ月、社員10人のイスラエルのサイバースタートアップAbove SecurityがシリーズAで4300万ドルを調達した。AIエージェントを活用して企業内部脅威（インサイダー脅威）を検出・対処するプラットフォームを開発しており、従来手法では困難だった内部リスク管理の自動化を目指す。</p>
-            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/rq8lzbs4c" target="_blank" rel="noopener noreferrer">
-              Calcalist Tech <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">UberがイスラエルAIスタートアップAutobrandsをロボタクシー実証採用</h2>
+            <p class="entry-summary">Uberがミュンヘンでのロボタクシー実証実験にイスラエルのAIスタートアップAutobrandsを起用することを決定した。低コストかつ車両搭載可能なAutobrandsの技術は、複数のAIエージェントが協調動作することで競合を上回ると開発者は主張しており、自動運転市場でのイスラエル勢の存在感が高まっている。</p>
+            <a class="entry-source" href="https://www.timesofisrael.com/tech-israel/" target="_blank" rel="noopener noreferrer">
+              Times of Israel <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

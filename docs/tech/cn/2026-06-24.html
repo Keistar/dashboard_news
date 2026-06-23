@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #061614;
     --line: #133858;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,13 +101,13 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 06:36 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">Z.ai（智谱AI）、GLM-5.2をMITで完全公開</h2>
-            <p class="entry-summary">中国のZ.ai（旧Zhipu AI）が6月13日、7440億パラメータのMoEモデルGLM-5.2をMITライセンスで公開した。1Mトークンのコンテキストウィンドウを持ち、独立評価機関Artificial AnalysisのIntelligence Indexでオープンモデルトップに立ち、Gemini 3.1 Proをも上回った。米輸出規制によるAnthropic Fable 5停止の翌日に発表されたことで、「第2のDeepSeekショック」として注目を集めている。</p>
+            <h2 class="entry-title">Zhipu AI、GLM-5.2をMITライセンスで公開</h2>
+            <p class="entry-summary">中国のZhipu AI（Z.ai）は6月13日、フラッグシップモデルGLM-5.2のモデルウェイトをMITライセンスで公開した。独立評価機関Artificial AnalysisのIntelligence Index v4.1でオープンモデル首位を獲得し、Claude 4.8やGPT 5.5と同等の性能を示す。米政府がAnthropicの最新モデルへの外国人アクセスを制限するタイミングと重なり、開発者の関心を集めた。</p>
             <a class="entry-source" href="https://www.trendingtopics.eu/glm-5-2-chinas-zhipu-ai-beats-even-googles-top-models-with-its-new-open-llm/" target="_blank" rel="noopener noreferrer">
               Trending Topics EU <span aria-hidden="true">&#8599;</span>
             </a>
@@ -114,8 +116,8 @@
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国、5年間で2950億ドルのAIデータセンター投資計画</h2>
-            <p class="entry-summary">中国政府は5年間で2兆元（約2950億ドル）を全国のデータセンター建設に投じる計画を策定中であることが明らかになった。国家発展改革委員会を中心に全国的な相互接続コンピューティングハブ網を構築し、AI技術の80%以上をHuaweiなど国内サプライヤーで賄う方針。米国のビッグテック各社が2026年に約7000億ドルを投じる計画への対抗策とされる。</p>
+            <h2 class="entry-title">中国、5年間で約295億ドルのAIデータセンター投資計画</h2>
+            <p class="entry-summary">中国政府は今後5年間で2兆元（約295億ドル）をデータセンター網の整備に投じる計画を準備中と報じられた。国家発展改革委員会が主導し、中国電信・中国移動などの国有企業が運営する相互接続型コンピューティングハブを全国に構築する。チップ調達の少なくとも80%を華為などの国内サプライヤーから調達する方針で、NVIDIAやAMDを実質的に排除する設計だ。</p>
             <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout" target="_blank" rel="noopener noreferrer">
               Bloomberg <span aria-hidden="true">&#8599;</span>
             </a>
@@ -124,18 +126,18 @@
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">百度、米国防総省の「中国軍事企業リスト」に追加</h2>
-            <p class="entry-summary">米国防総省は6月9日、百度（Baidu）を中国軍事企業（CMC）リストに追加した。百度はこれに強く反発し「軍事企業でも軍民融合の貢献者でもない」と声明を発表した。リストへの追加は制裁リストではないが、米中AI技術戦争が新たな段階に入ったことを示す象徴的な動きとして注目された。</p>
-            <a class="entry-source" href="https://www.sec.gov/Archives/edgar/data/0001329099/000119312526262873/d116298dex991.htm" target="_blank" rel="noopener noreferrer">
-              SEC Filing / PRNewswire <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">中国AIモデルがOpenRouterトラフィックの45%超を占拠</h2>
+            <p class="entry-summary">2026年第2四半期時点で、Xiaomi・Alibaba・Zhipu・DeepSeekなどの中国AIプロバイダーが、世界最大のAIモデルルーティングプラットフォームOpenRouterの週間トークン数の45%以上を占めるに至った。中でもXiaomiのMiMo-V2-Proは単独で最多使用モデルとなっており、中国モデルのグローバル普及が急加速している。</p>
+            <a class="entry-source" href="https://www.digitalapplied.com/blog/chinese-ai-models-q2-2026-market-share-report" target="_blank" rel="noopener noreferrer">
+              Digital Applied <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国、幼稚園からAI教育の新カリキュラムを導入</h2>
-            <p class="entry-summary">中国教育部は6歳からすべての学年でAI教育を必修化する新ガイドラインを施行した。習近平国家主席がAIを最優先課題と位置づける中、将来のAI人材育成に向けて教育システム全体を再設計している。中国のAI人材パイプラインの長期的な競争力強化を狙った施策と分析されている。</p>
+            <h2 class="entry-title">中国のAI教育が6歳から義務化</h2>
+            <p class="entry-summary">中国教育省は全学年対象のAI教育ガイドラインを策定し、小学1年生（6歳）からAI教育が始まることになった。習近平主席がAIを最優先課題に位置付ける中、次世代の技術人材育成に向けた国家的取り組みが加速している。</p>
             <a class="entry-source" href="https://www.aljazeera.com/video/the-take-2/2026/6/19/how-is-china-using-ai-in-the-classroom" target="_blank" rel="noopener noreferrer">
               Al Jazeera <span aria-hidden="true">&#8599;</span>
             </a>
@@ -144,40 +146,40 @@
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">GLM-5.2、米輸出規制の空白を突くオープン戦略</h2>
-            <p class="entry-summary">Z.aiは米国がAnthropic Fable 5へのアクセスを停止した翌日にGLM-5.2の重みを公開し、「地政学的なAIアクセス制限への意図的な返答」と明言した。地域ロック・利用制限なしのMITライセンスで配布され、米国外の開発者や企業のFable 5代替として急速に採用が進んでいる。</p>
-            <a class="entry-source" href="https://www.techtimes.com/articles/318543/20260617/glm-52-open-weights-live-top-coding-benchmark-api-use-carries-china-data-risk.htm" target="_blank" rel="noopener noreferrer">
-              TechTimes <span aria-hidden="true">&#8599;</span>
-            </a>
-          </div>
-        </li>
-        <li class="entry">
-          <span class="entry-index">06</span>
-          <div class="entry-body">
-            <h2 class="entry-title">Z.ai（智谱AI）、上海STAR市場への2次上場を準備</h2>
-            <p class="entry-summary">香港上場済みのZ.aiが上海STAR市場への2次上場を準備しており、調達目標は約150億元とされる。GLM-5.2公開後の株価反騰を追い風に、国内資本市場での資金調達基盤を強化する狙いがある。7月8日には第1弾コーナーストーン投資家のロックアップが解除され、流通株が急増する見通しで市場の注目が集まっている。</p>
+            <h2 class="entry-title">GLM-5.2株、発表週に最大48%急騰</h2>
+            <p class="entry-summary">GLM-5.2の公開発表を受け、Zhipu AIの上場企業であるKnowledge Atlas Technology（HKEX: 2513）の株価は週初来で最大48%上昇した。JPモルガンが目標株価を950から1,400香港ドルに引き上げ、バンク・オブ・アメリカも買い推奨で新規カバレッジを開始した。</p>
             <a class="entry-source" href="https://www.trendingtopics.eu/glm-5-2-chinas-zhipu-ai-beats-even-googles-top-models-with-its-new-open-llm/" target="_blank" rel="noopener noreferrer">
               Trending Topics EU <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国AI産業、Economist誌が「再びAIの瞬間」と評価</h2>
+            <p class="entry-summary">The Economist（6月21日号）は「China is having another AI moment」と題した記事を掲載し、GLM-5.2の登場でDeepSeekに続く第二波が中国AIシーンに到来したと論じた。Zhipu AI共同創業者Tang Jieは、Fable 5に匹敵する中国モデルが2026年末までに登場すると予測している。</p>
+            <a class="entry-source" href="https://legrandcontinent.eu/fr/2026/06/23/avec-glm-5-2-la-chine-a-t-elle-ouvert-un-nouveau-moment-deepseek/" target="_blank" rel="noopener noreferrer">
+              Le Grand Continent <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国製AIモデル、米スタートアップの80%が採用と推計</h2>
-            <p class="entry-summary">米VCのa16zのパートナーが「米国スタートアップの約80%が中国のベースモデルから派生物を開発している」との概算を示し、米中AI競争の複雑な実態が浮き彫りになった。AirbnbのようなグローバルIT大手すらAlibabaのQwenを顧客対応に利用しているとされる。中国の開放的なオープンソース戦略がグローバルなAIエコシステムに深く浸透していることを示す。</p>
-            <a class="entry-source" href="https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf" target="_blank" rel="noopener noreferrer">
-              U.S.-China Economic and Security Review Commission <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">中国AI新5か年計画、量子・ヒューマノイドも対象</h2>
+            <p class="entry-summary">中国の新たな5か年政策ブループリントは、AI・量子コンピューティング・ヒューマノイドロボットなどの先端技術で世界制覇を目指す姿勢を鮮明にした。科学技術・産業・公共サービス・ガバナンス・国際協力の各分野へのAI統合目標が盛り込まれており、国家主導のAI覇権戦略の総仕上げとなる計画だ。</p>
+            <a class="entry-source" href="https://ca.finance.yahoo.com/news/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout-092350803.html" target="_blank" rel="noopener noreferrer">
+              Yahoo Finance / Reuters <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国の五カ年計画、量子・ヒューマノイドロボも明記</h2>
-            <p class="entry-summary">中国政府の新五カ年政策青写真はAIを経済全体に積極活用する方針を掲げるとともに、量子コンピューティングやヒューマノイドロボットなど新興技術での支配も目標として明記した。AI普及とデータセンター投資計画はこの国家戦略の柱として位置づけられており、2030年までのAI世界覇権を目指す習近平政権の意志を改めて示した。</p>
-            <a class="entry-source" href="https://ca.finance.yahoo.com/news/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-reports-092350803.html" target="_blank" rel="noopener noreferrer">
-              Yahoo Finance / Reuters <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">ByteDance、Seedance 2.0動画生成モデルをテスト中</h2>
+            <p class="entry-summary">TikTok親会社ByteDanceが、OpenAIのSoraのライバルと位置付ける動画生成モデルSeedance 2.0をテスト中であることが明らかになった。デモ動画がオンラインで拡散し注目を集めており、中国テキスト・ビデオAI競争の激化を示す動きとして業界が注視している。</p>
+            <a class="entry-source" href="https://www.trendforce.com/news/2026/02/13/news-deepseek-expands-context-tenfold-as-zhipu-rolls-out-new-model-in-chinas-ai-race/" target="_blank" rel="noopener noreferrer">
+              TrendForce <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

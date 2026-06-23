@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #061614;
     --line: #133858;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,13 +101,13 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 06:36 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">エストニア、世界初「AIエージェントID制度」を導入へ</h2>
-            <p class="entry-summary">エストニアのKristen Michal首相が6月17日、AIエージェントに個人識別番号（AI IDコード）を付与する世界初の制度を発表した。エージェントはデータ閲覧・特定文書作成・限度額内支払いといった定義された範囲内でのみ行動できるようになり、誰が誰の代わりにどの権限で行動しているかが追跡可能になる。エストニアの30年に及ぶ電子国家インフラ（X-Road・電子署名）がこれを実現可能にする。</p>
+            <h2 class="entry-title">エストニア、AIエージェントに個人識別番号を付与へ</h2>
+            <p class="entry-summary">エストニアはAIアシスタントに「個人識別コード」を割り当て、エージェントのオンライン行動を追跡し背後の人物・企業を特定できる仕組みを世界で初めて導入すると発表した。Michal首相はX上で「エージェントのアクセス権は限定的・制御可能・監査可能でなければならない」と述べ、国際標準のモデルケースとなる可能性を示唆している。</p>
             <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-17/estonia-to-grant-ai-bots-legal-rights-with-personal-id-numbers" target="_blank" rel="noopener noreferrer">
               Bloomberg <span aria-hidden="true">&#8599;</span>
             </a>
@@ -114,70 +116,70 @@
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">AIエージェントID構想、国際標準化へ期待高まる</h2>
-            <p class="entry-summary">Michal首相は、エストニアのAIエージェントID制度が「賢く実行されれば国際標準になり得る」と述べた。OECDのデジタル進捗度ランキングでエストニアは5位（ノルウェー・アイルランド・デンマークと同率）にランクインしており、同制度への世界的な注目が高まっている。biometrics専門家らは「エージェント権限の監査可能な制限」がエージェントAI時代の基盤要件になると評価している。</p>
-            <a class="entry-source" href="https://gizmodo.com/estonia-is-giving-ai-agents-personal-identification-codes-2000773016" target="_blank" rel="noopener noreferrer">
-              Gizmodo <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Eesti.ai：生産性2倍を目指す国家AIプログラム始動</h2>
+            <p class="entry-summary">エストニア政府はKristen Michal首相とBolt創業者Markus Villigが主導する国家AIプログラム「Eesti.ai」を発表した。2035年までにエストニアの労働生産性を倍増させることを目標に掲げ、LinnarViik・Kaspar Korjus（Pactum）ら著名起業家で構成される国際諮問委員会が推進する。</p>
+            <a class="entry-source" href="https://estonia.ee/stories/estonia-launches-ai-initiative-to-double-productivity" target="_blank" rel="noopener noreferrer">
+              estonia.ee <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">エストニア、高校生2万人に無料ChatGPTアクセスを提供</h2>
-            <p class="entry-summary">エストニアは10・11年生約2万人を対象に無料ChatGPTアクセスを付与する全国実験を開始した。世界の教育機関がAIを禁止しようとする中、エストニアは学生がすでに広く使用している現実を踏まえ「禁止より統合」を選択し、AI時代の学習の在り方を再設計している。国家レベルで生成AIを教育課程に直接組み込む先駆的な試みとして世界的な関心を集めている。</p>
-            <a class="entry-source" href="https://www.digitaltrends.com/computing/estonia-gave-thousands-of-students-free-chatgpt-instead-of-banning-ai-in-schools/" target="_blank" rel="noopener noreferrer">
-              Digital Trends <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">エストニアが米国クラウドへの依存低減を検討</h2>
+            <p class="entry-summary">エストニアが公共部門のITシステムにおけるMicrosoft・Google・Amazonなど米国テクノロジー企業への依存を軽減する方策を検討していると報じられた。国家データ主権と欧州AI規制（AI法）への対応を念頭に置いたデジタルインフラ戦略の見直しであり、エストニアのソブリンテック指向が強まっている。</p>
+            <a class="entry-source" href="https://www.technologywireestonia.com/press-releases/" target="_blank" rel="noopener noreferrer">
+              Technology Wire Estonia <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">Eesti.ai国家プログラム、15の重点プロジェクトを承認</h2>
-            <p class="entry-summary">Bolt創業者Markus Villligが議長を務めるEesti.ai評議会は4月8日の会合で、エストニアの生産性向上と輸出競争力強化を目指す15の高インパクトプロジェクトを承認した。2035年までに労働生産性倍増・GDP+200億ユーロを目標とし、医療・教育・防衛・エネルギー・金融分野のAI活用に重点を置く。</p>
-            <a class="entry-source" href="https://riigikantselei.ee/en/eestiai-initiative" target="_blank" rel="noopener noreferrer">
-              Estonian Government Chancellery <span aria-hidden="true">&#8599;</span>
-            </a>
-          </div>
-        </li>
-        <li class="entry">
-          <span class="entry-index">05</span>
-          <div class="entry-body">
-            <h2 class="entry-title">エストニアのBürokrattがAIエージェント行政に拡張</h2>
-            <p class="entry-summary">エストニア政府のAIエージェントプラットフォーム「Bürokratt」はすでに公共サービスをAIで処理しており、今回のAI IDコード導入によってエージェントの行動範囲と責任追跡が正式に制度化される。また、エストニア語言語研究所（IEL）はエストニア語LLMの品質・文化的知識・プロパガンダ耐性を評価・ベンチマークする取り組みを継続している。</p>
-            <a class="entry-source" href="https://www.biometricupdate.com/202606/estonias-ai-agent-id-plan-raises-new-questions-about-digital-identity" target="_blank" rel="noopener noreferrer">
-              Biometric Update <span aria-hidden="true">&#8599;</span>
-            </a>
-          </div>
-        </li>
-        <li class="entry">
-          <span class="entry-index">06</span>
-          <div class="entry-body">
-            <h2 class="entry-title">BoltとNVIDIA、欧州向けロボタクシーAI基盤を構築</h2>
-            <p class="entry-summary">エストニア発の配車大手BoltがNVIDIAとパートナーシップを結び、Boltの車両フリートデータを活用してNVIDIA HyperionプラットフォームによるAV開発を欧州規模で加速させると発表した。50カ国超の都市運営ネットワークと規制当局との関係を武器に、欧州独自の自律走行技術エコシステム構築を目指す。</p>
+            <h2 class="entry-title">BoltがNVIDIAと欧州自動運転タクシー向けAI提携</h2>
+            <p class="entry-summary">エストニア発のライドヘイリング大手Boltは、NVIDIA GTC 2026で自動運転開発を加速するための戦略的提携を発表した。Boltの広大な欧州フリートデータをNVIDIAのAIプラットフォームと組み合わせることで、欧州50か国以上でのロボタクシー展開を目指す計画だ。</p>
             <a class="entry-source" href="https://techfundingnews.com/bolt-nvidia-europe-autonomous-vehicles-ai-drive-hyperion/" target="_blank" rel="noopener noreferrer">
               Tech Funding News <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">StartupBlinkがエストニアをスタートアップ世界3位と評価</h2>
+            <p class="entry-summary">StartupBlinkの2026年6月版ランキングで、エストニアは世界3位・中東欧1位のスタートアップエコシステムに選出された。AIやディープテック、防衛テックへの関心が高まる中、Tallinnを中心に約1,500社のスタートアップが活発に活動している。</p>
+            <a class="entry-source" href="https://blog.mean.ceo/startups-estonia-news-june-2026/" target="_blank" rel="noopener noreferrer">
+              blog.mean.ceo <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エストニアのAIエージェント規制が国際標準モデルに注目</h2>
+            <p class="entry-summary">エストニアが提案するAIエージェントへのデジタルID付与制度は、エージェントの権限を「データ閲覧のみ」「文書作成」「一定金額以内の行動」などに細かく限定・監査できる仕組みを想定している。AIエージェントが企業データを誤って削除・流出させる事例が相次ぐ中、この規制モデルが世界の政策立案者から注目されている。</p>
+            <a class="entry-source" href="https://gizmodo.com/estonia-is-giving-ai-agents-personal-identification-codes-2000773016" target="_blank" rel="noopener noreferrer">
+              Gizmodo <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">エストニア、StartupBlink 2026でも世界12位をキープ</h2>
-            <p class="entry-summary">StartupBlinkの2026年グローバルスタートアップエコシステム指数でエストニアは世界12位、東欧・バルト3国トップを維持した。新設スタートアップの約半数にe-Residentsが関与しており、AI・ディープテック・防衛テック分野での活動が活発化している。TallinnはDealroomの2026年指数でアーリーステージVC投資額/人口比で世界3位に評価された。</p>
-            <a class="entry-source" href="https://investinestonia.com/estonia-launches-bold-ai-initiative-to-double-productivity/" target="_blank" rel="noopener noreferrer">
-              Invest in Estonia <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">エストニアのトップ30テック企業の合計価値が277億ユーロに</h2>
+            <p class="entry-summary">PrudentiaとSiena Secondary Fundが発表した年次TopTechランキングによると、エストニアのトップ30テック企業の合計価値は277億ユーロに達し、2年で35%以上増加した。Wise（首位）・Bolt（89億ユーロ）・Pipedrive（22億ユーロ）が上位を占め、防衛テック（+106%）・フィンテック（+97%）が最大の成長セクターとなっている。</p>
+            <a class="entry-source" href="https://estonianworld.com/business/ranking-wise-is-the-most-valuable-estonian-tech-company/" target="_blank" rel="noopener noreferrer">
+              Estonian World <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">Lightyear、AI投資プラットフォームで2300万ドル調達</h2>
-            <p class="entry-summary">エストニア発の投資アプリLightyearがNordicNinja主導のシリーズBで2300万ドルを調達し、Bolt CEOのMarkus Villligらが参加した。AIを活用した「すべての人のためのインテリジェントな投資コンパニオン」として欧州25市場・10言語展開に乗り出す。SkypeとWiseの成功に続くエストニア発の次世代フィンテックユニコーン候補として注目される。</p>
-            <a class="entry-source" href="https://estonianworld.com/business/estonian-investment-app-lightyear-raises-23m-to-fuel-ai-driven-expansion-in-europe/" target="_blank" rel="noopener noreferrer">
-              Estonian World <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">エストニアのAI Leapが職業学校・新10年生へ拡大</h2>
+            <p class="entry-summary">2025年9月に高校2〜3年生を対象に開始したエストニアの国家AIプログラム「AI Leap」が、2026年度より職業学校と新入高校生（約3万8,000人・教師2,000人）に拡大される。OpenAI・Anthropicと連携し、ChatGPT Eduなどを活用した個別最適化学習を全国展開する世界的にも先進的な教育政策だ。</p>
+            <a class="entry-source" href="https://medium.com/pipedrive-engineering/estonias-digital-leap-from-tiger-leap-to-ai-leap-7e1bad12f6b9" target="_blank" rel="noopener noreferrer">
+              Pipedrive Engineering Blog / Medium <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>

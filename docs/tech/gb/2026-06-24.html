@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-
   :root {
     --bg: #061614;
     --line: #133858;
@@ -47,9 +46,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -99,85 +101,85 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-24 &middot; 00:51 JST &middot; 8 dispatches</div>
+    <div class="meta-line mono">2026-06-24 &middot; 06:36 JST &middot; 8 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">ロンドンテックウィーク2026、AI投資60億ポンド超</h2>
-            <p class="entry-summary">6月8〜12日に開催されたロンドンテックウィーク2026では、英国史上最大となる週間AI投資60億ポンド超の公約が集まった。AMD（20億ポンド）、Nebius（17億ポンド）、AWSの80億ポンド再確認、英政府の4億ポンドの主権チップ基金が主な内訳で、8000人分の新規雇用も創出される見込みだ。</p>
+            <h2 class="entry-title">ロンドン・テックウィーク2026でAI投資が過去最高の60億ポンドに</h2>
+            <p class="entry-summary">2026年のロンドン・テックウィークで、AMD・Nebius・AWSなど主要企業と英国政府を合わせたAI投資コミットメントが60億ポンドに達し、英国史上最大の単週AI投資額を記録した。同時に8,000件の新規雇用が生まれることも発表されており、英国のAI産業における国際的競争力の高まりを示している。</p>
             <a class="entry-source" href="https://beststartup.co.uk/london-tech-week-2026-uk-ai-investment/" target="_blank" rel="noopener noreferrer">
-              Best Startup UK <span aria-hidden="true">&#8599;</span>
+              BestStartup.co.uk <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">NHS職員50万5000人にMicrosoft Copilotを展開</h2>
-            <p class="entry-summary">NHS Englandが職員50万5000人にMicrosoft 365 Copilotを展開すると発表した。医療分野では世界最大規模のAI導入であり、3万人参加の試験で1人あたり1日43分の削減効果が確認されている。2026年10月までの完全展開を目指しており、医療系AIの参照事例として世界的な注目を集めている。</p>
-            <a class="entry-source" href="https://www.england.nhs.uk/2026/06/500000-nhs-staff-to-get-new-artificial-intelligence-tools-to-help-free-up-more-time-for-patients/" target="_blank" rel="noopener noreferrer">
-              NHS England <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">PhysicsXが3億ドルのシリーズCで評価額24億ドルに</h2>
+            <p class="entry-summary">ロンドン拠点のAI物理シミュレーション企業PhysicsXが、Temasek主導で3億ドルのシリーズCをクローズし、評価額を1年足らずで約10億ドルから24億ドルへ引き上げた。NVIDIA・Applied Materials・Siemensも参加しており、航空宇宙・半導体・自動車向けの物理AIプラットフォームとして急成長している。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-08/startup-physicsx-hits-2-4-billion-valuation-to-provide-ai-for-manufacturing" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">英政府、AI Hardware Planと4億ポンドチップ戦略を発表</h2>
-            <p class="entry-summary">テクノロジー大臣Liz Kendallがロンドンテックウィーク時期に合わせてAI Hardware Planを発表し、政府として4億ポンドの主権チップ調達を公約した。ARIAが実施するScaling Computeプログラムには1億ポンドが投じられる。AIチップ市場は年率30%成長で2030年代初頭に1兆ドル規模になると試算されており、英国が5%のシェアを確保すれば500億ドルの収益になるとされる。</p>
-            <a class="entry-source" href="https://www.datacenterdynamics.com/en/news/uk-government-to-launch-ai-hardware-plan-later-this-year/" target="_blank" rel="noopener noreferrer">
-              Data Center Dynamics <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">英政府が11億ポンドのAIハードウェア計画を発表</h2>
+            <p class="entry-summary">英国政府はロンドン・テックウィークに合わせ、総額11億ポンドのAIハードウェア計画を発表した。このうち4億ポンドはソブリンAIチップ調達に充て、ARIAによるスケーリングコンピュートプログラムにも1億ポンドを投じる。グローバルAIチップ市場の5%を獲得すれば500億ドル規模の産業が生まれると試算している。</p>
+            <a class="entry-source" href="https://www.gov.uk/government/news/britain-powers-ahead-on-ai-with-billions-of-pounds-of-new-investment-and-thousands-of-jobs-secured-as-london-tech-week-wraps-up" target="_blank" rel="noopener noreferrer">
+              UK Government / Data Center Dynamics <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">PhysicsX、シリーズCで3億ドル調達</h2>
-            <p class="entry-summary">ロンドン拠点のAI工学シミュレーション企業PhysicsXがシリーズCで3億ドルを調達した。NVIDIA・Siemens・Applied Materialsなどが投資家として名を連ね、航空宇宙・防衛・半導体・自動車分野の複雑な設計・シミュレーション作業を数ヶ月から数秒に圧縮するAIプラットフォームを提供している。ロンドンテックウィークでも注目を集めた。</p>
-            <a class="entry-source" href="https://www.uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-physicsx-to-record-os-20260612" target="_blank" rel="noopener noreferrer">
-              UKTN <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">AMDがケンブリッジ・インペリアルと20億ポンドの提携</h2>
+            <p class="entry-summary">AMDはロンドン・テックウィークで、ケンブリッジ大学・インペリアル・カレッジ・ロンドンとの5年間・20億ポンドの提携を発表した。AIチップ開発、研究協力、英国のAI人材パイプライン構築を目的としており、AMDにとって欧州での最大規模の長期投資となる。</p>
+            <a class="entry-source" href="https://beststartup.co.uk/london-tech-week-2026-uk-ai-investment/" target="_blank" rel="noopener noreferrer">
+              BestStartup.co.uk <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">MicrosoftがNHS展開に合わせ英国に300億ドル投資</h2>
-            <p class="entry-summary">MicrosoftはロンドンテックウィークでNHS Copilot展開と同時に英国AIインフラ・スキル分野への300億ドル（約230億ポンド）の投資を発表した。ケンブリッジ大学との提携でMPhil Responsible AI Engineeringコースも共同設立する。英政府・民間の連携によって英国がAI時代をリードするという「国家賭け」の具体化とみなされている。</p>
-            <a class="entry-source" href="https://www.techtimes.com/articles/318275/20260612/london-tech-week-2026-closes-microsofts-30b-uk-push-puts-505000-nhs-staff-copilot.htm" target="_blank" rel="noopener noreferrer">
-              TechTimes <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Oxford Quantum Circuitsが英国最大の量子投資2.6億ポンドを獲得</h2>
+            <p class="entry-summary">英国の量子コンピューティングスケールアップOxford Quantum Circuits（OQC）が、British Business Bankの支援を受けた2億6,000万ポンドの投資ラウンドを完了し、英国史上最大の量子投資ラウンドを達成した。ロンドン・テックウィーク期間中に発表され、英国のディープテック投資の厚みを示す象徴的なディールとなった。</p>
+            <a class="entry-source" href="https://www.gov.uk/government/news/britain-powers-ahead-on-ai-with-billions-of-pounds-of-new-investment-and-thousands-of-jobs-secured-as-london-tech-week-wraps-up" target="_blank" rel="noopener noreferrer">
+              UK Government <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">AMDがケンブリッジ・インペリアルと20億ポンド連携</h2>
-            <p class="entry-summary">AMDはロンドンテックウィークでケンブリッジ大学・インペリアル・カレッジ・ロンドンと5年間で20億ポンドの共同投資を公約した。AIチップ開発・研究連携・英国のAI人材パイプライン構築が主眼で、欧州での長期投資先として英国の規制環境と研究エコシステムを高く評価しての決断とされる。</p>
-            <a class="entry-source" href="https://beststartup.co.uk/london-tech-week-2026-uk-ai-investment/" target="_blank" rel="noopener noreferrer">
-              Best Startup UK <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">Google DeepMind元研究者設立のReflectionがUKオフィス拡大</h2>
+            <p class="entry-summary">旧Google DeepMindの研究者Misha LaskinとIoannis Antonoglouが設立したオープンソースAIラボReflectionが、英国での採用を今後12カ月で100人超、3年以内に1,000人以上に拡大する計画を発表した。英国の研究人材の厚みと規制面での明確性が、米国外での拠点として英国を選んだ主な理由とされている。</p>
+            <a class="entry-source" href="https://www.gov.uk/government/news/britain-powers-ahead-on-ai-with-billions-of-pounds-of-new-investment-and-thousands-of-jobs-secured-as-london-tech-week-wraps-up" target="_blank" rel="noopener noreferrer">
+              UK Government <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">07</span>
           <div class="entry-body">
-            <h2 class="entry-title">英国量子投資、20億ポンドで年間投資額が倍増</h2>
-            <p class="entry-summary">ロンドンテックウィーク期間中にOffice for Quantumが20億ポンドパッケージを確定し、英国の年間量子投資が倍増した。ソフトウェア開発から公共部門応用まで幅広い量子戦略を展示するショーケースが設けられ、AI時代を支えるポスト量子技術の早期確立を目指す英国の姿勢が示された。</p>
-            <a class="entry-source" href="https://www.techtimes.com/articles/318275/20260612/london-tech-week-2026-closes-microsofts-30b-uk-push-puts-505000-nhs-staff-copilot.htm" target="_blank" rel="noopener noreferrer">
-              TechTimes <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">英国議会がAI規制調査報告書を公表</h2>
+            <p class="entry-summary">英国下院図書館は2026年6月10日付でAI規制に関する最新調査報告書を公表した。EU AI法の施行マイルストーンが近づく中、英国が独自の産業横断的アプローチを維持しながらも規制の明確化を進める方向性が示されており、企業のAI導入にとっての重要な政策指針となっている。</p>
+            <a class="entry-source" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10003/" target="_blank" rel="noopener noreferrer">
+              UK House of Commons Library <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">08</span>
           <div class="entry-body">
-            <h2 class="entry-title">英AIスタートアップ、2026年上半期に82億ポンド調達</h2>
-            <p class="entry-summary">英国のAIスタートアップが2026年上半期に合計82億ポンドを調達し、過去最高ペースを記録した。ロンドンは欧州の覇権的テック首都としての地位を維持しており、12の新ユニコーンが2026年に誕生した。AMDやNebius、AWSによるインフラ投資が今後18〜24ヶ月で国内スタートアップのコンピュートコストを大幅に下げる見通しだ。</p>
-            <a class="entry-source" href="https://techfundingnews.com/london-tech-week-2026-ai/" target="_blank" rel="noopener noreferrer">
-              Tech Funding News <span aria-hidden="true">&#8599;</span>
+            <h2 class="entry-title">ReplitがロンドンにAIコーディングオフィスを開設</h2>
+            <p class="entry-summary">米国のAIコーディングプラットフォームReplitが2026年内にロンドンオフィスをオープンすると発表した。ロンドン・テックウィークで表明されたもので、SpaceX/CursorやOpenAI/Astralによるコーディングツール争奪戦が激化する中、欧州市場でのプレゼンス確立を急ぐ戦略的一手となっている。</p>
+            <a class="entry-source" href="https://www.gov.uk/government/news/britain-powers-ahead-on-ai-with-billions-of-pounds-of-new-investment-and-thousands-of-jobs-secured-as-london-tech-week-wraps-up" target="_blank" rel="noopener noreferrer">
+              UK Government <span aria-hidden="true">&#8599;</span>
             </a>
           </div>
         </li>
