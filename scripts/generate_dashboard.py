@@ -158,7 +158,7 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
     system_prompt = build_system_prompt(genre_cfg)
     user_message = build_user_message(genre_cfg, today_jst)
 
-    response = client.messages.create(
+    with client.messages.stream(
         model=MODEL,
         max_tokens=MAX_TOKENS,
         system=system_prompt,
@@ -170,7 +170,8 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
             }
         ],
         messages=[{"role": "user", "content": user_message}],
-    )
+    ) as stream:
+        response = stream.get_final_message()
 
     text_blocks = [block.text for block in response.content if block.type == "text"]
     raw = "".join(text_blocks).strip()
