@@ -13,12 +13,15 @@
     --text: #f1ecdd;
     --text-dim: #b7ae96;
     --amber: #f2a93b;
+    --signal: #6fbe8f;
   }
+  * { box-sizing: border-box; }
   body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
     font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
   }
   .mono { font-family: 'JetBrains Mono', monospace; }
   .wrap {
@@ -26,33 +29,190 @@
     margin: 0 auto;
     padding: 32px 20px 64px;
   }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
   .masthead-title {
     font-size: 14px;
     letter-spacing: 0.12em;
     color: var(--amber);
     font-weight: 700;
-    border-bottom: 1px solid var(--line);
-    display: block;
-    padding-bottom: 16px;
+  }
+  .live-tag {
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--signal);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .live-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--signal);
+    animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .live-dot { animation: none; }
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.25; }
+  }
+  .meta-line {
+    font-size: 12px;
+    color: var(--text-dim);
     margin-bottom: 28px;
   }
-  .empty {
+  ul.entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .entry {
+    display: flex;
+    gap: 16px;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .entry:last-child { border-bottom: none; }
+  .entry-index {
+    flex: 0 0 auto;
+    color: var(--amber);
+    font-size: 13px;
+    padding-top: 3px;
+  }
+  .entry-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 8px;
+    letter-spacing: 0.01em;
+  }
+  .entry-summary {
     font-size: 14px;
     color: var(--text-dim);
-    line-height: 1.8;
+    margin: 0 0 10px;
   }
-  .empty strong { color: var(--text); }
+  .entry-source {
+    font-size: 12px;
+    color: var(--amber);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  footer {
+    margin-top: 40px;
+    font-size: 11px;
+    color: var(--text-dim);
+    opacity: 0.7;
+  }
 </style>
 </head>
 <body>
   <div class="wrap">
-    <span class="masthead-title mono">AI WIRE &#9656; US EDITION</span>
-    <p class="empty">
-      <strong>まだダッシュボードは生成されていません。</strong><br>
-      GitHub Actionsの「Daily AI News Dashboard」を一度実行すると、
-      ここに最新のAIニュースが表示されます。<br><br>
-      Actionsタブ &rarr; Daily AI News Dashboard &rarr; Run workflow
-    </p>
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <div class="meta-line mono">2026-06-23 &middot; 23:09 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Google、Gemini 2.5 Pro Deep Thinkをリリース</h2>
+            <p class="entry-summary">Googleは6月22日、最新フラッグシップモデル「Gemini 2.5 Pro with Deep Think」をAPI・AI Studio・Vertex AIで一般公開した。200万トークンのコンテキストウィンドウと多段階推論モードを備え、LiveCodeBenchやHumanity&#x27;s Last Examで最高スコアを記録したとされる。Fable 5の政府強制停止直後というタイミングで、現時点で最強の公開フロンティアモデルと評価されている。</p>
+            <a class="entry-source" href="https://medium.com/adi-insights-innovations-collective/ai-update-monday-june-22-2026-ad347993f9ad" target="_blank" rel="noopener noreferrer">
+              Medium / ADI Insights <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Claude Fable 5が本日より有料化——無料枠は終了</h2>
+            <p class="entry-summary">Anthropicは6月23日より、Claude Fable 5をPro・Max・Team・Enterprise向けの無料枠から外し、入力$10／出力$50（100万トークンあたり）のクレジット課金に移行した。ただし政府の輸出規制により6月12〜18日の6日間がオフラインだったにもかかわらず、Anthropicは無料期間の延長や補償を発表していない。エンタープライズユーザーにとっては、単一プロバイダー依存のリスクを痛感させられた出来事となった。</p>
+            <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026" target="_blank" rel="noopener noreferrer">
+              Build Fast with AI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SpaceX、AIコーディングツールCursorを600億ドルで買収</h2>
+            <p class="entry-summary">SpaceXは6月16日、AIコードエディタのCursorを600億ドル相当の株式交換で買収すると正式発表した。CursorはARR（年間経常収益）10億ドルを超える急成長企業で、SpaceXのNasdaq上場直後の電撃的な大型M&amp;Aとなった。AnthropicやOpenAIのコーディングツールへの対抗軸として注目され、2026年第3四半期に決済完了予定。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ノーベル賞受賞者Jumper氏がDeepMindを離れAnthropicへ</h2>
+            <p class="entry-summary">AlphaFoldの共同開発者でノーベル化学賞受賞者のJohn Jumper上席研究員が6月19日、Google DeepMindを退職しAnthropicへ移籍すると発表した。同じ週にはGeminiモデルの共同リードであるNoam Shazeer副社長もOpenAIへ転職を表明しており、Google DeepMindから主要AI人材が相次いで流出している。Alphabetの株価はJumper氏の離職発表当日に最大7.2%下落した。</p>
+            <a class="entry-source" href="https://www.cnbc.com/amp/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">トランプ大統領、AIイノベーション・安全保障大統領令に署名</h2>
+            <p class="entry-summary">トランプ大統領は6月2日、大統領令「Promoting Advanced AI Innovation and Security」に署名した。政府機関に30〜60日以内にAIサイバーセキュリティ体制を強化することを指示し、フロンティアモデルの政府への事前提供（最大30日）を任意ベースで求める枠組みを設ける。必須ライセンスや事前審査は明示的に禁止しており、規制より産業連携を優先するアプローチを維持している。</p>
+            <a class="entry-source" href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/" target="_blank" rel="noopener noreferrer">
+              The White House <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Gemini 3.5 Pro、6月末GA目前——2Mトークン文脈窓に注目</h2>
+            <p class="entry-summary">Google I/Oで予告されたGemini 3.5 ProのGA（一般提供開始）が6月23〜30日の間に見込まれている。200万トークンのコンテキストウィンドウ（現行フロンティアモデル最大）とDeep Think推論モードを搭載し、価格は入力$15／出力$60（100万トークンあたり）が見込まれる。Fable 5の停止で競合が手薄になったタイミングを狙ったリリース戦略とも見られている。</p>
+            <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026" target="_blank" rel="noopener noreferrer">
+              Build Fast with AI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Andrej Karpathy氏がAnthropicに電撃移籍</h2>
+            <p class="entry-summary">OpenAIとTeslaでの勤務で知られる著名AI研究者・教育者のAndrej Karpathy氏が、Anthropicに加入したことを発表した。大規模言語モデルのR&amp;D最前線に戻ることが目的とされており、Jumper氏の移籍と合わせAnthropicへの人材集中が加速している。Karpathy氏は教育活動への復帰意欲も示しており、今後の動向が注目される。</p>
+            <a class="entry-source" href="https://dentro.de/ai/news/" target="_blank" rel="noopener noreferrer">
+              dentro.de/ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Reflection AI、SpaceXと最大63億ドルの計算資源契約を締結</h2>
+            <p class="entry-summary">オープンソース系AIスタートアップのReflection AIは、SpaceX（Colossus 2データセンター）のNVIDIA GB300チップに対して月1億5000万ドルを2029年まで支払う大型コンピュート契約を結んだ。SpaceXのAIインフラビジネスはAnthropicやGoogleとの既存契約を含め年間750億ドル規模に達しており、ロケット会社から「AIクラウド企業」への変貌が鮮明になっている。</p>
+            <a class="entry-source" href="https://llm-stats.com/ai-news" target="_blank" rel="noopener noreferrer">
+              LLM Stats / CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
   </div>
 </body>
 </html>
