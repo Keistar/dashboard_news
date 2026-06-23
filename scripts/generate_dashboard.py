@@ -26,11 +26,13 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 import anthropic
+from json_repair import repair_json
 
 MODEL = "claude-sonnet-4-6"
 MAX_STORIES = 8
 MAX_TOKENS = 32000
 WEB_SEARCH_MAX_USES = 24  # ~4 searches per country × 6 countries
+MAX_RETRIES = 3
 
 JST = timezone(timedelta(hours=9))
 
@@ -151,13 +153,7 @@ def build_user_message(genre_cfg: dict, today_jst: str) -> str:
     )
 
 
-def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
-    client = anthropic.Anthropic()
-
-    today_jst = datetime.now(JST).strftime("%Y年%m月%d日")
-    system_prompt = build_system_prompt(genre_cfg)
-    user_message = build_user_message(genre_cfg, today_jst)
-
+def _call_api(client: anthropic.Anthropic, system_prompt: str, user_message: str) -> str:
     with client.messages.stream(
         model=MODEL,
         max_tokens=MAX_TOKENS,
@@ -189,12 +185,42 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
     json_match = re.search(r"\{.*\}", raw, re.DOTALL)
     if not json_match:
         raise ValueError(f"No JSON object found in response (first 300 chars): {raw[:300]!r}")
-    raw = json_match.group(0)
+    return json_match.group(0)
 
+
+def _parse_json(raw: str) -> dict:
     try:
-        data = json.loads(raw)
+        return json.loads(raw)
     except json.JSONDecodeError as exc:
-        raise ValueError(f"JSON parse error ({exc}); raw (first 300 chars): {raw[:300]!r}") from exc
+        print(f"JSON parse failed ({exc}); attempting repair…", file=sys.stderr)
+        repaired = repair_json(raw, return_objects=True)
+        if isinstance(repaired, dict):
+            return repaired
+        raise ValueError(
+            f"JSON repair also failed; raw (first 300 chars): {raw[:300]!r}"
+        ) from exc
+
+
+def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
+    client = anthropic.Anthropic()
+
+    today_jst = datetime.now(JST).strftime("%Y年%m月%d日")
+    system_prompt = build_system_prompt(genre_cfg)
+    user_message = build_user_message(genre_cfg, today_jst)
+
+    last_exc: Exception | None = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            raw = _call_api(client, system_prompt, user_message)
+            data = _parse_json(raw)
+            break
+        except Exception as exc:
+            last_exc = exc
+            print(f"Attempt {attempt}/{MAX_RETRIES} failed: {exc}", file=sys.stderr)
+            if attempt == MAX_RETRIES:
+                raise ValueError(f"All {MAX_RETRIES} attempts failed") from last_exc
+    else:
+        raise ValueError(f"All {MAX_RETRIES} attempts failed") from last_exc
 
     countries_data = data.get("countries", {})
     result: dict[str, list[dict]] = {}
