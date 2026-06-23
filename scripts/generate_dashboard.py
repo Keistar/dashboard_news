@@ -17,6 +17,7 @@ import anthropic
 
 MODEL = "claude-sonnet-4-6"
 MAX_STORIES = 8
+MAX_TOKENS = 16000
 OUTPUT_PATH = "docs/index.html"
 
 JST = timezone(timedelta(hours=9))
@@ -55,7 +56,7 @@ def fetch_stories() -> list[dict]:
 
     response = client.messages.create(
         model=MODEL,
-        max_tokens=4096,
+        max_tokens=MAX_TOKENS,
         system=SYSTEM_PROMPT,
         tools=[
             {
@@ -79,11 +80,27 @@ def fetch_stories() -> list[dict]:
     text_blocks = [block.text for block in response.content if block.type == "text"]
     raw = "".join(text_blocks).strip()
 
-    # Defensive cleanup in case the model wraps JSON in a code fence anyway.
+    if not raw:
+        block_types = [block.type for block in response.content]
+        raise ValueError(
+            f"Model returned no text blocks (stop_reason={response.stop_reason!r}, "
+            f"block types={block_types})"
+        )
+
+    # Strip code fences the model may add despite being told not to.
     raw = re.sub(r"^```(?:json)?", "", raw).strip()
     raw = re.sub(r"```$", "", raw).strip()
 
-    data = json.loads(raw)
+    # Extract the outermost JSON object in case the model adds surrounding text.
+    json_match = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not json_match:
+        raise ValueError(f"No JSON object found in response (first 300 chars): {raw[:300]!r}")
+    raw = json_match.group(0)
+
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"JSON parse error ({exc}); raw (first 300 chars): {raw[:300]!r}") from exc
     stories = data.get("stories", [])[:MAX_STORIES]
     if not stories:
         raise ValueError("No stories returned by the model")
