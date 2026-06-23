@@ -1,15 +1,22 @@
 """
-Generates a multi-page AI news dashboard.
+Generates a multi-page news dashboard.
 
 Page structure:
-  docs/index.html              — top page: country list
-  docs/{country}/index.html    — country page: date list (newest first)
-  docs/{country}/{date}.html   — article page: daily stories
+  docs/index.html                           — top page: genre list
+  docs/{genre}/index.html                   — genre page: country list
+  docs/{genre}/{country}/index.html         — country page: date list (newest first)
+  docs/{genre}/{country}/{date}.html        — article page: daily stories
 
-Run via GitHub Actions (see .github/workflows/daily-ai-news.yml).
+Usage:
+  python scripts/generate_dashboard.py --genre tech
+  python scripts/generate_dashboard.py --genre economy
+  python scripts/generate_dashboard.py --genre entertainment
+
+Run via GitHub Actions (see .github/workflows/).
 Requires the ANTHROPIC_API_KEY environment variable.
 """
 
+import argparse
 import glob
 import html
 import json
@@ -27,28 +34,91 @@ WEB_SEARCH_MAX_USES = 24  # ~4 searches per country × 6 countries
 
 JST = timezone(timedelta(hours=9))
 
-COUNTRIES = [
-    {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
-    {"code": "il", "label_ja": "イスラエル", "label_en": "IL EDITION", "name_en": "Israel"},
-    {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
-    {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
-    {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
-    {"code": "ee", "label_ja": "エストニア", "label_en": "EE EDITION", "name_en": "Estonia"},
-]
+GENRES = {
+    "tech": {
+        "label_ja": "IT・科学",
+        "label_en": "TECH & SCIENCE",
+        "system_prompt_intro": (
+            "You are a global news curator producing a daily AI and tech briefing "
+            "for a Japanese software engineer who reads it every morning. Use the web_search tool to "
+            "find the most significant AI and tech news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "model releases, funding rounds, major product launches, "
+            "regulation, notable research, key personnel moves"
+        ),
+        "user_message_ja": "AI・テック業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "il", "label_ja": "イスラエル", "label_en": "IL EDITION", "name_en": "Israel"},
+            {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
+            {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
+            {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
+            {"code": "ee", "label_ja": "エストニア", "label_en": "EE EDITION", "name_en": "Estonia"},
+        ],
+    },
+    "economy": {
+        "label_ja": "経済",
+        "label_en": "ECONOMY",
+        "system_prompt_intro": (
+            "You are a global news curator producing a daily economics and finance briefing "
+            "for a Japanese reader who follows global markets. Use the web_search tool to "
+            "find the most significant economic and financial news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "stock markets, trade policy, corporate earnings, GDP data, "
+            "central bank decisions, employment, major M&A"
+        ),
+        "user_message_ja": "経済・金融業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
+            {"code": "jp", "label_ja": "日本",       "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "de", "label_ja": "ドイツ",     "label_en": "DE EDITION", "name_en": "Germany"},
+            {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
+            {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
+        ],
+    },
+    "entertainment": {
+        "label_ja": "エンタメ・芸能",
+        "label_en": "ENTERTAINMENT",
+        "system_prompt_intro": (
+            "You are a global news curator producing a daily entertainment and celebrity briefing "
+            "for a Japanese reader interested in pop culture worldwide. Use the web_search tool to "
+            "find the most significant entertainment and celebrity news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "movies, music releases, TV and streaming, celebrities, "
+            "award shows, concerts, pop culture trends"
+        ),
+        "user_message_ja": "エンタメ・芸能界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",       "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "kr", "label_ja": "韓国",       "label_en": "KR EDITION", "name_en": "South Korea"},
+            {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
+            {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
+            {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
+        ],
+    },
+}
 
-_COUNTRY_LIST = "\n".join(
-    f'  - "{c["code"]}": {c["name_en"]}' for c in COUNTRIES
-)
 
-SYSTEM_PROMPT = f"""You are a global news curator producing a daily AI and tech briefing \
-for a Japanese software engineer who reads it every morning. Use the web_search tool to \
-find the most significant AI and tech news that broke in the last 24-48 hours in each of \
-these 6 regions:
+def build_system_prompt(genre_cfg: dict) -> str:
+    countries = genre_cfg["countries"]
+    country_list = "\n".join(f'  - "{c["code"]}": {c["name_en"]}' for c in countries)
 
-{_COUNTRY_LIST}
+    first = countries[0]["code"]
+    rest_lines = "\n".join(
+        f'    "{c["code"]}": {{ "stories": [ ... ] }},'
+        for c in countries[1:]
+    )
 
-For each country, pick the {MAX_STORIES} most important stories (model releases, funding \
-rounds, major product launches, regulation, notable research, key personnel moves). \
+    return f"""{genre_cfg["system_prompt_intro"]} in each of these {len(countries)} regions:
+
+{country_list}
+
+For each country, pick the {MAX_STORIES} most important stories ({genre_cfg["story_types"]}). \
 For each story, write the title and summary in natural, concise Japanese.
 
 Respond with ONLY valid JSON — no markdown fences, no commentary — matching exactly \
@@ -56,7 +126,7 @@ this schema:
 
 {{
   "countries": {{
-    "us": {{
+    "{first}": {{
       "stories": [
         {{
           "title_ja": "string, <=40 characters, no trailing period",
@@ -66,25 +136,32 @@ this schema:
         }}
       ]
     }},
-    "il": {{ "stories": [ ... ] }},
-    "cn": {{ "stories": [ ... ] }},
-    "in": {{ "stories": [ ... ] }},
-    "gb": {{ "stories": [ ... ] }},
-    "ee": {{ "stories": [ ... ] }}
+{rest_lines}
   }}
 }}
 """
 
 
-def fetch_all_stories() -> dict[str, list[dict]]:
+def build_user_message(genre_cfg: dict, today_jst: str) -> str:
+    countries_ja = "・".join(c["label_ja"] for c in genre_cfg["countries"])
+    return (
+        f"今日は{today_jst}（日本時間）です。"
+        f"{countries_ja}それぞれの"
+        f"{genre_cfg['user_message_ja']}"
+    )
+
+
+def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
     client = anthropic.Anthropic()
 
     today_jst = datetime.now(JST).strftime("%Y年%m月%d日")
+    system_prompt = build_system_prompt(genre_cfg)
+    user_message = build_user_message(genre_cfg, today_jst)
 
     response = client.messages.create(
         model=MODEL,
         max_tokens=MAX_TOKENS,
-        system=SYSTEM_PROMPT,
+        system=system_prompt,
         tools=[
             {
                 "type": "web_search_20250305",
@@ -92,16 +169,7 @@ def fetch_all_stories() -> dict[str, list[dict]]:
                 "max_uses": WEB_SEARCH_MAX_USES,
             }
         ],
-        messages=[
-            {
-                "role": "user",
-                "content": (
-                    f"今日は{today_jst}（日本時間）です。"
-                    "アメリカ・イスラエル・中国・インド・イギリス・エストニアそれぞれの"
-                    "AI・テック業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。"
-                ),
-            }
-        ],
+        messages=[{"role": "user", "content": user_message}],
     )
 
     text_blocks = [block.text for block in response.content if block.type == "text"]
@@ -129,7 +197,7 @@ def fetch_all_stories() -> dict[str, list[dict]]:
 
     countries_data = data.get("countries", {})
     result: dict[str, list[dict]] = {}
-    for c in COUNTRIES:
+    for c in genre_cfg["countries"]:
         code = c["code"]
         stories = countries_data.get(code, {}).get("stories", [])[:MAX_STORIES]
         if not stories:
@@ -256,8 +324,13 @@ _ENTRY = """\
 
 # ─── render functions ─────────────────────────────────────────────────────────
 
-def render_article_page(stories: list[dict], date_str: str, time_str: str, country: dict) -> str:
+def render_article_page(
+    stories: list[dict], date_str: str, time_str: str,
+    country: dict, genre_cfg: dict,
+) -> str:
     label_en = country["label_en"]
+    label_en_genre = genre_cfg["label_en"]
+
     entries = ""
     for i, story in enumerate(stories, start=1):
         entries += _ENTRY.format(
@@ -271,10 +344,12 @@ def render_article_page(stories: list[dict], date_str: str, time_str: str, count
     return (
         _head(f"AI WIRE — {date_str} — {label_en}")
         + '    <div class="masthead">\n'
-        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en}</span>\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en_genre} &#9656; {label_en}</span>\n'
         + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
         + '    </div>\n'
         + '    <nav class="breadcrumb mono">\n'
+        + '      <a href="../../index.html">ジャンル一覧</a>\n'
+        + '      <span class="breadcrumb-sep">/</span>\n'
         + '      <a href="../index.html">国一覧</a>\n'
         + '      <span class="breadcrumb-sep">/</span>\n'
         + '      <a href="index.html">日付一覧</a>\n'
@@ -287,8 +362,10 @@ def render_article_page(stories: list[dict], date_str: str, time_str: str, count
     )
 
 
-def render_country_index(dates: list[str], country: dict) -> str:
+def render_country_index(dates: list[str], country: dict, genre_cfg: dict) -> str:
     label_en = country["label_en"]
+    label_en_genre = genre_cfg["label_en"]
+
     items = ""
     for date in dates:
         items += (
@@ -303,9 +380,13 @@ def render_country_index(dates: list[str], country: dict) -> str:
     return (
         _head(f"AI WIRE — {label_en}")
         + '    <div class="masthead">\n'
-        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en}</span>\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en_genre} &#9656; {label_en}</span>\n'
         + '    </div>\n'
-        + '    <a href="../index.html" class="back-link mono">&#8592; 国一覧</a>\n'
+        + '    <nav class="breadcrumb mono">\n'
+        + '      <a href="../../index.html">ジャンル一覧</a>\n'
+        + '      <span class="breadcrumb-sep">/</span>\n'
+        + '      <a href="../index.html">国一覧</a>\n'
+        + '    </nav>\n'
         + '    <p class="section-label mono">ARCHIVE</p>\n'
         + '    <ul class="nav-list">\n'
         + items
@@ -314,9 +395,12 @@ def render_country_index(dates: list[str], country: dict) -> str:
     )
 
 
-def render_top_index() -> str:
+def render_genre_index(genre_cfg: dict) -> str:
+    label_ja = genre_cfg["label_ja"]
+    label_en = genre_cfg["label_en"]
+
     items = ""
-    for c in COUNTRIES:
+    for c in genre_cfg["countries"]:
         items += (
             '      <li class="nav-item">\n'
             f'        <a href="{c["code"]}/index.html" class="nav-link">\n'
@@ -330,12 +414,42 @@ def render_top_index() -> str:
         )
 
     return (
+        _head(f"AI WIRE — {label_ja}")
+        + '    <div class="masthead">\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en}</span>\n'
+        + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
+        + '    </div>\n'
+        + '    <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>\n'
+        + '    <p class="section-label mono">EDITION</p>\n'
+        + '    <ul class="nav-list">\n'
+        + items
+        + '    </ul>\n'
+        + _FOOT
+    )
+
+
+def render_top_index() -> str:
+    items = ""
+    for gcode, g in GENRES.items():
+        items += (
+            '      <li class="nav-item">\n'
+            f'        <a href="{gcode}/index.html" class="nav-link">\n'
+            '          <span class="nav-label">\n'
+            f'            <span class="nav-label-main">{g["label_ja"]}</span>\n'
+            f'            <span class="nav-label-sub mono">{g["label_en"]}</span>\n'
+            '          </span>\n'
+            '          <span class="nav-arrow mono">&#8599;</span>\n'
+            '        </a>\n'
+            '      </li>\n'
+        )
+
+    return (
         _head("AI WIRE")
         + '    <div class="masthead">\n'
         + '      <span class="masthead-title mono">AI WIRE</span>\n'
         + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
         + '    </div>\n'
-        + '    <p class="section-label mono">EDITION</p>\n'
+        + '    <p class="section-label mono">GENRE</p>\n'
         + '    <ul class="nav-list">\n'
         + items
         + '    </ul>\n'
@@ -346,8 +460,15 @@ def render_top_index() -> str:
 # ─── main ────────────────────────────────────────────────────────────────────
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Generate news dashboard for a genre.")
+    parser.add_argument("--genre", required=True, choices=list(GENRES.keys()))
+    args = parser.parse_args()
+
+    genre_code = args.genre
+    genre_cfg = GENRES[genre_code]
+
     try:
-        all_stories = fetch_all_stories()
+        all_stories = fetch_all_stories(genre_cfg)
     except Exception as exc:
         print(f"Failed to fetch stories: {exc}", file=sys.stderr)
         sys.exit(1)
@@ -356,19 +477,19 @@ def main() -> None:
     date_str = now_jst.strftime("%Y-%m-%d")
     time_str = now_jst.strftime("%H:%M JST")
 
-    for country in COUNTRIES:
+    for country in genre_cfg["countries"]:
         code = country["code"]
         stories = all_stories.get(code, [])
         if not stories:
             print(f"Skipping {code}: no stories", file=sys.stderr)
             continue
 
-        country_dir = f"docs/{code}"
+        country_dir = f"docs/{genre_code}/{code}"
         os.makedirs(country_dir, exist_ok=True)
 
         article_path = f"{country_dir}/{date_str}.html"
         with open(article_path, "w", encoding="utf-8") as f:
-            f.write(render_article_page(stories, date_str, time_str, country))
+            f.write(render_article_page(stories, date_str, time_str, country, genre_cfg))
         print(f"Wrote {len(stories)} stories to {article_path}")
 
         date_files = sorted(
@@ -378,8 +499,14 @@ def main() -> None:
         dates = [os.path.basename(p).replace(".html", "") for p in date_files]
         country_index_path = f"{country_dir}/index.html"
         with open(country_index_path, "w", encoding="utf-8") as f:
-            f.write(render_country_index(dates, country))
+            f.write(render_country_index(dates, country, genre_cfg))
         print(f"Wrote country index ({len(dates)} dates) to {country_index_path}")
+
+    genre_index_path = f"docs/{genre_code}/index.html"
+    os.makedirs(f"docs/{genre_code}", exist_ok=True)
+    with open(genre_index_path, "w", encoding="utf-8") as f:
+        f.write(render_genre_index(genre_cfg))
+    print(f"Wrote genre index to {genre_index_path}")
 
     top_index_path = "docs/index.html"
     with open(top_index_path, "w", encoding="utf-8") as f:
