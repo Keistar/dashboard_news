@@ -40,6 +40,13 @@ GENRES = {
     "tech": {
         "label_ja": "IT・科学",
         "label_en": "TECH & SCIENCE",
+        # theme[0]=genre page, theme[1]=country page, theme[2]=article page (muted→vivid)
+        "bg": "#061614",
+        "theme": [
+            {"line": "#0b2035", "amber": "#1b9688", "signal": "#007fb8"},
+            {"line": "#102840", "amber": "#2ecfba", "signal": "#00b8e6"},
+            {"line": "#133858", "amber": "#50e4d0", "signal": "#33ccf5"},
+        ],
         "system_prompt_intro": (
             "You are a global news curator producing a daily AI and tech briefing "
             "for a Japanese software engineer who reads it every morning. Use the web_search tool to "
@@ -62,6 +69,12 @@ GENRES = {
     "economy": {
         "label_ja": "経済",
         "label_en": "ECONOMY",
+        "bg": "#0f0d07",
+        "theme": [
+            {"line": "#1e1a06", "amber": "#a07d1e", "signal": "#b09012"},
+            {"line": "#2a2208", "amber": "#e8b84b", "signal": "#f5c518"},
+            {"line": "#342a08", "amber": "#f5cc70", "signal": "#ffd94a"},
+        ],
         "system_prompt_intro": (
             "You are a global news curator producing a daily economics and finance briefing "
             "for a Japanese reader who follows global markets. Use the web_search tool to "
@@ -84,6 +97,12 @@ GENRES = {
     "entertainment": {
         "label_ja": "エンタメ・芸能",
         "label_en": "ENTERTAINMENT",
+        "bg": "#0d0712",
+        "theme": [
+            {"line": "#1c0828", "amber": "#8e24b4", "signal": "#cc3570"},
+            {"line": "#220a32", "amber": "#e040fb", "signal": "#ff6b9d"},
+            {"line": "#2a0c3c", "amber": "#ef72ff", "signal": "#ff9ec0"},
+        ],
         "system_prompt_intro": (
             "You are a global news curator producing a daily entertainment and celebrity briefing "
             "for a Japanese reader interested in pop culture worldwide. Use the web_search tool to "
@@ -235,17 +254,7 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
 
 # ─── shared CSS ───────────────────────────────────────────────────────────────
 
-_CSS = """
-  :root {
-    --bg: #07101e;
-    --line: #102840;
-    --text: #c8dff0;
-    --text-dim: #527898;
-    --amber: #2ecfba;
-    --signal: #00b8e6;
-  }
-  * { box-sizing: border-box; }
-  body {
+_CSS_BODY = """  body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
@@ -275,9 +284,12 @@ _CSS = """
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -285,7 +297,7 @@ _CSS = """
   .breadcrumb a { color: var(--text-dim); text-decoration: none; }
   .breadcrumb a:hover { color: var(--amber); }
   .breadcrumb-sep { color: var(--line); }
-  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
   .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
   /* article list */
   ul.entries { list-style: none; margin: 0; padding: 0; }
@@ -293,7 +305,7 @@ _CSS = """
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
   .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
-  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
   /* nav list */
@@ -320,15 +332,43 @@ _FONTS = (
     ':wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">'
 )
 
+_DEFAULT_THEME = {"line": "#102840", "amber": "#2ecfba", "signal": "#00b8e6"}
 
-def _head(title: str) -> str:
+
+def _css(theme: dict, bg: str = "#07101e") -> str:
+    root = (
+        "  :root {\n"
+        f"    --bg: {bg};\n"
+        f"    --line: {theme.get('line', '#102840')};\n"
+        "    --text: #c8dff0;\n"
+        "    --text-dim: #7298b8;\n"
+        f"    --amber: {theme['amber']};\n"
+        f"    --signal: {theme['signal']};\n"
+        "  }\n"
+        "  * { box-sizing: border-box; }\n"
+    )
+    return root + _CSS_BODY
+
+
+def _resolve_theme(genre_cfg: dict | None, depth: int) -> dict:
+    """depth: 0=top, 1=genre, 2=country, 3=article"""
+    if not genre_cfg or "theme" not in genre_cfg:
+        return _DEFAULT_THEME
+    themes = genre_cfg["theme"]
+    idx = max(0, min(depth - 1, len(themes) - 1))
+    return themes[idx]
+
+
+def _head(title: str, genre_cfg: dict | None = None, depth: int = 0) -> str:
+    theme = _resolve_theme(genre_cfg, depth)
+    bg = genre_cfg["bg"] if genre_cfg and "bg" in genre_cfg else "#07101e"
     return (
         '<!doctype html>\n<html lang="ja">\n<head>\n'
         '<meta charset="utf-8" />\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1" />\n'
         f'<title>{title}</title>\n'
         + _FONTS + '\n'
-        '<style>\n' + _CSS + '</style>\n'
+        '<style>\n' + _css(theme, bg) + '</style>\n'
         '</head>\n<body>\n  <div class="wrap">\n'
     )
 
@@ -369,7 +409,7 @@ def render_article_page(
         )
 
     return (
-        _head(f"AI WIRE — {date_str} — {label_en}")
+        _head(f"AI WIRE — {date_str} — {label_en}", genre_cfg, depth=3)
         + '    <div class="masthead">\n'
         + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en_genre} &#9656; {label_en}</span>\n'
         + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
@@ -405,7 +445,7 @@ def render_country_index(dates: list[str], country: dict, genre_cfg: dict) -> st
         )
 
     return (
-        _head(f"AI WIRE — {label_en}")
+        _head(f"AI WIRE — {label_en}", genre_cfg, depth=2)
         + '    <div class="masthead">\n'
         + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en_genre} &#9656; {label_en}</span>\n'
         + '    </div>\n'
@@ -441,12 +481,16 @@ def render_genre_index(genre_cfg: dict) -> str:
         )
 
     return (
-        _head(f"AI WIRE — {label_ja}")
+        _head(f"AI WIRE — {label_ja}", genre_cfg, depth=1)
         + '    <div class="masthead">\n'
         + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en}</span>\n'
         + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
         + '    </div>\n'
         + '    <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>\n'
+        + '    <div class="genre-hero">\n'
+        + f'      <h1 class="genre-hero-title">{label_ja}</h1>\n'
+        + f'      <p class="genre-hero-sub mono">{label_en}</p>\n'
+        + '    </div>\n'
         + '    <p class="section-label mono">EDITION</p>\n'
         + '    <ul class="nav-list">\n'
         + items
@@ -458,14 +502,15 @@ def render_genre_index(genre_cfg: dict) -> str:
 def render_top_index() -> str:
     items = ""
     for gcode, g in GENRES.items():
+        color = g["theme"][0]["amber"]
         items += (
             '      <li class="nav-item">\n'
             f'        <a href="{gcode}/index.html" class="nav-link">\n'
             '          <span class="nav-label">\n'
-            f'            <span class="nav-label-main">{g["label_ja"]}</span>\n'
-            f'            <span class="nav-label-sub mono">{g["label_en"]}</span>\n'
+            f'            <span class="nav-label-main" style="color:{color}">{g["label_ja"]}</span>\n'
+            f'            <span class="nav-label-sub mono" style="color:{color};opacity:0.65">{g["label_en"]}</span>\n'
             '          </span>\n'
-            '          <span class="nav-arrow mono">&#8599;</span>\n'
+            f'          <span class="nav-arrow mono" style="color:{color}">&#8599;</span>\n'
             '        </a>\n'
             '      </li>\n'
         )

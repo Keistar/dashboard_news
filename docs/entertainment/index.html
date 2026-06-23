@@ -9,12 +9,12 @@
 <style>
 
   :root {
-    --bg: #07101e;
-    --line: #102840;
+    --bg: #0d0712;
+    --line: #1c0828;
     --text: #c8dff0;
-    --text-dim: #527898;
-    --amber: #2ecfba;
-    --signal: #00b8e6;
+    --text-dim: #7298b8;
+    --amber: #8e24b4;
+    --signal: #cc3570;
   }
   * { box-sizing: border-box; }
   body {
@@ -47,9 +47,12 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
   .back-link {
     display: inline-block; font-size: 12px; color: var(--text-dim);
-    text-decoration: none; margin: 12px 0 20px; letter-spacing: 0.05em;
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
   }
   .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
   .breadcrumb {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
@@ -57,7 +60,7 @@
   .breadcrumb a { color: var(--text-dim); text-decoration: none; }
   .breadcrumb a:hover { color: var(--amber); }
   .breadcrumb-sep { color: var(--line); }
-  .section-label { font-size: 11px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
   .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
   /* article list */
   ul.entries { list-style: none; margin: 0; padding: 0; }
@@ -65,7 +68,7 @@
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
   .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
-  .entry-summary { font-size: 14px; color: var(--text-dim); margin: 0 0 10px; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
   /* nav list */
@@ -93,6 +96,10 @@
       <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
     </div>
     <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>
+    <div class="genre-hero">
+      <h1 class="genre-hero-title">エンタメ・芸能</h1>
+      <p class="genre-hero-sub mono">ENTERTAINMENT</p>
+    </div>
     <p class="section-label mono">EDITION</p>
     <ul class="nav-list">
       <li class="nav-item">
