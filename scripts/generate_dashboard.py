@@ -22,42 +22,61 @@ import anthropic
 
 MODEL = "claude-sonnet-4-6"
 MAX_STORIES = 8
-MAX_TOKENS = 16000
+MAX_TOKENS = 32000
+WEB_SEARCH_MAX_USES = 24  # ~4 searches per country × 6 countries
 
 JST = timezone(timedelta(hours=9))
 
-COUNTRY_CODE = "us"
-COUNTRY_LABEL_JA = "アメリカ"
-COUNTRY_LABEL_EN = "US EDITION"
+COUNTRIES = [
+    {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
+    {"code": "il", "label_ja": "イスラエル", "label_en": "IL EDITION", "name_en": "Israel"},
+    {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
+    {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
+    {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
+    {"code": "ee", "label_ja": "エストニア", "label_en": "EE EDITION", "name_en": "Estonia"},
+]
 
-SYSTEM_PROMPT = f"""You are a news curator producing a daily briefing about \
-the US AI industry for a Japanese software engineer who reads it every \
-morning before work. Use the web_search tool to find the most significant \
-AI-related news that broke in the United States in roughly the last 24-48 \
-hours: model releases, funding rounds, major product launches, regulation, \
-notable research, or key personnel moves at AI companies.
+_COUNTRY_LIST = "\n".join(
+    f'  - "{c["code"]}": {c["name_en"]}' for c in COUNTRIES
+)
 
-Pick the {MAX_STORIES} most important stories. For each one, write the \
-title and summary in natural, concise Japanese, as if briefing a busy \
-engineer who has two minutes to read.
+SYSTEM_PROMPT = f"""You are a global news curator producing a daily AI and tech briefing \
+for a Japanese software engineer who reads it every morning. Use the web_search tool to \
+find the most significant AI and tech news that broke in the last 24-48 hours in each of \
+these 6 regions:
 
-Respond with ONLY valid JSON, no markdown code fences, no commentary \
-before or after, matching exactly this schema:
+{_COUNTRY_LIST}
+
+For each country, pick the {MAX_STORIES} most important stories (model releases, funding \
+rounds, major product launches, regulation, notable research, key personnel moves). \
+For each story, write the title and summary in natural, concise Japanese.
+
+Respond with ONLY valid JSON — no markdown fences, no commentary — matching exactly \
+this schema:
 
 {{
-  "stories": [
-    {{
-      "title_ja": "string, <=40 characters, no trailing period",
-      "summary_ja": "string, 2-3 sentences: what happened and why it matters",
-      "source": "string, name of the original publication",
-      "url": "string, direct URL to the original article"
-    }}
-  ]
+  "countries": {{
+    "us": {{
+      "stories": [
+        {{
+          "title_ja": "string, <=40 characters, no trailing period",
+          "summary_ja": "string, 2-3 sentences: what happened and why it matters",
+          "source": "string, name of the original publication",
+          "url": "string, direct URL to the original article"
+        }}
+      ]
+    }},
+    "il": {{ "stories": [ ... ] }},
+    "cn": {{ "stories": [ ... ] }},
+    "in": {{ "stories": [ ... ] }},
+    "gb": {{ "stories": [ ... ] }},
+    "ee": {{ "stories": [ ... ] }}
+  }}
 }}
 """
 
 
-def fetch_stories() -> list[dict]:
+def fetch_all_stories() -> dict[str, list[dict]]:
     client = anthropic.Anthropic()
 
     today_jst = datetime.now(JST).strftime("%Y年%m月%d日")
@@ -70,7 +89,7 @@ def fetch_stories() -> list[dict]:
             {
                 "type": "web_search_20250305",
                 "name": "web_search",
-                "max_uses": 6,
+                "max_uses": WEB_SEARCH_MAX_USES,
             }
         ],
         messages=[
@@ -78,8 +97,8 @@ def fetch_stories() -> list[dict]:
                 "role": "user",
                 "content": (
                     f"今日は{today_jst}（日本時間）です。"
-                    "アメリカのAI業界に関する直近のビッグニュースを調べて、"
-                    "指定したJSON形式で返してください。"
+                    "アメリカ・イスラエル・中国・インド・イギリス・エストニアそれぞれの"
+                    "AI・テック業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。"
                 ),
             }
         ],
@@ -107,10 +126,16 @@ def fetch_stories() -> list[dict]:
         data = json.loads(raw)
     except json.JSONDecodeError as exc:
         raise ValueError(f"JSON parse error ({exc}); raw (first 300 chars): {raw[:300]!r}") from exc
-    stories = data.get("stories", [])[:MAX_STORIES]
-    if not stories:
-        raise ValueError("No stories returned by the model")
-    return stories
+
+    countries_data = data.get("countries", {})
+    result: dict[str, list[dict]] = {}
+    for c in COUNTRIES:
+        code = c["code"]
+        stories = countries_data.get(code, {}).get("stories", [])[:MAX_STORIES]
+        if not stories:
+            print(f"Warning: no stories returned for {code}", file=sys.stderr)
+        result[code] = stories
+    return result
 
 
 # ─── shared CSS ───────────────────────────────────────────────────────────────
@@ -231,7 +256,8 @@ _ENTRY = """\
 
 # ─── render functions ─────────────────────────────────────────────────────────
 
-def render_article_page(stories: list[dict], date_str: str, time_str: str) -> str:
+def render_article_page(stories: list[dict], date_str: str, time_str: str, country: dict) -> str:
+    label_en = country["label_en"]
     entries = ""
     for i, story in enumerate(stories, start=1):
         entries += _ENTRY.format(
@@ -243,9 +269,9 @@ def render_article_page(stories: list[dict], date_str: str, time_str: str) -> st
         )
 
     return (
-        _head(f"AI WIRE — {date_str} — {COUNTRY_LABEL_EN}")
+        _head(f"AI WIRE — {date_str} — {label_en}")
         + '    <div class="masthead">\n'
-        + f'      <span class="masthead-title mono">AI WIRE &#9656; {COUNTRY_LABEL_EN}</span>\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en}</span>\n'
         + '      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>\n'
         + '    </div>\n'
         + '    <nav class="breadcrumb mono">\n'
@@ -261,7 +287,8 @@ def render_article_page(stories: list[dict], date_str: str, time_str: str) -> st
     )
 
 
-def render_country_index(dates: list[str]) -> str:
+def render_country_index(dates: list[str], country: dict) -> str:
+    label_en = country["label_en"]
     items = ""
     for date in dates:
         items += (
@@ -274,9 +301,9 @@ def render_country_index(dates: list[str]) -> str:
         )
 
     return (
-        _head(f"AI WIRE — {COUNTRY_LABEL_EN}")
+        _head(f"AI WIRE — {label_en}")
         + '    <div class="masthead">\n'
-        + f'      <span class="masthead-title mono">AI WIRE &#9656; {COUNTRY_LABEL_EN}</span>\n'
+        + f'      <span class="masthead-title mono">AI WIRE &#9656; {label_en}</span>\n'
         + '    </div>\n'
         + '    <a href="../index.html" class="back-link mono">&#8592; 国一覧</a>\n'
         + '    <p class="section-label mono">ARCHIVE</p>\n'
@@ -288,13 +315,8 @@ def render_country_index(dates: list[str]) -> str:
 
 
 def render_top_index() -> str:
-    # Add more countries here as needed in the future.
-    countries = [
-        {"code": COUNTRY_CODE, "label_ja": COUNTRY_LABEL_JA, "label_en": COUNTRY_LABEL_EN},
-    ]
-
     items = ""
-    for c in countries:
+    for c in COUNTRIES:
         items += (
             '      <li class="nav-item">\n'
             f'        <a href="{c["code"]}/index.html" class="nav-link">\n'
@@ -325,7 +347,7 @@ def render_top_index() -> str:
 
 def main() -> None:
     try:
-        stories = fetch_stories()
+        all_stories = fetch_all_stories()
     except Exception as exc:
         print(f"Failed to fetch stories: {exc}", file=sys.stderr)
         sys.exit(1)
@@ -334,27 +356,31 @@ def main() -> None:
     date_str = now_jst.strftime("%Y-%m-%d")
     time_str = now_jst.strftime("%H:%M JST")
 
-    country_dir = f"docs/{COUNTRY_CODE}"
-    os.makedirs(country_dir, exist_ok=True)
+    for country in COUNTRIES:
+        code = country["code"]
+        stories = all_stories.get(code, [])
+        if not stories:
+            print(f"Skipping {code}: no stories", file=sys.stderr)
+            continue
 
-    # Save article page for today.
-    article_path = f"{country_dir}/{date_str}.html"
-    with open(article_path, "w", encoding="utf-8") as f:
-        f.write(render_article_page(stories, date_str, time_str))
-    print(f"Wrote {len(stories)} stories to {article_path}")
+        country_dir = f"docs/{code}"
+        os.makedirs(country_dir, exist_ok=True)
 
-    # Rebuild country index from all date files (newest first).
-    date_files = sorted(
-        glob.glob(f"{country_dir}/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].html"),
-        reverse=True,
-    )
-    dates = [os.path.basename(p).replace(".html", "") for p in date_files]
-    country_index_path = f"{country_dir}/index.html"
-    with open(country_index_path, "w", encoding="utf-8") as f:
-        f.write(render_country_index(dates))
-    print(f"Wrote country index ({len(dates)} dates) to {country_index_path}")
+        article_path = f"{country_dir}/{date_str}.html"
+        with open(article_path, "w", encoding="utf-8") as f:
+            f.write(render_article_page(stories, date_str, time_str, country))
+        print(f"Wrote {len(stories)} stories to {article_path}")
 
-    # Rebuild top index.
+        date_files = sorted(
+            glob.glob(f"{country_dir}/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].html"),
+            reverse=True,
+        )
+        dates = [os.path.basename(p).replace(".html", "") for p in date_files]
+        country_index_path = f"{country_dir}/index.html"
+        with open(country_index_path, "w", encoding="utf-8") as f:
+            f.write(render_country_index(dates, country))
+        print(f"Wrote country index ({len(dates)} dates) to {country_index_path}")
+
     top_index_path = "docs/index.html"
     with open(top_index_path, "w", encoding="utf-8") as f:
         f.write(render_top_index())
