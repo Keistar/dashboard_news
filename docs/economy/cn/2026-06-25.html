@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 07:38 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">夏季ダボス会議が大連で閉幕、「規模でのイノベーション」議論</h2>
+            <p class="entry-summary">世界経済フォーラムの第17回新チャンピオン年次総会（夏季ダボス）が6月23〜25日、中国・大連で開催された。「規模でのイノベーション」をテーマに1,700人超の政財界リーダーが集結し、貿易再編・中国経済・AIと実体経済などを議論した。WTOは2026年の世界貿易財の成長率が2025年の4.6%から1.9%に鈍化すると予測しており、サプライチェーン再構築が最大の焦点となった。</p>
+            <a class="entry-source" href="https://www.weforum.org/stories/2026/05/summer-davos-2026-what-to-expect-in-dalian-china/" target="_blank" rel="noopener noreferrer">
+              World Economic Forum <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、米国企業数十社に貿易制限措置を発動</h2>
+            <p class="entry-summary">中国はペンタゴンのブラックリストへの報復として、米国の複数企業に対し貿易制限措置を発動した。米中貿易摩擦が再燃する中、双方の対立は農業・ハイテク分野にも広がっており、市場の不確実性を高めている。報復措置の応酬が続けば、両国のサプライチェーンへの影響が長期化する恐れがある。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">618商戦の成長率が大幅鈍化、国内消費の弱さ浮き彫り</h2>
+            <p class="entry-summary">中国の年中大規模セール「618ショッピングフェスティバル」の成長率が大幅に鈍化し、国内消費の低迷が改めて浮き彫りになった。不動産不況と消費者心理の悪化が需要を圧迫しており、政府の内需刺激策の効果に疑問符が付いている。輸出頼みの成長モデルからの転換が急務とされている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、大豆輸入で米国対ブラジルの争奪戦が激化</h2>
+            <p class="entry-summary">中国向け大豆市場をめぐり、米国とブラジルの競争が一段と激しくなっている。USDCは直近で中国向けに13万2,000トンの米国産大豆を販売したと発表したが、中国は引き続きブラジルなど南米からの調達を優先する傾向にある。農業輸出を通じた対中貿易交渉の行方が、両国の政策立案者にとって重要な焦点となっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">PBoC「様子見」継続、年内追加利下げは見送り見通し</h2>
+            <p class="entry-summary">BBVAリサーチは、中国人民銀行が他の主要中央銀行と同様に「様子見」姿勢を続けるとして、年内の追加利下げ・預金準備率引き下げはないと予測した。2026年のCPI予測は1.2%、PPIは1.4%に上方修正され、デフレ圧力は緩和されつつある。トランプ大統領の訪中を機に米中の地政学的リスクは部分的に緩和されたとされている。</p>
+            <a class="entry-source" href="https://www.bbvaresearch.com/en/publicaciones/china-economic-outlook-june-2026/" target="_blank" rel="noopener noreferrer">
+              BBVA Research <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">北京がIT規制を強化、2021年型規制再来は否定的</h2>
+            <p class="entry-summary">中国当局はテクノロジー企業への審査を再び強化しているが、アナリストは2021年型の大規模規制が繰り返される可能性は低いと分析している。当局は技術的自立とAI安全性への対応を優先しており、競争政策や消費者保護に重点を置いた規制が中心になる見通しだ。外国投資家にとっては不確実性が残るものの、事業環境の劇的な悪化を招くシナリオは想定しにくい状況となっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、2026年のGDP目標は4.5〜5.0%に設定</h2>
+            <p class="entry-summary">第15次五カ年計画（2026〜2030年）のもと、中国は2026年の実質GDP成長率目標を4.5〜5.0%に設定した。政策の重点は広範な需要刺激から、技術的自立・供給側改革・グリーンエネルギーへと転換されている。財政赤字はGDP比4%を維持し、戦略産業と社会インフラへの特別債発行が計画されている。</p>
+            <a class="entry-source" href="https://www.db.com/news/detail/20260331-china-s-2026-economic-blueprint-navigating-a-path-of-stability-and-strategic-growth?language_id=1" target="_blank" rel="noopener noreferrer">
+              Deutsche Bank Private Bank / Deutsche Bank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、8月に原油輸入を大幅再開の見通し—JPモルガン</h2>
+            <p class="entry-summary">JPモルガンは、中国が8月から原油輸入量を大幅に引き上げると予測している。イランとの停戦交渉の進展を受けてエネルギー市場が落ち着きを取り戻しつつあり、中国は備蓄の積み増しと製油余力の回復を図る見込みだ。原油価格は戦争前の水準近くまで下落しており、中国のエネルギーコスト負担の軽減につながると見られている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

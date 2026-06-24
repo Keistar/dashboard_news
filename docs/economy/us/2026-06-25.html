@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 07:38 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Fed、32大銀行のストレステスト結果を公表</h2>
+            <p class="entry-summary">米連邦準備制度理事会は6月24日、32の大手銀行を対象とした2026年版ストレステストの結果を公表した。シナリオには失業率10%・住宅価格30%下落・商業不動産39%下落が含まれた。今回の結果は資本要件には影響せず、新たな要件は2027年以降に適用予定とされている。</p>
+            <a class="entry-source" href="https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm" target="_blank" rel="noopener noreferrer">
+              Federal Reserve Board <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">10年米国債利回り4.5%割れ、原油が戦前水準に</h2>
+            <p class="entry-summary">米イラン暫定合意への期待からホルムズ海峡の通航が回復しつつあり、原油価格が戦争開始前の水準まで急落した。これを受けて10年物米国債利回りは4.5%を下回り、リスク資産への逃避需要が緩和した。エネルギー価格の低下はインフレ圧力を和らげ、FRBの政策判断に影響を与える可能性がある。</p>
+            <a class="entry-source" href="https://www.cnbc.com/us-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">6月の工場雇用削減、金融危機・コロナ水準に接近</h2>
+            <p class="entry-summary">S&amp;Pグローバルの調査によると、6月の製造業における人員削減数が金融危機やコロナ禍の水準に近づいていることが明らかになった。関税政策の不確実性が製造業への投資判断を鈍らせており、雇用情勢に影を落としている。この動向は中間選挙を前に経済政策を巡る論争を再燃させる可能性がある。</p>
+            <a class="entry-source" href="https://www.cnbc.com/us-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">2年物米国債利回り、2025年2月以来の高水準</h2>
+            <p class="entry-summary">複数のFED高官が年内の利上げを示唆したことを受け、2年物米国債利回りが2025年2月以来の高水準に達した。インフレ率（PCE）は前年比3.5%と目標の2%を大幅に上回っており、中東情勢によるエネルギー価格高騰が押し上げ要因となっている。利上げ観測の強まりはテクノロジー株を中心に株式市場の下押しにつながっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/us-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Q1実質GDP成長率は1.6%に上方修正</h2>
+            <p class="entry-summary">商務省は2026年第1四半期の実質GDP成長率を1.6%に上方修正した。投資と輸出の拡大が牽引役となり、前期（第4四半期）の0.5%から大きく改善した。ただし関税や中東情勢の不確実性から、下半期の見通しには依然リスクが残るとされている。</p>
+            <a class="entry-source" href="https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026" target="_blank" rel="noopener noreferrer">
+              Mercatus Center <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">トランプ口座、登録者数600万人突破</h2>
+            <p class="entry-summary">政府が推進する「トランプ口座」への登録者数が600万人を超え、さらに多くの子どもが加入資格を有することが明らかになった。同口座は個人の長期資産形成を支援する新制度で、政治的な評価は分かれているものの普及が進んでいる。消費者支出への波及効果が今後の焦点となる。</p>
+            <a class="entry-source" href="https://www.cnbc.com/us-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">元FRB議長アラン・グリーンスパン氏が100歳で死去</h2>
+            <p class="entry-summary">米連邦準備制度理事会（FRB）の元議長アラン・グリーンスパン氏が100歳で死去した。1987年から2006年にかけてFRB議長を務め、「グリーンスパン・プット」として知られる緩和的政策運営で現代の金融政策に多大な影響を残した。金融市場では追悼ムードとともに同氏の遺産を巡る議論が広がっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/us-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Q1民間設備投資が前年比10%超増、景気拡大を支持</h2>
+            <p class="entry-summary">2026年第1四半期の民間設備投資は前年同期比10%超の伸びを記録し、機器・知的財産分野への投資が主導した。また同期間の民間雇用者数の月平均増加幅は2025年平均の2.5倍以上に急増し、労働市場の底堅さを示している。米財務省は景気拡大が今後も継続すると楽観的な見通しを示している。</p>
+            <a class="entry-source" href="https://home.treasury.gov/news/press-releases/sb0486" target="_blank" rel="noopener noreferrer">
+              U.S. Department of the Treasury <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — DE EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; DE EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 07:38 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Ifo景況感指数が6月に85.6へ回復、3カ月ぶり高水準</h2>
+            <p class="entry-summary">ドイツのIfo景況感指数は6月に85.6と、5月の修正値85.0から上昇し3カ月ぶりの高水準となった。Ifoのフュースト所長は「ドイツ経済は世界的な地政学的緊張の緩和を望んでいる」と述べた。現況指数は87.0と予想を上回ったが、先行き指数は84.1にとどまり回復の脆弱さが残ることを示している。</p>
+            <a class="entry-source" href="https://www.rte.ie/news/business/2026/0624/1580075-german-ifo-index/" target="_blank" rel="noopener noreferrer">
+              RTÉ News <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ING「希望は戻ったが、戦前水準には届かず」と分析</h2>
+            <p class="entry-summary">INGのグローバル・マクロ責任者カーステン・ブルゼスキ氏は、Ifo指数の改善について「希望は戻った」と評価しつつも、指数は依然として戦争前の水準を下回っていると指摘した。ドイツ銀行リサーチのウィンクラー氏は、今回の改善は現状評価の向上によるものが大きく、受注の減少が続いていることに注目した。景気回復は安定化しつつあるが、需要の弱さが一段と強い回復の妨げになっているとされる。</p>
+            <a class="entry-source" href="https://www.rte.ie/news/business/2026/0624/1580075-german-ifo-index/" target="_blank" rel="noopener noreferrer">
+              RTÉ News <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">2026年HICP物価上昇率が2.9%へ急騰の見通し—EU委</h2>
+            <p class="entry-summary">欧州委員会はドイツの2026年HICP（欧州統一消費者物価指数）が2025年の2.3%から2.9%へ急上昇すると予測した。2026年3月に始まった中東紛争がエネルギー価格を急騰させ、実質家計所得と利益率を圧迫している。5月に2カ月限定で導入した燃料税の減税は一時的な緩和にとどまるとされている。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">2026年のGDP成長率は0.6%にとどまる見通し</h2>
+            <p class="entry-summary">欧州委員会はドイツの2026年実質GDP成長率を0.6%、2027年を0.9%と予測した。2年間の景気後退と2025年の0.2%成長を経て緩やかな回復が見込まれるが、輸出は関税と地政学的不確実性により3年連続の減少から横ばいにとどまる見通しだ。製造業での雇用喪失は公共部門での増加で一部相殺され、失業率は2026年に4.0%へ上昇すると予測される。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ブンデスバンク、防衛・インフラ支出拡大で財政赤字が膨らむと警告</h2>
+            <p class="entry-summary">ドイツ連邦銀行（ブンデスバンク）のナーゲル総裁は、防衛費とインフラ投資の拡大により財政赤字比率が2028年に4.8%、債務残高比率が68%に達すると警告した。2025年の憲法上の財政ルール改革に基づく拡張的な財政スタンスは2026年から本格的に経済成長を下支えする見通しだ。ただしこれらの支出増加は財政健全化目標と相反する面もあり、「債務ブレーキ」の見直しが議論されている。</p>
+            <a class="entry-source" href="https://www.bundesbank.de/en/press/press-releases/bundesbank-s-forecast-for-germany-economy-will-gradually-recover-965032" target="_blank" rel="noopener noreferrer">
+              Deutsche Bundesbank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">製造業は受注減が続くも期待値が改善—業種別景況</h2>
+            <p class="entry-summary">Ifoの調査によると、製造業では現況評価が若干軟化する一方、先行き期待値が顕著に改善した。サービス業では現状への満足度が上昇したが、期待値は概ね横ばいで懐疑的な見方が多い。建設業は悲観的ムードが薄れたものの、受注不足を訴える企業が多く回復への道のりは長い。</p>
+            <a class="entry-source" href="https://www.actionforex.com/live-comments/644972-germanys-ifo-business-climate-rises-as-firms-hope-for-geopolitical-relief/" target="_blank" rel="noopener noreferrer">
+              ActionForex <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ドイツ住宅建設の本格回復、高不確実性で下半期以降にずれ込み</h2>
+            <p class="entry-summary">欧州委員会の予測では、住宅建設の本格回復は高い不確実性・金融環境の引き締まり・エネルギーコスト上昇による建設費高騰を受けて2026年下半期以降にずれ込む見通しだ。建設コストの増加はインフレとエネルギー価格上昇が連動して作用しており、住宅供給不足の解消をさらに難しくしている。2027年には消費者信頼感の回復とともに、住宅着工の持ち直しが期待されている。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">消費者信頼感、5月に3年超ぶりの最低水準に低下</h2>
+            <p class="entry-summary">ドイツ小売業協会（HDE）の消費者バロメーターによると、5月の消費者信頼感は3年超ぶりの最低水準に落ち込んだ。中東紛争に伴うエネルギー価格急騰が実質所得を圧迫し、消費支出への意欲が急低下している。個人消費の回復は2027年以降、インフレ鈍化と名目賃金の上昇が相まって本格化すると予想されている。</p>
+            <a class="entry-source" href="https://www.esmmagazine.com/retail/german-business-sentiment-rises-in-june-ifo-says-314921" target="_blank" rel="noopener noreferrer">
+              ESM Magazine <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

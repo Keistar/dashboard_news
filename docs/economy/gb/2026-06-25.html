@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 07:38 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英民間PMIが49.4に低下、14カ月ぶりの低水準</h2>
+            <p class="entry-summary">S&amp;Pグローバルの英国総合PMI速報値は6月に49.4と、5月の49.7からさらに低下し14カ月ぶりの弱い水準となった。50を下回ったことで2カ月連続の景気縮小を示しており、サービス業は3年ぶりの最弱月となった。RSMのエコノミスト、トーマス・パフ氏はQ2を通じて景気が停滞したと述べ、下半期も回復は限定的と警告している。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-24-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">イングランド銀行MPCメンバーが金利3.75%の据え置きを主張</h2>
+            <p class="entry-summary">イングランド銀行（BoE）金融政策委員会（MPC）のアラン・テイラー委員は、中東情勢など地政学的リスクへの不確実性が払拭されるまで政策金利を3.75%に据え置く「拡張された停止」が適切だと述べた。先月の会合では7対2でホールドが決定されたが、2名は4%への引き上げを主張していた。英国の景気活動の弱さにもかかわらず、インフレ再加速への警戒感が利下げを阻んでいる。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-24-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米プロロジスが英セグロに126億ポンドの買収提案—拒否される</h2>
+            <p class="entry-summary">米物流不動産大手プロロジスは、ロンドン拠点の倉庫REIT大手セグロに対し126億ポンド（1株あたり925ペンス、プレミアム24.6%）の買収提案を行ったが、セグロは拒否した。プロロジスは7月22日までに正式提案か撤退かを判断する必要がある。AIブームによるデータセンター需要を背景に、産業用不動産を取得する動きが活発化している。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-24-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国のQ1GDP成長率は0.6%—中東紛争前の底堅い出発点</h2>
+            <p class="entry-summary">英国のQ1 2026実質GDP成長率は0.6%と、2025年後半の低迷から回復した。サービス業・製造業・建設業がいずれも拡大しており、各セクター0.8〜0.4%の成長を記録した。ただしその後の中東紛争勃発がビジネス心理を悪化させており、Q2以降の成長鈍化が懸念されている。</p>
+            <a class="entry-source" href="https://www.commonwealthunion.com/uks-monthly-economic-review-june-26/" target="_blank" rel="noopener noreferrer">
+              Commonwealth Union / UK Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">7月エネルギー価格上限が13%引き上げ、インフレ圧力が再燃へ</h2>
+            <p class="entry-summary">英国では7月から家庭向けエネルギー価格上限が約13%引き上げられることが発表され、インフレが年後半を通じてBoE目標の2%を大幅に上回る水準が続く見通しとなった。4月に2.8%まで低下していた消費者物価上昇率（CPI）は、エネルギーコスト上昇を受けて3.5〜4%前後まで再加速する可能性がある。エネルギー依存度の高い英国は中東紛争の影響を特に受けやすく、G7の中でも最も打撃を受ける国の一つとIMFは指摘している。</p>
+            <a class="entry-source" href="https://www.commonwealthunion.com/uks-monthly-economic-review-june-26/" target="_blank" rel="noopener noreferrer">
+              Commonwealth Union <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国への対内直接投資が過去最低水準、3年連続減少</h2>
+            <p class="entry-summary">英国の貿易産業省のデータによると、2025/26年度の英国への対内直接投資プロジェクト数は過去最低の1,020件となり、前年の1,375件から26%減少し3年連続の下落となった。Brexit後の通商環境の変化と地政学的不確実性が投資判断を慎重にさせており、英国の長期的な競争力への懸念が高まっている。政府は投資誘致に向けた政策強化を迫られている。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-24-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中小企業向け融資が前年比16%増、底堅い信用需要</h2>
+            <p class="entry-summary">UKファイナンスのビジネスファイナンスレビューによると、2026年第1四半期の中小企業（SME）向け融資は前年比16%増の53億ポンドとなり、年間総融資も同14%増と過去最大の増加率を記録した。事業計画の見直しや運転資金需要の増加が融資拡大を後押ししている。ただし中東紛争後の不透明感を受けてQ2では需要が落ち込む可能性があると当局は警告している。</p>
+            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
+              UK Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">スコットランドでビジネス税大幅引き上げ問題、独立審査へ</h2>
+            <p class="entry-summary">スコットランド政府は、2026年の再評価後に一部企業の税負担が約500%急増したとの報告を受け、ビジネス税（固定資産税相当）引き上げに関する独立審査を開始した。審査パネルは評価の異常値や審査プロセスを精査し、3カ月以内に報告書を提出する予定だ。直ちのキャッシュフロー圧力に苦しむ企業への短期的な救済策には時間がかかる見通しだ。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-24-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
