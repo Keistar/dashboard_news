@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — IN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0712;
+    --line: #2a0c3c;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #ef72ff;
+    --signal: #ff9ec0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; IN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 08:27 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">アクシャイ・クマール主演『Welcome To The Jungle』6月26日公開</h2>
+            <p class="entry-summary">アクシャイ・クマール主演の大型コメディ映画『Welcome To The Jungle』が6月26日に公開予定で、6月25日には先行有料プレビューが開催される。スニール・シェティ、パレーシュ・ラーワルら豪華キャストを擁し、2026年ボリウッド最大の注目作の一つとして期待が高まっている。</p>
+            <a class="entry-source" href="https://www.sacnilk.com/" target="_blank" rel="noopener noreferrer">
+              Sacnilk <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">プリヤンカー・チョープラーが『フォーチュン・インド』表紙に登場</h2>
+            <p class="entry-summary">プリヤンカー・チョープラー・ジョナスがFortune IndiaとInterbrand Indiaの「インド最も商業的価値ある有名人2026」ランキングで女性唯一の単独カバーとして第3位に選出された。1位はヴィラート・コーリー、2位はシャー・ルク・カーンで、女性セレブとして最高位を飾った。</p>
+            <a class="entry-source" href="https://www.bollywoodhungama.com/news/features/priyanka-chopra-features-as-the-only-woman-among-fortune-indias-three-standalone-covers-for-june-2026/" target="_blank" rel="noopener noreferrer">
+              Bollywood Hungama <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ボビー・デオール主演の犯罪スリラー『Bandar』が高評価</h2>
+            <p class="entry-summary">ボビー・デオール主演でアヌラーグ・カシュヤップ監督の犯罪スリラー映画『Bandar』が公開され、評論家から3.5/5の高い評価を獲得した。ボビーのキャリアベストの演技と絶賛されており、劇場で観るべき作品として注目されている。</p>
+            <a class="entry-source" href="https://www.bollywoodlife.com/news-gossip/" target="_blank" rel="noopener noreferrer">
+              Bollywood Life <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">S.S.ラージャマウリ監督×マヘーシュ・バーブー＆プリヤンカー共演作『Varanasi』制作中</h2>
+            <p class="entry-summary">『バーフバリ』のS.S.ラージャマウリ監督が新作アクション・アドベンチャー映画『Varanasi』をIMAX形式で制作中であることが明らかになった。マヘーシュ・バーブー、プリヤンカー・チョープラー、プリトヴィラージ・スクマーランが出演し、2027年4月7日の世界公開が予定されている。</p>
+            <a class="entry-source" href="https://www.bollywoodhungama.com/news/features/priyanka-chopra-features-as-the-only-woman-among-fortune-indias-three-standalone-covers-for-june-2026/" target="_blank" rel="noopener noreferrer">
+              Bollywood Hungama <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ラム・チャランの『Peddi』が感情的な演技で絶賛</h2>
+            <p class="entry-summary">テルグ映画スター、ラム・チャランが主演した『Peddi』が公開後に「感情的な迫力がある」と批評家に高く評価されている。ラムの渾身の演技が特に評価されており、南インド映画ファンを中心に大きな反響を呼んでいる。</p>
+            <a class="entry-source" href="https://www.bollywoodlife.com/news-gossip/" target="_blank" rel="noopener noreferrer">
+              Bollywood Life <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Hai Jawani Toh Ishq Hona Haiが世界累計61億円を突破</h2>
+            <p class="entry-summary">ロマンスコメディ映画『Hai Jawani Toh Ishq Hona Hai』が公開2週目時点でインド国内4095万ルピー（約61億円）を超える興収を記録した。週末の動員好調を維持しており、2026年夏のボリウッドヒット作として注目を集めている。</p>
+            <a class="entry-source" href="https://www.sacnilk.com/" target="_blank" rel="noopener noreferrer">
+              Sacnilk <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ドゥランダルがテレビ放送で歴史的な視聴率を記録</h2>
+            <p class="entry-summary">アクション映画『Dhurandhar』が6月にテレビ放送され、歴史的な視聴記録を達成したことが明らかになった。劇場での大ヒットに続き、OTTや地上波でも圧倒的な人気を証明し、2026年インド映画界の話題作として改めて存在感を示した。</p>
+            <a class="entry-source" href="https://www.sacnilk.com/" target="_blank" rel="noopener noreferrer">
+              Sacnilk <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド著名人ランキング：ヴィラート・コーリーが1位に君臨</h2>
+            <p class="entry-summary">Fortune IndiaとInterbrandによるインド最も商業的価値ある著名人2026ランキングでは、ヴィラート・コーリーが1位、シャー・ルク・カーンが2位、プリヤンカー・チョープラーが3位となった。アリア・バット（9位）やアッル・アルジュン（10位）もトップ10に名を連ねた。</p>
+            <a class="entry-source" href="https://www.bollywoodhungama.com/news/features/priyanka-chopra-features-as-the-only-woman-among-fortune-indias-three-standalone-covers-for-june-2026/" target="_blank" rel="noopener noreferrer">
+              Bollywood Hungama <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

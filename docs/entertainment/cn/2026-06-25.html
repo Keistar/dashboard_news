@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0712;
+    --line: #2a0c3c;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #ef72ff;
+    --signal: #ff9ec0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 08:27 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">「2026中国影視之夜」完全版が6月25日CCTV-3で放送</h2>
+            <p class="entry-summary">上海国際映画祭の公式イベント「2026中国影視之夜」の完全版が6月25日にCCTV-3とCCTV+などの各プラットフォームで放送・配信された。ディリラバ（迪丽热巴）が『利剣·玫瑰』の主演でCMG年度推薦テレビドラマ女優賞を受賞し、605日ぶりの大型レッドカーペット登場として注目を集めた。</p>
+            <a class="entry-source" href="https://ent.sina.cn/2026-06-16/detail-inicrcpp7584485.d.html" target="_blank" rel="noopener noreferrer">
+              新浪娱乐 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ディリラバ、独立事務所設立後初の公開イベントで話題</h2>
+            <p class="entry-summary">女優・ディリラバ（迪丽热巴）が所属事務所「嘉行传媒」との契約満了後、個人事務所として独立してから初めての大型公開イベントとなった今回の中国影視之夜に登場した。ジョルジュ・ホベイカの高級オートクチュールドレス姿が「レッドカーペットの女神」として称賛されている。</p>
+            <a class="entry-source" href="https://www.sina.cn/news/detail/5310358963357674.html" target="_blank" rel="noopener noreferrer">
+              新浪娱乐 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">章子怡が新映画『尋子遺跡』で20キロ増量の体当たり演技</h2>
+            <p class="entry-summary">国際的女優・章子怡（チャン・ツィイー）が曹保平監督の映画『尋子遺跡』で子を失った母親を演じるため約20キロ増量して撮影に臨んでいるロケ写真がSNSで拡散し話題となった。ノーメイクで普通の市民のような姿が、スターのイメージを完全に捨てた渾身の演技として称賛されている。</p>
+            <a class="entry-source" href="https://k.sina.com.cn/article_7857201856_1d45362c001904a4kq.html" target="_blank" rel="noopener noreferrer">
+              新浪新闻 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">田雨、「慶余年3・4」の同時撮影に意欲</h2>
+            <p class="entry-summary">大人気歴史ドラマ『慶余年』（日本でも注目の中国歴史ドラマ）に出演する俳優・田雨が、第3シーズン・第4シーズンを同時に撮影する方向で調整中であることを明かした。後半のストーリー量が大きいため一括撮影を目指すとのことで、ファンが大きな期待を寄せている。</p>
+            <a class="entry-source" href="https://k.sina.com.cn/article_7857201856_1d45362c001904a4kq.html" target="_blank" rel="noopener noreferrer">
+              新浪新闻 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">姜文がiQiyi新番組でプロデューサーデビュー、中仏グルメ交流企画</h2>
+            <p class="entry-summary">映画監督・俳優の姜文（ジャン・ウェン）が初めてバラエティ番組のプロデューサーを務め、中仏グルメ文化交流をテーマにしたiQiyi新番組を発表した。電影的な映像美と食文化を融合させた内容が注目され、国内外で大きな話題を集めている。</p>
+            <a class="entry-source" href="https://pages.iqiyi.com/m/zbs/iqiyipdzy2025.html" target="_blank" rel="noopener noreferrer">
+              iQiyi <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">2026北京芸術季が開幕、近20カ国から芸術家が集結</h2>
+            <p class="entry-summary">「2026北京芸術季」が開幕し、約20カ国からアーティストが参加する大規模な文化イベントが始まった。多彩なパフォーマンスや展示が北京各地で開催され、中国の文化力発信の場として国際的な注目を集めている。</p>
+            <a class="entry-source" href="https://www.chinanews.com.cn/wy/" target="_blank" rel="noopener noreferrer">
+              中国新闻网 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">国際オリンピック委員会、選手への1万ドル補助金制度を発表</h2>
+            <p class="entry-summary">IOCが2026年ミラノ・コルティナ冬季五輪から全参加選手に1万ドルの補助金を支給する新制度を発表した。五輪史上初めて全選手への直接補助金が実現するこのニュースは、スポーツエンタメ界にも大きな影響を与えると中国メディアも大きく報じている。</p>
+            <a class="entry-source" href="https://www.163.com/dy/article/L08GV92C055040N3.html" target="_blank" rel="noopener noreferrer">
+              163.com / 上観新聞 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">央華戲劇の新作舞台劇映画「彼女たち」が発表</h2>
+            <p class="entry-summary">中国を代表する演劇プロデュース団体・央華戯劇が舞台劇と映画を融合させた新作『她们（彼女たち）』を発表した。演劇と映像の境界を超えた新しい表現形式として注目されており、中国エンタメ界における新たな芸術的挑戦として評価されている。</p>
+            <a class="entry-source" href="https://www.chinanews.com.cn/wy/" target="_blank" rel="noopener noreferrer">
+              中国新闻网 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

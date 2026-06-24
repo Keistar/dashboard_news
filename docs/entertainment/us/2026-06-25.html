@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0712;
+    --line: #2a0c3c;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #ef72ff;
+    --signal: #ff9ec0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 08:27 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">テイラー・スウィフト、7月3日MSG挙式が確定報道</h2>
+            <p class="entry-summary">テイラー・スウィフトとトラヴィス・ケルシーが7月3日にニューヨークのマディソン・スクエア・ガーデンで1,100〜1,200人を招待して挙式を行う予定と複数メディアが報じた。2025年8月に婚約発表済みで、世界中のスウィフティーズが注目している。</p>
+            <a class="entry-source" href="https://www.washingtontimes.com/news/2026/jun/24/taylor-swift-travis-kelce-set-july-3-wedding-madison-square-garden/" target="_blank" rel="noopener noreferrer">
+              Washington Times <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">『トイ・ストーリー5』全米興収1億6000万ドルの大ヒット発進</h2>
+            <p class="entry-summary">ディズニー＆ピクサーの『トイ・ストーリー5』が全米週末興収1億6000万ドルを記録し、フランチャイズ歴代最高のオープニングを達成した。全世界では初週末だけで3億1200万ドルを稼ぎ、2026年の北米年間最高オープニングとなった。</p>
+            <a class="entry-source" href="https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/" target="_blank" rel="noopener noreferrer">
+              Variety <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Netflix『I Will Find You』が今年最大のプレミア週を記録</h2>
+            <p class="entry-summary">ハーラン・コーベン原作でサム・ワーシントン主演のNetflixスリラー『I Will Find You』が6月18日の配信開始から4日間で2400万回再生を記録し、2026年のNetflixで最大のプレミア週となった。131億分以上の再生時間も達成した。</p>
+            <a class="entry-source" href="https://www.huffingtonpost.co.uk/entry/2026-tv-shows-movies-trailers_n_695d5381e4b0b1914ed1ce5b" target="_blank" rel="noopener noreferrer">
+              HuffPost UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">『プラクティカル・マジック2』予告編が公開</h2>
+            <p class="entry-summary">ニコール・キッドマンとサンドラ・ブロックがそれぞれのキャラクターを再演する映画『プラクティカル・マジック2』の予告編が6月24日に公開された。続編でふたりの家族の呪いの行方が明かされることが示唆されている。</p>
+            <a class="entry-source" href="https://www.eonline.com/news" target="_blank" rel="noopener noreferrer">
+              E! Online <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">リース・ウィザースプーン、新恋人と映画プレミアで初公式お披露目</h2>
+            <p class="entry-summary">リース・ウィザースプーンが6月23日、ニューヨーク市で開催された映画『エル』のプレミアに新彼氏のオリバー・ハーマンと共に出席し、初めて公式の場で2ショットを披露した。2024年7月から交際の噂があったカップルの初公式登場として話題になっている。</p>
+            <a class="entry-source" href="https://www.eonline.com/news" target="_blank" rel="noopener noreferrer">
+              E! Online <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">スパイダーマン新作映画のチケット販売が開始</h2>
+            <p class="entry-summary">ソニー・ピクチャーズの新作『スパイダーマン：ブランド・ニュー・デイ』のチケット販売が6月17日にスタートし、すでに今夏屈指の期待作として予売りが急増している。夏以降の大作としてクリストファー・ノーラン監督の『The Odyssey』とともに最注目作となっている。</p>
+            <a class="entry-source" href="https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/" target="_blank" rel="noopener noreferrer">
+              Variety <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ジム・キャリー『グリンチ』続編に交渉中と報道</h2>
+            <p class="entry-summary">ユニバーサルとイマジン・エンタテインメントが2000年のクリスマス映画『グリンチ』の続編開発を進めており、ジム・キャリーが再びグリンチ役を演じる交渉中だと報じられた。ロン・ハワード監督も返り咲きが期待されている。</p>
+            <a class="entry-source" href="https://www.huffingtonpost.co.uk/entry/2026-tv-shows-movies-trailers_n_695d5381e4b0b1914ed1ce5b" target="_blank" rel="noopener noreferrer">
+              HuffPost UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">サバンナ・ガスリー、YouTuberによる母の自宅付近での配信を警察に通報</h2>
+            <p class="entry-summary">NBCニュースのサバンナ・ガスリーが、「Criminal Network」名義のYouTuberが母親の自宅前でライブ配信をしていたと6月11日に警察に通報していたことが判明した。TMZが入手した警察記録によると、ガスリーは同人物を含む複数のトゥルークライム系配信者に悩まされていたという。</p>
+            <a class="entry-source" href="https://www.tmz.com/" target="_blank" rel="noopener noreferrer">
+              TMZ <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
