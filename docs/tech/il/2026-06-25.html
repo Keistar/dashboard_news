@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — IL EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; IL EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 06:34 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Palo Alto創業者がCylake設立、4500万ドル調達</h2>
+            <p class="entry-summary">Palo Alto Networks創業者のNir ZukがWilson Xu・Udi Shamirと共同でCylakeを立ち上げ、Greylock主導で4500万ドルのシードラウンドを完了した。パブリッククラウドに依存できない政府機関・規制産業向けのオンプレミス対応AI駆動セキュリティプラットフォームを開発中で、製品提供開始は2027年初頭の見込み。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/r1ev1gvkbg" target="_blank" rel="noopener noreferrer">
+              CTech (Calcalist) <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Wonderfulが1億5000万ドル調達、評価額20億ドル</h2>
+            <p class="entry-summary">2025年創業のエンタープライズAIエージェントプラットフォームWonderfulがシリーズBで1億5000万ドルを調達し、評価額20億ドルを達成。設立からわずか8カ月で累計調達額が2億8500万ドルを超えた。年内に従業員数を350人から900人に拡大し、通信・金融・医療・製造業など30カ国以上への展開を計画する。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/hy8t7fcobe" target="_blank" rel="noopener noreferrer">
+              CTech (Calcalist) <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">IDF AI監視技術がイランで実戦活用と報道</h2>
+            <p class="entry-summary">イスラエルの情報機関がテヘランの交通カメラ映像をAIで長期間解析し、高官の行動パターンを把握して2月28日の暗殺を実行したと報じられた。イスラエルのスタートアップConntourなど自然言語でビデオネットワークを検索できる企業が注目を集めている。この技術はロシアを含む他国にも警戒感を与えている。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/h17rby8bge" target="_blank" rel="noopener noreferrer">
+              CTech (Calcalist) <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">イスラエルハイテク、Q1に30億ドル超調達</h2>
+            <p class="entry-summary">2026年第1四半期のイスラエルハイテク企業の資金調達額が30億ドルを超え、前年同期比34%増を記録した。AIとサイバーセキュリティへの集中が顕著で、戦争や地政学的不確実性にもかかわらず投資家の信頼が維持されている。ScaleOpsが8億ドル評価額で1億3000万ドル、Oasis Securityが1億2000万ドルを調達した。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/hy8t7fcobe" target="_blank" rel="noopener noreferrer">
+              CTech (Calcalist) <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米・イスラエル間のAI国防技術統合法案が議論に</h2>
+            <p class="entry-summary">米国防権限法（NDAA）に盛り込まれたSection 224「米国・イスラエル防衛技術協力イニシアチブ」が注目を浴びている。AI・自律システム・サイバー戦争など幅広い分野でイスラエルの技術を米国の研究・調達プロセスに直接組み込む枠組みで、軍事専門家からは「前例のない外国との安保技術統合」との懸念が上がっている。</p>
+            <a class="entry-source" href="https://theintercept.com/2026/06/08/us-israel-224-ai-defense-budget/" target="_blank" rel="noopener noreferrer">
+              The Intercept <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">量子スタートアップQ-Factorがシードで2400万ドル</h2>
+            <p class="entry-summary">ステルスで活動していたイスラエルの量子スタートアップQ-Factorが2400万ドルのシードラウンドで表舞台に登場した。ワイツマン科学研究所とテクニオン出身の科学者チームが中心となり、現行の量子ビット制約を超える中性原子技術の開発を目指している。Intel Capitalが主要投資家として参加した。</p>
+            <a class="entry-source" href="https://www.calcalistech.com/ctechnews/article/rq8lzbs4c" target="_blank" rel="noopener noreferrer">
+              CTech (Calcalist) <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Uberがイスラエル自動運転AIをミュンヘンでテスト</h2>
+            <p class="entry-summary">UberがイスラエルのスタートアップAutobriansと提携し、ミュンヘンでロボタクシー実証実験を開始すると報じられた。AutoBrainsのAIエージェント技術は低コストで車載対応が可能と評されており、開発者はGrok等競合を上回ると主張する。イスラエル自動運転技術の欧州市場への足がかりとなる注目案件だ。</p>
+            <a class="entry-source" href="https://www.timesofisrael.com/tech-israel/" target="_blank" rel="noopener noreferrer">
+              Times of Israel <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Dream SecurityがAI政府データ保護でユニコーン</h2>
+            <p class="entry-summary">NSO元CEOのShalev HulioとオーストリアのSebastian Kurz元首相が設立したDream Securityが評価額30億ドルに達し、ユニコーンの仲間入りを果たした。各国政府がAIサイバー戦争時代に自国データの主権を確保できるよう支援するプラットフォームを提供している。AI活用のサイバー攻撃が高度化する中で需要が急増している。</p>
+            <a class="entry-source" href="https://www.timesofisrael.com/tech-israel/" target="_blank" rel="noopener noreferrer">
+              Times of Israel <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

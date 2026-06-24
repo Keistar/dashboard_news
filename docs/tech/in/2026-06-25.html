@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — IN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; IN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 06:34 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Sarvam AIが2億3400万ドル調達でユニコーン入り</h2>
+            <p class="entry-summary">ベンガルール拠点のSarvam AIがHCLTech主導のシリーズBで2億3400万ドルを調達し、評価額15億ドルのユニコーンとなった。HCLTechが1億5000万ドルを投じ、BessemerとKhosla Venturesも参加。インド諸語に特化したモデルを開発し、銀行・保険・政府サービス・防衛分野への展開を進めている。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドAIスタートアップへの累計投資が500億ドル突破</h2>
+            <p class="entry-summary">2026年6月時点でインドのAIスタートアップへのグローバル投資累計が500億ドルを超え、インドは世界トップ3のAI投資先となった。政府のIndiaAI Missionが10,371クロールルピー（約12.5億ドル）を投じてインフラ整備を支援し、Microsoft・Google・NVIDIAもそれぞれ30億ドル以上をインドに約束している。</p>
+            <a class="entry-source" href="https://technosports.co.in/indian-startups-ai-funding-2026/" target="_blank" rel="noopener noreferrer">
+              Techno Sports <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド政府がディープテック向けスタートアップ認定を強化</h2>
+            <p class="entry-summary">インド政府がスタートアップ認定フレームワークを改定し、ディープテック企業のスタートアップ認定期間を10年から20年に延長。税制優遇・補助金・規制上のメリットを受けられる売上上限も10億ルピーから30億ルピーに引き上げた。AIや半導体など長い開発サイクルを要する企業への政策的配慮が増している。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Pramaana Labsが検証可能AIで2700万ドル調達</h2>
+            <p class="entry-summary">インドのPramaana Labsが「検証可能AI（Verifiable AI）」のシリーズAラウンドで2700万ドルを調達した。2026年6月15〜21日のインドスタートアップ資金調達週間（総額4億2600万ドル、20ラウンド）でSarvam AIに次ぐ注目案件となった。AI出力の信頼性・説明可能性に対するエンタープライズ需要の高まりを映している。</p>
+            <a class="entry-source" href="https://www.newskart.com/india-startup-funding-update-june-15-to-june-21-2026-ai-and-climate-deals-lead-a-busy-week/" target="_blank" rel="noopener noreferrer">
+              Newskart <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">OpenAIとAnthropicがインドを第2の主要市場と明言</h2>
+            <p class="entry-summary">OpenAIとAnthropicの両社が公式に、インドは米国に次ぐ第2の最重要市場であると表明した。インド国内の膨大な開発者人口・エンタープライズ顧客・AIツール利用消費者が急増しており、生成AIは2030年までに4380億ドルの収益をインドにもたらすとEY Indiaが予測している。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド農村女性がロボット訓練AIデータを提供</h2>
+            <p class="entry-summary">インド南部タミルナドゥ州などの主婦・日雇い労働者数千人がスマートフォンをヘッドマウントして日常動作を撮影し、人型ロボット向けAIの訓練データを提供する産業が広がっている。1時間250ルピー（約2.6ドル）という報酬は非公式労働者にとって魅力的で、NITIアayogも非正規労働者がAI時代に恩恵を受けられるよう政策の焦点化を求めている。</p>
+            <a class="entry-source" href="https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs" target="_blank" rel="noopener noreferrer">
+              Al Jazeera <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ベンガルールがインドのAIスタートアップ集積地として台頭</h2>
+            <p class="entry-summary">インドのAI特化スタートアップの40%以上がベンガルールに集中しており、豊富なエンジニア人材・成熟したVCネットワーク・IT受託産業の歴史が強力な基盤を形成している。インドには合計127以上のユニコーンと20万7000社超のスタートアップが存在し、深技術分野の資金調達がサービス系を上回る割合で成長している。</p>
+            <a class="entry-source" href="https://blog.mean.ceo/startups-india-news-june-2026/" target="_blank" rel="noopener noreferrer">
+              Startups in India Blog <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">IndiaAI MissionのGPUクラスタ補助が始動</h2>
+            <p class="entry-summary">政府のIndiaAI Missionが補助付きGPUクラスタアクセスとデータセンター整備への投資を本格的に開始し、スタートアップが大規模モデルの訓練・展開に必要な計算資源を確保できる仕組みを整えた。2026年に入り国内AIインフラへの投資加速が顕著で、SovereignAI（主権AI）モデルの育成が政策の柱となっている。</p>
+            <a class="entry-source" href="https://technosports.co.in/indian-startups-ai-funding-2026/" target="_blank" rel="noopener noreferrer">
+              Techno Sports <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

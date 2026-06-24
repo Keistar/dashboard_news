@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-25 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-25 &middot; 06:34 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">FCA長官「AIは規制の速度を超えている」と警告</h2>
+            <p class="entry-summary">英金融行為規制機構（FCA）のNikhil Rathi長官が6月24日の「Agents of Change」カンファレンスで、AIが従来の規制を上回るスピードで進化しているとして規制当局の在り方の抜本的見直しを訴えた。金融サービスがUKのAIエコノミーを牽引する核であるとし、競争促進・協調・システム全体のリスク監視に重点を置く方針を示した。</p>
+            <a class="entry-source" href="https://www.fca.org.uk/news/speeches/re-thinking-regulation-age-ai" target="_blank" rel="noopener noreferrer">
+              FCA <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">WayveがシリーズDで12億ドル調達、評価額86億ドル</h2>
+            <p class="entry-summary">英国の自律走行スタートアップWayveがEclipse・Balderton・SoftBank主導のシリーズDで12億ドルを調達し、評価額86億ドルに達した。Uber・Microsoft・NVIDIA・Mercedes-Benz・Nissanなども出資しており、2026年中にロンドンでロボタクシー試験運行を開始予定だ。</p>
+            <a class="entry-source" href="https://dentro.de/ai/news/" target="_blank" rel="noopener noreferrer">
+              dentro.de/ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">DeepMind元研究者がIneffable Intelligenceで11億ドル調達</h2>
+            <p class="entry-summary">AlphaGoを開発したDavid Silver教授がDeepMindを退社後に英国で設立したIneffable Intelligenceが、Sequoia・Lightspeed・NvidiaらからシードステージでValuation51億ドル・11億ドルの調達を達成した。人間データに依存せず強化学習だけで知識を獲得する「スーパーラーナー」の構築を目指す野心的プロジェクトで、ロンドンのAIハブとしての存在感が増している。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英政府が5億ポンドのSovereign AI Fundを始動</h2>
+            <p class="entry-summary">技術担当大臣Liz KendallがWayveのオフィスで英国初の国家主権AIファンド（5億ポンド）を正式に発足させた。スタートアップ1社あたり最大2000万ポンドの出資、国家AIリサーチリソースへの100万GPU時間アクセス、1営業日以内のビザ認定などが含まれる。英国のAI研究成果を国内に根差したグローバル企業へと転換する狙いがある。</p>
+            <a class="entry-source" href="https://www.gov.uk/government/news/ai-firms-pioneering-drug-discovery-cheaper-supercomputing-and-more-get-first-backing-through-uks-sovereign-ai" target="_blank" rel="noopener noreferrer">
+              UK Government <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Google DeepMindが住宅許可審査をAIで50%高速化</h2>
+            <p class="entry-summary">Google DeepMindは6月16日、英国政府と共同でGeminiを活用した住宅計画許可審査プロトタイプの開発を開始したと発表した。審査担当者の意思決定時間を50%削減し、英国の2029年までに150万戸新築という目標を支援することが目的。公共サービス改革にAIを大規模活用する国家プロジェクトとして注目される。</p>
+            <a class="entry-source" href="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/" target="_blank" rel="noopener noreferrer">
+              Google DeepMind <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">London Tech Week、英国AI VCが2026年前半82億ポンド超</h2>
+            <p class="entry-summary">6月に開催されたLondon Tech Week 2026では、2026年前半における英国AIスタートアップへのVC調達額が82億ポンドを超え、欧州全体の約半分を占めると政府が発表した。スターマー首相がAIチップ購入4億ポンドを含む11億ポンドのAIハードウェア計画を表明し、世界チップ市場の5%獲得を目標とした。</p>
+            <a class="entry-source" href="https://thenextweb.com/news/london-tech-week-2026-roundup" target="_blank" rel="noopener noreferrer">
+              The Next Web <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英クロフォートAI法、著作権・AI訓練方針を確定</h2>
+            <p class="entry-summary">英政府は2026年3月、AI訓練データに関する広範なテキスト・データマイニング例外の導入を見送ると確定した。ライセンスなしでの著作物利用を主張するAIベンダーには法的基盤が狭まり、AIモデル開発者は第三者コンテンツの取り扱いについてより厳格な対応を迫られることになる。</p>
+            <a class="entry-source" href="https://www.scaffold.digital/news/uk-ai-regulation-in-2026-whats-in-force-whats-coming-and-what-your-business-should-do" target="_blank" rel="noopener noreferrer">
+              Scaffold Digital <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国が「AI Growth Lab」サンドボックスを6月に始動</h2>
+            <p class="entry-summary">DSITが6月8日にAI Growth Labを正式ローンチし、法律サービス・不動産取引を第一の対象分野として、既存規制の一時的・条件付き緩和のもとAI製品の試験展開を監督する。医療・専門サービス・輸送・先進製造など複数セクターへの拡大が計画されており、成功事例は二次立法で永続化される仕組み。</p>
+            <a class="entry-source" href="https://www.scaffold.digital/news/uk-ai-regulation-in-2026-whats-in-force-whats-coming-and-what-your-business-should-do" target="_blank" rel="noopener noreferrer">
+              Scaffold Digital <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
