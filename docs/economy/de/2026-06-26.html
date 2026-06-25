@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — DE EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; DE EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 07:41 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Ifo景況指数が3カ月ぶり高水準、米イラン和平期待</h2>
+            <p class="entry-summary">ドイツのifo経済研究所が発表した6月の景況指数は85.6と5月の85.0から上昇し、3カ月ぶりの高水準となった。米国とイランの和平合意への期待から地政学的緊張が和らぐとの見方が広がり、企業の現況評価と期待指数の両方が改善した。ただし指数の水準は紛争前をなお下回っており、ifo所長のクレメンス・フュースト氏は「希望は戻った」としつつも慎重姿勢を崩していない。</p>
+            <a class="entry-source" href="https://www.ifo.de/en/facts/2026-06-24/ifo-business-climate-index-rises-june-2026" target="_blank" rel="noopener noreferrer">
+              ifo Institute <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ZEW経済期待指数がプラス転換、3月以来初</h2>
+            <p class="entry-summary">ドイツのZEW経済期待指数は6月に10.5ポイントと、3月の中東紛争勃発以来初めてプラス圏に浮上し、市場予想（マイナス6.0）を大幅に上回った。投資家はイラン紛争の早期終結を見込み、エネルギー価格下落と国内需要の回復を期待している。自動車・化学・機械セクターの期待が大きく改善したが、依然としてマイナス領域にとどまっている。</p>
+            <a class="entry-source" href="https://tradingeconomics.com/germany/zew-economic-sentiment-index" target="_blank" rel="noopener noreferrer">
+              Trading Economics <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独GDP成長率、2026年は0.6%見通し　財政出動が下支え</h2>
+            <p class="entry-summary">ドイツ連邦銀行（ブンデスバンク）と欧州委員会はいずれも2026年の実質GDP成長率を0.6%と予測しており、2年連続のマイナス成長から脱却する見通しだ。国防・インフラへの財政支出拡大が成長を下支えするが、米国の関税や中東紛争に伴うエネルギー高が輸出と企業収益を圧迫している。2028年にかけての財政赤字拡大（GDPの4.8%超）が、長期的な財政健全性の懸念材料として浮上している。</p>
+            <a class="entry-source" href="https://www.bundesbank.de/en/press/press-releases/bundesbank-s-forecast-for-germany-economy-will-gradually-recover-965032" target="_blank" rel="noopener noreferrer">
+              Deutsche Bundesbank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インフレが2026年に2.9%へ急加速の見通し</h2>
+            <p class="entry-summary">欧州委員会の春季予測は、ドイツのHICP（EU統一基準インフレ率）が2026年に2.9%へ跳ね上がると試算した。2026年3月に勃発した中東紛争によるエネルギー価格急騰が主因で、実質賃金の伸びを圧迫し個人消費を下押ししている。2027年にかけてエネルギー価格が落ち着けばインフレも2.7%へ緩和する見通しだが、先行き不透明感は根強い。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">失業率が4.0%へ上昇、製造業での雇用喪失が続く</h2>
+            <p class="entry-summary">ドイツの失業率は2026年に4.0%へ上昇し、製造業での雇用喪失が公的部門（教育・医療）での雇用増で部分的にしか相殺されていない状況が続く見通しだ。高エネルギーコストと関税による輸出競争力の低下が、化学・鉄鋼・機械セクターを中心に企業の採用意欲を冷やしている。2027年にはインフレ鎮静化と内需回復に伴い失業率が若干低下する見込みとされている。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">独政府の財政赤字、2028年にGDP比4.8%に拡大へ</h2>
+            <p class="entry-summary">ドイツ連邦銀行は、国防・インフラへの追加財政支出と減税の影響で政府の財政赤字が2028年にGDP比4.8%、公的債務比率が68%に達すると予測した。ブンデスバンクのナーゲル総裁は「債務ブレーキ（財政規律条項）をさらに発展させる提案にコミットしている」と述べ、持続可能な財政運営に向けた改革の必要性を強調した。財政悪化は長期金利の上昇圧力となるリスクも孕んでいる。</p>
+            <a class="entry-source" href="https://www.bundesbank.de/en/press/speeches/outlook-for-2026-in-the-light-of-multifaceted-challenges-worldwide-988530" target="_blank" rel="noopener noreferrer">
+              Deutsche Bundesbank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">VWアウディ、米工場建設計画を関税負担で断念</h2>
+            <p class="entry-summary">VWグループのアウジ部門は、米国での40億ドル規模の初の工場建設計画を関税コストの重さから断念したことが明らかになった。VWのブルーメ社長は「関税負担が変わらない中で大規模追加投資は財務的に成立しない」と述べており、米EU間の貿易摩擦が欧州自動車大手の対米投資計画に大きな影響を与えている。トランプ政権は5月にEU輸入品への25%関税を発動済みで、交渉は停滞している。</p>
+            <a class="entry-source" href="https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026" target="_blank" rel="noopener noreferrer">
+              Mercatus Center <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ドイツ輸出、関税と地政学リスクで伸び悩み</h2>
+            <p class="entry-summary">ドイツの輸出は2026年を通じて3年連続のマイナス成長から脱却できないほどの低迷が続く見通しで、米国関税と高い地政学的不確実性が輸出志向産業の構造的課題と重なっている。欧州委員会はドイツの経常収支黒字がGDP比4%を下回る水準に縮小すると予測しており、対外収支の改善とは言えない内需低迷が主因だ。建設や商業不動産市場の本格的な回復は2026年下半期以降にずれ込む見通しとされている。</p>
+            <a class="entry-source" href="https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en" target="_blank" rel="noopener noreferrer">
+              European Commission <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

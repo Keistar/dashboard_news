@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 07:41 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">李強首相、サマーダボスで「中国機会2.0」を提唱</h2>
+            <p class="entry-summary">中国の李強首相は大連で開催された世界経済フォーラム「サマーダボス2026」の開幕全体会議で、欧米が懸念する「中国ショック2.0」という言葉は事実に基づかないとして、「中国機会2.0」と呼ぶべきだと反論した。2026年第1四半期のGDP成長率が5%に達し、AIや新興技術分野で急成長しているとアピールし、外資誘致への強い意欲を示した。サマーダボスには90カ国以上から1,700人超のリーダーが参加し、「革新のスケールアップ」をテーマに議論が交わされた。</p>
+            <a class="entry-source" href="https://www.scmp.com/economy/china-economy/article/3358126/china-safe-haven-global-economy-says-premier-li-qiang-summer-davos" target="_blank" rel="noopener noreferrer">
+              South China Morning Post <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国5月小売売上高がコロナ後初のマイナスに転落</h2>
+            <p class="entry-summary">中国の5月小売売上高（消費動向の主要指標）が前年比0.6%減と、新型コロナウイルス感染症収束後で初めてマイナスに転じた。一方、輸出は同月前年比19.4%増と高水準を維持し、消費と輸出の不均衡が一段と拡大している。この内需低迷が「中国の過剰生産能力」批判に燃料を投じており、李強首相はサマーダボスでの演説でこれに正面から反論した。</p>
+            <a class="entry-source" href="https://www.scmp.com/opinion/comment/article/3358233/summer-davos-li-qiang-makes-case-chinas-vision-growth" target="_blank" rel="noopener noreferrer">
+              South China Morning Post <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">PBoC、残り期間の利下げ・準備率引き下げを見送りへ</h2>
+            <p class="entry-summary">BBVAリサーチは最新の中国経済アウトルックで、中国人民銀行が2026年下半期を通じて利下げも預金準備率引き下げも実施しない可能性が高いと予測した。消費者物価指数（CPI）は1.2%、生産者物価指数（PPI）は1.4%と低水準ながら若干改善が見込まれており、PBoCは「様子見」姿勢を継続する見通しだ。地政学リスクがトランプ氏の訪中を経て一部緩和されていることも、現状維持判断を支えているとされる。</p>
+            <a class="entry-source" href="https://www.bbvaresearch.com/en/publicaciones/china-economic-outlook-june-2026/" target="_blank" rel="noopener noreferrer">
+              BBVA Research <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">香港IPO市場、テックブームでHK$3,000億超見通し</h2>
+            <p class="entry-summary">テクノロジー企業の上場ラッシュを受け、香港のIPO調達額が2026年通年でHK$3,000億（約6兆円）を超える見通しと報じられた。香港は2025年に世界最大の資金調達市場（355億米ドル・106件）となっており、中国本土企業の越境資本戦略の転換点として位置づけられている。EV電動化の進展やAI投資の拡大を背景に、ハイテク企業が上場先として香港を選ぶ動きが加速している。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">国有銀行が革新企業向け資金を不正流用と報道</h2>
+            <p class="entry-summary">中国の国有銀行が、政府が革新企業向けに指定した数十億元規模の資金を目的外に流用していたと報じられた。北京当局の戦略目標（ハイテク産業振興）と銀行のリスク回避姿勢とのギャップが浮き彫りになったもので、金融政策の実効性への疑問が高まっている。政府は中小企業への資金供給を強化する方向で制度改革を検討中だとされる。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国の造船業が44億ドルの受注獲得、環境船競争激化</h2>
+            <p class="entry-summary">中国造船業界がグリーン船舶（LNG・アンモニア等）の競争激化を背景に44億ドルの新規受注を獲得した。李強首相は大連の国有造船企業を視察し、高付加価値装備製造での国際技術フロンティアの追求を指示した。世界的な脱炭素化要請とAI・ロボット技術の統合が、中国造船業の競争力強化を後押ししている。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国、第15次五カ年計画でAI・半導体に重点投資</h2>
+            <p class="entry-summary">2026年を始期とする中国第15次五カ年計画（2026〜2030年）では、AIや半導体、6G、バイオテクノロジー分野への政策的重点支援が明示された。デジタル経済のGDP比を2030年までに12.5%に引き上げ、非化石燃料の比率25%達成などが数値目標として掲げられている。ドイツ銀行などはこれらの分野を中国市場での有望な投資テーマと評価している。</p>
+            <a class="entry-source" href="https://www.db.com/news/detail/20260331-china-s-2026-economic-blueprint-navigating-a-path-of-stability-and-strategic-growth?language_id=1" target="_blank" rel="noopener noreferrer">
+              Deutsche Bank <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国スターリンク対抗衛星網、最大22億ドルを調達へ</h2>
+            <p class="entry-summary">中国のスターリンク対抗衛星インターネット企業が最大22億ドルの資金調達を目指していることが明らかになった。テンセントが企業向けAIアシスタントのテストを進めていることとも併せ、中国のAI・宇宙インフラへの民間投資が活発化している。米中の技術覇権競争が宇宙・通信分野でも本格化するとの見方が強まっている。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

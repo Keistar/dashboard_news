@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 07:41 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀、政策金利を1.0%に引き上げ　31年ぶり高水準</h2>
+            <p class="entry-summary">日本銀行は6月16日の金融政策決定会合で、政策金利を0.75%から1.0%へ25ベーシスポイント引き上げることを7対1の多数決で決定し、1995年以来31年ぶりの水準となった。中東情勢を起因とするエネルギー輸入コストの上昇と円安によるインフレ圧力の高まりが主因で、日銀副総裁の氷見野氏も中立金利に向けた利上げ継続姿勢を議会で明言した。ドル円相場は発表直後に160円付近に定着し、政府による追加介入への警戒感も続いている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">高市首相、14年370兆円の大型投資計画を発表</h2>
+            <p class="entry-summary">高市早苗首相は370兆円（約2.3兆ドル）規模の14年間投資ロードマップを発表し、うち101.6兆円をAIと半導体に集中投資する計画を示した。財源確保の具体策が明示されていないことが課題として指摘されており、市場では財政規律への懸念も浮上している。日本が先端技術産業での国際競争力を取り戻すための野心的な国家戦略と位置づけられている。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-24/japan-unveils-2-3-trillion-investment-plan-for-next-14-years" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀政策委・田村委員、数カ月ごとの継続利上げ支持</h2>
+            <p class="entry-summary">日銀政策審議委員の田村直樹氏は講演で、政策金利を中立水準とみられる2%に向けて数カ月ごとに0.25%ずつ引き上げるべきとの見解を示した。中東紛争を背景とした輸入コスト上昇が消費者物価に広く波及するリスクが高まっているとし、インフレリスクが強まれば「ためらわずに利上げペースを加速させるべき」と踏み込んだ発言をした。副総裁の氷見野氏も同趣旨の発言を国会で行い、ハト派的な姿勢を修正する動きが明確になっている。</p>
+            <a class="entry-source" href="https://tradingeconomics.com/japan/interest-rate" target="_blank" rel="noopener noreferrer">
+              Trading Economics <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日米、対米投資550億ドル計画の第2弾プロジェクトを発表</h2>
+            <p class="entry-summary">日本と米国は、昨年の関税交渉で日本が約束した5,500億ドルの対米投資枠の第2弾として、最大730億ドル相当のプロジェクト群を発表した。GEベルノバ日立によるテネシー・アラバマ州での小型モジュール炉（SMR）建設（最大400億ドル）などが含まれ、AI向けデータセンターへの電力供給も想定されている。高市首相のワシントン訪問に合わせた発表で、日米の経済・防衛協力の強化を確認した。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/03/20/us-japan-trade-pact/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">OECDが日本経済審査を公表、緩やかな金融正常化を推奨</h2>
+            <p class="entry-summary">OECDは2026年版日本経済審査報告書を公表し、国内需要に支えられた緩やかな成長継続を予測しつつ、生産年齢人口の減少と高い公的債務が長期的課題と指摘した。インフレは2026〜27年にかけて2%目標に収束する見通しで、日銀には段階的な金融政策の正常化継続を推奨している。財政健全化に向けては補正予算への依存を抑制し、税収増と歳出効率化の両立を求めている。</p>
+            <a class="entry-source" href="https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html" target="_blank" rel="noopener noreferrer">
+              OECD <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日本1Q26GDPが堅調、消費・設備投資が牽引</h2>
+            <p class="entry-summary">IMFの対日審査（第4条協議）は、2026年第1四半期の日本経済が潜在成長率を上回るペースで拡大しており、国内需要が堅調で雇用も低水準を維持していると報告した。名目賃金の歴史的高水準での伸びが続いている一方、インフレによる実質購買力の侵食が家計の懸念材料として続いている。IMFは中期的な財政健全化と労働市場改革の推進を強く促している。</p>
+            <a class="entry-source" href="https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult" target="_blank" rel="noopener noreferrer">
+              IMF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国の対日レアアース輸出凍結、企業20社に措置</h2>
+            <p class="entry-summary">中国が2026年2月、デュアルユース（軍民両用）素材の日本企業20社への輸出を凍結し、さらに20社が監視リストに載せられた。半導体製造に不可欠なレアアース調達への打撃が懸念され、日本のハイテク産業・防衛産業サプライチェーンの脆弱性が改めて浮き彫りになった。措置の全容は未だ不明で、日本政府はサプライチェーンの多様化を急いでいる。</p>
+            <a class="entry-source" href="https://www.imf.org/-/media/files/publications/cr/2026/english/1jpnea2026001.pdf" target="_blank" rel="noopener noreferrer">
+              IMF Country Report <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀がドル円160円防衛に5月介入11.7兆円実施</h2>
+            <p class="entry-summary">財務省が公表したデータによれば、日本政府は5月中に約11.7兆円（735億ドル）規模の円買い介入を実施し、2004年以来最大の四半期介入額となった。ドル円は160円台での推移が続いており、日銀の利上げ後も円安圧力が根強く残っている。円安はエネルギー輸入コストを押し上げており、家計と企業の双方に影響を及ぼしている。</p>
+            <a class="entry-source" href="https://www.investing.com/economic-calendar/boj-interest-rate-decision-165" target="_blank" rel="noopener noreferrer">
+              Investing.com <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

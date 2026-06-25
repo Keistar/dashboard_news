@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — IN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; IN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 07:41 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドRBI、政策金利5.25%に据え置き　成長見通し下方修正</h2>
+            <p class="entry-summary">インド準備銀行（RBI）は6月の金融政策委員会（MPC）で政策金利（レポレート）を5.25%に全会一致で据え置き、ニュートラルスタンスを維持した。FY27のGDP成長率見通しを6.9%から6.6%へ下方修正し、インフレ予測は4.6%から5.1%へ引き上げた。中東紛争による原油高とサプライチェーン混乱がスタグフレーション的リスクを高めているとして、市場では緊縮・緩和どちらも打ちにくい難しい政策環境との指摘が相次いでいる。</p>
+            <a class="entry-source" href="https://www.wionews.com/india-news/rbi-repo-rate-gdp-growth-forecast-inflation-stagflation-risk-june-2026-1780637958506/amp" target="_blank" rel="noopener noreferrer">
+              WION News <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">印米二国間貿易協定、7月24日の期限前に大詰め交渉</h2>
+            <p class="entry-summary">インドと米国は6月22〜24日にかけてゴヤル商工相とグリア米国貿易代表が閣僚級会談を行い、7月24日の米暫定関税（10%）失効期限前の暫定貿易協定（BTA第一弾）締結を目指して協議を続けている。インド側は競合するベトナムやASEAN諸国に対して優位な関税率の確保を最重点課題に据えており、デジタル貿易・非関税障壁・市場アクセスの各分野で「実質的な進展があった」と発表した。期限内妥結に向け両国首脳がG7サミットでも直接交渉を加速させていた。</p>
+            <a class="entry-source" href="https://www.businesstoday.in/latest/economy/story/india-seeks-preferential-us-tariff-access-as-interim-trade-deal-nears-539149-2026-06-25" target="_blank" rel="noopener noreferrer">
+              Business Today <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド1Q26GDP予想上回る成長　エネルギー高が今後の重荷</h2>
+            <p class="entry-summary">インドの2026年1〜3月期（会計年度Q4）GDPは民間・政府支出が継続し、市場予想を上回る成長率を記録したとブルームバーグが報じた。ただしエネルギー価格の上昇が2026年の下半期以降の見通しに影を落としており、ルピー安と燃料費高騰によるインフレ圧力が顕在化している。ゴールドマン・サックスは2026年の実質GDP成長率を6.9%と予測しており、依然として世界最速水準の成長が見込まれている。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-05/india-growth-beats-estimates-despite-energy-costs-rupee-slide" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">HSBCのインド複合PMIが57.4に低下、需要鈍化を示す</h2>
+            <p class="entry-summary">HSBC発表のフラッシュ・インド複合PMI（製造業+サービス業）は6月に57.4と5月の59.3から低下し、需要・雇用・業況楽観度が製造業・サービス業の両セクターで軟化したことが示された。依然として拡大圏（50超）を大幅に上回っているため経済が収縮しているわけではないが、中東紛争やエネルギー高の影響が企業心理を慎重化させている。インド経済の成長のペースが緩やかに鈍化していることを示す最新指標として注目を集めている。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド、ロシア産原油が輸入の50%近くに　エネルギー安保を注視</h2>
+            <p class="entry-summary">海事インテリジェンス企業クプラーのデータによれば、6月20日時点でロシア産原油はインドの月間原油輸入の約50%を占め、引き続き圧倒的なシェアを維持している。中東紛争後の原油市場の混乱でインドは安価なロシア産原油への依存を続けているが、RBIはエネルギー価格上昇が直接的に36ベーシスポイントのインフレ押し上げ要因になると試算した。米国との貿易交渉においてロシア産原油の購買停止を求められており、インドのエネルギー政策は外交・経済の両面で難しい均衡を強いられている。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドのC&amp;Iエネルギー貯蔵市場、2032年に最大31GWhへ拡大</h2>
+            <p class="entry-summary">インドの商業・産業（C&amp;I）向けエネルギー貯蔵市場は、再生可能エネルギーの統合コスト最適化と脱炭素化ニーズを背景に、2032年までに22〜31GWhへ急拡大する見通しが示された。関税引き上げと電力価格の上昇が蓄電池システムの経済性を高め、企業の需要が急増している。インド政府の再エネ政策とネット・ゼロ目標に向けたロードマップが市場を後押ししている。</p>
+            <a class="entry-source" href="https://www.ibef.org/indian-economy-news" target="_blank" rel="noopener noreferrer">
+              IBEF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドのL&amp;T、BPCLから大型石油化学プラント受注</h2>
+            <p class="entry-summary">インド最大の建設・エンジニアリング企業ラーセン・アンド・トゥブロ（L&amp;T）が、国営石油大手BPCL（バーラト・ペトロリウム）からインド最大規模の柔軟性石油化学プラントの建設を受注した。インド国内での高付加価値製造業への投資が拡大していることを示す事例として、政府の「メイク・イン・インディア」政策の成果として注目されている。エネルギー安保と産業多様化を同時に追求する戦略的プロジェクトと位置づけられている。</p>
+            <a class="entry-source" href="https://www.ibef.org/indian-economy-news" target="_blank" rel="noopener noreferrer">
+              IBEF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インドのGST導入9周年、企業は簡素化継続を要求</h2>
+            <p class="entry-summary">2017年の物品サービス税（GST）導入から9年が経過し、企業の多くは税制の基本的な枠組みは支持しつつも、税務調査の均一化・還付の迅速化・申告手続きの簡素化を求めていることがHSBCのPMI調査でも示された。GSTはインドの税収構造を大きく改善したが、複雑なコンプライアンス負担が中小企業の競争力を制約しているとの指摘が根強い。政府はGST評議会を通じた制度改善の継続を表明している。</p>
+            <a class="entry-source" href="https://www.business-standard.com/economy" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

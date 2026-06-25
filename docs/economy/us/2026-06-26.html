@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 07:41 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">マイクロン、AI需要で売上高4倍超の史上最高決算</h2>
+            <p class="entry-summary">マイクロン・テクノロジーが発表した2026年度第3四半期決算は、売上高414億6,000万ドルと前年同期比346%増で市場予測を大幅に上回った。AI向けデータセンター事業だけで250億ドルを超え、調整後EPSも25.11ドルとコンセンサス予測（20.49ドル）を22%上回った。第4四半期のガイダンスも売上高500億ドル・EPS31ドルと市場を驚かせ、時間外取引で株価が約15%急騰した。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">アップル、Mac・iPadを最大300ドル値上げ</h2>
+            <p class="entry-summary">アップルは6月25日、MacBookとiPad全製品ラインで最大300ドルの値上げを即日実施した。AI向けデータセンターの急拡大によるRAM・NANDフラッシュの世界的不足と関税負担が主因とされ、ティム・クックCEOはコスト吸収が「持続不可能」と述べた。株価は同日約6%下落し、マイクロソフトも8月からXboxの値上げを発表するなど業界全体へ波及している。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ナスダック4日続落、AI半導体セクターに重心移動</h2>
+            <p class="entry-summary">6月24日のナスダック総合指数は0.46%安の25,358ポイントと2月以来初の4日続落を記録し、アップルの値上げ発表が大きく重しとなった。一方、ダウ平均は過去最高値圏で推移し、キャタピラーが6%上昇するなどAI以外の銘柄への資金シフトが進んでいる。マイクロン株は決算後17%高と大幅反発し、半導体セクター内での明暗が鮮明になっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">クアルコム、2029年非スマホ収益目標を倍増の400億ドル</h2>
+            <p class="entry-summary">クアルコムは2029年の非スマートフォン収益予測を従来の220億ドルから400億ドルへ引き上げ、自動車・PC・IoT分野でのAIチップ事業拡大に強い自信を示した。この発表を受け株価は9%上昇し、半導体ビジネスのスマホ依存脱却が加速していることが確認された。データセンター向けメモリ需要の拡大と相まって、AI関連半導体全体の長期成長への期待が高まっている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米財務省、2026年第2四半期の経済見通しを公表</h2>
+            <p class="entry-summary">米財務省は四半期報告書（TBAC向け）で、2026年第1四半期の設備投資が前年比10%超増加し、民間給与も2025年平均の2.5倍のペースで増加していると報告した。PCEインフレは3月時点で前年比3.5%と目標（2%）を依然上回るが、景気後退リスクは比較的低いとの見解を示している。イラン紛争に伴うエネルギー価格上昇が引き続きインフレ上振れリスクとして懸念されている。</p>
+            <a class="entry-source" href="https://home.treasury.gov/news/press-releases/sb0486" target="_blank" rel="noopener noreferrer">
+              U.S. Department of the Treasury <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">MerckがBio-Techneを株価73ドルで買収合意</h2>
+            <p class="entry-summary">製薬大手メルクが、ライフサイエンス機器・試薬大手のバイオ・テクネを1株73ドルで買収することで合意したと発表した。この取引はメルクのポートフォリオ多様化戦略の一環で、バイオテクノロジー研究支援事業の強化を狙う。バイオ・テクネ株は合意報告直後に大幅に上昇した。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">FRB6月会合議事録と為替レート統計を公表</h2>
+            <p class="entry-summary">米連邦準備制度理事会（FRB）は6月25日に6月17日のFOMC会合に関する関連統計（G.5外国為替レート）を公表した。FOMCは前回会合（6月16〜17日）で政策金利を据え置き、インフレと雇用の双方に対してバランスを保つ姿勢を継続している。CBOは2026年の失業率を4.6%と予測しており、労働市場の安定が続くと見込まれている。</p>
+            <a class="entry-source" href="https://www.federalreserve.gov/newsevents/2026-june.htm" target="_blank" rel="noopener noreferrer">
+              Federal Reserve Board <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ダーデン・レストランツ、弱い見通しで株価下落</h2>
+            <p class="entry-summary">オリーブガーデンなどを運営するダーデン・レストランツは第4四半期決算を発表し、売上高は市場予測並みだったものの、2027年度のEPS見通し（11.10〜11.35ドル）がアナリスト予想（11.39ドル）を下回った。オリーブガーデンの既存店売上高も前年比2.4%増と予想に届かず、消費者の外食支出鈍化が示された。株価は決算発表後に約2%下落した。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

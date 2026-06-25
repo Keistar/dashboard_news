@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 07:41 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英BOE、政策金利3.75%を7対2で維持　2名が利上げ要求</h2>
+            <p class="entry-summary">イングランド銀行（BOE）金融政策委員会（MPC）は6月17日に終わる会合でBank Rateを3.75%に7対2の多数決で維持した。グリーン委員とピル委員の2名は0.25%の即時利上げを主張し、中東紛争に起因するエネルギーショックの二次的インフレ効果を懸念する姿勢を示した。中東情勢に連動するエネルギー価格の変動が依然として高く、BOEは今後の政策対応の幅を確保しつつ慎重に状況を見極めている。</p>
+            <a class="entry-source" href="https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026" target="_blank" rel="noopener noreferrer">
+              Bank of England <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">家庭向けエネルギー上限、7月から13%値上げ</h2>
+            <p class="entry-summary">英エネルギー規制当局オフジェムは、7〜9月期のエネルギー価格上限（プライスキャップ）を13%引き上げると発表しており、典型的家庭の標準年間電気・ガス料金は1,641ポンドから1,862ポンドへ上昇する。中東紛争による卸売ガス価格の高騰が主因で、ガス料金が約24%上昇する一方、電力料金の上昇は約5%にとどまる。10月以降も上限がさらに引き上げられるとの予測もあり、家計への圧迫が冬に向けて強まる懸念がある。</p>
+            <a class="entry-source" href="https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-13-july" target="_blank" rel="noopener noreferrer">
+              Ofgem <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英2026年1Q GDP+0.6%、幅広いセクターが拡大</h2>
+            <p class="entry-summary">英国の2026年第1四半期GDPは前期比0.6%増と、2025年下半期の低迷から回復した。サービス・製造・建設の全分野が拡大し、特にサービス業が0.8%成長を記録した。ただし中東紛争勃発後のPMIが急低下し5月に縮小圏へ転落しており、第2四半期以降の減速が懸念されている。</p>
+            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
+              UK Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英インフレ、7月に3.5%接近の恐れ　エネルギー高再燃</h2>
+            <p class="entry-summary">RSM UKは2026年の英国インフレが平均3.1%、年末には3.5%に達すると予測し、7月のエネルギー上限引き上げと燃料コストの転嫁が主因と分析した。サービス業インフレも3月以降の紛争を受けて再上昇しており、BOEによる年内の利下げシナリオはほぼ消滅した。イランとの6月の暫定和平合意でエネルギー価格はやや落ち着いたが、合意の脆弱性が最大のダウンサイドリスクとされている。</p>
+            <a class="entry-source" href="https://www.rsmuk.com/insights/real-economy/uk-economic-outlook" target="_blank" rel="noopener noreferrer">
+              RSM UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国、記録的な猛暑でシティ金融機関が在宅勤務を指示</h2>
+            <p class="entry-summary">英国で過去最高の6月気温（南イングランドで36.1℃）を記録し、JPモルガン・チェース、INGバンク、ドイツ銀行、M&amp;G、野村証券など主要金融機関がロンドンの従業員に在宅勤務を奨励した。オックスフォード・エコノミクスのアナリストは英国の労働生産性が最大1.5%低下すると試算しており、猛暑による経済的打撃への懸念が高まっている。中東紛争に続く予期せぬ経済ショックが企業経営を圧迫している。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-25-june-2026-economy-markets/" target="_blank" rel="noopener noreferrer">
+              CPA - The Credit Protection Association <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">地方税滞納が93億ポンドに膨張、家計逼迫を示す</h2>
+            <p class="entry-summary">英国の地方税（カウンシルタックス）の滞納総額が93億ポンドに達し、イングランドだけで74億ポンドを占めると当局が公表した。高インフレ・高借入コスト・エネルギー代の三重苦が家計を直撃しており、中産階級の実質購買力が急速に低下している。商工会議所のヘイビランド会長は「企業への追加増税は破滅への道」と警告し、成長重視の政策転換を求めている。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-25-june-2026-economy-markets/" target="_blank" rel="noopener noreferrer">
+              CPA - The Credit Protection Association <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SME向け融資が16%増、過去最大の伸び　BOEデータ</h2>
+            <p class="entry-summary">英国金融協会（UK Finance）の報告によれば、2026年第1四半期の中小企業（SME）向け融資は前年同期比16%増の53億ポンドとなり、直近では最大の増加幅を記録した。銀行の信用供与が改善し、SMEの資金需要と供給の両サイドで条件が好転している。ただし中東紛争後の第2四半期は設備投資の先送りや資金調達見直しの動きが出る可能性があると警告されている。</p>
+            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
+              UK Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国2026年GDP成長率予測は1.0%　スタグフレーション警戒</h2>
+            <p class="entry-summary">RSM UKは2026年の英GDPを当初予測の1.4%から1.0%へ下方修正し、「軽度スタグフレーション」シナリオを基本ケースとして提示した。ストレート・オブ・ホルムズ閉鎖が長引けば2022年を超えるエネルギー価格急騰も想定され、個人消費の急落と景気後退の可能性も除外できないと警告した。労働党内のリーダーシップ刷新論の台頭が政治的不確実性をさらに高めており、財政・金融政策の先行きに不透明感が漂っている。</p>
+            <a class="entry-source" href="https://www.rsmuk.com/insights/real-economy/uk-economic-outlook" target="_blank" rel="noopener noreferrer">
+              RSM UK <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
