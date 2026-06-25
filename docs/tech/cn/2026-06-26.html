@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 06:36 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国が5年間で2兆元のデータセンター投資計画を策定</h2>
+            <p class="entry-summary">中国政府は今後5年間で約2兆元（2950億ドル）をAIデータセンター網に投じる計画を策定中と報じられた。国家発展改革委員会が全国に相互接続型コンピューティングハブを整備する青写真を起草しており、技術の80%以上を華為などの国内サプライヤーで賄う方針だ。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Honor製ヒューマノイドが北京ハーフマラソンで人間の世界記録を破る</h2>
+            <p class="entry-summary">4月の北京E-Townヒューマノイドロボット・ハーフマラソンでスマホメーカーHonorの「Lightning」が50分26秒で完走し、人間の世界記録を約7分上回った。Honorのロボットは上位6位を独占し、液体冷却システムと自律ナビゲーションが中国のロボティクス産業の急速な進化を示している。</p>
+            <a class="entry-source" href="https://fortune.com/2026/04/19/humanoid-robot-world-record-half-marathon-race-china-honor/" target="_blank" rel="noopener noreferrer">
+              Fortune <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国テック大手がロボティクスへ猛加速</h2>
+            <p class="entry-summary">ByteDanceはZTEとエージェント型スマートフォンを発売し、HuaweiはエージェントtoエージェントAIフレームワークをスマートフォン向けに構築している。Alibababは北京E-Townイベントで視覚障害者誘導用四足歩行ロボット「Tutu」を発表し、中国の大手テック企業が一斉にロボティクス・「身体AI」分野へ参入している。</p>
+            <a class="entry-source" href="https://www.brookings.edu/articles/china-is-running-multiple-ai-races/" target="_blank" rel="noopener noreferrer">
+              Brookings <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国AI企業が「脱Nvidia化」を加速、国産チップ台頭</h2>
+            <p class="entry-summary">輸出規制でNvidiaの中国売上が前四半期比50%近く急減するなか、HuaweiのAscend 950、BaiduのKunlun P800、AlibabaのPPUが急台頭している。Baiduは今後5年の年1製品リリースロードマップを発表し、中国Mobile向けに10億元超の受注を獲得した。</p>
+            <a class="entry-source" href="https://spectrum.ieee.org/china-ai-chip" target="_blank" rel="noopener noreferrer">
+              IEEE Spectrum <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Variable Robotics、ロボットで2000億円調達</h2>
+            <p class="entry-summary">中国ロボットスタートアップのVariable Robotics（自変量机器人）がシリーズBで約20億元（2億9000万ドル）を調達した。中国の身体AIへの旺盛な投資意欲を裏付ける大型ラウンドで、2026〜2030年の国家計画に位置づけられたヒューマノイドロボット産業育成を後押しする。</p>
+            <a class="entry-source" href="https://chinanews.ai/" target="_blank" rel="noopener noreferrer">
+              ChinaNews.ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Beijing新興ArcheBaseがロボット向けデータ基盤で創業</h2>
+            <p class="entry-summary">北京の新興企業ArcheBase（智域基石）が、ロボティクスの次なるボトルネックとされるマルチモーダルな物理世界データを直接学習可能な形式に変換するプラットフォームを引っさげてステルスモードから姿を現した。中国のロボット産業向けデータインフラ整備の動きを象徴する新規参入だ。</p>
+            <a class="entry-source" href="https://chinanews.ai/" target="_blank" rel="noopener noreferrer">
+              ChinaNews.ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">雷軍氏バック企業がIPOで株価172%急騰</h2>
+            <p class="entry-summary">Xiaomi創業者・雷軍氏が支援する元NvidiaエンジニアらによるAIスタートアップが新規上場し、初値で株価が172%上昇した。中国テック市場における生成AI関連銘柄への根強い投資熱と、半導体・AI人材の起業エコシステムの成熟を示す出来事として注目されている。</p>
+            <a class="entry-source" href="https://chinanews.ai/" target="_blank" rel="noopener noreferrer">
+              ChinaNews.ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">HuaweiがHarmonyOS 6最新アップデートを展開</h2>
+            <p class="entry-summary">HuaweiがMate 60/70/80とPura 70/80シリーズ向けにHarmonyOS 6.0.0.328 SP58をリリースした。常連（畅连）のリアルタイムトランシーバーモードなど非公表の新機能が含まれており、Googleエコシステムから独立した独自OSエコシステムの継続的な拡充を示している。</p>
+            <a class="entry-source" href="https://chinanews.ai/" target="_blank" rel="noopener noreferrer">
+              ChinaNews.ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
