@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-26 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0712;
+    --line: #2a0c3c;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #ef72ff;
+    --signal: #ff9ec0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-26 &middot; 08:32 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">周星馳監督「カンフー・サッカー」7月公開へ</h2>
+            <p class="entry-summary">香港の名匠・周星馳（スティーブン・チョウ）が6月22日の64歳誕生日に、新作映画「カンフー・サッカー」を7月10日もしくは17日に公開目指すと発表した。2001年の「少林サッカー」の精神的続編で、女性チームがカンフーと融合したサッカーで活躍する物語。張小斐、ディリラバ、Lay Zhangが主演し、7年ぶりの監督作として世界的注目を集めている。</p>
+            <a class="entry-source" href="https://variety.com/2026/film/news/stephen-chow-kung-fu-soccer-international-rights-1236788065/" target="_blank" rel="noopener noreferrer">
+              Variety / Hollywood Reporter <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">「カンフー・サッカー」の国際配給権をシンガポール社が取得</h2>
+            <p class="entry-summary">シンガポールのEncore Filmsが「カンフー・サッカー」の中国本土以外の全世界配給権を取得したと発表した。W杯の盛り上がりに乗じた夏公開戦略で、「少林サッカー」25周年記念作として多言語（中国語・英語・韓国語・日本語・タイ語）で公開予定。</p>
+            <a class="entry-source" href="https://www.hollywoodreporter.com/movies/movie-news/stephen-chows-shaolin-soccer-spin-off-kung-fu-soccer-1236628114/" target="_blank" rel="noopener noreferrer">
+              Hollywood Reporter <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Song WeilongとTian Xiweiが釜山のグローバルOTT授賞式に出席</h2>
+            <p class="entry-summary">中国人気俳優のソン・ウェイロンとティエン・シーウェイが韓国・釜山で開催された2026グローバルOTTアワードに出席した。中国ドラマの国際的な評価が高まる中、アジア圏でのOTTコンテンツ競争の激化を示すイベントとして注目された。</p>
+            <a class="entry-source" href="https://dramapanda.com/" target="_blank" rel="noopener noreferrer">
+              DramaPanda <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">黄暁明が上海演劇学院の博士課程受験を発表</h2>
+            <p class="entry-summary">中国の人気俳優・黄暁明（フアン・シャオミン）が上海戯劇学院の2026年度博士課程入試の受験予定者リストに名を連ねていることが明らかになった。俳優が研究者としての道を模索する動きとして、中国芸能界で話題となっている。</p>
+            <a class="entry-source" href="https://dramapanda.com/" target="_blank" rel="noopener noreferrer">
+              DramaPanda <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">陳林農(Chen Linong)のキスシーンめぐりファン騒動</h2>
+            <p class="entry-summary">人気俳優・陳林農が新映画「Huo」のキスシーンをめぐり、一部ファンが「脱退宣言」する騒動が発生しトレンド入りした。アイドル文化とドラマ俳優としての役割をめぐる議論がSNS上で白熱している。</p>
+            <a class="entry-source" href="https://dramapanda.com/" target="_blank" rel="noopener noreferrer">
+              DramaPanda <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国の子供2人組の「武術×ストリートダンス」が世界大会で旋風</h2>
+            <p class="entry-summary">中国人の子供デュオが国際ストリートダンス大会で太極拳や少林拳を融合させたパフォーマンスを披露し、外国チーム2組を破りベスト4進出という快挙を達成した。「中国最強キッズ」として国内SNSで爆発的に話題が広がっている。</p>
+            <a class="entry-source" href="https://www.newhanfu.com/entertainment" target="_blank" rel="noopener noreferrer">
+              NewHanfu Entertainment <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">TVBが2026年下半期のフラッグシップドラマラインナップを発表</h2>
+            <p class="entry-summary">香港のテレビ局TVBが2026年下半期に放送予定のフラッグシップドラマのラインナップを公開した。香港エンタメ界の今後の方向性を示す重要発表として、ファンやメディアから大きな注目を集めている。</p>
+            <a class="entry-source" href="https://www.jaynestars.com/" target="_blank" rel="noopener noreferrer">
+              JayneStars.com <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">著名脚本家・徐磊のドラマ「南部档案」原作者として注目</h2>
+            <p class="entry-summary">「南部档案（Archives: The Nanyang Mystery）」の脚本家・徐磊が中国エンタメ界で改めて注目を浴びている。歴史ミステリーものの原作小説を執筆した著者でもあり、映像化作品の反響とともにその名が広まっている。</p>
+            <a class="entry-source" href="https://dramapanda.com/" target="_blank" rel="noopener noreferrer">
+              DramaPanda <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
