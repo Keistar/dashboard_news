@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 07:37 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英BOEが6月会合で金利3.75%に据え置き、7対2の票決</h2>
+            <p class="entry-summary">イングランド銀行（BOE）は6月18日の金融政策委員会（MPC）で政策金利を3.75%に据え置いた。採決は7対2で、2名が0.25%の引き上げを支持した。4月以降の据え置き継続で、米国・イランの停戦合意後にBOEは近・中期インフレ見通しを下方修正した。次回の金利決定は7月30日の予定。</p>
+            <a class="entry-source" href="https://cambridgecurrencies.com/next-bank-of-england-interest-rate-decision/" target="_blank" rel="noopener noreferrer">
+              Cambridge Currencies <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">7月1日からエネルギー価格上限が13%引き上げ</h2>
+            <p class="entry-summary">Ofgemは7月1日から9月30日のエネルギー価格上限（プライスキャップ）を典型的世帯で13%引き上げると発表した。年間平均請求額は1,641ポンドから1,862ポンドへ上昇する見込みだ。中東紛争に伴う卸売ガス価格の上昇が価格上限に反映されるのが今回で、10月以降もさらなる引き上げが予測されている。</p>
+            <a class="entry-source" href="https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-july-and-30-september-2026" target="_blank" rel="noopener noreferrer">
+              Ofgem <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">1QGDP0.6%成長、製造・サービス・建設が全面拡大</h2>
+            <p class="entry-summary">2026年第1四半期の英国GDP成長率は0.6%と、2025年後半の低迷から持ち直した。サービス業・製造業がそれぞれ0.8%成長し、建設業も0.4%の回復を示した。中東紛争の影響が出る前の民間部門の信頼感改善が背景にあるが、5月以降の購買担当者景気指数（PMI）はサービス業が収縮圏に転落している。</p>
+            <a class="entry-source" href="https://www.commonwealthunion.com/uks-monthly-economic-review-june-26/" target="_blank" rel="noopener noreferrer">
+              Commonwealth Union <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英CPI5月2.8%—エネルギー上限引き上げで下半期に再上昇へ</h2>
+            <p class="entry-summary">英国の5月CPI（消費者物価指数）は前年比2.8%と、3月のピーク3.3%から低下した。ただしサービス業インフレが3.7%に上昇しており、BOEが注視する国内賃金主導の物価圧力は根強い。エネルギー価格上限の7月引き上げを受けてインフレは再加速する見込みで、年後半にはBOEの2%目標を大幅に上回る可能性が高い。</p>
+            <a class="entry-source" href="https://cambridgecurrencies.com/next-bank-of-england-interest-rate-decision/" target="_blank" rel="noopener noreferrer">
+              Cambridge Currencies <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英家庭エネルギー債務が過去最高の47.9億ポンドに</h2>
+            <p class="entry-summary">Ofgemのデータによると、英国の家庭エネルギー債務額が過去最高の47.9億ポンドに達した。エネルギー価格の高止まりと生活費上昇が家計を直撃しており、支払い滞納が増加している。7月からの価格上限引き上げにより、低所得世帯の財務状況がさらに悪化するとの懸念が高まっている。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-26-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英中小企業の利益成長が7.4%と2022年以来の高水準</h2>
+            <p class="entry-summary">セージ社のSMEパルスレポートによると、2026年第1四半期の英国中小企業の利益成長は前年比7.4%と、2022年Q1以来最も高い伸びとなった。実質売上高も3.2%増加し、ミッドランズ地方での伸びが特に顕著だった。ただし利益の増加がキャッシュフローの改善に直結していない企業も多く、事業資金繰りへの懸念が残っている。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-26-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中小企業向け融資が前年比16%増、銀行貸出が活発化</h2>
+            <p class="entry-summary">UKファイナンスの企業金融レビューによると、2026年第1四半期の中小企業向け融資額は前年同期比16%増の53億ポンドに達した。イングランド銀行の最新データでは、同四半期の新規融資総額が前年同期比14%増と2024年末以来最大の伸びを示した。予算発表後の企業信頼感改善と金融環境の好転が貸出需要を押し上げた。</p>
+            <a class="entry-source" href="https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-june-2026" target="_blank" rel="noopener noreferrer">
+              UK Finance <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国経済、石油75ドル割れで若干の改善—ただし財政は依然脆弱</h2>
+            <p class="entry-summary">原油価格が1バレル75ドルを下回ったことで英国のインフレ見通しが若干改善し、家計のインフレ期待は6月に3.8%まで低下した。ブルームバーグ・エコノミクスは第4四半期のインフレが3%を下回る可能性があると指摘する。ただし成長見通しはなお低調で、国債利回りが高止まりする中、財政余地は限られたままだ。</p>
+            <a class="entry-source" href="https://cpa.co.uk/uk-business-news-today-26-june-2026-economy-markets-insolvencies/" target="_blank" rel="noopener noreferrer">
+              CPA <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

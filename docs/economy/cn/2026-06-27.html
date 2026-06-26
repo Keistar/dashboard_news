@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 07:37 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">BYD、米国防総省の「中国軍事企業」リストに追加</h2>
+            <p class="entry-summary">米国防総省は2026年6月、中国EV大手BYDを「中国軍事企業」リストに追加した。BYDの海外販売は2026年1Qに前年比55.8%増の32万1千台と好調な一方、国内販売不振で純利益は55.4%減と大幅に落ち込んでいる。欧州でも労働慣行を巡る懸念が欧州議会で初めて取り上げられるなど、対外的なリスクが高まっている。</p>
+            <a class="entry-source" href="https://en.wikipedia.org/wiki/BYD_Company" target="_blank" rel="noopener noreferrer">
+              Wikipedia / BYD Company <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国の5月対米輸出が5年ぶり高水準の35%増</h2>
+            <p class="entry-summary">中国の5月対米輸出は前年同月比35%増と5年ぶりの高い伸びを記録した。テクノロジー関連製品が輸出全体を牽引しており、輸出全体も急増した。米中間の関税停戦が続く中、中国企業が輸出攻勢を強めている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/china-economy/" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">香港IPO市場が410億ドル規模に—世界2位を目指す</h2>
+            <p class="entry-summary">香港の市場規制当局は、2026年3月末までの年度に過去最高水準の売買高・資本流入・上場申請数を記録したと報告した。香港は410億ドル規模のIPOブームで世界第2位の資金調達市場を目指している。中国本土テクノロジー企業を中心に、新エネルギー・半導体・ヘルスケアなど戦略分野の二重上場が相次いでいる。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国の自律走行スタートアップがHKIPO計画を前進</h2>
+            <p class="entry-summary">中国の自動運転スタートアップ「Momenta」が香港での新規株式公開（IPO）計画を進めていることが明らかになった。中国AIエコシステムの成熟を背景に、テクノロジー系スタートアップの香港上場が急増している。国内市場の競争激化を受けて海外での資金調達を模索する動きが加速している。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">地方政府が農村振興資金41億ドルを流用と国家監査</h2>
+            <p class="entry-summary">国家による包括的な監査により、数十の地方政府が農村振興向けの41億ドルを債務返済や国有企業の支援に流用していたことが判明した。地方財政の悪化と隠れ債務問題が改めて浮き彫りになっており、財政規律の強化が急務とされている。中央政府は対策を継続する方針を示している。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">PBoCが「様子見」姿勢、年内の利下げなし予測</h2>
+            <p class="entry-summary">BBVAリサーチは2026年中国経済見通しの中で、中国人民銀行（PBoC）が他主要中銀と同様に「様子見」姿勢をとっており、年内の追加利下げや預金準備率引き下げはないと予測した。2026年のCPI見通しを1.2%、PPIを1.4%に引き上げた。米中の地政学的リスクは緩和傾向にあるものの、国内需要の弱さが続いている。</p>
+            <a class="entry-source" href="https://www.bbvaresearch.com/en/publicaciones/china-economic-outlook-june-2026/" target="_blank" rel="noopener noreferrer">
+              BBVA Research <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">CATLが50億ドルの増資を発表、海外拡大へ</h2>
+            <p class="entry-summary">電池大手CATL（寧徳時代）が約50億ドルの株式売り出しを発表し、海外市場への進出・生産能力拡大・ゼロカーボン戦略の強化に充てると表明した。発表を受けて株価は8%超下落した。中国EV市場での価格競争激化を受け、中国自動車メーカーはCATLへの依存度低下を目指す動きも強めている。</p>
+            <a class="entry-source" href="https://www.cnbc.com/2026/05/04/china-tech-financial-ecosystem-matures-as-hong-kong-ipos-boom.html" target="_blank" rel="noopener noreferrer">
+              CNBC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国EV大手がスペインへ進出、EU保護主義に対応</h2>
+            <p class="entry-summary">SAICモーター・BYDなど中国自動車メーカーが、EUの保護主義的な関税政策をかわす戦略の一環としてスペインへの進出を進めていることが明らかになった。欧州現地生産を加速させることでEUの関税障壁を回避する狙いがある。中国EVは欧州でシェアを拡大しており、欧州既存メーカーとの競争が一段と激化している。</p>
+            <a class="entry-source" href="https://www.caixinglobal.com/" target="_blank" rel="noopener noreferrer">
+              Caixin Global <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

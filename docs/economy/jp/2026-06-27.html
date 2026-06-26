@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 07:37 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀が政策金利を1.0%に引き上げ、7対1の賛成多数</h2>
+            <p class="entry-summary">日本銀行は6月16日の金融政策決定会合で政策金利を0.75%から1.0%に引き上げることを7対1の賛成多数で決定した。2025年12月以来の利上げとなり、物価安定目標に向けた段階的な金融正常化を継続する姿勢を明確にした。中東情勢によるコスト上昇と円安が利上げの背景にあり、次回は数ヶ月後の追加利上げが見込まれている。</p>
+            <a class="entry-source" href="https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf" target="_blank" rel="noopener noreferrer">
+              Bank of Japan <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日銀副総裁、インフレ上振れリスクを指摘し追加利上げを示唆</h2>
+            <p class="entry-summary">日銀の氷見野副総裁は国会で、中東紛争に伴うコスト上昇が卸売物価を押し上げており、基調インフレが目標を上回るリスクがあると発言した。日本の5月の卸売物価インフレは6.3%と2023年3月以来の高水準を記録していた。日銀は今後の経済・物価動向や中東情勢を注視しながら、段階的な追加利上げを継続する方針を示した。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/06/11/economy/boj-preview-june-meeting-2026/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日米、5500億ドル投資枠組みの第2弾プロジェクトを発表</h2>
+            <p class="entry-summary">日米両政府は、日本の5500億ドル投資コミットメントに基づく第2弾プロジェクト（最大730億ドル相当）を発表した。GEベルノバ日立によるテネシー・アラバマ州での小型モジュール炉建設（最大400億ドル）などが含まれる。高市首相の訪米時に合意され、日米エネルギー・安全保障協力の深化が確認された。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/03/20/us-japan-trade-pact/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">政府諮問会議、投資・賃上げの好循環で強い経済を提言</h2>
+            <p class="entry-summary">財政制度等審議会は6月26日、財務大臣に経済財政運営に関する提言を提出し、投資と賃上げの好循環を通じた強い経済の実現を求めた。日本経済はデフレを脱却し、需要不足から供給制約の段階に移行しつつあると評価した。補正予算への依存度を下げる予算編成改革においても、財政規律の維持が必要と強調した。</p>
+            <a class="entry-source" href="https://www.nippon.com/en/news/yjj2026062600992/" target="_blank" rel="noopener noreferrer">
+              Nippon.com <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日本の1Q実質GDP成長率0.3%—景気は緩やかに拡大</h2>
+            <p class="entry-summary">日本経済は2025年Q4に技術的景気後退を辛うじて回避し、2026年Q1の成長率は前四半期比0.3%となった。内需主導の底堅い拡大が続いているが、中東情勢による石油価格高騰がエネルギーコストを押し上げ、先行きの下振れリスクとして意識されている。OECDは2026年の成長が緩やかに継続すると予測しており、インフレは2%目標に向け収束する見通し。</p>
+            <a class="entry-source" href="https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html" target="_blank" rel="noopener noreferrer">
+              OECD <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ドル円が160円超で推移、円安圧力が持続</h2>
+            <p class="entry-summary">日銀の6月利上げ後も円相場はドルに対して160円超の水準にとどまっており、市場はすでに利上げを織り込み済みとの見方が支配的だ。日米金利差は依然として広く、キャリートレードの巻き戻しには至っていない。市場の関心は今後の利上げペースに移っており、年内さらに数回の追加利上げが観測されている。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/06/11/economy/boj-preview-june-meeting-2026/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">日本の卸売物価5月6.3%上昇—中東危機の影響が波及</h2>
+            <p class="entry-summary">日本の5月の企業物価指数（PPI）は前年比6.3%上昇と2023年3月以来の高水準を記録した。米国・イラン間の紛争に伴う原油価格高騰が輸入コストを押し上げており、企業の価格転嫁行動の変化から消費者物価への波及が速まっている。日銀は中東情勢のさらなる展開を注視しながら利上げ判断を行う方針を示している。</p>
+            <a class="entry-source" href="https://www.japantimes.co.jp/business/2026/06/11/economy/boj-preview-june-meeting-2026/" target="_blank" rel="noopener noreferrer">
+              The Japan Times <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米関税15%維持—日本の対米投資コミット履行が焦点</h2>
+            <p class="entry-summary">2025年7月に合意された日米貿易枠組みに基づき、日本製品への米国関税は15%に設定されているが、最高裁の相互関税違憲判決後の法的影響が不透明な状況が続いている。日本は5500億ドルの対米投資コミットを2029年までに実施する義務があり、その履行状況が今後の関税水準に影響する。議会では大統領の関税権限拡大への懸念も出ており、通商政策の不確実性が継続している。</p>
+            <a class="entry-source" href="https://www.congress.gov/crs-product/IF11120" target="_blank" rel="noopener noreferrer">
+              Congress.gov / Congressional Research Service <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

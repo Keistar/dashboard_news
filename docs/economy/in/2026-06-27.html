@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — IN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0d07;
+    --line: #342a08;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5cc70;
+    --signal: #ffd94a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ECONOMY &#9656; IN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 07:37 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ゴールドマン、米イラン和平後にインド成長予測を6.8%に引き上げ</h2>
+            <p class="entry-summary">ゴールドマン・サックスは米国・イラン和平合意を受け、2026年インドの実質GDP成長予測を6.1%から6.8%に引き上げた。原油価格の下落がインドのマクロ経済リスクを軽減し、インフレ見通しもFY27の4.9%（従来5.1%）に下方修正した。2026年Q1のインドGDPはすでに前年比7.8%増と予想を上回る成長を示していた。</p>
+            <a class="entry-source" href="https://www.business-standard.com/amp/economy/news/goldman-sachs-india-gdp-forecast-2026-us-iran-deal-126062600670_1.html" target="_blank" rel="noopener noreferrer">
+              Business Standard <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">RBIが政策金利5.25%に据え置き、中立スタンスを維持</h2>
+            <p class="entry-summary">インド準備銀行（RBI）は6月の金融政策委員会（MPC）において政策金利（レポレート）を5.25%に据え置いた。中立スタンスを維持しながら、海外投資家の国内市場参加拡大に向けた措置（NRI・OCIの株式投資上限引き上げなど）も発表した。2026年を通じての利上げは想定されておらず、市場は「長期的な現状維持」を見込んでいる。</p>
+            <a class="entry-source" href="https://www.bajajfinserv.in/investments/rbi-hikes-repo-rate" target="_blank" rel="noopener noreferrer">
+              Bajaj Finserv <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">FY26インドGDP7.7%成長、消費・投資が牽引し予想上回る</h2>
+            <p class="entry-summary">インドの2025-26年度（FY26）実質GDP成長率は7.7%と、政府の当初目標を上回った。堅調な個人消費と投資活動が主な牽引役となり、農村消費も夏作の豊作を背景に拡大した。FY27は初めて7%を下回る見込みだが、それでも世界主要国の中で最も高い成長率を維持する見通しだ。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-05/india-growth-beats-estimates-despite-energy-costs-rupee-slide" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド・米貿易協定で米関税18%に引き下げ、株式市場が急騰</h2>
+            <p class="entry-summary">2026年2月に成立したインド・米国間の貿易協定では、米国がインド製品への互恵関税を25%から18%に引き下げた。協定発表直後にSensexが2000ポイント超急騰し、Niftyも2万6300付近をつける場面があった。繊維・自動車部品・IT輸出など輸出志向セクターへの恩恵が特に大きいと評価されている。</p>
+            <a class="entry-source" href="https://www.multibagg.ai/market-pulse/articles/india-us-trade-deal-market-rally-cml6qdkq545nstm0jo7bqypfd" target="_blank" rel="noopener noreferrer">
+              Multibagg AI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">BRICSのMSMEフォーラムがアグラで開催、中小企業連携を強化</h2>
+            <p class="entry-summary">アグラで第1回BRICS中小企業（MSME）フォーラムが開催され、加盟国・パートナー国の代表が中小企業協力・イノベーション促進・持続可能な経済成長支援に関する議論を行った。インドは議長国として中小企業の国際展開支援に向けた提言をまとめた。新興国間の経済連携強化がテーマとなっており、脱米国依存の枠組み構築が加速している。</p>
+            <a class="entry-source" href="https://www.ibef.org/indian-economy-news" target="_blank" rel="noopener noreferrer">
+              IBEF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド製薬セクターが12年間で変革的成長、後発薬・ワクチンで世界首位</h2>
+            <p class="entry-summary">インドの製薬セクターは過去12年間で変革的な成長を遂げ、後発薬・ワクチン製造において世界的なリーダー的地位を確立した。政府の国内製造促進策・医療アクセス政策・イノベーション支援が業界の競争力を高め、自立的な医療供給体制の構築に貢献している。輸出においても高い国際競争力を発揮しており、インドのグローバル・サプライチェーン上の存在感が高まっている。</p>
+            <a class="entry-source" href="https://www.ibef.org/indian-economy-news" target="_blank" rel="noopener noreferrer">
+              IBEF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">L&amp;Tがインド最大の柔軟化学プラント建設受注—BPCLから</h2>
+            <p class="entry-summary">大手インフラ企業ラーセン・アンド・トゥブロ（L&amp;T）のオンショア部門がBPCLからインド最大の柔軟性石油化学プラント建設の「主要」案件を受注したことが明らかになった。インドのエネルギー安全保障強化と国内石化産業の高度化を目的とする大型プロジェクトだ。FY27に向けてインフラ・エネルギー投資の拡大が続いており、国内の資本支出サイクルの回復を示している。</p>
+            <a class="entry-source" href="https://www.ibef.org/indian-economy-news" target="_blank" rel="noopener noreferrer">
+              IBEF <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">インド経済の2026年見通し堅調、GS予測は上方修正継続</h2>
+            <p class="entry-summary">ゴールドマン・サックス・リサーチはインドの2026年実質GDP成長率を市場コンセンサスを上回る6.9%と予測しており、2027年も6.8%の高成長を見込む。米国・インド貿易協定による不確実性の低下、RBIの金融緩和効果の浸透、民間企業の健全なバランスシートが民間投資サイクルの回復を後押しすると分析している。2026年後半の民間設備投資回復がさらなる上振れ要因となり得るとしている。</p>
+            <a class="entry-source" href="https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal" target="_blank" rel="noopener noreferrer">
+              Goldman Sachs <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
