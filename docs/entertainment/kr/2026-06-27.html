@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — KR EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0712;
+    --line: #2a0c3c;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #ef72ff;
+    --signal: #ff9ec0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ENTERTAINMENT &#9656; KR EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 08:28 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ATEEZが14thミニアルバム「GOLDEN HOUR: Part.5」リリース</h2>
+            <p class="entry-summary">ATEEZが6月26日にミニアルバム第14弾「GOLDEN HOUR: Part.5」をリリースし、タイトル曲「BAD」のMVを同時公開した。ブラジリアン・ファンク調の楽曲とハリウッド女優チェイス・インフィニティ出演のMVが話題を呼び、翌6月28日にはロンドンBSTハイドパークのヘッドライナーとして世界から注目を集める。</p>
+            <a class="entry-source" href="https://www.koreaherald.com/article/10789324" target="_blank" rel="noopener noreferrer">
+              Korea Herald <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">韓国代表W杯敗退に芸能界も失望の声</h2>
+            <p class="entry-summary">FIFA 2026ワールドカップ組別リーグで韓国代表が南アフリカに0-1で敗れ16強進出を逃したことを受け、俳優ハン・ジョンスらSNSで監督への批判を投稿するなど芸能界にも衝撃が広がった。韓国サッカーの低調なパフォーマンスはエンタメ界を含む国民全体の落胆を呼んでいる。</p>
+            <a class="entry-source" href="https://www.seoul.co.kr/" target="_blank" rel="noopener noreferrer">
+              서울신문 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Stray Kids、デジタルシングル「RUN IT」を電撃リリース</h2>
+            <p class="entry-summary">Stray Kidsが6月24日にデジタルシングル「RUN IT」を突如リリースし、ファンを驚かせた。グループの精力的なリリースペースを印象づけると同時に、ワールドツアーとの相乗効果で世界的なストリーミングチャートへの影響も期待される。</p>
+            <a class="entry-source" href="https://namu.wiki/w/2026%EB%85%84%20%EA%B0%80%EC%9A%94%EA%B3%84" target="_blank" rel="noopener noreferrer">
+              나무위키（2026년 가요계） <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">김소희（元NATURE）が6月27日にソロカムバック</h2>
+            <p class="entry-summary">元NATUREメンバーのキム・ソヒが6月27日にソロカムバックを果たした。解散後の新たなスタートとしてファンからの期待も高く、K-POPガールズシーンの新戦力として注目されている。</p>
+            <a class="entry-source" href="https://bbs.ruliweb.com/community/board/300446/read/3765943" target="_blank" rel="noopener noreferrer">
+              루리웹 <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SUPERJUNIORリョウク、ソロ10周年記念シングル発売</h2>
+            <p class="entry-summary">SUPER JUNIORのメンバー、リョウクが6月23日にソロデビュー10周年記念シングル「Runaway」をリリースした。グループ内での着実な実績とソロ活動の充実を両立させるアーティストとして改めて存在感を示した。</p>
+            <a class="entry-source" href="https://namu.wiki/w/2026%EB%85%84%20%EA%B0%80%EC%9A%94%EA%B3%84" target="_blank" rel="noopener noreferrer">
+              나무위키（2026년 가요계） <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">BIGBANGが20周年記念アルバム発売を予告</h2>
+            <p class="entry-summary">BIGBANGがデビュー20周年を記念する特別アルバムを2026年中にリリースする予定であることが話題になっている。2世代K-POPを代表する同グループの節目のリリースとして、国内外のファンから大きな期待が寄せられている。</p>
+            <a class="entry-source" href="https://namu.wiki/w/2026%EB%85%84%20%EA%B0%80%EC%9A%94%EA%B3%84" target="_blank" rel="noopener noreferrer">
+              나무위키（2026년 가요계） <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">NEXZが日本EP第3弾「Hellmate」リリース</h2>
+            <p class="entry-summary">韓日合同グループNEXZが6月24日に日本EP第3弾「Hellmate」を発売した。日本市場での継続的なプロモーションを続けるグループとして、K-POPと日本ポップカルチャーの架け橋的存在として注目を集めている。</p>
+            <a class="entry-source" href="https://namu.wiki/w/2026%EB%85%84%20%EA%B0%80%EC%9A%94%EA%B3%84" target="_blank" rel="noopener noreferrer">
+              나무위키（2026년 가요계） <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">SHINeeテミン、ATEEZのBSTハイドパーク公演に出演</h2>
+            <p class="entry-summary">SHINeeのテミンが6月28日のロンドン「BST Hyde Park」でのATEEZ公演にサポートアクトとして出演することが正式発表された。FLOやBazziらと並び豪華ラインアップの一員に名を連ね、ソロ活動の国際的な広がりを示す形となった。</p>
+            <a class="entry-source" href="https://www.nme.com/news/music/full-line-up-announced-for-ateez-at-bst-hyde-park-2026-3951641" target="_blank" rel="noopener noreferrer">
+              NME <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
