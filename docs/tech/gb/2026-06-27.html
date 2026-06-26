@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 06:33 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AlphaFoldのJumper、DeepMindを離れAnthropicへ</h2>
+            <p class="entry-summary">2024年ノーベル化学賞受賞者でAlphaFold共同開発者のJohn JumperがGoogle DeepMindを9年間勤務した後Anthropicへ移籍した。Anthropicは2026年を通じてウェットラボ開設やAI科学エージェントへの投資を続けており、今回の採用は同社のAI+科学戦略を示す象徴的な人事となった。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国が5億ポンドのソブリンAIファンドを正式発足</h2>
+            <p class="entry-summary">英国技術大臣Liz Kendall氏が4月16日、ロンドンのWayve本社で5億ポンド（約6億7500万ドル）のソブリンAIユニットを正式に立ち上げた。最大2000万ポンドの株式投資・100万GPU時間のコンピュート提供・即日査証処理など実効的な支援策を備え、英国のAI研究を世界競争力のある企業へと育てることを目的としている。</p>
+            <a class="entry-source" href="https://tech-insider.org/uk-sovereign-ai-fund-500-million-2026/" target="_blank" rel="noopener noreferrer">
+              tech-insider.org <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国AIグロースラボが法律サービス分野で始動</h2>
+            <p class="entry-summary">英国政府のAI規制サンドボックス「AIグロースラボ」が6月8日に本格稼働し、第一弾として法律サービス・不動産登記分野を対象に規制の一時的緩和を認める試験運用を開始した。成功した試験結果は二次立法で恒久化される仕組みで、英国は包括的AI法ではなくセクター別・段階的アプローチでAI統治を進める方針を明確化している。</p>
+            <a class="entry-source" href="https://www.scaffold.digital/news/uk-ai-regulation-in-2026-whats-in-force-whats-coming-and-what-your-business-should-do" target="_blank" rel="noopener noreferrer">
+              Scaffold Digital <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">ロンドンテックウィーク: AMDが20億ポンドの投資を表明</h2>
+            <p class="entry-summary">ロンドンテックウィーク2026でAMDがケンブリッジ大学と5年間20億ポンドの高性能コンピューティング投資（ソブリンAIイノベーションラボ含む）を発表し、AIクラウドプロバイダーNebiusも17億ポンドの設備拡張を表明した。会場は「AIはもはや概念ではなく、企業にとって緊急課題」とのムードに包まれ、昨年より明らかに活況を呈した。</p>
+            <a class="entry-source" href="https://techfundingnews.com/london-tech-week-2026-ai/" target="_blank" rel="noopener noreferrer">
+              Tech Funding News <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国議会図書館がAI規制の最新調査報告書を公開</h2>
+            <p class="entry-summary">英国議会図書館が2026年6月10日に「AI regulation in the UK」調査報告書を発表した。英国にはEU AI法のような包括的な単一AI法は存在せず、ICO・Ofcom・FCAなど既存規制機関がそれぞれの権限内でAIを規制するアプローチを継続していることを整理しており、政策立案者・企業向けの参照資料として注目されている。</p>
+            <a class="entry-source" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10003/" target="_blank" rel="noopener noreferrer">
+              House of Commons Library <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">NHS: 胸部X線の3分の1がAI解析、診断高速化</h2>
+            <p class="entry-summary">英国政府の報告によるとNHSでは現在、胸部X線の約3分の1でAI診断支援が導入されており、脳卒中治療時間の半減や前立腺がん診断の迅速化など具体的な成果が出始めている。AIによる不正検知ツールは公共サービスで5億ポンドの節約に貢献したとされ、医療分野でのAI活用が着実に深化している。</p>
+            <a class="entry-source" href="https://theaiinsider.tech/2026/06/01/uk-ai-opportunities-action-plan-decoded/" target="_blank" rel="noopener noreferrer">
+              The AI Insider <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AnthropicがICOに米国輸出規制差し止めの仮処分勝訴</h2>
+            <p class="entry-summary">連邦裁判所はAnthropicに対しトランプ政権がモデルをセキュリティリスク指定した措置の撤回を命じる仮処分を認め、連邦機関との取引停止命令も差し止めた。ロンドンに研究拠点を持つAnthropicにとって欧州・英国市場への影響を直接左右するこの勝訴は、AI規制と安全保障の境界線を問う重要な先例となる見込みだ。</p>
+            <a class="entry-source" href="https://dentro.de/ai/news/" target="_blank" rel="noopener noreferrer">
+              dentro.de/ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">英国AI著作権レポート: AI学習データ開示義務化の議論加速</h2>
+            <p class="entry-summary">英国政府は2026年のAI著作権に関する報告書を公開し、AIモデルの学習に使用した著作物の開示要件やライセンス義務化の政策オプションを検討中であることを示した。大多数のパブリックコメント回答者が「全事例でライセンスを必要とする」選択肢を支持しており、英国のクリエイター産業からの圧力が高まっている。</p>
+            <a class="entry-source" href="https://www.hstoday.us/subject-matter-areas/cybersecurity/uk-government-releases-2026-report-on-copyright-and-artificial-intelligence/" target="_blank" rel="noopener noreferrer">
+              HSToday <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

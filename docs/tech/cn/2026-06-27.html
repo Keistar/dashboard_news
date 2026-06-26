@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 06:33 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Z.ai（Zhipu）がGLM-5.2をMITライセンスで公開</h2>
+            <p class="entry-summary">北京のZhipu AI（Z.ai）は旗艦モデルGLM-5.2をMITライセンスで一般公開し、独立機関Artificial AnalysisのIntelligence Index v4.1でGemini 3.1 Proを上回りオープンモデル首位を獲得した。Anthropicモデルへの米国輸出規制と同日のリリースにより、米国外の開発者にとって最も強力なオープンモデルとなり、株価は1週間で最大48%急騰した。</p>
+            <a class="entry-source" href="https://www.trendingtopics.eu/glm-5-2-chinas-zhipu-ai-beats-even-googles-top-models-with-its-new-open-llm/" target="_blank" rel="noopener noreferrer">
+              Trending Topics <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Moonshot AIが評価額300億ドルで20億ドル調達交渉中</h2>
+            <p class="entry-summary">Kimiモデルを開発する北京のMoonshot AIが、6カ月で3回目となる約20億ドルの新規資金調達交渉を進めており、評価額は300億ドルに達する見込みだ。年間経常収益は4月時点で2億ドルを超え、Kimi K2.6はOpenRouterで2番目に多く利用されるLLMとなっている。</p>
+            <a class="entry-source" href="https://thenextweb.com/news/moonshot-ai-kimi-30-billion-valuation-china-ai-race" target="_blank" rel="noopener noreferrer">
+              The Next Web <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国が5年間で約43兆円のデータセンター整備計画</h2>
+            <p class="entry-summary">国家発展改革委員会などが主導し、中国は今後5年間で約2兆元（2950億ドル）を投じて全国にAIデータセンター網を構築する計画を策定中であることがBloombergの報道で判明した。AIチップの80%以上を国産品（主にHuawei）で賄うことを目標とし、Nvidiaを実質的に排除する方針だ。</p>
+            <a class="entry-source" href="https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout" target="_blank" rel="noopener noreferrer">
+              Bloomberg <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">DeepSeekがV4-ProをMITライセンスで4月にプレビュー公開</h2>
+            <p class="entry-summary">DeepSeekは4月に1.6兆パラメータのV4-ProとV4-Flashのプレビューを公開。HuaweiのAscend 950チップで動作し、国産チップだけで米国フロンティアモデルに迫る性能を実現した点が注目された。DeepSeekは現在最大590億ドル評価での初外部資金調達を交渉中とされており、中国AIの象徴的存在としての地位を固めつつある。</p>
+            <a class="entry-source" href="https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-models-a-year-after-upending-global-tech" target="_blank" rel="noopener noreferrer">
+              Al Jazeera <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国AIモデルがOpenRouterトラフィックの45%超を占める</h2>
+            <p class="entry-summary">2026年Q2時点で、Xiaomi・Alibaba・Zhipu・DeepSeekなど中国勢がOpenRouterの週間トークン処理量の45%超を占めるまでに急成長した。特にXiaomiのMiMo-V2-Proが単独でトップシェアを持ち、コーディング用AIのデファクト選択肢として世界の開発者に浸透している。</p>
+            <a class="entry-source" href="https://www.digitalapplied.com/blog/chinese-ai-models-q2-2026-market-share-report" target="_blank" rel="noopener noreferrer">
+              Digital Applied <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国がオープンAIモデルで世界ダウンロード首位に</h2>
+            <p class="entry-summary">スタンフォードAI Index 2026によると、中国のDeepSeekとAlibabaのQwenを中心とするオープンウェイトモデルが全世界AIダウンロードの30%を占め、米国の15.7%を上回った。Demis Hassabis氏は「中国モデルは米国に数カ月遅れているだけ」と指摘しており、オープンソース戦略が中国の世界展開を後押ししている。</p>
+            <a class="entry-source" href="https://www.cigionline.org/articles/chinese-ai-models-and-the-high-stakes-fight-for-ai-neutrality/" target="_blank" rel="noopener noreferrer">
+              CIGI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国のAI能力が米国との格差をほぼ解消——USCC報告</h2>
+            <p class="entry-summary">米中経済安全保障委員会（USCC）の報告書「Two Loops」は、中国がオープン開発と迅速な展開を軸にした独自のAI戦略で米国との能力格差を実質的に解消しつつあると指摘した。輸出規制による制約をMoEアーキテクチャや推論効率化で克服しており、国家主導の補助金と大手テックの投資が一体となって生態系を強化している。</p>
+            <a class="entry-source" href="https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf" target="_blank" rel="noopener noreferrer">
+              USCC <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">中国のAI進歩が米国主導同盟への参加を複雑化</h2>
+            <p class="entry-summary">Axiosの報道によると、中国AIモデルの能力向上と低コスト化により、米国がPax Silicaで構築しようとするAI・半導体同盟への各国参加が困難になっている。一部の専門家は「各国がAI主権を求め、中国のオープンウェイトモデルを選択する流れが加速する」と警告しており、米国の技術主導権戦略が試されている。</p>
+            <a class="entry-source" href="https://www.axios.com/2026/06/26/china-ai-us-alliance" target="_blank" rel="noopener noreferrer">
+              Axios <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

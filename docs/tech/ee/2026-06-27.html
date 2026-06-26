@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — EE EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; EE EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 06:33 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エストニアがAIエージェントに世界初の「AI-ID」付与へ</h2>
+            <p class="entry-summary">Kristen Michal首相がAIエージェントに個人識別番号（AI IDコード）を付与する計画を承認し、エストニアは世界初のAIエージェント向けデジタルID制度の構築国となる見込みだ。エージェントは「データ閲覧のみ」「一定金額以内の支払い」など限定的・監査可能な権限のみを持ち、人間の完全な認証情報を流用する現状の問題を解消することを目指している。</p>
+            <a class="entry-source" href="https://www.euronews.com/next/2026/06/19/estonia-creates-ai-id-codes-to-govern-autonomous-agents" target="_blank" rel="noopener noreferrer">
+              Euronews <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Eesti.ai: Bolt創業者が率いる国家AIプログラム</h2>
+            <p class="entry-summary">エストニア政府がBolt創業者Markus Villig氏を議長とする国際諮問委員会を擁するAI国家プログラム「Eesti.ai」を正式発表し、2035年までに経済生産性を倍増させる目標を掲げた。Sten Tamkivi（Skaala）、Kaspar Korjus（Pactum）ら著名起業家が参加しており、少子高齢化による労働力不足をAIで補う国家戦略の核となっている。</p>
+            <a class="entry-source" href="https://estonia.ee/stories/estonia-launches-ai-initiative-to-double-productivity" target="_blank" rel="noopener noreferrer">
+              estonia.ee <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エストニア国防省がAI開発戦略を策定・公表</h2>
+            <p class="entry-summary">エストニア国防省が同国初の「国防AI開発戦略」を公表し、意思決定支援・情報処理・兵站改善にAIを組み込む目標と実施枠組みを定めた。「AIの軍事活用はNATOとの相互運用性維持のためだけでなく、優勢な敵に対して非対称な費用対効果をもたらす機会」と戦略は位置付けている。</p>
+            <a class="entry-source" href="https://www.kaitseministeerium.ee/en/news/ministry-defence-unveils-defence-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer">
+              Estonian Ministry of Defence <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">OECDデジタル競争力でエストニアが5位タイに</h2>
+            <p class="entry-summary">OECDの2026年デジタル先進国ランキングでエストニアはノルウェー・アイルランド・デンマークと並んで世界5位タイに位置付けられた。2024年末に政府サービスの100%オンライン化を達成しており、今回のAIエージェントID計画もこうしたデジタルガバナンスの実績を基盤としている。</p>
+            <a class="entry-source" href="https://www.euronews.com/next/2026/06/19/estonia-creates-ai-id-codes-to-govern-autonomous-agents" target="_blank" rel="noopener noreferrer">
+              Euronews <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">タリン国防・セキュリティ展示会にAI防衛企業が集結</h2>
+            <p class="entry-summary">6月10〜11日にタリンで開催されたSSD Expo 2026には150社以上の防衛・テック企業と2500人超の専門家が参集し、ドローン戦・AI・海洋防衛などをテーマに議論が行われた。NATOや北欧・バルト国防機関のハイレベルスピーカーが登壇し、エストニアがバルト海地域の防衛技術ハブとしての役割を強化していることを示した。</p>
+            <a class="entry-source" href="https://nordicdefencesector.com/en/article/ssd-expo-2026-brings-defence-industry-and-leaders-to-estonia" target="_blank" rel="noopener noreferrer">
+              Nordic Defence Sector <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エストニア防衛テック企業の価値が2年で106%増加</h2>
+            <p class="entry-summary">Prudentiaのレポートによると、エストニアの上位30社の合計評価額は2年間で35.2%増の277億ユーロに達し、防衛テック分野が106%増と最大の伸びを記録した。AI交渉スタートアップのPactumが222%増で大きな話題を呼んでおり、ロシアの脅威を背景に軍事・セキュリティ関連AI投資が急増している。</p>
+            <a class="entry-source" href="https://estonianworld.com/technology/estonia-bets-on-artificial-intelligence-to-offset-demographic-decline/" target="_blank" rel="noopener noreferrer">
+              Estonian World <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エストニアeレジデンシーが新スタートアップの48%に関与</h2>
+            <p class="entry-summary">エストニアのeレジデンシープログラムは直近のスタートアップ創業の48%に海外在住のeレジデンシー取得者が関与しているとのデータが公表された。2026年6月時点でエストニアには約1200〜1500社のスタートアップがあり、フィンテックを軸にAI・ディープテック・防衛テックが急成長している。</p>
+            <a class="entry-source" href="https://blog.mean.ceo/startups-estonia-news-june-2026/" target="_blank" rel="noopener noreferrer">
+              blog.mean.ceo <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">エストニアAIの父X-Roadが示す分散型ガバナンスの教訓</h2>
+            <p class="entry-summary">European Business Reviewの最新論考はエストニアのX-Road分散型データ交換基盤を「ブロックチェーン以前のブロックチェーン」と評し、今日のAIエージェント管理設計への応用可能性を論じた。中央集権的データベースを拒否したX-Roadの設計思想が、Eesti.aiのAIエージェントID構想にも引き継がれていると指摘している。</p>
+            <a class="entry-source" href="https://www.europeanbusinessreview.com/ai-futures-lessons-from-estonias-digital-evolution/" target="_blank" rel="noopener noreferrer">
+              The European Business Review <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-27 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TECH & SCIENCE &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-27 &middot; 06:33 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <h2 class="entry-title">OpenAIが機密S-1を提出、IPO準備</h2>
+            <p class="entry-summary">OpenAIは2026年6月上旬に米SECへ機密S-1を提出し、時価総額850億〜1兆ドル規模のIPOに向けた手続きを開始。Goldman SachsとMorgan Stanleyが主幹事を務め、上場ウィンドウは2026年9月〜Q4が見込まれる。同週にはライバルのAnthropicも同様の機密目論見書を約9650億ドル評価で提出しており、AI大手2社の相次ぐ上場準備は市場の注目を集めている。</p>
+            <a class="entry-source" href="https://fortune.com/2026/06/09/openai-files-confidential-s-1-sec-ipo/" target="_blank" rel="noopener noreferrer">
+              Fortune <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <h2 class="entry-title">OpenAI独自チップ「Jalapeño」をBroadcomと発表</h2>
+            <p class="entry-summary">OpenAIとBroadcomは独自設計のAIアクセラレーター「Jalapeño」を発表。現行比で電力効率が大幅に向上しており、2029年までに10ギガワット規模の展開を目指す。OpenAIは2025年に約140億ドルをサードパーティGPUに費やしており、自社チップへの移行はコスト削減の要となる。</p>
+            <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-26-2026" target="_blank" rel="noopener noreferrer">
+              Build Fast with AI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Google DeepMindから大量離職——Anthropic・OpenAIへ</h2>
+            <p class="entry-summary">1週間でAlphaFold共同開発者のJohn JumperがAnthropicへ、Gemini共同リードのNoam ShazeerがOpenAIへ移籍するなど、4名の主要研究者がDeepMindを離れた。IPO前の株式付与を武器に純粋AIラボがビッグテックから人材を引き抜く構図が鮮明になっており、Alphabet株は一時約2700億ドル規模の時価総額減少に直面した。</p>
+            <a class="entry-source" href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/" target="_blank" rel="noopener noreferrer">
+              TechCrunch <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <h2 class="entry-title">トランプ大統領がAI安全保障大統領令に署名</h2>
+            <p class="entry-summary">ホワイトハウスは「先進AI革新・安全促進」大統領令を発令し、NSAとCISAに対し60日以内にフロンティアAIモデルの機密ベンチマーク評価プロセスを構築するよう命じた。AIを活用したサイバー犯罪への連邦刑法適用強化も盛り込まれており、規制緩和路線を維持しながら国家安全保障を確保する方針を示している。</p>
+            <a class="entry-source" href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/" target="_blank" rel="noopener noreferrer">
+              The White House <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <h2 class="entry-title">AnthropicのClaude Fable 5/Mythos 5に輸出規制</h2>
+            <p class="entry-summary">トランプ政権は6月12日、Anthropicの最新モデル「Claude Fable 5」と「Claude Mythos 5」について外国人へのアクセスを禁じる緊急輸出規制を発令し、Anthropicはモデルを一時公開停止した。この措置はAI能力のモデル蒸留を国家安全保障上の問題と捉えたもので、OpenAI IPOの競争環境に直接影響を及ぼすとみられている。</p>
+            <a class="entry-source" href="https://dentro.de/ai/news/" target="_blank" rel="noopener noreferrer">
+              dentro.de/ai <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Apple Foundation Models 3発表——Googleと共同開発</h2>
+            <p class="entry-summary">AppleはWWDC 2026でGoogle Geminiの蒸留技術を活用した第3世代Apple Foundation Models（AFM 3）を発表。オンデバイス向け3Bモデルから最上位クラウドProモデルまで5種類を揃え、最上位版はGoogle Cloud上のNVIDIA GPUで動作する。AppleとGoogleが競合しながらも協業するという複雑な関係が業界に注目されている。</p>
+            <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-26-2026" target="_blank" rel="noopener noreferrer">
+              Build Fast with AI <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <h2 class="entry-title">Gemini 3.5 Proの一般公開が7月以降に延期</h2>
+            <p class="entry-summary">Alphabetは、Sundar Pichai氏がGoogle I/Oで「来月中に」と公約したGemini 3.5 Proの一般公開が6月中に間に合わないことを認め、7月以降に延期すると発表した。主要研究者の相次ぐ離職とベンチマーク上の差異が原因とされており、中国発オープンソースモデルとの競争が激化する中での遅延は市場の失望を招いた。</p>
+            <a class="entry-source" href="https://aitoolsrecap.com/Blog/ai-news-june-26-2026" target="_blank" rel="noopener noreferrer">
+              AI Tools Recap <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <h2 class="entry-title">米国のAI主導同盟「Pax Silica」に35カ国署名</h2>
+            <p class="entry-summary">米国務省が推進する「Pax Silica」構想の一環として35カ国が「AIオポチュニティ宣言」に署名し、米国主導のAI・半導体サプライチェーン連携が拡大。中国の安価なオープンモデルが世界市場で存在感を増す中、米国はAI標準設定を通じた同盟維持を図っている。</p>
+            <a class="entry-source" href="https://www.axios.com/2026/06/26/china-ai-us-alliance" target="_blank" rel="noopener noreferrer">
+              Axios <span aria-hidden="true">&#8599;</span>
+            </a>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
