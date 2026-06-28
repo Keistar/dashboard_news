@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">米国が保育政策でOECDの最下位グループに—課題が鮮明</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">米国が保育政策でOECDの最下位グループに—課題が鮮明</h2>
+              
+            </div>
             <p class="entry-summary">UNICEFが発表した先進国の保育政策ランキングで、米国はスロバキア・キプロスと並びOECDの最下位グループに位置した。公的保育補助の不足と保育コストの高さが主な要因で、共働き世帯や低所得世帯の保育アクセス格差が深刻な社会問題となっている。</p>
-            <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
-              UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
+                UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">東京の5歳未満無償保育モデルが海外メディアで注目</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">東京の5歳未満無償保育モデルが海外メディアで注目</h2>
+              
+            </div>
             <p class="entry-summary">東京都が進める5歳未満児への無償保育政策が英語圏メディアで大きく取り上げられ、保育先進国との比較で米国の保育政策の遅れが改めて浮き彫りになった。米国内でも連邦レベルの保育支援拡充を求める声が高まっている。</p>
-            <a class="entry-source" href="https://www.thebump.com/news/toyko-offers-free-childcare-kids-under-5" target="_blank" rel="noopener noreferrer">
-              The Bump <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.thebump.com/news/toyko-offers-free-childcare-kids-under-5" target="_blank" rel="noopener noreferrer">
+                The Bump <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

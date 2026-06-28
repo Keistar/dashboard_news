@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">Appleが秋に折りたたみiPhoneを25万円超で発売か</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Appleが秋に折りたたみiPhoneを25万円超で発売か</h2>
+              
+            </div>
             <p class="entry-summary">Appleが2026年秋に初の折りたたみiPhone投入を計画していると複数のアナリストが予測している。IDCは価格を約2,500ドル（約37万円）と見込んでおり、史上最も高価なiPhoneになる見通しだ。SamsungはOLEDパネルの独占サプライヤーとして恩恵を受ける。</p>
-            <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
-              Android Central / SamMobile <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
+                Android Central / SamMobile <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">中国のスマホ・PC輸出が急拡大もメモリ高騰で利益圧迫</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">中国のスマホ・PC輸出が急拡大もメモリ高騰で利益圧迫</h2>
+              
+            </div>
             <p class="entry-summary">中国の5月輸出統計でスマートフォンが前年比44%増、PCが66%増と好調な一方、世界的なDRAM・NAND高騰が製造コストを押し上げており収益を圧迫している。Xiaomi・OPPO・Vivoなど中国メーカーも部品調達コスト増への対応を迫られている。</p>
-            <a class="entry-source" href="https://www.outlookindia.com/national/why-ai-is-making-your-next-macbook-more-expensive" target="_blank" rel="noopener noreferrer">
-              IDC / Outlook India <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.outlookindia.com/national/why-ai-is-making-your-next-macbook-more-expensive" target="_blank" rel="noopener noreferrer">
+                IDC / Outlook India <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

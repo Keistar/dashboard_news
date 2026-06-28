@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">Lenovo・Dell・HP・Acerが15〜20%値上げを宣言</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Lenovo・Dell・HP・Acerが15〜20%値上げを宣言</h2>
+              
+            </div>
             <p class="entry-summary">メモリ価格高騰を受け、Lenovo・Dell・HP・Acer・ASUSがドイツを含む欧州市場での製品を15〜20%値上げするか搭載メモリを削減すると相次いで発表した。2025年9月比でDDR5スポット価格は4倍に達しており、PCメーカーは軒並みコスト転嫁を余儀なくされている。</p>
-            <a class="entry-source" href="https://bisi.org.uk/reports/global-ram-shortage-and-price-hikes-causes-consequences-and-market-outlook" target="_blank" rel="noopener noreferrer">
-              BISI / Bloomberg <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://bisi.org.uk/reports/global-ram-shortage-and-price-hikes-causes-consequences-and-market-outlook" target="_blank" rel="noopener noreferrer">
+                BISI / Bloomberg <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">AIブームが招いたメモリ危機—HBMへの生産集中が全家電に波及</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">AIブームが招いたメモリ危機—HBMへの生産集中が全家電に波及</h2>
+              
+            </div>
             <p class="entry-summary">AI向けHBMチップへの生産集中が消費者向けDRAMを枯渇させた構造的な問題が明らかになった。Micron CEOは供給逼迫が2027年まで続くと予告しており、ドイツを含む欧州の家電市場では今後も断続的な値上げと品薄が続く見通しだ。</p>
-            <a class="entry-source" href="https://wccftech.com/roundup/memory-crisis/" target="_blank" rel="noopener noreferrer">
-              Wccftech / tech-insider.org <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://wccftech.com/roundup/memory-crisis/" target="_blank" rel="noopener noreferrer">
+                Wccftech / tech-insider.org <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

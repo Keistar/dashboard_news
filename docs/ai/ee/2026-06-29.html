@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">エストニアがEU AI法の先行適合モデルとして注目される</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">エストニアがEU AI法の先行適合モデルとして注目される</h2>
+              
+            </div>
             <p class="entry-summary">EU AI法の段階的施行フェーズが進む中、電子政府先進国のエストニアは欧州でのAI規制適合モデルとして各国から注目されている。デジタル行政とAIの融合で培ったノウハウが、EU全体のガバナンス構築において参照事例となっている。</p>
-            <a class="entry-source" href="https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/" target="_blank" rel="noopener noreferrer">
-              OneTrust <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/" target="_blank" rel="noopener noreferrer">
+                OneTrust <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">OpenAI教育プログラムでエストニアの2万人がAIを無償利用</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">OpenAI教育プログラムでエストニアの2万人がAIを無償利用</h2>
+              
+            </div>
             <p class="entry-summary">OpenAIのEducation for Countriesプログラムによりエストニアで2万人超の学生が無償でAIにアクセスできる状態が継続している。デジタルリテラシー教育の国際モデルとして知られるエストニアで、次世代AI人材の育成が国を挙げて加速している。</p>
-            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
-              crescendo.ai <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
+                crescendo.ai <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

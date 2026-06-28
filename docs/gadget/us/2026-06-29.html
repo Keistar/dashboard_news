@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,56 +110,86 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 5 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 5 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">「RAMゲドン」でApple MacBook Proが3万円超の値上げ</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">「RAMゲドン」でApple MacBook Proが3万円超の値上げ</h2>
+              
+            </div>
             <p class="entry-summary">世界的なメモリチップ不足（通称「RAMゲドン」）の影響でAppleは6月25日、MacBook Proを1,699ドルから1,999ドルへ値上げした。本体スペックは変わらず純粋なコスト転嫁で、同日Apple株は6%超下落し2025年4月の株価急落以来最大の下げ幅を記録した。</p>
-            <a class="entry-source" href="https://fortune.com/2026/06/28/apple-mac-price-hikes-memory-chip-shortage-ai-ram-ageddon/" target="_blank" rel="noopener noreferrer">
-              Fortune <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://fortune.com/2026/06/28/apple-mac-price-hikes-memory-chip-shortage-ai-ram-ageddon/" target="_blank" rel="noopener noreferrer">
+                Fortune <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">AppleがiPad・Mac・Vision Pro・HomePod全品を一斉値上げ</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">AppleがiPad・Mac・Vision Pro・HomePod全品を一斉値上げ</h2>
+              
+            </div>
             <p class="entry-summary">Appleは6月25日付けでiPad・Mac全モデル・Apple Vision Pro・HomePod・Apple TVの価格を即時引き上げた。HBMメモリへの生産シフトで汎用DRAMが逼迫した「RAMゲドン」危機が全製品ラインに波及した格好で、AI時代の逆説的なコスト転嫁となった。</p>
-            <a class="entry-source" href="https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/" target="_blank" rel="noopener noreferrer">
-              Bloomberg <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/" target="_blank" rel="noopener noreferrer">
+                Bloomberg <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">MicrosoftがXbox本体を100〜150ドル値上げ、2TBモデルは廃番</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">MicrosoftがXbox本体を100〜150ドル値上げ、2TBモデルは廃番</h2>
+              
+            </div>
             <p class="entry-summary">MicrosoftはXboxゲーム機の価格を100〜150ドル引き上げるとともに、2TBストレージモデルの販売を終了すると発表した。Dell・HP・Lenovo・Asusも同様に15〜20%の値上げや搭載メモリの削減を相次いで告知しており、PC・ゲーム機市場全体に影響が広がっている。</p>
-            <a class="entry-source" href="https://fortune.com/2026/06/28/apple-mac-price-hikes-memory-chip-shortage-ai-ram-ageddon/" target="_blank" rel="noopener noreferrer">
-              Fortune / Bloomberg <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://fortune.com/2026/06/28/apple-mac-price-hikes-memory-chip-shortage-ai-ram-ageddon/" target="_blank" rel="noopener noreferrer">
+                Fortune / Bloomberg <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">メモリ価格が前年比171%高騰—2027年まで供給逼迫継続の見通し</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">メモリ価格が前年比171%高騰—2027年まで供給逼迫継続の見通し</h2>
+              
+            </div>
             <p class="entry-summary">Samsung・SKハイニックス・Micronが生産ウエハーの93%をAI向けHBMへ振り向けた結果、汎用DRAM価格は前年比171%高騰、DDR5スポット価格は2025年9月比で4倍に達した。Micron CEOはこの不足状態が2027年まで続くと警告している。</p>
-            <a class="entry-source" href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/" target="_blank" rel="noopener noreferrer">
-              IDC / Bloomberg <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/" target="_blank" rel="noopener noreferrer">
+                IDC / Bloomberg <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">ROG Xreal R1、171インチ・240Hz対応のゲーマー向けARグラス</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">ROG Xreal R1、171インチ・240Hz対応のゲーマー向けARグラス</h2>
+              
+            </div>
             <p class="entry-summary">ASUS ROGとXrealが共同開発したARグラス「ROG Xreal R1」が発表された。最大171インチ相当の仮想ディスプレイ、240Hzリフレッシュレートに対応し、PC・PlayStation・Xbox接続をサポートする。没入型ゲーム体験をリビングで手軽に実現するガジェットとして注目を集めている。</p>
-            <a class="entry-source" href="https://www.bgr.com/2195561/cool-new-gadgets-look-out-for-in-june-2026/" target="_blank" rel="noopener noreferrer">
-              BGR <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.bgr.com/2195561/cool-new-gadgets-look-out-for-in-june-2026/" target="_blank" rel="noopener noreferrer">
+                BGR <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

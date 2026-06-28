@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">日本のAI推進法が6月に施行—罰則なし・方向性重視の独自路線</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">日本のAI推進法が6月に施行—罰則なし・方向性重視の独自路線</h2>
+              
+            </div>
             <p class="entry-summary">2025年5月に成立した「AI関連技術の研究開発及び利用の促進に関する法律（AI推進法）」が2026年6月に施行された。罰則を設けず戦略方向性・調整・透明性を重視する非拘束的枠組みで、産業競争力と安全性の両立を目指す日本独自のアプローチとなった。</p>
-            <a class="entry-source" href="https://arakiplaw.com/en/insight/2665/" target="_blank" rel="noopener noreferrer">
-              Araki International IP&amp;Law <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://arakiplaw.com/en/insight/2665/" target="_blank" rel="noopener noreferrer">
+                Araki International IP&amp;Law <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">Claude Opus 4.8とGemini 3.5 Flashが日本語でも実力を競う</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Claude Opus 4.8とGemini 3.5 Flashが日本語でも実力を競う</h2>
+              
+            </div>
             <p class="entry-summary">2026年6月のAIモデル大量リリースで、日本のエンジニアや企業にとっても選択肢が急増した。Claude Opus 4.8は複雑な推論・エージェントコーディングに強みを持ち、Gemini 3.5 Flashはコストと速度を優先するユースケースに向く。日本語対応品質の競争も激化している。</p>
-            <a class="entry-source" href="https://orbilontech.com/claude-opus-4-8-vs-gpt-5-5-vs-gemini-3-5-flash/" target="_blank" rel="noopener noreferrer">
-              orbilontech.com <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://orbilontech.com/claude-opus-4-8-vs-gpt-5-5-vs-gemini-3-5-flash/" target="_blank" rel="noopener noreferrer">
+                orbilontech.com <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,36 +110,54 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 3 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 3 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">Sony Xperia 1 VIIIが欧州で発売、日本市場への展開も注目</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Sony Xperia 1 VIIIが欧州で発売、日本市場への展開も注目</h2>
+              
+            </div>
             <p class="entry-summary">ソニーのフラッグシップスマートフォン「Xperia 1 VIII」が6月19日に欧州で発売・予約開始となった。カメラ・ディスプレイ品質にこだわるソニー独自路線を継承した最新モデルで、日本市場への投入時期にも注目が集まっている。</p>
-            <a class="entry-source" href="https://www.stuff.tv/features/most-anticipated-upcoming-phones/" target="_blank" rel="noopener noreferrer">
-              stuff.tv <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.stuff.tv/features/most-anticipated-upcoming-phones/" target="_blank" rel="noopener noreferrer">
+                stuff.tv <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">「RAMゲドン」が国内家電・PC市場にも波及—各社が値上げを発表</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">「RAMゲドン」が国内家電・PC市場にも波及—各社が値上げを発表</h2>
+              
+            </div>
             <p class="entry-summary">世界的なDRAM・NAND不足の影響が日本市場にも直撃し、主要PCメーカーが国内向け製品の値上げや搭載メモリ仕様の引き下げを相次いで発表した。AI需要によるHBMへの生産シフトが汎用メモリを圧迫している構造的問題で、2027年まで改善が見込めない見通しだ。</p>
-            <a class="entry-source" href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/" target="_blank" rel="noopener noreferrer">
-              IDC <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/" target="_blank" rel="noopener noreferrer">
+                IDC <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">Appleの折りたたみiPhoneに向けSamsungがOLEDパネルを独占供給へ</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Appleの折りたたみiPhoneに向けSamsungがOLEDパネルを独占供給へ</h2>
+              
+            </div>
             <p class="entry-summary">2026年秋に発売が見込まれるAppleの折りたたみiPhoneに搭載されるOLEDパネルについて、SamsungがAppleの唯一の供給元になると報じられた。日本のパネルメーカーへの影響も注目される中、折りたたみスマートフォン市場は新たな転換点を迎えようとしている。</p>
-            <a class="entry-source" href="https://www.sammobile.com/news/samsung-to-support-apple-for-its-biggest-2026-product-launches/" target="_blank" rel="noopener noreferrer">
-              SamMobile / PhoneArena <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.sammobile.com/news/samsung-to-support-apple-for-its-biggest-2026-product-launches/" target="_blank" rel="noopener noreferrer">
+                SamMobile / PhoneArena <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

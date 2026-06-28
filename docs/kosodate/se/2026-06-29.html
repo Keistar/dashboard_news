@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">スウェーデンが先進国の家族政策ランキングで最高位を維持</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">スウェーデンが先進国の家族政策ランキングで最高位を維持</h2>
+              
+            </div>
             <p class="entry-summary">UNICEFが発表した先進国の家族にやさしい政策ランキングで、スウェーデンはルクセンブルク・アイスランドとともに最上位グループを維持した。充実した育児休暇制度・公的保育補助・柔軟な就労制度の三本柱が高く評価されている。</p>
-            <a class="entry-source" href="https://www.unicef.org/press-releases/sweden-norway-iceland-and-estonia-rank-highest-family-friendly-policies-oecd-and-eu" target="_blank" rel="noopener noreferrer">
-              UNICEF <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/press-releases/sweden-norway-iceland-and-estonia-rank-highest-family-friendly-policies-oecd-and-eu" target="_blank" rel="noopener noreferrer">
+                UNICEF <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">スウェーデンの放課後ケア施設に対象児童の99%が在籍</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">スウェーデンの放課後ケア施設に対象児童の99%が在籍</h2>
+              
+            </div>
             <p class="entry-summary">スウェーデンでは就学前クラス進学後〜小学6年生までの子を持つ保護者が就労・就学中に利用できる放課後ケア施設（fritidshem）が普及しており、対象児童の99%が利用している。この高い利用率は手厚い公的補助と柔軟な受け入れ体制によって支えられている。</p>
-            <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
-              UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
+                UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

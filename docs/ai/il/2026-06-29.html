@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">英米豪加NZのAIセキュリティ連携—イスラエルの参加も期待</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">英米豪加NZのAIセキュリティ連携—イスラエルの参加も期待</h2>
+              
+            </div>
             <p class="entry-summary">Five Eyes諸国が発表したエージェントAIセキュリティガイダンスはサイバーセキュリティ大国イスラエルにとっても参照枠組みとなる。中東地政学リスクが高まる中、イスラエルのサイバー・AIスタートアップへの国際的な協調要請が増している。</p>
-            <a class="entry-source" href="https://www.artificialintelligence-news.com/" target="_blank" rel="noopener noreferrer">
-              artificialintelligence-news.com <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.artificialintelligence-news.com/" target="_blank" rel="noopener noreferrer">
+                artificialintelligence-news.com <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">AIチップ覇権争いでイスラエル半導体設計企業の存在感が増す</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">AIチップ覇権争いでイスラエル半導体設計企業の存在感が増す</h2>
+              
+            </div>
             <p class="entry-summary">HBMメモリ不足とAI推論チップ需要の急拡大を背景に、イスラエルの半導体設計・EDA（電子設計自動化）企業への需要が高まっている。QualcommのTenstorrent買収交渉など業界再編の動きに伴い、RISC-V・カスタムシリコン分野での存在感を強めている。</p>
-            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
-              crescendo.ai <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
+                crescendo.ai <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

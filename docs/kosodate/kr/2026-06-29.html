@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">韓国の親の27%が「教育・保育費が出産しない理由」と回答</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">韓国の親の27%が「教育・保育費が出産しない理由」と回答</h2>
+              
+            </div>
             <p class="entry-summary">政府調査によると韓国の保護者の27%が、理想の子ども数を産まない主な理由として教育・保育費の高い負担を挙げた。OECDの中で保育費自己負担は比較的低い水準にあるにもかかわらず、教育熱の高さと学習塾費用が家計を圧迫していることが浮き彫りになった。</p>
-            <a class="entry-source" href="https://childcarecanada.org/documents/child-care-news/25/09/south-korea-expands-childcare-support-parents" target="_blank" rel="noopener noreferrer">
-              childcarecanada.org <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://childcarecanada.org/documents/child-care-news/25/09/south-korea-expands-childcare-support-parents" target="_blank" rel="noopener noreferrer">
+                childcarecanada.org <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">韓国が出生率対策で保育支援をさらに拡充</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">韓国が出生率対策で保育支援をさらに拡充</h2>
+              
+            </div>
             <p class="entry-summary">記録的な低出生率（合計特殊出生率0.7台）に歯止めをかけるべく、韓国政府は保育支援の追加拡充策を打ち出した。ただしOECDが分析する通り、費用面の支援だけでは長時間労働文化や住宅費問題を根本的に解決できないとの指摘も多い。</p>
-            <a class="entry-source" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/korea-s-unborn-future_5fef94e8/75aa749c-en.pdf" target="_blank" rel="noopener noreferrer">
-              OECD <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/korea-s-unborn-future_5fef94e8/75aa749c-en.pdf" target="_blank" rel="noopener noreferrer">
+                OECD <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

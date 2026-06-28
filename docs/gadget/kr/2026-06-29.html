@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,46 +110,70 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 4 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 4 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">Samsung Galaxy Unpacked Summerが7月22日にロンドンで開催へ</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Samsung Galaxy Unpacked Summerが7月22日にロンドンで開催へ</h2>
+              
+            </div>
             <p class="entry-summary">Samsungがロンドンで7月22日に夏のGalaxy Unpackedイベントを開催する計画があることが韓国経済新聞のリークにより明らかになった。Galaxy Z Fold 8・Z Flip 8に加え、Appleの折りたたみiPhoneに対抗する新「Wide Fold」デバイスの発表も予想されている。</p>
-            <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
-              Android Central <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
+                Android Central <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">SamsungがXR技術で献血キャンペーン—韓国赤十字と協力</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">SamsungがXR技術で献血キャンペーン—韓国赤十字と協力</h2>
+              
+            </div>
             <p class="entry-summary">Samsung、医療機器メーカーAbbott、韓国赤十字が6月2日に連携し、Galaxy XRデバイスを活用した韓国初のXR体験型献血キャンペーンを実施した。先端技術を社会課題解決に活用するCSR活動として話題を集めている。</p>
-            <a class="entry-source" href="https://news.samsung.com/global/" target="_blank" rel="noopener noreferrer">
-              Samsung Global Newsroom <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.samsung.com/global/" target="_blank" rel="noopener noreferrer">
+                Samsung Global Newsroom <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">折りたたみスマホはSamsungが依然首位、出荷量で700万台対500万台</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">折りたたみスマホはSamsungが依然首位、出荷量で700万台対500万台</h2>
+              
+            </div>
             <p class="entry-summary">2026年の折りたたみスマートフォン市場でSamsungは700万台超の出荷が見込まれ、500万台のAppleを引き離してトップを維持する見通しだ。Appleの参入で市場全体が拡大する中、Samsungは折りたたみ分野での先行者優位を守るべく新モデルを投入する。</p>
-            <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
-              Android Central <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
+                Android Central <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">Samsung・SKハイニックスがHBM偏重生産でメモリ危機を招く</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Samsung・SKハイニックスがHBM偏重生産でメモリ危機を招く</h2>
+              
+            </div>
             <p class="entry-summary">SamsungとSKハイニックスは汎用DRAMのウエハー生産を大幅削減しAI向けHBMへ集中したことで、世界的なメモリ価格高騰を引き起こした一因となっている。Q1 2026だけでDRAM価格が90%急騰し、スマートフォンを含む消費者向け製品全般の価格上昇につながっている。</p>
-            <a class="entry-source" href="https://bisi.org.uk/reports/global-ram-shortage-and-price-hikes-causes-consequences-and-market-outlook" target="_blank" rel="noopener noreferrer">
-              Bloomberg / BISI <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://bisi.org.uk/reports/global-ram-shortage-and-price-hikes-causes-consequences-and-market-outlook" target="_blank" rel="noopener noreferrer">
+                Bloomberg / BISI <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

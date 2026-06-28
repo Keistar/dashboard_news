@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">英国が5か国共同のエージェントAIセキュリティガイドに参加</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">英国が5か国共同のエージェントAIセキュリティガイドに参加</h2>
+              
+            </div>
             <p class="entry-summary">英国のNCCS（国家サイバーセキュリティセンター）が米国・豪州・カナダ・NZと共同で「エージェントAIサービスの慎重な採用」ガイダンスを発表した。AIエージェントが重要インフラで誤動作・悪用されるリスクに対処する国際連携の枠組みとして注目されている。</p>
-            <a class="entry-source" href="https://www.artificialintelligence-news.com/" target="_blank" rel="noopener noreferrer">
-              artificialintelligence-news.com <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.artificialintelligence-news.com/" target="_blank" rel="noopener noreferrer">
+                artificialintelligence-news.com <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">英国のAI規制、EUのAI法とは一線を画す独自路線を維持</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">英国のAI規制、EUのAI法とは一線を画す独自路線を維持</h2>
+              
+            </div>
             <p class="entry-summary">Brexit後の英国はEU AI法の域外適用を受けない独自のAIガバナンス路線を維持している。リスクベースの柔軟なアプローチにより、ビジネスフレンドリーな環境を保ちつつ安全基準の整備を進める方針で、欧米のAI企業誘致を狙う。</p>
-            <a class="entry-source" href="https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/" target="_blank" rel="noopener noreferrer">
-              OneTrust <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/" target="_blank" rel="noopener noreferrer">
+                OneTrust <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

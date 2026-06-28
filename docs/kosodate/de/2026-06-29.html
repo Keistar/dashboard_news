@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">ドイツが2026年から児童手当を月259ユーロに引き上げ</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">ドイツが2026年から児童手当を月259ユーロに引き上げ</h2>
+              
+            </div>
             <p class="entry-summary">2026年1月1日より、ドイツの児童手当（Kindergeld）が1人当たり月255ユーロから259ユーロへ増額された。子どもの扶養控除も年間6,828ユーロに引き上げられており、生活費上昇に苦しむ家庭への支援強化の一環として施行された。</p>
-            <a class="entry-source" href="https://en.familienservice.de/magazin/finanzen-und-recht/-/asset_publisher/bfpn/content/mehr-geld-fuer-familien-kindergeld-kinderfreibetrag" target="_blank" rel="noopener noreferrer">
-              familienservice.de <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://en.familienservice.de/magazin/finanzen-und-recht/-/asset_publisher/bfpn/content/mehr-geld-fuer-familien-kindergeld-kinderfreibetrag" target="_blank" rel="noopener noreferrer">
+                familienservice.de <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">2026/27年度から小学1年生が終日ケアを受ける権利を取得</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">2026/27年度から小学1年生が終日ケアを受ける権利を取得</h2>
+              
+            </div>
             <p class="entry-summary">ドイツでは2026/27学年度から小学1年生が法的に終日ケアを受ける権利を持つこととなった。共働き家庭が子育てと仕事を両立しやすい環境整備の重要な一歩で、放課後・長期休暇中のケア空白を解消し女性の就労参加率向上にも貢献することが期待されている。</p>
-            <a class="entry-source" href="https://en.familienservice.de/magazin/finanzen-und-recht/-/asset_publisher/bfpn/content/mehr-geld-fuer-familien-kindergeld-kinderfreibetrag" target="_blank" rel="noopener noreferrer">
-              familienservice.de <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://en.familienservice.de/magazin/finanzen-und-recht/-/asset_publisher/bfpn/content/mehr-geld-fuer-familien-kindergeld-kinderfreibetrag" target="_blank" rel="noopener noreferrer">
+                familienservice.de <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

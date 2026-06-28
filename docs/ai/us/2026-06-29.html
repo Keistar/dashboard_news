@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,66 +110,102 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 6 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 6 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">トランプ大統領がAI大統領令の署名式を突如キャンセル</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">トランプ大統領がAI大統領令の署名式を突如キャンセル</h2>
+              
+            </div>
             <p class="entry-summary">ホワイトハウスで予定されていたAI関連大統領令の署名式が土壇場でキャンセルされた。中国との覇権争いでアメリカのリードを損なうリスクがあるとの懸念が浮上したためで、金融・銀行セクターからのAIサイバーセキュリティ規制強化圧力も背景にある。</p>
-            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
-              crescendo.ai <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
+                crescendo.ai <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">MetaがAI再編で約8000人を削減、7000人をAI部門へ異動</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">MetaがAI再編で約8000人を削減、7000人をAI部門へ異動</h2>
+              
+            </div>
             <p class="entry-summary">MetaはAI特化型組織への転換を目的に全社員の約10%にあたる約8000人を削減する方針を発表した。同時に7000人をAI集中チームへ異動させ、空席6000ポジションの採用を取り消すなど大規模な構造改革に乗り出した。</p>
-            <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
-              crescendo.ai <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">
+                crescendo.ai <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">03</span>
           <div class="entry-body">
-            <h2 class="entry-title">コロラド州AI消費者保護法が6月30日に施行</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">コロラド州AI消費者保護法が6月30日に施行</h2>
+              
+            </div>
             <p class="entry-summary">米コロラド州の「AI消費者保護法」が6月30日に施行される。雇用・医療・金融・教育・住宅・法務などのハイリスクAIシステムの開発者・導入者に透明性と説明責任を義務付けるもので、全米初の包括的州レベルAI規制として注目されている。</p>
-            <a class="entry-source" href="https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/" target="_blank" rel="noopener noreferrer">
-              OneTrust <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/" target="_blank" rel="noopener noreferrer">
+                OneTrust <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">04</span>
           <div class="entry-body">
-            <h2 class="entry-title">英米豪加NZの5か国がエージェントAIのセキュリティガイドを共同発表</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">英米豪加NZの5か国がエージェントAIのセキュリティガイドを共同発表</h2>
+              
+            </div>
             <p class="entry-summary">米国・英国・オーストラリア・カナダ・ニュージーランドのサイバーセキュリティ・情報機関が「エージェントAIサービスの慎重な採用」と題した共同ガイダンスを発表した。重要インフラや防衛環境で展開されるAIエージェントのセキュリティリスクに対処するための指針を示している。</p>
-            <a class="entry-source" href="https://www.artificialintelligence-news.com/" target="_blank" rel="noopener noreferrer">
-              artificialintelligence-news.com <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.artificialintelligence-news.com/" target="_blank" rel="noopener noreferrer">
+                artificialintelligence-news.com <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">05</span>
           <div class="entry-body">
-            <h2 class="entry-title">6月はAIモデルラッシュ—GPT-5.5・Gemini 3.5・Claude 4.8が激突</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">6月はAIモデルラッシュ—GPT-5.5・Gemini 3.5・Claude 4.8が激突</h2>
+              
+            </div>
             <p class="entry-summary">2026年6月は「史上最も集中したモデルリリース月」と呼ばれるほどの激戦が続く。Anthropicの Claude Opus 4.8（5月28日出荷）、Google の Gemini 3.5 Flash/Pro、OpenAIの GPT-5.5 が出揃い、ベンチマーク競争が白熱している。</p>
-            <a class="entry-source" href="https://www.essamamdani.com/blog/june-2026-ai-model-flood-gpt-gemini-claude" target="_blank" rel="noopener noreferrer">
-              Essa Mamdani / BuildFastWithAI <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.essamamdani.com/blog/june-2026-ai-model-flood-gpt-gemini-claude" target="_blank" rel="noopener noreferrer">
+                Essa Mamdani / BuildFastWithAI <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">06</span>
           <div class="entry-body">
-            <h2 class="entry-title">Claude Opus 4.8 vs Gemini 3.5 Flash—能力vs速度・コストで明暗</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Claude Opus 4.8 vs Gemini 3.5 Flash—能力vs速度・コストで明暗</h2>
+              
+            </div>
             <p class="entry-summary">Claude Opus 4.8はArtificial Analysis知能指数とGDPval-AAベンチマークでトップを維持。一方Gemini 3.5 Flashは100万トークン当たり1.5ドルとOpus 4.8の3分の1以下の価格で毎秒192トークンを出力し、マルチモーダル（動画・音声・PDF）対応でコスパ重視の用途を席巻している。</p>
-            <a class="entry-source" href="https://www.datacamp.com/blog/gemini-3-5-flash-vs-claude-opus-4-8" target="_blank" rel="noopener noreferrer">
-              DataCamp <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.datacamp.com/blog/gemini-3-5-flash-vs-claude-opus-4-8" target="_blank" rel="noopener noreferrer">
+                DataCamp <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

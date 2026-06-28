@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -99,62 +108,248 @@
       <h1 class="genre-hero-title">子育て</h1>
       <p class="genre-hero-sub mono">PARENTING & CHILDCARE</p>
     </div>
-    <p class="section-label mono">EDITION</p>
-    <ul class="nav-list">
-      <li class="nav-item">
-        <a href="jp/index.html" class="nav-link">
-          <span class="nav-label">
-            <span class="nav-label-main">日本</span>
-            <span class="nav-label-sub mono">JP EDITION</span>
-          </span>
-          <span class="nav-arrow mono">&#8599;</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="us/index.html" class="nav-link">
-          <span class="nav-label">
-            <span class="nav-label-main">アメリカ</span>
-            <span class="nav-label-sub mono">US EDITION</span>
-          </span>
-          <span class="nav-arrow mono">&#8599;</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="kr/index.html" class="nav-link">
-          <span class="nav-label">
-            <span class="nav-label-main">韓国</span>
-            <span class="nav-label-sub mono">KR EDITION</span>
-          </span>
-          <span class="nav-arrow mono">&#8599;</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="gb/index.html" class="nav-link">
-          <span class="nav-label">
-            <span class="nav-label-main">イギリス</span>
-            <span class="nav-label-sub mono">GB EDITION</span>
-          </span>
-          <span class="nav-arrow mono">&#8599;</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="de/index.html" class="nav-link">
-          <span class="nav-label">
-            <span class="nav-label-main">ドイツ</span>
-            <span class="nav-label-sub mono">DE EDITION</span>
-          </span>
-          <span class="nav-arrow mono">&#8599;</span>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a href="se/index.html" class="nav-link">
-          <span class="nav-label">
-            <span class="nav-label-main">スウェーデン</span>
-            <span class="nav-label-sub mono">SE EDITION</span>
-          </span>
-          <span class="nav-arrow mono">&#8599;</span>
-        </a>
-      </li>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 15 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">「こども誰でも通園制度」が2026年度に全国展開</h2>
+              
+            </div>
+            <p class="entry-summary">保育施設を利用していない家庭の乳幼児も一時預かり・集団保育・親子支援サービスを利用できる「こども誰でも通園制度」が2026年度に全国展開された。親の就労要件を問わない初のユニバーサル型保育制度として、育児負担の軽減と孤立防止に大きく期待されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://japantoday.com/category/national/japan-begins-day-care-system-regardless-of-parental-employment-status" target="_blank" rel="noopener noreferrer">
+                Japan Today <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">出産費用の実質無料化を2026年度から本格実施</h2>
+              
+            </div>
+            <p class="entry-summary">日本政府は通常分娩を公的医療保険の対象とし自己負担ゼロを目指す方針を打ち出した。これが実現すれば平均50万円超とされる出産費用が原則無料となり、少子化対策における画期的な転換点となる。2026年度中の制度設計確定を目指して議論が進んでいる。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://japantoday.com/category/features/lifestyle/what-you-need-to-know-about-japan%E2%80%99s-new-childbirth-childcare-and-education-support-in-2026" target="_blank" rel="noopener noreferrer">
+                Japan Today / japantoday.com <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">子ども1人あたり2万円の一時金支給が実施</h2>
+              
+            </div>
+            <p class="entry-summary">政府の少子化対策パッケージの一環として子ども1人あたり2万円の一時金支給が行われた。自営業者の国民年金保険料免除や全国的な保育サービス拡充もセットで実施されており、物価高で苦しむ子育て世帯の家計支援として歓迎されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.upi.com/Top_News/World-News/2025/12/29/japan-childcare-one-time-cash-payment/3611767059468/" target="_blank" rel="noopener noreferrer">
+                UPI / Japan Today <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">2026年4月から「子ども・子育て支援金」制度が始動</h2>
+              
+            </div>
+            <p class="entry-summary">社会保険加入者から広く徴収する新たな「子ども・子育て支援金」制度が2026年4月に発足した。従来の事業主拠出金ベースから国民皆拠出モデルへ移行することで、保育・子育て支援の安定財源を長期的に確保する仕組みだ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://japantoday.com/category/features/lifestyle/what-you-need-to-know-about-japan%E2%80%99s-new-childbirth-childcare-and-education-support-in-2026" target="_blank" rel="noopener noreferrer">
+                Japan Today <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">3人以上の中間所得世帯の高等教育費支援を拡充</h2>
+              
+            </div>
+            <p class="entry-summary">子育て世代が理想の子ども数を産まない最大の理由として「教育費の負担」が挙げられることを受け、政府は3人以上の子を持つ中間所得世帯を対象に大学等の授業料減免と給付型奨学金の受給要件を大幅に緩和した。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://japan.kantei.go.jp/ongoingtopics/policies_kishida/childsupport.html" target="_blank" rel="noopener noreferrer">
+                Japan Kantei / Japan Today <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">米国が保育政策でOECDの最下位グループに—課題が鮮明</h2>
+              
+            </div>
+            <p class="entry-summary">UNICEFが発表した先進国の保育政策ランキングで、米国はスロバキア・キプロスと並びOECDの最下位グループに位置した。公的保育補助の不足と保育コストの高さが主な要因で、共働き世帯や低所得世帯の保育アクセス格差が深刻な社会問題となっている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
+                UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">東京の5歳未満無償保育モデルが海外メディアで注目</h2>
+              
+            </div>
+            <p class="entry-summary">東京都が進める5歳未満児への無償保育政策が英語圏メディアで大きく取り上げられ、保育先進国との比較で米国の保育政策の遅れが改めて浮き彫りになった。米国内でも連邦レベルの保育支援拡充を求める声が高まっている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.thebump.com/news/toyko-offers-free-childcare-kids-under-5" target="_blank" rel="noopener noreferrer">
+                The Bump <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">韓国の親の27%が「教育・保育費が出産しない理由」と回答</h2>
+              
+            </div>
+            <p class="entry-summary">政府調査によると韓国の保護者の27%が、理想の子ども数を産まない主な理由として教育・保育費の高い負担を挙げた。OECDの中で保育費自己負担は比較的低い水準にあるにもかかわらず、教育熱の高さと学習塾費用が家計を圧迫していることが浮き彫りになった。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://childcarecanada.org/documents/child-care-news/25/09/south-korea-expands-childcare-support-parents" target="_blank" rel="noopener noreferrer">
+                childcarecanada.org <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">韓国 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">09</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">韓国が出生率対策で保育支援をさらに拡充</h2>
+              
+            </div>
+            <p class="entry-summary">記録的な低出生率（合計特殊出生率0.7台）に歯止めをかけるべく、韓国政府は保育支援の追加拡充策を打ち出した。ただしOECDが分析する通り、費用面の支援だけでは長時間労働文化や住宅費問題を根本的に解決できないとの指摘も多い。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/korea-s-unborn-future_5fef94e8/75aa749c-en.pdf" target="_blank" rel="noopener noreferrer">
+                OECD <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">韓国 &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">10</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">英国の市場型保育システム、コスト高で保護者の不満が増大</h2>
+              
+            </div>
+            <p class="entry-summary">英国のマーケット主導型保育制度は、民間保育所への高い依存度から保育費が家計を大きく圧迫している。Cambridge Core誌の比較研究では韓国の低コスト保育との対比が示され、英国政府は公的補助拡充に向けた政策見直しを迫られている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cambridge.org/core/journals/journal-of-international-and-comparative-social-policy/article/comparing-the-english-and-korean-marketised-childcare-systems-in-the-context-of-promoting-maternal-employment/729534C9D301B8194C344D16234D679E" target="_blank" rel="noopener noreferrer">
+                Cambridge Core <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">イギリス &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">11</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">英国が保育政策の国際比較で中位にとどまる—北欧との差が課題</h2>
+              
+            </div>
+            <p class="entry-summary">UNICEFの先進国保育政策ランキングで英国は中位グループに位置し、スウェーデン・ノルウェー・アイスランドら北欧諸国との差が鮮明になった。労働参加率向上と少子化対策を同時に実現するため、英国では保育アクセス改善に向けた議論が続いている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
+                UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">イギリス &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">12</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ドイツが2026年から児童手当を月259ユーロに引き上げ</h2>
+              
+            </div>
+            <p class="entry-summary">2026年1月1日より、ドイツの児童手当（Kindergeld）が1人当たり月255ユーロから259ユーロへ増額された。子どもの扶養控除も年間6,828ユーロに引き上げられており、生活費上昇に苦しむ家庭への支援強化の一環として施行された。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://en.familienservice.de/magazin/finanzen-und-recht/-/asset_publisher/bfpn/content/mehr-geld-fuer-familien-kindergeld-kinderfreibetrag" target="_blank" rel="noopener noreferrer">
+                familienservice.de <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ドイツ &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">13</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">2026/27年度から小学1年生が終日ケアを受ける権利を取得</h2>
+              
+            </div>
+            <p class="entry-summary">ドイツでは2026/27学年度から小学1年生が法的に終日ケアを受ける権利を持つこととなった。共働き家庭が子育てと仕事を両立しやすい環境整備の重要な一歩で、放課後・長期休暇中のケア空白を解消し女性の就労参加率向上にも貢献することが期待されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://en.familienservice.de/magazin/finanzen-und-recht/-/asset_publisher/bfpn/content/mehr-geld-fuer-familien-kindergeld-kinderfreibetrag" target="_blank" rel="noopener noreferrer">
+                familienservice.de <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ドイツ &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">14</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">スウェーデンが先進国の家族政策ランキングで最高位を維持</h2>
+              
+            </div>
+            <p class="entry-summary">UNICEFが発表した先進国の家族にやさしい政策ランキングで、スウェーデンはルクセンブルク・アイスランドとともに最上位グループを維持した。充実した育児休暇制度・公的保育補助・柔軟な就労制度の三本柱が高く評価されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/press-releases/sweden-norway-iceland-and-estonia-rank-highest-family-friendly-policies-oecd-and-eu" target="_blank" rel="noopener noreferrer">
+                UNICEF <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">スウェーデン &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">15</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">スウェーデンの放課後ケア施設に対象児童の99%が在籍</h2>
+              
+            </div>
+            <p class="entry-summary">スウェーデンでは就学前クラス進学後〜小学6年生までの子を持つ保護者が就労・就学中に利用できる放課後ケア施設（fritidshem）が普及しており、対象児童の99%が利用している。この高い利用率は手厚い公的補助と柔軟な受け入れ体制によって支えられている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
+                UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">スウェーデン &middot; 2026-06-29</span>
+            </div>
+          </div>
+        </li>
     </ul>
     <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
   </div>

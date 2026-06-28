@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">Samsung Galaxy Unpackedがロンドン開催—欧州市場に重点</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Samsung Galaxy Unpackedがロンドン開催—欧州市場に重点</h2>
+              
+            </div>
             <p class="entry-summary">Samsungが2026年夏のGalaxy Unpackedをロンドンで開催する予定であることが明らかになった。折りたたみデバイスの欧州市場での認知拡大を狙ったロケーション選択とみられ、Galaxy Z Fold 8・Flip 8および新Wide Foldが発表される見込みだ。</p>
-            <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
-              Android Central <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.androidcentral.com/phones/samsung/samsung-galaxy-unpacked-summer-2026-how-to-watch-and-what-to-expect" target="_blank" rel="noopener noreferrer">
+                Android Central <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">Sony Xperia 1 VIIIが欧州で予約受付開始</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">Sony Xperia 1 VIIIが欧州で予約受付開始</h2>
+              
+            </div>
             <p class="entry-summary">ソニーの最新フラッグシップ「Xperia 1 VIII」が6月19日より欧州で発売・予約開始された。プロ品質のカメラシステムと4K有機ELディスプレイを継承しながら、AIによる撮影支援機能を強化した同機種は写真・動画ユーザーから注目されている。</p>
-            <a class="entry-source" href="https://www.stuff.tv/features/most-anticipated-upcoming-phones/" target="_blank" rel="noopener noreferrer">
-              stuff.tv <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.stuff.tv/features/most-anticipated-upcoming-phones/" target="_blank" rel="noopener noreferrer">
+                stuff.tv <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

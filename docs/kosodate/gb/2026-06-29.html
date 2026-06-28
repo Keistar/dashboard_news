@@ -66,10 +66,19 @@
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -101,26 +110,38 @@
       <span class="breadcrumb-sep">/</span>
       <a href="index.html">日付一覧</a>
     </nav>
-    <div class="meta-line mono">2026-06-29 &middot; 03:51 JST &middot; 2 dispatches</div>
+    <div class="meta-line mono">2026-06-29 &middot; 04:33 JST &middot; 2 dispatches</div>
     <ul class="entries">
         <li class="entry">
           <span class="entry-index">01</span>
           <div class="entry-body">
-            <h2 class="entry-title">英国の市場型保育システム、コスト高で保護者の不満が増大</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">英国の市場型保育システム、コスト高で保護者の不満が増大</h2>
+              
+            </div>
             <p class="entry-summary">英国のマーケット主導型保育制度は、民間保育所への高い依存度から保育費が家計を大きく圧迫している。Cambridge Core誌の比較研究では韓国の低コスト保育との対比が示され、英国政府は公的補助拡充に向けた政策見直しを迫られている。</p>
-            <a class="entry-source" href="https://www.cambridge.org/core/journals/journal-of-international-and-comparative-social-policy/article/comparing-the-english-and-korean-marketised-childcare-systems-in-the-context-of-promoting-maternal-employment/729534C9D301B8194C344D16234D679E" target="_blank" rel="noopener noreferrer">
-              Cambridge Core <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cambridge.org/core/journals/journal-of-international-and-comparative-social-policy/article/comparing-the-english-and-korean-marketised-childcare-systems-in-the-context-of-promoting-maternal-employment/729534C9D301B8194C344D16234D679E" target="_blank" rel="noopener noreferrer">
+                Cambridge Core <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
         <li class="entry">
           <span class="entry-index">02</span>
           <div class="entry-body">
-            <h2 class="entry-title">英国が保育政策の国際比較で中位にとどまる—北欧との差が課題</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">英国が保育政策の国際比較で中位にとどまる—北欧との差が課題</h2>
+              
+            </div>
             <p class="entry-summary">UNICEFの先進国保育政策ランキングで英国は中位グループに位置し、スウェーデン・ノルウェー・アイスランドら北欧諸国との差が鮮明になった。労働参加率向上と少子化対策を同時に実現するため、英国では保育アクセス改善に向けた議論が続いている。</p>
-            <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
-              UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.unicef.org/innocenti/reports/where-do-rich-countries-stand-childcare" target="_blank" rel="noopener noreferrer">
+                UNICEF Innocenti <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
           </div>
         </li>
     </ul>

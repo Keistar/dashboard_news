@@ -332,8 +332,10 @@ _CSS_BODY = """  body {
     align-self: center; margin-top: 1px;
   }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
   .nav-item { border-bottom: 1px solid var(--line); }
@@ -428,9 +430,12 @@ _ENTRY = """\
               {score_badge}
             </div>
             <p class="entry-summary">{summary}</p>
-            <a class="entry-source" href="{url}" target="_blank" rel="noopener noreferrer">
-              {source} <span aria-hidden="true">&#8599;</span>
-            </a>
+            <div class="entry-footer">
+              <a class="entry-source" href="{url}" target="_blank" rel="noopener noreferrer">
+                {source} <span aria-hidden="true">&#8599;</span>
+              </a>
+              {meta}
+            </div>
           </div>
         </li>
 """
@@ -454,6 +459,7 @@ def render_article_page(
             summary=html.escape(story.get("summary_ja", "")),
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
+            meta="",
         )
 
     return (
@@ -510,22 +516,25 @@ def render_country_index(dates: list[str], country: dict, genre_cfg: dict) -> st
     )
 
 
-def render_genre_index(genre_cfg: dict) -> str:
+def render_genre_page(
+    flat_stories: list[dict], date_str: str, time_str: str, genre_cfg: dict
+) -> str:
     label_ja = genre_cfg["label_ja"]
     label_en = genre_cfg["label_en"]
 
-    items = ""
-    for c in genre_cfg["countries"]:
-        items += (
-            '      <li class="nav-item">\n'
-            f'        <a href="{c["code"]}/index.html" class="nav-link">\n'
-            '          <span class="nav-label">\n'
-            f'            <span class="nav-label-main">{c["label_ja"]}</span>\n'
-            f'            <span class="nav-label-sub mono">{c["label_en"]}</span>\n'
-            '          </span>\n'
-            '          <span class="nav-arrow mono">&#8599;</span>\n'
-            '        </a>\n'
-            '      </li>\n'
+    entries = ""
+    for i, story in enumerate(flat_stories, start=1):
+        country_label = story.get("_country_label_ja", "")
+        story_date = story.get("_date_str", date_str)
+        meta = f'<span class="entry-meta mono">{country_label} &middot; {story_date}</span>'
+        entries += _ENTRY.format(
+            index=f"{i:02d}",
+            title=html.escape(story.get("title_ja", "")),
+            score_badge=_score_badge(story.get("score")),
+            summary=html.escape(story.get("summary_ja", "")),
+            source=html.escape(story.get("source", "")),
+            url=html.escape(story.get("url", "#"), quote=True),
+            meta=meta,
         )
 
     return (
@@ -539,9 +548,9 @@ def render_genre_index(genre_cfg: dict) -> str:
         + f'      <h1 class="genre-hero-title">{label_ja}</h1>\n'
         + f'      <p class="genre-hero-sub mono">{label_en}</p>\n'
         + '    </div>\n'
-        + '    <p class="section-label mono">EDITION</p>\n'
-        + '    <ul class="nav-list">\n'
-        + items
+        + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {len(flat_stories)} dispatches</div>\n'
+        + '    <ul class="entries">\n'
+        + entries
         + '    </ul>\n'
         + _FOOT
     )
@@ -605,6 +614,8 @@ def main() -> None:
     date_str = now_jst.strftime("%Y-%m-%d")
     time_str = now_jst.strftime("%H:%M JST")
 
+    # Flatten stories from all countries, attaching country label and date for display
+    flat_stories: list[dict] = []
     for country in genre_cfg["countries"]:
         code = country["code"]
         stories = all_stories.get(code, [])
@@ -612,29 +623,28 @@ def main() -> None:
             print(f"Skipping {code}: no stories", file=sys.stderr)
             continue
 
+        # Write per-country/date archive page
         country_dir = f"docs/{genre_code}/{code}"
         os.makedirs(country_dir, exist_ok=True)
-
         article_path = f"{country_dir}/{date_str}.html"
         with open(article_path, "w", encoding="utf-8") as f:
             f.write(render_article_page(stories, date_str, time_str, country, genre_cfg))
         print(f"Wrote {len(stories)} stories to {article_path}")
 
-        date_files = sorted(
-            glob.glob(f"{country_dir}/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].html"),
-            reverse=True,
-        )
-        dates = [os.path.basename(p).replace(".html", "") for p in date_files]
-        country_index_path = f"{country_dir}/index.html"
-        with open(country_index_path, "w", encoding="utf-8") as f:
-            f.write(render_country_index(dates, country, genre_cfg))
-        print(f"Wrote country index ({len(dates)} dates) to {country_index_path}")
+        for story in stories:
+            enriched = dict(story)
+            enriched["_country_label_ja"] = country["label_ja"]
+            enriched["_date_str"] = date_str
+            flat_stories.append(enriched)
+
+    # Sort by score descending; stories without a score go to the end
+    flat_stories.sort(key=lambda s: s.get("score") or 0, reverse=True)
 
     genre_index_path = f"docs/{genre_code}/index.html"
     os.makedirs(f"docs/{genre_code}", exist_ok=True)
     with open(genre_index_path, "w", encoding="utf-8") as f:
-        f.write(render_genre_index(genre_cfg))
-    print(f"Wrote genre index to {genre_index_path}")
+        f.write(render_genre_page(flat_stories, date_str, time_str, genre_cfg))
+    print(f"Wrote genre index ({len(flat_stories)} stories) to {genre_index_path}")
 
     top_index_path = "docs/index.html"
     with open(top_index_path, "w", encoding="utf-8") as f:
