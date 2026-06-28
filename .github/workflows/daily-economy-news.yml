@@ -1,9 +1,6 @@
 name: Daily Economy News
 
 on:
-  schedule:
-    # 22:00 UTC = 07:00 JST (next day)
-    - cron: '0 22 * * *'
   workflow_dispatch: {}
 
 permissions:
