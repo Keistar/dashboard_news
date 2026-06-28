@@ -180,53 +180,6 @@ def build_user_message(genre_cfg: dict, today_jst: str) -> str:
     )
 
 
-def _call_api(client: anthropic.Anthropic, system_prompt: str, user_message: str) -> str:
-    with client.messages.stream(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        system=system_prompt,
-        tools=[
-            {
-                "type": "web_search_20250305",
-                "name": "web_search",
-                "max_uses": WEB_SEARCH_MAX_USES,
-            }
-        ],
-        messages=[{"role": "user", "content": user_message}],
-    ) as stream:
-        response = stream.get_final_message()
-
-    text_blocks = [block.text for block in response.content if block.type == "text"]
-    raw = "".join(text_blocks).strip()
-
-    if not raw:
-        block_types = [block.type for block in response.content]
-        raise ValueError(
-            f"Model returned no text blocks (stop_reason={response.stop_reason!r}, "
-            f"block types={block_types})"
-        )
-
-    raw = re.sub(r"^```(?:json)?", "", raw).strip()
-    raw = re.sub(r"```$", "", raw).strip()
-
-    json_match = re.search(r"\{.*\}", raw, re.DOTALL)
-    if not json_match:
-        raise ValueError(f"No JSON object found in response (first 300 chars): {raw[:300]!r}")
-    return json_match.group(0)
-
-
-def _parse_json(raw: str) -> dict:
-    try:
-        return json.loads(raw)
-    except json.JSONDecodeError as exc:
-        print(f"JSON parse failed ({exc}); attempting repair…", file=sys.stderr)
-        repaired = repair_json(raw, return_objects=True)
-        if isinstance(repaired, dict):
-            return repaired
-        raise ValueError(
-            f"JSON repair also failed; raw (first 300 chars): {raw[:300]!r}"
-        ) from exc
-
 
 def load_stories_from_file(path: str, genre_cfg: dict) -> dict[str, list[dict]]:
     with open(path, encoding="utf-8") as f:
