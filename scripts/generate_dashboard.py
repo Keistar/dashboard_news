@@ -7,13 +7,27 @@ Page structure:
   docs/{genre}/{country}/index.html         — country page: date list (newest first)
   docs/{genre}/{country}/{date}.html        — article page: daily stories
 
-Usage:
-  python scripts/generate_dashboard.py --genre tech
-  python scripts/generate_dashboard.py --genre economy
-  python scripts/generate_dashboard.py --genre entertainment
+Usage (Claude-dispatch mode — no API key required):
+  python scripts/generate_dashboard.py --genre tech --input stories.json
+  python scripts/generate_dashboard.py --genre economy --input stories.json
+  python scripts/generate_dashboard.py --genre entertainment --input stories.json
 
-Run via GitHub Actions (see .github/workflows/).
-Requires the ANTHROPIC_API_KEY environment variable.
+  The --input JSON must follow the schema:
+  {
+    "<country_code>": [
+      {
+        "title_ja": "string, <=40 chars",
+        "summary_ja": "string, 2-3 sentences",
+        "source": "publication name",
+        "url": "article URL"
+      },
+      ...
+    ],
+    ...
+  }
+
+Legacy (API mode — requires ANTHROPIC_API_KEY):
+  python scripts/generate_dashboard.py --genre tech
 """
 
 import argparse
@@ -25,13 +39,7 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
-import anthropic
-from json_repair import repair_json
-
-MODEL = "claude-sonnet-4-6"
 MAX_STORIES = 8
-MAX_TOKENS = 32000
-WEB_SEARCH_MAX_USES = 24  # ~4 searches per country × 6 countries
 MAX_RETRIES = 3
 
 JST = timezone(timedelta(hours=9))
@@ -220,17 +228,74 @@ def _parse_json(raw: str) -> dict:
         ) from exc
 
 
+def load_stories_from_file(path: str, genre_cfg: dict) -> dict[str, list[dict]]:
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    result: dict[str, list[dict]] = {}
+    for c in genre_cfg["countries"]:
+        code = c["code"]
+        stories = data.get(code, [])[:MAX_STORIES]
+        if not stories:
+            print(f"Warning: no stories for {code} in {path}", file=sys.stderr)
+        result[code] = stories
+    return result
+
+
 def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
+    try:
+        import anthropic
+        from json_repair import repair_json
+    except ImportError as exc:
+        raise ImportError(
+            "anthropic / json_repair packages are required for API mode. "
+            "Use --input to provide stories from a JSON file instead."
+        ) from exc
+
+    MODEL = "claude-sonnet-4-6"
+    MAX_TOKENS = 32000
+    WEB_SEARCH_MAX_USES = 24
+
     client = anthropic.Anthropic()
 
     today_jst = datetime.now(JST).strftime("%Y年%m月%d日")
     system_prompt = build_system_prompt(genre_cfg)
     user_message = build_user_message(genre_cfg, today_jst)
 
+    def _call_api(system_prompt: str, user_message: str) -> str:
+        with client.messages.stream(
+            model=MODEL,
+            max_tokens=MAX_TOKENS,
+            system=system_prompt,
+            tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": WEB_SEARCH_MAX_USES}],
+            messages=[{"role": "user", "content": user_message}],
+        ) as stream:
+            response = stream.get_final_message()
+
+        text_blocks = [block.text for block in response.content if block.type == "text"]
+        raw = "".join(text_blocks).strip()
+        if not raw:
+            raise ValueError(f"Model returned no text (stop_reason={response.stop_reason!r})")
+        raw = re.sub(r"^```(?:json)?", "", raw).strip()
+        raw = re.sub(r"```$", "", raw).strip()
+        json_match = re.search(r"\{.*\}", raw, re.DOTALL)
+        if not json_match:
+            raise ValueError(f"No JSON found in response: {raw[:300]!r}")
+        return json_match.group(0)
+
+    def _parse_json(raw: str) -> dict:
+        try:
+            return json.loads(raw)
+        except json.JSONDecodeError as exc:
+            print(f"JSON parse failed ({exc}); attempting repair…", file=sys.stderr)
+            repaired = repair_json(raw, return_objects=True)
+            if isinstance(repaired, dict):
+                return repaired
+            raise ValueError(f"JSON repair failed; raw: {raw[:300]!r}") from exc
+
     last_exc: Exception | None = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            raw = _call_api(client, system_prompt, user_message)
+            raw = _call_api(system_prompt, user_message)
             data = _parse_json(raw)
             break
         except Exception as exc:
@@ -534,15 +599,23 @@ def render_top_index() -> str:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate news dashboard for a genre.")
     parser.add_argument("--genre", required=True, choices=list(GENRES.keys()))
+    parser.add_argument(
+        "--input", metavar="FILE",
+        help="JSON file with stories (Claude-dispatch mode). "
+             "When omitted, stories are fetched via the Anthropic API.",
+    )
     args = parser.parse_args()
 
     genre_code = args.genre
     genre_cfg = GENRES[genre_code]
 
     try:
-        all_stories = fetch_all_stories(genre_cfg)
+        if args.input:
+            all_stories = load_stories_from_file(args.input, genre_cfg)
+        else:
+            all_stories = fetch_all_stories(genre_cfg)
     except Exception as exc:
-        print(f"Failed to fetch stories: {exc}", file=sys.stderr)
+        print(f"Failed to load stories: {exc}", file=sys.stderr)
         sys.exit(1)
 
     now_jst = datetime.now(JST)

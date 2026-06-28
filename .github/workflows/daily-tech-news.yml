@@ -1,9 +1,6 @@
 name: Daily Tech & Science News
 
 on:
-  schedule:
-    # 21:00 UTC = 06:00 JST (next day)
-    - cron: '0 21 * * *'
   workflow_dispatch: {}
 
 permissions:
