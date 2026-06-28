@@ -45,9 +45,9 @@ MAX_RETRIES = 3
 JST = timezone(timedelta(hours=9))
 
 GENRES = {
-    "tech": {
-        "label_ja": "IT・科学",
-        "label_en": "TECH & SCIENCE",
+    "ai": {
+        "label_ja": "AI",
+        "label_en": "ARTIFICIAL INTELLIGENCE",
         # theme[0]=genre page, theme[1]=country page, theme[2]=article page (muted→vivid)
         "bg": "#061614",
         "theme": [
@@ -56,78 +56,78 @@ GENRES = {
             {"line": "#133858", "amber": "#50e4d0", "signal": "#33ccf5"},
         ],
         "system_prompt_intro": (
-            "You are a global news curator producing a daily AI and tech briefing "
+            "You are a global news curator producing a daily AI industry briefing "
             "for a Japanese software engineer who reads it every morning. Use the web_search tool to "
-            "find the most significant AI and tech news that broke in the last 24-48 hours"
+            "find the most significant AI news that broke in the last 24-48 hours"
         ),
         "story_types": (
-            "model releases, funding rounds, major product launches, "
-            "regulation, notable research, key personnel moves"
+            "model releases, funding rounds, major AI product launches, "
+            "AI regulation, notable research papers, key personnel moves"
         ),
-        "user_message_ja": "AI・テック業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "user_message_ja": "AI業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
         "countries": [
             {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "il", "label_ja": "イスラエル", "label_en": "IL EDITION", "name_en": "Israel"},
             {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
-            {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
             {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
+            {"code": "jp", "label_ja": "日本",       "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "il", "label_ja": "イスラエル", "label_en": "IL EDITION", "name_en": "Israel"},
             {"code": "ee", "label_ja": "エストニア", "label_en": "EE EDITION", "name_en": "Estonia"},
         ],
     },
-    "economy": {
-        "label_ja": "経済",
-        "label_en": "ECONOMY",
-        "bg": "#0f0d07",
+    "gadget": {
+        "label_ja": "ガジェット",
+        "label_en": "GADGETS & DEVICES",
+        "bg": "#0f0a04",
         "theme": [
-            {"line": "#1e1a06", "amber": "#a07d1e", "signal": "#b09012"},
-            {"line": "#2a2208", "amber": "#e8b84b", "signal": "#f5c518"},
-            {"line": "#342a08", "amber": "#f5cc70", "signal": "#ffd94a"},
+            {"line": "#241400", "amber": "#a05c10", "signal": "#c07020"},
+            {"line": "#301c00", "amber": "#e07c20", "signal": "#f09030"},
+            {"line": "#3c2400", "amber": "#f59840", "signal": "#ffb050"},
         ],
         "system_prompt_intro": (
-            "You are a global news curator producing a daily economics and finance briefing "
-            "for a Japanese reader who follows global markets. Use the web_search tool to "
-            "find the most significant economic and financial news that broke in the last 24-48 hours"
+            "You are a global gadget and consumer electronics news curator producing a daily briefing "
+            "for a Japanese tech enthusiast. Use the web_search tool to "
+            "find the most significant gadget and device news that broke in the last 24-48 hours"
         ),
         "story_types": (
-            "stock markets, trade policy, corporate earnings, GDP data, "
-            "central bank decisions, employment, major M&A"
+            "smartphones, wearables, laptops, home appliances, cameras, "
+            "audio gear, gaming hardware, drones, EV and mobility gadgets"
         ),
-        "user_message_ja": "経済・金融業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "user_message_ja": "ガジェット・家電の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
         "countries": [
-            {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
-            {"code": "jp", "label_ja": "日本",       "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "de", "label_ja": "ドイツ",     "label_en": "DE EDITION", "name_en": "Germany"},
-            {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
-            {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
+            {"code": "cn", "label_ja": "中国",     "label_en": "CN EDITION", "name_en": "China"},
+            {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
+            {"code": "de", "label_ja": "ドイツ",   "label_en": "DE EDITION", "name_en": "Germany"},
         ],
     },
-    "entertainment": {
-        "label_ja": "エンタメ・芸能",
-        "label_en": "ENTERTAINMENT",
-        "bg": "#0d0712",
+    "kosodate": {
+        "label_ja": "子育て",
+        "label_en": "PARENTING & CHILDCARE",
+        "bg": "#060f08",
         "theme": [
-            {"line": "#1c0828", "amber": "#8e24b4", "signal": "#cc3570"},
-            {"line": "#220a32", "amber": "#e040fb", "signal": "#ff6b9d"},
-            {"line": "#2a0c3c", "amber": "#ef72ff", "signal": "#ff9ec0"},
+            {"line": "#0a2010", "amber": "#2a8042", "signal": "#1a9050"},
+            {"line": "#0e2c16", "amber": "#40aa5a", "signal": "#30c068"},
+            {"line": "#123820", "amber": "#58c870", "signal": "#48d880"},
         ],
         "system_prompt_intro": (
-            "You are a global news curator producing a daily entertainment and celebrity briefing "
-            "for a Japanese reader interested in pop culture worldwide. Use the web_search tool to "
-            "find the most significant entertainment and celebrity news that broke in the last 24-48 hours"
+            "You are a global parenting and childcare news curator producing a daily briefing "
+            "for Japanese parents and caregivers. Use the web_search tool to "
+            "find the most significant parenting, childcare, and child education news that broke in the last 24-48 hours"
         ),
         "story_types": (
-            "movies, music releases, TV and streaming, celebrities, "
-            "award shows, concerts, pop culture trends"
+            "childcare policy, education reform, parenting trends, child health and nutrition, "
+            "family-friendly products, school systems, birth rate issues, child development research"
         ),
-        "user_message_ja": "エンタメ・芸能界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "user_message_ja": "子育て・教育分野の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
         "countries": [
-            {"code": "jp", "label_ja": "日本",       "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "kr", "label_ja": "韓国",       "label_en": "KR EDITION", "name_en": "South Korea"},
-            {"code": "in", "label_ja": "インド",     "label_en": "IN EDITION", "name_en": "India"},
-            {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
-            {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
+            {"code": "jp", "label_ja": "日本",         "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "us", "label_ja": "アメリカ",     "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "kr", "label_ja": "韓国",         "label_en": "KR EDITION", "name_en": "South Korea"},
+            {"code": "gb", "label_ja": "イギリス",     "label_en": "GB EDITION", "name_en": "United Kingdom"},
+            {"code": "de", "label_ja": "ドイツ",       "label_en": "DE EDITION", "name_en": "Germany"},
+            {"code": "se", "label_ja": "スウェーデン", "label_en": "SE EDITION", "name_en": "Sweden"},
         ],
     },
 }
