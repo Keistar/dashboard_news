@@ -19,7 +19,8 @@ Usage (Claude-dispatch mode — no API key required):
         "title_ja": "string, <=40 chars",
         "summary_ja": "string, 2-3 sentences",
         "source": "publication name",
-        "url": "article URL"
+        "url": "article URL",
+        "score": integer 1-100 (optional, relative impact for the day)
       },
       ...
     ],
@@ -322,7 +323,14 @@ _CSS_BODY = """  body {
   .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
   .entry:last-child { border-bottom: none; }
   .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
-  .entry-title { font-size: 16px; font-weight: 600; margin: 0 0 8px; letter-spacing: 0.01em; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
   .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
@@ -393,11 +401,32 @@ def _head(title: str, genre_cfg: dict | None = None, depth: int = 0) -> str:
 
 _FOOT = '    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>\n  </div>\n</body>\n</html>\n'
 
+
+def _score_badge(score: int | None) -> str:
+    if not score:
+        return ""
+    if score >= 80:
+        bg, fg = "#2a0c0c", "#ff5555"
+    elif score >= 60:
+        bg, fg = "#201408", "#e89030"
+    elif score >= 40:
+        bg, fg = "#181808", "#c8b830"
+    else:
+        bg, fg = "#0c1420", "#5f7a96"
+    return (
+        f'<span class="entry-score" style="background:{bg};color:{fg}">'
+        f'{score}<span style="opacity:0.55;font-size:9px">pt</span></span>'
+    )
+
+
 _ENTRY = """\
         <li class="entry">
           <span class="entry-index">{index}</span>
           <div class="entry-body">
-            <h2 class="entry-title">{title}</h2>
+            <div class="entry-title-row">
+              <h2 class="entry-title">{title}</h2>
+              {score_badge}
+            </div>
             <p class="entry-summary">{summary}</p>
             <a class="entry-source" href="{url}" target="_blank" rel="noopener noreferrer">
               {source} <span aria-hidden="true">&#8599;</span>
@@ -421,6 +450,7 @@ def render_article_page(
         entries += _ENTRY.format(
             index=f"{i:02d}",
             title=html.escape(story.get("title_ja", "")),
+            score_badge=_score_badge(story.get("score")),
             summary=html.escape(story.get("summary_ja", "")),
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
