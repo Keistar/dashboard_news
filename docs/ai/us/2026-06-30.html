@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-06-30 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ARTIFICIAL INTELLIGENCE &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-06-30 &middot; 04:19 JST &middot; 6 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">OpenAI×BroadcomがAI推論チップ「Jalapeño」を発表</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">92<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">OpenAIとBroadcomが共同開発した初のカスタムAI推論チップ「Jalapeño」を公開した。わずか9カ月という前例のない開発サイクルで完成したreticleサイズのASICで、現行NvidiaGPU比で電力効率が大幅に向上する。2026年末の初期展開を目指しており、OpenAIが「フルスタック内製化」戦略を加速する第一弾として業界に衝撃を与えた。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank" rel="noopener noreferrer">
+                TechCrunch <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">AnthropicがAlibaba Qwen Labによる史上最大の蒸留攻撃を米上院に告発</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">88<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">Anthropicは、Alibaba傘下のQwen Labが2万5000の不正アカウントを使い2880万回ものClaude交流を生成しソフトウェアエンジニアリング能力を組織的に盗み取ったと米上院に告発した。この規模はDeepSeek・MiniMax・MoonshotAIによる従来の蒸留攻撃の合計を超え、米中AI知的財産戦争が新局面に入った。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://thenextweb.com/news/anthropic-accuses-alibaba-distillation-claude-qwen" target="_blank" rel="noopener noreferrer">
+                The Next Web <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">AppleがWWDC 2026で新Siri AIとiOS 27を発表</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">82<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">AppleはWWDC 2026でパーソナルコンテキスト対応の「Siri AI」を披露した。メッセージ・メール・写真から文脈を読み取り回答する大幅刷新版で、iOS 27ではApple IntelligenceがカレンダーやHomeにも拡大。レシート写真から割り勘を計算するAIや、侵害パスワードの自動更新機能など実用的な日常AIが充実した。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/" target="_blank" rel="noopener noreferrer">
+                Apple Newsroom <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">大手AI利用企業がAnthropicからDeepSeekへ移行—コスト効率化の大波</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">AIコストの急膨張を受け企業がモデル選択を見直している。Lindy CEOはAnthropicのClaudeからDeepSeekへ全トラフィックを移行し数百万ドルを節約したと公言した。「トークンマキシング」（コスト無制限のAI最大活用）から「効率重視型利用」への転換が業界全体に広がっており、AnthropicとOpenAIの収益成長モデルを揺るがしている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html" target="_blank" rel="noopener noreferrer">
+                CNBC <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">OpenAI推論エンジン「Sol」を7月にCerebras上で750トークン/秒提供</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">68<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">OpenAIは7月に高速推論エンジン「Sol」をCerebrasのウェーハスケールチップ上で限定リリースする計画を明らかにした。最大750トークン/秒という速度はエージェント型AIアプリケーションのレイテンシ課題を大幅に緩和し、AIエージェントの商業展開を一段と加速させる可能性がある。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.buildfastwithai.com/blogs/ai-news-today-june-29-2026" target="_blank" rel="noopener noreferrer">
+                Build Fast With AI <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">OpenAIパートナーネットワーク設立—1.5億ドル投資で30万人認定へ</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">62<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">OpenAIは企業向けAI普及を加速するため「OpenAI Partner Network」を正式発足させた。Select・Advanced・Eliteの3段階でコンサルタントやSIを認定し1.5億ドルを投じる。2026年末までに30万人の認定者獲得を目指すエコシステム構築は、マイクロソフト依存からの自立化と並行して進むOpenAIの事業拡大戦略の柱だ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.marketingprofs.com/opinions/2026/55130/ai-update-june-26-2026-ai-news-and-views-from-the-past-week" target="_blank" rel="noopener noreferrer">
+                MarketingProfs <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
