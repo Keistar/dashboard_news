@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-07-11 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #061614;
+    --line: #133858;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #50e4d0;
+    --signal: #33ccf5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; ARTIFICIAL INTELLIGENCE &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-07-11 &middot; 07:21 JST &middot; 4 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">OpenAI「ChatGPT Work」が7/9に一般公開—GPT-5.6 Sol搭載のスーパーアプリでClaude Coworkに正面対決</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">95<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">OpenAIが7月9日、ChatGPTとCodexを統合したオールインワン業務AIアプリ「ChatGPT Work」を一般公開した。GPT-5.6 Sol搭載でドキュメント・プレゼン・Webサイト作成、ネイティブ Computer Use、タスク自動スケジューリングを一本化。Pro/Enterprise/Eduから展開しPlus/Businessへ数日以内に拡大。Anthropicが1月に先行リリースしたClaude Coworkへの真っ向勝負で、ホワイトカラーAI業務ツール市場の覇権争いが最高潮に達した。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://money.usnews.com/investing/news/articles/2026-07-09/openai-launches-chatgpt-work" target="_blank" rel="noopener noreferrer">
+                US News / Engadget <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Claude Coworkがモバイル・Web展開—90%超のセッションがコーディング以外の業務・コンテンツ創作に活用</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">90<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">AnthropicはChatGPT Work発表と同日の7月9日、Claude CoworkのiOS/Android/Web版を正式公開した（Max $100/月プランから）。1.2百万セッションのデータ分析では、Cowork利用の90%以上がコーディング以外——業務オペレーション33%、コンテンツ制作が最多カテゴリ。Cowork使用量の2倍制限をさらに8月5日まで延長し、モバイルでの利用継続・非同期実行も実現した。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/" target="_blank" rel="noopener noreferrer">
+                TechCrunch / PYMNTS <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">GPT-5.6が7/9に全世界で一般公開—Sol/Terra/Luna、ChatGPT・Codex・APIで利用可能に</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">88<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">6月26日の限定プレビューから約2週間、米政府の安全審査を経てOpenAIのGPT-5.6ファミリー（Sol・Terra・Luna）が7月9日に全世界で一般公開された。SolはCerebras経由750tok/sの高速推論、Terr aはコスト半減の汎用、LunaはAPI最安の三層構成。GPT-5.6 Solのエージェントコーディング（DeepSWE等）での54%トークン効率向上が、ChatGPT Workのネイティブ Computer Use実現の基盤となっている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nextgov.com/artificial-intelligence/2026/07/openais-advanced-gpt-56-models-be-available-public/414651/" target="_blank" rel="noopener noreferrer">
+                Nextgov / FindSkill.ai <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">xAIがGrok 4.5を公開—1.5兆パラメータ・DeepSWE 62%・$2/$6/Mで主要モデル比60%安</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">82<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">xAIが7月8日にGrok 4.5を一般公開した。1.5兆パラメータのV9アーキテクチャ、Cursorの実際のセッションデータによるコーディング特化訓練を特徴とし、DeepSWE 1.0で62.0%（GPT-5.5の64.31%に肉薄）、Terminal Bench 2.1で83.3%を達成。$2/$6/M tokensという価格はOpus 4.8・GPT-5.5より60%以上安く、高ボリュームのエージェント処理で圧倒的なコスト優位性を持つ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.axios.com/2026/07/08/spacexai-grok-new-model" target="_blank" rel="noopener noreferrer">
+                Axios / xAI <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
