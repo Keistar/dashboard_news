@@ -14,11 +14,6 @@ Usage (Claude-dispatch mode — no API key required):
 
   Genres: ai, gadget, kosodate, beauty, food, health, pet, outdoor, bousai
 
-Rakuten affiliate:
-  Each story's product_keywords are rendered as Rakuten Ichiba search links.
-  Set RAKUTEN_AFFILIATE_ID (e.g. "xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx") to wrap
-  them as affiliate links; without it, plain search links are emitted.
-
   The --input JSON must follow the schema:
   {
     "<country_code>": [
@@ -27,8 +22,7 @@ Rakuten affiliate:
         "summary_ja": "string, 2-3 sentences",
         "source": "publication name",
         "url": "article URL",
-        "score": integer 1-100 (optional, relative impact for the day),
-        "product_keywords": ["楽天検索用キーワード", ...] (optional, 1-3 items)
+        "score": integer 1-100 (optional, relative impact for the day)
       },
       ...
     ],
@@ -46,7 +40,6 @@ import json
 import os
 import re
 import sys
-import urllib.parse
 from datetime import datetime, timedelta, timezone
 
 MAX_STORIES = 8
@@ -322,8 +315,7 @@ this schema:
           "summary_ja": "string, 2-3 sentences: what happened and why it matters",
           "source": "string, name of the original publication",
           "url": "string, direct URL to the original article",
-          "score": "integer 1-100, relative impact among today's stories",
-          "product_keywords": ["1-3 short Japanese search terms for related products buyable on Rakuten Ichiba (e.g. \"ポータブル電源\"); empty list if none fit"]
+          "score": "integer 1-100, relative impact among today's stories"
         }}
       ]
     }},
@@ -496,13 +488,6 @@ _CSS_BODY = """  body {
   .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
-  .entry-products { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
-  .entry-products-label { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
-  .product-chip {
-    font-size: 12px; color: var(--signal); text-decoration: none;
-    border: 1px solid var(--line); border-radius: 12px; padding: 2px 10px;
-  }
-  .product-chip:hover { border-color: var(--signal); }
   .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
@@ -589,31 +574,6 @@ def _score_badge(score: int | None) -> str:
     )
 
 
-def _rakuten_url(keyword: str) -> str:
-    search_url = "https://search.rakuten.co.jp/search/mall/" + urllib.parse.quote(keyword, safe="") + "/"
-    affiliate_id = os.environ.get("RAKUTEN_AFFILIATE_ID", "").strip()
-    if not affiliate_id:
-        return search_url
-    return (
-        f"https://hb.afl.rakuten.co.jp/hgc/{urllib.parse.quote(affiliate_id, safe='.')}/"
-        f"?pc={urllib.parse.quote(search_url, safe='')}"
-    )
-
-
-def _product_links(keywords) -> str:
-    if not isinstance(keywords, list):
-        return ""
-    chips = "".join(
-        f'<a class="product-chip" href="{html.escape(_rakuten_url(kw.strip()), quote=True)}" '
-        f'target="_blank" rel="sponsored noopener noreferrer">{html.escape(kw.strip())}</a>'
-        for kw in keywords[:3]
-        if isinstance(kw, str) and kw.strip()
-    )
-    if not chips:
-        return ""
-    return f'<div class="entry-products"><span class="entry-products-label mono">楽天で探す</span>{chips}</div>'
-
-
 _ENTRY = """\
         <li class="entry">
           <span class="entry-index">{index}</span>
@@ -629,7 +589,6 @@ _ENTRY = """\
               </a>
               {meta}
             </div>
-            {products}
           </div>
         </li>
 """
@@ -654,7 +613,6 @@ def render_article_page(
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
             meta="",
-            products=_product_links(story.get("product_keywords")),
         )
 
     return (
@@ -730,7 +688,6 @@ def render_genre_page(
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
             meta=meta,
-            products=_product_links(story.get("product_keywords")),
         )
 
     return (
