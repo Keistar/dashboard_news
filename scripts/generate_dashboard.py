@@ -631,6 +631,18 @@ def main() -> None:
             f.write(render_article_page(stories, date_str, time_str, country, genre_cfg))
         print(f"Wrote {len(stories)} stories to {article_path}")
 
+        # Rebuild country archive index from all dated pages (newest first)
+        dates = sorted(
+            (
+                os.path.basename(p)[:-5]
+                for p in glob.glob(f"{country_dir}/*.html")
+                if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.html", os.path.basename(p))
+            ),
+            reverse=True,
+        )
+        with open(f"{country_dir}/index.html", "w", encoding="utf-8") as f:
+            f.write(render_country_index(dates, country, genre_cfg))
+
         for story in stories:
             enriched = dict(story)
             enriched["_country_label_ja"] = country["label_ja"]
