@@ -30,6 +30,29 @@
 | `docs/index.html` | 生成されたダッシュボード本体（GitHub Pagesで公開） |
 | `requirements.txt` | 必要なPythonパッケージ（`anthropic` SDK） |
 
+## ジャンル
+
+| コード | ジャンル | 国 |
+|---|---|---|
+| `ai` | AI | 米・中・英・日・イスラエル・エストニア |
+| `gadget` | ガジェット | 米・日・韓・中・英・独 |
+| `kosodate` | 子育て | 日・米・韓・英・独・スウェーデン |
+| `beauty` | 美容・コスメ | 日・韓・米 |
+| `food` | 食品・グルメ | 日・韓・米 |
+| `health` | 健康・フィットネス | 日・米・英 |
+| `pet` | ペット | 日・米・英 |
+| `outdoor` | アウトドア | 日・米・韓 |
+| `bousai` | 防災 | 日・米・台湾 |
+
+手動生成: `python scripts/generate_dashboard.py --genre beauty --input stories.json [--date YYYY-MM-DD]`
+
+## 楽天アフィリエイト
+
+各記事の `product_keywords`（1〜3語）が「楽天で探す」リンクとして表示されます。
+環境変数 `RAKUTEN_AFFILIATE_ID` を設定するとアフィリエイトリンク
+（`hb.afl.rakuten.co.jp/hgc/<ID>/?pc=<楽天検索URL>`）になり、未設定なら通常の楽天検索リンクになります。
+GitHub Actionsで使う場合は **Settings → Secrets** に `RAKUTEN_AFFILIATE_ID` を登録してください。
+
 ## カスタマイズ
 
 - ニュース件数や検索回数の上限は `generate_dashboard.py` 冒頭の

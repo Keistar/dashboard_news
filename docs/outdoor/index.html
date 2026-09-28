@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — アウトドア</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #080e04;
+    --line: #18220a;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #7a9030;
+    --signal: #8aa040;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-products { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
+  .entry-products-label { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .product-chip {
+    font-size: 12px; color: var(--signal); text-decoration: none;
+    border: 1px solid var(--line); border-radius: 12px; padding: 2px 10px;
+  }
+  .product-chip:hover { border-color: var(--signal); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; OUTDOOR & CAMPING</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>
+    <div class="genre-hero">
+      <h1 class="genre-hero-title">アウトドア</h1>
+      <p class="genre-hero-sub mono">OUTDOOR & CAMPING</p>
+    </div>
+    <div class="meta-line mono">2026-09-28 &middot; 02:52 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ワークマン、断熱αウォームジャケット発表</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ワークマンが秋冬の新作「エックスシェルター断熱αウォームジャケット」を発表した。高コスパの防寒着として、キャンプやアウトドア層の注目を集めている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://campreview.jp/" target="_blank" rel="noopener noreferrer">
+                キャンプレビュー <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3%20%E9%98%B2%E5%AF%92/" target="_blank" rel="sponsored noopener noreferrer">ワークマン 防寒</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%80%E3%82%A6%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%20%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/" target="_blank" rel="sponsored noopener noreferrer">ダウンジャケット アウトドア</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ロゴスやキャプテンスタッグが秋の新ギア</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ロゴスの「Earth Craft 2層マグカップ280」やキャプテンスタッグの深型スクエアグリルプレートなど、秋キャンプ向けの新ギアが相次いで登場した。コールマンのタフスピードドームも人気だ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://campreview.jp/" target="_blank" rel="noopener noreferrer">
+                キャンプレビュー <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%83%E3%82%B0%20%E3%82%B0%E3%83%AA%E3%83%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">キャプテンスタッグ グリルプレート</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%82%B4%E3%82%B9%20%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97/" target="_blank" rel="sponsored noopener noreferrer">ロゴス マグカップ</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%B3%20%E3%83%86%E3%83%B3%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">コールマン テント</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">秋キャンプ向けガジェットに注目集まる</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">米Yanko Designは9月の秋キャンプ向けガジェット9選として、工具不要の焚き火台スタンドや多機能サバイバルキットなどを紹介した。軽量・コンパクトなギアの人気が続いている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.yankodesign.com/2026/09/26/9-fall-camping-gadgets-that-actually-earn-their-pack-weight-in-september-2026/" target="_blank" rel="noopener noreferrer">
+                Yanko Design <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E7%84%9A%E3%81%8D%E7%81%AB%E5%8F%B0/" target="_blank" rel="sponsored noopener noreferrer">焚き火台</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E9%9B%BB%E6%BA%90/" target="_blank" rel="sponsored noopener noreferrer">ポータブル電源</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ハイキング用外骨格や裸足シューズが新登場</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">45<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">米GearJunkieの新製品特集で、Hypershellのハイキング用外骨格やXeroの裸足トレイルランナー、Ortliebの防水パックなどが紹介された。テクノロジー系アウトドアギアが増えている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://gearjunkie.com/emerging-gear/emerging-gear-09-04-2026" target="_blank" rel="noopener noreferrer">
+                GearJunkie <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%AC%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA/" target="_blank" rel="sponsored noopener noreferrer">トレッキングシューズ</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E9%98%B2%E6%B0%B4%20%E3%82%B6%E3%83%83%E3%82%AF/" target="_blank" rel="sponsored noopener noreferrer">防水 ザック</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">韓国キャンプ市場、縮小局面に</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">40<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">韓国のキャンプ・グランピング市場は国内需要の減少とコスト増で縮小が続き、キャンプ世帯の年間支出は2022年の113万ウォンから2024年は79万ウォンに減った。一方で都市型キャンプ場の整備は進んでいる。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://moderncampground.com/asia/south-korea/south-koreas-camping-and-glamping-industry-faces-continued-market-slowdown" target="_blank" rel="noopener noreferrer">
+                Modern Campground <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">韓国 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%20%E3%83%81%E3%82%A7%E3%82%A2/" target="_blank" rel="sponsored noopener noreferrer">ピクニック チェア</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E3%83%86%E3%83%B3%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">ワンタッチテント</a></div>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

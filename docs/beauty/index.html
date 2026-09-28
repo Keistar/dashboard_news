@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 美容・コスメ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #140810;
+    --line: #2a1020;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #b0507a;
+    --signal: #c0608a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-products { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
+  .entry-products-label { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .product-chip {
+    font-size: 12px; color: var(--signal); text-decoration: none;
+    border: 1px solid var(--line); border-radius: 12px; padding: 2px 10px;
+  }
+  .product-chip:hover { border-color: var(--signal); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; BEAUTY & COSMETICS</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>
+    <div class="genre-hero">
+      <h1 class="genre-hero-title">美容・コスメ</h1>
+      <p class="genre-hero-sub mono">BEAUTY & COSMETICS</p>
+    </div>
+    <div class="meta-line mono">2026-09-28 &middot; 02:52 JST &middot; 6 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">9月の新作コスメ、プチプラ中心に続々</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">セザンヌのハイライトペンシルやラスティングステイリップ、KATEやメイベリンの新色など、3300円以下のプチプラ新作が9月に相次いで発売された。秋色アイシャドウとリップが今季の主役だ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cosme.net/feature/2026autumn-sep-2/" target="_blank" rel="noopener noreferrer">
+                アットコスメ <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%BB%E3%82%B6%E3%83%B3%E3%83%8C%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">セザンヌ ハイライト</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E7%A7%8B%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">秋 アイシャドウ パレット</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%83%E3%83%97/" target="_blank" rel="sponsored noopener noreferrer">ティントリップ</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">オリーブヤング×サンリオ、321品目のコラボ</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">65<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">韓国最大のヘルス&amp;ビューティーストア、オリーブヤングがサンリオと過去最大のコラボを9月30日まで展開している。韓国の街や食をモチーフにしたハローキティなどの美容・雑貨321品目をそろえた。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://essential-japan.com/news/sanrio-and-olive-young-announce-massive-321-product-k-beauty-collection/" target="_blank" rel="noopener noreferrer">
+                Essential Japan <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">韓国 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%20%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1/" target="_blank" rel="sponsored noopener noreferrer">サンリオ 韓国コスメ</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%83%A4%E3%83%B3%E3%82%B0%20%E4%BA%BA%E6%B0%97/" target="_blank" rel="sponsored noopener noreferrer">オリーブヤング 人気</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">デパコス秋新作、ポール&amp;ジョーやジルスチュアート</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ポール&amp;ジョー ボーテ、ジルスチュアート ビューティ、ディプティックなどデパコス各社が秋の新作を投入した。限定パレットやホリデー前の先行品が人気を集めている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cosme.net/feature/2026autumn-sep-1/" target="_blank" rel="noopener noreferrer">
+                アットコスメ <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%B8%E3%83%AB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%20%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/" target="_blank" rel="sponsored noopener noreferrer">ジルスチュアート アイシャドウ</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%9D%E3%83%BC%E3%83%AB%26%E3%82%B8%E3%83%A7%E3%83%BC%20%E4%B8%8B%E5%9C%B0/" target="_blank" rel="sponsored noopener noreferrer">ポール&amp;ジョー 下地</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">セフォラがTikTok Shopに参入</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">セフォラは9月19日から米国でTikTok Shop上の「Sephora Drop Shop」を試験開始した。先行したUltaに約半年遅れての参入で、SNS発の美容購買がさらに加速しそうだ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://wwd.com/beauty-industry-news/beauty-features/beauty-retailer-sephora-tiktok-shop-ulta-1239198664/" target="_blank" rel="noopener noreferrer">
+                WWD <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BA%E3%82%8A%E3%82%B3%E3%82%B9%E3%83%A1/" target="_blank" rel="sponsored noopener noreferrer">バズりコスメ</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%83%E3%83%97%E3%82%AA%E3%82%A4%E3%83%AB/" target="_blank" rel="sponsored noopener noreferrer">リップオイル</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">オリーブヤング、米国初のK-ビューティー祭典</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">オリーブヤングが看板イベント「OLIVE YOUNG FESTA」をロサンゼルスで初開催すると発表した。セフォラ500店での取り扱いに続き、米国市場での韓国コスメ攻勢を強めている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.prnewswire.com/news-releases/olive-young-brings-signature-k-beauty-festival-to-the-us-with-olive-young-festa-la-2026-302816371.html" target="_blank" rel="noopener noreferrer">
+                PR Newswire <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">韓国 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1%20%E3%82%BB%E3%83%83%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">韓国コスメ セット</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/CICA%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/" target="_blank" rel="sponsored noopener noreferrer">CICA クリーム</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">9月の注目新作、オラプレックス初のヘアスプレー</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">50<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">米NewBeautyの9月ローンチリストでは、オラプレックス初のヘアスプレーやメイクアップフォーエバー初のリップバームなどが注目を集めた。ヘアケアの高機能化が続いている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.newbeauty.com/view/launch-list-september-2026" target="_blank" rel="noopener noreferrer">
+                NewBeauty <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%A9%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9/" target="_blank" rel="sponsored noopener noreferrer">オラプレックス</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%98%E3%82%A2%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC/" target="_blank" rel="sponsored noopener noreferrer">ヘアスプレー</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0/" target="_blank" rel="sponsored noopener noreferrer">リップバーム</a></div>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

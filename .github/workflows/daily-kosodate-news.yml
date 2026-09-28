@@ -25,6 +25,7 @@ jobs:
       - name: Generate dashboard
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY_NEWS_US }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
         run: python scripts/generate_dashboard.py --genre kosodate
 
       - name: Commit and push updated dashboard

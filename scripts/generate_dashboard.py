@@ -10,7 +10,14 @@ Page structure:
 Usage (Claude-dispatch mode — no API key required):
   python scripts/generate_dashboard.py --genre tech --input stories.json
   python scripts/generate_dashboard.py --genre economy --input stories.json
-  python scripts/generate_dashboard.py --genre entertainment --input stories.json
+  python scripts/generate_dashboard.py --genre beauty --input stories.json
+
+  Genres: ai, gadget, kosodate, beauty, food, health, pet, outdoor, bousai
+
+Rakuten affiliate:
+  Each story's product_keywords are rendered as Rakuten Ichiba search links.
+  Set RAKUTEN_AFFILIATE_ID (e.g. "xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx") to wrap
+  them as affiliate links; without it, plain search links are emitted.
 
   The --input JSON must follow the schema:
   {
@@ -20,7 +27,8 @@ Usage (Claude-dispatch mode — no API key required):
         "summary_ja": "string, 2-3 sentences",
         "source": "publication name",
         "url": "article URL",
-        "score": integer 1-100 (optional, relative impact for the day)
+        "score": integer 1-100 (optional, relative impact for the day),
+        "product_keywords": ["楽天検索用キーワード", ...] (optional, 1-3 items)
       },
       ...
     ],
@@ -38,6 +46,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 
 MAX_STORIES = 8
@@ -131,6 +140,156 @@ GENRES = {
             {"code": "se", "label_ja": "スウェーデン", "label_en": "SE EDITION", "name_en": "Sweden"},
         ],
     },
+    "beauty": {
+        "label_ja": "美容・コスメ",
+        "label_en": "BEAUTY & COSMETICS",
+        "bg": "#140810",
+        "theme": [
+            {"line": "#2a1020", "amber": "#b0507a", "signal": "#c0608a"},
+            {"line": "#361428", "amber": "#e0709f", "signal": "#f080b0"},
+            {"line": "#421a32", "amber": "#f590ba", "signal": "#ffa0c8"},
+        ],
+        "system_prompt_intro": (
+            "You are a beauty and cosmetics news curator producing a daily briefing "
+            "for Japanese beauty shoppers. Use the web_search tool to "
+            "find the most significant beauty and cosmetics news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "new cosmetics and skincare launches, K-beauty and J-beauty trends, ingredient research, "
+            "beauty devices, brand and retail news, seasonal best-seller rankings"
+        ),
+        "user_message_ja": "美容・コスメ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+        ],
+    },
+    "food": {
+        "label_ja": "食品・グルメ",
+        "label_en": "FOOD & GOURMET",
+        "bg": "#140c04",
+        "theme": [
+            {"line": "#2a1a08", "amber": "#b08030", "signal": "#c09040"},
+            {"line": "#36220a", "amber": "#e0a840", "signal": "#f0b850"},
+            {"line": "#422a0e", "amber": "#f5c060", "signal": "#ffd070"},
+        ],
+        "system_prompt_intro": (
+            "You are a food and gourmet news curator producing a daily briefing "
+            "for Japanese food lovers who shop online. Use the web_search tool to "
+            "find the most significant food and gourmet news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "trending foods and sweets, new product launches, seasonal ingredients, "
+            "furusato nozei (hometown tax) return-gift trends, food prices and supply, food safety recalls"
+        ),
+        "user_message_ja": "食品・グルメ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+        ],
+    },
+    "health": {
+        "label_ja": "健康・フィットネス",
+        "label_en": "HEALTH & FITNESS",
+        "bg": "#040f12",
+        "theme": [
+            {"line": "#0a2028", "amber": "#2a90a8", "signal": "#30a0c0"},
+            {"line": "#0e2c36", "amber": "#40c0dc", "signal": "#50d0f0"},
+            {"line": "#123842", "amber": "#60d8f0", "signal": "#70e4ff"},
+        ],
+        "system_prompt_intro": (
+            "You are a health and fitness news curator producing a daily briefing "
+            "for health-conscious Japanese readers. Use the web_search tool to "
+            "find the most significant health, wellness and fitness news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "sleep, nutrition and gut-health research, supplements, fitness trends, "
+            "wearable health tech, public health advisories, diet and exercise studies"
+        ),
+        "user_message_ja": "健康・フィットネス分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
+        ],
+    },
+    "pet": {
+        "label_ja": "ペット",
+        "label_en": "PETS",
+        "bg": "#100c06",
+        "theme": [
+            {"line": "#241c10", "amber": "#a08050", "signal": "#b09060"},
+            {"line": "#302414", "amber": "#d0a870", "signal": "#e0b880"},
+            {"line": "#3c2c18", "amber": "#e8c090", "signal": "#f0d0a0"},
+        ],
+        "system_prompt_intro": (
+            "You are a pet news curator producing a daily briefing "
+            "for Japanese dog and cat owners. Use the web_search tool to "
+            "find the most significant pet-related news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "pet food launches and recalls, pet tech and gadgets, veterinary research, "
+            "pet insurance, animal welfare law, pet-friendly services and trends"
+        ),
+        "user_message_ja": "ペット分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
+        ],
+    },
+    "outdoor": {
+        "label_ja": "アウトドア",
+        "label_en": "OUTDOOR & CAMPING",
+        "bg": "#080e04",
+        "theme": [
+            {"line": "#18220a", "amber": "#7a9030", "signal": "#8aa040"},
+            {"line": "#1e2c0e", "amber": "#a8c040", "signal": "#b8d050"},
+            {"line": "#263612", "amber": "#c0d860", "signal": "#d0e870"},
+        ],
+        "system_prompt_intro": (
+            "You are an outdoor and camping news curator producing a daily briefing "
+            "for Japanese outdoor enthusiasts. Use the web_search tool to "
+            "find the most significant outdoor, camping and hiking news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "new camping and hiking gear, outdoor brand news, portable power stations, "
+            "seasonal outdoor trends, campsite and trail news, outdoor safety"
+        ),
+        "user_message_ja": "アウトドア・キャンプ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
+        ],
+    },
+    "bousai": {
+        "label_ja": "防災",
+        "label_en": "DISASTER PREPAREDNESS",
+        "bg": "#120606",
+        "theme": [
+            {"line": "#2a0e0e", "amber": "#b04040", "signal": "#c05050"},
+            {"line": "#361212", "amber": "#e06050", "signal": "#f07060"},
+            {"line": "#421818", "amber": "#f08070", "signal": "#ff9080"},
+        ],
+        "system_prompt_intro": (
+            "You are a disaster preparedness news curator producing a daily briefing "
+            "for Japanese households. Use the web_search tool to "
+            "find the most significant disaster and preparedness news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "earthquakes, typhoons and extreme weather, government preparedness guidance, "
+            "emergency supplies and stockpiling, evacuation and shelter news, disaster tech"
+        ),
+        "user_message_ja": "防災分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "countries": [
+            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+            {"code": "tw", "label_ja": "台湾",     "label_en": "TW EDITION", "name_en": "Taiwan"},
+        ],
+    },
 }
 
 
@@ -162,7 +321,9 @@ this schema:
           "title_ja": "string, <=40 characters, no trailing period",
           "summary_ja": "string, 2-3 sentences: what happened and why it matters",
           "source": "string, name of the original publication",
-          "url": "string, direct URL to the original article"
+          "url": "string, direct URL to the original article",
+          "score": "integer 1-100, relative impact among today's stories",
+          "product_keywords": ["1-3 short Japanese search terms for related products buyable on Rakuten Ichiba (e.g. \"ポータブル電源\"); empty list if none fit"]
         }}
       ]
     }},
@@ -335,6 +496,13 @@ _CSS_BODY = """  body {
   .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-products { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
+  .entry-products-label { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .product-chip {
+    font-size: 12px; color: var(--signal); text-decoration: none;
+    border: 1px solid var(--line); border-radius: 12px; padding: 2px 10px;
+  }
+  .product-chip:hover { border-color: var(--signal); }
   .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
@@ -421,6 +589,31 @@ def _score_badge(score: int | None) -> str:
     )
 
 
+def _rakuten_url(keyword: str) -> str:
+    search_url = "https://search.rakuten.co.jp/search/mall/" + urllib.parse.quote(keyword, safe="") + "/"
+    affiliate_id = os.environ.get("RAKUTEN_AFFILIATE_ID", "").strip()
+    if not affiliate_id:
+        return search_url
+    return (
+        f"https://hb.afl.rakuten.co.jp/hgc/{urllib.parse.quote(affiliate_id, safe='.')}/"
+        f"?pc={urllib.parse.quote(search_url, safe='')}"
+    )
+
+
+def _product_links(keywords) -> str:
+    if not isinstance(keywords, list):
+        return ""
+    chips = "".join(
+        f'<a class="product-chip" href="{html.escape(_rakuten_url(kw.strip()), quote=True)}" '
+        f'target="_blank" rel="sponsored noopener noreferrer">{html.escape(kw.strip())}</a>'
+        for kw in keywords[:3]
+        if isinstance(kw, str) and kw.strip()
+    )
+    if not chips:
+        return ""
+    return f'<div class="entry-products"><span class="entry-products-label mono">楽天で探す</span>{chips}</div>'
+
+
 _ENTRY = """\
         <li class="entry">
           <span class="entry-index">{index}</span>
@@ -436,6 +629,7 @@ _ENTRY = """\
               </a>
               {meta}
             </div>
+            {products}
           </div>
         </li>
 """
@@ -460,6 +654,7 @@ def render_article_page(
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
             meta="",
+            products=_product_links(story.get("product_keywords")),
         )
 
     return (
@@ -535,6 +730,7 @@ def render_genre_page(
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
             meta=meta,
+            products=_product_links(story.get("product_keywords")),
         )
 
     return (
@@ -596,7 +792,13 @@ def main() -> None:
         help="JSON file with stories (Claude-dispatch mode). "
              "When omitted, stories are fetched via the Anthropic API.",
     )
+    parser.add_argument(
+        "--date", metavar="YYYY-MM-DD",
+        help="Edition date for the article page (default: today in JST).",
+    )
     args = parser.parse_args()
+    if args.date and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", args.date):
+        parser.error("--date must be YYYY-MM-DD")
 
     genre_code = args.genre
     genre_cfg = GENRES[genre_code]
@@ -611,7 +813,7 @@ def main() -> None:
         sys.exit(1)
 
     now_jst = datetime.now(JST)
-    date_str = now_jst.strftime("%Y-%m-%d")
+    date_str = args.date or now_jst.strftime("%Y-%m-%d")
     time_str = now_jst.strftime("%H:%M JST")
 
     # Flatten stories from all countries, attaching country label and date for display

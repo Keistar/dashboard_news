@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 防災</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #120606;
+    --line: #2a0e0e;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #b04040;
+    --signal: #c05050;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-products { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
+  .entry-products-label { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .product-chip {
+    font-size: 12px; color: var(--signal); text-decoration: none;
+    border: 1px solid var(--line); border-radius: 12px; padding: 2px 10px;
+  }
+  .product-chip:hover { border-color: var(--signal); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; DISASTER PREPAREDNESS</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>
+    <div class="genre-hero">
+      <h1 class="genre-hero-title">防災</h1>
+      <p class="genre-hero-sub mono">DISASTER PREPAREDNESS</p>
+    </div>
+    <div class="meta-line mono">2026-09-28 &middot; 02:52 JST &middot; 4 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風26号が沖縄の南に、25号の被害も</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">9月27日時点で台風26号が沖縄の南にあり、最大瞬間風速45m/sと発表された。国交省は台風25号の被害状況を取りまとめており、今年は8月末までに23個と台風の発生が多い。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.mlit.go.jp/saigai/" target="_blank" rel="noopener noreferrer">
+                国土交通省 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E9%9B%BB%E6%BA%90/" target="_blank" rel="sponsored noopener noreferrer">ポータブル電源</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%83%E3%83%88/" target="_blank" rel="sponsored noopener noreferrer">防災セット</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E9%9D%9E%E5%B8%B8%E7%94%A8%20%E4%BF%9D%E5%AD%98%E6%B0%B4/" target="_blank" rel="sponsored noopener noreferrer">非常用 保存水</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">9月も台風シーズン、停電・断水対策を</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">65<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">日本気象協会は、今年は7月に熊本で震度7、8月に千葉で記録的大雨があったとして、台風シーズン中の停電・断水対策や備蓄の買い足し、家具の固定を呼びかけている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://tenki.jp/forecaster/s_ono/2026/09/01/40400.html" target="_blank" rel="noopener noreferrer">
+                tenki.jp <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E9%9D%9E%E5%B8%B8%E9%A3%9F%205%E5%B9%B4%E4%BF%9D%E5%AD%98/" target="_blank" rel="sponsored noopener noreferrer">非常食 5年保存</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E5%AE%B6%E5%85%B7%20%E8%BB%A2%E5%80%92%E9%98%B2%E6%AD%A2/" target="_blank" rel="sponsored noopener noreferrer">家具 転倒防止</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E6%98%93%E3%83%88%E3%82%A4%E3%83%AC/" target="_blank" rel="sponsored noopener noreferrer">簡易トイレ</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">FEMA、全米防災月間で備え呼びかけ</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">FEMAは9月の全米防災月間で「Americans Stand Ready」を掲げ、ペットを含む家族の避難計画づくりを呼びかけている。ハリケーンのピーク期に向け、発電機30万台超や食料700万食を備蓄している。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.fema.gov/press-release/20260901/fema-kicks-national-preparedness-month-2026-empowers-americans-stand-ready" target="_blank" rel="noopener noreferrer">
+                FEMA <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%9A%E3%83%83%E3%83%88%20%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA/" target="_blank" rel="sponsored noopener noreferrer">ペット 防災グッズ</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E7%99%BA%E9%9B%BB%E6%A9%9F%20%E5%AE%B6%E5%BA%AD%E7%94%A8/" target="_blank" rel="sponsored noopener noreferrer">発電機 家庭用</a></div>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台湾、全国で地震・津波警報訓練</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">50<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">台湾は国家防災日に合わせ、全国の携帯電話に地震速報と津波警報のテスト配信を行った。17.6万人の民間防災員を動員し、年末までに認定ボランティア20万人を目指す。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.taiwannews.com.tw/news/6443295" target="_blank" rel="noopener noreferrer">
+                Taiwan News <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">台湾 &middot; 2026-09-28</span>
+            </div>
+            <div class="entry-products"><span class="entry-products-label mono">楽天で探す</span><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E9%98%B2%E7%81%BD%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF/" target="_blank" rel="sponsored noopener noreferrer">防災リュック</a><a class="product-chip" href="https://search.rakuten.co.jp/search/mall/%E3%83%98%E3%83%AB%E3%83%A1%E3%83%83%E3%83%88%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF/" target="_blank" rel="sponsored noopener noreferrer">ヘルメット 折りたたみ</a></div>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>
