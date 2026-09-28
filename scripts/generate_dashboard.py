@@ -8,6 +8,8 @@ Page structure:
   docs/{genre}/{country}/{date}.html        — article page: daily stories
   docs/{genre}/{country}/{date}.json        — same stories as JSON
   docs/{genre}/latest.json                  — latest run, all countries, score-sorted
+  docs/index.json                           — catalog: genres, countries, available dates
+  docs/latest.json                          — every genre's latest stories combined
 
 Usage (Claude-dispatch mode — no API key required):
   python scripts/generate_dashboard.py --genre tech --input stories.json
@@ -756,6 +758,58 @@ def _write_json(path: str, data: dict) -> None:
         f.write("\n")
 
 
+def _read_json(path: str) -> dict | None:
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
+def write_top_index_json(generated_at: str) -> None:
+    """docs/index.json (genre catalog) and docs/latest.json (all genres' latest stories)."""
+    genres = []
+    all_stories = []
+    for gcode, g in GENRES.items():
+        latest = _read_json(f"docs/{gcode}/latest.json")
+        countries = []
+        for c in g["countries"]:
+            dates = sorted(
+                (
+                    os.path.basename(p)[:-5]
+                    for p in glob.glob(f"docs/{gcode}/{c['code']}/*.json")
+                    if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", os.path.basename(p))
+                ),
+                reverse=True,
+            )
+            countries.append({
+                "code": c["code"],
+                "label_ja": c["label_ja"],
+                "dates": dates,
+            })
+        genres.append({
+            "code": gcode,
+            "label_ja": g["label_ja"],
+            "label_en": g["label_en"],
+            "latest_date": latest.get("date") if latest else None,
+            "latest_story_count": len(latest.get("stories", [])) if latest else 0,
+            "latest_path": f"{gcode}/latest.json" if latest else None,
+            "countries": countries,
+        })
+        if latest:
+            for story in latest.get("stories", []):
+                all_stories.append({
+                    **story,
+                    "genre": gcode,
+                    "genre_label_ja": g["label_ja"],
+                    "date": latest.get("date"),
+                })
+
+    _write_json("docs/index.json", {"generated_at": generated_at, "genres": genres})
+    _write_json("docs/latest.json", {"generated_at": generated_at, "stories": all_stories})
+    print("Wrote docs/index.json and docs/latest.json")
+
+
 # ─── main ────────────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -865,6 +919,8 @@ def main() -> None:
     with open(top_index_path, "w", encoding="utf-8") as f:
         f.write(render_top_index())
     print(f"Wrote top index to {top_index_path}")
+
+    write_top_index_json(generated_at)
 
 
 if __name__ == "__main__":

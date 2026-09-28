@@ -52,6 +52,8 @@ HTMLと同時に、他サイトから使えるJSONも書き出します。
 
 - `docs/{genre}/{country}/{date}.json` — 国・日付ごとの記事
 - `docs/{genre}/latest.json` — そのジャンルの最新回（全国分をスコア順）
+- `docs/index.json` — 全ジャンルの一覧（ジャンル名、国、JSONがある日付、最新ファイルのパス）
+- `docs/latest.json` — 全ジャンルの最新記事をまとめたもの（各記事に `genre` / `genre_label_ja` / `date` 付き）
 
 GitHub Pages経由で `https://<ユーザー名>.github.io/<リポジトリ名>/ai/latest.json` のように取得できます。
 
