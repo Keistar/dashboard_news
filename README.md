@@ -46,6 +46,28 @@
 
 手動生成: `python scripts/generate_dashboard.py --genre beauty --input stories.json [--date YYYY-MM-DD]`
 
+## JSON出力
+
+HTMLと同時に、他サイトから使えるJSONも書き出します。
+
+- `docs/{genre}/{country}/{date}.json` — 国・日付ごとの記事
+- `docs/{genre}/latest.json` — そのジャンルの最新回（全国分をスコア順）
+
+GitHub Pages経由で `https://<ユーザー名>.github.io/<リポジトリ名>/ai/latest.json` のように取得できます。
+
+```json
+{
+  "genre": "ai", "genre_label_ja": "AI", "date": "2026-09-28",
+  "generated_at": "2026-09-28T23:25:36+09:00",
+  "stories": [
+    {"title_ja": "...", "summary_ja": "...", "source": "...", "url": "...", "score": 95,
+     "country": "us", "country_label_ja": "アメリカ"}
+  ]
+}
+```
+
+国・日付ごとのファイルは `country` / `country_label_ja` がトップレベルに入り、各記事には含まれません。
+
 ## カスタマイズ
 
 - ニュース件数や検索回数の上限は `generate_dashboard.py` 冒頭の

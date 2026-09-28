@@ -1,0 +1,31 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-29T08:09:11+09:00",
+  "stories": [
+    {
+      "title_ja": "DeepMind人材流出、ロンドンでVC争奪戦",
+      "summary_ja": "Google DeepMindの社員・元社員の独立が相次ぎ、ロンドンでは次の有力AIスタートアップを狙うVCの投資熱が高まっている。一方で「変化の速度が速すぎる」として研究者が退職する例も出ている。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing",
+      "score": 62
+    },
+    {
+      "title_ja": "英政府、AI安全で国際協調を表明",
+      "summary_ja": "AIが壊滅的被害をもたらし得るとの警告への対応が遅いと批判される中、英政府は他国と協力してAIの安全性に取り組むと表明した。議会人権合同委員会もAI普及に伴う人権リスクへの新法整備を求めている。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/britain-will-heed-warnings-over-ai-burnham-s-deputy-says",
+      "score": 50
+    },
+    {
+      "title_ja": "英国産AI調達へ1億ポンドの制度始動",
+      "summary_ja": "英政府のSovereign AIユニットは、NHS・防衛・計算効率・AIエージェントの安全性を対象に国内AI企業から調達する1億ポンドの制度を開始した。売上要件を撤廃し前払いやIP保持を認めるなど、スタートアップの参入障壁を下げている。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/100-million-competition-to-back-british-ai-companies-to-fix-public-services",
+      "score": 45
+    }
+  ]
+}

@@ -6,6 +6,8 @@ Page structure:
   docs/{genre}/index.html                   — genre page: country list
   docs/{genre}/{country}/index.html         — country page: date list (newest first)
   docs/{genre}/{country}/{date}.html        — article page: daily stories
+  docs/{genre}/{country}/{date}.json        — same stories as JSON
+  docs/{genre}/latest.json                  — latest run, all countries, score-sorted
 
 Usage (Claude-dispatch mode — no API key required):
   python scripts/generate_dashboard.py --genre tech --input stories.json
@@ -739,6 +741,21 @@ def render_top_index() -> str:
     )
 
 
+# ─── JSON export ──────────────────────────────────────────────────────────────
+
+STORY_FIELDS = ("title_ja", "summary_ja", "source", "url", "score")
+
+
+def _clean_story(story: dict) -> dict:
+    return {k: story[k] for k in STORY_FIELDS if story.get(k) not in (None, "")}
+
+
+def _write_json(path: str, data: dict) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
 # ─── main ────────────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -772,6 +789,7 @@ def main() -> None:
     now_jst = datetime.now(JST)
     date_str = args.date or now_jst.strftime("%Y-%m-%d")
     time_str = now_jst.strftime("%H:%M JST")
+    generated_at = now_jst.isoformat(timespec="seconds")
 
     # Flatten stories from all countries, attaching country label and date for display
     flat_stories: list[dict] = []
@@ -790,6 +808,18 @@ def main() -> None:
             f.write(render_article_page(stories, date_str, time_str, country, genre_cfg))
         print(f"Wrote {len(stories)} stories to {article_path}")
 
+        json_path = f"{country_dir}/{date_str}.json"
+        _write_json(json_path, {
+            "genre": genre_code,
+            "genre_label_ja": genre_cfg["label_ja"],
+            "country": code,
+            "country_label_ja": country["label_ja"],
+            "date": date_str,
+            "generated_at": generated_at,
+            "stories": [_clean_story(s) for s in stories],
+        })
+        print(f"Wrote {json_path}")
+
         # Rebuild country archive index from all dated pages (newest first)
         dates = sorted(
             (
@@ -804,6 +834,7 @@ def main() -> None:
 
         for story in stories:
             enriched = dict(story)
+            enriched["_country_code"] = code
             enriched["_country_label_ja"] = country["label_ja"]
             enriched["_date_str"] = date_str
             flat_stories.append(enriched)
@@ -816,6 +847,19 @@ def main() -> None:
     with open(genre_index_path, "w", encoding="utf-8") as f:
         f.write(render_genre_page(flat_stories, date_str, time_str, genre_cfg))
     print(f"Wrote genre index ({len(flat_stories)} stories) to {genre_index_path}")
+
+    latest_path = f"docs/{genre_code}/latest.json"
+    _write_json(latest_path, {
+        "genre": genre_code,
+        "genre_label_ja": genre_cfg["label_ja"],
+        "date": date_str,
+        "generated_at": generated_at,
+        "stories": [
+            {**_clean_story(s), "country": s["_country_code"], "country_label_ja": s["_country_label_ja"]}
+            for s in flat_stories
+        ],
+    })
+    print(f"Wrote {latest_path}")
 
     top_index_path = "docs/index.html"
     with open(top_index_path, "w", encoding="utf-8") as f:

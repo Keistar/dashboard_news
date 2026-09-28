@@ -1,0 +1,44 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-29T08:09:11+09:00",
+  "stories": [
+    {
+      "title_ja": "台風26号が沖縄の南に、25号の被害も",
+      "summary_ja": "9月27日時点で台風26号が沖縄の南にあり、最大瞬間風速45m/sと発表された。国交省は台風25号の被害状況を取りまとめており、今年は8月末までに23個と台風の発生が多い。",
+      "source": "国土交通省",
+      "url": "https://www.mlit.go.jp/saigai/",
+      "score": 85,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "9月も台風シーズン、停電・断水対策を",
+      "summary_ja": "日本気象協会は、今年は7月に熊本で震度7、8月に千葉で記録的大雨があったとして、台風シーズン中の停電・断水対策や備蓄の買い足し、家具の固定を呼びかけている。",
+      "source": "tenki.jp",
+      "url": "https://tenki.jp/forecaster/s_ono/2026/09/01/40400.html",
+      "score": 65,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "FEMA、全米防災月間で備え呼びかけ",
+      "summary_ja": "FEMAは9月の全米防災月間で「Americans Stand Ready」を掲げ、ペットを含む家族の避難計画づくりを呼びかけている。ハリケーンのピーク期に向け、発電機30万台超や食料700万食を備蓄している。",
+      "source": "FEMA",
+      "url": "https://www.fema.gov/press-release/20260901/fema-kicks-national-preparedness-month-2026-empowers-americans-stand-ready",
+      "score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "台湾、全国で地震・津波警報訓練",
+      "summary_ja": "台湾は国家防災日に合わせ、全国の携帯電話に地震速報と津波警報のテスト配信を行った。17.6万人の民間防災員を動員し、年末までに認定ボランティア20万人を目指す。",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6443295",
+      "score": 50,
+      "country": "tw",
+      "country_label_ja": "台湾"
+    }
+  ]
+}

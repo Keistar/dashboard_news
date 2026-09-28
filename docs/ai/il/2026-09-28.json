@@ -1,0 +1,24 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "il",
+  "country_label_ja": "イスラエル",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-29T08:09:11+09:00",
+  "stories": [
+    {
+      "title_ja": "イスラエルのスタートアップ、2日で11.6億ドル調達",
+      "summary_ja": "9月最初の2日間でイスラエル企業の調達額は11.6億ドルに達し、前年9月全体の約2倍となった。企業向けAIのWonderfulが5.5億ドル、AIセキュリティのAIR Securityが5000万ドルを調達するなど、AI関連に資金が集中している。",
+      "source": "Ctech",
+      "url": "https://www.calcalistech.com/ctechnews/article/hjvc16uoge",
+      "score": 55
+    },
+    {
+      "title_ja": "イスラエル政府、AIチャットボット向け情報発信",
+      "summary_ja": "外国代理人登録によると、イスラエル政府は100万ドル規模の取り組みでAIチャットボットの回答に影響を与える目的のサイト「IsraelFact」を運営している。質問形式の記事を高頻度で量産しており、LLMへの情報操作として議論を呼んでいる。",
+      "source": "Israel-Palestine News",
+      "url": "https://israelpalestinenews.org/ai-emphasis-on-the-i-israel-is-funding-ai-chatbot-propaganda/",
+      "score": 40
+    }
+  ]
+}
