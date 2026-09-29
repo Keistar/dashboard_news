@@ -1,44 +1,44 @@
 {
   "genre": "pet",
   "genre_label_ja": "ペット",
-  "date": "2026-09-28",
-  "generated_at": "2026-09-29T08:09:11+09:00",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:18:34+09:00",
   "stories": [
     {
-      "title_ja": "いなば、秋の犬猫フード新商品を全国発売",
-      "summary_ja": "いなばペットフードが「ちゅ～る」シリーズやCIAOパウチなど、2026年秋の犬用・猫用新商品を全国で順次発売した。素材にこだわった多彩なラインアップをそろえている。",
+      "title_ja": "いなば、犬用の秋新商品を順次発売",
+      "summary_ja": "いなばペットフードが2026年秋の犬用新商品を発表。ちゅ〜るテリーヌやちゅ〜るジャーキー、関節の健康に配慮したクランキーなどが全国で順次発売される。",
       "source": "PR TIMES",
       "url": "https://prtimes.jp/main/html/rd/p/000000427.000058165.html",
+      "score": 70,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "猫用ちゅ〜る新ラインナップが登場",
+      "summary_ja": "いなばの2026年秋の猫用新商品として、歯と歯ぐきの健康に配慮した大容量ちゅ〜るや贅沢ちゅ〜る、だしゼリーなどが発売される。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000425.000058165.html",
       "score": 65,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米国で生食ドッグフードにサルモネラ回収",
-      "summary_ja": "米コネチカット州の生食ペットフードブランドOma's Prideが、サルモネラ汚染で犬用チキンレシピ639袋を自主回収した。犬3頭の発症報告があり、生食・フリーズドライ製品の回収が今年目立っている。",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91591717/pet-food-recall-2026-dogs-get-sick-in-latest-us-salmonella-scare",
+      "title_ja": "英RSPCA、猫の多頭保護が前年比67%増",
+      "summary_ja": "RSPCAは1件で10匹以上の猫が見つかる事案が1年で67%増えたと発表。子猫や妊娠猫も多く保護施設が逼迫している。",
+      "source": "Dog Desk Animal Action",
+      "url": "https://www.dogdeskanimalaction.co.uk/p/dog-desk-animal-action-global-animal-cd6",
+      "score": 65,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "生食ペットフードでリステリア等の回収",
+      "summary_ja": "Northwest Naturalsが猫用・犬用の冷凍生食フードをリステリアとサルモネラ陽性のため全米で自主回収。健康被害の報告は今のところない。",
+      "source": "KSNT",
+      "url": "https://www.ksnt.com/news/kansas/fda-reports-pet-food-recalled-nationwide-due-to-listeria-salmonella/",
       "score": 60,
       "country": "us",
       "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "山崎実業の犬猫用「nooks」シリーズ登場",
-      "summary_ja": "インテリア雑貨で人気の山崎実業から、犬猫用のペットシリーズ「nooks」が9月24日にペピイで発売された。部屋になじむデザインのペット用品として注目される。",
-      "source": "ペピイ",
-      "url": "https://www.peppynet.com/",
-      "score": 55,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英国、猫の交通事故報告義務化を検討",
-      "summary_ja": "英国では、犬と同様に猫をはねた運転者に報告を義務づける法改正を求める声が高まり、運輸省が新たな回答を示した。10月に期限を迎える議論が注目されている。",
-      "source": "AOL",
-      "url": "https://www.aol.co.uk/articles/dft-response-over-law-cat-055711000.html",
-      "score": 45,
-      "country": "gb",
-      "country_label_ja": "イギリス"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:18:34+09:00",
+  "stories": [
+    {
+      "title_ja": "台風26号、伊豆諸島は30日から荒天警戒",
+      "summary_ja": "強い台風26号(スリゲ)は日本の南を東北東へ進み、伊豆諸島では9月30日から10月1日に暴風や高波のおそれがある。本州は秋雨前線の雨に注意。",
+      "source": "ウェザーニュース",
+      "url": "https://weathernews.jp/news/202609/290061/",
+      "score": 80
+    },
+    {
+      "title_ja": "茨城県南部で震度4の地震",
+      "summary_ja": "9月29日4時45分頃、茨城県南部でM4.9、最大震度4の地震が発生した。津波の心配はない。備えの再確認を。",
+      "source": "tenki.jp",
+      "url": "https://earthquake.tenki.jp/lite/bousai/earthquake/detail/2026/09/29/2026-09-29-04-45-13.html",
+      "score": 70
+    }
+  ]
+}

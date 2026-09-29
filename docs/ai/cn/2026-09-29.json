@@ -1,0 +1,24 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:18:33+09:00",
+  "stories": [
+    {
+      "title_ja": "アリババ、AIチップZhenwu V900と超大型モデル計画",
+      "summary_ja": "アリババは雲栖大会で新AIチップZhenwu V900を発表した。前世代の3倍の性能で最大50万枚規模のクラスタに対応し、量産は2027年第1四半期の予定。5兆〜10兆パラメータ級モデルやQwen 4の開発計画も示した。",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-unveils-zhenwu-v900-ai-accelerator-claims-its-the-most-powerful-ai-chip-in-china-accelerator-supports-500-000-chip-supercluster-with-a-10t-parameter-qwen-model-on-the-roadmap",
+      "score": 85
+    },
+    {
+      "title_ja": "アリババクラウド、全スタックAIロードマップ",
+      "summary_ja": "Apsara Conferenceでチップからクラウド、モデル、エージェントまでの全スタック戦略を公開した。エージェント向けクラウドとスマホ用AIエージェント基盤、海外展開計画も含まれる。",
+      "source": "Alizila",
+      "url": "https://www.alizila.com/alibaba-clouds-2026-apsara-conference-full-stack-ai-roadmap-along-with-global-market-expansion-plan/",
+      "score": 72
+    }
+  ]
+}
