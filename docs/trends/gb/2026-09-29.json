@@ -1,0 +1,74 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:43:14+09:00",
+  "trends": [
+    {
+      "keyword": "Creatine gummies",
+      "reason_ja": "クレアチンのグミ型サプリが英国で急成長し、欧州では過去12カ月で製品数が50%増えた。",
+      "genre": "health",
+      "commercial_score": 85,
+      "product_keywords": [
+        "クレアチン グミ",
+        "クレアチン サプリ",
+        "プロテイン グミ"
+      ],
+      "trend_source": "Exploding Topics",
+      "articles": [
+        {
+          "title_ja": "クレアチングミの新製品が急増",
+          "summary_ja": "欧州でクレアチングミの製品数が1年で50%増え、英国は特に勢いのある国とされる。粉末から手軽なグミへの移行が進む一方、価格や配合量の見極めが課題だ。",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/01/16/creatine-gummy-npd-explodes-2026-set-to-sift-out-unsustainable-strategies/"
+        },
+        {
+          "title_ja": "英国初の2種フレーバーのクレアチングミ",
+          "summary_ja": "XO Fitnessが英国初となる2種類の味のクレアチングミを発売するなど、各社が英国市場に新製品を投入している。",
+          "source": "Retail Times",
+          "url": "https://retailtimes.co.uk/xo-fitness-launches-the-uks-first-dual-flavoured-creatine-gummies/"
+        }
+      ]
+    },
+    {
+      "keyword": "Korean skincare",
+      "reason_ja": "英国で「韓国スキンケア」「脂性肌向けスキンケア」の検索が前年比50%以上伸びている。ミセラーウォーターの需要も上昇している。",
+      "genre": "beauty",
+      "commercial_score": 75,
+      "product_keywords": [
+        "韓国コスメ スキンケア",
+        "ミセラーウォーター",
+        "脂性肌 化粧水"
+      ],
+      "trend_source": "Shopify UK",
+      "articles": [
+        {
+          "title_ja": "英国で売れる2026年のトレンド商品",
+          "summary_ja": "Shopifyの英国向け調査で、韓国スキンケアや脂性肌向けケアの検索増、アスレジャーやキトゥンヒールの人気が挙がった。",
+          "source": "Shopify UK",
+          "url": "https://www.shopify.com/uk/blog/trending-products"
+        }
+      ]
+    },
+    {
+      "keyword": "Viral beauty products",
+      "reason_ja": "メイベリンのスカイハイマスカラなど、SNSで話題の美容アイテムが英国で注目を集めている。",
+      "genre": "beauty",
+      "commercial_score": 60,
+      "product_keywords": [
+        "メイベリン スカイハイ",
+        "マスカラ ロング"
+      ],
+      "trend_source": "Stylist",
+      "articles": [
+        {
+          "title_ja": "2026年、本当に使えるバズりコスメ",
+          "summary_ja": "英Stylist誌が、話題に見合う実力のバイラル美容アイテムを紹介した。マスカラやスキンケアの定番品が並んでいる。",
+          "source": "Stylist",
+          "url": "https://www.stylist.co.uk/beauty/best-viral-beauty-products/1089196"
+        }
+      ]
+    }
+  ]
+}

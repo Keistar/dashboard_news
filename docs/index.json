@@ -1,5 +1,43 @@
 {
-  "generated_at": "2026-09-29T08:21:57+09:00",
+  "generated_at": "2026-09-29T15:43:14+09:00",
+  "trends": {
+    "code": "trends",
+    "label_ja": "トレンド",
+    "label_en": "TRENDING NOW",
+    "latest_date": "2026-09-29",
+    "latest_trend_count": 13,
+    "latest_path": "trends/latest.json",
+    "countries": [
+      {
+        "code": "jp",
+        "label_ja": "日本",
+        "dates": [
+          "2026-09-29"
+        ]
+      },
+      {
+        "code": "us",
+        "label_ja": "アメリカ",
+        "dates": [
+          "2026-09-29"
+        ]
+      },
+      {
+        "code": "gb",
+        "label_ja": "イギリス",
+        "dates": [
+          "2026-09-29"
+        ]
+      },
+      {
+        "code": "cn",
+        "label_ja": "中国",
+        "dates": [
+          "2026-09-29"
+        ]
+      }
+    ]
+  },
   "genres": [
     {
       "code": "ai",
@@ -10,15 +48,15 @@
       "latest_path": "ai/latest.json",
       "countries": [
         {
-          "code": "us",
-          "label_ja": "アメリカ",
+          "code": "jp",
+          "label_ja": "日本",
           "dates": [
             "2026-09-28"
           ]
         },
         {
-          "code": "cn",
-          "label_ja": "中国",
+          "code": "us",
+          "label_ja": "アメリカ",
           "dates": [
             "2026-09-28"
           ]
@@ -31,22 +69,8 @@
           ]
         },
         {
-          "code": "jp",
-          "label_ja": "日本",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
-          "code": "il",
-          "label_ja": "イスラエル",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
-          "code": "ee",
-          "label_ja": "エストニア",
+          "code": "cn",
+          "label_ja": "中国",
           "dates": [
             "2026-09-28"
           ]
@@ -62,13 +86,6 @@
       "latest_path": "gadget/latest.json",
       "countries": [
         {
-          "code": "us",
-          "label_ja": "アメリカ",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
@@ -76,15 +93,8 @@
           ]
         },
         {
-          "code": "kr",
-          "label_ja": "韓国",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
-          "code": "cn",
-          "label_ja": "中国",
+          "code": "us",
+          "label_ja": "アメリカ",
           "dates": [
             "2026-09-28"
           ]
@@ -97,8 +107,8 @@
           ]
         },
         {
-          "code": "de",
-          "label_ja": "ドイツ",
+          "code": "cn",
+          "label_ja": "中国",
           "dates": [
             "2026-09-28"
           ]
@@ -128,13 +138,6 @@
           ]
         },
         {
-          "code": "kr",
-          "label_ja": "韓国",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
@@ -142,15 +145,8 @@
           ]
         },
         {
-          "code": "de",
-          "label_ja": "ドイツ",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
-          "code": "se",
-          "label_ja": "スウェーデン",
+          "code": "cn",
+          "label_ja": "中国",
           "dates": []
         }
       ]
@@ -171,18 +167,21 @@
           ]
         },
         {
-          "code": "kr",
-          "label_ja": "韓国",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
             "2026-09-28"
           ]
+        },
+        {
+          "code": "gb",
+          "label_ja": "イギリス",
+          "dates": []
+        },
+        {
+          "code": "cn",
+          "label_ja": "中国",
+          "dates": []
         }
       ]
     },
@@ -202,18 +201,21 @@
           ]
         },
         {
-          "code": "kr",
-          "label_ja": "韓国",
-          "dates": [
-            "2026-09-28"
-          ]
-        },
-        {
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
             "2026-09-28"
           ]
+        },
+        {
+          "code": "gb",
+          "label_ja": "イギリス",
+          "dates": []
+        },
+        {
+          "code": "cn",
+          "label_ja": "中国",
+          "dates": []
         }
       ]
     },
@@ -245,6 +247,11 @@
           "dates": [
             "2026-09-28"
           ]
+        },
+        {
+          "code": "cn",
+          "label_ja": "中国",
+          "dates": []
         }
       ]
     },
@@ -276,6 +283,11 @@
           "dates": [
             "2026-09-28"
           ]
+        },
+        {
+          "code": "cn",
+          "label_ja": "中国",
+          "dates": []
         }
       ]
     },
@@ -302,11 +314,14 @@
           ]
         },
         {
-          "code": "kr",
-          "label_ja": "韓国",
-          "dates": [
-            "2026-09-28"
-          ]
+          "code": "gb",
+          "label_ja": "イギリス",
+          "dates": []
+        },
+        {
+          "code": "cn",
+          "label_ja": "中国",
+          "dates": []
         }
       ]
     },
@@ -333,11 +348,14 @@
           ]
         },
         {
-          "code": "tw",
-          "label_ja": "台湾",
-          "dates": [
-            "2026-09-28"
-          ]
+          "code": "gb",
+          "label_ja": "イギリス",
+          "dates": []
+        },
+        {
+          "code": "cn",
+          "label_ja": "中国",
+          "dates": []
         }
       ]
     }

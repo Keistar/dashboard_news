@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — トレンド</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0614;
+    --line: #201030;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #9060d0;
+    --signal: #a070e0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TRENDING NOW</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <a href="../index.html" class="back-link mono">&#8592; ジャンル一覧</a>
+    <div class="genre-hero">
+      <h1 class="genre-hero-title">トレンド</h1>
+      <p class="genre-hero-sub mono">TRENDING NOW</p>
+    </div>
+    <div class="meta-line mono">2026-09-29 &middot; 15:43 JST &middot; 13 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ポータブル電源</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">90<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">台風26号が沖縄の南に接近し、停電への備えとして関心が高まっている。 台風26号が沖縄の南にあり、最大瞬間風速45m/sと発表された。今年は台風の発生が多く、停電・断水への備えが呼びかけられている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.mlit.go.jp/saigai/" target="_blank" rel="noopener noreferrer">
+                国土交通省 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 防災</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://tenki.jp/forecaster/s_ono/2026/09/01/40400.html" target="_blank" rel="noopener noreferrer">9月も台風シーズン、停電・断水対策を — tenki.jp</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ふるさと納税 9月末</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">10月1日の返礼品基準の見直しを前に、9月30日で受付終了の返礼品への駆け込み寄付が増えている。 10月から指定基準が見直され、一部返礼品の取り扱い終了や寄付金額・内容量の変更が予定されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://furu-sato.com/magazine/42062/" target="_blank" rel="noopener noreferrer">
+                ふるさと納税ガイド <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; 食品・グルメ</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">PDRN toner</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">サーモン由来のDNA成分PDRNを使った韓国スキンケアが米国で急伸し、検索が6400%増えている。 PDRNはサケ由来のDNA断片で、再生ケア成分として韓国の美容クリニックから市販コスメに広がった。米国では18ブランド28品以上が展開されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.skincupid.us/blogs/news/what-is-pdrn-koreas-salmon-dna-skincare-guide-2026" target="_blank" rel="noopener noreferrer">
+                Skincupid <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 美容・コスメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://gravelai.com/trends/pdrn-salmon-dna-skincare" target="_blank" rel="noopener noreferrer">Medicube PDRN、累計5000万個を突破 — Gravel AI</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Creatine gummies</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">クレアチンのグミ型サプリが英国で急成長し、欧州では過去12カ月で製品数が50%増えた。 欧州でクレアチングミの製品数が1年で50%増え、英国は特に勢いのある国とされる。粉末から手軽なグミへの移行が進む一方、価格や配合量の見極めが課題だ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nutraingredients.com/Article/2026/01/16/creatine-gummy-npd-explodes-2026-set-to-sift-out-unsustainable-strategies/" target="_blank" rel="noopener noreferrer">
+                NutraIngredients <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">イギリス &middot; 健康・フィットネス</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://retailtimes.co.uk/xo-fitness-launches-the-uks-first-dual-flavoured-creatine-gummies/" target="_blank" rel="noopener noreferrer">英国初の2種フレーバーのクレアチングミ — Retail Times</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Douyin makeup</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">中国のDouyin（抖音）発の「ドウインメイク」が2026年最大の美容トレンドとして世界に広がっている。 ガラス肌、グラデーションリップ、たれ目風アイが特徴のドウインメイクが世界的に流行している。チークを鼻筋や目の下に入れる大胆な使い方が特徴だ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.mirai-skin.com/blogs/news/douyin-makeup-the-chinese-beauty-trend-taking-over-2026" target="_blank" rel="noopener noreferrer">
+                Mirai Skin <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">中国 &middot; 美容・コスメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.globalsources.com/knowledge/chinese-makeup-trends/" target="_blank" rel="noopener noreferrer">Douyinで伸びる香水・AI家電・ペット用品 — Global Sources</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Xiaomi Smart Band 10</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">楽天のスマートウォッチランキングで1位となり、6千円台の低価格と長い電池持ちで売れている。 9月25日時点の楽天スマートウォッチ本体ランキングでXiaomi Smart Band 10が1位、HUAWEI Band 11が2位となった。低価格帯のバンド型が上位を占めている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.smartwatchlife.jp/81421/" target="_blank" rel="noopener noreferrer">
+                スマートウォッチライフ <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; ガジェット</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Korean skincare</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">英国で「韓国スキンケア」「脂性肌向けスキンケア」の検索が前年比50%以上伸びている。ミセラーウォーターの需要も上昇している。 Shopifyの英国向け調査で、韓国スキンケアや脂性肌向けケアの検索増、アスレジャーやキトゥンヒールの人気が挙がった。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.shopify.com/uk/blog/trending-products" target="_blank" rel="noopener noreferrer">
+                Shopify UK <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">イギリス &middot; 美容・コスメ</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Xiaomi 18 Pro</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">Snapdragon 8 Elite Gen 6を世界で初めて搭載したXiaomi 18 Proシリーズが発表され、話題になっている。 Xiaomi 18 Proは2nmのSnapdragon 8 Elite Gen 6を初搭載し、Pro Maxは最大8500mAhの電池を備える。年内にグローバル展開予定だ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-series-will-be-the-first-to-bring-both-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-to-market/" target="_blank" rel="noopener noreferrer">
+                Gizmochina <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">中国 &middot; ガジェット</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">09</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ワークマン 断熱ジャケット</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">秋冬の新作「エックスシェルター断熱αウォームジャケット」が発表され、高コスパの防寒着として注目されている。 ワークマンが2026年の新商品として「エックスシェルター断熱αウォームジャケット」を発表した。キャンプやアウトドア層の防寒需要を狙う。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://campreview.jp/" target="_blank" rel="noopener noreferrer">
+                キャンプレビュー <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">日本 &middot; アウトドア</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">10</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">National Coffee Day</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">9月29日の米ナショナル・コーヒー・デーに合わせ、ダンキンやクリスピー・クリームなどが無料・割引キャンペーンを実施している。 ダンキンのアプリ会員への無料コーヒーやティムホートンズの全サイズ無料など、9月29日に各チェーンがキャンペーンを展開する。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.today.com/food/restaurants/national-coffee-day-deals-2026-rcna593246" target="_blank" rel="noopener noreferrer">
+                TODAY <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; 食品・グルメ</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">11</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Barrel leg jeans</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">65<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">バレルレッグ（樽型）デニムが秋の定番として検索を伸ばしている。一方で、よりきれいめのデニムへの移行も指摘される。 腰回りが広く裾に向かって細くなるバレルレッグデニムは、賛否を経て2026年に定番化した。レザートップスなどすっきりした上半身と合わせるのがコツだという。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026" target="_blank" rel="noopener noreferrer">
+                Who What Wear <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アメリカ &middot; その他</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">12</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Viral beauty products</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">メイベリンのスカイハイマスカラなど、SNSで話題の美容アイテムが英国で注目を集めている。 英Stylist誌が、話題に見合う実力のバイラル美容アイテムを紹介した。マスカラやスキンケアの定番品が並んでいる。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.stylist.co.uk/beauty/best-viral-beauty-products/1089196" target="_blank" rel="noopener noreferrer">
+                Stylist <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">イギリス &middot; 美容・コスメ</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">13</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">国慶節ゴールデンウィーク</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">10月1〜7日の国慶節連休に7〜8億人の国内旅行が見込まれ、旅行・消費関連の検索が増えている。 2026年の国慶節連休は10月1日から7日までで、国内旅行は7〜8億人と見込まれる。北京では1日あたり最大480万人の人の出入りが予想されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.chinasimply.com/posts/china-golden-week-mid-autumn-2026-guide/" target="_blank" rel="noopener noreferrer">
+                ChinaSimply <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">中国 &middot; その他</span>
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

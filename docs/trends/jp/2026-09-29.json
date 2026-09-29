@@ -1,0 +1,95 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:43:14+09:00",
+  "trends": [
+    {
+      "keyword": "ポータブル電源",
+      "reason_ja": "台風26号が沖縄の南に接近し、停電への備えとして関心が高まっている。",
+      "genre": "bousai",
+      "commercial_score": 90,
+      "product_keywords": [
+        "ポータブル電源",
+        "ソーラーパネル 折りたたみ",
+        "LEDランタン 充電式"
+      ],
+      "trend_source": "台風情報・防災ニュース",
+      "articles": [
+        {
+          "title_ja": "台風26号が沖縄の南に、25号の被害も",
+          "summary_ja": "台風26号が沖縄の南にあり、最大瞬間風速45m/sと発表された。今年は台風の発生が多く、停電・断水への備えが呼びかけられている。",
+          "source": "国土交通省",
+          "url": "https://www.mlit.go.jp/saigai/"
+        },
+        {
+          "title_ja": "9月も台風シーズン、停電・断水対策を",
+          "summary_ja": "日本気象協会は、台風シーズン中の停電・断水対策や備蓄の買い足し、家具の固定を今のうちに済ませるよう呼びかけている。",
+          "source": "tenki.jp",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/09/01/40400.html"
+        }
+      ]
+    },
+    {
+      "keyword": "ふるさと納税 9月末",
+      "reason_ja": "10月1日の返礼品基準の見直しを前に、9月30日で受付終了の返礼品への駆け込み寄付が増えている。",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ふるさと納税 うなぎ",
+        "ふるさと納税 シャインマスカット",
+        "ふるさと納税 カニ"
+      ],
+      "trend_source": "ふるさと納税各サイトのランキング",
+      "articles": [
+        {
+          "title_ja": "ふるさと納税が10月から改悪、内容量変更も",
+          "summary_ja": "10月から指定基準が見直され、一部返礼品の取り扱い終了や寄付金額・内容量の変更が予定されている。",
+          "source": "ふるさと納税ガイド",
+          "url": "https://furu-sato.com/magazine/42062/"
+        }
+      ]
+    },
+    {
+      "keyword": "Xiaomi Smart Band 10",
+      "reason_ja": "楽天のスマートウォッチランキングで1位となり、6千円台の低価格と長い電池持ちで売れている。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Xiaomi Smart Band 10",
+        "スマートバンド",
+        "スマートウォッチ 睡眠"
+      ],
+      "trend_source": "楽天市場ランキング",
+      "articles": [
+        {
+          "title_ja": "Xiaomi Smart Band 10、楽天で売れ筋1位",
+          "summary_ja": "9月25日時点の楽天スマートウォッチ本体ランキングでXiaomi Smart Band 10が1位、HUAWEI Band 11が2位となった。低価格帯のバンド型が上位を占めている。",
+          "source": "スマートウォッチライフ",
+          "url": "https://www.smartwatchlife.jp/81421/"
+        }
+      ]
+    },
+    {
+      "keyword": "ワークマン 断熱ジャケット",
+      "reason_ja": "秋冬の新作「エックスシェルター断熱αウォームジャケット」が発表され、高コスパの防寒着として注目されている。",
+      "genre": "outdoor",
+      "commercial_score": 70,
+      "product_keywords": [
+        "ワークマン 防寒",
+        "ダウンジャケット メンズ",
+        "アウトドア ジャケット"
+      ],
+      "trend_source": "キャンプ・アウトドアメディア",
+      "articles": [
+        {
+          "title_ja": "ワークマン、断熱αウォームジャケット発表",
+          "summary_ja": "ワークマンが2026年の新商品として「エックスシェルター断熱αウォームジャケット」を発表した。キャンプやアウトドア層の防寒需要を狙う。",
+          "source": "キャンプレビュー",
+          "url": "https://campreview.jp/"
+        }
+      ]
+    }
+  ]
+}

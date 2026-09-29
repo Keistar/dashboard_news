@@ -9,7 +9,8 @@ Page structure:
   docs/{genre}/{country}/{date}.json        — same stories as JSON
   docs/{genre}/latest.json                  — latest run, all countries, score-sorted
   docs/index.json                           — catalog: genres, countries, available dates
-  docs/latest.json                          — every genre's latest stories combined
+  docs/latest.json                          — every genre's latest stories + trends combined
+  docs/trends/...                           — trend-word feed (same layout as a genre)
 
 Usage (Claude-dispatch mode — no API key required):
   python scripts/generate_dashboard.py --genre tech --input stories.json
@@ -17,6 +18,7 @@ Usage (Claude-dispatch mode — no API key required):
   python scripts/generate_dashboard.py --genre beauty --input stories.json
 
   Genres: ai, gadget, kosodate, beauty, food, health, pet, outdoor, bousai
+  Countries (all genres): jp, us, gb, cn
 
   The --input JSON must follow the schema:
   {
@@ -32,6 +34,23 @@ Usage (Claude-dispatch mode — no API key required):
     ],
     ...
   }
+
+Trends feed (--genre trends, --input required):
+  {
+    "<country_code>": [
+      {
+        "keyword": "trending search term",
+        "reason_ja": "why it is trending (1 sentence)",
+        "genre": "one of the genre codes above, or \"other\"",
+        "commercial_score": integer 1-100 (how easily it maps to products),
+        "brand_safe": true | false (false = dropped: deaths, crime, disasters, politics),
+        "product_keywords": ["product search term", ...] (1-3),
+        "trend_source": "where the trend was observed",
+        "articles": [{"title_ja", "summary_ja", "source", "url"}, ...] (1-3)
+      }
+    ]
+  }
+  Output: docs/trends/{country}/{date}.html|json, docs/trends/latest.json
 
 Legacy (API mode — requires ANTHROPIC_API_KEY):
   python scripts/generate_dashboard.py --genre tech
@@ -50,6 +69,15 @@ MAX_STORIES = 8
 MAX_RETRIES = 3
 
 JST = timezone(timedelta(hours=9))
+
+# Every genre (and the trends feed) covers the same four countries.
+# Japan is the primary market; US/UK/China act as leading indicators.
+COUNTRIES = [
+    {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
+    {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
+    {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
+    {"code": "cn", "label_ja": "中国",     "label_en": "CN EDITION", "name_en": "China"},
+]
 
 GENRES = {
     "ai": {
@@ -72,14 +100,7 @@ GENRES = {
             "AI regulation, notable research papers, key personnel moves"
         ),
         "user_message_ja": "AI業界の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "us", "label_ja": "アメリカ",   "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "cn", "label_ja": "中国",       "label_en": "CN EDITION", "name_en": "China"},
-            {"code": "gb", "label_ja": "イギリス",   "label_en": "GB EDITION", "name_en": "United Kingdom"},
-            {"code": "jp", "label_ja": "日本",       "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "il", "label_ja": "イスラエル", "label_en": "IL EDITION", "name_en": "Israel"},
-            {"code": "ee", "label_ja": "エストニア", "label_en": "EE EDITION", "name_en": "Estonia"},
-        ],
+        "countries": COUNTRIES,
     },
     "gadget": {
         "label_ja": "ガジェット",
@@ -100,14 +121,7 @@ GENRES = {
             "audio gear, gaming hardware, drones, EV and mobility gadgets"
         ),
         "user_message_ja": "ガジェット・家電の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
-            {"code": "cn", "label_ja": "中国",     "label_en": "CN EDITION", "name_en": "China"},
-            {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
-            {"code": "de", "label_ja": "ドイツ",   "label_en": "DE EDITION", "name_en": "Germany"},
-        ],
+        "countries": COUNTRIES,
     },
     "kosodate": {
         "label_ja": "子育て",
@@ -128,14 +142,7 @@ GENRES = {
             "family-friendly products, school systems, birth rate issues, child development research"
         ),
         "user_message_ja": "子育て・教育分野の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",         "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "us", "label_ja": "アメリカ",     "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "kr", "label_ja": "韓国",         "label_en": "KR EDITION", "name_en": "South Korea"},
-            {"code": "gb", "label_ja": "イギリス",     "label_en": "GB EDITION", "name_en": "United Kingdom"},
-            {"code": "de", "label_ja": "ドイツ",       "label_en": "DE EDITION", "name_en": "Germany"},
-            {"code": "se", "label_ja": "スウェーデン", "label_en": "SE EDITION", "name_en": "Sweden"},
-        ],
+        "countries": COUNTRIES,
     },
     "beauty": {
         "label_ja": "美容・コスメ",
@@ -156,11 +163,7 @@ GENRES = {
             "beauty devices, brand and retail news, seasonal best-seller rankings"
         ),
         "user_message_ja": "美容・コスメ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-        ],
+        "countries": COUNTRIES,
     },
     "food": {
         "label_ja": "食品・グルメ",
@@ -181,11 +184,7 @@ GENRES = {
             "furusato nozei (hometown tax) return-gift trends, food prices and supply, food safety recalls"
         ),
         "user_message_ja": "食品・グルメ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-        ],
+        "countries": COUNTRIES,
     },
     "health": {
         "label_ja": "健康・フィットネス",
@@ -206,11 +205,7 @@ GENRES = {
             "wearable health tech, public health advisories, diet and exercise studies"
         ),
         "user_message_ja": "健康・フィットネス分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
-        ],
+        "countries": COUNTRIES,
     },
     "pet": {
         "label_ja": "ペット",
@@ -231,11 +226,7 @@ GENRES = {
             "pet insurance, animal welfare law, pet-friendly services and trends"
         ),
         "user_message_ja": "ペット分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "gb", "label_ja": "イギリス", "label_en": "GB EDITION", "name_en": "United Kingdom"},
-        ],
+        "countries": COUNTRIES,
     },
     "outdoor": {
         "label_ja": "アウトドア",
@@ -256,11 +247,7 @@ GENRES = {
             "seasonal outdoor trends, campsite and trail news, outdoor safety"
         ),
         "user_message_ja": "アウトドア・キャンプ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "kr", "label_ja": "韓国",     "label_en": "KR EDITION", "name_en": "South Korea"},
-        ],
+        "countries": COUNTRIES,
     },
     "bousai": {
         "label_ja": "防災",
@@ -281,12 +268,26 @@ GENRES = {
             "emergency supplies and stockpiling, evacuation and shelter news, disaster tech"
         ),
         "user_message_ja": "防災分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": [
-            {"code": "jp", "label_ja": "日本",     "label_en": "JP EDITION", "name_en": "Japan"},
-            {"code": "us", "label_ja": "アメリカ", "label_en": "US EDITION", "name_en": "United States"},
-            {"code": "tw", "label_ja": "台湾",     "label_en": "TW EDITION", "name_en": "Taiwan"},
-        ],
+        "countries": COUNTRIES,
     },
+}
+
+# Trend-word feed: each item is a trending keyword with related articles.
+# Built only from an --input file (collected manually via web search).
+TRENDS_CODE = "trends"
+MAX_TRENDS = 10
+MAX_TREND_ARTICLES = 3
+MAX_PRODUCT_KEYWORDS = 3
+TRENDS = {
+    "label_ja": "トレンド",
+    "label_en": "TRENDING NOW",
+    "bg": "#0c0614",
+    "theme": [
+        {"line": "#201030", "amber": "#9060d0", "signal": "#a070e0"},
+        {"line": "#2a1440", "amber": "#b080f0", "signal": "#c090ff"},
+        {"line": "#341a50", "amber": "#c8a0ff", "signal": "#d8b0ff"},
+    ],
+    "countries": COUNTRIES,
 }
 
 
@@ -319,7 +320,9 @@ this schema:
           "summary_ja": "string, 2-3 sentences: what happened and why it matters",
           "source": "string, name of the original publication",
           "url": "string, direct URL to the original article",
-          "score": "integer 1-100, relative impact among today's stories"
+          "score": "integer 1-100, relative impact among today's stories",
+          "commercial_score": "integer 1-100, how directly the story leads to products Japanese shoppers can buy online",
+          "product_keywords": ["1-3 short Japanese product search terms related to the story; empty list if none fit"]
         }}
       ]
     }},
@@ -349,6 +352,53 @@ def load_stories_from_file(path: str, genre_cfg: dict) -> dict[str, list[dict]]:
         if not stories:
             print(f"Warning: no stories for {code} in {path}", file=sys.stderr)
         result[code] = stories
+    return result
+
+
+def _clamp_score(value) -> int | None:
+    try:
+        return max(1, min(100, int(value)))
+    except (TypeError, ValueError):
+        return None
+
+
+def _clean_keywords(value) -> list[str]:
+    if not isinstance(value, list):
+        return []
+    return [k.strip() for k in value if isinstance(k, str) and k.strip()][:MAX_PRODUCT_KEYWORDS]
+
+
+def load_trends_from_file(path: str) -> dict[str, list[dict]]:
+    """Read the trends input, dropping brand-unsafe items and normalising fields."""
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    result: dict[str, list[dict]] = {}
+    for c in TRENDS["countries"]:
+        code = c["code"]
+        trends = []
+        for item in data.get(code, []):
+            keyword = str(item.get("keyword", "")).strip()
+            if not keyword or item.get("brand_safe") is False:
+                continue
+            articles = [
+                _clean_story(a, ARTICLE_FIELDS)
+                for a in item.get("articles", [])[:MAX_TREND_ARTICLES]
+                if a.get("url")
+            ]
+            genre = item.get("genre")
+            trends.append({
+                "keyword": keyword,
+                "reason_ja": str(item.get("reason_ja", "")).strip(),
+                "genre": genre if genre in GENRES else "other",
+                "commercial_score": _clamp_score(item.get("commercial_score")),
+                "product_keywords": _clean_keywords(item.get("product_keywords")),
+                "trend_source": str(item.get("trend_source", "")).strip(),
+                "articles": articles,
+            })
+        trends.sort(key=lambda t: t["commercial_score"] or 0, reverse=True)
+        result[code] = trends[:MAX_TRENDS]
+        if not result[code]:
+            print(f"Warning: no trends for {code} in {path}", file=sys.stderr)
     return result
 
 
@@ -492,6 +542,10 @@ _CSS_BODY = """  body {
   .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
   .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
   .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
   /* nav list */
   ul.nav-list { list-style: none; margin: 0; padding: 0; }
@@ -593,6 +647,7 @@ _ENTRY = """\
               </a>
               {meta}
             </div>
+            {extra}
           </div>
         </li>
 """
@@ -604,9 +659,6 @@ def render_article_page(
     stories: list[dict], date_str: str, time_str: str,
     country: dict, genre_cfg: dict,
 ) -> str:
-    label_en = country["label_en"]
-    label_en_genre = genre_cfg["label_en"]
-
     entries = ""
     for i, story in enumerate(stories, start=1):
         entries += _ENTRY.format(
@@ -617,8 +669,17 @@ def render_article_page(
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
             meta="",
+            extra="",
         )
+    return _article_shell(entries, len(stories), date_str, time_str, country, genre_cfg)
 
+
+def _article_shell(
+    entries: str, count: int, date_str: str, time_str: str,
+    country: dict, genre_cfg: dict,
+) -> str:
+    label_en = country["label_en"]
+    label_en_genre = genre_cfg["label_en"]
     return (
         _head(f"AI WIRE — {date_str} — {label_en}", genre_cfg, depth=3)
         + '    <div class="masthead">\n'
@@ -632,7 +693,7 @@ def render_article_page(
         + '      <span class="breadcrumb-sep">/</span>\n'
         + '      <a href="index.html">日付一覧</a>\n'
         + '    </nav>\n'
-        + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {len(stories)} dispatches</div>\n'
+        + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {count} dispatches</div>\n'
         + '    <ul class="entries">\n'
         + entries
         + '    </ul>\n'
@@ -676,9 +737,6 @@ def render_country_index(dates: list[str], country: dict, genre_cfg: dict) -> st
 def render_genre_page(
     flat_stories: list[dict], date_str: str, time_str: str, genre_cfg: dict
 ) -> str:
-    label_ja = genre_cfg["label_ja"]
-    label_en = genre_cfg["label_en"]
-
     entries = ""
     for i, story in enumerate(flat_stories, start=1):
         country_label = story.get("_country_label_ja", "")
@@ -692,8 +750,14 @@ def render_genre_page(
             source=html.escape(story.get("source", "")),
             url=html.escape(story.get("url", "#"), quote=True),
             meta=meta,
+            extra="",
         )
+    return _genre_shell(entries, len(flat_stories), date_str, time_str, genre_cfg)
 
+
+def _genre_shell(entries: str, count: int, date_str: str, time_str: str, genre_cfg: dict) -> str:
+    label_ja = genre_cfg["label_ja"]
+    label_en = genre_cfg["label_en"]
     return (
         _head(f"AI WIRE — {label_ja}", genre_cfg, depth=1)
         + '    <div class="masthead">\n'
@@ -705,7 +769,7 @@ def render_genre_page(
         + f'      <h1 class="genre-hero-title">{label_ja}</h1>\n'
         + f'      <p class="genre-hero-sub mono">{label_en}</p>\n'
         + '    </div>\n'
-        + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {len(flat_stories)} dispatches</div>\n'
+        + f'    <div class="meta-line mono">{date_str} &middot; {time_str} &middot; {count} dispatches</div>\n'
         + '    <ul class="entries">\n'
         + entries
         + '    </ul>\n'
@@ -713,9 +777,49 @@ def render_genre_page(
     )
 
 
+def _trend_entry(i: int, trend: dict, meta: str) -> str:
+    articles = trend["articles"]
+    first = articles[0] if articles else {}
+    summary = " ".join(x for x in (trend["reason_ja"], first.get("summary_ja", "")) if x)
+    extra = ""
+    if len(articles) > 1:
+        extra = '<ul class="entry-more">' + "".join(
+            f'<li><a href="{html.escape(a["url"], quote=True)}" target="_blank" rel="noopener noreferrer">'
+            f'{html.escape(a.get("title_ja") or a["url"])}'
+            f'{" — " + html.escape(a["source"]) if a.get("source") else ""}</a></li>'
+            for a in articles[1:]
+        ) + "</ul>"
+    genre_label = GENRES[trend["genre"]]["label_ja"] if trend["genre"] in GENRES else "その他"
+    meta_html = f'<span class="entry-meta mono">{" &middot; ".join(x for x in (meta, genre_label) if x)}</span>'
+    return _ENTRY.format(
+        index=f"{i:02d}",
+        title=html.escape(trend["keyword"]),
+        score_badge=_score_badge(trend["commercial_score"]),
+        summary=html.escape(summary),
+        source=html.escape(first.get("source", "")),
+        url=html.escape(first.get("url", "#"), quote=True),
+        meta=meta_html,
+        extra=extra,
+    )
+
+
+def render_trends_article_page(
+    trends: list[dict], date_str: str, time_str: str, country: dict,
+) -> str:
+    entries = "".join(_trend_entry(i, t, "") for i, t in enumerate(trends, start=1))
+    return _article_shell(entries, len(trends), date_str, time_str, country, TRENDS)
+
+
+def render_trends_page(flat_trends: list[dict], date_str: str, time_str: str) -> str:
+    entries = "".join(
+        _trend_entry(i, t, t["_country_label_ja"]) for i, t in enumerate(flat_trends, start=1)
+    )
+    return _genre_shell(entries, len(flat_trends), date_str, time_str, TRENDS)
+
+
 def render_top_index() -> str:
     items = ""
-    for gcode, g in GENRES.items():
+    for gcode, g in {TRENDS_CODE: TRENDS, **GENRES}.items():
         color = g["theme"][0]["amber"]
         items += (
             '      <li class="nav-item">\n'
@@ -743,13 +847,35 @@ def render_top_index() -> str:
     )
 
 
+def _dated_files(directory: str, ext: str) -> list[str]:
+    """YYYY-MM-DD stems of the dated files in a directory, newest first."""
+    pattern = re.compile(rf"\d{{4}}-\d{{2}}-\d{{2}}\.{ext}")
+    return sorted(
+        (
+            os.path.basename(p)[: -len(ext) - 1]
+            for p in glob.glob(f"{directory}/*.{ext}")
+            if pattern.fullmatch(os.path.basename(p))
+        ),
+        reverse=True,
+    )
+
+
+def _rebuild_country_index(country_dir: str, country: dict, cfg: dict) -> None:
+    with open(f"{country_dir}/index.html", "w", encoding="utf-8") as f:
+        f.write(render_country_index(_dated_files(country_dir, "html"), country, cfg))
+
+
 # ─── JSON export ──────────────────────────────────────────────────────────────
 
-STORY_FIELDS = ("title_ja", "summary_ja", "source", "url", "score")
+STORY_FIELDS = (
+    "title_ja", "summary_ja", "source", "url", "score",
+    "commercial_score", "product_keywords",
+)
+ARTICLE_FIELDS = ("title_ja", "summary_ja", "source", "url")
 
 
-def _clean_story(story: dict) -> dict:
-    return {k: story[k] for k in STORY_FIELDS if story.get(k) not in (None, "")}
+def _clean_story(story: dict, fields: tuple[str, ...] = STORY_FIELDS) -> dict:
+    return {k: story[k] for k in fields if story.get(k) not in (None, "", [])}
 
 
 def _write_json(path: str, data: dict) -> None:
@@ -774,14 +900,7 @@ def write_top_index_json(generated_at: str) -> None:
         latest = _read_json(f"docs/{gcode}/latest.json")
         countries = []
         for c in g["countries"]:
-            dates = sorted(
-                (
-                    os.path.basename(p)[:-5]
-                    for p in glob.glob(f"docs/{gcode}/{c['code']}/*.json")
-                    if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", os.path.basename(p))
-                ),
-                reverse=True,
-            )
+            dates = _dated_files(f"docs/{gcode}/{c['code']}", "json")
             countries.append({
                 "code": c["code"],
                 "label_ja": c["label_ja"],
@@ -805,8 +924,31 @@ def write_top_index_json(generated_at: str) -> None:
                     "date": latest.get("date"),
                 })
 
-    _write_json("docs/index.json", {"generated_at": generated_at, "genres": genres})
-    _write_json("docs/latest.json", {"generated_at": generated_at, "stories": all_stories})
+    trends_latest = _read_json(f"docs/{TRENDS_CODE}/latest.json")
+    trends_entry = {
+        "code": TRENDS_CODE,
+        "label_ja": TRENDS["label_ja"],
+        "label_en": TRENDS["label_en"],
+        "latest_date": trends_latest.get("date") if trends_latest else None,
+        "latest_trend_count": len(trends_latest.get("trends", [])) if trends_latest else 0,
+        "latest_path": f"{TRENDS_CODE}/latest.json" if trends_latest else None,
+        "countries": [
+            {"code": c["code"], "label_ja": c["label_ja"],
+             "dates": _dated_files(f"docs/{TRENDS_CODE}/{c['code']}", "json")}
+            for c in TRENDS["countries"]
+        ],
+    }
+    all_trends = [
+        {**t, "date": trends_latest.get("date")}
+        for t in (trends_latest.get("trends", []) if trends_latest else [])
+    ]
+
+    _write_json("docs/index.json", {
+        "generated_at": generated_at, "trends": trends_entry, "genres": genres,
+    })
+    _write_json("docs/latest.json", {
+        "generated_at": generated_at, "trends": all_trends, "stories": all_stories,
+    })
     print("Wrote docs/index.json and docs/latest.json")
 
 
@@ -814,7 +956,7 @@ def write_top_index_json(generated_at: str) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate news dashboard for a genre.")
-    parser.add_argument("--genre", required=True, choices=list(GENRES.keys()))
+    parser.add_argument("--genre", required=True, choices=[TRENDS_CODE, *GENRES])
     parser.add_argument(
         "--input", metavar="FILE",
         help="JSON file with stories (Claude-dispatch mode). "
@@ -827,6 +969,12 @@ def main() -> None:
     args = parser.parse_args()
     if args.date and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", args.date):
         parser.error("--date must be YYYY-MM-DD")
+
+    if args.genre == TRENDS_CODE:
+        if not args.input:
+            parser.error("--genre trends requires --input")
+        run_trends(args.input, args.date)
+        return
 
     genre_code = args.genre
     genre_cfg = GENRES[genre_code]
@@ -874,17 +1022,7 @@ def main() -> None:
         })
         print(f"Wrote {json_path}")
 
-        # Rebuild country archive index from all dated pages (newest first)
-        dates = sorted(
-            (
-                os.path.basename(p)[:-5]
-                for p in glob.glob(f"{country_dir}/*.html")
-                if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.html", os.path.basename(p))
-            ),
-            reverse=True,
-        )
-        with open(f"{country_dir}/index.html", "w", encoding="utf-8") as f:
-            f.write(render_country_index(dates, country, genre_cfg))
+        _rebuild_country_index(country_dir, country, genre_cfg)
 
         for story in stories:
             enriched = dict(story)
@@ -915,12 +1053,72 @@ def main() -> None:
     })
     print(f"Wrote {latest_path}")
 
+    write_top_indexes(generated_at)
+
+
+def write_top_indexes(generated_at: str) -> None:
     top_index_path = "docs/index.html"
     with open(top_index_path, "w", encoding="utf-8") as f:
         f.write(render_top_index())
     print(f"Wrote top index to {top_index_path}")
-
     write_top_index_json(generated_at)
+
+
+def run_trends(input_path: str, date_arg: str | None) -> None:
+    try:
+        all_trends = load_trends_from_file(input_path)
+    except Exception as exc:
+        print(f"Failed to load trends: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    now_jst = datetime.now(JST)
+    date_str = date_arg or now_jst.strftime("%Y-%m-%d")
+    time_str = now_jst.strftime("%H:%M JST")
+    generated_at = now_jst.isoformat(timespec="seconds")
+
+    flat_trends: list[dict] = []
+    for country in TRENDS["countries"]:
+        code = country["code"]
+        trends = all_trends.get(code, [])
+        if not trends:
+            print(f"Skipping {code}: no trends", file=sys.stderr)
+            continue
+
+        country_dir = f"docs/{TRENDS_CODE}/{code}"
+        os.makedirs(country_dir, exist_ok=True)
+        with open(f"{country_dir}/{date_str}.html", "w", encoding="utf-8") as f:
+            f.write(render_trends_article_page(trends, date_str, time_str, country))
+        _write_json(f"{country_dir}/{date_str}.json", {
+            "feed": TRENDS_CODE,
+            "country": code,
+            "country_label_ja": country["label_ja"],
+            "date": date_str,
+            "generated_at": generated_at,
+            "trends": trends,
+        })
+        print(f"Wrote {len(trends)} trends to {country_dir}/{date_str}.html|json")
+        _rebuild_country_index(country_dir, country, TRENDS)
+
+        for t in trends:
+            flat_trends.append({**t, "_country_code": code, "_country_label_ja": country["label_ja"]})
+
+    flat_trends.sort(key=lambda t: t["commercial_score"] or 0, reverse=True)
+
+    with open(f"docs/{TRENDS_CODE}/index.html", "w", encoding="utf-8") as f:
+        f.write(render_trends_page(flat_trends, date_str, time_str))
+    _write_json(f"docs/{TRENDS_CODE}/latest.json", {
+        "feed": TRENDS_CODE,
+        "date": date_str,
+        "generated_at": generated_at,
+        "trends": [
+            {**{k: v for k, v in t.items() if not k.startswith("_")},
+             "country": t["_country_code"], "country_label_ja": t["_country_label_ja"]}
+            for t in flat_trends
+        ],
+    })
+    print(f"Wrote trends index ({len(flat_trends)} trends) and docs/{TRENDS_CODE}/latest.json")
+
+    write_top_indexes(generated_at)
 
 
 if __name__ == "__main__":

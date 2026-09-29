@@ -1,0 +1,74 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:43:14+09:00",
+  "trends": [
+    {
+      "keyword": "PDRN toner",
+      "reason_ja": "サーモン由来のDNA成分PDRNを使った韓国スキンケアが米国で急伸し、検索が6400%増えている。",
+      "genre": "beauty",
+      "commercial_score": 85,
+      "product_keywords": [
+        "PDRN 化粧水",
+        "medicube PDRN",
+        "韓国スキンケア 美容液"
+      ],
+      "trend_source": "Exploding Topics",
+      "articles": [
+        {
+          "title_ja": "韓国発のサーモンDNA美容「PDRN」とは",
+          "summary_ja": "PDRNはサケ由来のDNA断片で、再生ケア成分として韓国の美容クリニックから市販コスメに広がった。米国では18ブランド28品以上が展開されている。",
+          "source": "Skincupid",
+          "url": "https://www.skincupid.us/blogs/news/what-is-pdrn-koreas-salmon-dna-skincare-guide-2026"
+        },
+        {
+          "title_ja": "Medicube PDRN、累計5000万個を突破",
+          "summary_ja": "MedicubeのPDRNラインは発売から20カ月で世界累計5000万個を超えた。「肌の長寿（スキンロンジェビティ）」が2026年のキーワードになっている。",
+          "source": "Gravel AI",
+          "url": "https://gravelai.com/trends/pdrn-salmon-dna-skincare"
+        }
+      ]
+    },
+    {
+      "keyword": "National Coffee Day",
+      "reason_ja": "9月29日の米ナショナル・コーヒー・デーに合わせ、ダンキンやクリスピー・クリームなどが無料・割引キャンペーンを実施している。",
+      "genre": "food",
+      "commercial_score": 70,
+      "product_keywords": [
+        "コーヒー豆 おすすめ",
+        "コーヒーメーカー",
+        "ドリップバッグ"
+      ],
+      "trend_source": "Google Trends US",
+      "articles": [
+        {
+          "title_ja": "ナショナル・コーヒー・デー、各チェーンが無料配布",
+          "summary_ja": "ダンキンのアプリ会員への無料コーヒーやティムホートンズの全サイズ無料など、9月29日に各チェーンがキャンペーンを展開する。",
+          "source": "TODAY",
+          "url": "https://www.today.com/food/restaurants/national-coffee-day-deals-2026-rcna593246"
+        }
+      ]
+    },
+    {
+      "keyword": "Barrel leg jeans",
+      "reason_ja": "バレルレッグ（樽型）デニムが秋の定番として検索を伸ばしている。一方で、よりきれいめのデニムへの移行も指摘される。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "バレルレッグ デニム",
+        "ワイドデニム レディース"
+      ],
+      "trend_source": "Exploding Topics",
+      "articles": [
+        {
+          "title_ja": "バレルレッグデニム、2026年秋の着こなし",
+          "summary_ja": "腰回りが広く裾に向かって細くなるバレルレッグデニムは、賛否を経て2026年に定番化した。レザートップスなどすっきりした上半身と合わせるのがコツだという。",
+          "source": "Who What Wear",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026"
+        }
+      ]
+    }
+  ]
+}

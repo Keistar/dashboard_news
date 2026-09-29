@@ -32,19 +32,52 @@
 
 ## ジャンル
 
-| コード | ジャンル | 国 |
-|---|---|---|
-| `ai` | AI | 米・中・英・日・イスラエル・エストニア |
-| `gadget` | ガジェット | 米・日・韓・中・英・独 |
-| `kosodate` | 子育て | 日・米・韓・英・独・スウェーデン |
-| `beauty` | 美容・コスメ | 日・韓・米 |
-| `food` | 食品・グルメ | 日・韓・米 |
-| `health` | 健康・フィットネス | 日・米・英 |
-| `pet` | ペット | 日・米・英 |
-| `outdoor` | アウトドア | 日・米・韓 |
-| `bousai` | 防災 | 日・米・台湾 |
+対象国は全ジャンル共通で **日本・アメリカ・イギリス・中国（jp / us / gb / cn）** です。
+
+| コード | ジャンル |
+|---|---|
+| `ai` | AI |
+| `gadget` | ガジェット |
+| `kosodate` | 子育て |
+| `beauty` | 美容・コスメ |
+| `food` | 食品・グルメ |
+| `health` | 健康・フィットネス |
+| `pet` | ペット |
+| `outdoor` | アウトドア |
+| `bousai` | 防災 |
+
+以前の対象国（韓国・ドイツ・台湾など）の過去ページは `docs/` に残っていますが、新しくは生成されません。
 
 手動生成: `python scripts/generate_dashboard.py --genre beauty --input stories.json [--date YYYY-MM-DD]`
+
+## トレンド枠（`trends`）
+
+各国の「いま検索・話題になっているワード」を起点に、関連記事を集める枠です。定点ニュースのジャンルとは別に、手動で実行します。
+
+1. **候補を集める**
+   - 日本：「Google トレンド 急上昇」「Yahoo!リアルタイム検索」「楽天ランキング 急上昇」
+   - 米国：「Trending searches today US」
+   - 英国：「UK trending today」
+   - 中国：「Weibo hot search」「Douyin viral product」（Google トレンドの対象外）
+   - 通信できる環境なら、`python scripts/fetch_trends_rss.py --geo JP,US,GB` で Google トレンド RSS から候補ワードを取れます。
+2. **選別する**
+   - 各ワードに `commercial_score`（商品に結びつくほど高い、1〜100）と `product_keywords`（1〜3語）を付けます。
+   - 訃報・事件・事故・災害の被害・政治は `brand_safe: false` にします。スクリプトが自動で除外します。
+3. **関連記事を付ける**：ワードごとに1〜3本の記事を集めて、日本語で要約します。
+4. **生成する**：`python scripts/generate_dashboard.py --genre trends --input trends.json [--date YYYY-MM-DD]`
+
+入力の形式（国コードごとの配列）:
+```json
+{"jp": [{"keyword": "ポータブル電源", "reason_ja": "台風接近で検索急増", "genre": "bousai",
+         "commercial_score": 90, "brand_safe": true,
+         "product_keywords": ["ポータブル電源", "ソーラーパネル"], "trend_source": "Google Trends JP",
+         "articles": [{"title_ja": "...", "summary_ja": "...", "source": "...", "url": "..."}]}]}
+```
+`genre` には既存ジャンルのコードか `other` を入れます。1か国あたりスコアの高い順に最大10件、記事は3本まで、キーワードは3語までに切り詰めます。
+
+出力されるファイル:
+- `docs/trends/{country}/{date}.html` と `.json`
+- `docs/trends/latest.json`（全国分を `commercial_score` 順に並べたもの）
 
 ## JSON出力
 
@@ -52,8 +85,9 @@ HTMLと同時に、他サイトから使えるJSONも書き出します。
 
 - `docs/{genre}/{country}/{date}.json` — 国・日付ごとの記事
 - `docs/{genre}/latest.json` — そのジャンルの最新回（全国分をスコア順）
-- `docs/index.json` — 全ジャンルの一覧（ジャンル名、国、JSONがある日付、最新ファイルのパス）
-- `docs/latest.json` — 全ジャンルの最新記事をまとめたもの（各記事に `genre` / `genre_label_ja` / `date` 付き）
+- `docs/index.json` — 全ジャンルとトレンド枠の一覧（`trends` と `genres`。ジャンル名、国、JSONがある日付、最新ファイルのパス）
+- `docs/latest.json` — 最新のトレンド（`trends`）と全ジャンルの最新記事（`stories`）をまとめたもの。記事には `genre` / `genre_label_ja` / `date` が付きます
+- ジャンル記事にも、入力にあれば `commercial_score` と `product_keywords` が出力されます（任意）
 
 GitHub Pages経由で `https://<ユーザー名>.github.io/<リポジトリ名>/ai/latest.json` のように取得できます。
 
