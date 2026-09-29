@@ -1,0 +1,24 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:18:33+09:00",
+  "stories": [
+    {
+      "title_ja": "NTTドコモ、推薦AI技術とロードマップ公開",
+      "summary_ja": "NTTドコモは9月28日、過去データが乏しい環境でも高精度に予測できる推薦AI技術がACM RecSys 2026に採録されたと発表した。テクノロジーロードマップ2026も公開した。",
+      "source": "NTT",
+      "url": "https://group.ntt/jp/newsrelease/2026/",
+      "score": 55
+    },
+    {
+      "title_ja": "ソフトバンク、製造ロボ向けVLA基盤がGENIAC採択",
+      "summary_ja": "ソフトバンクの製造現場向けロボットVLA基盤モデルと遠隔支援システムの開発が、経産省とNEDOのGENIACに採択された。AIマネジメント規格ISO/IEC 42001の認証も取得した。",
+      "source": "ソフトバンク",
+      "url": "https://www.softbank.jp/biz/about/ai/",
+      "score": 50
+    }
+  ]
+}

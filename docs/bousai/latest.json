@@ -1,44 +1,44 @@
 {
   "genre": "bousai",
   "genre_label_ja": "防災",
-  "date": "2026-09-28",
-  "generated_at": "2026-09-29T08:09:11+09:00",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:18:34+09:00",
   "stories": [
     {
-      "title_ja": "台風26号が沖縄の南に、25号の被害も",
-      "summary_ja": "9月27日時点で台風26号が沖縄の南にあり、最大瞬間風速45m/sと発表された。国交省は台風25号の被害状況を取りまとめており、今年は8月末までに23個と台風の発生が多い。",
-      "source": "国土交通省",
-      "url": "https://www.mlit.go.jp/saigai/",
-      "score": 85,
+      "title_ja": "台風26号、伊豆諸島は30日から荒天警戒",
+      "summary_ja": "強い台風26号(スリゲ)は日本の南を東北東へ進み、伊豆諸島では9月30日から10月1日に暴風や高波のおそれがある。本州は秋雨前線の雨に注意。",
+      "source": "ウェザーニュース",
+      "url": "https://weathernews.jp/news/202609/290061/",
+      "score": 80,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "9月も台風シーズン、停電・断水対策を",
-      "summary_ja": "日本気象協会は、今年は7月に熊本で震度7、8月に千葉で記録的大雨があったとして、台風シーズン中の停電・断水対策や備蓄の買い足し、家具の固定を呼びかけている。",
+      "title_ja": "茨城県南部で震度4の地震",
+      "summary_ja": "9月29日4時45分頃、茨城県南部でM4.9、最大震度4の地震が発生した。津波の心配はない。備えの再確認を。",
       "source": "tenki.jp",
-      "url": "https://tenki.jp/forecaster/s_ono/2026/09/01/40400.html",
-      "score": 65,
+      "url": "https://earthquake.tenki.jp/lite/bousai/earthquake/detail/2026/09/29/2026-09-29-04-45-13.html",
+      "score": 70,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "FEMA、全米防災月間で備え呼びかけ",
-      "summary_ja": "FEMAは9月の全米防災月間で「Americans Stand Ready」を掲げ、ペットを含む家族の避難計画づくりを呼びかけている。ハリケーンのピーク期に向け、発電機30万台超や食料700万食を備蓄している。",
-      "source": "FEMA",
-      "url": "https://www.fema.gov/press-release/20260901/fema-kicks-national-preparedness-month-2026-empowers-americans-stand-ready",
+      "title_ja": "台湾で有感地震相次ぐ、花蓮沖M4.4",
+      "summary_ja": "9月27日に花蓮県沖でM4.4、22日に台南でM4.2の地震が発生。国家防災日の訓練後も備えの確認が呼びかけられている。",
+      "source": "UDN",
+      "url": "https://udn.com/weather/quake/000-20260925-010123",
       "score": 55,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "台湾、全国で地震・津波警報訓練",
-      "summary_ja": "台湾は国家防災日に合わせ、全国の携帯電話に地震速報と津波警報のテスト配信を行った。17.6万人の民間防災員を動員し、年末までに認定ボランティア20万人を目指す。",
-      "source": "Taiwan News",
-      "url": "https://www.taiwannews.com.tw/news/6443295",
-      "score": 50,
       "country": "tw",
       "country_label_ja": "台湾"
+    },
+    {
+      "title_ja": "FEMA週間情報、防災・復旧支援を更新",
+      "summary_ja": "FEMAは9月22日週の週報で各種支援と備えの情報を公表。2026年大西洋ハリケーンは平年以下の予測だが油断は禁物とされる。",
+      "source": "FEMA",
+      "url": "https://content.govdelivery.com/accounts/USDHSFEMA/bulletins/42bfddc",
+      "score": 50,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

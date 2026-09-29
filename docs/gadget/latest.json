@@ -1,107 +1,62 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-09-28",
-  "generated_at": "2026-09-29T08:09:11+09:00",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:18:34+09:00",
   "stories": [
     {
-      "title_ja": "Xiaomi 18 Pro発表、Snapdragon 8 Elite Gen 6初搭載",
-      "summary_ja": "Xiaomiは9月23日、2nmのSnapdragon 8 Elite Gen 6を世界初搭載した18 Proと、Extreme版を載せた18 Pro Maxを中国で発表した。2億画素のライカ製デュアルカメラ、最大8500mAhの電池、背面ディスプレイ復活が特徴で、年内にグローバル展開する。",
-      "source": "Gizmochina",
-      "url": "https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-series-will-be-the-first-to-bring-both-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-to-market/",
-      "score": 85,
+      "title_ja": "Honor Magic9、北京で発売",
+      "summary_ja": "Honorは9月28日、Magic9シリーズを北京で発表した。200MPのARRI監修メインカメラと望遠を備え、Pro Maxを初めて追加した。TSMC 2nmプロセスの端末は同社初とされる。",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526.php",
+      "score": 78,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "Meta、100gのVRグラスを発表",
-      "summary_ja": "Meta Connect 2026で、演算をテザー接続のパックに逃がした約100gの超軽量VRグラスが発表された。価格は1299.99ドルで2027年春発売、Snapdragon Reality Eliteを搭載し連続3時間の再生に対応する。",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
-      "score": 80,
+      "title_ja": "iPhone Duo予約とiPhone 18 Pro発売の反響",
+      "summary_ja": "AppleはiPhone 18 Proを9月18日に発売し、折りたたみのiPhone Duoは10月出荷で価格は2000ドル。折りたたみが話題を集め、18 Proのリードタイムも延びている。",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/surging-lead-times-for-iphone-18-pro-models-leaves-clue-for-duo-orders_id183475",
+      "score": 70,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Googlebook予約開始、899ドルから",
-      "summary_ja": "AndroidとChromeOSを融合しGeminiを中核に据えた新ノートPC「Googlebook」の予約が始まった。Acer・ASUS・Dell・HP・Lenovoが製品を投入し、米国では10月4日に発売、Google AI Pro 12カ月分が付属する。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "score": 75,
+      "title_ja": "iPhone 18 Pro、店頭に行列",
+      "summary_ja": "iPhone 18が世界で発売され、各地の店舗に行列ができた。カメラとバッテリーの改良が評価されている。",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/apples-iphone-18-goes-sale-customers-line-up-stores-worldwide",
+      "score": 60,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "カメラなしのRay-Ban Meta Audio登場",
-      "summary_ja": "Metaは初のカメラ非搭載スマートグラス「Ray-Ban Meta Audio」（349ドル）と、バッテリーを1時間延ばした第3世代Ray-Ban Meta（449ドル）を発表した。プライバシー懸念に配慮した選択肢として注目される。",
-      "source": "Meta",
-      "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/",
-      "score": 62,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Meta Ray-Ban Display、英国などで発売へ",
-      "summary_ja": "MetaはディスプレイAIグラス「Ray-Ban Display」の展開先を英国・カナダ・フランス・イタリア・ドイツに拡大すると発表した。ビデオ通話アバターや道案内など新機能も追加されている。",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
+      "title_ja": "Xperia 10 VIII、9月中旬以降に発売",
+      "summary_ja": "ソニーは8月25日にXperia 10 VIIIを発表し、9月中旬以降に順次発売する。ディスプレイは50%明るく、スピーカー音量は15%向上、決済アプリの呼び出し機能を備える。",
+      "source": "ビジネスインサイダー",
+      "url": "https://www.businessinsider.jp/article/2608-sony-xperia-10-viii-announce/",
       "score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "サムスン、One UI 9の世界展開を開始へ",
-      "summary_ja": "韓国で先行配信されたGalaxy向けOne UI 9安定版が、Z Fold 7にも配信開始され、今週から他国への展開が始まる見通しだ。9月21日の当初目標から延期が続いていた。",
-      "source": "Sammy Fans",
-      "url": "https://www.sammyfans.com/2026/09/26/samsungs-one-ui-9-stable-expansion-could-start-on-monday/",
-      "score": 50,
-      "country": "kr",
-      "country_label_ja": "韓国"
-    },
-    {
-      "title_ja": "Googlebook、英国で10月5日発売",
-      "summary_ja": "Googlebookは英国・アイルランドでも10月5日に店頭発売される。Android端末との連携とGemini統合を武器に、Windows・Macが中心の英国PC市場に挑む。",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/09/21/googlebook-launch/",
-      "score": 45,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "BOOX NoteAir6発売、PDF処理約4割高速化",
-      "summary_ja": "電子ペーパータブレットBOOX NoteAir6が9月21日に国内発売された。新プロセッサとAndroid 16によりPDF処理が約40%速くなり、価格は税込9万6800円。",
-      "source": "AI PICKS",
-      "url": "https://aipicks.jp/news/gadget",
-      "score": 40,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ドイツでもRay-Ban DisplayとGooglebook",
-      "summary_ja": "MetaのRay-Ban Displayがドイツでも発売予定となり、Googlebookも10月5日にドイツで発売される。IFA後の欧州市場で、AIグラスとAIノートPCの新カテゴリーが同時に立ち上がる。",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-googlebook-laptops-launch-features-models-price-specs-availability-3713215/",
-      "score": 40,
+      "title_ja": "Dyson、カメラ付き歯ブラシなど9製品を発表",
+      "summary_ja": "Dysonは9月3日のDyson Unveiledで9製品を公開した。ブラシ下に1mmカメラを備えるCameraJet歯ブラシや、緑色レーザーで液体を検知するロボット掃除機Spot+Scrub Aiを英国に投入する。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2250075/dyson-unveiled-ifa-2026-live-blog-camerajet/",
+      "score": 52,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "IFA 2026終了後のスマホ新製品と各種テスト",
+      "summary_ja": "Poco F9 Ultra/Proは185Hzディスプレイを搭載し、Redmi Buds 8 Proなどのテストも公開されている。ドイツ語圏の最新機器動向をまとめる。",
+      "source": "heise online",
+      "url": "https://www.heise.de/thema/Mobiles",
+      "score": 35,
       "country": "de",
       "country_label_ja": "ドイツ"
-    },
-    {
-      "title_ja": "ソニー、超望遠と魚眼の新Eマウントレンズ",
-      "summary_ja": "ソニーはFE 600mm F6.3 GM OSSとFE 8-14mm F3.5 Fisheye Gの2本を10月9日に発売すると発表した。軽量な超望遠GMと広角魚眼ズームでラインアップの穴を埋める。",
-      "source": "ソニー",
-      "url": "https://www.sony.jp/",
-      "score": 35,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Galaxy Tab S12、10月7日発表の観測",
-      "summary_ja": "サムスンのGalaxy Tab S12+とS12 Ultraは10月7日の発表が有力視されている。Dimensity 9500とOne UI 9を搭載し、ベース11インチモデルは今回も見送られる見込みだ。",
-      "source": "Gadget Hacks",
-      "url": "https://samsung.gadgethacks.com/news/samsung-galaxy-tab-s12-launch-date-oct-7-leak-explained/",
-      "score": 35,
-      "country": "kr",
-      "country_label_ja": "韓国"
     }
   ]
 }
