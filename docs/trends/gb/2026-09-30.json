@@ -1,0 +1,48 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "trends": [
+    {
+      "keyword": "heated airer",
+      "reason_ja": "秋の湿気と寒さを前に、電気式室内物干しの検索が前週比で約162%増えている。",
+      "genre": "other",
+      "commercial_score": 80,
+      "product_keywords": [
+        "heated airer",
+        "dehumidifier",
+        "smart thermostat"
+      ],
+      "trend_source": "UK product search trends",
+      "articles": [
+        {
+          "title_ja": "Aldiの完売常連、暖房付き物干しと除湿機が2026年も登場",
+          "summary_ja": "Aldiの直立型暖房付き物干しと除湿機が今年も販売される。物干しは冬に売り切れることが多い人気商品。",
+          "source": "Ideal Home",
+          "url": "https://www.idealhome.co.uk/house-manual/laundry/aldi-heated-airer-and-dehumidifier-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "dehumidifier",
+      "reason_ja": "カビや結露対策、室内干し需要で除湿機の検索が約61%増加している。",
+      "genre": "other",
+      "commercial_score": 78,
+      "product_keywords": [
+        "dehumidifier",
+        "desiccant dehumidifier"
+      ],
+      "trend_source": "UK product search trends",
+      "articles": [
+        {
+          "title_ja": "2026年9月の除湿機セール情報",
+          "summary_ja": "英消費者団体Which?が9月の除湿機の特価情報をまとめた。Ecoair DD1 Classic MK6の過去半年の平均価格は213ポンド。",
+          "source": "Which?",
+          "url": "https://www.which.co.uk/news/article/best-dehumidifier-deals-aCEmK0Z5Bvoo"
+        }
+      ]
+    }
+  ]
+}

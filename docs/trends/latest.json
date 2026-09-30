@@ -1,310 +1,199 @@
 {
   "feed": "trends",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:43:14+09:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
   "trends": [
     {
-      "keyword": "ポータブル電源",
-      "reason_ja": "台風26号が沖縄の南に接近し、停電への備えとして関心が高まっている。",
-      "genre": "bousai",
-      "commercial_score": 90,
-      "product_keywords": [
-        "ポータブル電源",
-        "ソーラーパネル 折りたたみ",
-        "LEDランタン 充電式"
-      ],
-      "trend_source": "台風情報・防災ニュース",
-      "articles": [
-        {
-          "title_ja": "台風26号が沖縄の南に、25号の被害も",
-          "summary_ja": "台風26号が沖縄の南にあり、最大瞬間風速45m/sと発表された。今年は台風の発生が多く、停電・断水への備えが呼びかけられている。",
-          "source": "国土交通省",
-          "url": "https://www.mlit.go.jp/saigai/"
-        },
-        {
-          "title_ja": "9月も台風シーズン、停電・断水対策を",
-          "summary_ja": "日本気象協会は、台風シーズン中の停電・断水対策や備蓄の買い足し、家具の固定を今のうちに済ませるよう呼びかけている。",
-          "source": "tenki.jp",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/09/01/40400.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "ふるさと納税 9月末",
-      "reason_ja": "10月1日の返礼品基準の見直しを前に、9月30日で受付終了の返礼品への駆け込み寄付が増えている。",
+      "keyword": "ふるさと納税 駆け込み",
+      "reason_ja": "10月1日のルール改定で募集経費の上限が引き下げられ、返礼品の減量や値上げが見込まれるため、9月中の寄付が注目されている。",
       "genre": "food",
       "commercial_score": 85,
       "product_keywords": [
         "ふるさと納税 うなぎ",
-        "ふるさと納税 シャインマスカット",
+        "ふるさと納税 米",
         "ふるさと納税 カニ"
       ],
-      "trend_source": "ふるさと納税各サイトのランキング",
+      "trend_source": "Google検索・ふるさと納税関連ニュース",
       "articles": [
         {
-          "title_ja": "ふるさと納税が10月から改悪、内容量変更も",
-          "summary_ja": "10月から指定基準が見直され、一部返礼品の取り扱い終了や寄付金額・内容量の変更が予定されている。",
-          "source": "ふるさと納税ガイド",
-          "url": "https://furu-sato.com/magazine/42062/"
+          "title_ja": "ふるさと納税、10月1日で返礼品が減る",
+          "summary_ja": "10月から自治体が事業に使える金額の割合が引き上げられ、募集経費の上限も段階的に下がる。返礼品の調達費が抑えられ、必要寄付額の値上げや内容量の削減が予想される。",
+          "source": "min-taxes",
+          "url": "https://min-taxes.com/column/furusato-nozei-2026-10-kaisei/"
+        },
+        {
+          "title_ja": "ふるさと納税 10月改定で人気品が消える可能性",
+          "summary_ja": "10月の改定により、人気の返礼品が掲載終了や内容変更になる可能性が指摘されている。お気に入りやカートに入れている返礼品は早めの見直しが勧められている。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/515b2a0c185ede922f601d12fd75ae059a33dd79"
+        },
+        {
+          "title_ja": "ふるさと納税の改悪はいつから？2026年10月のルール",
+          "summary_ja": "2026年10月から始まるふるさと納税のルール変更の内容と時期を整理した解説記事。",
+          "source": "ふるさとナビ",
+          "url": "https://www.furusona.jp/article/furusato-kaiaku-itsukara-2026"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "PDRN toner",
-      "reason_ja": "サーモン由来のDNA成分PDRNを使った韓国スキンケアが米国で急伸し、検索が6400%増えている。",
-      "genre": "beauty",
-      "commercial_score": 85,
+      "keyword": "heated airer",
+      "reason_ja": "秋の湿気と寒さを前に、電気式室内物干しの検索が前週比で約162%増えている。",
+      "genre": "other",
+      "commercial_score": 80,
       "product_keywords": [
-        "PDRN 化粧水",
-        "medicube PDRN",
-        "韓国スキンケア 美容液"
+        "heated airer",
+        "dehumidifier",
+        "smart thermostat"
       ],
-      "trend_source": "Exploding Topics",
+      "trend_source": "UK product search trends",
       "articles": [
         {
-          "title_ja": "韓国発のサーモンDNA美容「PDRN」とは",
-          "summary_ja": "PDRNはサケ由来のDNA断片で、再生ケア成分として韓国の美容クリニックから市販コスメに広がった。米国では18ブランド28品以上が展開されている。",
-          "source": "Skincupid",
-          "url": "https://www.skincupid.us/blogs/news/what-is-pdrn-koreas-salmon-dna-skincare-guide-2026"
-        },
-        {
-          "title_ja": "Medicube PDRN、累計5000万個を突破",
-          "summary_ja": "MedicubeのPDRNラインは発売から20カ月で世界累計5000万個を超えた。「肌の長寿（スキンロンジェビティ）」が2026年のキーワードになっている。",
-          "source": "Gravel AI",
-          "url": "https://gravelai.com/trends/pdrn-salmon-dna-skincare"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Creatine gummies",
-      "reason_ja": "クレアチンのグミ型サプリが英国で急成長し、欧州では過去12カ月で製品数が50%増えた。",
-      "genre": "health",
-      "commercial_score": 85,
-      "product_keywords": [
-        "クレアチン グミ",
-        "クレアチン サプリ",
-        "プロテイン グミ"
-      ],
-      "trend_source": "Exploding Topics",
-      "articles": [
-        {
-          "title_ja": "クレアチングミの新製品が急増",
-          "summary_ja": "欧州でクレアチングミの製品数が1年で50%増え、英国は特に勢いのある国とされる。粉末から手軽なグミへの移行が進む一方、価格や配合量の見極めが課題だ。",
-          "source": "NutraIngredients",
-          "url": "https://www.nutraingredients.com/Article/2026/01/16/creatine-gummy-npd-explodes-2026-set-to-sift-out-unsustainable-strategies/"
-        },
-        {
-          "title_ja": "英国初の2種フレーバーのクレアチングミ",
-          "summary_ja": "XO Fitnessが英国初となる2種類の味のクレアチングミを発売するなど、各社が英国市場に新製品を投入している。",
-          "source": "Retail Times",
-          "url": "https://retailtimes.co.uk/xo-fitness-launches-the-uks-first-dual-flavoured-creatine-gummies/"
+          "title_ja": "Aldiの完売常連、暖房付き物干しと除湿機が2026年も登場",
+          "summary_ja": "Aldiの直立型暖房付き物干しと除湿機が今年も販売される。物干しは冬に売り切れることが多い人気商品。",
+          "source": "Ideal Home",
+          "url": "https://www.idealhome.co.uk/house-manual/laundry/aldi-heated-airer-and-dehumidifier-2026"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Douyin makeup",
-      "reason_ja": "中国のDouyin（抖音）発の「ドウインメイク」が2026年最大の美容トレンドとして世界に広がっている。",
-      "genre": "beauty",
-      "commercial_score": 80,
+      "keyword": "dehumidifier",
+      "reason_ja": "カビや結露対策、室内干し需要で除湿機の検索が約61%増加している。",
+      "genre": "other",
+      "commercial_score": 78,
       "product_keywords": [
-        "中国コスメ",
-        "チーク クリーム",
-        "グラデーションリップ"
+        "dehumidifier",
+        "desiccant dehumidifier"
       ],
-      "trend_source": "Douyin / 美容メディア",
+      "trend_source": "UK product search trends",
       "articles": [
         {
-          "title_ja": "ドウインメイクとは、2026年の中国発トレンド",
-          "summary_ja": "ガラス肌、グラデーションリップ、たれ目風アイが特徴のドウインメイクが世界的に流行している。チークを鼻筋や目の下に入れる大胆な使い方が特徴だ。",
-          "source": "Mirai Skin",
-          "url": "https://www.mirai-skin.com/blogs/news/douyin-makeup-the-chinese-beauty-trend-taking-over-2026"
-        },
-        {
-          "title_ja": "Douyinで伸びる香水・AI家電・ペット用品",
-          "summary_ja": "Douyinでは美容以外にも香水、AI家電、ペット用品、ニッチな生活雑貨が伸びている。香水は過去1年で1億件超の注文があった。",
-          "source": "Global Sources",
-          "url": "https://www.globalsources.com/knowledge/chinese-makeup-trends/"
+          "title_ja": "2026年9月の除湿機セール情報",
+          "summary_ja": "英消費者団体Which?が9月の除湿機の特価情報をまとめた。Ecoair DD1 Classic MK6の過去半年の平均価格は213ポンド。",
+          "source": "Which?",
+          "url": "https://www.which.co.uk/news/article/best-dehumidifier-deals-aCEmK0Z5Bvoo"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Xiaomi Smart Band 10",
-      "reason_ja": "楽天のスマートウォッチランキングで1位となり、6千円台の低価格と長い電池持ちで売れている。",
+      "keyword": "スマートウォッチ",
+      "reason_ja": "楽天市場のスマートウォッチ本体ランキングで、低価格のバンド型やAI搭載モデルが上位に入り関心が高まっている。",
       "genre": "gadget",
       "commercial_score": 75,
       "product_keywords": [
-        "Xiaomi Smart Band 10",
+        "スマートウォッチ",
         "スマートバンド",
-        "スマートウォッチ 睡眠"
+        "REDMI Watch"
       ],
       "trend_source": "楽天市場ランキング",
       "articles": [
         {
-          "title_ja": "Xiaomi Smart Band 10、楽天で売れ筋1位",
-          "summary_ja": "9月25日時点の楽天スマートウォッチ本体ランキングでXiaomi Smart Band 10が1位、HUAWEI Band 11が2位となった。低価格帯のバンド型が上位を占めている。",
+          "title_ja": "【2026年9月】楽天で売れているスマートウォッチ",
+          "summary_ja": "9月18日時点の楽天スマートウォッチ本体ジャンルでは、AI機能搭載の2.08インチ大画面モデルが1位、キッズ向けが5位、REDMI Watch 6 Activeが6位だった。",
           "source": "スマートウォッチライフ",
-          "url": "https://www.smartwatchlife.jp/81421/"
+          "url": "https://www.smartwatchlife.jp/80954/"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Korean skincare",
-      "reason_ja": "英国で「韓国スキンケア」「脂性肌向けスキンケア」の検索が前年比50%以上伸びている。ミセラーウォーターの需要も上昇している。",
-      "genre": "beauty",
-      "commercial_score": 75,
+      "keyword": "国庆出游",
+      "reason_ja": "国慶節の大型連休を前に、故宮や九寨溝などの人気スポットのチケットが相次いで予約満了となっている。",
+      "genre": "other",
+      "commercial_score": 72,
       "product_keywords": [
-        "韓国コスメ スキンケア",
-        "ミセラーウォーター",
-        "脂性肌 化粧水"
+        "旅行 スーツケース",
+        "モバイルバッテリー",
+        "トラベルグッズ"
       ],
-      "trend_source": "Shopify UK",
+      "trend_source": "Weibo・中国ニュース",
       "articles": [
         {
-          "title_ja": "英国で売れる2026年のトレンド商品",
-          "summary_ja": "Shopifyの英国向け調査で、韓国スキンケアや脂性肌向けケアの検索増、アスレジャーやキトゥンヒールの人気が挙がった。",
-          "source": "Shopify UK",
-          "url": "https://www.shopify.com/uk/blog/trending-products"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Xiaomi 18 Pro",
-      "reason_ja": "Snapdragon 8 Elite Gen 6を世界で初めて搭載したXiaomi 18 Proシリーズが発表され、話題になっている。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "Xiaomi スマホ",
-        "Xiaomi 15T",
-        "スマホ SIMフリー"
-      ],
-      "trend_source": "Weibo / テックメディア",
-      "articles": [
+          "title_ja": "国慶節まで3日、各地の景勝地・博物館のチケットが予約満了",
+          "summary_ja": "国慶節連休の開始を前に、多くの景勝地や博物館のチケットが予約で埋まっている。",
+          "source": "光明網",
+          "url": "https://m.gmw.cn/2026-09/28/content_1304569041.htm"
+        },
         {
-          "title_ja": "Xiaomi 18 Pro、Snapdragon 8 Elite Gen 6を初搭載",
-          "summary_ja": "Xiaomi 18 Proは2nmのSnapdragon 8 Elite Gen 6を初搭載し、Pro Maxは最大8500mAhの電池を備える。年内にグローバル展開予定だ。",
-          "source": "Gizmochina",
-          "url": "https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-series-will-be-the-first-to-bring-both-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-to-market/"
+          "title_ja": "美団が2026年の秋の紅葉人気目的地を発表",
+          "summary_ja": "美団が国慶節・秋の行楽に向けて、人気の観光先や民宿の傾向を発表した。",
+          "source": "网易",
+          "url": "https://www.163.com/dy/article/L7UAJSAU0512D3VJ.html"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "ワークマン 断熱ジャケット",
-      "reason_ja": "秋冬の新作「エックスシェルター断熱αウォームジャケット」が発表され、高コスパの防寒着として注目されている。",
-      "genre": "outdoor",
-      "commercial_score": 70,
-      "product_keywords": [
-        "ワークマン 防寒",
-        "ダウンジャケット メンズ",
-        "アウトドア ジャケット"
-      ],
-      "trend_source": "キャンプ・アウトドアメディア",
-      "articles": [
-        {
-          "title_ja": "ワークマン、断熱αウォームジャケット発表",
-          "summary_ja": "ワークマンが2026年の新商品として「エックスシェルター断熱αウォームジャケット」を発表した。キャンプやアウトドア層の防寒需要を狙う。",
-          "source": "キャンプレビュー",
-          "url": "https://campreview.jp/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "National Coffee Day",
-      "reason_ja": "9月29日の米ナショナル・コーヒー・デーに合わせ、ダンキンやクリスピー・クリームなどが無料・割引キャンペーンを実施している。",
-      "genre": "food",
-      "commercial_score": 70,
-      "product_keywords": [
-        "コーヒー豆 おすすめ",
-        "コーヒーメーカー",
-        "ドリップバッグ"
-      ],
-      "trend_source": "Google Trends US",
-      "articles": [
-        {
-          "title_ja": "ナショナル・コーヒー・デー、各チェーンが無料配布",
-          "summary_ja": "ダンキンのアプリ会員への無料コーヒーやティムホートンズの全サイズ無料など、9月29日に各チェーンがキャンペーンを展開する。",
-          "source": "TODAY",
-          "url": "https://www.today.com/food/restaurants/national-coffee-day-deals-2026-rcna593246"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Barrel leg jeans",
-      "reason_ja": "バレルレッグ（樽型）デニムが秋の定番として検索を伸ばしている。一方で、よりきれいめのデニムへの移行も指摘される。",
+      "keyword": "barrel leg pants",
+      "reason_ja": "バレルレッグ（樽型）パンツ・ジーンズが2026年の主要トレンドとして検索が急増している。秋には後継の「チューリップジーンズ」も話題。",
       "genre": "other",
-      "commercial_score": 65,
+      "commercial_score": 70,
       "product_keywords": [
-        "バレルレッグ デニム",
-        "ワイドデニム レディース"
+        "barrel leg jeans",
+        "tulip jeans",
+        "wide leg pants"
       ],
-      "trend_source": "Exploding Topics",
+      "trend_source": "Exploding Topics / Google Trends US",
       "articles": [
         {
-          "title_ja": "バレルレッグデニム、2026年秋の着こなし",
-          "summary_ja": "腰回りが広く裾に向かって細くなるバレルレッグデニムは、賛否を経て2026年に定番化した。レザートップスなどすっきりした上半身と合わせるのがコツだという。",
+          "title_ja": "2026年秋のバレルレッグジーンズの着こなし5選",
+          "summary_ja": "2026年秋向けに、バレルレッグジーンズのコーディネート例を5つ紹介する記事。",
           "source": "Who What Wear",
           "url": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026"
+        },
+        {
+          "title_ja": "バレルジーンズに代わる新デニム「チューリップジーンズ」",
+          "summary_ja": "腰から太ももにかけてボリュームを持たせ、足首に向けて細くなるチューリップジーンズが2026年秋の新しいデニムとして紹介されている。",
+          "source": "Grazia",
+          "url": "https://graziamagazine.com/us/articles/tulip-jeans-denim-trend-fall-2026/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Viral beauty products",
-      "reason_ja": "メイベリンのスカイハイマスカラなど、SNSで話題の美容アイテムが英国で注目を集めている。",
-      "genre": "beauty",
-      "commercial_score": 60,
-      "product_keywords": [
-        "メイベリン スカイハイ",
-        "マスカラ ロング"
-      ],
-      "trend_source": "Stylist",
-      "articles": [
-        {
-          "title_ja": "2026年、本当に使えるバズりコスメ",
-          "summary_ja": "英Stylist誌が、話題に見合う実力のバイラル美容アイテムを紹介した。マスカラやスキンケアの定番品が並んでいる。",
-          "source": "Stylist",
-          "url": "https://www.stylist.co.uk/beauty/best-viral-beauty-products/1089196"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "国慶節ゴールデンウィーク",
-      "reason_ja": "10月1〜7日の国慶節連休に7〜8億人の国内旅行が見込まれ、旅行・消費関連の検索が増えている。",
-      "genre": "other",
+      "keyword": "lychee",
+      "reason_ja": "TikTokでライチ風味のドリンクが流行し、ライチソーダやシロップの検索が増えている。",
+      "genre": "food",
       "commercial_score": 55,
       "product_keywords": [
-        "スーツケース 軽量",
-        "トラベルグッズ"
+        "lychee soda",
+        "lychee syrup"
       ],
-      "trend_source": "中国メディア",
+      "trend_source": "TikTok Trends",
       "articles": [
         {
-          "title_ja": "中国の国慶節連休、7〜8億人が移動",
-          "summary_ja": "2026年の国慶節連休は10月1日から7日までで、国内旅行は7〜8億人と見込まれる。北京では1日あたり最大480万人の人の出入りが予想されている。",
-          "source": "ChinaSimply",
-          "url": "https://www.chinasimply.com/posts/china-golden-week-mid-autumn-2026-guide/"
+          "title_ja": "2026年9月のTikTokトレンド",
+          "summary_ja": "ライチウォーターがTikTokで流行しており、上位ブランドは月2,000個以上を販売。ライチソーダ、シロップ、ウォッカの検索も増えている。",
+          "source": "Exploding Topics",
+          "url": "https://explodingtopics.com/blog/tiktok-trends"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "国庆档电影",
+      "reason_ja": "国慶節映画シーズンが始まり、微博が主演陣のライブ配信などの交流企画を展開して話題になっている。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "映画 グッズ"
+      ],
+      "trend_source": "Weibo hot search",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節映画シーズンの微博イベントが開始",
+          "summary_ja": "微博が国慶節映画の交流企画を開始。主要スタッフのライブ配信やスーパートピックでの交流ができる。",
+          "source": "微博",
+          "url": "https://weibo.com/2/detail/5346618480003745"
         }
       ],
       "country": "cn",

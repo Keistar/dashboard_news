@@ -1,0 +1,61 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "trends": [
+    {
+      "keyword": "ふるさと納税 駆け込み",
+      "reason_ja": "10月1日のルール改定で募集経費の上限が引き下げられ、返礼品の減量や値上げが見込まれるため、9月中の寄付が注目されている。",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ふるさと納税 うなぎ",
+        "ふるさと納税 米",
+        "ふるさと納税 カニ"
+      ],
+      "trend_source": "Google検索・ふるさと納税関連ニュース",
+      "articles": [
+        {
+          "title_ja": "ふるさと納税、10月1日で返礼品が減る",
+          "summary_ja": "10月から自治体が事業に使える金額の割合が引き上げられ、募集経費の上限も段階的に下がる。返礼品の調達費が抑えられ、必要寄付額の値上げや内容量の削減が予想される。",
+          "source": "min-taxes",
+          "url": "https://min-taxes.com/column/furusato-nozei-2026-10-kaisei/"
+        },
+        {
+          "title_ja": "ふるさと納税 10月改定で人気品が消える可能性",
+          "summary_ja": "10月の改定により、人気の返礼品が掲載終了や内容変更になる可能性が指摘されている。お気に入りやカートに入れている返礼品は早めの見直しが勧められている。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/515b2a0c185ede922f601d12fd75ae059a33dd79"
+        },
+        {
+          "title_ja": "ふるさと納税の改悪はいつから？2026年10月のルール",
+          "summary_ja": "2026年10月から始まるふるさと納税のルール変更の内容と時期を整理した解説記事。",
+          "source": "ふるさとナビ",
+          "url": "https://www.furusona.jp/article/furusato-kaiaku-itsukara-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "スマートウォッチ",
+      "reason_ja": "楽天市場のスマートウォッチ本体ランキングで、低価格のバンド型やAI搭載モデルが上位に入り関心が高まっている。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "スマートウォッチ",
+        "スマートバンド",
+        "REDMI Watch"
+      ],
+      "trend_source": "楽天市場ランキング",
+      "articles": [
+        {
+          "title_ja": "【2026年9月】楽天で売れているスマートウォッチ",
+          "summary_ja": "9月18日時点の楽天スマートウォッチ本体ジャンルでは、AI機能搭載の2.08インチ大画面モデルが1位、キッズ向けが5位、REDMI Watch 6 Activeが6位だった。",
+          "source": "スマートウォッチライフ",
+          "url": "https://www.smartwatchlife.jp/80954/"
+        }
+      ]
+    }
+  ]
+}

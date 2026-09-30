@@ -1,44 +1,89 @@
 {
   "genre": "pet",
   "genre_label_ja": "ペット",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:18:34+09:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
   "stories": [
     {
-      "title_ja": "いなば、犬用の秋新商品を順次発売",
-      "summary_ja": "いなばペットフードが2026年秋の犬用新商品を発表。ちゅ〜るテリーヌやちゅ〜るジャーキー、関節の健康に配慮したクランキーなどが全国で順次発売される。",
+      "title_ja": "大熊猫「平平」「福双」が米アトランタ動物園に到着",
+      "summary_ja": "9月27日(米現地時間)、大熊猫の平平と福双が米アトランタ動物園に無事到着しました。10年間の滞在が始まります。",
+      "source": "搜狐/remoshuang",
+      "url": "https://remoshuang.com/daily/2026-09-29",
+      "score": 65,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "いなば「CIAO 香り立つ」猫用缶詰を9/30発売",
+      "summary_ja": "いなばペットフードが、フレークまぐろとかつお節を使った猫用缶詰の新商品「CIAO 香り立つ」を9月30日に発売しました。クリーミーな食感で3種類のラインナップです。",
       "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000427.000058165.html",
-      "score": 70,
+      "url": "https://prtimes.jp/main/html/rd/p/000000428.000058165.html",
+      "score": 62,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "猫用ちゅ〜る新ラインナップが登場",
-      "summary_ja": "いなばの2026年秋の猫用新商品として、歯と歯ぐきの健康に配慮した大容量ちゅ〜るや贅沢ちゅ〜る、だしゼリーなどが発売される。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000425.000058165.html",
-      "score": 65,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英RSPCA、猫の多頭保護が前年比67%増",
-      "summary_ja": "RSPCAは1件で10匹以上の猫が見つかる事案が1年で67%増えたと発表。子猫や妊娠猫も多く保護施設が逼迫している。",
-      "source": "Dog Desk Animal Action",
-      "url": "https://www.dogdeskanimalaction.co.uk/p/dog-desk-animal-action-global-animal-cd6",
-      "score": 65,
+      "title_ja": "英ペット業界展PATS 2026がNECで開催",
+      "summary_ja": "英国のペット・水生生物向け見本市PATS 2026が9月27~29日にバーミンガムのNECで開かれました。出展者は過去最多で、400点超の新製品が披露されました。",
+      "source": "Pet Business World",
+      "url": "https://www.petbusinessworld.co.uk/trade-news/manufacturers/pats-2026-ready-to-greet-the-uk-pet-trade.html",
+      "score": 60,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "生食ペットフードでリステリア等の回収",
-      "summary_ja": "Northwest Naturalsが猫用・犬用の冷凍生食フードをリステリアとサルモネラ陽性のため全米で自主回収。健康被害の報告は今のところない。",
-      "source": "KSNT",
-      "url": "https://www.ksnt.com/news/kansas/fda-reports-pet-food-recalled-nationwide-due-to-listeria-salmonella/",
-      "score": 60,
+      "title_ja": "ペットゴー「VETSOne ピュアリッチ」発売",
+      "summary_ja": "ペットゴーが犬猫用のプレミアム総合栄養食「VETSOne プレミアム ピュアリッチ」を9月30日に発売しました。生肉を主原料とし、犬用・猫用で複数のフレーバーがあります。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000147.000004757.html",
+      "score": 58,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英国ペット業界9月ニュース 新フード・用品",
+      "summary_ja": "Purinaの新しい生タイプ猫用フードや、Pets Cornerの冷凍生犬用フードなど新商品が相次いでいます。業界団体は免許料の統一を求めています。",
+      "source": "Pet Business World",
+      "url": "https://www.petbusinessworld.co.uk/magazines/pbw-news-september-2026.html",
+      "score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "9/28は世界狂犬病デー 中国で注意喚起",
+      "summary_ja": "2026年の世界狂犬病デーは第20回で、テーマは「同心聚力、共抗狂犬病」です。飼い主に予防接種の徹底が呼びかけられました。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1081604165_121956422",
+      "score": 50,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Pets Magazine 9月号 バタシーがペット流行の隠れたコストを指摘",
+      "summary_ja": "英Pets Magazineの9月号では、バタシー・ドッグズ&キャッツホームがペットのトレンドに潜む隠れたコストについて取り上げています。",
+      "source": "Pets Magazine",
+      "url": "https://www.petsmag.co.uk/pets-magazine-september-2026/",
+      "score": 42,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "9/30は全米パピーミル被害犬の日",
+      "summary_ja": "9月30日は、パピーミル(悪質な繁殖施設)から救出された犬たちを称える「National Puppy Mill Survivor Day」です。里親探しや譲渡の啓発に注目が集まります。",
+      "source": "The Animal Medical Center",
+      "url": "https://www.amcny.org/2026-pet-holidays-and-veterinary-awareness-days/",
+      "score": 40,
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国ペット市場、犬猫消費は3千億元超と報道",
+      "summary_ja": "2025年の都市部の犬猫消費市場は3126億元を超え、ペット数は1.26億匹とされます。飼い主は90後・00後が約7割を占めます。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260921V04D8I00?id=20260921V04D8I00&path=a&app=news&suid=&redirect_pc=1",
+      "score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "stories": [
+    {
+      "title_ja": "生成AI利用、個人の6割に倍増",
+      "summary_ja": "情報通信白書などの調査で、生成AIを利用する個人が6割に達し前年から倍増したと報じられた。日本でも仕事・私生活での利用が急速に広がっている。",
+      "source": "時事通信",
+      "url": "https://sp.m.jiji.com/article/show/3830179",
+      "score": 65
+    },
+    {
+      "title_ja": "ローソン、生成AI発案の商品3品を発売",
+      "summary_ja": "ローソンが生成AIで発案した商品3品を9月29日から発売した。小売業での生成AI活用の具体例として注目される。",
+      "source": "AIニュースダイジェスト",
+      "url": "https://github.com/alpaca-23/test/issues/279",
+      "score": 55
+    },
+    {
+      "title_ja": "世界のAIニュース9/30 GPT-6.1 Solなど",
+      "summary_ja": "OpenAIの新モデルGPT-6.1 Solやエージェント「dots」など、9月30日時点の主要AIニュースをまとめた日本語ダイジェスト。",
+      "source": "AIラジオ",
+      "url": "https://github.com/teruhikonomizu-ops/ai-radio/releases/tag/tech-2026-09-30",
+      "score": 50
+    }
+  ]
+}
