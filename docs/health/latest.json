@@ -1,44 +1,116 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:18:34+09:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
   "stories": [
     {
-      "title_ja": "新研究、食事の内容が夜の睡眠の質を左右",
-      "summary_ja": "Nature Health掲載の研究は、日中の食事が夜の睡眠にどう影響するかを検証。果物、野菜、全粒穀物、豆類、ナッツ、オリーブ油など植物性中心の食事が良い睡眠につながる可能性を示した。",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2026/09/24/what-eat-get-better-sleep-night-according-new-research/",
+      "title_ja": "インフルエンザ患者が急増、例年の約10倍",
+      "summary_ja": "厚労省が9月29日に発表した9月14〜20日の定点報告数は31,428人で、前週の約1.5倍に増えた。昨年同時期の約10倍にあたる。",
+      "source": "ウェザーニュース",
+      "url": "https://weathernews.jp/news/202609/290291/",
+      "score": 85,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "麻疹の流行が拡大、全米で3,600例超",
+      "summary_ja": "ペンシルベニア州の半数超の郡で麻疹が報告され、州内の症例は900を超えた。全米の累計は3,600例を超えている。",
+      "source": "KFF Health News",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-september-29-2026/",
+      "score": 78,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "国家衛健委「体重は軽いほど良いわけではない」",
+      "summary_ja": "衛健委は9月23日の記者会見で、健康的な体重管理は食事と運動が基本だと述べた。極端な減量キャンプには注意を促した。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-23/10702451.shtml",
+      "score": 75,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "HHSがダニ対策とライム病研究に約300万ドル",
+      "summary_ja": "CDCとNIHがベクター媒介疾患の研究拠点2カ所に約300万ドルを助成する。ライム病やアルファガル症候群の対策が目的。",
+      "source": "HHS",
+      "url": "https://www.hhs.gov/press-room/hhs-funds-tick-control-research-lyme-disease-alpha-gal-syndrome.html",
       "score": 70,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "理研、覚醒・睡眠・麻酔下の大規模神経活動データを公開",
-      "summary_ja": "理化学研究所は9月15日、覚醒、睡眠、麻酔下の世界最大規模の神経活動データの公開を発表した。意識や睡眠メカニズムの研究基盤となることが期待される。",
-      "source": "理化学研究所",
-      "url": "https://www.riken.jp/press/2026/",
+      "title_ja": "減量キャンプの誇大宣伝に衛健委が注意喚起",
+      "summary_ja": "「不痩退款」をうたう減量キャンプで参加者の死傷が相次いだことを受け、安全でない急速減量に注意を促した。",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/23/content_586868.html",
+      "score": 65,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "薬局で偏頭痛やにきびなど5疾患を迅速治療",
+      "summary_ja": "患者は薬局で偏頭痛、にきびなど身近な5疾患の治療をより早く受けられるようになった。MenB予防接種も約25万人の若者が受けた。",
+      "source": "NHS England",
+      "url": "https://www.england.nhs.uk/news/",
+      "score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "厚生労働省の報道発表(2026年9月)",
+      "summary_ja": "インフルエンザ、新型コロナの発生状況や、医療施設調査・病院報告の概況などが公表されている。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/houdou/houdou_list_202609.html",
       "score": 55,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英ONS、NHS利用体験の調査結果を公表",
-      "summary_ja": "英国家統計局は、イングランドでのNHS医療サービスの利用体験に関する調査を公表。歯科診療の満足度は、NHS利用で89.9%、民間で93.5%だった。",
-      "source": "ONS",
-      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/bulletins/experiencesofnhshealthcareservicesinengland/september2026",
+      "title_ja": "NHSプライマリケア速報(9月24日号)",
+      "summary_ja": "緊急受診の新指針や、頭痛管理の全国オンライン経路の導入などがまとめられている。",
+      "source": "Patient.info",
+      "url": "https://patient.info/doctor/nhs-bulletin/407",
       "score": 55,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "BBC Science Focus、睡眠と腸の基本習慣を検証",
-      "summary_ja": "9月24日の記事は、睡眠の最適化に固執するより、規則的な睡眠など基本を整えることが健康に重要かを検討している。",
-      "source": "BBC Science Focus",
-      "url": "https://www.sciencefocus.com/wellbeing/could-doing-less-be-better-for-your-health",
-      "score": 45,
+      "title_ja": "2026年全民健康ライフスタイル啓発月が始動",
+      "summary_ja": "「主動健康」をテーマに、減塩・減油・減糖、週150分の運動、7〜8時間の睡眠などを呼びかけている。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1077281552_122066679",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "がん計画の訂正を受け、法的な治療目標を求める声",
+      "summary_ja": "国家がん計画の訂正を受け、NHSのがん治療に強制力のある目標を設けるよう求める声が再燃した(9月29日)。",
+      "source": "Medscape UK",
+      "url": "https://www.medscape.com/uk",
+      "score": 50,
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "NIHが女性特有のホルモン研究に2,100万ドル",
+      "summary_ja": "NIHは9月14日に、性差に基づくホルモン生物学を計算モデルで解明する2,100万ドルの取り組みを始めた。",
+      "source": "NIH News in Health",
+      "url": "https://newsinhealth.nih.gov/2026/09",
+      "score": 48,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "2026年下半期の健康トレンドは「心地よく整える」",
+      "summary_ja": "「どこでもフィットネス」「休養リチュアル」「大人の血糖ケア」の3つが注目キーワードとして挙げられた。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000001270.000060318.html",
+      "score": 45,
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

@@ -1,44 +1,80 @@
 {
   "genre": "bousai",
   "genre_label_ja": "防災",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:18:34+09:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
   "stories": [
     {
-      "title_ja": "台風26号、伊豆諸島は30日から荒天警戒",
-      "summary_ja": "強い台風26号(スリゲ)は日本の南を東北東へ進み、伊豆諸島では9月30日から10月1日に暴風や高波のおそれがある。本州は秋雨前線の雨に注意。",
+      "title_ja": "台風26号、伊豆諸島に接近 大雨・暴風に警戒",
+      "summary_ja": "台風26号(スリゲ)は9月30日から伊豆諸島に接近しており、特に八丈島や青ヶ島など南部で大雨・暴風・高波に警戒が必要です。最接近は30日夜から10月1日朝の見込みです。",
       "source": "ウェザーニュース",
-      "url": "https://weathernews.jp/news/202609/290061/",
-      "score": 80,
+      "url": "https://weathernews.jp/news/202609/300051/",
+      "score": 85,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "茨城県南部で震度4の地震",
-      "summary_ja": "9月29日4時45分頃、茨城県南部でM4.9、最大震度4の地震が発生した。津波の心配はない。備えの再確認を。",
+      "title_ja": "ハワイ、熱帯低気圧Nolo接近で連邦緊急事態宣言",
+      "summary_ja": "FEMAは9月25日、熱帯低気圧Nolo(ハリケーン)の接近を受け、ハワイ州への連邦支援を発表しました。ハワイ郡、カウアイ郡、マウイ郡、ホノルルが対象です。",
+      "source": "FEMA",
+      "url": "https://www.fema.gov/press-release/20260925/president-donald-j-trump-approves-emergency-declaration-state-hawaii",
+      "score": 72,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "台風26号、接近前から前線の雨にも注意",
+      "summary_ja": "tenki.jpは、台風26号が30日から伊豆諸島に接近する見通しと伝えています。接近前から前線による雨にも注意が必要で、土砂災害への警戒が呼びかけられています。",
       "source": "tenki.jp",
-      "url": "https://earthquake.tenki.jp/lite/bousai/earthquake/detail/2026/09/29/2026-09-29-04-45-13.html",
+      "url": "https://tenki.jp/forecaster/s_ono/2026/09/29/40788.html",
       "score": 70,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "台湾で有感地震相次ぐ、花蓮沖M4.4",
-      "summary_ja": "9月27日に花蓮県沖でM4.4、22日に台南でM4.2の地震が発生。国家防災日の訓練後も備えの確認が呼びかけられている。",
-      "source": "UDN",
-      "url": "https://udn.com/weather/quake/000-20260925-010123",
-      "score": 55,
-      "country": "tw",
-      "country_label_ja": "台湾"
+      "title_ja": "与那国島近海でM6.0の地震 最大震度3",
+      "summary_ja": "9月30日14時ごろ、与那国島近海を震源とするマグニチュード6.0の地震があり、最大震度3を観測しました。",
+      "source": "Yahoo!天気・災害",
+      "url": "https://emergency-weather.yahoo.co.jp/weather/jp/earthquake/20260930140037/",
+      "score": 60,
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "FEMA週間情報、防災・復旧支援を更新",
-      "summary_ja": "FEMAは9月22日週の週報で各種支援と備えの情報を公表。2026年大西洋ハリケーンは平年以下の予測だが油断は禁物とされる。",
-      "source": "FEMA",
-      "url": "https://content.govdelivery.com/accounts/USDHSFEMA/bulletins/42bfddc",
-      "score": 50,
+      "title_ja": "マウイ、ハリケーンNolo接近で緊急事態宣言承認",
+      "summary_ja": "マウイ・ナウによると、トランプ大統領はハリケーンNoloの襲来に先立ちハワイの緊急事態宣言を承認しました。",
+      "source": "Maui Now",
+      "url": "https://mauinow.com/2026/09/25/president-trump-approves-emergency-declaration-in-advance-of-hurricane-nolos-arrival-in-isles/",
+      "score": 60,
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "北マリアナ諸島に緊急事態宣言 連邦公報",
+      "summary_ja": "連邦公報は9月29日、北マリアナ諸島連邦に対する緊急事態宣言の通知を掲載しました。FEMAの連邦調整官も任命されています。",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19857/notices-of-emergency-and-major-disaster-declarations-and-related-amendments",
+      "score": 58,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "イングランド洪水警報 9/29時点で9件",
+      "summary_ja": "英環境庁によると、9月29日朝の時点で洪水注意報は9件でした。南デボン沿岸やテムズ川感潮部などが対象で、洪水警報は24時間で10件解除されました。",
+      "source": "GOV.UK",
+      "url": "https://check-for-flooding.service.gov.uk/alerts-and-warnings",
+      "score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "北アイルランドに大雨の黄色警報(9/27)",
+      "summary_ja": "英気象庁は9月27日、北アイルランド各地に5時間の大雨の黄色警報を出しました。数時間で20~40mmの雨が予想されました。",
+      "source": "AOL UK",
+      "url": "https://www.aol.co.uk/articles/met-office-issues-imminent-5-072900000.html",
+      "score": 42,
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

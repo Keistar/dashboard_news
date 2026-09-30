@@ -1,0 +1,54 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "trends": [
+    {
+      "keyword": "barrel leg pants",
+      "reason_ja": "バレルレッグ（樽型）パンツ・ジーンズが2026年の主要トレンドとして検索が急増している。秋には後継の「チューリップジーンズ」も話題。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "barrel leg jeans",
+        "tulip jeans",
+        "wide leg pants"
+      ],
+      "trend_source": "Exploding Topics / Google Trends US",
+      "articles": [
+        {
+          "title_ja": "2026年秋のバレルレッグジーンズの着こなし5選",
+          "summary_ja": "2026年秋向けに、バレルレッグジーンズのコーディネート例を5つ紹介する記事。",
+          "source": "Who What Wear",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026"
+        },
+        {
+          "title_ja": "バレルジーンズに代わる新デニム「チューリップジーンズ」",
+          "summary_ja": "腰から太ももにかけてボリュームを持たせ、足首に向けて細くなるチューリップジーンズが2026年秋の新しいデニムとして紹介されている。",
+          "source": "Grazia",
+          "url": "https://graziamagazine.com/us/articles/tulip-jeans-denim-trend-fall-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "lychee",
+      "reason_ja": "TikTokでライチ風味のドリンクが流行し、ライチソーダやシロップの検索が増えている。",
+      "genre": "food",
+      "commercial_score": 55,
+      "product_keywords": [
+        "lychee soda",
+        "lychee syrup"
+      ],
+      "trend_source": "TikTok Trends",
+      "articles": [
+        {
+          "title_ja": "2026年9月のTikTokトレンド",
+          "summary_ja": "ライチウォーターがTikTokで流行しており、上位ブランドは月2,000個以上を販売。ライチソーダ、シロップ、ウォッカの検索も増えている。",
+          "source": "Exploding Topics",
+          "url": "https://explodingtopics.com/blog/tiktok-trends"
+        }
+      ]
+    }
+  ]
+}

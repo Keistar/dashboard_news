@@ -1,0 +1,31 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "stories": [
+    {
+      "title_ja": "NHSプライマリケア速報(9月24日号)",
+      "summary_ja": "緊急受診の新指針や、頭痛管理の全国オンライン経路の導入などがまとめられている。",
+      "source": "Patient.info",
+      "url": "https://patient.info/doctor/nhs-bulletin/407",
+      "score": 55
+    },
+    {
+      "title_ja": "薬局で偏頭痛やにきびなど5疾患を迅速治療",
+      "summary_ja": "患者は薬局で偏頭痛、にきびなど身近な5疾患の治療をより早く受けられるようになった。MenB予防接種も約25万人の若者が受けた。",
+      "source": "NHS England",
+      "url": "https://www.england.nhs.uk/news/",
+      "score": 60
+    },
+    {
+      "title_ja": "がん計画の訂正を受け、法的な治療目標を求める声",
+      "summary_ja": "国家がん計画の訂正を受け、NHSのがん治療に強制力のある目標を設けるよう求める声が再燃した(9月29日)。",
+      "source": "Medscape UK",
+      "url": "https://www.medscape.com/uk",
+      "score": 50
+    }
+  ]
+}

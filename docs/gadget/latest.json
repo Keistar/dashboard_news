@@ -1,62 +1,89 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:18:34+09:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
   "stories": [
     {
-      "title_ja": "Honor Magic9、北京で発売",
-      "summary_ja": "Honorは9月28日、Magic9シリーズを北京で発表した。200MPのARRI監修メインカメラと望遠を備え、Pro Maxを初めて追加した。TSMC 2nmプロセスの端末は同社初とされる。",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526.php",
-      "score": 78,
+      "title_ja": "Honor Magic9 Pro Max発表、デュアル200MPとARRI",
+      "summary_ja": "Honorが北京でMagic9 Pro Maxを発表。ARRIと共同開発のシネマ映像機能と4K撮影に対応し、価格は6499元から。9月28日発売。",
+      "source": "Honor",
+      "url": "https://www.honor.com/global/news/honor-magic9-launch/",
+      "score": 80,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "iPhone Duo予約とiPhone 18 Pro発売の反響",
-      "summary_ja": "AppleはiPhone 18 Proを9月18日に発売し、折りたたみのiPhone Duoは10月出荷で価格は2000ドル。折りたたみが話題を集め、18 Proのリードタイムも延びている。",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/surging-lead-times-for-iphone-18-pro-models-leaves-clue-for-duo-orders_id183475",
+      "title_ja": "Google 9月Pixel Drop配信開始",
+      "summary_ja": "Pixel VIPsウィジェットの刷新、Pause Pointの拡大、Gboardでの詐欺検出などが追加された。Pixel Watchのジェスチャーも強化。",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/google-september-2026-pixel-drop/",
       "score": 70,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "iPhone 18 Pro、店頭に行列",
-      "summary_ja": "iPhone 18が世界で発売され、各地の店舗に行列ができた。カメラとバッテリーの改良が評価されている。",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/technology/apples-iphone-18-goes-sale-customers-line-up-stores-worldwide",
+      "title_ja": "Xiaomi 18 Pro/Pro Max発表、背面ディスプレイと200MP",
+      "summary_ja": "Xiaomiは中国でXiaomi 18 Pro/Pro Maxを発表。Snapdragon 8 Elite Extreme Gen 6、Leica 200MPカメラ、最大8500mAh電池を搭載する。",
+      "source": "Gizmochina",
+      "url": "https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-and-18-pro-max-launched-specs-price/",
+      "score": 70,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Google、2026年9月のPixel Dropを配信",
+      "summary_ja": "Thurrottによる9月Pixel Dropの解説。小規模な更新で、大型機能はAndroid 17 QPR1で提供される予定。",
+      "source": "Thurrott",
+      "url": "https://www.thurrott.com/mobile/android/google-pixel/341692/google-delivers-the-september-2026-pixel-drop",
       "score": 60,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Xperia 10 VIII、9月中旬以降に発売",
-      "summary_ja": "ソニーは8月25日にXperia 10 VIIIを発表し、9月中旬以降に順次発売する。ディスプレイは50%明るく、スピーカー音量は15%向上、決済アプリの呼び出し機能を備える。",
-      "source": "ビジネスインサイダー",
-      "url": "https://www.businessinsider.jp/article/2608-sony-xperia-10-viii-announce/",
+      "title_ja": "2026年9月のAndroid新機能まとめ",
+      "summary_ja": "Androidに追加された9月の新機能6件を紹介する記事。GeminiやFind Hubなど日常で使える機能が中心。",
+      "source": "JETSTREAM",
+      "url": "https://jetstream.blog/2026/09/19/android-new-features-september-2026/",
       "score": 55,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Dyson、カメラ付き歯ブラシなど9製品を発表",
-      "summary_ja": "Dysonは9月3日のDyson Unveiledで9製品を公開した。ブラシ下に1mmカメラを備えるCameraJet歯ブラシや、緑色レーザーで液体を検知するロボット掃除機Spot+Scrub Aiを英国に投入する。",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2250075/dyson-unveiled-ifa-2026-live-blog-camerajet/",
-      "score": 52,
+      "title_ja": "2026年9月に注目の新ガジェットまとめ",
+      "summary_ja": "TechRadarが9月に見逃しがちな注目の新ガジェットを紹介。カメラやオーディオ機器が中心。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/the-tech-drop-the-most-exciting-new-gadgets-you-might-have-missed-in-september",
+      "score": 55,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "IFA 2026終了後のスマホ新製品と各種テスト",
-      "summary_ja": "Poco F9 Ultra/Proは185Hzディスプレイを搭載し、Redmi Buds 8 Proなどのテストも公開されている。ドイツ語圏の最新機器動向をまとめる。",
-      "source": "heise online",
-      "url": "https://www.heise.de/thema/Mobiles",
-      "score": 35,
-      "country": "de",
-      "country_label_ja": "ドイツ"
+      "title_ja": "9月29日のAppleニュースまとめ",
+      "summary_ja": "iPhone Duoは10月23日発売予定など、Apple関連の最新動向をまとめた。",
+      "source": "MacTech",
+      "url": "https://www.mactech.com/2026/09/29/news-items-you-should-check-out-september-29-4/",
+      "score": 50,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "9月第4週の新ガジェットとHi-Fi",
+      "summary_ja": "Gear Patrolがカメラ・オーディオなど9月第4週に登場した新製品をまとめた。KEFの新フラッグシップなども含む。",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-september-week-4/",
+      "score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "シャープ「AQUOS wish6」を9月17日から順次発売",
+      "summary_ja": "エントリー向けスマホAQUOS wish6 SH-M36の発売が決まった。9月17日から順次販売される。",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/",
+      "score": 45,
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

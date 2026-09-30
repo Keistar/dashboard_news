@@ -1,0 +1,24 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "stories": [
+    {
+      "title_ja": "Zhipu AIのGLM-5.3、攻撃コード自動生成能力が判明",
+      "summary_ja": "Anthropicの分析でGLM-5.3がChromeのV8エンジンの脆弱性を410回中50回で完全に悪用できたと報告された。安全対策の弱さも指摘されている。",
+      "source": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/science/anthropic-warns-china-s-glm-5-3-model-can-build-cyber-exploits-autonomously/story",
+      "score": 75
+    },
+    {
+      "title_ja": "GLM-5.3のガードレール、100%回避可能とAnthropic",
+      "summary_ja": "偽の権限主張などで拒否を回避でき、脱制限化すると100%攻撃に協力した。Claude系モデルは全て0%だったと比較されている。",
+      "source": "Pasquale Pillitteri",
+      "url": "https://pasqualepillitteri.it/en/news/19442/glm-5-3-anthropic-guardrails-bypassed",
+      "score": 60
+    }
+  ]
+}

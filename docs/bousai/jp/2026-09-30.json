@@ -1,0 +1,31 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "stories": [
+    {
+      "title_ja": "台風26号、伊豆諸島に接近 大雨・暴風に警戒",
+      "summary_ja": "台風26号(スリゲ)は9月30日から伊豆諸島に接近しており、特に八丈島や青ヶ島など南部で大雨・暴風・高波に警戒が必要です。最接近は30日夜から10月1日朝の見込みです。",
+      "source": "ウェザーニュース",
+      "url": "https://weathernews.jp/news/202609/300051/",
+      "score": 85
+    },
+    {
+      "title_ja": "台風26号、接近前から前線の雨にも注意",
+      "summary_ja": "tenki.jpは、台風26号が30日から伊豆諸島に接近する見通しと伝えています。接近前から前線による雨にも注意が必要で、土砂災害への警戒が呼びかけられています。",
+      "source": "tenki.jp",
+      "url": "https://tenki.jp/forecaster/s_ono/2026/09/29/40788.html",
+      "score": 70
+    },
+    {
+      "title_ja": "与那国島近海でM6.0の地震 最大震度3",
+      "summary_ja": "9月30日14時ごろ、与那国島近海を震源とするマグニチュード6.0の地震があり、最大震度3を観測しました。",
+      "source": "Yahoo!天気・災害",
+      "url": "https://emergency-weather.yahoo.co.jp/weather/jp/earthquake/20260930140037/",
+      "score": 60
+    }
+  ]
+}

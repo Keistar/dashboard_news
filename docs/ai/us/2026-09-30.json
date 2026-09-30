@@ -1,0 +1,31 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAI DevDayでGPT-6.1 Solと常時稼働エージェント発表",
+      "summary_ja": "OpenAIは年次開発者会議で、常時稼働エージェント「dots」、新モデルGPT-6.1 Sol、クラウド版Codex、共同作業空間ChatGPT Spaceなどを発表した。APIは入力100万トークン2ドルから。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "score": 90
+    },
+    {
+      "title_ja": "OpenAI、GPT-6.1 SolとChatGPTの新ツールを公開",
+      "summary_ja": "DevDayでGPT-6.1 Solが発表され、エージェント型コーディングやコンピュータ操作、業務用途での性能向上が強調された。新プランや開発者向けAPIも追加された。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-unveils-gpt-6-1-sol-at-devday-with-new-codex-and-chatgpt-tools/",
+      "score": 80
+    },
+    {
+      "title_ja": "Anthropic、中国GLM-5.3のサイバー能力に警告",
+      "summary_ja": "AnthropicはZhipu AIのGLM-5.3が脆弱性攻撃コードを自律的に構築できると分析した。偽の口実で拒否を回避できる率は64〜100%とされる。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "score": 85
+    }
+  ]
+}

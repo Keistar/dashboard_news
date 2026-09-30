@@ -1,80 +1,98 @@
 {
   "genre": "kosodate",
   "genre_label_ja": "子育て",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:18:34+09:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
   "stories": [
     {
-      "title_ja": "こどもNISA、10月1日から口座申込受付開始",
-      "summary_ja": "こどもNISA(0〜17歳)の口座開設申込を、証券各社が10月から受け付け始める。制度開始は2027年1月で、楽天証券は10月1日から受付。競争が過熱している。",
-      "source": "楽天証券",
-      "url": "https://www.rakuten-sec.co.jp/web/info/info20260911-02.html",
-      "score": 75,
-      "country": "jp",
-      "country_label_ja": "日本"
+      "title_ja": "Coram保育調査2026、2歳未満の費用が大幅減",
+      "summary_ja": "イングランドで拡大された週30時間の無償枠により、2歳未満の週50時間の保育費は前年比39%減。対象外の家庭は週189ポンドを負担する。",
+      "source": "Coram",
+      "url": "https://www.coram.org.uk/news/childcare-survey-2026/",
+      "score": 70,
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "韓国、9月18日から出産前の男性育休が可能に",
-      "summary_ja": "配偶者が妊娠中で流産・早産の恐れがある場合、出産前でも育児休業を取得できるようになった。養育費先払いの所得基準撤廃、不妊治療休暇の給付期間拡大も含まれる。",
-      "source": "韓国政策ブリーフィング",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967434",
+      "title_ja": "こども家庭庁の令和9年度概算要求は7.7兆円",
+      "summary_ja": "こども家庭庁の令和9年度概算要求は総額7兆7436億円で、前年度比3.3%増。保育所や放課後児童クラブの運営費に約2兆6700億円が充てられる。",
+      "source": "補助金ポータル",
+      "url": "https://hojyokin-portal.jp/columns/kodomokateicho-gaisanyokyu",
       "score": 65,
-      "country": "kr",
-      "country_label_ja": "韓国"
-    },
-    {
-      "title_ja": "こどもNISA、各社の獲得競争が本格化",
-      "summary_ja": "共同通信によると、証券各社が10月受付開始に向け、口座開設特典などで競争している。1人の子につき1金融機関でのみ開設できる。",
-      "source": "共同通信/docomo",
-      "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026092401001122",
-      "score": 60,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米国の保育費、家計収入の約2割",
-      "summary_ja": "Care.comの2026年報告によると、親は世帯収入の平均約20%を保育費に充てている。HHSの目安は7%。全国平均は月1230ドルで、DCは2400ドルと最も高い。",
-      "source": "Care.com",
-      "url": "https://www.care.com/c/how-much-does-child-care-cost/",
+      "title_ja": "SEED法成立、幼児教育者にも教材費控除",
+      "summary_ja": "幼児教育者が自己負担した教室用品費を最大350ドル控除できるSEED法が9月19日に成立した。K-12教員と同じ扱いになる。",
+      "source": "Local News Matters",
+      "url": "https://localnewsmatters.org/2026/09/21/early-childhood-educator-tax-deduction-seed-act/",
+      "score": 65,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "米国の保育費が高騰、祖父母に頼る家庭が増加",
+      "summary_ja": "保育費が大学の授業料を上回る州が多く、祖父母に頼る家庭が増えているとNPRが報じた。",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+      "score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国、育児補助金を2500万人超の乳幼児に支給",
+      "summary_ja": "3歳未満の子1人につき年3600元の補助金が、2026年に2500万人以上に支給された。幼稚園の最終学年の保育料無償化も継続している。",
+      "source": "中国政府網",
+      "url": "https://english.www.gov.cn/news/202607/21/content_WS6a5f5394c6d00ca5f9a0c570.html",
+      "score": 60,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "子ども・子育て支援金とは 2026年度最新版",
+      "summary_ja": "支援金を財源とする6事業により、子育て世帯は子1人あたり18年間で約146万円の給付拡充を受けられるとのこども家庭庁試算を解説。",
+      "source": "kidsline",
+      "url": "https://kidsline.me/magazine/ikuji/1114",
+      "score": 55,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "幼児教育者への減税がなぜ重要か",
+      "summary_ja": "EdWeekがSEED法による幼児教育者向け税控除の意義を解説。教育者の待遇改善につながるとされる。",
+      "source": "Education Week",
+      "url": "https://www.edweek.org/teaching-learning/a-tax-break-for-early-childhood-educators-why-this-policy-change-matters/2026/09",
       "score": 55,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "スウェーデン、活動要件の親の子に保育時間拡大",
-      "summary_ja": "10月から、活動要件の対象となる親の子どもが就学前学校・学童でより長い時間利用できるよう、自治体に追加資金が交付される。",
-      "source": "スウェーデン政府",
-      "url": "https://www.regeringen.se/pressmeddelanden/2026/05/barnomsorgen-ska-starkas-nar-foraldrar-omfattas-av-aktivitetskrav/",
-      "score": 48,
-      "country": "se",
-      "country_label_ja": "スウェーデン"
-    },
-    {
-      "title_ja": "イングランドの無償保育、追加費用強制は不可と指針",
-      "summary_ja": "イングランドの15・30時間無償保育について、政府指針で、任意の追加サービス以外の費用を親に強制できないと明確化された。9か月児からの30時間は2025年9月に開始済み。",
-      "source": "Day Nurseries",
-      "url": "https://www.daynurseries.co.uk/advice/free-childcare-changes-in-england-eligibility",
-      "score": 45,
+      "title_ja": "EYFS改訂が9月1日に施行",
+      "summary_ja": "安全管理と福祉要件の強化、子どものスクリーン利用に関する新たな期待事項が盛り込まれた。禁止犬種の飼育場所での保育も不可に。",
+      "source": "Foundation Years",
+      "url": "https://www.foundationyears.org.uk/2026/09/eyfs-changes-from-september-2026-what-do-they-mean-for-settings/",
+      "score": 55,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "スウェーデン、就学前教育の保育料上限を7月に引下げ",
-      "summary_ja": "2026年7月から全国で就学前学校・学童の保育料上限が新設され、世帯当たり月1万クローナの控除が適用される。総選挙で家族政策が論点となっている。",
-      "source": "Skövde kommun",
-      "url": "https://www.skovde.se/nyheter/sankt-avgift-for-forskola-och-fritidshem/",
-      "score": 42,
-      "country": "se",
-      "country_label_ja": "スウェーデン"
+      "title_ja": "中国、出産しやすい環境づくりを強化へ",
+      "summary_ja": "出産前から育児期まで切れ目なく支える制度整備を進める方針が示された。",
+      "source": "China.org.cn",
+      "url": "http://www.china.org.cn/2026-09/14/content_118695173.shtml",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "ドイツ、2026/27学年から小1の全日制ケア請求権",
-      "summary_ja": "2026/27学年度から全国で小学校1年生に全日制ケアの権利が生じる。実施は州と自治体が担う。児童手当は月259ユーロ、2027年に申請不要化する法案もある。",
-      "source": "NWZonline",
-      "url": "https://www.nwzonline.de/spezial-familie/familienleistung-2026-verbesserungen-bei-kindergeld-und-ganztagsbetreuung-in-niedersachsen_a_4,2,3346370354.html",
-      "score": 40,
-      "country": "de",
-      "country_label_ja": "ドイツ"
+      "title_ja": "軍人家庭向け新保育制度UKNAが開始",
+      "summary_ja": "スコットランド、ウェールズ、北アイルランド在住の軍人家庭に、イングランド並みの無償保育時間分の差額を補填する制度が9月から始まった。",
+      "source": "RAF Families Federation",
+      "url": "https://www.raf-ff.org.uk/defence-childcare-schemes-from-september/",
+      "score": 45,
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

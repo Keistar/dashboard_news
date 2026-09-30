@@ -1,0 +1,53 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "trends": [
+    {
+      "keyword": "国庆出游",
+      "reason_ja": "国慶節の大型連休を前に、故宮や九寨溝などの人気スポットのチケットが相次いで予約満了となっている。",
+      "genre": "other",
+      "commercial_score": 72,
+      "product_keywords": [
+        "旅行 スーツケース",
+        "モバイルバッテリー",
+        "トラベルグッズ"
+      ],
+      "trend_source": "Weibo・中国ニュース",
+      "articles": [
+        {
+          "title_ja": "国慶節まで3日、各地の景勝地・博物館のチケットが予約満了",
+          "summary_ja": "国慶節連休の開始を前に、多くの景勝地や博物館のチケットが予約で埋まっている。",
+          "source": "光明網",
+          "url": "https://m.gmw.cn/2026-09/28/content_1304569041.htm"
+        },
+        {
+          "title_ja": "美団が2026年の秋の紅葉人気目的地を発表",
+          "summary_ja": "美団が国慶節・秋の行楽に向けて、人気の観光先や民宿の傾向を発表した。",
+          "source": "网易",
+          "url": "https://www.163.com/dy/article/L7UAJSAU0512D3VJ.html"
+        }
+      ]
+    },
+    {
+      "keyword": "国庆档电影",
+      "reason_ja": "国慶節映画シーズンが始まり、微博が主演陣のライブ配信などの交流企画を展開して話題になっている。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "映画 グッズ"
+      ],
+      "trend_source": "Weibo hot search",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節映画シーズンの微博イベントが開始",
+          "summary_ja": "微博が国慶節映画の交流企画を開始。主要スタッフのライブ配信やスーパートピックでの交流ができる。",
+          "source": "微博",
+          "url": "https://weibo.com/2/detail/5346618480003745"
+        }
+      ]
+    }
+  ]
+}

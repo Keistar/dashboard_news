@@ -1,0 +1,24 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:07:13+09:00",
+  "stories": [
+    {
+      "title_ja": "イングランド洪水警報 9/29時点で9件",
+      "summary_ja": "英環境庁によると、9月29日朝の時点で洪水注意報は9件でした。南デボン沿岸やテムズ川感潮部などが対象で、洪水警報は24時間で10件解除されました。",
+      "source": "GOV.UK",
+      "url": "https://check-for-flooding.service.gov.uk/alerts-and-warnings",
+      "score": 50
+    },
+    {
+      "title_ja": "北アイルランドに大雨の黄色警報(9/27)",
+      "summary_ja": "英気象庁は9月27日、北アイルランド各地に5時間の大雨の黄色警報を出しました。数時間で20~40mmの雨が予想されました。",
+      "source": "AOL UK",
+      "url": "https://www.aol.co.uk/articles/met-office-issues-imminent-5-072900000.html",
+      "score": 42
+    }
+  ]
+}
