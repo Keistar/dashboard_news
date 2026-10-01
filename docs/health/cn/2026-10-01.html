@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-01 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #040f12;
+    --line: #123842;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #60d8f0;
+    --signal: #70e4ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; HEALTH & FITNESS &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-01 &middot; 16:08 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">2026中国睡眠健康研究白皮書が発表</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">72<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">白書によると2025年の中国居住者の平均睡眠時間は6.97時間で前年より7分増えた。約48.5%が睡眠不安を抱えている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://wjw.fujian.gov.cn/xxgk/gzdt/mtbd/202603/t20260323_7114382.htm" target="_blank" rel="noopener noreferrer">
+                福建省衛健委 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">腸脳軸から見る睡眠改善プロバイオティクス</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">66<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">腸でセロトニンの約90%が作られ、メラトニンの前駆体になることから、腸脳軸に基づくプロバイオティクスが睡眠改善で注目されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.xinminweekly.com.cn/shenghuo/2026/07/19/47818.html" target="_blank" rel="noopener noreferrer">
+                新民周刊 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">合生元、次抛型液体プロバイオティクスを発売</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">74<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">合生元が美容の次抛コンセプトを取り入れた新世代の液体プロバイオティクス小超金を発表した。製品形態の革新として注目される。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.xinyingyang.com/content-29-30476-1.html" target="_blank" rel="noopener noreferrer">
+                新営養 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">プロバイオティクス初の国家標準が公開審査へ</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">72<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">保健食品原料としてのプロバイオティクスの初の国家標準が公開意見募集の段階に入り、業界が根拠重視へ移ることが期待される。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.xinyingyang.com/content-34-29620-1.html" target="_blank" rel="noopener noreferrer">
+                新営養 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">運動プロバイオティクスの最新トレンド報告</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">64<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">2025-2026運動プロバイオティクス報告が発表予定で、スポーツ栄養の後半戦を変えると位置づけられている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.xinyingyang.com/content-9-29061-1.html" target="_blank" rel="noopener noreferrer">
+                新営養 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">中国プロテイン市場は387億元、再編が進む</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">62<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">業界報告によると中国のプロテイン市場は387億元規模で、康恩貝が首位に浮上し、抖音の成長率は46%となった。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://finance.sina.com.cn/wm/2026-06-30/doc-iniffcpn1419900.shtml" target="_blank" rel="noopener noreferrer">
+                新浪財経 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">仙楽健康、速溶プロバイオティクスを発表</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">58<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">仙楽健康が体験を改善した速溶（フラッシュメルト）形態のプロバイオティクスを発表し、腸の健康分野の剤型革新が進んでいる。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.xinyingyang.com/content-29-28524-1.html" target="_blank" rel="noopener noreferrer">
+                新営養 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">2026世界栄養の9大トレンド：蛋白質とシニア</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">蛋白質市場とシニア層が確実な成長の増分を示すなど、2026年の世界栄養の9大トレンドをまとめた記事。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.xinyingyang.com/content-14-29452-1.html" target="_blank" rel="noopener noreferrer">
+                新営養 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

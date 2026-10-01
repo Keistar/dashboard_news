@@ -1,0 +1,83 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:09+09:00",
+  "stories": [
+    {
+      "title_ja": "DeepSeek、Huawei Ascend向けツールをOSS公開",
+      "summary_ja": "DeepSeekはHuaweiと共同開発したAscend向けプログラミングツール群をオープンソース公開した。CUDAに対抗するTileLangを含む。",
+      "source": "SCMP",
+      "url": "https://scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai",
+      "score": 88,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Huawei Ascend"
+      ]
+    },
+    {
+      "title_ja": "中国AI業界、DeepSeekのAscend対応で結束",
+      "summary_ja": "DeepSeekがAscend向けソフトを公開したことを受け、中国のAI業界が国産チップ活用へ足並みをそろえていると分析する記事。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+      "score": 75,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "DeepSeek、AI基盤をHuawei Ascendへ移行",
+      "summary_ja": "DeepSeekがAIスタックをHuawei Ascendへ移行し、米国のテック業界で懸念が広がっている。",
+      "source": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/deepseek-migrates-ai-stack-to-huawei-ascend-sparks-u-s-tech-concerns",
+      "score": 68,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "中国科協、AIモデル「立知」「材華」を発表",
+      "summary_ja": "中国科学技術協会は9月30日の成果発表会で、マルチモーダル大規模モデル「立知」と、千億パラメータの材料大規模モデル「材華」を発表した。",
+      "source": "光明網",
+      "url": "https://tech.gmw.cn/2026-09/30/content_39029787.htm",
+      "score": 70,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "テンセント、新モデルHy4 Previewを公開",
+      "summary_ja": "テンセントは7700億パラメータ、100万トークン文脈のHy4 Previewを公開し、智譜や月之暗面の製品を上回ると主張した。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/roll/2026-08-28/doc-inipwhrr9001713.shtml?froms=ggmp",
+      "score": 66,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "Alibaba、軽量Qwenで大型モデルに対抗",
+      "summary_ja": "Alibabaの軽量Qwenモデルが、OpenAIやDeepSeek、智譜の大型システムに迫る性能を示したとSCMPが報じた。",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu",
+      "score": 64,
+      "commercial_score": 45,
+      "product_keywords": [
+        "Qwen"
+      ]
+    },
+    {
+      "title_ja": "Qwen、世界ダウンロード数で首位に",
+      "summary_ja": "AlibabaのオープンソースモデルQwenがMetaやGoogleを抜き、世界のダウンロード数で首位になったと報じられた。",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202608/1368313.shtml",
+      "score": 62,
+      "commercial_score": 40,
+      "product_keywords": [
+        "Qwen"
+      ]
+    },
+    {
+      "title_ja": "AlibabaとDeepSeek、低コスト競争を加速",
+      "summary_ja": "AlibabaとDeepSeekが推論コストの低減を軸に、中国のAIモデル競争を押し進めていると分析する記事。",
+      "source": "AI News",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "score": 58,
+      "commercial_score": 45
+    }
+  ]
+}

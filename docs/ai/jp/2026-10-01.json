@@ -1,0 +1,89 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:09+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAI、GPT-6.1 Solを公開 Astra級を5分の1価格で",
+      "summary_ja": "OpenAIは9月29日、GPT-6 Solの改良版GPT-6.1 Solを発表した。エージェント型コーディングやPC操作に強く、最上位Astraに迫る性能を5分の1の料金で提供する。",
+      "source": "Impress AI Watch",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2144361.html",
+      "score": 92,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ChatGPT",
+        "OpenAI API"
+      ]
+    },
+    {
+      "title_ja": "OpenAI DevDay 2026、常時稼働エージェントdots発表",
+      "summary_ja": "OpenAIはDevDayでGPT-6 Astra搭載の常時稼働エージェント「dots」を発表した。4000以上のアプリと連携し、月額500ドルの新プランも登場する。",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/",
+      "score": 90,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ChatGPT Pro",
+        "AIエージェント"
+      ]
+    },
+    {
+      "title_ja": "Anthropic、Claude Sonnet 5.5を公開 30%高速化",
+      "summary_ja": "Anthropicは9月28日にClaude Sonnet 5.5を公開した。料金を据え置いたまま出力が30%以上高速化し、タスク当たりコストも最大3割減る。",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
+      "score": 88,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Claude"
+      ]
+    },
+    {
+      "title_ja": "米FTC、OpenAIとアンソロピックを調査",
+      "summary_ja": "米連邦取引委員会がAIの暴走や悪用による消費者リスクを巡り、OpenAIやアンソロピックなどの調査を始めたと報じられた。正式な情報提供要求や幹部への聴取を行う方針。",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN30CV80Q6A930C2000000/",
+      "score": 85,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "アンソロピックIPO書類、人類存亡リスクを警告",
+      "summary_ja": "アンソロピックはIPO目論見書で、高度なAIが人類に壊滅的・存続に関わるリスクをもたらし得ると記載した。自己保存行動の可能性にも言及している。",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN291N60Z20C26A9000000/",
+      "score": 84,
+      "commercial_score": 35
+    },
+    {
+      "title_ja": "OpenAI、評価額1.4兆ドルで300億ドル調達目指す",
+      "summary_ja": "OpenAIは年内のIPOを見送り、企業価値約1.4兆ドルで少なくとも300億ドルの新規調達を目指しているとブルームバーグが報じた。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-09-29/TM4ZNDKK3NY800",
+      "score": 82,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "アンソロピックの赤字、約6.5兆円に拡大",
+      "summary_ja": "IPO目論見書で、アンソロピックの赤字が約6兆5100億円に膨らんでいることが明らかになった。人類存亡リスクの警告とともに投資家に衝撃を与えている。",
+      "source": "Business Insider Japan",
+      "url": "https://www.businessinsider.jp/article/2609-news-anthropics-ipo-prospectus-panics-investors/",
+      "score": 70,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "OpenAI、DevDayで20超の新機能 Proプランも",
+      "summary_ja": "OpenAIはDevDayでAgents APIの拡充、Codex Cloud、共有スペースChatGPT Spaceなど20以上の新機能を発表した。高負荷ユーザー向けの上位プランも用意される。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144440.html",
+      "score": 78,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ChatGPT",
+        "Codex"
+      ]
+    }
+  ]
+}

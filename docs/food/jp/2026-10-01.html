@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-01 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #140c04;
+    --line: #422a0e;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f5c060;
+    --signal: #ffd070;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; FOOD & GOURMET &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-01 &middot; 16:08 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">セブン、明治チョコ100周年スイーツなど新作5選</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">セブンイレブンが9月29日から、明治ミルクチョコレート100周年を記念した濃厚チョコスイーツや秋らしい芋系商品5品を発売する。「紅はるかのさつまいもこ」や「まるで蜜芋」などが並ぶ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.mynavi.jp/article/20260928-5040661/" target="_blank" rel="noopener noreferrer">
+                マイナビニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">不二家洋菓子店、10月の秋の新作スイーツ発売</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">82<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">不二家洋菓子店が10月1日から秋の新作を全国で発売。ミルキークリームたっぷりの「ミルキーモンブランタルト」や、和梨・えびすかぼちゃを使った生ドーナツなどが登場する。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.mynavi.jp/article/20261001-5052206/" target="_blank" rel="noopener noreferrer">
+                マイナビニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ファミマ新作スイーツ5選、栗モンブランなど</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ファミリーマートが9月29日からイタリア栗のモンブランタルトやピエール・エルメ監修のクレープなど新作スイーツ5品を発売する。秋の栗系が充実している。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.mynavi.jp/article/20260928-5038377/" target="_blank" rel="noopener noreferrer">
+                マイナビニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ファミマ今週の新商品5選、麺・惣菜が充実</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ファミリーマートの9月29日〜10月5日発売の新商品を紹介。SUSURU TV.監修ラーメンや味千拉麺監修の焼ラーメン、黒豚まんチーズなどが並ぶ。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.mynavi.jp/article/20260928-5038367/" target="_blank" rel="noopener noreferrer">
+                マイナビニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">マクドナルド「月見ファミリー」全8商品が展開</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">84<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">マクドナルドの月見シーズンは新作「炙り牛すき焼き風月見」など3品を加えた全8商品。月見バーガーは10月下旬まで、月見パイは10月上旬までの販売予定。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://entabe.jp/61334/2026-mcdonalds-tsukimi-family" target="_blank" rel="noopener noreferrer">
+                えん食べ <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">マック夜マック限定バーガーと月見新作3種</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">74<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">マクドナルドが月見ファミリーに新商品3種を追加。「炙り牛すき焼き風月見」や夜マック限定バーガーが注目を集めている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://mezamashi.media/articles/gallery/338390" target="_blank" rel="noopener noreferrer">
+                めざましmedia <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">サーティワン10月新作、ハロウィン向け6フレーバー</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">76<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">サーティワンが2026年10月の新作フレーバー6種を発表。「ミスティック チョコスモア」や「パンプキンプリン」などハロウィン向けのアイスが登場する。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://shingekifood.com/entry/2026/08/31/231244" target="_blank" rel="noopener noreferrer">
+                進撃のグルメ <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ひとりじめスイーツ秋冬、定番11%増量で新2品</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">62<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">チョコレートを自分らしく楽しむ「ひとりじめスイーツ」の2026年秋冬商品が発表された。定番品を11%増量し、新商品2品を加えた全8品を展開する。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://prtimes.jp/main/html/rd/p/000000093.000031892.html" target="_blank" rel="noopener noreferrer">
+                PR TIMES <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

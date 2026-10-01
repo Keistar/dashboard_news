@@ -1,203 +1,407 @@
 {
   "feed": "trends",
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T16:07:13+09:00",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:10+09:00",
   "trends": [
     {
-      "keyword": "ふるさと納税 駆け込み",
-      "reason_ja": "10月1日のルール改定で募集経費の上限が引き下げられ、返礼品の減量や値上げが見込まれるため、9月中の寄付が注目されている。",
+      "keyword": "heated airer",
+      "reason_ja": "秋の湿気シーズンで室内干し家電の需要が急増",
+      "genre": "gadget",
+      "commercial_score": 88,
+      "product_keywords": [
+        "heated airer",
+        "dehumidifier"
+      ],
+      "product_keywords_ja": [
+        "電気 物干し",
+        "衣類乾燥 除湿機",
+        "衣類乾燥 物干しスタンド"
+      ],
+      "trend_source": "UK demand index / Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Aldi's sellout heated airer and dehumidifier are back for 2026",
+          "summary_ja": "Aldiの毎冬売り切れる電気式衣類乾燥ラックと除湿機が2026年も再登場。",
+          "source": "Ideal Home",
+          "url": "https://www.idealhome.co.uk/house-manual/laundry/aldi-heated-airer-and-dehumidifier-2026"
+        },
+        {
+          "title_ja": "Heated airer vs dehumidifier: which is best for drying clothes indoors?",
+          "summary_ja": "電気式乾燥ラックと除湿機の比較ガイド。室内干しの電気代や使い分けを解説。",
+          "source": "Currys",
+          "url": "https://www.currys.co.uk/techtalk/kitchen-and-home/heated-airer-vs-dehumidifier.html"
+        },
+        {
+          "title_ja": "Damp season is here: early Prime Day deals",
+          "summary_ja": "湿気の季節を迎え、除湿機を中心に早期プライムデーのセールを紹介。",
+          "source": "LADbible",
+          "url": "https://www.ladbible.com/lifestyle/best-dehumidifiers-winter-969123-20260929"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Costco",
+      "reason_ja": "Costco関連の検索が急上昇。新店舗オープンと10月クーポンブック、新商品が話題",
       "genre": "food",
       "commercial_score": 85,
       "product_keywords": [
-        "ふるさと納税 うなぎ",
-        "ふるさと納税 米",
-        "ふるさと納税 カニ"
+        "costco coupon book",
+        "pumpkin pie"
       ],
-      "trend_source": "Google検索・ふるさと納税関連ニュース",
+      "product_keywords_ja": [
+        "コストコ 商品",
+        "コストコ お菓子"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ふるさと納税、10月1日で返礼品が減る",
-          "summary_ja": "10月から自治体が事業に使える金額の割合が引き上げられ、募集経費の上限も段階的に下がる。返礼品の調達費が抑えられ、必要寄付額の値上げや内容量の削減が予想される。",
-          "source": "min-taxes",
-          "url": "https://min-taxes.com/column/furusato-nozei-2026-10-kaisei/"
+          "title_ja": "Costco's October 2026 Products: Best Items To Buy This Month",
+          "summary_ja": "10月のおすすめ商品を紹介。ツイステッドチュロスがフードコートに2年ぶりに復活し、パンプキンパイやハロウィンキャンディも並ぶ。",
+          "source": "Tasting Table",
+          "url": "https://www.tastingtable.com/2273107/best-costco-products-october-2026/"
         },
         {
-          "title_ja": "ふるさと納税 10月改定で人気品が消える可能性",
-          "summary_ja": "10月の改定により、人気の返礼品が掲載終了や内容変更になる可能性が指摘されている。お気に入りやカートに入れている返礼品は早めの見直しが勧められている。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/515b2a0c185ede922f601d12fd75ae059a33dd79"
+          "title_ja": "Costco Coupons Book $400 in October 2026",
+          "summary_ja": "10月のクーポンブックは9月21日から10月18日まで。レノボの2-in-1ノートPCが300ドル引き、薬・サプリのページが充実。",
+          "source": "Slickdeals",
+          "url": "https://daily.slickdeals.net/shopping/costco-coupon-book/"
         },
         {
-          "title_ja": "ふるさと納税の改悪はいつから？2026年10月のルール",
-          "summary_ja": "2026年10月から始まるふるさと納税のルール変更の内容と時期を整理した解説記事。",
-          "source": "ふるさとナビ",
-          "url": "https://www.furusona.jp/article/furusato-kaiaku-itsukara-2026"
+          "title_ja": "33 new Costco stores announced",
+          "summary_ja": "Costcoが新店舗33店舗の計画を発表。所在地などをまとめた記事。",
+          "source": "The Hill",
+          "url": "https://thehill.com/business/6112042-33-new-costco-locations-announced-heres-what-we-know-about-their-locations/"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "heated airer",
-      "reason_ja": "秋の湿気と寒さを前に、電気式室内物干しの検索が前週比で約162%増えている。",
-      "genre": "other",
-      "commercial_score": 80,
-      "product_keywords": [
-        "heated airer",
-        "dehumidifier",
-        "smart thermostat"
-      ],
-      "trend_source": "UK product search trends",
-      "articles": [
-        {
-          "title_ja": "Aldiの完売常連、暖房付き物干しと除湿機が2026年も登場",
-          "summary_ja": "Aldiの直立型暖房付き物干しと除湿機が今年も販売される。物干しは冬に売り切れることが多い人気商品。",
-          "source": "Ideal Home",
-          "url": "https://www.idealhome.co.uk/house-manual/laundry/aldi-heated-airer-and-dehumidifier-2026"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
       "keyword": "dehumidifier",
-      "reason_ja": "カビや結露対策、室内干し需要で除湿機の検索が約61%増加している。",
-      "genre": "other",
-      "commercial_score": 78,
+      "reason_ja": "光熱費高騰の中、乾燥機より安い除湿機が注目",
+      "genre": "gadget",
+      "commercial_score": 84,
       "product_keywords": [
         "dehumidifier",
-        "desiccant dehumidifier"
+        "moisture absorber"
       ],
-      "trend_source": "UK product search trends",
+      "product_keywords_ja": [
+        "除湿機 衣類乾燥",
+        "除湿剤"
+      ],
+      "trend_source": "UK demand index",
+      "trend_source_type": "other",
       "articles": [
         {
-          "title_ja": "2026年9月の除湿機セール情報",
-          "summary_ja": "英消費者団体Which?が9月の除湿機の特価情報をまとめた。Ecoair DD1 Classic MK6の過去半年の平均価格は213ポンド。",
-          "source": "Which?",
-          "url": "https://www.which.co.uk/news/article/best-dehumidifier-deals-aCEmK0Z5Bvoo"
+          "title_ja": "Dehumidifier Running Costs UK 2026: From 5p an Hour",
+          "summary_ja": "英国での除湿機の電気代は1時間約5ペンスから。ランニングコストを解説。",
+          "source": "The Home Energy Hub",
+          "url": "https://www.thehomeenergyhub.co.uk/blog/dehumidifier-running-costs-uk"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "スマートウォッチ",
-      "reason_ja": "楽天市場のスマートウォッチ本体ランキングで、低価格のバンド型やAI搭載モデルが上位に入り関心が高まっている。",
-      "genre": "gadget",
-      "commercial_score": 75,
+      "keyword": "Halloween spending",
+      "reason_ja": "ハロウィン商戦が本格化。NRFが支出は135億ドルと予測",
+      "genre": "other",
+      "commercial_score": 82,
       "product_keywords": [
-        "スマートウォッチ",
-        "スマートバンド",
-        "REDMI Watch"
+        "halloween costumes",
+        "halloween decorations",
+        "halloween candy"
       ],
-      "trend_source": "楽天市場ランキング",
+      "product_keywords_ja": [
+        "ハロウィン 衣装",
+        "ハロウィン 飾り付け",
+        "ハロウィン お菓子"
+      ],
+      "trend_source": "Google Trends US / 報道",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "【2026年9月】楽天で売れているスマートウォッチ",
-          "summary_ja": "9月18日時点の楽天スマートウォッチ本体ジャンルでは、AI機能搭載の2.08インチ大画面モデルが1位、キッズ向けが5位、REDMI Watch 6 Activeが6位だった。",
-          "source": "スマートウォッチライフ",
-          "url": "https://www.smartwatchlife.jp/80954/"
+          "title_ja": "NRF: 2026 Halloween spending expected to rise 3.82%",
+          "summary_ja": "NRFによると支出は135億ドル（前年比3.82％増）。仮装に44億ドル、飾り付けに43億ドル、キャンディに41億ドルの見込み。",
+          "source": "Talk Business & Politics",
+          "url": "https://talkbusiness.net/2026/09/nrf-2026-halloween-spending-expected-to-rise-3-82/"
+        },
+        {
+          "title_ja": "Halloween Spending Expected To Reach $13.5 Billion",
+          "summary_ja": "全米菓子協会による記事。消費者の96％がお菓子を購入予定で、お得さを重視する傾向が強い。",
+          "source": "NCA",
+          "url": "https://candyusa.com/cst/halloween-spending-expected-to-reach-13-5-billion/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "10月 値上げ",
+      "reason_ja": "10月1日に食品3,033品目が値上げされ、家計防衛の検索が急増",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "冷凍食品",
+        "醤油",
+        "お菓子"
+      ],
+      "product_keywords_ja": [
+        "冷凍食品",
+        "しょうゆ",
+        "お菓子 まとめ買い"
+      ],
+      "trend_source": "Google Trends JP / 報道",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年10月の値上げ一覧　食品3,033品目",
+          "summary_ja": "帝国データバンク調査で10月の値上げ飲食料品は3,033品目。味の素冷凍食品は約5〜8％、ヤクルトは乳製品12品を約8.3〜12.5％、江崎グリコは161品を値上げする。",
+          "source": "値上げ予報",
+          "url": "https://neage-yohou.hatenablog.com/entry/2026-10-price-increase"
+        },
+        {
+          "title_ja": "2026年10月1日、食品3,033品目が値上げ",
+          "summary_ja": "江崎グリコ・キリンビバレッジ・東洋水産などの値上げ幅と酒税改正の影響をまとめた解説記事。",
+          "source": "文系エンジニアの日記",
+          "url": "https://vegcale.com/2026/09/19/food-price-hike-october-2026/"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "国庆出游",
-      "reason_ja": "国慶節の大型連休を前に、故宮や九寨溝などの人気スポットのチケットが相次いで予約満了となっている。",
-      "genre": "other",
-      "commercial_score": 72,
+      "keyword": "酒税改正 ビール",
+      "reason_ja": "10月1日の酒税一本化でビールが減税、新ジャンルは増税。各社が販促を強化",
+      "genre": "food",
+      "commercial_score": 78,
       "product_keywords": [
-        "旅行 スーツケース",
-        "モバイルバッテリー",
-        "トラベルグッズ"
+        "beer",
+        "craft beer"
       ],
-      "trend_source": "Weibo・中国ニュース",
+      "product_keywords_ja": [
+        "ビール ケース",
+        "クラフトビール 飲み比べ"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索 / 報道",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "国慶節まで3日、各地の景勝地・博物館のチケットが予約満了",
-          "summary_ja": "国慶節連休の開始を前に、多くの景勝地や博物館のチケットが予約で埋まっている。",
-          "source": "光明網",
-          "url": "https://m.gmw.cn/2026-09/28/content_1304569041.htm"
+          "title_ja": "ビール各社、販促強化 小売りはPB値下げ（酒税改正）",
+          "summary_ja": "酒税改正に合わせ大手ビール各社が販促を強化し、小売り大手はPBビールを値下げして需要の取り込みを狙う。",
+          "source": "時事ドットコム",
+          "url": "https://www.jiji.com/jc/article?k=2026093000872&g=eco"
         },
         {
-          "title_ja": "美団が2026年の秋の紅葉人気目的地を発表",
-          "summary_ja": "美団が国慶節・秋の行楽に向けて、人気の観光先や民宿の傾向を発表した。",
-          "source": "网易",
-          "url": "https://www.163.com/dy/article/L7UAJSAU0512D3VJ.html"
+          "title_ja": "2026年10月1日の酒税改正、ビールとチューハイはいくら変わる？",
+          "summary_ja": "ビール・発泡酒・新ジャンルの税率が350ml換算54.25円に一本化。ビールは9.10円減税、新ジャンルは7.26円、チューハイ等は7円の増税となる。",
+          "source": "all-senmonka",
+          "url": "https://www.all-senmonka.jp/moneyizm/news/316239/"
+        },
+        {
+          "title_ja": "2026年10月の酒税法改正でクラフトビールは値上げ？値下げ？",
+          "summary_ja": "ヤッホーブルーイングが酒税改正に伴う価格改定を発表。希望小売価格（税抜）が9円下がる。",
+          "source": "ヤッホーブルーイング",
+          "url": "https://yohobrewing.com/press_room/story/liquortax_pricechange/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "国庆旅游",
+      "reason_ja": "国慶7連休で長距離旅行が増加。航空券予約は前年比44％増",
+      "genre": "outdoor",
+      "commercial_score": 75,
+      "product_keywords": [
+        "travel luggage",
+        "travel pillow"
+      ],
+      "product_keywords_ja": [
+        "スーツケース",
+        "トラベルピロー",
+        "旅行 便利グッズ"
+      ],
+      "trend_source": "微博热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "2026中秋国庆双节出游预测报告：连休带动远途深度游订单增长",
+          "summary_ja": "中秋と国慶の連休で長距離旅行の注文が増加。航空券予約は前年比44％増、2000km超の長距離は76％増。",
+          "source": "21财经",
+          "url": "https://m.21jingji.com/article/20260921/herald/8cb4315c67ef9b25b5199a196f94b63c.html"
+        },
+        {
+          "title_ja": "2026中秋国庆双节出游预测报告",
+          "summary_ja": "国慶期間は省またぎの旅行が82％。人気景勝地は上海ディズニーや北京ユニバーサルなど。",
+          "source": "腾讯新闻",
+          "url": "https://news.qq.com/rain/a/20260918A05TRC00"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "barrel leg pants",
-      "reason_ja": "バレルレッグ（樽型）パンツ・ジーンズが2026年の主要トレンドとして検索が急増している。秋には後継の「チューリップジーンズ」も話題。",
+      "keyword": "ふるさと納税 10月から",
+      "reason_ja": "10月切り替えを前にふるさと納税の制度・返礼品に関する検索が増加",
       "genre": "other",
-      "commercial_score": 70,
+      "commercial_score": 60,
       "product_keywords": [
-        "barrel leg jeans",
-        "tulip jeans",
-        "wide leg pants"
+        "ふるさと納税 返礼品"
       ],
-      "trend_source": "Exploding Topics / Google Trends US",
+      "product_keywords_ja": [
+        "ふるさと納税 米",
+        "ふるさと納税 お肉"
+      ],
+      "trend_source": "Google Trends JP (RankNavi経由)",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "2026年秋のバレルレッグジーンズの着こなし5選",
-          "summary_ja": "2026年秋向けに、バレルレッグジーンズのコーディネート例を5つ紹介する記事。",
-          "source": "Who What Wear",
-          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026"
-        },
-        {
-          "title_ja": "バレルジーンズに代わる新デニム「チューリップジーンズ」",
-          "summary_ja": "腰から太ももにかけてボリュームを持たせ、足首に向けて細くなるチューリップジーンズが2026年秋の新しいデニムとして紹介されている。",
-          "source": "Grazia",
-          "url": "https://graziamagazine.com/us/articles/tulip-jeans-denim-trend-fall-2026/"
+          "title_ja": "ふるさと納税が10月から改悪！費用の割合変更や控除額の上限設定など解説",
+          "summary_ja": "10月の制度変更で募集経費の上限引き下げなどが段階的に進む点を解説。記事はポイント付与禁止後の動向にも触れている。",
+          "source": "ふるさと納税情報サイト",
+          "url": "https://furu-sato.com/magazine/42062/"
         }
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "keyword": "lychee",
-      "reason_ja": "TikTokでライチ風味のドリンクが流行し、ライチソーダやシロップの検索が増えている。",
-      "genre": "food",
+      "keyword": "Napoleon jacket",
+      "reason_ja": "ロンドンの秋ファッションで話題のナポレオンジャケット",
+      "genre": "beauty",
+      "commercial_score": 58,
+      "product_keywords": [
+        "napoleon jacket"
+      ],
+      "product_keywords_ja": [
+        "ミリタリージャケット レディース"
+      ],
+      "trend_source": "Who What Wear / 報道",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "These 5 Autumn Fashion Trends Will Be All Over London in 2026",
+          "summary_ja": "ナポレオンジャケットが、インディー・スリーズ風のこなれ感とノスタルジーを兼ね備えロンドンで流行すると紹介。",
+          "source": "Who What Wear",
+          "url": "https://www.whowhatwear.com/fashion/trends/autumn-london-fashion-trends-2026"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Grok",
+      "reason_ja": "Grokipedia v0.3公開やGrok 4.7などxAIの新機能が話題",
+      "genre": "ai",
       "commercial_score": 55,
       "product_keywords": [
-        "lychee soda",
-        "lychee syrup"
+        "AI assistant app"
       ],
-      "trend_source": "TikTok Trends",
+      "product_keywords_ja": [
+        "AI アシスタント",
+        "生成AI 入門書"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "2026年9月のTikTokトレンド",
-          "summary_ja": "ライチウォーターがTikTokで流行しており、上位ブランドは月2,000個以上を販売。ライチソーダ、シロップ、ウォッカの検索も増えている。",
-          "source": "Exploding Topics",
-          "url": "https://explodingtopics.com/blog/tiktok-trends"
+          "title_ja": "SpaceXAI Launches Grokipedia v0.3 With New Visuals and Features",
+          "summary_ja": "9月30日に予告なくGrokipedia v0.3を公開。Grok 4.7やVoice Transcribe 2.0に続くAI製品の拡大の一環。",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/09/30/spacexai-grokipedia-v03-launch"
+        },
+        {
+          "title_ja": "Grok 4.7 is now available on Amazon Bedrock",
+          "summary_ja": "Grok 4.7がAmazon Bedrockで利用可能になったことを伝えるAWSの公式ブログ。",
+          "source": "AWS",
+          "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "国庆档电影",
-      "reason_ja": "国慶節映画シーズンが始まり、微博が主演陣のライブ配信などの交流企画を展開して話題になっている。",
+      "keyword": "国庆档 神探之痕迹",
+      "reason_ja": "国庆7連休が始まり、映画『神探之痕迹』が興行首位。映画・エンタメ消費が活発",
       "genre": "other",
-      "commercial_score": 50,
+      "commercial_score": 45,
       "product_keywords": [
-        "映画 グッズ"
+        "movie tickets"
       ],
-      "trend_source": "Weibo hot search",
+      "product_keywords_ja": [],
+      "trend_source": "微博热搜",
+      "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "2026年国慶節映画シーズンの微博イベントが開始",
-          "summary_ja": "微博が国慶節映画の交流企画を開始。主要スタッフのライブ配信やスーパートピックでの交流ができる。",
+          "title_ja": "2026国庆档票房破8000万 《神探之痕迹》等暂列票房榜前三",
+          "summary_ja": "国慶連休の興行収入が8000万元を突破し、『神探之痕迹』『什么意思夫妇』『重生2』が上位3作品。",
           "source": "微博",
-          "url": "https://weibo.com/2/detail/5346618480003745"
+          "url": "https://weibo.com/2/detail/5349152078957311"
+        },
+        {
+          "title_ja": "《神探之痕迹》预售票房破千万 领跑国庆档",
+          "summary_ja": "陳思誠監督、張訳・馬麗主演の捜査ものが前売りで1000万元を突破し国慶興行をリード。",
+          "source": "新浪财经",
+          "url": "http://finance.sina.com.cn/jjxw/2026-09-30/doc-initqkpm2263460.shtml"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "keyword": "泸沽湖",
+      "reason_ja": "国慶初日の泸沽湖の来場者が約2.5万人で話題",
+      "genre": "outdoor",
+      "commercial_score": 40,
+      "product_keywords": [
+        "camera",
+        "outdoor jacket"
+      ],
+      "product_keywords_ja": [
+        "ミラーレスカメラ",
+        "アウトドア ジャケット"
+      ],
+      "trend_source": "微博",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "泸沽湖今天人多不多？国庆首日实测：2.5万+客流",
+          "summary_ja": "国慶初日の泸沽湖は来場者約2.5万人。それでも貸切で撮影できるスポットがあるという実測レポート。",
+          "source": "微博",
+          "url": "https://weibo.com/2/detail/comos:nitsttz6184512"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "アジア大会 柔道",
+      "reason_ja": "アジア大会の柔道が話題。スポーツ観戦関連の需要",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "judo gi"
+      ],
+      "product_keywords_ja": [
+        "柔道着"
+      ],
+      "trend_source": "Google Trends JP (RankNavi経由)",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "急上昇中 - Google トレンド（日本）",
+          "summary_ja": "Google トレンドの急上昇ワードとして「アジア大会 柔道」が2000+検索で上位に表示されている。",
+          "source": "Google トレンド",
+          "url": "https://trends.google.co.jp/trending"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

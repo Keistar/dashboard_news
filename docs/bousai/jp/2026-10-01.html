@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-01 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #120606;
+    --line: #421818;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f08070;
+    --signal: #ff9080;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; DISASTER PREPAREDNESS &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-01 &middot; 16:08 JST &middot; 8 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風27号チョーイワン発生、小笠原近海へ北上</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">88<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">10月1日未明にマリアナ諸島で台風27号が発生した。発達しながら北上し、5日には強い勢力で小笠原近海へ進む見込み。進路が西寄りなら本州にも大きな影響が出るおそれがある。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://tenki.jp/forecaster/deskpart/2026/10/01/40812.html" target="_blank" rel="noopener noreferrer">
+                tenki.jp <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風27号は発達し5日に強い勢力で小笠原へ</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">台風27号は発達しながら北上し、5日から強い勢力で小笠原近海に近づく予想。本州への影響は進路次第で、予報のぶれが大きいため最新情報の確認が必要。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://tenki.jp/forecaster/t_yoshida/2026/10/01/40811.html" target="_blank" rel="noopener noreferrer">
+                tenki.jp <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風26号、伊豆諸島接近で関東は土砂災害注意</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">84<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">台風26号は10月1日にかけて伊豆諸島に接近する。気象庁は関東甲信で土砂災害や低地の浸水、川の増水への警戒を呼びかけている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nikkei.com/article/DGXZQOUD300W10Q6A930C2000000/" target="_blank" rel="noopener noreferrer">
+                日本経済新聞 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風26号接近、東京都心は35日連続の降雨</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">74<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">台風26号が伊豆諸島に接近する中、東京都心は35日連続で降雨を記録した。地盤の緩みによる土砂災害への警戒が続く。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nikkei.com/article/DGXZQOUD30B0Q0Q6A930C2000000/" target="_blank" rel="noopener noreferrer">
+                日本経済新聞 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風26号、伊豆諸島で30日夜から1日明け方がピーク</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">72<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">台風26号の伊豆諸島への影響は30日夜から1日明け方がピークとなる見通し。関東への影響や高波、大気の不安定さについて解説している。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://tenki.jp/forecaster/r_tokuda/2026/09/30/40807.html" target="_blank" rel="noopener noreferrer">
+                tenki.jp <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">与那国島近海でM6.0の地震、最大震度3</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">9月30日午後、与那国島近海を震源とするM6.0の地震があり、沖縄県与那国町で震度3を観測した。気象庁は若干の海面変動の可能性はあるが被害の心配はないとしている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://typhoon.yahoo.co.jp/weather/jp/earthquake/20260930140037.html" target="_blank" rel="noopener noreferrer">
+                Yahoo!天気・災害 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">07</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">台風25号の千葉被害と復旧状況、26号の影響</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">66<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">9月中旬の台風25号で千葉県は記録的大雨に見舞われ、河川の氾濫や交通寸断が発生した。復旧状況と台風26号の影響についてまとめている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://tarosoku.jp/2026/09/25/typhoon25-chiba-damage-recovery-typhoon26-forecast/" target="_blank" rel="noopener noreferrer">
+                たろ速 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">08</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">防災の日に見直す備えチェックリスト9項目</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">地震や豪雨、保険まで総点検する防災チェックリストを紹介。水や食料の備蓄、ライト、簡易トイレなどの見直しポイントを整理している。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://nics-gp.co.jp/media/lifestyle/bousai-day-checklist-2026/" target="_blank" rel="noopener noreferrer">
+                くらしのコンパス <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

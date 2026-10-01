@@ -1,0 +1,90 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:10+09:00",
+  "trends": [
+    {
+      "keyword": "国庆旅游",
+      "reason_ja": "国慶7連休で長距離旅行が増加。航空券予約は前年比44％増",
+      "genre": "outdoor",
+      "commercial_score": 75,
+      "product_keywords": [
+        "travel luggage",
+        "travel pillow"
+      ],
+      "product_keywords_ja": [
+        "スーツケース",
+        "トラベルピロー",
+        "旅行 便利グッズ"
+      ],
+      "trend_source": "微博热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "2026中秋国庆双节出游预测报告：连休带动远途深度游订单增长",
+          "summary_ja": "中秋と国慶の連休で長距離旅行の注文が増加。航空券予約は前年比44％増、2000km超の長距離は76％増。",
+          "source": "21财经",
+          "url": "https://m.21jingji.com/article/20260921/herald/8cb4315c67ef9b25b5199a196f94b63c.html"
+        },
+        {
+          "title_ja": "2026中秋国庆双节出游预测报告",
+          "summary_ja": "国慶期間は省またぎの旅行が82％。人気景勝地は上海ディズニーや北京ユニバーサルなど。",
+          "source": "腾讯新闻",
+          "url": "https://news.qq.com/rain/a/20260918A05TRC00"
+        }
+      ]
+    },
+    {
+      "keyword": "国庆档 神探之痕迹",
+      "reason_ja": "国庆7連休が始まり、映画『神探之痕迹』が興行首位。映画・エンタメ消費が活発",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "movie tickets"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "微博热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "2026国庆档票房破8000万 《神探之痕迹》等暂列票房榜前三",
+          "summary_ja": "国慶連休の興行収入が8000万元を突破し、『神探之痕迹』『什么意思夫妇』『重生2』が上位3作品。",
+          "source": "微博",
+          "url": "https://weibo.com/2/detail/5349152078957311"
+        },
+        {
+          "title_ja": "《神探之痕迹》预售票房破千万 领跑国庆档",
+          "summary_ja": "陳思誠監督、張訳・馬麗主演の捜査ものが前売りで1000万元を突破し国慶興行をリード。",
+          "source": "新浪财经",
+          "url": "http://finance.sina.com.cn/jjxw/2026-09-30/doc-initqkpm2263460.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "泸沽湖",
+      "reason_ja": "国慶初日の泸沽湖の来場者が約2.5万人で話題",
+      "genre": "outdoor",
+      "commercial_score": 40,
+      "product_keywords": [
+        "camera",
+        "outdoor jacket"
+      ],
+      "product_keywords_ja": [
+        "ミラーレスカメラ",
+        "アウトドア ジャケット"
+      ],
+      "trend_source": "微博",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "泸沽湖今天人多不多？国庆首日实测：2.5万+客流",
+          "summary_ja": "国慶初日の泸沽湖は来場者約2.5万人。それでも貸切で撮影できるスポットがあるという実測レポート。",
+          "source": "微博",
+          "url": "https://weibo.com/2/detail/comos:nitsttz6184512"
+        }
+      ]
+    }
+  ]
+}

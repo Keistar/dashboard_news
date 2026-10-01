@@ -1,0 +1,106 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:10+09:00",
+  "trends": [
+    {
+      "keyword": "Costco",
+      "reason_ja": "Costco関連の検索が急上昇。新店舗オープンと10月クーポンブック、新商品が話題",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "costco coupon book",
+        "pumpkin pie"
+      ],
+      "product_keywords_ja": [
+        "コストコ 商品",
+        "コストコ お菓子"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Costco's October 2026 Products: Best Items To Buy This Month",
+          "summary_ja": "10月のおすすめ商品を紹介。ツイステッドチュロスがフードコートに2年ぶりに復活し、パンプキンパイやハロウィンキャンディも並ぶ。",
+          "source": "Tasting Table",
+          "url": "https://www.tastingtable.com/2273107/best-costco-products-october-2026/"
+        },
+        {
+          "title_ja": "Costco Coupons Book $400 in October 2026",
+          "summary_ja": "10月のクーポンブックは9月21日から10月18日まで。レノボの2-in-1ノートPCが300ドル引き、薬・サプリのページが充実。",
+          "source": "Slickdeals",
+          "url": "https://daily.slickdeals.net/shopping/costco-coupon-book/"
+        },
+        {
+          "title_ja": "33 new Costco stores announced",
+          "summary_ja": "Costcoが新店舗33店舗の計画を発表。所在地などをまとめた記事。",
+          "source": "The Hill",
+          "url": "https://thehill.com/business/6112042-33-new-costco-locations-announced-heres-what-we-know-about-their-locations/"
+        }
+      ]
+    },
+    {
+      "keyword": "Halloween spending",
+      "reason_ja": "ハロウィン商戦が本格化。NRFが支出は135億ドルと予測",
+      "genre": "other",
+      "commercial_score": 82,
+      "product_keywords": [
+        "halloween costumes",
+        "halloween decorations",
+        "halloween candy"
+      ],
+      "product_keywords_ja": [
+        "ハロウィン 衣装",
+        "ハロウィン 飾り付け",
+        "ハロウィン お菓子"
+      ],
+      "trend_source": "Google Trends US / 報道",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "NRF: 2026 Halloween spending expected to rise 3.82%",
+          "summary_ja": "NRFによると支出は135億ドル（前年比3.82％増）。仮装に44億ドル、飾り付けに43億ドル、キャンディに41億ドルの見込み。",
+          "source": "Talk Business & Politics",
+          "url": "https://talkbusiness.net/2026/09/nrf-2026-halloween-spending-expected-to-rise-3-82/"
+        },
+        {
+          "title_ja": "Halloween Spending Expected To Reach $13.5 Billion",
+          "summary_ja": "全米菓子協会による記事。消費者の96％がお菓子を購入予定で、お得さを重視する傾向が強い。",
+          "source": "NCA",
+          "url": "https://candyusa.com/cst/halloween-spending-expected-to-reach-13-5-billion/"
+        }
+      ]
+    },
+    {
+      "keyword": "Grok",
+      "reason_ja": "Grokipedia v0.3公開やGrok 4.7などxAIの新機能が話題",
+      "genre": "ai",
+      "commercial_score": 55,
+      "product_keywords": [
+        "AI assistant app"
+      ],
+      "product_keywords_ja": [
+        "AI アシスタント",
+        "生成AI 入門書"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "SpaceXAI Launches Grokipedia v0.3 With New Visuals and Features",
+          "summary_ja": "9月30日に予告なくGrokipedia v0.3を公開。Grok 4.7やVoice Transcribe 2.0に続くAI製品の拡大の一環。",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/09/30/spacexai-grokipedia-v03-launch"
+        },
+        {
+          "title_ja": "Grok 4.7 is now available on Amazon Bedrock",
+          "summary_ja": "Grok 4.7がAmazon Bedrockで利用可能になったことを伝えるAWSの公式ブログ。",
+          "source": "AWS",
+          "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock"
+        }
+      ]
+    }
+  ]
+}
