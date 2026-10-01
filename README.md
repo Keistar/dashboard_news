@@ -62,6 +62,9 @@
    - 通信できる環境なら、`python scripts/fetch_trends_rss.py --geo JP,US,GB` で Google トレンド RSS から候補ワードを取れます。
 2. **選別する**
    - 各ワードに `commercial_score`（商品に結びつくほど高い、1〜100）と `product_keywords`（1〜3語）を付けます。
+   - あわせて `product_keywords_ja`（0〜3語）を付けます。**日本の楽天市場で同じ商品を探すときの日本語の検索語**です
+     （例: 英国の `heated airer` → `["電気 物干し", "衣類乾燥 物干しスタンド"]`）。日本のトレンドでは `product_keywords` と同じでかまいません。
+     日本で該当する商品が思い当たらなければ空の配列にします。OSSU（ossu.logik2.com）が「海外で先に話題」の判定に使います。
    - 訃報・事件・事故・災害の被害・政治は `brand_safe: false` にします。スクリプトが自動で除外します。
 3. **関連記事を付ける**：ワードごとに1〜3本の記事を集めて、日本語で要約します。
 4. **生成する**：`python scripts/generate_dashboard.py --genre trends --input trends.json [--date YYYY-MM-DD]`
@@ -70,7 +73,8 @@
 ```json
 {"jp": [{"keyword": "ポータブル電源", "reason_ja": "台風接近で検索急増", "genre": "bousai",
          "commercial_score": 90, "brand_safe": true,
-         "product_keywords": ["ポータブル電源", "ソーラーパネル"], "trend_source": "Google Trends JP",
+         "product_keywords": ["ポータブル電源", "ソーラーパネル"],
+         "product_keywords_ja": ["ポータブル電源", "ソーラーパネル"], "trend_source": "Google Trends JP",
          "articles": [{"title_ja": "...", "summary_ja": "...", "source": "...", "url": "..."}]}]}
 ```
 `genre` には既存ジャンルのコードか `other` を入れます。1か国あたりスコアの高い順に最大10件、記事は3本まで、キーワードは3語までに切り詰めます。

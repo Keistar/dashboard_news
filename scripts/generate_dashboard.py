@@ -45,6 +45,7 @@ Trends feed (--genre trends, --input required):
         "commercial_score": integer 1-100 (how easily it maps to products),
         "brand_safe": true | false (false = dropped: deaths, crime, disasters, politics),
         "product_keywords": ["product search term", ...] (1-3),
+        "product_keywords_ja": ["Japanese search term for the same products on Rakuten", ...] (0-3, optional),
         "trend_source": "where the trend was observed",
         "articles": [{"title_ja", "summary_ja", "source", "url"}, ...] (1-3)
       }
@@ -392,6 +393,7 @@ def load_trends_from_file(path: str) -> dict[str, list[dict]]:
                 "genre": genre if genre in GENRES else "other",
                 "commercial_score": _clamp_score(item.get("commercial_score")),
                 "product_keywords": _clean_keywords(item.get("product_keywords")),
+                "product_keywords_ja": _clean_keywords(item.get("product_keywords_ja")),
                 "trend_source": str(item.get("trend_source", "")).strip(),
                 "articles": articles,
             })
