@@ -47,6 +47,7 @@ Trends feed (--genre trends, --input required):
         "product_keywords": ["product search term", ...] (1-3),
         "product_keywords_ja": ["Japanese search term for the same products on Rakuten", ...] (0-3, optional),
         "trend_source": "where the trend was observed",
+        "trend_source_type": "search | sns | news | ec_ranking | other" (kind of trend_source),
         "articles": [{"title_ja", "summary_ja", "source", "url"}, ...] (1-3)
       }
     ]
@@ -369,6 +370,14 @@ def _clean_keywords(value) -> list[str]:
     return [k.strip() for k in value if isinstance(k, str) and k.strip()][:MAX_PRODUCT_KEYWORDS]
 
 
+TREND_SOURCE_TYPES = ("search", "sns", "news", "ec_ranking", "other")
+
+
+def _clean_source_type(value) -> str:
+    value = str(value or "").strip().lower()
+    return value if value in TREND_SOURCE_TYPES else "other"
+
+
 def load_trends_from_file(path: str) -> dict[str, list[dict]]:
     """Read the trends input, dropping brand-unsafe items and normalising fields."""
     with open(path, encoding="utf-8") as f:
@@ -395,6 +404,7 @@ def load_trends_from_file(path: str) -> dict[str, list[dict]]:
                 "product_keywords": _clean_keywords(item.get("product_keywords")),
                 "product_keywords_ja": _clean_keywords(item.get("product_keywords_ja")),
                 "trend_source": str(item.get("trend_source", "")).strip(),
+                "trend_source_type": _clean_source_type(item.get("trend_source_type")),
                 "articles": articles,
             })
         trends.sort(key=lambda t: t["commercial_score"] or 0, reverse=True)
