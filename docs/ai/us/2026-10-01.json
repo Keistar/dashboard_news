@@ -1,0 +1,84 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:09+09:00",
+  "stories": [
+    {
+      "title_ja": "Anthropic、Claude Sonnet 5.5を発表",
+      "summary_ja": "Anthropicは前世代より30%高速でコストも下がったSonnet 5.5を公開した。価格は据え置きで、AWS、Google Cloud、Azureでも利用できる。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
+      "score": 88,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Claude"
+      ]
+    },
+    {
+      "title_ja": "OpenAI、GPT-6 SolとLunaを発表し価格半減",
+      "summary_ja": "OpenAIはGPT-6 SolとLunaをAPI、Codex、ChatGPTで提供開始した。トークン価格は従来の半分で、100万トークン超の文脈長を持つ。",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/openai-gpt-6-sol-luna-release/",
+      "score": 87,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ChatGPT",
+        "OpenAI API"
+      ]
+    },
+    {
+      "title_ja": "FTC、OpenAIとAnthropicの消費者リスクを調査",
+      "summary_ja": "米FTCがOpenAIやAnthropicなどAI大手に対し、消費者への危険性を巡る調査を開始した。民事調査要求で社内記録の提出や幹部の証言を求める。",
+      "source": "US News",
+      "url": "https://usnews.com/news/technology/articles/2026-09-30/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers",
+      "score": 86,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "OpenAI、評価額1.4兆ドルで300億ドル調達へ",
+      "summary_ja": "OpenAIは約1.4兆ドルの評価額で少なくとも300億ドルを調達する交渉を進めている。IPOの時期や構造は引き続き検討中という。",
+      "source": "American Bazaar",
+      "url": "https://americanbazaaronline.com/2026/09/30/openai-reportedly-targets-1-4t-valuation-in-new-funding-round-489091/",
+      "score": 84,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "NVIDIA、AIエージェント向け安全基盤を公開",
+      "summary_ja": "NVIDIAはAIエージェントが制御を逸脱するのを防ぐOpen Agent Safety Platformを公開した。エージェント活用の安全性確保を狙う。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "NVIDIA GPU"
+      ]
+    },
+    {
+      "title_ja": "ホワイトハウスでAI安全協定に主要企業が署名",
+      "summary_ja": "トランプ大統領とOpenAI、Anthropic、Google、Nvidiaなどの幹部が、内部評価や外部監査を柱とする自主的な安全協定に署名した。",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/google-anthropic-meta-nvidia-openai-xai-executives-sign-white-house-accord-on-super-intelligen-ce785ad2df8af42d",
+      "score": 80,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "Anthropicの上場に向けた軌跡と目論見書",
+      "summary_ja": "Anthropicがスタートアップから業界を代表する企業としてIPOに至った経緯を伝える記事。目論見書ではAIの存亡リスクにも言及している。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-path-ai-startup-industry-235243135.html",
+      "score": 72,
+      "commercial_score": 35
+    },
+    {
+      "title_ja": "今週の大型調達はAIインフラが中心",
+      "summary_ja": "Crunchbaseによる今週の大型資金調達トップ10。AIインフラや宇宙技術、資産運用分野の大型ラウンドが目立った。",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "score": 65,
+      "commercial_score": 40
+    }
+  ]
+}

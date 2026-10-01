@@ -1,0 +1,92 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:10+09:00",
+  "trends": [
+    {
+      "keyword": "heated airer",
+      "reason_ja": "秋の湿気シーズンで室内干し家電の需要が急増",
+      "genre": "gadget",
+      "commercial_score": 88,
+      "product_keywords": [
+        "heated airer",
+        "dehumidifier"
+      ],
+      "product_keywords_ja": [
+        "電気 物干し",
+        "衣類乾燥 除湿機",
+        "衣類乾燥 物干しスタンド"
+      ],
+      "trend_source": "UK demand index / Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Aldi's sellout heated airer and dehumidifier are back for 2026",
+          "summary_ja": "Aldiの毎冬売り切れる電気式衣類乾燥ラックと除湿機が2026年も再登場。",
+          "source": "Ideal Home",
+          "url": "https://www.idealhome.co.uk/house-manual/laundry/aldi-heated-airer-and-dehumidifier-2026"
+        },
+        {
+          "title_ja": "Heated airer vs dehumidifier: which is best for drying clothes indoors?",
+          "summary_ja": "電気式乾燥ラックと除湿機の比較ガイド。室内干しの電気代や使い分けを解説。",
+          "source": "Currys",
+          "url": "https://www.currys.co.uk/techtalk/kitchen-and-home/heated-airer-vs-dehumidifier.html"
+        },
+        {
+          "title_ja": "Damp season is here: early Prime Day deals",
+          "summary_ja": "湿気の季節を迎え、除湿機を中心に早期プライムデーのセールを紹介。",
+          "source": "LADbible",
+          "url": "https://www.ladbible.com/lifestyle/best-dehumidifiers-winter-969123-20260929"
+        }
+      ]
+    },
+    {
+      "keyword": "dehumidifier",
+      "reason_ja": "光熱費高騰の中、乾燥機より安い除湿機が注目",
+      "genre": "gadget",
+      "commercial_score": 84,
+      "product_keywords": [
+        "dehumidifier",
+        "moisture absorber"
+      ],
+      "product_keywords_ja": [
+        "除湿機 衣類乾燥",
+        "除湿剤"
+      ],
+      "trend_source": "UK demand index",
+      "trend_source_type": "other",
+      "articles": [
+        {
+          "title_ja": "Dehumidifier Running Costs UK 2026: From 5p an Hour",
+          "summary_ja": "英国での除湿機の電気代は1時間約5ペンスから。ランニングコストを解説。",
+          "source": "The Home Energy Hub",
+          "url": "https://www.thehomeenergyhub.co.uk/blog/dehumidifier-running-costs-uk"
+        }
+      ]
+    },
+    {
+      "keyword": "Napoleon jacket",
+      "reason_ja": "ロンドンの秋ファッションで話題のナポレオンジャケット",
+      "genre": "beauty",
+      "commercial_score": 58,
+      "product_keywords": [
+        "napoleon jacket"
+      ],
+      "product_keywords_ja": [
+        "ミリタリージャケット レディース"
+      ],
+      "trend_source": "Who What Wear / 報道",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "These 5 Autumn Fashion Trends Will Be All Over London in 2026",
+          "summary_ja": "ナポレオンジャケットが、インディー・スリーズ風のこなれ感とノスタルジーを兼ね備えロンドンで流行すると紹介。",
+          "source": "Who What Wear",
+          "url": "https://www.whowhatwear.com/fashion/trends/autumn-london-fashion-trends-2026"
+        }
+      ]
+    }
+  ]
+}

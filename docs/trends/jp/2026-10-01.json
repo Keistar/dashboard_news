@@ -1,0 +1,122 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:08:10+09:00",
+  "trends": [
+    {
+      "keyword": "10月 値上げ",
+      "reason_ja": "10月1日に食品3,033品目が値上げされ、家計防衛の検索が急増",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "冷凍食品",
+        "醤油",
+        "お菓子"
+      ],
+      "product_keywords_ja": [
+        "冷凍食品",
+        "しょうゆ",
+        "お菓子 まとめ買い"
+      ],
+      "trend_source": "Google Trends JP / 報道",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年10月の値上げ一覧　食品3,033品目",
+          "summary_ja": "帝国データバンク調査で10月の値上げ飲食料品は3,033品目。味の素冷凍食品は約5〜8％、ヤクルトは乳製品12品を約8.3〜12.5％、江崎グリコは161品を値上げする。",
+          "source": "値上げ予報",
+          "url": "https://neage-yohou.hatenablog.com/entry/2026-10-price-increase"
+        },
+        {
+          "title_ja": "2026年10月1日、食品3,033品目が値上げ",
+          "summary_ja": "江崎グリコ・キリンビバレッジ・東洋水産などの値上げ幅と酒税改正の影響をまとめた解説記事。",
+          "source": "文系エンジニアの日記",
+          "url": "https://vegcale.com/2026/09/19/food-price-hike-october-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "酒税改正 ビール",
+      "reason_ja": "10月1日の酒税一本化でビールが減税、新ジャンルは増税。各社が販促を強化",
+      "genre": "food",
+      "commercial_score": 78,
+      "product_keywords": [
+        "beer",
+        "craft beer"
+      ],
+      "product_keywords_ja": [
+        "ビール ケース",
+        "クラフトビール 飲み比べ"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索 / 報道",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ビール各社、販促強化 小売りはPB値下げ（酒税改正）",
+          "summary_ja": "酒税改正に合わせ大手ビール各社が販促を強化し、小売り大手はPBビールを値下げして需要の取り込みを狙う。",
+          "source": "時事ドットコム",
+          "url": "https://www.jiji.com/jc/article?k=2026093000872&g=eco"
+        },
+        {
+          "title_ja": "2026年10月1日の酒税改正、ビールとチューハイはいくら変わる？",
+          "summary_ja": "ビール・発泡酒・新ジャンルの税率が350ml換算54.25円に一本化。ビールは9.10円減税、新ジャンルは7.26円、チューハイ等は7円の増税となる。",
+          "source": "all-senmonka",
+          "url": "https://www.all-senmonka.jp/moneyizm/news/316239/"
+        },
+        {
+          "title_ja": "2026年10月の酒税法改正でクラフトビールは値上げ？値下げ？",
+          "summary_ja": "ヤッホーブルーイングが酒税改正に伴う価格改定を発表。希望小売価格（税抜）が9円下がる。",
+          "source": "ヤッホーブルーイング",
+          "url": "https://yohobrewing.com/press_room/story/liquortax_pricechange/"
+        }
+      ]
+    },
+    {
+      "keyword": "ふるさと納税 10月から",
+      "reason_ja": "10月切り替えを前にふるさと納税の制度・返礼品に関する検索が増加",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "ふるさと納税 返礼品"
+      ],
+      "product_keywords_ja": [
+        "ふるさと納税 米",
+        "ふるさと納税 お肉"
+      ],
+      "trend_source": "Google Trends JP (RankNavi経由)",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ふるさと納税が10月から改悪！費用の割合変更や控除額の上限設定など解説",
+          "summary_ja": "10月の制度変更で募集経費の上限引き下げなどが段階的に進む点を解説。記事はポイント付与禁止後の動向にも触れている。",
+          "source": "ふるさと納税情報サイト",
+          "url": "https://furu-sato.com/magazine/42062/"
+        }
+      ]
+    },
+    {
+      "keyword": "アジア大会 柔道",
+      "reason_ja": "アジア大会の柔道が話題。スポーツ観戦関連の需要",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "judo gi"
+      ],
+      "product_keywords_ja": [
+        "柔道着"
+      ],
+      "trend_source": "Google Trends JP (RankNavi経由)",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "急上昇中 - Google トレンド（日本）",
+          "summary_ja": "Google トレンドの急上昇ワードとして「アジア大会 柔道」が2000+検索で上位に表示されている。",
+          "source": "Google トレンド",
+          "url": "https://trends.google.co.jp/trending"
+        }
+      ]
+    }
+  ]
+}
