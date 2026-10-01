@@ -65,6 +65,11 @@
    - あわせて `product_keywords_ja`（0〜3語）を付けます。**日本の楽天市場で同じ商品を探すときの日本語の検索語**です
      （例: 英国の `heated airer` → `["電気 物干し", "衣類乾燥 物干しスタンド"]`）。日本のトレンドでは `product_keywords` と同じでかまいません。
      日本で該当する商品が思い当たらなければ空の配列にします。OSSU（ossu.logik2.com）が「海外で先に話題」の判定に使います。
+   - `trend_source`（どこで話題を観測したか）に加えて、その種類を `trend_source_type` に入れます。
+     `search`（Google トレンド・Yahoo!リアルタイム検索などの検索）／`sns`（X・TikTok・Weibo・Douyin など）／
+     `news`（報道・メディア）／`ec_ranking`（楽天・Amazon などの EC の売れ筋ランキング）／`other` のどれか。
+     **EC のランキングから拾ったものは必ず `ec_ranking`** にします。OSSU は楽天ランキングを自前で記録しているため、
+     `ec_ranking` のトレンドを「ランキングより先に話題になったもの」とは扱いません。
    - 訃報・事件・事故・災害の被害・政治は `brand_safe: false` にします。スクリプトが自動で除外します。
 3. **関連記事を付ける**：ワードごとに1〜3本の記事を集めて、日本語で要約します。
 4. **生成する**：`python scripts/generate_dashboard.py --genre trends --input trends.json [--date YYYY-MM-DD]`
@@ -75,6 +80,7 @@
          "commercial_score": 90, "brand_safe": true,
          "product_keywords": ["ポータブル電源", "ソーラーパネル"],
          "product_keywords_ja": ["ポータブル電源", "ソーラーパネル"], "trend_source": "Google Trends JP",
+         "trend_source_type": "search",
          "articles": [{"title_ja": "...", "summary_ja": "...", "source": "...", "url": "..."}]}]}
 ```
 `genre` には既存ジャンルのコードか `other` を入れます。1か国あたりスコアの高い順に最大10件、記事は3本まで、キーワードは3語までに切り詰めます。
