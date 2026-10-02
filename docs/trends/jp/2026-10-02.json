@@ -1,0 +1,192 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:35+09:00",
+  "trends": [
+    {
+      "keyword": "新米 コシヒカリ",
+      "reason_ja": "令和8年産の新米が楽天食品ランキング上位",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "new rice"
+      ],
+      "product_keywords_ja": [
+        "新米 コシヒカリ",
+        "令和8年産 米"
+      ],
+      "trend_source": "楽天ランキング",
+      "trend_source_type": "ec_ranking",
+      "articles": [
+        {
+          "title_ja": "楽天市場 食品ランキング",
+          "summary_ja": "徳島県産コシヒカリ新米などが上位",
+          "source": "楽天市場",
+          "url": "https://ranking.rakuten.co.jp/daily/100227/"
+        }
+      ]
+    },
+    {
+      "keyword": "HG ガンプラ ルブリス・ジウツ",
+      "reason_ja": "10/2 12時に予約開始しSNSで話題",
+      "genre": "other",
+      "commercial_score": 78,
+      "product_keywords": [
+        "Gundam model kit"
+      ],
+      "product_keywords_ja": [
+        "ガンプラ HG 1/144",
+        "ガンダム プラモデル"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
+          "summary_ja": "ガンプラ予約開始がSNSで話題に",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
+        }
+      ]
+    },
+    {
+      "keyword": "抗原検査キット",
+      "reason_ja": "インフルエンザ対応の抗原検査キットが生活雑貨ランキングで上位",
+      "genre": "health",
+      "commercial_score": 72,
+      "product_keywords": [
+        "antigen test kit"
+      ],
+      "product_keywords_ja": [
+        "抗原検査キット インフルエンザ"
+      ],
+      "trend_source": "楽天ランキング",
+      "trend_source_type": "ec_ranking",
+      "articles": [
+        {
+          "title_ja": "楽天市場 生活雑貨ランキング",
+          "summary_ja": "抗原検査キットやニトリル手袋が人気",
+          "source": "楽天市場",
+          "url": "https://ranking.rakuten.co.jp/daily/100554/"
+        }
+      ]
+    },
+    {
+      "keyword": "ストーブ ヒーター",
+      "reason_ja": "北海道で急な冷え込み、暖房需要が増加",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "heater",
+        "stove"
+      ],
+      "product_keywords_ja": [
+        "ストーブ",
+        "電気ヒーター"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
+          "summary_ja": "北海道の急な冷え込みでストーブ話題",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
+        }
+      ]
+    },
+    {
+      "keyword": "ノートパソコン Office付き",
+      "reason_ja": "Windows 11搭載の格安ノートPCが売れ筋",
+      "genre": "gadget",
+      "commercial_score": 68,
+      "product_keywords": [
+        "laptop"
+      ],
+      "product_keywords_ja": [
+        "ノートパソコン Office付き",
+        "ノートPC 新品"
+      ],
+      "trend_source": "楽天ランキング",
+      "trend_source_type": "ec_ranking",
+      "articles": [
+        {
+          "title_ja": "楽天市場 ノートPCランキング",
+          "summary_ja": "3万円台からのノートPCが上位",
+          "source": "楽天市場",
+          "url": "https://ranking.rakuten.co.jp/daily/100040/"
+        }
+      ]
+    },
+    {
+      "keyword": "ブリタ カートリッジ",
+      "reason_ja": "浄水器カートリッジが売れ筋上位",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "Brita cartridge"
+      ],
+      "product_keywords_ja": [
+        "ブリタ カートリッジ",
+        "浄水器 カートリッジ"
+      ],
+      "trend_source": "楽天ランキング",
+      "trend_source_type": "ec_ranking",
+      "articles": [
+        {
+          "title_ja": "楽天市場 生活雑貨ランキング",
+          "summary_ja": "ブリタの浄水器カートリッジが上位",
+          "source": "楽天市場",
+          "url": "https://ranking.rakuten.co.jp/daily/100554/"
+        }
+      ]
+    },
+    {
+      "keyword": "スヌーピー グッズ",
+      "reason_ja": "スヌーピーの日でSNSで盛り上がり",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "Snoopy goods"
+      ],
+      "product_keywords_ja": [
+        "スヌーピー グッズ"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
+          "summary_ja": "スヌーピーの日の投稿が増加",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
+        }
+      ]
+    },
+    {
+      "keyword": "豆腐 (豆腐の日)",
+      "reason_ja": "10月2日は豆腐の日でレシピ投稿が増加",
+      "genre": "food",
+      "commercial_score": 50,
+      "product_keywords": [
+        "tofu"
+      ],
+      "product_keywords_ja": [
+        "豆腐",
+        "絹ごし豆腐"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
+          "summary_ja": "豆腐の日に好みの食べ方が話題",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
+        }
+      ]
+    }
+  ]
+}

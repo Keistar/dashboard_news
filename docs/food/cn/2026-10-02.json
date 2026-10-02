@@ -1,0 +1,56 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
+  "stories": [
+    {
+      "title_ja": "中国が食品安全国家基準50件を公表",
+      "summary_ja": "国家衛健委と市場監管総局が、アクリルアミド、鉛、スズなどの汚染物質や添加物規格を含む国家食品安全基準50件を公表した。",
+      "source": "Flavorist",
+      "url": "https://www.flavorist.com/asia-food-flavor-regulatory-update-september-16-30-2026/",
+      "score": 70,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "中国が食品添加物7品目の意見募集を開始",
+      "summary_ja": "CFSAが9月10日、新規の栄養強化物質や添加物、使用範囲拡大など計7品目について意見募集を始めた。",
+      "source": "Flavorist",
+      "url": "https://www.flavorist.com/asia-food-flavor-regulatory-update-september-16-30-2026/",
+      "score": 55,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "中国、缶詰の国家食品安全基準を最終決定",
+      "summary_ja": "缶詰食品に関する新しい国家食品安全基準が最終決定された。調理済み食肉の衛生規範も公表されている。",
+      "source": "USDA FAS",
+      "url": "https://www.fas.usda.gov/data/china-national-food-safety-standard-canned-foods-finalized",
+      "score": 50,
+      "commercial_score": 10,
+      "product_keywords": [
+        "缶詰"
+      ]
+    },
+    {
+      "title_ja": "香港で10月に新規開業のレストラン14店",
+      "summary_ja": "SCMPが、食べ放題の和牛やフローズンヨーグルトなど、10月に香港で開業する新店14店を紹介した。",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/lifestyle/food-drink/article/3369313/14-new-hong-kong-restaurants-and-bars-october-all-you-can-eat-wagyu-froyo",
+      "score": 45,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "新食品原料の審査が進行、アルロース申請も",
+      "summary_ja": "国家衛健委の新食品原料審査が続き、D-アルロースの申請も確認された。低カロリー甘味料の動向として注目される。",
+      "source": "Flavorist",
+      "url": "https://www.flavorist.com/asia-food-flavor-regulatory-update-september-16-30-2026/",
+      "score": 40,
+      "commercial_score": 30,
+      "product_keywords": [
+        "アルロース"
+      ]
+    }
+  ]
+}

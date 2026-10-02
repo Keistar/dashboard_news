@@ -1,417 +1,318 @@
 {
   "genre": "pet",
   "genre_label_ja": "ペット",
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T16:08:09+09:00",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:35+09:00",
   "stories": [
     {
-      "title_ja": "英CMAが獣医サービスの最終命令を公表",
-      "summary_ja": "英競争・市場庁は9月22日、ペット向け獣医サービスの調査を終える最終命令を公表した。処方箋料の上限設定や料金表の明確化、治療見積書の提示などが義務付けられる。",
-      "source": "Resolver News",
-      "url": "https://news.resolver.co.uk/new-vet-rules-prescription-fees-capped-and-clearer-prices-for-pet-owners",
-      "score": 85,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ペット保険"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "いなば 2026年秋の猫用新商品を全国発売",
-      "summary_ja": "いなばペットフードが2026年秋の猫用新商品を全国発売した。歯と歯ぐきの健康に配慮したちゅ～るやだしゼリーなどが並ぶ。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000425.000058165.html",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ちゅ～る",
-        "猫 ウェットフード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Northwest Naturals、生食ペットフードをリコール",
-      "summary_ja": "オレゴン州のNorthwest Naturalsが冷凍チキン製品のサルモネラ・リステリア陽性を受け、犬猫用生食を全国でリコールした。対象はロット限定で、約2000ポンド。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/safety-quality/pet-food-recalls/news/15833699/northwest-naturals-voluntarily-recalls-raw-pet-food-products",
-      "score": 80,
-      "commercial_score": 55,
-      "product_keywords": [
-        "生食 ドッグフード"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "いなば 2026年秋の犬用新商品を全国発売",
-      "summary_ja": "いなばペットフードが犬用の秋の新商品を発売。ちゅ～るテリーヌやちゅ～るジャーキー、関節の健康に配慮したクランキーなどを展開する。",
+      "title_ja": "いなば、2026年秋の犬用新商品を全国発売",
+      "summary_ja": "いなばペットフードが2026年秋の犬用新商品を全国発売した。ちゅ～るテリーヌやジャーキー、関節や歯の健康に配慮した商品が並ぶ。",
       "source": "PR TIMES",
       "url": "https://prtimes.jp/main/html/rd/p/000000427.000058165.html",
-      "score": 76,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ちゅ～るテリーヌ",
-        "犬 ジャーキー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "猫缶の新商品「CIAO 香り立つ」を発売",
-      "summary_ja": "いなば食品が9月30日、猫用缶詰の新シリーズ「CIAO 香り立つ」全3品を発売した。香りを重視した嗜好性の高い缶詰となる。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000428.000058165.html",
       "score": 72,
-      "commercial_score": 88,
+      "commercial_score": 92,
       "product_keywords": [
-        "猫缶",
-        "CIAO"
+        "ちゅ～る 犬用",
+        "犬 おやつ",
+        "犬 関節ケア フード"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Farmer's Dog、Woofの買収を完了",
-      "summary_ja": "フレッシュフード大手The Farmer's Dogが、おやつ・知育玩具のWoofを買収した。同社初の買収で、栄養から知育・ウェルネスへ事業を広げる。",
+      "title_ja": "いなば、2026年秋の猫用新商品を全国発売",
+      "summary_ja": "いなばペットフードが猫用の2026年秋の新商品を全国で順次発売した。毎日の食事やおやつ向けに幅広いラインナップを展開する。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000425.000058165.html",
+      "score": 72,
+      "commercial_score": 93,
+      "product_keywords": [
+        "ちゅ～る 猫",
+        "猫 おやつ",
+        "キャットフード"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Darwin's犬用牛肉フードでO157検出、FDAが警告",
+      "summary_ja": "Darwin's Natural Petの牛肉ドッグフードから大腸菌O157:H7が検出され、4歳児の入院との関連がFDAの解析で示された。",
       "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/pet-food-market/mergers-and-acquisitions/news/15835344/the-farmers-dog-completes-acquisition-of-woof",
-      "score": 72,
-      "commercial_score": 60,
-      "product_keywords": [
-        "犬 知育おもちゃ",
-        "フレッシュ ドッグフード"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "VETSOneが犬猫用プレミアムフードを新発売",
-      "summary_ja": "ペットゴーが犬・猫用プレミアム総合栄養食「VETSOne Premium PURE RICH」を発売した。第一主原料にフレッシュミートを使用している。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000147.000004757.html",
-      "score": 70,
-      "commercial_score": 88,
-      "product_keywords": [
-        "総合栄養食 犬",
-        "キャットフード プレミアム"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米国でニューワールドスクリューワーム、犬も被害",
-      "summary_ja": "ニューワールドスクリューワームが米国で確認され、犬2頭の感染も報告された。専門家は愛犬の傷の管理と旅行時の検査証明に注意を促す。",
-      "source": "CIDRAP",
-      "url": "https://www.cidrap.umn.edu/new-world-screwworm/how-prevent-new-world-screwworm-infestations-cats-and-dogs",
+      "url": "https://www.petfoodindustry.com/latest-news",
       "score": 70,
       "commercial_score": 30,
       "product_keywords": [
-        "犬 ノミダニ 予防"
+        "ドッグフード 加熱",
+        "犬 ウェットフード"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "小佩、AI対応のスマートペット機器を大幅更新",
-      "summary_ja": "小佩が給餌・トイレ・給水までAI化したスマート機器を更新した。9月には猫の顔認識で体重やトイレ回数を個体別に記録する機能を追加予定。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260820V07C8600?id=20260820V07C8600&path=a&app=news&suid=&redirect_pc=1",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "自動給餌器",
-        "スマート猫トイレ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Withねこ、猫のAIヘルスケアを大型更新",
-      "summary_ja": "猫向けアプリ「Withねこ」が、受診の目安をスコア化する機能やAIコンシェルジュを追加した。第一アイペット損保の代理店としてペット保険の案内も始めた。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000003.000190505.html",
+      "title_ja": "Northwest Naturals、サルモネラ等で冷凍フードをリコール",
+      "summary_ja": "オレゴン州のNorthwest Naturalsが、サルモネラとリステリア陽性を受け冷凍の犬猫用生食フードを全米で自主回収。約2,000ポンド規模。",
+      "source": "FOX 8",
+      "url": "https://fox8.com/news/nearly-2000-lbs-of-cat-and-dog-food-recalled-nationwide-over-salmonella-and-listeria-concerns/",
       "score": 68,
-      "commercial_score": 60,
-      "product_keywords": [
-        "猫 見守り",
-        "ペット保険"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ネコ尿の「においの名刺」を解明、岩手大",
-      "summary_ja": "岩手大などの国際研究チームが、ネコが尿中の分岐鎖脂肪酸の種類と比率で仲間を個体識別していることを世界で初めて解明した。腎臓の脂肪滴が貯蔵庫の可能性がある。",
-      "source": "岩手大学",
-      "url": "https://www.iwate-u.ac.jp/cat-research/2026/08/008021.html",
-      "score": 66,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ヒルズ、生鮮フードを段階的に米国展開",
-      "summary_ja": "コルゲート幹部は、ヒルズがフレッシュペットフード参入を段階的な米国展開で進め、主要セグメントでシェアを伸ばしていると説明した。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/business-strategy/article/15834547/pet-food-category-flat-but-hills-gains-share-with-fresh-rollout",
-      "score": 66,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ヒルズ サイエンスダイエット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "CMA命令後の業界反応、CVSは買収を継続へ",
-      "summary_ja": "CMAの最終命令を受け、獣医業界では業務への影響への懸念が残る。大手CVSは命令後も買収を進める方針を示した。",
-      "source": "Vet Times",
-      "url": "https://www.vettimes.com/news/vets",
-      "score": 65,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "サルモネラ汚染でペットフードのリコール相次ぐ",
-      "summary_ja": "米国で犬の発症につながったサルモネラ問題など、ペットフードのリコールが相次いでいる。飼い主は対象ロットの確認が必要だ。",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91591717/pet-food-recall-2026-dogs-get-sick-in-latest-us-salmonella-scare",
-      "score": 64,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ドッグフード 国産 安全"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ゴージャス My Fresh Menu、欧州で発売",
-      "summary_ja": "ピュリナ欧州がホームスタイルの猫用ウェットフード「Gourmet My Fresh Menu」を発売した。9月1日に独・スイス・スペイン・イタリアで開始し、2027年初頭に全欧へ広げる。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15834415/purina-gourmet-my-fresh-menu-for-cats-launches-in-europe",
-      "score": 64,
-      "commercial_score": 80,
-      "product_keywords": [
-        "猫 パウチ",
-        "ピュリナ グルメ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ペット向け調剤薬局が増加、専門性高まる",
-      "summary_ja": "ペットの長寿化で薬物治療が高度化し、動物病院の院外処方を担う調剤薬局がじわり増えている。動物病院の待ち時間短縮にもつながると日経が報じた。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA137A90T10C26A1000000/",
-      "score": 62,
-      "commercial_score": 40,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ピュリナが新しいフレッシュ猫用フードを発売",
-      "summary_ja": "ピュリナが英国向けにフレッシュ志向の猫用フードの新ラインナップを展開すると、業界誌が報じた。",
-      "source": "Pet Business World",
-      "url": "https://www.petbusinessworld.co.uk/new-products/cats/purina-creates-new-fresh-cat-food-selection.html",
-      "score": 62,
-      "commercial_score": 75,
-      "product_keywords": [
-        "猫 ウェットフード",
-        "ピュリナ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "アジアペット展でスマート猫トイレなど披露",
-      "summary_ja": "第28回アジアペット展で、デュアルカメラ付きスマート猫トイレや犬用の自転車座席など新製品が披露された。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininwiep9289732.shtml",
-      "score": 62,
-      "commercial_score": 75,
-      "product_keywords": [
-        "スマート猫トイレ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "中国、処方食と凍結乾燥フードの新規格が施行",
-      "summary_ja": "中国農業農村部の処方食と凍結乾燥ペットフードの業界標準が2026年5月に施行された。水分やVBN、ヒスタミンなどの管理指標が新設された。",
-      "source": "新华网",
-      "url": "http://www.news.cn/food/20251226/944dfdf5b7be41569b1397829d8ef209/c.html",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "療法食 犬",
-        "フリーズドライ フード"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "犬リンパ腫の安価な早期検査が発売へ",
-      "summary_ja": "犬のリンパ腫を早期に見つける手頃な価格の検査が市場に投入される。獣医診療での早期発見に役立つと期待される。",
-      "source": "dvm360",
-      "url": "https://www.dvm360.com/view/affordable-early-detection-test-for-canine-lymphoma-to-hit-the-market",
-      "score": 58,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アジアペット展、AI養ペットの黒科技が集結",
-      "summary_ja": "アジアペット展ではAIスマート猫トイレやペット語翻訳機など、最新のペットテックが紹介された。",
-      "source": "搜狐",
-      "url": "https://timeline.sohu.com/news/jy9wFtu0Zy",
-      "score": 58,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ペット 翻訳機"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "2026年主食市場、焼成フードが新製品の主流",
-      "summary_ja": "2026年の主食新製品47款の分析で、焼成フードが最多の12款となった。生肉70%以上やプロバイオティクス配合が特徴。",
-      "source": "荣格工业资源网",
-      "url": "https://www.industrysourcing.cn/article/477516",
-      "score": 56,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ベイクドフード 犬",
-        "プロバイオティクス ペット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "「医・食・住」で広がるペット市場、長寿化で",
-      "summary_ja": "ペットの寿命延伸を背景に、医療・食・住まいの分野で健康に配慮した商品やサービスが広がっていると日経が報じた。市場は2027年度に2兆円超との予測もある。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB036PC0T00C26A3000000/",
-      "score": 55,
-      "commercial_score": 55,
-      "product_keywords": [
-        "シニア犬 フード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "リコール・警告情報の週次まとめ",
-      "summary_ja": "9月23日付の食品リコール・警報まとめで、GreenTripe.comの冷凍ドッグフードのサルモネラ汚染リコールなどが取り上げられた。",
-      "source": "eFoodAlert",
-      "url": "https://efoodalert.com/2026/09/23/recalls-and-alerts-september-23-2026/",
-      "score": 55,
       "commercial_score": 35,
       "product_keywords": [
-        "冷凍 ドッグフード"
+        "ペットフード 無添加",
+        "犬 生食"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "PetFellas、アフリカ産アンテロープ犬用おやつ",
-      "summary_ja": "The PetFellasが南アフリカ産アンテロープの犬用おやつKaroo Wildを英国で発売する。PATS 2026で正式デビューする。",
-      "source": "Pet Business World",
-      "url": "https://www.petbusinessworld.co.uk/new-products/dogs/the-petfellas-to-bring-african-antelope-dog-treats-to-uk-market.html",
-      "score": 52,
-      "commercial_score": 75,
+      "title_ja": "アニコムとアリアケ、共同開発ペットフード10月発売",
+      "summary_ja": "アニコムグループとアリアケジャパンが食と健康の知見を融合して共同開発したペットフードの第一弾を、2026年10月に発売予定。",
+      "source": "アニコム損保",
+      "url": "https://www.anicom-sompo.co.jp/news-release/2026/",
+      "score": 65,
+      "commercial_score": 80,
       "product_keywords": [
-        "犬 おやつ ジビエ"
+        "ペットフード 国産",
+        "犬 健康 フード"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "猫との衝突報告の義務化、議会で10月26日に審議",
+      "summary_ja": "ドライバーに猫との衝突事故の報告を義務づける法改正を求める請願が約19万筆に達し、10月26日に議会審議が行われる。",
+      "source": "Yorkshire Live",
+      "url": "https://www.examinerlive.co.uk/news/uk-world-news/new-october-key-deadline-issued-34636139",
+      "score": 65,
+      "commercial_score": 25,
+      "product_keywords": [
+        "猫 マイクロチップ",
+        "猫 首輪 反射"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "United Petfood、Wellnessの乾燥フード工場を取得",
-      "summary_ja": "欧州のUnited Petfoodが、ウェルネス社のアーカンソー州デケーター工場を取得した。北米で3拠点目となり、生産能力を拡大する。",
+      "title_ja": "ペット業界、強力な規制が常態化",
+      "summary_ja": "2026年の中国では農業農村部や市場監督総局などが連携し、ペットフード、医療、サービス、用品の全分野で規制新政を相次いで打ち出している。",
+      "source": "今日头条",
+      "url": "https://www.toutiao.com/article/7646297442203288083/",
+      "score": 62,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "国慶連休、ペット同伴旅行と預かり需要が急増",
+      "summary_ja": "国慶節の大型連休でペット同伴旅行が最盛期を迎え、ペットホテルの需要が急増。ペット対応ホテルは36都市で3万軒超とされる。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a6z0eq4o/",
+      "score": 62,
+      "commercial_score": 65,
+      "product_keywords": [
+        "ペット キャリーバッグ",
+        "犬 旅行 グッズ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "マース、ロイヤルカナン工場など製造に20億ドル投資",
+      "summary_ja": "マースは2026年までに製造部門へ20億ドルを投じ、オハイオ州の4.5億ドルのロイヤルカナン乾燥フード工場など増強を進める。",
       "source": "Petfood Industry",
-      "url": "https://petfoodindustry.com/news-newsletters/pet-food-news/news/15835774/united-petfood-acquires-dry-food-plant-from-wellness-pet",
-      "score": 50,
-      "commercial_score": 30,
+      "url": "https://www.petfoodindustry.com/latest-news",
+      "score": 60,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ロイヤルカナン",
+        "療法食 犬"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "凍結乾燥・処方食の国標で業界に規制対応",
-      "summary_ja": "2026年に施行された二つの国標により、ペットの凍結乾燥食と処方食の業界は規制対応を迫られている。",
-      "source": "知乎",
-      "url": "https://zhuanlan.zhihu.com/p/2032059633033011723",
-      "score": 50,
+      "title_ja": "ペットフード基準憲章を発表、透明性強化を要求",
+      "summary_ja": "Pets Magazineが、英国の犬猫用フードに対する透明性と監視、安全策の強化を求める「Pet Food Standards Charter」を立ち上げた。",
+      "source": "Pets Magazine",
+      "url": "https://www.petsmag.co.uk/news/",
+      "score": 60,
       "commercial_score": 45,
       "product_keywords": [
+        "無添加 ドッグフード",
+        "キャットフード 国産"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国宠物白皮书、市場規模3,100億元超え",
+      "summary_ja": "2026年版中国ペット業界白書によると、市場規模は3,100億元を突破した。ペット経済は引き続き拡大している。",
+      "source": "光明網",
+      "url": "https://m.gmw.cn/2026-01/05/content_1304291767.htm",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ペット用品 中国",
+        "猫 おもちゃ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Pets at Home、売上3.9%増で通期見通し維持",
+      "summary_ja": "英小売大手Pets at Homeは売上高が3.9%増となり、2027年度通期の業績見通しを据え置いた。",
+      "source": "Pets at Home",
+      "url": "https://www.petsmag.co.uk/news/",
+      "score": 58,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ペット用品"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "処方食・フリーズドライ食品の新基準が5月施行",
+      "summary_ja": "処方食基準とフリーズドライ食品基準の2つの中核基準が2026年5月1日から全面実施され、ペットフードの高品質化が進む。",
+      "source": "今日头条",
+      "url": "https://www.toutiao.com/article/7646297442203288083/",
+      "score": 58,
+      "commercial_score": 60,
+      "product_keywords": [
+        "フリーズドライ キャットフード",
         "療法食 猫"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "2026年1〜5月、ペット新商品184款の分析",
-      "summary_ja": "2026年1〜5月に発売された新商品184款のうち、保健品・医薬品が63款で最多、主食が47款だった。",
-      "source": "搜狐",
-      "url": "https://www.sohu.com/a/1030844733_122641354",
-      "score": 50,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ペット サプリ"
-      ],
+      "title_ja": "浙江省がペット経済促進策、2030年に500億元",
+      "summary_ja": "浙江省が10月にペット経済促進の意見を公表し、2030年までに省内消費市場500億元超を目指す。地方政府の誘致競争も加速している。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2065536673534961146",
+      "score": 57,
+      "commercial_score": 35,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "PBW 9月号、ライセンス料や小売の動向",
-      "summary_ja": "Pet Business World 9月号は、ライセンス料の一貫性を求めるPIFの声明や小売店の売場刷新、新製品の発売をまとめた。",
-      "source": "Pet Business World",
-      "url": "https://www.petbusinessworld.co.uk/magazines/pbw-news-september-2026.html",
-      "score": 48,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "title_ja": "飼養管理基準、小型哺乳類にも拡大を議論",
+      "summary_ja": "環境省の動物愛護部会で、犬猫中心だった飼養管理基準をうさぎ、フェレット、ハムスター等へ広げる答申案が議論段階に入った。",
+      "source": "PET-CEPA",
+      "url": "https://pet-pace.com/management/2436/",
+      "score": 55,
+      "commercial_score": 35,
+      "product_keywords": [
+        "うさぎ ケージ",
+        "ハムスター 飼育セット"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "Tribal Pet Foods、猫用フードに参入",
-      "summary_ja": "英Tribal Pet Foodsがコールドプレスの犬用に続き、穀物不使用の猫用フード3種を発売した。専門店から展開する。",
+      "title_ja": "Steve's Real Food、チアミン不足の恐れでリコール拡大",
+      "summary_ja": "Go Raw LLCがフリーズドライのチキンレシピ1ロットをチアミン低含有の可能性でリコール範囲に追加。20州で流通した。",
       "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/news-newsletters/pet-food-news/news/15772958/tribal-pet-foods-enters-cat-food-market",
-      "score": 45,
-      "commercial_score": 70,
+      "url": "https://www.petfoodindustry.com/latest-news",
+      "score": 55,
+      "commercial_score": 35,
       "product_keywords": [
-        "グレインフリー キャットフード"
+        "フリーズドライ ドッグフード",
+        "犬 サプリ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "バタシー、流行ペットの隠れた健康リスクを警告",
+      "summary_ja": "バタシー動物保護施設は、短頭種など流行の外見を持つペットが抱える健康コストに警鐘を鳴らし、福祉優先の飼育を促した。",
+      "source": "Pets Magazine",
+      "url": "https://www.petsmag.co.uk/news/",
+      "score": 55,
+      "commercial_score": 30,
+      "product_keywords": [
+        "短頭種 犬 ケア",
+        "ペット保険"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "Butternut Box、Pets at Homeで販売開始",
-      "summary_ja": "英国のフレッシュドッグフードButternut Boxが、Pets at Home店舗で初めて販売される。段階的に展開する。",
-      "source": "Butternut Box Help",
-      "url": "https://help.butternutbox.com/en/articles/10570868-pets-at-home-store-locator",
-      "score": 45,
+      "title_ja": "ペット保険の窓口精算、対応病院が拡大",
+      "summary_ja": "アイペットの窓口精算対応動物病院が7月末時点で6,284施設となり、ペット保険の利便性向上が進んでいる。",
+      "source": "PET-CEPA",
+      "url": "https://pet-pace.com/management/2436/",
+      "score": 50,
+      "commercial_score": 30,
+      "product_keywords": [
+        "ペット保険"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "PawfitとバタシーがGPSなどペット安全で提携",
+      "summary_ja": "PawfitとBatterseaが提携し、ペットの安全確保と保護動物の支援を進める。スマートトラッカー分野の動きとして注目される。",
+      "source": "PR Newswire UK",
+      "url": "https://prnewswire.co.uk/news-releases/pawfit-and-battersea-join-forces-to-help-keep-pets-safe-and-support-animals-in-need-302895129.html",
+      "score": 50,
       "commercial_score": 65,
       "product_keywords": [
-        "フレッシュ ドッグフード"
+        "ペット GPS トラッカー",
+        "犬 迷子防止"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ペット医療アプリの比較、AI問診が普及",
-      "summary_ja": "京東健康や新瑞鵬などのペット医療アプリを比較する記事で、AI初期診断と獣医師オンライン相談の使い分けが紹介された。",
-      "source": "新浪新闻",
-      "url": "https://k.sina.com.cn/article_7880068206_1d5b04c6e068099nle.html",
-      "score": 45,
+      "title_ja": "改正治安管理処罰法が施行、文明的な飼育を明確化",
+      "summary_ja": "1月施行の改正治安管理処罰法で、犬の放し飼いによる傷害や猛犬の違法飼育などへの罰則が国家レベルで統一された。",
+      "source": "今日头条",
+      "url": "https://www.toutiao.com/article/7646297442203288083/",
+      "score": 50,
       "commercial_score": 40,
       "product_keywords": [
-        "ペット オンライン診療"
+        "犬 リード",
+        "犬 口輪"
       ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "エンドウでんぷん配合食が犬猫の代謝に好影響",
+      "summary_ja": "エンドウでんぷんの配合は犬猫の代謝健康に有益で、発酵させると犬の腸内細菌叢や猫の嗜好性も改善するとの研究が報告された。",
+      "source": "Petfood Industry",
+      "url": "https://www.petfoodindustry.com/latest-news",
+      "score": 45,
+      "commercial_score": 50,
+      "product_keywords": [
+        "グレインフリー キャットフード",
+        "腸活 犬"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "週末は全国で犬関連イベントが多数開催",
+      "summary_ja": "10月3日から4日にかけて佐倉Wanパーク、DOG SPORTS FESTIVAL、長野のWan!WonderfulFestaなど犬関連イベントが開催される。",
+      "source": "わんにゃんスマイル",
+      "url": "https://wannyan-smile.com/column-list/c1/",
+      "score": 40,
+      "commercial_score": 45,
+      "product_keywords": [
+        "犬 お出かけ グッズ",
+        "ドッグウェア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ペットフード業界の人事、アルフィア暫定CEO就任",
+      "summary_ja": "北米のペットフード製造大手アルフィアでミゲル・ニストール氏が暫定CEOに就き、前任は取締役会アドバイザーに移った。",
+      "source": "Petfood Industry",
+      "url": "https://www.petfoodindustry.com/latest-news",
+      "score": 35,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

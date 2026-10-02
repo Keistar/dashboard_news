@@ -1,0 +1,52 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
+  "stories": [
+    {
+      "title_ja": "全国47都道府県でインフルエンザ流行入り",
+      "summary_ja": "定点当たりの患者報告数が全47都道府県で1.0を超え、全国平均は7.17人となりました。例年より早い流行で、ワクチン接種や手洗いなどの対策が呼びかけられています。",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/",
+      "score": 90,
+      "commercial_score": 70,
+      "product_keywords": [
+        "インフルエンザ対策 マスク",
+        "加湿器",
+        "アルコール消毒"
+      ]
+    },
+    {
+      "title_ja": "インフル1都8県で注意報超え、H1N1が主体",
+      "summary_ja": "定点当たり報告数が注意報の目安である10を超えた地域が1都8県に広がりました。流行の主体はA(H1N1)pdm09で、早めの対策が求められます。",
+      "source": "日経メディカル",
+      "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202609/594732.html",
+      "score": 78,
+      "commercial_score": 60,
+      "product_keywords": [
+        "体温計",
+        "マスク",
+        "のど飴"
+      ]
+    },
+    {
+      "title_ja": "心臓病向け幹細胞パッチが保険適用に",
+      "summary_ja": "幹細胞を用いた心臓病向けパッチが保険適用となり、再生医療の実用化が一歩前進しました。重症心不全患者への新たな治療選択肢として注目されます。",
+      "source": "時事メディカル",
+      "url": "https://medical.jiji.com/news/",
+      "score": 65,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "日本新薬のDMD治療薬候補で5年データ",
+      "summary_ja": "日本新薬はデュシェンヌ型筋ジストロフィー治療薬候補brogidirsenの5年間の有効性データを公表しました。歩行可能な患者で運動機能が維持または改善したと報告されています。",
+      "source": "PHARMA JAPAN",
+      "url": "https://pj.jiho.jp/",
+      "score": 55,
+      "commercial_score": 5
+    }
+  ]
+}

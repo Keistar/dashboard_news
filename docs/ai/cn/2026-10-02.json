@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
+  "stories": [
+    {
+      "title_ja": "小米MiMo-2.7-Proなど新エージェントモデル",
+      "summary_ja": "10月1日時点で、小米のオープンソースエージェントモデルMiMo-2.6-FlashとMiMo-2.7-Proが更新された。StepFunのStep 5 Previewや音声・音楽モデルStepAudio 3も公開されている。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/670574382",
+      "score": 75,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "中国AIのトークン呼び出し量が米国を15週連続で上回る",
+      "summary_ja": "中国AIモデルの週間トークン呼び出し量は9月上旬に34.25兆に達し、米国を15週連続で上回って世界首位を維持している。DeepSeek-V4、Kimi K3、Qwenなどが上位に入る。",
+      "source": "Enet16",
+      "url": "http://enet16.com/article/2026/0907/A202609072804.html",
+      "score": 70,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "10月にDeepSeek、Qwen、Kimiが新モデル投入か",
+      "summary_ja": "DeepSeek V4.1 Pro、Qwen 4、Kimi K3.x、GLM-5.4、MiniMax M3など、中国勢オープンモデルの新世代が10月に出揃うとの予測が出ている。正式な日付は未発表で、リーク情報に基づく。",
+      "source": "X (AJ)",
+      "url": "https://x.com/ItsmeAjayKV/status/2104526519444066308",
+      "score": 68,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "2.8兆パラメータの世界最大級オープンモデル",
+      "summary_ja": "新浪財経は7月に、2.8兆パラメータとされる世界最大級のオープンソースモデルの登場を報じた。中国のオープンモデル競争の規模感を示す。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniiccvc8194607.shtml",
+      "score": 50,
+      "commercial_score": 10
+    }
+  ]
+}

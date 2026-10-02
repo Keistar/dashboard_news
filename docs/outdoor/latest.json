@@ -1,415 +1,287 @@
 {
   "genre": "outdoor",
   "genre_label_ja": "アウトドア",
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T16:08:10+09:00",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:35+09:00",
   "stories": [
     {
-      "title_ja": "アンカー世界最小2000Wh電源が9月23日発売",
-      "summary_ja": "アンカーが「世界最小・最軽量」をうたう2000Whクラスのポータブル電源「Anker Solix S2000」を9月23日に発売した。キャンプだけでなく災害時の備えにも使える。",
-      "source": "BE-PAL",
-      "url": "https://www.bepal.net/archives/682258",
+      "title_ja": "秋のクマ被害多発で登山計画に影響",
+      "summary_ja": "冬眠前の9〜10月はクマ被害のピーク期で、登山者の約77%が不安を感じていると報じられている。目的地変更や中止の例も出ており、鈴やラジオ、撃退スプレーの携行が推奨されている。",
+      "source": "nippon.com",
+      "url": "https://www.nippon.com/ja/japan-data/h02589/",
       "score": 85,
-      "commercial_score": 90,
+      "commercial_score": 60,
       "product_keywords": [
-        "Anker Solix S2000",
-        "ポータブル電源 2000Wh"
+        "クマ鈴",
+        "クマ撃退スプレー",
+        "携帯ラジオ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "EcoFlow DELTA 3 Max Trolley 9月25日発売",
-      "summary_ja": "EcoFlowがキャスター付きの2kWhクラスポータブル電源「DELTA 3 Max Trolley」を9月25日に発売。容量2,048Wh、定格出力2,200Wで、移動のしやすさが特徴。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000250.000050601.html",
+      "title_ja": "グランドキャニオン鉄砲水の続報と安全対策",
+      "summary_ja": "8月末の鉄砲水で2名が死亡、82名が救助された。行方不明者の捜索が続き、内陸部の一部は閉鎖されている。",
+      "source": "NPS",
+      "url": "https://www.nps.gov/grca/learn/news/two-deceased-hikers-recovered-and-identified-following-flash-flood.htm",
       "score": 80,
-      "commercial_score": 90,
+      "commercial_score": 25,
       "product_keywords": [
-        "EcoFlow DELTA 3 Max",
-        "ポータブル電源 キャスター付き"
+        "登山 救急キット",
+        "防水バッグ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ロゴス「2026秋セット」が10月1日発売",
-      "summary_ja": "ロゴスが秋キャンプ向けにテントや焚き火台、シュラフなどをまとめた「LOGOS 2026秋セット」を10月1日に発売した。単品購入よりお得に揃えられるセット構成。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000001147.000032114.html",
-      "score": 78,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ロゴス テント",
-        "焚き火台",
-        "シュラフ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "牧高笛の2026年上期は減収減益",
-      "summary_ja": "牧高笛の2026年上期売上高は5.9億元で前年比2.61%減、純利益は3,334万元で29.37%減となった。露営ブーム後の調整が続く。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260827A0904X00?id=20260827A0904X00&path=a&app=news&suid=&redirect_pc=1",
+      "title_ja": "ワシントン州で1週間に4人のハイカー死亡",
+      "summary_ja": "秋の早い降雪や凍結、日照短縮など秋のバックカントリーの危険を捜索救助隊が解説している。",
+      "source": "Outside",
+      "url": "https://outsideonline.com/outdoor-adventure/exploration-survival/washington-hiker-death-fall-safety",
       "score": 78,
       "commercial_score": 55,
       "product_keywords": [
-        "牧高笛 テント"
+        "ヘッドライト",
+        "エマージェンシーシェルター",
+        "防寒ジャケット"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ケアンゴームズで吹雪の中9時間の二重救助",
+      "summary_ja": "吹雪のケアンゴームズ国立公園で、道に迷った登山者とキャンプ中の夫婦計4人が救助された。氷点下で積雪は最大1mだった。",
+      "source": "Press and Journal",
+      "url": "https://www.pressandjournal.co.uk/fp/news/highlands-islands/6663537/double-rescue-cairngorms-national-park-cmrt/",
+      "score": 75,
+      "commercial_score": 45,
+      "product_keywords": [
+        "冬用寝袋",
+        "防寒テント"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "スノーピーク、10月3日に新アイテム発売",
+      "summary_ja": "スノーピークはTi-Single 300 Cup Coverなどを10月3日に発売する。ペンドルトンとのコラボ商品も10月16日発売予定。",
+      "source": "スノーピーク",
+      "url": "https://www.snowpeak.co.jp/news/category/products/",
+      "score": 72,
+      "commercial_score": 90,
+      "product_keywords": [
+        "スノーピーク チタン",
+        "スノーピーク ペンドルトン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "山と溪谷がクマ被害事例と対策を解説",
+      "summary_ja": "登山者が死亡するケースを含む近年のクマ被害事例をまとめた特集。入山時の備えと遭遇時の対応が紹介されている。",
+      "source": "山と溪谷オンライン",
+      "url": "https://www.yamakei-online.com/yama-ya/detail.php?id=4901",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "クマ鈴",
+        "クマ撃退スプレー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "トランプ政権が国立公園の提携協定を多数停止",
+      "summary_ja": "政権が国立公園における第三者との協定数十件を差し止めた。公園運営や来訪者サービスへの影響が懸念される。",
+      "source": "KJZZ",
+      "url": "https://kjzz.org/politics/2026-10-01/trump-administration-blocks-dozens-of-third-party-agreements-in-national-parks",
+      "score": 65,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "コールマン2026年新商品を展開",
+      "summary_ja": "コールマンは大型テントやワゴン、チェアなど2026年の新商品を公開している。タフスピードドーム DRルーフなどが注目される。",
+      "source": "コールマン",
+      "url": "https://ec.coleman.co.jp/category/2026_NEWITEMS/",
+      "score": 60,
+      "commercial_score": 92,
+      "product_keywords": [
+        "コールマン テント",
+        "アウトドアワゴン",
+        "キャンプチェア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "国慶節に星空露営イベントが各地で開催",
+      "summary_ja": "寧夏の星空音楽フェスや天津の都市キャンプ場など、国慶節連休に露営イベントが開かれている。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32237384",
+      "score": 60,
+      "commercial_score": 40,
+      "product_keywords": [
+        "キャンプ テント",
+        "天幕タープ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "早期プライムデーでAnker・Jackeryが最大65%オフ",
-      "summary_ja": "MacRumorsが、早期プライムデーでAnkerとJackeryのポータブル電源が最大65%引きになっていると報じた。",
-      "source": "MacRumors",
-      "url": "https://macrumors.com/2026/09/28/anker-and-jackery-early-prime-day",
-      "score": 75,
-      "commercial_score": 92,
+      "title_ja": "2026年注目のアウトドアギアをOutsideが紹介",
+      "summary_ja": "BioLite FirePit+など革新的な新作ギアが2026年の注目として取り上げられている。",
+      "source": "Outside",
+      "url": "https://www.outsideonline.com/outdoor-gear/2026-outdoor-gear-preview/",
+      "score": 55,
+      "commercial_score": 85,
       "product_keywords": [
-        "Jackery ポータブル電源",
-        "Anker SOLIX"
+        "バイオライト ファイヤーピット",
+        "焚き火台"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国の名作ジャケットBerghausが米国上陸",
-      "summary_ja": "Gear Patrolは、英国アウトドアブランドBerghausがMera PeakやTrangoなどのIconsコレクションで米国展開を始めると報じた。10月1日から販売開始。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-21-2026/",
-      "score": 74,
-      "commercial_score": 75,
+      "title_ja": "テスラ新型Model 3が10月1日発売、外部給電2200W",
+      "summary_ja": "新型Model 3は据え置き価格で、新たに2200Wの外部給電を備え、キャンプでの電源利用が可能になる。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5349646324466872.html",
+      "score": 55,
+      "commercial_score": 35,
       "product_keywords": [
-        "バーグハウス ジャケット"
+        "ポータブル電源",
+        "車載電源インバーター"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "EcoFlowがIFA 2026で新型電源を披露",
-      "summary_ja": "EcoFlowはIFA 2026で新アーキテクチャATLAS採用のRIVER Gen4シリーズや、4kW出力のPowerRock 4000を披露した。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/home/energy-saving/portable-power-solutions-ifa-tech-convention-ecoflow",
-      "score": 74,
+      "title_ja": "ダイソーの新作キャンプ収納コンテナが話題",
+      "summary_ja": "10月1日、ダイソーの新作コンテナ(550円)がキャンプ収納グッズとして話題になっている。",
+      "source": "ハピキャン",
+      "url": "https://happycamper.jp/",
+      "score": 50,
       "commercial_score": 80,
       "product_keywords": [
-        "EcoFlow RIVER",
+        "キャンプ 収納ボックス",
+        "ギアコンテナ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "湖水地方でクライマーをヘリで救助",
+      "summary_ja": "9月28日、胸痛を訴えた湖水地方のクライマーが搬送された。同日にはLow Pikeで足首負傷者も救助された。",
+      "source": "Cumbria Crack",
+      "url": "https://cumbriacrack.com/2026/09/30/helicopter-rescue-for-lake-district-climber-with-chest-pains/",
+      "score": 50,
+      "commercial_score": 20,
+      "product_keywords": [
+        "登山 救急キット"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "2026年英国のおすすめ新キャンプギア",
+      "summary_ja": "英国メディアが2026年の新作キャンプ・アウトドアギアをまとめて紹介している。",
+      "source": "Out and About Live",
+      "url": "https://www.outandaboutlive.co.uk/camping/news/best-new-camping-and-outdoor-gear-2026",
+      "score": 50,
+      "commercial_score": 75,
+      "product_keywords": [
+        "テント",
+        "キャンプ ランタン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "外部給電対応EVが露営の新定番に",
+      "summary_ja": "外部給電機能付きEVを出力別3段階で紹介。軽い露営から家族キャンプまで、車で家電を使う楽しみ方が広がっている。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_7879776496_1d5abd8f00680196oe.html",
+      "score": 50,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ポータブル電源",
+        "電気ケトル キャンプ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "国慶節向け露営装備リストと人気ブランド",
+      "summary_ja": "テント、寝袋、マットが三大必須装備。牧高笛(Mobi Garden)、Naturehike、Camelなどが人気。",
+      "source": "新浪众测",
+      "url": "https://zhongce.sina.com.cn/interface/article/view/148926/",
+      "score": 50,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ナチュラハイク テント",
+        "インフレータブルマット",
+        "封筒型寝袋"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "秋の最終ハイキング適地と山岳道路閉鎖",
+      "summary_ja": "冬季閉鎖前に楽しめる秋のハイキングコースが紹介されている。",
+      "source": "Unofficial Networks",
+      "url": "https://unofficialnetworks.com/2026/09/28/last-fall-hikes-before-mountain-roads-close-2026/",
+      "score": 45,
+      "commercial_score": 40,
+      "product_keywords": [
+        "トレッキングシューズ",
+        "ハイキング ザック"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国各地でウォーキングフェスティバル開催",
+      "summary_ja": "ダースリー、ホルムファース、ワイト島などで10月にウォーキングフェスが開かれる。秋のウォーキング需要が高まっている。",
+      "source": "The Great Outdoors",
+      "url": "https://www.thegreatoutdoorsmag.com/outdoor-events-walking-festivals-uk/",
+      "score": 45,
+      "commercial_score": 30,
+      "product_keywords": [
+        "ウォーキングシューズ",
+        "レインジャケット"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "モルバーン・キャラバン&モーターホームショー",
+      "summary_ja": "10月2〜4日に開催。キャラバンの販売やトレードエリアが設けられ、秋のキャンプ需要を反映している。",
+      "source": "Out and About Live",
+      "url": "https://www.outandaboutlive.co.uk/camping/news",
+      "score": 40,
+      "commercial_score": 30,
+      "product_keywords": [
+        "キャンピングトレーラー",
         "ポータブル電源"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "秋キャンプ向けポータブル電源5選",
-      "summary_ja": "The Gadgeteerが秋のキャンプ旅行に適したポータブル電源5機種を紹介。容量や携帯性の観点で比較している。",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/09/28/portable-power-stations-fall-camping/",
-      "score": 72,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ポータブル電源 キャンプ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "LFTOギアアワード2026、17製品が受賞",
-      "summary_ja": "Live for the Outdoorsが400以上の製品をテストし、17点を表彰。キャンプストーブ部門はJetboil Flash 1.0Lが受賞した。",
-      "source": "Live for the Outdoors",
-      "url": "https://www.livefortheoutdoors.com/hiking/news/lfto-gear-awards-2026/",
-      "score": 72,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Jetboil Flash",
-        "バックパッキング ストーブ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "2026年新型アウトドア電源7機種のまとめ",
-      "summary_ja": "充電頭網が2026年の新型ポータブル電源7機種を整理。DJI Power 1000 MiniやEcoFlow DELTA 3 1000 Airなど軽量から高出力まで網羅する。",
-      "source": "充电头网",
-      "url": "https://www.chongdiantou.com/archives/1780381534757.html",
-      "score": 72,
-      "commercial_score": 85,
-      "product_keywords": [
-        "DJI Power 1000 Mini",
-        "EcoFlow DELTA 3 1000 Air"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "EcoFlowが48時間セール DELTA 3 Classic2台",
-      "summary_ja": "9to5ToysによるとEcoFlowが48時間限定セールを実施し、DELTA 3 Classic 2台セットが938ドルに。ほか599ドルからのモデルも対象。",
-      "source": "9to5Toys",
-      "url": "https://9to5toys.com/2026/09/30/ecoflow-48-hour-flash-sale-2x-delta-3-classic-power-station-bundle",
-      "score": 70,
-      "commercial_score": 92,
-      "product_keywords": [
-        "EcoFlow DELTA 3 Classic"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Berghausが米国進出、10月1日に販売開始",
-      "summary_ja": "英国ブランドBerghausがMera PeakやTrangoなどのジャケットで米国販売を開始。ニューヨーク・ソーホーでポップアップも予定されている。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-21-2026/",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "バーグハウス ジャケット"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "EcoFlow 3製品が防災グッズ大賞2026優秀賞",
-      "summary_ja": "EcoFlowの「DELTA 3 Classic」「DELTA 3 Max Plus」「DELTA 3 2000 Air」が防災グッズ大賞2026の優秀賞を受賞した。アウトドアと防災の両面で評価された。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000245.000050601.html",
-      "score": 68,
+      "title_ja": "2026年人気露営装備ランキング",
+      "summary_ja": "折りたたみベッドが注目で、牧高笛や挪客などのブランドが上位に入っている。",
+      "source": "榜中榜",
+      "url": "https://www.maigoo.com/goomai/286810.html",
+      "score": 40,
       "commercial_score": 80,
       "product_keywords": [
-        "EcoFlow DELTA 3",
-        "防災 ポータブル電源"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Out & About Liveがキャンプ用品アワード発表",
-      "summary_ja": "折りたたみクーラーボックスや厚さ16cmのマットなどが受賞。Vango、Outwell、Coleman、Campingazなどが名を連ねた。",
-      "source": "Out & About Live",
-      "url": "https://www.outandaboutlive.co.uk/camping/news/best-new-camping-and-outdoor-gear-2026",
-      "score": 68,
-      "commercial_score": 75,
-      "product_keywords": [
-        "キャンプ マット",
-        "Vango テント"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "スノーピーク2026新商品全17アイテムまとめ",
-      "summary_ja": "スノーピーク初のエアフレームテント「エアロカムラスシェル」や進化した「ランドロックMFS」など、2026年新商品17点をまとめた記事。秋の買い替え検討にも参考になる。",
-      "source": "キャンプレビュー",
-      "url": "https://campreview.jp/snow-peak-2026-new-products/",
-      "score": 66,
-      "commercial_score": 80,
-      "product_keywords": [
-        "スノーピーク エアロカムラスシェル",
-        "ランドロック"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "中国アウトドア市場で若者が主役、割引店が台頭",
-      "summary_ja": "新華網は2026年のアウトドア消費調査で、26〜35歳が48%を占める中心層になり、ディスカウント店が急成長していると伝えた。",
-      "source": "新华网",
-      "url": "https://www.news.cn/fashion/20260521/6f3360dc89354d5da12e6519c8f02448/c.html",
-      "score": 66,
-      "commercial_score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "コールマン2026年新商品が順次発売中",
-      "summary_ja": "コールマン公式通販で2026年の新商品が順次発売されている。タフスピードドームなど注目のテントやチェアのラインナップが確認できる。",
-      "source": "コールマン公式",
-      "url": "https://ec.coleman.co.jp/category/NEWPRODUCT/",
-      "score": 65,
-      "commercial_score": 82,
-      "product_keywords": [
-        "コールマン テント",
-        "コールマン チェア"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Cotswold Outdoorが秋冬キャンペーン開始",
-      "summary_ja": "Cotswold Outdoorが秋冬シーズンに合わせ、新ブランドキャンペーン「We speak outdoors」を全国で展開。動物を使った遊び心ある内容で、全店舗の売場も刷新された。",
-      "source": "Retail Gazette",
-      "url": "https://www.retailgazette.co.uk/blog/2026/09/cotswold-outdoors-unveils-new-autumn-winter-campaign/",
-      "score": 65,
-      "commercial_score": 60,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "牧高笛、中間決算で業績2桁減",
-      "summary_ja": "露営ブームの後退で牧高笛の上期は売上・利益ともに減少し、第2の成長軸がまだ育っていないと分析されている。",
-      "source": "雷达财经",
-      "url": "https://www.leidacj.com/article/180811",
-      "score": 62,
-      "commercial_score": 45,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "2026年の最新キャンプギア26選",
-      "summary_ja": "BE-PALが2026年の注目キャンプギアをテントやチェア、焚き火台などカテゴリ別に紹介。新作選びの指針になる総まとめ記事。",
-      "source": "BE-PAL",
-      "url": "https://www.bepal.net/archives/644586",
-      "score": 60,
-      "commercial_score": 78,
-      "product_keywords": [
-        "キャンプギア 新作",
-        "焚き火台"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Anker SOLIXセール延長、ギア付きも",
-      "summary_ja": "Anker SOLIXのポータブル電源セールが延長され、無料ギア付きや整備済み品の特別価格などが用意されている。",
-      "source": "9to5Toys",
-      "url": "https://9to5toys.com/2026/09/14/anker-solix-power-station-sale-from-231/",
-      "score": 60,
-      "commercial_score": 88,
-      "product_keywords": [
-        "Anker SOLIX セール"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "軽量化アウトドアブームが国産ブランドに好機",
-      "summary_ja": "観潮新消費は、軽量化ブームが中国ブランドに歴史的な機会をもたらしていると分析した。",
-      "source": "观潮新消费",
-      "url": "https://www.tidesight.com/news/1366142.html",
-      "score": 60,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "秋キャンプ向けガジェット9選",
-      "summary_ja": "Yanko Designが、チタン製ストーブCamprit TiStoveなど、秋のキャンプで荷物の重さに見合う便利ギア9点を紹介した。",
-      "source": "Yanko Design",
-      "url": "https://www.yankodesign.com/2026/09/26/9-fall-camping-gadgets-that-actually-earn-their-pack-weight-in-september-2026/",
-      "score": 58,
-      "commercial_score": 72,
-      "product_keywords": [
-        "チタン ストーブ",
-        "キャンプ ガジェット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "月見キャンプ予約が好調、キャンプ場は精緻運営へ",
-      "summary_ja": "国慶節前に月見キャンプの予約が伸び、アウトドア営地は精緻な運営段階に入っていると搜狐が報じた。",
-      "source": "搜狐",
-      "url": "https://www.sohu.com/a/1076883731_639898",
-      "score": 58,
-      "commercial_score": 45,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Topo Designsがコーデュロイのオーバーシャツ",
-      "summary_ja": "Topo Designsが街から山まで使えるコーデュロイのオーバーシャツを発売したとGear Patrolが紹介。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-25-2026/",
-      "score": 55,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Topo Designs"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Anker SOLIX S2000が2kWh級電源として話題",
-      "summary_ja": "Anker SOLIX S2000は2kWhの大容量電源として、キャラバン旅行やオフグリッドのアウトドア向けに投入された。",
-      "source": "New Atlas",
-      "url": "https://newatlas.com/sponsored-content/anker-solix-s2000-2kwh-power-station-for-australian-off-grid-adventures",
-      "score": 55,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Anker SOLIX S2000"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ChacoとMossy Oakがキャンプクロッグを発売",
-      "summary_ja": "ChacoがMossy Oakとのコラボで、迷彩柄のRamble Rugged Clogを発売。撥水キャンバスと再生素材を採用している。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-september-18-2026/",
-      "score": 52,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Chaco サンダル"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "重慶アウトドア・露営装備博が10月16日開催",
-      "summary_ja": "2026年中国重慶アウトドアスポーツ・ウォーター・露営装備博覧会が10月16日に開催され、軽量テントや太陽光蓄電システムなどの新製品が披露される。",
-      "source": "媒体管家",
-      "url": "http://www.zhaomedia.com/zhanhui/63188.html",
-      "score": 52,
-      "commercial_score": 50,
-      "product_keywords": [
-        "軽量テント",
-        "ソーラー蓄電"
+        "折りたたみ キャンプベッド",
+        "Naturehike"
       ],
       "country": "cn",
       "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "全国アウトドアイベントカレンダー10月前編",
-      "summary_ja": "野外フェスからキャンプイベントまで、2026年10月前半に全国で開催されるアウトドア関連イベントをKURAGE onlineがまとめた。",
-      "source": "KURAGE online",
-      "url": "https://outdoor.everychoice.info/2026/09/27/12488-298",
-      "score": 50,
-      "commercial_score": 40,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Berghausが専門小売店との連携を強化",
-      "summary_ja": "Outdoor Industries Associationが、Berghausが専門アウトドア小売店を称える業界の取り組みを支援していると伝えた。",
-      "source": "OIA",
-      "url": "https://www.theoia.co.uk/member-news/berghaus-backs-industry-celebration-of-specialist-retail/",
-      "score": 50,
-      "commercial_score": 45,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "露営経済レポート2026年中期版",
-      "summary_ja": "中国の露営関連企業は18.7万社を超え、2026年に入り約2.66万社が新規登録された。市場の競争激化と業態変化をまとめたレポート。",
-      "source": "h33.top",
-      "url": "https://www.h33.top/report/20260912-805b",
-      "score": 50,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "UTMB 2026女子はL'Hirondelが大会新で優勝",
-      "summary_ja": "Live for the Outdoorsが、ブランディーヌ・ロンデルがUTMB 2026女子で大会記録を更新して優勝したと報じた。",
-      "source": "Live for the Outdoors",
-      "url": "https://www.livefortheoutdoors.com/trail-running/news/womens-winner-utmb-2026/",
-      "score": 48,
-      "commercial_score": 35,
-      "product_keywords": [
-        "トレイルランニング ベスト"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
     }
   ]
 }

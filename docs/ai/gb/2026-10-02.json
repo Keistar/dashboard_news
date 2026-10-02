@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
+  "stories": [
+    {
+      "title_ja": "英中銀総裁、AIブーム後の市場急落に警鐘",
+      "summary_ja": "イングランド銀行のベイリー総裁は、AIブームの調整が金融市場に衝撃を与えるリスクに英国は備えるべきだと警告した。資金流入で資産価格が高騰している点を注視している。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/boe-governor-warns-ai-boom-could-trigger-market-shocks-bbc",
+      "score": 78,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "英国、AI安全研究所に法的根拠を付与",
+      "summary_ja": "英国政府は2026年デジタル安全保障・AI法案で、AI安全研究所の法的地位を強化したと報じられた。英国内データセンターで訓練する最先端モデルに事前安全評価を義務付ける内容。",
+      "source": "Dominant Digitally",
+      "url": "https://dominantdigitally.com/blog/uk-ai-regulation-news-updates/",
+      "score": 72,
+      "commercial_score": 8
+    },
+    {
+      "title_ja": "OpenAIのDots、英国とEEAでは当初対象外",
+      "summary_ja": "OpenAIの常時稼働エージェント機能Dotsは、EEA、スイス、英国を除く市場のProユーザーから先行提供される。規制への慎重姿勢が背景にある。",
+      "source": "Open AI News",
+      "url": "https://blog.mean.ceo/open-ai-news-october-2026/",
+      "score": 62,
+      "commercial_score": 25,
+      "product_keywords": [
+        "ChatGPT Pro"
+      ]
+    },
+    {
+      "title_ja": "DeepMind、英AISIとの提携を拡大",
+      "summary_ja": "Google DeepMindは英AIセキュリティ研究所と新たな覚書を結び、自社モデルやデータを共有して安全性研究を共同で進める。共同報告書の公表も予定する。",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "score": 60,
+      "commercial_score": 8
+    },
+    {
+      "title_ja": "ロンドンでAI Breakthrough Conferenceを開催",
+      "summary_ja": "第3回AI Breakthrough Conferenceが10月7〜8日にロンドンで開かれ、企業幹部らが集まる予定。",
+      "source": "The Hackett Group",
+      "url": "https://www.thehackettgroup.com/ai-conference-eu2026/",
+      "score": 35,
+      "commercial_score": 5
+    }
+  ]
+}

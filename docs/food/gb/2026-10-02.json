@@ -1,0 +1,49 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
+  "stories": [
+    {
+      "title_ja": "英国の食品インフレ率が9月に2.5%へ低下",
+      "summary_ja": "BRCの調査で、食品インフレは8月の2.8%から2.5%に低下した。スーパー間の販促競争が肉や乳製品を押し下げた一方、チョコ・菓子は高止まりしている。",
+      "source": "Grocery Gazette",
+      "url": "https://www.grocerygazette.co.uk/2026/09/29/food-inflation-eases-to-2-5-as-promotions-temper-grocery-price-rises/",
+      "score": 75,
+      "commercial_score": 25,
+      "product_keywords": [
+        "英国 チョコレート",
+        "紅茶 英国"
+      ]
+    },
+    {
+      "title_ja": "英国の食品価格が2年ぶりに下落",
+      "summary_ja": "ガーディアン報道によると、英国の食品価格が9月に約2年ぶりに前年比で下落したとされる。値引き競争が背景にある。",
+      "source": "Hargreaves Lansdown",
+      "url": "https://www.hl.co.uk/news/the-guardian-uk-food-prices-fall-in-september-for-first-time-in-two-years-figures-show",
+      "score": 65,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "英国の店頭価格上昇率は1.4%に鈍化",
+      "summary_ja": "BRCによると9月の店頭価格上昇率は1.4%で、小売各社は大幅なコスト増を吸収している。BRCは事業税の軽減を求めた。",
+      "source": "Retail Gazette",
+      "url": "https://www.retailgazette.co.uk/blog/2026/09/shop-price-inflation-eases-in-september-despite-mounting-retailer-cost-pressures/",
+      "score": 55,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "モリソンズがペストなど商品を回収",
+      "summary_ja": "モリソンズがFilippo Berio辛口チリペストを回収したほか、各スーパーでアレルゲン表示漏れや異物混入による回収が相次いでいる。",
+      "source": "Eastern Eye",
+      "url": "https://www.easterneye.biz/tesco-waitrose-food-recalls-uk-2026/",
+      "score": 50,
+      "commercial_score": 15,
+      "product_keywords": [
+        "ペスト ソース"
+      ]
+    }
+  ]
+}

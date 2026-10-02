@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-10-01T16:08:10+09:00",
+  "generated_at": "2026-10-02T23:31:35+09:00",
   "trends": {
     "code": "trends",
     "label_ja": "トレンド",
     "label_en": "TRENDING NOW",
-    "latest_date": "2026-10-01",
-    "latest_trend_count": 13,
+    "latest_date": "2026-10-02",
+    "latest_trend_count": 30,
     "latest_path": "trends/latest.json",
     "countries": [
       {
         "code": "jp",
         "label_ja": "日本",
         "dates": [
+          "2026-10-02",
           "2026-10-01",
           "2026-09-30",
           "2026-09-29"
@@ -21,6 +22,7 @@
         "code": "us",
         "label_ja": "アメリカ",
         "dates": [
+          "2026-10-02",
           "2026-10-01",
           "2026-09-30",
           "2026-09-29"
@@ -30,6 +32,7 @@
         "code": "gb",
         "label_ja": "イギリス",
         "dates": [
+          "2026-10-02",
           "2026-10-01",
           "2026-09-30",
           "2026-09-29"
@@ -39,6 +42,7 @@
         "code": "cn",
         "label_ja": "中国",
         "dates": [
+          "2026-10-02",
           "2026-10-01",
           "2026-09-30",
           "2026-09-29"
@@ -51,14 +55,15 @@
       "code": "ai",
       "label_ja": "AI",
       "label_en": "ARTIFICIAL INTELLIGENCE",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 20,
       "latest_path": "ai/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -69,6 +74,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -79,6 +85,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -89,6 +96,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -101,14 +109,15 @@
       "code": "gadget",
       "label_ja": "ガジェット",
       "label_en": "GADGETS & DEVICES",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 19,
       "latest_path": "gadget/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -119,6 +128,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -129,6 +139,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -139,6 +150,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -151,14 +163,15 @@
       "code": "kosodate",
       "label_ja": "子育て",
       "label_en": "PARENTING & CHILDCARE",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 18,
       "latest_path": "kosodate/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -169,6 +182,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -179,6 +193,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -189,6 +204,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -199,14 +215,15 @@
       "code": "beauty",
       "label_ja": "美容・コスメ",
       "label_en": "BEAUTY & COSMETICS",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 16,
       "latest_path": "beauty/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -217,6 +234,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -227,6 +245,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -235,6 +254,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -245,14 +265,15 @@
       "code": "food",
       "label_ja": "食品・グルメ",
       "label_en": "FOOD & GOURMET",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 19,
       "latest_path": "food/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -263,6 +284,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -273,6 +295,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -281,6 +304,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -291,14 +315,15 @@
       "code": "health",
       "label_ja": "健康・フィットネス",
       "label_en": "HEALTH & FITNESS",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 16,
       "latest_path": "health/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -309,6 +334,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -319,6 +345,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -329,6 +356,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -339,14 +367,15 @@
       "code": "pet",
       "label_ja": "ペット",
       "label_en": "PETS",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 23,
       "latest_path": "pet/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -357,6 +386,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -367,6 +397,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -377,6 +408,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -387,14 +419,15 @@
       "code": "outdoor",
       "label_ja": "アウトドア",
       "label_en": "OUTDOOR & CAMPING",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 20,
       "latest_path": "outdoor/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -405,6 +438,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -415,6 +449,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -423,6 +458,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -433,14 +469,15 @@
       "code": "bousai",
       "label_ja": "防災",
       "label_en": "DISASTER PREPAREDNESS",
-      "latest_date": "2026-10-01",
-      "latest_story_count": 32,
+      "latest_date": "2026-10-02",
+      "latest_story_count": 20,
       "latest_path": "bousai/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -451,6 +488,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30",
             "2026-09-29",
@@ -461,6 +499,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-02",
             "2026-10-01",
             "2026-09-30"
           ]
@@ -469,6 +508,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-02",
             "2026-10-01"
           ]
         }
