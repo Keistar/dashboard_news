@@ -1,0 +1,143 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:35+09:00",
+  "trends": [
+    {
+      "keyword": "千元机 手机",
+      "reason_ja": "1000-2000元のスマホが競争激化、6000mAh以上",
+      "genre": "gadget",
+      "commercial_score": 70,
+      "product_keywords": [
+        "smartphone"
+      ],
+      "product_keywords_ja": [
+        "スマートフォン 大容量バッテリー",
+        "SIMフリー スマホ"
+      ],
+      "trend_source": "Weibo",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "一千到两千手机哪款好？2026年10月千元机选购全攻略",
+          "summary_ja": "千元機選び",
+          "source": "Weibo",
+          "url": "https://weibo.com/2/detail/comos:nittvhc8041657"
+        }
+      ]
+    },
+    {
+      "keyword": "旗舰手机 vivo X300 Ultra",
+      "reason_ja": "2026年のフラッグシップ比較が話題",
+      "genre": "gadget",
+      "commercial_score": 66,
+      "product_keywords": [
+        "flagship smartphone"
+      ],
+      "product_keywords_ja": [
+        "スマートフォン ハイエンド"
+      ],
+      "trend_source": "Weibo",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "2026顶配手机哪款值得买？",
+          "summary_ja": "5大フラッグシップ比較",
+          "source": "Weibo",
+          "url": "https://weibo.com/2/detail/comos:nitteki6696346"
+        }
+      ]
+    },
+    {
+      "keyword": "国庆假期出行",
+      "reason_ja": "国庆の大移動がWeiboで話題",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "travel luggage"
+      ],
+      "product_keywords_ja": [
+        "スーツケース",
+        "旅行 グッズ"
+      ],
+      "trend_source": "Weibo热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "微博実時熱点",
+          "summary_ja": "国庆の人の流れが話題",
+          "source": "Weibo",
+          "url": "https://weibo.com/a/hot/realtime"
+        }
+      ]
+    },
+    {
+      "keyword": "曲屏5G手机",
+      "reason_ja": "曲面画面5Gスマホ推薦",
+      "genre": "gadget",
+      "commercial_score": 55,
+      "product_keywords": [
+        "curved screen phone"
+      ],
+      "product_keywords_ja": [
+        "曲面ディスプレイ スマホ"
+      ],
+      "trend_source": "Weibo",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "曲屏5G手机推荐",
+          "summary_ja": "曲面スマホ推薦",
+          "source": "Weibo",
+          "url": "https://weibo.com/2/detail/comos:nitviim7415593"
+        }
+      ]
+    },
+    {
+      "keyword": "LV Neverfull",
+      "reason_ja": "LVバッグの価格が話題",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "Louis Vuitton bag"
+      ],
+      "product_keywords_ja": [
+        "ルイヴィトン ネヴァーフル"
+      ],
+      "trend_source": "Weibo",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "LV Neverfull多少钱？最新价格",
+          "summary_ja": "国内価格1.44万-1.51万元",
+          "source": "Weibo",
+          "url": "https://weibo.com/2/detail/comos:nitviim7418936"
+        }
+      ]
+    },
+    {
+      "keyword": "蒙脱石散",
+      "reason_ja": "下痢止めの仕組みが話題",
+      "genre": "health",
+      "commercial_score": 45,
+      "product_keywords": [
+        "diarrhea medicine"
+      ],
+      "product_keywords_ja": [
+        "整腸剤"
+      ],
+      "trend_source": "Weibo热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "微博実時熱点",
+          "summary_ja": "モンモリロナイト散の仕組みが話題",
+          "source": "Weibo",
+          "url": "https://weibo.com/a/hot/realtime"
+        }
+      ]
+    }
+  ]
+}

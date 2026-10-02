@@ -1,383 +1,211 @@
 {
   "genre": "kosodate",
   "genre_label_ja": "子育て",
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T16:08:09+09:00",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
   "stories": [
     {
-      "title_ja": "AAPがCDCと決別、独自の予防接種スケジュール",
-      "summary_ja": "米小児科学会は独自の2026年予防接種スケジュールを発表し、CDCの縮小版から距離を置きました。A型・B型肝炎やRSVなども推奨を維持します。",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/healthcare/5706819-aap-2026-immunization-schedule/",
-      "score": 90,
-      "commercial_score": 15,
+      "title_ja": "こどもNISA、口座開設の事前申込が開始",
+      "summary_ja": "10月1日から各証券会社でこどもNISAの口座開設の事前申込受付が始まった。0〜17歳が対象で、年間60万円、総額600万円まで非課税で運用できる。",
+      "source": "Impress Watch",
+      "url": "https://watch.impress.co.jp/docs/news/2144840.html",
+      "score": 80,
+      "commercial_score": 35,
       "product_keywords": [
-        "子供 体温計",
-        "小児科 本"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "26年の待機学童1.4万人、2年連続減も高水準",
-      "summary_ja": "2026年の学童保育の待機児童は約1.4万人で2年連続の減少となったものの依然高い水準です。4割が首都圏に集中しており、共働き世帯の小1の壁が課題として残っています。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA131MR0T10C26A7000000/",
-      "score": 85,
-      "commercial_score": 40,
-      "product_keywords": [
-        "学童 習い事",
-        "児童見守りGPS"
+        "学資 投資 本",
+        "子育て マネー 本"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "連邦ACFが保育改革パッケージを発表",
-      "summary_ja": "連邦の児童家庭局が、保育費の負担軽減、利用拡大、保護者の選択の強化を掲げる保育改革パッケージを発表しました。制度の健全性確保も柱です。",
+      "title_ja": "CPSC、乳児用歩行器など複数のベビー用品を警告",
+      "summary_ja": "CPSCは乳児用歩行器が階段で止まらず転落の危険があるとして使用中止を警告した。シェイン販売のおしゃぶり玩具も窒息の恐れでリコールされた。",
+      "source": "CPSC",
+      "url": "https://www.cpsc.gov/Recalls/2026/Uuoeebb-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-BaoD",
+      "score": 78,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ベビーウォーカー 安全",
+        "ベビーゲート"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "待機児童が9年ぶりに増加、東京都で増",
+      "summary_ja": "こども家庭庁の取りまとめで、全国では利用児童が減る一方、東京都では利用児童数が増え待機児童は1,113人と前年から774人増加した。9年ぶりの増加となる。",
+      "source": "こどもとIT",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2144802.html",
+      "score": 75,
+      "commercial_score": 10,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "国家衛健委、托育総合サービスセンター強化を通知",
+      "summary_ja": "9月15日、国家衛健委は托育総合サービスセンターの整備通知を出し、2030年までに地級市レベルでの全面整備を目指す。全日・半日・時間単位の託児を提供する。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260915A0BZO300",
+      "score": 75,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ベビーバスシートがリコール、溺水の危険",
+      "summary_ja": "Amazonで販売されたベビー用バスシートが不安定で転倒し、脚の開口部から子どもが滑り落ちる恐れがあるとして、CPSCがリコールを発表した。",
+      "source": "CPSC",
+      "url": "https://www.cpsc.gov/Recalls/2026/NFSVLB-Baby-Bath-Seats-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-and-Entrapment-Violate-Mandatory-Standard-for-Infant-Bath-Seats-Sold-on-Amazon-by-NFSVLB",
+      "score": 72,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ベビーバス",
+        "お風呂 チェア ベビー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "衛健委主任、地域や企業による託児施設を支援",
+      "summary_ja": "雷海潮主任は、地域や企業による託児施設の設置を支援し、託幼一体化を進める考えを示した。3歳未満の入托率を2030年までに6ポイント引き上げる。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20260914/herald/576ebc77e11929cf46ff1854bfb76e36.html",
+      "score": 72,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "連邦ACF、保育改革パッケージを発表",
+      "summary_ja": "ACFは保育費の負担軽減、利用機会の拡大、親の選択の強化を柱とする保育改革パッケージを発表した。",
       "source": "ACF",
       "url": "https://acf.gov/media/press/2026/acf-announces-child-care-reform-package-address-affordability-expand-access-and",
-      "score": 85,
-      "commercial_score": 25,
+      "score": 70,
+      "commercial_score": 5,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "2026年9月から無償給食が拡大",
-      "summary_ja": "ユニバーサルクレジット受給世帯の全児童が無償給食の対象となり、50万人超が新たに対象となります。",
-      "source": "Big Issue",
-      "url": "https://www.bigissue.com/news/social-justice/children-free-school-meals-expansion-universal-credit/",
-      "score": 85,
-      "commercial_score": 20,
+      "title_ja": "英国、16歳未満のSNS禁止を発表",
+      "summary_ja": "スターマー首相は16歳以下のSNS利用を禁止する方針を示した。TikTokやYouTubeなどが対象で、2027年初頭の実施を目指す。",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858733/u-k-announces-social-media-ban-for-children-under-16",
+      "score": 70,
+      "commercial_score": 15,
       "product_keywords": [
-        "お弁当箱",
-        "水筒"
+        "子供 ペアレンタルコントロール",
+        "キッズ スマホ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "小学生の不登校理由1位は「わからない」42.3%",
-      "summary_ja": "小学生の不登校の理由で最も多かったのは「わからない」で42.3%でした。本人も原因を言語化しにくい実態が浮かび、家庭での対応の難しさが示されています。",
-      "source": "リセマム",
-      "url": "https://resemom.jp/article/2026/09/24/87633.html",
-      "score": 80,
-      "commercial_score": 45,
-      "product_keywords": [
-        "不登校 本",
-        "フリースクール"
-      ],
+      "title_ja": "Head Start規則案、賃金要件の撤廃案に意見募集",
+      "summary_ja": "Head Startの賃金・福利厚生要件を撤廃する規則案の意見募集が10月6日に締め切られる。早期教育の質への影響が議論されている。",
+      "source": "First Five Years Fund",
+      "url": "https://www.ffyf.org/2026/08/06/state-of-play-nprm/",
+      "score": 62,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "こども家庭庁の26年度予算案、保育施策に注目",
+      "summary_ja": "誰でも通園や保育士の処遇改善などに約1.9兆円が計上された。保育士のミドルリーダー育成による質の向上も打ち出されている。",
+      "source": "東京新聞 すくすく",
+      "url": "https://sukusuku.tokyo-np.co.jp/birth/107218/",
+      "score": 60,
+      "commercial_score": 10,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英国、学校でのスマホ禁止を法制化へ",
-      "summary_ja": "イングランドの学校でのスマホ利用を禁じる法的要件が導入される見込みです。すでに多くの学校が方針を持っていますが、全国で一貫した運用になります。",
-      "source": "Made For Mums",
-      "url": "https://www.madeformums.com/news/family-news/phones-to-be-legally-banned-in-schools-in-england-under-new-government-plans/",
-      "score": 80,
-      "commercial_score": 25,
-      "product_keywords": [
-        "子供用 キッズ携帯"
-      ],
+      "title_ja": "Coram調査、2歳未満の保育費に拡大の影響",
+      "summary_ja": "Coramの25年目の保育調査は、イングランドで無償枠が拡大した影響を分析した。0〜2歳の保育費の動向が示された。",
+      "source": "Coram",
+      "url": "https://www.coram.org.uk/news/childcare-survey-2026/",
+      "score": 60,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "2026年度の育児補助金、2516万人に支給",
-      "summary_ja": "2026年度の育児補助金は申請2751万件、2516万人に支給済みです。基準は子ども1人あたり年3600元で、3歳になるまで支給されます。",
-      "source": "搜狐",
-      "url": "https://www.sohu.com/a/1053021824_120988576",
-      "score": 80,
-      "commercial_score": 20,
-      "product_keywords": [
-        "ベビー用品"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "各地で託児枠が増加、全国託育宣伝月",
-      "summary_ja": "全国各地で3歳未満向けの託児枠が増加しています。北京では公立園の託児枠が1万以上新設されました。",
-      "source": "21世紀経済報道",
+      "title_ja": "全国で託児枠が増加、託児所の整備進む",
+      "summary_ja": "多くの地域で託児枠が新設されている。2025年末時点で託児機関は12.6万か所、枠は666万に達した。",
+      "source": "21财经",
       "url": "https://m.21jingji.com/article/20261001/herald/65b65fabb8af5c65378c5358cd3f593e.html",
-      "score": 80,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "こども家庭庁3年、早くも解体論も",
-      "summary_ja": "発足3年を迎えたこども家庭庁に対し、少子化対策の重荷から早くも解体論が出ています。政策の成果と課題が問われています。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA2699A0W6A320C2000000/",
-      "score": 75,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "NY州北部で3つの普遍的保育パイロット準備",
-      "summary_ja": "ニューヨーク州が州北部で3つの普遍的保育パイロットの準備を進めています。保育支援の拡充で待機リストのない郡も増えています。",
-      "source": "Spectrum News NY",
-      "url": "https://nystateofpolitics.com/state-of-politics/new-york/politics/2026/09/28/child-care-pilots-ramp-up-",
-      "score": 75,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AAP、より広い小児ワクチン日程を維持",
-      "summary_ja": "AAPは18疾患を対象とするスケジュールを維持し、CDCの11疾患と食い違います。多くの州や医療団体が支持しています。",
-      "source": "AJMC",
-      "url": "https://www.ajmc.com/view/aap-breaks-with-cdc-maintains-broader-2026-childhood-and-adolescent-vaccine-schedule",
-      "score": 75,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "国家衛健委、出産に優しい環境づくりを推進",
-      "summary_ja": "国家衛健委は出産に優しい環境づくりを進め、地域や職場での託育機関設置を支援する方針を示しました。",
-      "source": "中国新聞網",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-14/10695984.shtml",
-      "score": 75,
+      "score": 60,
       "commercial_score": 10,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "2030年までに3歳未満の入托率を6ポイント引き上げ",
-      "summary_ja": "国家衛健委は2030年までに3歳未満の託育利用率をさらに6ポイント高める目標を示しました。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260914A0CPCZ00",
-      "score": 75,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "上海、10月1日から出産医療費の自己負担ゼロへ",
-      "summary_ja": "上海市は10月1日から、規定内の出産医療費を実質自己負担なしにします。産前検診は4500元の枠を使い、入院分娩は全額償還されます。",
-      "source": "搜狐",
-      "url": "https://sohu.com/a/1082600951_122014422",
-      "score": 75,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "発達障害のある中学生の4人に1人が不登校",
-      "summary_ja": "文科省調査で、発達障害のある中学生の約4人に1人が不登校であることが分かりました。特別な支援の充実が求められています。",
-      "source": "教育新聞",
-      "url": "https://kyoiku-press.com/post-316426",
-      "score": 72,
-      "commercial_score": 35,
+      "title_ja": "2026年版ベビー用品リコールまとめ",
+      "summary_ja": "Consumer Reportsが2026年にリコールされたベビー用品を整理し、親が確認すべき製品を紹介した。",
+      "source": "Consumer Reports",
+      "url": "https://www.consumerreports.org/babies-kids/baby-product-recalls/baby-product-recalls-parents-caregivers-should-be-aware-of-a5859124070/",
+      "score": 58,
+      "commercial_score": 50,
       "product_keywords": [
-        "発達障害 支援 本",
-        "学習教材"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "子ども・子育て支援金制度の影響を解説",
-      "summary_ja": "2026年4月に始まった子ども・子育て支援金制度による家計への影響を整理した記事です。医療保険料に上乗せされる負担と給付拡充の関係を解説しています。",
-      "source": "マネーブレイン",
-      "url": "https://money-bu-jpx.com/news/article064728/",
-      "score": 70,
-      "commercial_score": 35,
-      "product_keywords": [
-        "家計簿",
-        "学資保険"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "待機児童2,435人で9年ぶり増加",
-      "summary_ja": "待機児童は2,435人と9年ぶりに増加し、利用児童数は5年連続で減少しました。都市部と過疎地域で定員充足率に差が出ています。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000187.000043389.html",
-      "score": 70,
-      "commercial_score": 20,
-      "product_keywords": [
-        "ベビーシッター"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "2026年全米保護者調査、親が求めるもの",
-      "summary_ja": "幼児を持つ親は柔軟性と、無理なく利用できる保育を求めています。約4人に1人が供給不足を障壁に挙げています。",
-      "source": "New America",
-      "url": "https://www.newamerica.org/insights/2026-national-parent-survey/",
-      "score": 70,
-      "commercial_score": 20,
-      "product_keywords": [
-        "ベビーシッター"
+        "ベビー用品 安全"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "280万人の子ども調査、スクリーンタイムと発達",
-      "summary_ja": "280万人の子どもを対象にした研究で、画面利用の多さと発達面の成績低下の関連が示されました。因果関係ではなく相関だと研究者は強調しています。",
-      "source": "KSBY",
-      "url": "https://www.ksby.com/health/study-of-2-8-million-children-links-screen-time-to-poorer-development-outcomes",
-      "score": 70,
+      "title_ja": "2026年育児補助金、中央財政999億元を配分",
+      "summary_ja": "財政部は2026年の育児補助金として999億元を配分した。3歳未満の子ども1人あたり年3,600元が支給され、前年比10.6%増となる。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20260602/herald/e2d7d935c296a6f814a5c9a51b80176b.html",
+      "score": 58,
+      "commercial_score": 5,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "こども向け商品のリコール情報を一元確認",
+      "summary_ja": "消費者庁は、こども向け商品のリコール情報を集約して公開している。9月も重大製品事故の公表が続き、購入済み製品の確認が呼びかけられる。",
+      "source": "消費者庁",
+      "url": "https://www.caa.go.jp/policies/policy/consumer_safety/child/project_010/",
+      "score": 55,
       "commercial_score": 40,
       "product_keywords": [
-        "知育玩具",
-        "子供 絵本"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "DfE、スマホ禁止ガイダンスを法的拘束力に",
-      "summary_ja": "教育省は学校のスマホ禁止ガイダンスを法定化する方針です。Ofstedも検査でスマホ方針を確認します。",
-      "source": "Schools Week",
-      "url": "https://schoolsweek.co.uk/dfe-set-to-make-school-phone-ban-guidance-statutory/",
-      "score": 70,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中央財政、育児補助金999億元を配分",
-      "summary_ja": "中央財政は2026年の育児補助金として999億元を配分し、前年比10.6%増となりました。全年で約1100億元規模の見込みです。",
-      "source": "知乎",
-      "url": "https://www.zhihu.com/question/2045118337223488138",
-      "score": 70,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "子育て支援の拡充と支援金の仕組み",
-      "summary_ja": "政府広報が子育て支援の拡充内容と子ども・子育て支援金の仕組みを紹介しています。児童手当や育休給付の拡充がポイントです。",
-      "source": "政府広報オンライン",
-      "url": "https://www.gov-online.go.jp/article/202603/tv-6405.html",
-      "score": 65,
-      "commercial_score": 25,
-      "product_keywords": [
-        "児童手当 貯蓄"
+        "ベビー用品 安全",
+        "チャイルドシート"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "無償給食で年500ポンド節約の試算",
-      "summary_ja": "無償給食の拡大で、対象世帯は子ども1人あたり年間約500ポンドの節約になると試算されています。",
-      "source": "IBTimes UK",
-      "url": "https://www.ibtimes.co.uk/free-school-meals-expansion-2026-1815404",
-      "score": 65,
-      "commercial_score": 25,
-      "product_keywords": [
-        "お弁当箱"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "イングランドの無償保育2026年の最新",
-      "summary_ja": "9か月から就学前の働く親への週30時間無償保育の対象要件と最新の仕組みを解説しています。",
+      "title_ja": "イングランドの無償保育、9か月から週30時間",
+      "summary_ja": "就労する親は、子どもが生後9か月から週30時間の無償保育を受けられる。年収10万ポンド以上は対象外で、資格は3か月ごとに確認が必要となる。",
       "source": "Day Nurseries",
       "url": "https://www.daynurseries.co.uk/advice/free-childcare-changes-in-england-eligibility",
-      "score": 65,
-      "commercial_score": 20,
-      "product_keywords": [
-        "ベビー用品"
-      ],
+      "score": 55,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "託育総合サービスセンター整備を強化",
-      "summary_ja": "国家衛健委が託育総合サービスセンターの整備強化に関する通知を出しました。地域の託育体系の拠点と位置づけられます。",
-      "source": "光明網",
-      "url": "https://m.gmw.cn/2026-09/15/content_1304564040.htm",
-      "score": 65,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "給付金・児童手当の最新スケジュール",
-      "summary_ja": "子育て世帯向けの給付金や児童手当の支給時期と金額をまとめた最新情報です。10月上旬には児童手当の偶数月払いが予定されています。",
-      "source": "補助金ポータル",
-      "url": "https://hojyokin-portal.jp/columns/kyufukin_shikyujiki",
-      "score": 60,
-      "commercial_score": 30,
-      "product_keywords": [
-        "家計管理 本"
-      ],
+      "title_ja": "河内長野市、10月から第2子以降の保育料無償化",
+      "summary_ja": "河内長野市は10月から、保育所や認定こども園を利用する第2子以降の保育料を、第1子の年齢にかかわらず無償化した。自治体独自の子育て支援として注目される。",
+      "source": "奥河内",
+      "url": "https://okukawachi.biz/2026/09/30/hoiku0",
+      "score": 50,
+      "commercial_score": 5,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英国の児童貧困対策、政策の整理",
-      "summary_ja": "政府の児童貧困対策の全体像を整理した下院図書館の解説です。第3子以降の給付制限撤廃などが含まれます。",
-      "source": "House of Lords Library",
-      "url": "https://lordslibrary.parliament.uk/child-poverty-government-policy/",
-      "score": 60,
-      "commercial_score": 5,
+      "title_ja": "英政府、早期教育と保育の資金ガイダンスを公開",
+      "summary_ja": "2026年4月以降に有効となる早期教育・保育の公的資金に関する政府ガイダンスが公開されている。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/publications/early-education-and-childcare--2/early-education-and-childcare-valid-from-1-april-2026",
+      "score": 45,
+      "commercial_score": 3,
       "country": "gb",
       "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "2026年の給食・学童保育の変更点",
-      "summary_ja": "2026年秋からの学校給食と学校前後の預かり保育(ラップアラウンドケア)の変更を整理した記事です。",
-      "source": "Magic Booking",
-      "url": "https://www.magicbooking.co.uk/blog/Free-school-meals-wraparound-and-childcare-changes-2026",
-      "score": 60,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ロー・カンナ議員の無償保育論に批判",
-      "summary_ja": "民主党のカンナ議員が保育の無償化を主張し、保守系メディアが批判しました。保育を巡る財源論争が続いています。",
-      "source": "Townhall",
-      "url": "https://townhall.com/news/amy-curtis/2026/09/29/ro-khanna-childcare-should-be-free-n2683767",
-      "score": 55,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "CPE報告、保育の障壁は労働力問題だけではない",
-      "summary_ja": "保育を巡る障壁は人手不足にとどまらないとする報告書が公表されました。費用や利用しにくさも課題とされています。",
-      "source": "EIN Presswire",
-      "url": "https://einnews.com/pr_news/944875251/cpe-report-childcare-barriers-are-more-than-a-workforce-issue",
-      "score": 55,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "イングランドの学校スマホ禁止に実効性",
-      "summary_ja": "政府の動きで学校スマホ禁止に実効性が加わるものの、実際の影響は限定的との見方も出ています。",
-      "source": "The Register",
-      "url": "https://www.theregister.com/2026/04/21/government_moves_to_kick_phones/",
-      "score": 55,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "出産支援を新米パパママへ届ける「7+1」",
-      "summary_ja": "金融機関が出産支援策を新米の親にどう届けるかを扱った記事です。補助金などの支援が整理されています。",
-      "source": "21世紀経済報道",
-      "url": "https://m.21jingji.com/article/20260928/herald/e793de36a864d6960d1d7478323d4290.html",
-      "score": 55,
-      "commercial_score": 20,
-      "product_keywords": [
-        "ベビー用品"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
     }
   ]
 }

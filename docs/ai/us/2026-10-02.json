@@ -1,0 +1,77 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:31:34+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAI、常時稼働エージェント「Dots」を発表",
+      "summary_ja": "OpenAIはDevDay 2026で、各自のクラウドPCとブラウザを持ち24時間働く常時稼働エージェント「Dots」を発表した。ChatGPT Spaceなど20以上の発表も行われ、当面はProとBusiness Premium向けに提供される。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "score": 92,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ChatGPT Pro",
+        "AIエージェント"
+      ]
+    },
+    {
+      "title_ja": "OpenAI、廉価な「GPT-6.1 Sol」を提供開始",
+      "summary_ja": "GPT-6.1 SolはAstraに迫る性能を5分の1程度のトークン価格で提供するモデル。開発者向けの高速ティアやCodexのクラウド実行も同時に発表された。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "score": 88,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ChatGPT",
+        "Codex"
+      ]
+    },
+    {
+      "title_ja": "Anthropic、Claude Sonnet 5.5を提供開始",
+      "summary_ja": "AnthropicはOpus 5.5を補完する高速かつ低価格のClaude Sonnet 5.5を公開した。処理速度が従来より30%以上向上したと報じられている。",
+      "source": "LLM Stats",
+      "url": "https://llm-stats.com/ai-news",
+      "score": 85,
+      "commercial_score": 40,
+      "product_keywords": [
+        "Claude",
+        "AIアシスタント"
+      ]
+    },
+    {
+      "title_ja": "Google、低価格な「Gemini 4 Argon」を段階提供",
+      "summary_ja": "Googleは入力100万トークン2ドルの新モデルGemini 4 Argonを発表した。まずセキュリティ専門家や有料API顧客、AI Ultra加入者に提供し、その後一般にも広げる計画。",
+      "source": "CoinCentral",
+      "url": "https://coincentral.com/googles-new-ai-model-just-undercut-openai-and-anthropic-on-price",
+      "score": 84,
+      "commercial_score": 50,
+      "product_keywords": [
+        "Google AI Ultra",
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "AIエージェントのInstinctが10億ドル調達",
+      "summary_ja": "AIエージェント企業Instinctが、Sequoia、Benchmark、Coatue主導で10億ドルを調達し、評価額は100億ドルに達したと報じられた。",
+      "source": "AI Agents Directory",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
+      "score": 76,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "Nvidia、AIエージェント向け安全基盤を発表",
+      "summary_ja": "Nvidiaは100社超のパートナーと開発した、暴走するAIエージェントを迅速に隔離するOpen Agent Safety Platformを発表した。ハードとソフトを組み合わせたセキュリティスタックである。",
+      "source": "AI Agents Directory",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
+      "score": 70,
+      "commercial_score": 25,
+      "product_keywords": [
+        "NVIDIA GPU"
+      ]
+    }
+  ]
+}
