@@ -1,51 +1,59 @@
 {
   "feed": "trends",
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T23:31:35+09:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
   "trends": [
     {
-      "keyword": "新米 コシヒカリ",
-      "reason_ja": "令和8年産の新米が楽天食品ランキング上位",
-      "genre": "food",
+      "keyword": "ちいかわ",
+      "reason_ja": "ナガノ先生の深夜連続更新とちいかわマーケットの売り切れ続出で話題になった。",
+      "genre": "other",
       "commercial_score": 80,
       "product_keywords": [
-        "new rice"
+        "Chiikawa goods",
+        "Chiikawa plush"
       ],
       "product_keywords_ja": [
-        "新米 コシヒカリ",
-        "令和8年産 米"
+        "ちいかわ グッズ",
+        "ちいかわ ぬいぐるみ"
       ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "楽天市場 食品ランキング",
-          "summary_ja": "徳島県産コシヒカリ新米などが上位",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100227/"
+          "title_ja": "ナガノ先生の深夜連続更新でちいかわが話題に",
+          "summary_ja": "作者ナガノ先生の深夜連続更新にファンが感謝の声を寄せ、SNSで盛り上がった。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/cee0c53eafd6408685aabd1f327c4a26-1790963700"
+        },
+        {
+          "title_ja": "ちいかわマーケットが売り切れ続出",
+          "summary_ja": "チェックアウト待ちで商品が売り切れるユーザーが多数出た。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/df5fb73665ed4c7395c97a1323e5e054-1790907600"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "HG ガンプラ ルブリス・ジウツ",
-      "reason_ja": "10/2 12時に予約開始しSNSで話題",
-      "genre": "other",
-      "commercial_score": 78,
+      "keyword": "エースコンバット8",
+      "reason_ja": "10月2日発売で、Steam同時接続が3万7千人を超え前作の約3倍となった。",
+      "genre": "gadget",
+      "commercial_score": 70,
       "product_keywords": [
-        "Gundam model kit"
+        "Ace Combat 8",
+        "flight stick"
       ],
       "product_keywords_ja": [
-        "ガンプラ HG 1/144",
-        "ガンダム プラモデル"
+        "エースコンバット8",
+        "フライトスティック"
       ],
       "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "ガンプラ予約開始がSNSで話題に",
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSで話題になった出来事のまとめ。エースコンバット8の発売も取り上げられた。",
           "source": "Yahoo!リアルタイム検索",
           "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
@@ -54,519 +62,50 @@
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Mighty Patch",
-      "reason_ja": "TikTokで拡散のスキンケア用ニキビパッチ",
-      "genre": "beauty",
-      "commercial_score": 75,
-      "product_keywords": [
-        "pimple patch"
-      ],
-      "product_keywords_ja": [
-        "ニキビパッチ"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "Mighty PatchやコウジR酸セラムがTikTokで人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Air fryer",
-      "reason_ja": "省エネ家電として英国で定番",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "air fryer"
-      ],
-      "product_keywords_ja": [
-        "エアフライヤー",
-        "ノンフライヤー"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Best Selling Products on Amazon UK 2026",
-          "summary_ja": "エアフライヤーが売れ筋",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/best_selling_products_on_amazon_uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Halloween costume",
-      "reason_ja": "10月最大のTikTokトレンド、恐竜インフレータブル等",
-      "genre": "other",
-      "commercial_score": 74,
-      "product_keywords": [
-        "Halloween costume"
-      ],
-      "product_keywords_ja": [
-        "ハロウィン コスプレ",
-        "ハロウィン 衣装 インフレータブル"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "ハロウィン衣装が10月最大のトレンド",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Korean skincare",
-      "reason_ja": "K-Beautyが英国の美容カテゴリを牽引",
-      "genre": "beauty",
-      "commercial_score": 73,
-      "product_keywords": [
-        "Korean skincare"
-      ],
-      "product_keywords_ja": [
-        "韓国スキンケア",
-        "韓国コスメ"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Top Trending & Profitable Products UK 2026",
-          "summary_ja": "K-Beautyが成長",
-          "source": "Skailama",
-          "url": "https://www.skailama.com/blog/top-trending-products-to-sell-online-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "抗原検査キット",
-      "reason_ja": "インフルエンザ対応の抗原検査キットが生活雑貨ランキングで上位",
-      "genre": "health",
-      "commercial_score": 72,
-      "product_keywords": [
-        "antigen test kit"
-      ],
-      "product_keywords_ja": [
-        "抗原検査キット インフルエンザ"
-      ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "楽天市場 生活雑貨ランキング",
-          "summary_ja": "抗原検査キットやニトリル手袋が人気",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100554/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Kojic acid serum",
-      "reason_ja": "TikTokで500万再生超のコウジ酸美容液",
-      "genre": "beauty",
-      "commercial_score": 72,
-      "product_keywords": [
-        "kojic acid serum"
-      ],
-      "product_keywords_ja": [
-        "コウジ酸 美容液"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "コウジ酸セラムが話題",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Magnesium glycinate",
-      "reason_ja": "英国で人気の睡眠系サプリ",
-      "genre": "health",
-      "commercial_score": 72,
-      "product_keywords": [
-        "magnesium glycinate"
-      ],
-      "product_keywords_ja": [
-        "マグネシウム サプリ",
-        "グリシン マグネシウム"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "マグネシウムが英国で主力サプリ",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "ストーブ ヒーター",
-      "reason_ja": "北海道で急な冷え込み、暖房需要が増加",
-      "genre": "other",
-      "commercial_score": 70,
-      "product_keywords": [
-        "heater",
-        "stove"
-      ],
-      "product_keywords_ja": [
-        "ストーブ",
-        "電気ヒーター"
-      ],
-      "trend_source": "Yahoo!リアルタイム検索",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "北海道の急な冷え込みでストーブ話題",
-          "source": "Yahoo!リアルタイム検索",
-          "url": "https://search.yahoo.co.jp/realtime/search/matome"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Heated blanket USB",
-      "reason_ja": "秋の冷え込みで人気のUSB給電ブランケット",
-      "genre": "gadget",
-      "commercial_score": 70,
-      "product_keywords": [
-        "heated blanket"
-      ],
-      "product_keywords_ja": [
-        "電気毛布 USB",
-        "ブランケット 電熱"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "USB電熱ブランケットが秋の人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Heatless hair curlers",
-      "reason_ja": "ノーヒートカーラーが英Amazonで人気",
-      "genre": "beauty",
-      "commercial_score": 70,
-      "product_keywords": [
-        "heatless curlers"
-      ],
-      "product_keywords_ja": [
-        "ヒートレスカーラー",
-        "ヘアカーラー 巻き髪"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "英国のトレンド商品",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "千元机 手机",
-      "reason_ja": "1000-2000元のスマホが競争激化、6000mAh以上",
-      "genre": "gadget",
-      "commercial_score": 70,
-      "product_keywords": [
-        "smartphone"
-      ],
-      "product_keywords_ja": [
-        "スマートフォン 大容量バッテリー",
-        "SIMフリー スマホ"
-      ],
-      "trend_source": "Weibo",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "一千到两千手机哪款好？2026年10月千元机选购全攻略",
-          "summary_ja": "千元機選び",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nittvhc8041657"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "ノートパソコン Office付き",
-      "reason_ja": "Windows 11搭載の格安ノートPCが売れ筋",
-      "genre": "gadget",
-      "commercial_score": 68,
-      "product_keywords": [
-        "laptop"
-      ],
-      "product_keywords_ja": [
-        "ノートパソコン Office付き",
-        "ノートPC 新品"
-      ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "楽天市場 ノートPCランキング",
-          "summary_ja": "3万円台からのノートPCが上位",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100040/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "La Roche-Posay Toleriane Double Repair",
-      "reason_ja": "October Prime Dayで売れ筋の保湿クリーム",
-      "genre": "beauty",
-      "commercial_score": 68,
-      "product_keywords": [
-        "face moisturizer"
-      ],
-      "product_keywords_ja": [
-        "ラロッシュポゼ トレリアン",
-        "保湿クリーム"
-      ],
-      "trend_source": "Amazon October Prime Day",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "October Prime Dayの注目ベストセラー",
-          "summary_ja": "ラロッシュポゼ保湿剤が上位",
-          "source": "NBC News",
-          "url": "https://nbcnews.com/select/shopping/amazon-bestsellers-october-prime-day-2026-rcna600365"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "LED sunset projector",
-      "reason_ja": "TikTokで人気のサンセットプロジェクターライト",
-      "genre": "gadget",
-      "commercial_score": 66,
-      "product_keywords": [
-        "sunset projector lamp"
-      ],
-      "product_keywords_ja": [
-        "サンセットライト",
-        "プロジェクターライト"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "ムードライトが人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Cordless car vacuum",
-      "reason_ja": "コードレス車載掃除機が人気",
-      "genre": "gadget",
-      "commercial_score": 66,
-      "product_keywords": [
-        "car vacuum"
-      ],
-      "product_keywords_ja": [
-        "車載掃除機 コードレス",
-        "ハンディクリーナー 車"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Top Trending Products in the UK 2026",
-          "summary_ja": "コードレス掃除機が有望",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/current-trending-products-in-the-uk-2026"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "旗舰手机 vivo X300 Ultra",
-      "reason_ja": "2026年のフラッグシップ比較が話題",
-      "genre": "gadget",
-      "commercial_score": 66,
-      "product_keywords": [
-        "flagship smartphone"
-      ],
-      "product_keywords_ja": [
-        "スマートフォン ハイエンド"
-      ],
-      "trend_source": "Weibo",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "2026顶配手机哪款值得买？",
-          "summary_ja": "5大フラッグシップ比較",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nitteki6696346"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "ブリタ カートリッジ",
-      "reason_ja": "浄水器カートリッジが売れ筋上位",
+      "keyword": "逃げ上手の若君",
+      "reason_ja": "最終巻が10月2日に発売され、特典付きで注目を集めた。",
       "genre": "other",
       "commercial_score": 65,
       "product_keywords": [
-        "Brita cartridge"
+        "manga volume",
+        "Nige Jozu no Wakagimi"
       ],
       "product_keywords_ja": [
-        "ブリタ カートリッジ",
-        "浄水器 カートリッジ"
+        "逃げ上手の若君 最終巻",
+        "逃げ上手の若君 特典"
       ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "楽天市場 生活雑貨ランキング",
-          "summary_ja": "ブリタの浄水器カートリッジが上位",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100554/"
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSで話題となった話題のまとめ。漫画の最終巻発売も含まれる。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Mushroom coffee",
-      "reason_ja": "キノココーヒーが英国で話題",
+      "keyword": "リュウジ ローソン 炒めコーン弁当",
+      "reason_ja": "料理研究家リュウジさんが10月2日にローソンの弁当を評価する動画を公開した。",
       "genre": "food",
-      "commercial_score": 64,
-      "product_keywords": [
-        "mushroom coffee"
-      ],
-      "product_keywords_ja": [
-        "マッシュルームコーヒー",
-        "きのこ コーヒー"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "マッシュルームコーヒーが注目",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Insulated tumbler",
-      "reason_ja": "保温タンブラーが英国で人気",
-      "genre": "outdoor",
-      "commercial_score": 64,
-      "product_keywords": [
-        "insulated tumbler"
-      ],
-      "product_keywords_ja": [
-        "タンブラー 保温",
-        "真空断熱 タンブラー"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "断熱タンブラーが人気",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Pet Halloween costume",
-      "reason_ja": "ペット用ハロウィン衣装が人気",
-      "genre": "pet",
-      "commercial_score": 62,
-      "product_keywords": [
-        "pet costume"
-      ],
-      "product_keywords_ja": [
-        "ペット ハロウィン 衣装",
-        "犬 コスチューム"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "ペット衣装が人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "スヌーピー グッズ",
-      "reason_ja": "スヌーピーの日でSNSで盛り上がり",
-      "genre": "other",
       "commercial_score": 60,
       "product_keywords": [
-        "Snoopy goods"
+        "Lawson bento",
+        "easy recipe cookbook"
       ],
       "product_keywords_ja": [
-        "スヌーピー グッズ"
+        "リュウジ レシピ本",
+        "簡単 レシピ 時短調理器具"
       ],
       "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "スヌーピーの日の投稿が増加",
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSの話題まとめ。リュウジさんの動画が含まれる。",
           "source": "Yahoo!リアルタイム検索",
           "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
@@ -575,96 +114,55 @@
       "country_label_ja": "日本"
     },
     {
-      "keyword": "USB rechargeable LED desk lamp",
-      "reason_ja": "充電式LEDデスクランプが有望",
-      "genre": "gadget",
-      "commercial_score": 58,
+      "keyword": "国庆旅游",
+      "reason_ja": "国慶節連休で観光地が混雑し、旅行関連の話題が続いた。",
+      "genre": "outdoor",
+      "commercial_score": 60,
       "product_keywords": [
-        "LED desk lamp"
+        "travel backpack",
+        "portable charger"
       ],
       "product_keywords_ja": [
-        "LEDデスクライト 充電式"
+        "旅行 リュック",
+        "モバイルバッテリー"
       ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
+      "trend_source": "新浪旅游ホットトピック",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Top Trending Products in the UK 2026",
-          "summary_ja": "LEDデスクランプが有望",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/current-trending-products-in-the-uk-2026"
+          "title_ja": "新浪の旅行ホットトピック速報",
+          "summary_ja": "国慶節連休中の観光客数や人気スポットを時間ごとに紹介する速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjto.html"
+        },
+        {
+          "title_ja": "新浪の旅行ホットトピック速報（午後）",
+          "summary_ja": "上海や北京などの人気観光地の混雑状況を伝える速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkla.html"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "keyword": "国庆假期出行",
-      "reason_ja": "国庆の大移動がWeiboで話題",
+      "keyword": "日向坂46 イチャイチャ虫",
+      "reason_ja": "新曲がバズリズム02でテレビ初披露された。",
       "genre": "other",
       "commercial_score": 55,
       "product_keywords": [
-        "travel luggage"
+        "Hinatazaka46 CD"
       ],
       "product_keywords_ja": [
-        "スーツケース",
-        "旅行 グッズ"
-      ],
-      "trend_source": "Weibo热搜",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "微博実時熱点",
-          "summary_ja": "国庆の人の流れが話題",
-          "source": "Weibo",
-          "url": "https://weibo.com/a/hot/realtime"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "曲屏5G手机",
-      "reason_ja": "曲面画面5Gスマホ推薦",
-      "genre": "gadget",
-      "commercial_score": 55,
-      "product_keywords": [
-        "curved screen phone"
-      ],
-      "product_keywords_ja": [
-        "曲面ディスプレイ スマホ"
-      ],
-      "trend_source": "Weibo",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "曲屏5G手机推荐",
-          "summary_ja": "曲面スマホ推薦",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nitviim7415593"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "豆腐 (豆腐の日)",
-      "reason_ja": "10月2日は豆腐の日でレシピ投稿が増加",
-      "genre": "food",
-      "commercial_score": 50,
-      "product_keywords": [
-        "tofu"
-      ],
-      "product_keywords_ja": [
-        "豆腐",
-        "絹ごし豆腐"
+        "日向坂46 CD",
+        "日向坂46 グッズ"
       ],
       "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "豆腐の日に好みの食べ方が話題",
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSの話題まとめ。日向坂46の新曲披露が含まれる。",
           "source": "Yahoo!リアルタイム検索",
           "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
@@ -673,76 +171,322 @@
       "country_label_ja": "日本"
     },
     {
-      "keyword": "LV Neverfull",
-      "reason_ja": "LVバッグの価格が話題",
+      "keyword": "aiko 新曲",
+      "reason_ja": "新曲2曲が10月2日に先行配信された。",
       "genre": "other",
       "commercial_score": 50,
       "product_keywords": [
-        "Louis Vuitton bag"
+        "aiko album"
       ],
       "product_keywords_ja": [
-        "ルイヴィトン ネヴァーフル"
+        "aiko CD"
       ],
-      "trend_source": "Weibo",
+      "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "LV Neverfull多少钱？最新价格",
-          "summary_ja": "国内価格1.44万-1.51万元",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nitviim7418936"
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSの話題まとめ。aikoの先行配信が含まれる。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "keyword": "蒙脱石散",
-      "reason_ja": "下痢止めの仕組みが話題",
-      "genre": "health",
-      "commercial_score": 45,
-      "product_keywords": [
-        "diarrhea medicine"
-      ],
-      "product_keywords_ja": [
-        "整腸剤"
-      ],
-      "trend_source": "Weibo热搜",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "微博実時熱点",
-          "summary_ja": "モンモリロナイト散の仕組みが話題",
-          "source": "Weibo",
-          "url": "https://weibo.com/a/hot/realtime"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "Steelers vs Browns",
-      "reason_ja": "米Google急上昇1位(200万+)。試合関連グッズ需要",
+      "keyword": "Dodgers vs Cubs",
+      "reason_ja": "MLBドジャース対カブスの試合で検索が増えた。",
       "genre": "other",
-      "commercial_score": 35,
+      "commercial_score": 50,
       "product_keywords": [
-        "NFL jersey"
+        "Dodgers jersey",
+        "baseball cap"
       ],
       "product_keywords_ja": [
-        "NFL ジャージ"
+        "ドジャース ユニフォーム",
+        "ドジャース キャップ"
       ],
       "trend_source": "Google Trends US",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google Trends Trending Now",
-          "summary_ja": "米国の急上昇ワード",
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索。MLBの対戦カードが複数上位に入った。",
           "source": "Google Trends",
-          "url": "https://trends.google.com/trending"
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Premier League",
+      "reason_ja": "2026-27シーズンのプレミアリーグは継続的に検索される。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "football shirt",
+        "football boots"
+      ],
+      "product_keywords_ja": [
+        "サッカー ユニフォーム",
+        "サッカー スパイク"
+      ],
+      "trend_source": "Google Trends UK関連",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "2026-27シーズンのプレミアリーグ",
+          "summary_ja": "2026-27シーズンの試合日程や順位をまとめた百科事典ページ。",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "全世界都知道中国人放假了",
+      "reason_ja": "国慶節連休で世界中に中国人観光客が増えたという話題が拡散した。",
+      "genre": "outdoor",
+      "commercial_score": 45,
+      "product_keywords": [
+        "travel adapter",
+        "luggage"
+      ],
+      "product_keywords_ja": [
+        "海外旅行 変換プラグ",
+        "スーツケース"
+      ],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の旅行ホットトピック速報（朝）",
+          "summary_ja": "国慶節連休の朝の旅行関連の話題をまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjee.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "Glasgow travel",
+      "reason_ja": "グラスゴーが2026年の注目旅行先として紹介されている。",
+      "genre": "outdoor",
+      "commercial_score": 40,
+      "product_keywords": [
+        "travel guide UK",
+        "carry-on suitcase"
+      ],
+      "product_keywords_ja": [
+        "旅行 スーツケース 機内持ち込み",
+        "英国 ガイドブック"
+      ],
+      "trend_source": "NationalWorld",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "英国から2026年人気旅行先トップ10入り",
+          "summary_ja": "グラスゴーはユネスコ音楽都市として、現代文化や食で人気の旅行先に選ばれた。",
+          "source": "NationalWorld",
+          "url": "https://www.nationalworld.com/travel/travel-news/one-uk-city-amongst-the-top-10-trending-destinations-for-2026-5472259"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "JDG 1:2 T1",
+      "reason_ja": "eスポーツ試合でJDGがT1に1対2で敗れ話題になった。",
+      "genre": "gadget",
+      "commercial_score": 40,
+      "product_keywords": [
+        "gaming mouse",
+        "gaming keyboard"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングマウス",
+        "ゲーミングキーボード"
+      ],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の音楽ホットトピック速報",
+          "summary_ja": "10月2日夕方の話題をまとめた新浪の速報記事。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pl74.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "Patrick Kane",
+      "reason_ja": "アイスホッケー選手パトリック・ケインの検索が増えた。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "hockey jersey"
+      ],
+      "product_keywords_ja": [
+        "NHL ユニフォーム"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索に選手名が入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "British TV 2026",
+      "reason_ja": "英国のテレビ番組の話題が継続して検索されている。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Wikipedia",
+      "trend_source_type": "other",
+      "articles": [
+        {
+          "title_ja": "2026年の英国テレビ",
+          "summary_ja": "2026年の英国テレビの番組や出来事をまとめたページ。",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_in_British_television"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Walgreens store closings 2026",
+      "reason_ja": "ウォルグリーンの閉店店舗に関する検索が増えた。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索にウォルグリーン閉店の話題が入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "四川广元国庆烟花秀",
+      "reason_ja": "四川省広元市の国慶節花火ショーが迫力あると話題になった。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の文旅ホットトピック速報",
+          "summary_ja": "各地の文化観光の話題を時間ごとにまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkyw.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "久保建英 福原遥 結婚",
+      "reason_ja": "久保建英選手と福原遥さんが結婚をInstagramで発表した。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Yahoo!ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "久保建英と福原遥が結婚を電撃発表",
+          "summary_ja": "サッカーの久保建英選手と女優の福原遥さんが、2日にそれぞれのInstagramで結婚を発表した。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6597319"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "pub costs UK",
+      "reason_ja": "英国のパブの運営コスト上昇と課税への懸念が報じられた。",
+      "genre": "food",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Morning Advertiser",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "10月2日のニュース",
+          "summary_ja": "英国の飲食業界の10月2日のニュースまとめ。パブのコスト上昇と課税への懸念を扱う。",
+          "source": "Morning Advertiser",
+          "url": "https://www.morningadvertiser.co.uk/Article/2026/10/02/whats-in-the-news-2-october/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "国足0:5不敌巴勒斯坦",
+      "reason_ja": "サッカー中国代表がパレスチナに0対5で敗れ、抖音で話題になった。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の国慶節ホットトピック速報",
+          "summary_ja": "国慶節期間中の10月2日の話題を時間ごとにまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908plvc.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "秋粮收获进度过三成",
+      "reason_ja": "中国の秋の穀物収穫が3割を超えたと伝えられた。",
+      "genre": "food",
+      "commercial_score": 15,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "新浪の文旅ホットトピック速報（深夜）",
+          "summary_ja": "10月2日0時時点の話題をまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pi8i.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

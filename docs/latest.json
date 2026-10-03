@@ -1,1370 +1,564 @@
 {
-  "generated_at": "2026-10-02T23:31:35+09:00",
+  "generated_at": "2026-10-03T16:09:25+09:00",
   "trends": [
     {
-      "keyword": "新米 コシヒカリ",
-      "reason_ja": "令和8年産の新米が楽天食品ランキング上位",
-      "genre": "food",
+      "keyword": "ちいかわ",
+      "reason_ja": "ナガノ先生の深夜連続更新とちいかわマーケットの売り切れ続出で話題になった。",
+      "genre": "other",
       "commercial_score": 80,
       "product_keywords": [
-        "new rice"
+        "Chiikawa goods",
+        "Chiikawa plush"
       ],
       "product_keywords_ja": [
-        "新米 コシヒカリ",
-        "令和8年産 米"
-      ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "楽天市場 食品ランキング",
-          "summary_ja": "徳島県産コシヒカリ新米などが上位",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100227/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "HG ガンプラ ルブリス・ジウツ",
-      "reason_ja": "10/2 12時に予約開始しSNSで話題",
-      "genre": "other",
-      "commercial_score": 78,
-      "product_keywords": [
-        "Gundam model kit"
-      ],
-      "product_keywords_ja": [
-        "ガンプラ HG 1/144",
-        "ガンダム プラモデル"
+        "ちいかわ グッズ",
+        "ちいかわ ぬいぐるみ"
       ],
       "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "ガンプラ予約開始がSNSで話題に",
+          "title_ja": "ナガノ先生の深夜連続更新でちいかわが話題に",
+          "summary_ja": "作者ナガノ先生の深夜連続更新にファンが感謝の声を寄せ、SNSで盛り上がった。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/cee0c53eafd6408685aabd1f327c4a26-1790963700"
+        },
+        {
+          "title_ja": "ちいかわマーケットが売り切れ続出",
+          "summary_ja": "チェックアウト待ちで商品が売り切れるユーザーが多数出た。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome/df5fb73665ed4c7395c97a1323e5e054-1790907600"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "エースコンバット8",
+      "reason_ja": "10月2日発売で、Steam同時接続が3万7千人を超え前作の約3倍となった。",
+      "genre": "gadget",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Ace Combat 8",
+        "flight stick"
+      ],
+      "product_keywords_ja": [
+        "エースコンバット8",
+        "フライトスティック"
+      ],
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSで話題になった出来事のまとめ。エースコンバット8の発売も取り上げられた。",
           "source": "Yahoo!リアルタイム検索",
           "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "keyword": "Mighty Patch",
-      "reason_ja": "TikTokで拡散のスキンケア用ニキビパッチ",
-      "genre": "beauty",
-      "commercial_score": 75,
-      "product_keywords": [
-        "pimple patch"
-      ],
-      "product_keywords_ja": [
-        "ニキビパッチ"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "Mighty PatchやコウジR酸セラムがTikTokで人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Air fryer",
-      "reason_ja": "省エネ家電として英国で定番",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "air fryer"
-      ],
-      "product_keywords_ja": [
-        "エアフライヤー",
-        "ノンフライヤー"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Best Selling Products on Amazon UK 2026",
-          "summary_ja": "エアフライヤーが売れ筋",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/best_selling_products_on_amazon_uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Halloween costume",
-      "reason_ja": "10月最大のTikTokトレンド、恐竜インフレータブル等",
-      "genre": "other",
-      "commercial_score": 74,
-      "product_keywords": [
-        "Halloween costume"
-      ],
-      "product_keywords_ja": [
-        "ハロウィン コスプレ",
-        "ハロウィン 衣装 インフレータブル"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "ハロウィン衣装が10月最大のトレンド",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Korean skincare",
-      "reason_ja": "K-Beautyが英国の美容カテゴリを牽引",
-      "genre": "beauty",
-      "commercial_score": 73,
-      "product_keywords": [
-        "Korean skincare"
-      ],
-      "product_keywords_ja": [
-        "韓国スキンケア",
-        "韓国コスメ"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Top Trending & Profitable Products UK 2026",
-          "summary_ja": "K-Beautyが成長",
-          "source": "Skailama",
-          "url": "https://www.skailama.com/blog/top-trending-products-to-sell-online-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "抗原検査キット",
-      "reason_ja": "インフルエンザ対応の抗原検査キットが生活雑貨ランキングで上位",
-      "genre": "health",
-      "commercial_score": 72,
-      "product_keywords": [
-        "antigen test kit"
-      ],
-      "product_keywords_ja": [
-        "抗原検査キット インフルエンザ"
-      ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "楽天市場 生活雑貨ランキング",
-          "summary_ja": "抗原検査キットやニトリル手袋が人気",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100554/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Kojic acid serum",
-      "reason_ja": "TikTokで500万再生超のコウジ酸美容液",
-      "genre": "beauty",
-      "commercial_score": 72,
-      "product_keywords": [
-        "kojic acid serum"
-      ],
-      "product_keywords_ja": [
-        "コウジ酸 美容液"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "コウジ酸セラムが話題",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Magnesium glycinate",
-      "reason_ja": "英国で人気の睡眠系サプリ",
-      "genre": "health",
-      "commercial_score": 72,
-      "product_keywords": [
-        "magnesium glycinate"
-      ],
-      "product_keywords_ja": [
-        "マグネシウム サプリ",
-        "グリシン マグネシウム"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "マグネシウムが英国で主力サプリ",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "ストーブ ヒーター",
-      "reason_ja": "北海道で急な冷え込み、暖房需要が増加",
-      "genre": "other",
-      "commercial_score": 70,
-      "product_keywords": [
-        "heater",
-        "stove"
-      ],
-      "product_keywords_ja": [
-        "ストーブ",
-        "電気ヒーター"
-      ],
-      "trend_source": "Yahoo!リアルタイム検索",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "北海道の急な冷え込みでストーブ話題",
-          "source": "Yahoo!リアルタイム検索",
-          "url": "https://search.yahoo.co.jp/realtime/search/matome"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Heated blanket USB",
-      "reason_ja": "秋の冷え込みで人気のUSB給電ブランケット",
-      "genre": "gadget",
-      "commercial_score": 70,
-      "product_keywords": [
-        "heated blanket"
-      ],
-      "product_keywords_ja": [
-        "電気毛布 USB",
-        "ブランケット 電熱"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "USB電熱ブランケットが秋の人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Heatless hair curlers",
-      "reason_ja": "ノーヒートカーラーが英Amazonで人気",
-      "genre": "beauty",
-      "commercial_score": 70,
-      "product_keywords": [
-        "heatless curlers"
-      ],
-      "product_keywords_ja": [
-        "ヒートレスカーラー",
-        "ヘアカーラー 巻き髪"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "英国のトレンド商品",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "千元机 手机",
-      "reason_ja": "1000-2000元のスマホが競争激化、6000mAh以上",
-      "genre": "gadget",
-      "commercial_score": 70,
-      "product_keywords": [
-        "smartphone"
-      ],
-      "product_keywords_ja": [
-        "スマートフォン 大容量バッテリー",
-        "SIMフリー スマホ"
-      ],
-      "trend_source": "Weibo",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "一千到两千手机哪款好？2026年10月千元机选购全攻略",
-          "summary_ja": "千元機選び",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nittvhc8041657"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "ノートパソコン Office付き",
-      "reason_ja": "Windows 11搭載の格安ノートPCが売れ筋",
-      "genre": "gadget",
-      "commercial_score": 68,
-      "product_keywords": [
-        "laptop"
-      ],
-      "product_keywords_ja": [
-        "ノートパソコン Office付き",
-        "ノートPC 新品"
-      ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "楽天市場 ノートPCランキング",
-          "summary_ja": "3万円台からのノートPCが上位",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100040/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "La Roche-Posay Toleriane Double Repair",
-      "reason_ja": "October Prime Dayで売れ筋の保湿クリーム",
-      "genre": "beauty",
-      "commercial_score": 68,
-      "product_keywords": [
-        "face moisturizer"
-      ],
-      "product_keywords_ja": [
-        "ラロッシュポゼ トレリアン",
-        "保湿クリーム"
-      ],
-      "trend_source": "Amazon October Prime Day",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "October Prime Dayの注目ベストセラー",
-          "summary_ja": "ラロッシュポゼ保湿剤が上位",
-          "source": "NBC News",
-          "url": "https://nbcnews.com/select/shopping/amazon-bestsellers-october-prime-day-2026-rcna600365"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "LED sunset projector",
-      "reason_ja": "TikTokで人気のサンセットプロジェクターライト",
-      "genre": "gadget",
-      "commercial_score": 66,
-      "product_keywords": [
-        "sunset projector lamp"
-      ],
-      "product_keywords_ja": [
-        "サンセットライト",
-        "プロジェクターライト"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "ムードライトが人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Cordless car vacuum",
-      "reason_ja": "コードレス車載掃除機が人気",
-      "genre": "gadget",
-      "commercial_score": 66,
-      "product_keywords": [
-        "car vacuum"
-      ],
-      "product_keywords_ja": [
-        "車載掃除機 コードレス",
-        "ハンディクリーナー 車"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Top Trending Products in the UK 2026",
-          "summary_ja": "コードレス掃除機が有望",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/current-trending-products-in-the-uk-2026"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "旗舰手机 vivo X300 Ultra",
-      "reason_ja": "2026年のフラッグシップ比較が話題",
-      "genre": "gadget",
-      "commercial_score": 66,
-      "product_keywords": [
-        "flagship smartphone"
-      ],
-      "product_keywords_ja": [
-        "スマートフォン ハイエンド"
-      ],
-      "trend_source": "Weibo",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "2026顶配手机哪款值得买？",
-          "summary_ja": "5大フラッグシップ比較",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nitteki6696346"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "ブリタ カートリッジ",
-      "reason_ja": "浄水器カートリッジが売れ筋上位",
+      "keyword": "逃げ上手の若君",
+      "reason_ja": "最終巻が10月2日に発売され、特典付きで注目を集めた。",
       "genre": "other",
       "commercial_score": 65,
       "product_keywords": [
-        "Brita cartridge"
+        "manga volume",
+        "Nige Jozu no Wakagimi"
       ],
       "product_keywords_ja": [
-        "ブリタ カートリッジ",
-        "浄水器 カートリッジ"
+        "逃げ上手の若君 最終巻",
+        "逃げ上手の若君 特典"
       ],
-      "trend_source": "楽天ランキング",
-      "trend_source_type": "ec_ranking",
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "楽天市場 生活雑貨ランキング",
-          "summary_ja": "ブリタの浄水器カートリッジが上位",
-          "source": "楽天市場",
-          "url": "https://ranking.rakuten.co.jp/daily/100554/"
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSで話題となった話題のまとめ。漫画の最終巻発売も含まれる。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "keyword": "Mushroom coffee",
-      "reason_ja": "キノココーヒーが英国で話題",
+      "keyword": "リュウジ ローソン 炒めコーン弁当",
+      "reason_ja": "料理研究家リュウジさんが10月2日にローソンの弁当を評価する動画を公開した。",
       "genre": "food",
-      "commercial_score": 64,
-      "product_keywords": [
-        "mushroom coffee"
-      ],
-      "product_keywords_ja": [
-        "マッシュルームコーヒー",
-        "きのこ コーヒー"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "マッシュルームコーヒーが注目",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Insulated tumbler",
-      "reason_ja": "保温タンブラーが英国で人気",
-      "genre": "outdoor",
-      "commercial_score": 64,
-      "product_keywords": [
-        "insulated tumbler"
-      ],
-      "product_keywords_ja": [
-        "タンブラー 保温",
-        "真空断熱 タンブラー"
-      ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
-      "articles": [
-        {
-          "title_ja": "Trending Products in UK 2026",
-          "summary_ja": "断熱タンブラーが人気",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/trending-products-in-uk"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Pet Halloween costume",
-      "reason_ja": "ペット用ハロウィン衣装が人気",
-      "genre": "pet",
-      "commercial_score": 62,
-      "product_keywords": [
-        "pet costume"
-      ],
-      "product_keywords_ja": [
-        "ペット ハロウィン 衣装",
-        "犬 コスチューム"
-      ],
-      "trend_source": "TikTok viral products",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "TikTokバイラル商品 2026年10月",
-          "summary_ja": "ペット衣装が人気",
-          "source": "astools",
-          "url": "https://news.astools.app/en/blog/tiktok-viral-products-october-2026"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "スヌーピー グッズ",
-      "reason_ja": "スヌーピーの日でSNSで盛り上がり",
-      "genre": "other",
       "commercial_score": 60,
       "product_keywords": [
-        "Snoopy goods"
+        "Lawson bento",
+        "easy recipe cookbook"
       ],
       "product_keywords_ja": [
-        "スヌーピー グッズ"
+        "リュウジ レシピ本",
+        "簡単 レシピ 時短調理器具"
       ],
       "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "スヌーピーの日の投稿が増加",
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSの話題まとめ。リュウジさんの動画が含まれる。",
           "source": "Yahoo!リアルタイム検索",
           "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "keyword": "USB rechargeable LED desk lamp",
-      "reason_ja": "充電式LEDデスクランプが有望",
-      "genre": "gadget",
-      "commercial_score": 58,
+      "keyword": "国庆旅游",
+      "reason_ja": "国慶節連休で観光地が混雑し、旅行関連の話題が続いた。",
+      "genre": "outdoor",
+      "commercial_score": 60,
       "product_keywords": [
-        "LED desk lamp"
+        "travel backpack",
+        "portable charger"
       ],
       "product_keywords_ja": [
-        "LEDデスクライト 充電式"
+        "旅行 リュック",
+        "モバイルバッテリー"
       ],
-      "trend_source": "Amazon UK trends",
-      "trend_source_type": "ec_ranking",
+      "trend_source": "新浪旅游ホットトピック",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Top Trending Products in the UK 2026",
-          "summary_ja": "LEDデスクランプが有望",
-          "source": "Accio",
-          "url": "https://www.accio.com/business/current-trending-products-in-the-uk-2026"
+          "title_ja": "新浪の旅行ホットトピック速報",
+          "summary_ja": "国慶節連休中の観光客数や人気スポットを時間ごとに紹介する速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjto.html"
+        },
+        {
+          "title_ja": "新浪の旅行ホットトピック速報（午後）",
+          "summary_ja": "上海や北京などの人気観光地の混雑状況を伝える速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkla.html"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "date": "2026-10-02"
+      "country": "cn",
+      "country_label_ja": "中国",
+      "date": "2026-10-03"
     },
     {
-      "keyword": "国庆假期出行",
-      "reason_ja": "国庆の大移動がWeiboで話題",
+      "keyword": "日向坂46 イチャイチャ虫",
+      "reason_ja": "新曲がバズリズム02でテレビ初披露された。",
       "genre": "other",
       "commercial_score": 55,
       "product_keywords": [
-        "travel luggage"
+        "Hinatazaka46 CD"
       ],
       "product_keywords_ja": [
-        "スーツケース",
-        "旅行 グッズ"
-      ],
-      "trend_source": "Weibo热搜",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "微博実時熱点",
-          "summary_ja": "国庆の人の流れが話題",
-          "source": "Weibo",
-          "url": "https://weibo.com/a/hot/realtime"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "曲屏5G手机",
-      "reason_ja": "曲面画面5Gスマホ推薦",
-      "genre": "gadget",
-      "commercial_score": 55,
-      "product_keywords": [
-        "curved screen phone"
-      ],
-      "product_keywords_ja": [
-        "曲面ディスプレイ スマホ"
-      ],
-      "trend_source": "Weibo",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "曲屏5G手机推荐",
-          "summary_ja": "曲面スマホ推薦",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nitviim7415593"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "豆腐 (豆腐の日)",
-      "reason_ja": "10月2日は豆腐の日でレシピ投稿が増加",
-      "genre": "food",
-      "commercial_score": 50,
-      "product_keywords": [
-        "tofu"
-      ],
-      "product_keywords_ja": [
-        "豆腐",
-        "絹ごし豆腐"
+        "日向坂46 CD",
+        "日向坂46 グッズ"
       ],
       "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Yahoo!リアルタイム検索 SNSのバズまとめ",
-          "summary_ja": "豆腐の日に好みの食べ方が話題",
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSの話題まとめ。日向坂46の新曲披露が含まれる。",
           "source": "Yahoo!リアルタイム検索",
           "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "keyword": "LV Neverfull",
-      "reason_ja": "LVバッグの価格が話題",
+      "keyword": "aiko 新曲",
+      "reason_ja": "新曲2曲が10月2日に先行配信された。",
       "genre": "other",
       "commercial_score": 50,
       "product_keywords": [
-        "Louis Vuitton bag"
+        "aiko album"
       ],
       "product_keywords_ja": [
-        "ルイヴィトン ネヴァーフル"
+        "aiko CD"
       ],
-      "trend_source": "Weibo",
+      "trend_source": "Yahoo!リアルタイム検索",
       "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "LV Neverfull多少钱？最新价格",
-          "summary_ja": "国内価格1.44万-1.51万元",
-          "source": "Weibo",
-          "url": "https://weibo.com/2/detail/comos:nitviim7418936"
+          "title_ja": "SNSのバズまとめ（10月2日）",
+          "summary_ja": "10月2日のSNSの話題まとめ。aikoの先行配信が含まれる。",
+          "source": "Yahoo!リアルタイム検索",
+          "url": "https://search.yahoo.co.jp/realtime/search/matome"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "date": "2026-10-02"
+      "country": "jp",
+      "country_label_ja": "日本",
+      "date": "2026-10-03"
     },
     {
-      "keyword": "蒙脱石散",
-      "reason_ja": "下痢止めの仕組みが話題",
-      "genre": "health",
-      "commercial_score": 45,
-      "product_keywords": [
-        "diarrhea medicine"
-      ],
-      "product_keywords_ja": [
-        "整腸剤"
-      ],
-      "trend_source": "Weibo热搜",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "微博実時熱点",
-          "summary_ja": "モンモリロナイト散の仕組みが話題",
-          "source": "Weibo",
-          "url": "https://weibo.com/a/hot/realtime"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "date": "2026-10-02"
-    },
-    {
-      "keyword": "Steelers vs Browns",
-      "reason_ja": "米Google急上昇1位(200万+)。試合関連グッズ需要",
+      "keyword": "Dodgers vs Cubs",
+      "reason_ja": "MLBドジャース対カブスの試合で検索が増えた。",
       "genre": "other",
-      "commercial_score": 35,
+      "commercial_score": 50,
       "product_keywords": [
-        "NFL jersey"
+        "Dodgers jersey",
+        "baseball cap"
       ],
       "product_keywords_ja": [
-        "NFL ジャージ"
+        "ドジャース ユニフォーム",
+        "ドジャース キャップ"
       ],
       "trend_source": "Google Trends US",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google Trends Trending Now",
-          "summary_ja": "米国の急上昇ワード",
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索。MLBの対戦カードが複数上位に入った。",
           "source": "Google Trends",
-          "url": "https://trends.google.com/trending"
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "Premier League",
+      "reason_ja": "2026-27シーズンのプレミアリーグは継続的に検索される。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "football shirt",
+        "football boots"
+      ],
+      "product_keywords_ja": [
+        "サッカー ユニフォーム",
+        "サッカー スパイク"
+      ],
+      "trend_source": "Google Trends UK関連",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "2026-27シーズンのプレミアリーグ",
+          "summary_ja": "2026-27シーズンの試合日程や順位をまとめた百科事典ページ。",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "全世界都知道中国人放假了",
+      "reason_ja": "国慶節連休で世界中に中国人観光客が増えたという話題が拡散した。",
+      "genre": "outdoor",
+      "commercial_score": 45,
+      "product_keywords": [
+        "travel adapter",
+        "luggage"
+      ],
+      "product_keywords_ja": [
+        "海外旅行 変換プラグ",
+        "スーツケース"
+      ],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の旅行ホットトピック速報（朝）",
+          "summary_ja": "国慶節連休の朝の旅行関連の話題をまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjee.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "Glasgow travel",
+      "reason_ja": "グラスゴーが2026年の注目旅行先として紹介されている。",
+      "genre": "outdoor",
+      "commercial_score": 40,
+      "product_keywords": [
+        "travel guide UK",
+        "carry-on suitcase"
+      ],
+      "product_keywords_ja": [
+        "旅行 スーツケース 機内持ち込み",
+        "英国 ガイドブック"
+      ],
+      "trend_source": "NationalWorld",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "英国から2026年人気旅行先トップ10入り",
+          "summary_ja": "グラスゴーはユネスコ音楽都市として、現代文化や食で人気の旅行先に選ばれた。",
+          "source": "NationalWorld",
+          "url": "https://www.nationalworld.com/travel/travel-news/one-uk-city-amongst-the-top-10-trending-destinations-for-2026-5472259"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "JDG 1:2 T1",
+      "reason_ja": "eスポーツ試合でJDGがT1に1対2で敗れ話題になった。",
+      "genre": "gadget",
+      "commercial_score": 40,
+      "product_keywords": [
+        "gaming mouse",
+        "gaming keyboard"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングマウス",
+        "ゲーミングキーボード"
+      ],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の音楽ホットトピック速報",
+          "summary_ja": "10月2日夕方の話題をまとめた新浪の速報記事。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pl74.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "Patrick Kane",
+      "reason_ja": "アイスホッケー選手パトリック・ケインの検索が増えた。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "hockey jersey"
+      ],
+      "product_keywords_ja": [
+        "NHL ユニフォーム"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索に選手名が入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "British TV 2026",
+      "reason_ja": "英国のテレビ番組の話題が継続して検索されている。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Wikipedia",
+      "trend_source_type": "other",
+      "articles": [
+        {
+          "title_ja": "2026年の英国テレビ",
+          "summary_ja": "2026年の英国テレビの番組や出来事をまとめたページ。",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_in_British_television"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "Walgreens store closings 2026",
+      "reason_ja": "ウォルグリーンの閉店店舗に関する検索が増えた。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索にウォルグリーン閉店の話題が入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "四川广元国庆烟花秀",
+      "reason_ja": "四川省広元市の国慶節花火ショーが迫力あると話題になった。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の文旅ホットトピック速報",
+          "summary_ja": "各地の文化観光の話題を時間ごとにまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkyw.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "久保建英 福原遥 結婚",
+      "reason_ja": "久保建英選手と福原遥さんが結婚をInstagramで発表した。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Yahoo!ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "久保建英と福原遥が結婚を電撃発表",
+          "summary_ja": "サッカーの久保建英選手と女優の福原遥さんが、2日にそれぞれのInstagramで結婚を発表した。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6597319"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "pub costs UK",
+      "reason_ja": "英国のパブの運営コスト上昇と課税への懸念が報じられた。",
+      "genre": "food",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Morning Advertiser",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "10月2日のニュース",
+          "summary_ja": "英国の飲食業界の10月2日のニュースまとめ。パブのコスト上昇と課税への懸念を扱う。",
+          "source": "Morning Advertiser",
+          "url": "https://www.morningadvertiser.co.uk/Article/2026/10/02/whats-in-the-news-2-october/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "国足0:5不敌巴勒斯坦",
+      "reason_ja": "サッカー中国代表がパレスチナに0対5で敗れ、抖音で話題になった。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の国慶節ホットトピック速報",
+          "summary_ja": "国慶節期間中の10月2日の話題を時間ごとにまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908plvc.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "date": "2026-10-03"
+    },
+    {
+      "keyword": "秋粮收获进度过三成",
+      "reason_ja": "中国の秋の穀物収穫が3割を超えたと伝えられた。",
+      "genre": "food",
+      "commercial_score": 15,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "新浪の文旅ホットトピック速報（深夜）",
+          "summary_ja": "10月2日0時時点の話題をまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pi8i.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "date": "2026-10-03"
     }
   ],
   "stories": [
     {
-      "title_ja": "OpenAI、常時稼働エージェント「Dots」を発表",
-      "summary_ja": "OpenAIはDevDay 2026で、各自のクラウドPCとブラウザを持ち24時間働く常時稼働エージェント「Dots」を発表した。ChatGPT Spaceなど20以上の発表も行われ、当面はProとBusiness Premium向けに提供される。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "score": 92,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ChatGPT Pro",
-        "AIエージェント"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "OpenAI、廉価な「GPT-6.1 Sol」を提供開始",
-      "summary_ja": "GPT-6.1 SolはAstraに迫る性能を5分の1程度のトークン価格で提供するモデル。開発者向けの高速ティアやCodexのクラウド実行も同時に発表された。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-      "score": 88,
-      "commercial_score": 45,
-      "product_keywords": [
-        "ChatGPT",
-        "Codex"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Anthropic、Claude Sonnet 5.5を提供開始",
-      "summary_ja": "AnthropicはOpus 5.5を補完する高速かつ低価格のClaude Sonnet 5.5を公開した。処理速度が従来より30%以上向上したと報じられている。",
-      "source": "LLM Stats",
-      "url": "https://llm-stats.com/ai-news",
+      "title_ja": "ソフトバンクG、OpenAIへの追加出資が完了",
+      "summary_ja": "ソフトバンクグループはOpenAIへの追加出資を完了し、累計出資額は10兆円超、持分は約13%になった。AI投資の巨額化を象徴する動き。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/01/2000001944",
       "score": 85,
-      "commercial_score": 40,
-      "product_keywords": [
-        "Claude",
-        "AIアシスタント"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
+      "country": "jp",
+      "country_label_ja": "日本",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "Google、低価格な「Gemini 4 Argon」を段階提供",
-      "summary_ja": "Googleは入力100万トークン2ドルの新モデルGemini 4 Argonを発表した。まずセキュリティ専門家や有料API顧客、AI Ultra加入者に提供し、その後一般にも広げる計画。",
-      "source": "CoinCentral",
-      "url": "https://coincentral.com/googles-new-ai-model-just-undercut-openai-and-anthropic-on-price",
-      "score": 84,
-      "commercial_score": 50,
-      "product_keywords": [
-        "Google AI Ultra",
-        "Gemini"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英中銀総裁、AIブーム後の市場急落に警鐘",
-      "summary_ja": "イングランド銀行のベイリー総裁は、AIブームの調整が金融市場に衝撃を与えるリスクに英国は備えるべきだと警告した。資金流入で資産価格が高騰している点を注視している。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/boe-governor-warns-ai-boom-could-trigger-market-shocks-bbc",
-      "score": 78,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "AIエージェントのInstinctが10億ドル調達",
-      "summary_ja": "AIエージェント企業Instinctが、Sequoia、Benchmark、Coatue主導で10億ドルを調達し、評価額は100億ドルに達したと報じられた。",
-      "source": "AI Agents Directory",
-      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
-      "score": 76,
-      "commercial_score": 20,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "小米MiMo-2.7-Proなど新エージェントモデル",
-      "summary_ja": "10月1日時点で、小米のオープンソースエージェントモデルMiMo-2.6-FlashとMiMo-2.7-Proが更新された。StepFunのStep 5 Previewや音声・音楽モデルStepAudio 3も公開されている。",
-      "source": "知乎",
-      "url": "https://zhuanlan.zhihu.com/p/670574382",
-      "score": 75,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "国産AI新会社に約3000億円の補助",
-      "summary_ja": "経産相は、ソフトバンク中心の国産AI基盤モデル開発会社にNEDOを通じ約3000億円を補助すると発表した。ソニーやホンダなど多数が出資する連合で、フィジカルAIも狙う。",
+      "title_ja": "OpenAIの暴走問題、影響100件超の可能性",
+      "summary_ja": "OpenAIのAIが想定外の挙動を示した問題で、影響が100件を超える可能性があると報じられた。カリフォルニア州も調査に乗り出している。",
       "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA301Z30Q6A630C2000000/",
-      "score": 74,
-      "commercial_score": 15,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ソフトバンク、GPUクラウドを10月から提供",
-      "summary_ja": "ソフトバンクは「Infrinia AI Cloud OS」を搭載したAIデータセンターGPUクラウドを2026年10月から提供する。ソブリンAIを掲げる成長戦略の一環。",
-      "source": "ソフトバンク",
-      "url": "https://www.softbank.jp/biz/about/ai/",
-      "score": 72,
-      "commercial_score": 25,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英国、AI安全研究所に法的根拠を付与",
-      "summary_ja": "英国政府は2026年デジタル安全保障・AI法案で、AI安全研究所の法的地位を強化したと報じられた。英国内データセンターで訓練する最先端モデルに事前安全評価を義務付ける内容。",
-      "source": "Dominant Digitally",
-      "url": "https://dominantdigitally.com/blog/uk-ai-regulation-news-updates/",
-      "score": 72,
-      "commercial_score": 8,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Nvidia、AIエージェント向け安全基盤を発表",
-      "summary_ja": "Nvidiaは100社超のパートナーと開発した、暴走するAIエージェントを迅速に隔離するOpen Agent Safety Platformを発表した。ハードとソフトを組み合わせたセキュリティスタックである。",
-      "source": "AI Agents Directory",
-      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
-      "score": 70,
-      "commercial_score": 25,
-      "product_keywords": [
-        "NVIDIA GPU"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "中国AIのトークン呼び出し量が米国を15週連続で上回る",
-      "summary_ja": "中国AIモデルの週間トークン呼び出し量は9月上旬に34.25兆に達し、米国を15週連続で上回って世界首位を維持している。DeepSeek-V4、Kimi K3、Qwenなどが上位に入る。",
-      "source": "Enet16",
-      "url": "http://enet16.com/article/2026/0907/A202609072804.html",
-      "score": 70,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "10月にDeepSeek、Qwen、Kimiが新モデル投入か",
-      "summary_ja": "DeepSeek V4.1 Pro、Qwen 4、Kimi K3.x、GLM-5.4、MiniMax M3など、中国勢オープンモデルの新世代が10月に出揃うとの予測が出ている。正式な日付は未発表で、リーク情報に基づく。",
-      "source": "X (AJ)",
-      "url": "https://x.com/ItsmeAjayKV/status/2104526519444066308",
-      "score": 68,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "OpenAIのDots、英国とEEAでは当初対象外",
-      "summary_ja": "OpenAIの常時稼働エージェント機能Dotsは、EEA、スイス、英国を除く市場のProユーザーから先行提供される。規制への慎重姿勢が背景にある。",
-      "source": "Open AI News",
-      "url": "https://blog.mean.ceo/open-ai-news-october-2026/",
-      "score": 62,
-      "commercial_score": 25,
-      "product_keywords": [
-        "ChatGPT Pro"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "DeepMind、英AISIとの提携を拡大",
-      "summary_ja": "Google DeepMindは英AIセキュリティ研究所と新たな覚書を結び、自社モデルやデータを共有して安全性研究を共同で進める。共同報告書の公表も予定する。",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-      "score": 60,
-      "commercial_score": 8,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "カオナビがAIエージェント「KTi」新CMを放映",
-      "summary_ja": "カオナビはAIエージェント「KTi」の新CMに香取慎吾を起用し、10月3日から放映を始める。",
-      "source": "AI・生成AI関連ニュース一覧",
-      "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-09",
-      "score": 50,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2.8兆パラメータの世界最大級オープンモデル",
-      "summary_ja": "新浪財経は7月に、2.8兆パラメータとされる世界最大級のオープンソースモデルの登場を報じた。中国のオープンモデル競争の規模感を示す。",
-      "source": "新浪財経",
-      "url": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniiccvc8194607.shtml",
-      "score": 50,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "シニアの3割がAI接客に抵抗なしと回答",
-      "summary_ja": "シニア・プレシニアの購買行動調査で、3割がAI接客に抵抗がないと回答した。AIを使った販売の広がりを示す結果。",
-      "source": "AI・生成AI関連ニュース一覧",
-      "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-09",
-      "score": 45,
-      "commercial_score": 35,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "生成AIサミット2026を東京で開催",
-      "summary_ja": "GenAI/SUM 2026が10月5〜7日に東京・九段下で開催され、AIネイティブ社会への移行が議論される。",
-      "source": "GenAI/SUM 2026",
-      "url": "https://www.xsum.jp/gai/",
-      "score": 40,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ロンドンでAI Breakthrough Conferenceを開催",
-      "summary_ja": "第3回AI Breakthrough Conferenceが10月7〜8日にロンドンで開かれ、企業幹部らが集まる予定。",
-      "source": "The Hackett Group",
-      "url": "https://www.thehackettgroup.com/ai-conference-eu2026/",
-      "score": 35,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "折りたたみiPhone Duo、10月23日発売へ",
-      "summary_ja": "9月のAppleイベントで発表されたiPhone Duoが10月23日に発売予定。Apple Watch Series 12も同時に登場した。",
-      "source": "motifyublog",
-      "url": "https://motifyublog.com/apple-event-fall-2026/",
-      "score": 88,
-      "commercial_score": 90,
-      "product_keywords": [
-        "iPhone Duo",
-        "Apple Watch Series 12"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Apple秋イベント、iPhone Duoと新Watchを発表",
-      "summary_ja": "Appleの秋イベントで折りたたみのiPhone DuoとApple Watch Series 12が発表された。iPhone Duoは10月23日に発売される。",
-      "source": "motifyublog",
-      "url": "https://motifyublog.com/apple-event-fall-2026/",
-      "score": 88,
-      "commercial_score": 88,
-      "product_keywords": [
-        "iPhone Duo"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "華為Mate 90シリーズが10月1日に登場",
-      "summary_ja": "華為はMate 90、Pro、Pro Max、RSなど5機種を発表した。同日にnova 16 Proの限定ボックスも出た。",
-      "source": "新浪新闻",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pgde.html",
-      "score": 85,
-      "commercial_score": 60,
-      "product_keywords": [
-        "HUAWEI Mate 90"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ソニー Xperia 10 VIII、10月8日発売",
-      "summary_ja": "ソニーのミドルレンジ「Xperia 10 VIII」が10月8日に発売される。価格は99,000円で、決済・ポイントアプリにすぐ対応する。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Xperia 10 VIII"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "iPhone Duo英国価格1,999ポンド、予約は10月16日",
-      "summary_ja": "折りたたみのiPhone Duoは英国で256GBが1,999ポンドから。予約は10月16日、発売は10月23日。",
-      "source": "MyMobiles",
-      "url": "https://www.mymobiles.com/phones/upcoming",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "iPhone Duo"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Galaxy S26 SIMフリー版が最大3.6万円値上げ",
-      "summary_ja": "サムスンのGalaxy S26シリーズのSIMフリー版について、最大36,000円の価格改定が10月1日に発表された。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/category/index.html",
+      "url": "https://nikkei.com/article/DGXZQOGN02CC70S6A001C2000000",
       "score": 78,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Galaxy S26"
-      ],
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "国産フラグシップが値上げ、メモリ高騰が影響",
-      "summary_ja": "メモリ価格の高騰と2nm工程への移行で、国産フラグシップは前年比で大幅に値上がりする見通しだ。",
-      "source": "新浪新闻",
-      "url": "https://www.sina.cn/weibo/detail/5345187408645848.html",
-      "score": 74,
-      "commercial_score": 50,
-      "product_keywords": [
-        "Xiaomi 18 Pro",
-        "HONOR Magic"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Googleの新ノートPC「Googlebook」発売",
-      "summary_ja": "AndroidとChromeOSを組み合わせた新ノートPC「Googlebook」を発表し、10月4日に発売される。",
-      "source": "Gadget Gate",
-      "url": "https://gadget.phileweb.com/",
-      "score": 72,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Googlebook"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "華為がFreeBuds NeoやWATCH D3など新製品",
-      "summary_ja": "華為はFreeBuds Neo、血圧記録機能付きのWATCH D3、スマートスクリーンMateTV 2を発表した。",
-      "source": "新浪新闻",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908phwu.html",
-      "score": 72,
-      "commercial_score": 65,
-      "product_keywords": [
-        "HUAWEI WATCH D3",
-        "HUAWEI FreeBuds"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Galaxy Tab S12 Ultra/S12+が10月7日発売",
-      "summary_ja": "サムスンのハイエンドタブレットGalaxy Tab S12 UltraとS12+が10月7日に発売される。",
-      "source": "テクノエッジ",
-      "url": "https://www.techno-edge.net/category/gadget/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Galaxy Tab S12 Ultra"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Engadgetが2026年のベスト製品を発表",
-      "summary_ja": "Engadgetは年間ベスト製品を公開し、ウェアラブルはApple Watch Series 12、カメラはSony A7R VIを選んだ。",
-      "source": "Engadget",
-      "url": "https://engadget.com/2274600/engadgets-best-of-2026",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Apple Watch Series 12",
-        "Sony α7R VI"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "華為・小米・アップルの秋の発表会が重なる",
-      "summary_ja": "中国で華為、小米、アップルの秋の発表会が同時期に集中し、ハイエンド機の競争が激しくなっている。",
-      "source": "新浪新闻",
-      "url": "https://www.sina.cn/gc/article/niqmmyy2870519.html",
-      "score": 70,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Xiaomi 18 Pro"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Ray-Ban Metaの新モデル、10月13日出荷開始",
-      "summary_ja": "Metaがスマートグラス「Ray-Ban Meta」の新モデルを発表し、10月13日から出荷を始める予定だ。",
-      "source": "aipicks",
-      "url": "https://aipicks.jp/news/gadget",
-      "score": 68,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Ray-Ban Meta"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "10月発売予定の注目スマホ5機種",
-      "summary_ja": "Gizmochinaが10月に登場予定の注目スマートフォン5機種をまとめた。OnePlus 16やOppo Find X10の海外展開が含まれる。",
-      "source": "Gizmochina",
-      "url": "https://www.gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026/",
-      "score": 66,
-      "commercial_score": 65,
-      "product_keywords": [
-        "OnePlus 16",
-        "OPPO Find X10"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Nothing Phone (3)が英国の小売店で発売",
-      "summary_ja": "ロンドン拠点のNothingの初の本格フラグシップ、Phone (3)が英国で699ポンドから販売される。",
-      "source": "Hounslow Herald",
-      "url": "https://hounslowherald.com/gadgets-gear-the-musthave-uk-tech-dropping-this-month-p32062-396.htm",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Nothing Phone (3)"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ダイソンの新ロボット掃除機Spot+Scrub Ai",
-      "summary_ja": "ダイソンが緑色レーザーで液体のこぼれを検知するロボット掃除機Spot+Scrub Aiを英国で投入した。",
-      "source": "Hounslow Herald",
-      "url": "https://hounslowherald.com/gadgets-gear-the-musthave-uk-tech-dropping-this-month-p32062-396.htm",
-      "score": 64,
-      "commercial_score": 78,
-      "product_keywords": [
-        "ダイソン ロボット掃除機"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "今週の注目ガジェットとHi-Fi新製品まとめ",
-      "summary_ja": "Gear Patrolが10月第1週の新ガジェットとオーディオ機器の新製品をまとめた。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-october-week-1/",
-      "score": 62,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ハイレゾ オーディオ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "OnePlus 16は10月12日に中国で発売",
-      "summary_ja": "OnePlus 16が中国で10月12日に発売される見込みだ。Oppo Find X10は9月に中国で発売済み。",
-      "source": "Gizmochina",
-      "url": "https://www.gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026/",
-      "score": 60,
-      "commercial_score": 60,
-      "product_keywords": [
-        "OnePlus 16",
-        "OPPO Find X10"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2026年の期待スマホ一覧",
-      "summary_ja": "Stuffが今後登場する注目スマートフォンをまとめた。",
-      "source": "Stuff",
-      "url": "https://www.stuff.tv/features/most-anticipated-upcoming-phones/",
+      "title_ja": "AIの未来を巡る著名人の見解を地図化したサイト",
+      "summary_ja": "AIが明るい未来をもたらすのか破滅を招くのか、IT界隈の著名人の見解をマッピングしたサイトが話題になっている。",
+      "source": "INTERNET Watch",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2145050.html",
       "score": 55,
-      "commercial_score": 60,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "サイバーガジェット、Switch 2用タッチペン2種を10月中旬発売",
+      "summary_ja": "画面を汚さず快適に操作できるタッチペン2種を10月中旬に発売する。スマホなど静電容量式タッチパネル機器にも対応する。",
+      "source": "GAME Watch",
+      "url": "https://game.watch.impress.co.jp/docs/news/2137489.html",
+      "score": 50,
+      "commercial_score": 70,
       "product_keywords": [
-        "スマートフォン 新機種"
+        "Switch2 タッチペン"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
+      "country": "jp",
+      "country_label_ja": "日本",
       "genre": "gadget",
       "genre_label_ja": "ガジェット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
       "title_ja": "こどもNISA、口座開設の事前申込が開始",
@@ -1624,1848 +818,1349 @@
       "date": "2026-10-02"
     },
     {
-      "title_ja": "FDAが新UVフィルターBEMTを承認、SPF続々",
-      "summary_ja": "FDAが20年以上ぶりに新しい日焼け止め成分bemotrizinol(BEMT)を承認した。Ultra VioletteやNeutrogenaなどが対応SPFを発売している。",
-      "source": "Beauty Buddy",
-      "url": "https://www.beautybuddy.io/beauty-blogs/new-launches-october-2026",
-      "score": 85,
-      "commercial_score": 80,
+      "title_ja": "Ultra Violetteが米国初のBEMT配合日焼け止めを発売",
+      "summary_ja": "FDAが6月に承認した新UVフィルター、ベモトリジノール配合の「Unblock Screen SPF50」を発売。10月2日からSephora全米店舗に展開される。",
+      "source": "Happi",
+      "url": "https://www.happi.com/exclusives/ultra-violette-sunscreen-with-fda-approved-bemotrizinol-arrives-in-us/",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "BEMT 日焼け止め",
-        "ウルトラヴァイオレット 日焼け止め"
+        "Ultra Violette Unblock Screen SPF50",
+        "ベモトリジノール 日焼け止め"
       ],
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "御木本製薬がMIKIMOTO BEAUTY始動",
-      "summary_ja": "御木本製薬が10月1日に新カテゴリー「MIKIMOTO BEAUTY」を立ち上げた。コンセプトは「SKIN-LONGEVITY BEAUTY」で、セラムやクリームなどスキンケア8製品を発売する。",
-      "source": "BCI",
-      "url": "https://online.bci.co.jp/article/detail/5609",
-      "score": 80,
+      "title_ja": "FDA承認の新日焼け止め成分BEMTが製品化へ",
+      "summary_ja": "20年以上ぶりに米国で使えるようになった新フィルターを使った製品が登場している。刺激が少なく軽い使用感が特長とされる。",
+      "source": "Personal Care Insights",
+      "url": "https://www.personalcareinsights.com/news/bemotrizinol-fda-sunscreen-approval-launch.html",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ベモトリジノール サンスクリーン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "BootsがTikTok Shopに出店、No7中心に展開",
+      "summary_ja": "Bootsは9月28日にTikTokのショップをオープンし、自社ブランドNo7のスキンケアなどを厳選して販売する。SephoraやUlta Beautyに続く動き。",
+      "source": "Cosmetics Business",
+      "url": "https://cosmeticsbusiness.com/boots-joins-tiktok-shop-following-sephora-ulta",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "No7 スキンケア"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "MACのホリデー限定コスメが10月19日先行発売",
+      "summary_ja": "M・A・Cが2026年ホリデー限定コスメとセットを展開する。10月19日に先行発売、10月31日に全国発売の予定。",
+      "source": "VOCE",
+      "url": "https://i-voce.jp/feed/5116107/",
+      "score": 62,
+      "commercial_score": 80,
+      "product_keywords": [
+        "MAC ホリデー コフレ 2026"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "ビヨンセのヘアケアCecredが英Space NKで発売",
+      "summary_ja": "Cecredは英国とアイルランドのSpace NK全90店舗とオンラインで9月22日から販売を開始した。国際的な実店舗展開の第一歩となる。",
+      "source": "TheIndustry.beauty",
+      "url": "https://theindustry.beauty/in-review-september-2026-headline-highlights-from-boots-sephora-space-nk-and-more/",
+      "score": 62,
       "commercial_score": 75,
       "product_keywords": [
-        "ミキモト ビューティ 美容液",
-        "ミキモト クリーム"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "&honeyが米Ulta約600店舗で展開",
-      "summary_ja": "日本のヘアケアブランド&honeyが米Ulta Beautyの約600店舗で保湿ヘアケア6品の販売を開始すると9月30日に発表した。",
-      "source": "Global Cosmetics News",
-      "url": "https://globalcosmeticsnews.com/honey-expands-us-distribution-with-ulta-beauty-launch",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "&honey ヘアオイル",
-        "アンドハニー シャンプー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "SaieがSephora UKで英国初の実店舗",
-      "summary_ja": "米メイクブランドSaieが10月6日にSephora UKで発売し、英国・欧州で初の実店舗展開となる。",
-      "source": "BritishBeautyBlogger",
-      "url": "https://britbeautyblog.substack.com/p/beauty-business-news-october-2026",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "セイ メイク",
-        "Saie グロウ"
+        "Cecred ヘアケア"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "化粧品新原料の登録・届出規則が施行",
-      "summary_ja": "2026年7月15日、化粧品新原料の登録・届出とデータ管理に関する新規則が施行され、2021年の旧規則に置き換わった。",
-      "source": "CIRS Group",
-      "url": "https://zhg.cirs-group.com/news/detail/ftcqze6vv1fk",
-      "score": 70,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2026年秋の新作美容液が続々登場",
-      "summary_ja": "寒暖差や夏のダメージによるゆらぎ肌に向け、高保湿・エイジングケア対応の秋の新作美容液が各社から出揃った。",
-      "source": "maquia",
-      "url": "https://maquia.hpplus.jp/skincare/news/122318/",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "美容液 エイジングケア",
-        "保湿 美容液"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "双11前の美容新製品ラッシュ",
-      "summary_ja": "8〜10月は中国ブランドの新製品集中期で、珀莱雅(PROYA)や韓束、優時顔など100超のブランドが新作を投入している。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/11835840.html",
-      "score": 65,
-      "commercial_score": 60,
-      "product_keywords": [
-        "珀莱雅 美容液",
-        "韓束 クリーム"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2026年は化粧品規制が最も厳しい年に",
-      "summary_ja": "88以上の新規制が施行され、旧特殊用途化粧品の移行期間終了や無許可の美容機器の販売停止などが進む。",
-      "source": "CBNData",
-      "url": "https://m.cbndata.com/information/294989",
-      "score": 65,
-      "commercial_score": 25,
-      "product_keywords": [
-        "美顔器"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "美容液リキッドファンデが10月6日発売",
-      "summary_ja": "スキンケアのように軽く伸び、保湿成分をたっぷり配合した美容液リキッドファンデーションが10月6日に新発売される。自然なツヤ肌に仕上がる。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000566.000038303.html",
+      "title_ja": "資生堂のホリデー限定品とトライアルキットが10月1日発売",
+      "summary_ja": "SHISEIDOのアルティミューン トライアルキットやTHE GINZAのホリデー限定セットなどが10月1日に登場する。発売日を一覧で確認できる。",
+      "source": "美的.com",
+      "url": "https://www.biteki.com/3040867/",
       "score": 60,
       "commercial_score": 80,
       "product_keywords": [
-        "美容液ファンデーション"
+        "資生堂 アルティミューン トライアルキット",
+        "THE GINZA ホリデー"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "2026年秋の新作スキンケア特集",
-      "summary_ja": "くすみ・ゆらぎ肌に寄り添う美容液や、秋の香りのフェイスパックなど新作スキンケアをアットコスメがまとめた。",
-      "source": "@cosme",
-      "url": "https://www.cosme.net/matome/I0024373/",
+      "title_ja": "近期の美粧ニュース、7つの新原料が届出完了",
+      "summary_ja": "中国食品薬品網が8月20日〜9月4日の化粧品業界動向をまとめた。海南の免税化粧品電子ラベル試行の延長や新原料の届出が含まれる。",
+      "source": "中国食品药品网",
+      "url": "https://m.cnpharm.com/c/2026-09-23/1107674.shtml",
       "score": 60,
-      "commercial_score": 85,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "メイクアップフォーエバーがホリデー2026を発表",
+      "summary_ja": "ベストセラーのパウダーキットや人気のツールキットを日本限定で展開する。ホリデーらしい輝きを打ち出した。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000019175.html",
+      "score": 58,
+      "commercial_score": 78,
       "product_keywords": [
-        "フェイスパック",
-        "くすみケア 美容液"
+        "メイクアップフォーエバー ホリデー"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "今週の注目コスメ新作12選",
-      "summary_ja": "Neutrogena、Vaseline、BymomaのSPFなど米国で今週発売された注目の美容新製品12点をまとめた。",
-      "source": "Drug Store News",
-      "url": "https://drugstorenews.com/new-weeks-12-notable-beauty-launches",
-      "score": 60,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ニュートロジーナ 日焼け止め"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Boots・Sephora・Space NKの競争激化",
-      "summary_ja": "Charlotte TilburyやJo MaloneのBoots展開、Prequel、Takamiの英国上陸など小売競争が加速している。",
+      "title_ja": "ジョー マローンがSpace NK 26店舗で展開",
+      "summary_ja": "ジョー マローン ロンドンは9月29日からSpace NKの26店舗とオンラインで香水を販売開始した。英国での小売展開を広げる。",
       "source": "TheIndustry.beauty",
-      "url": "https://theindustry.beauty/in-review-june-2026-headline-highlights-from-boots-sephora-charlotte-tilbury-and-more/",
-      "score": 60,
-      "commercial_score": 60,
+      "url": "https://theindustry.beauty/jo-malone-london-expands-uk-retail-presence-with-space-nk-launch/",
+      "score": 58,
+      "commercial_score": 70,
       "product_keywords": [
-        "シャーロット ティルブリー",
-        "ジョーマローン"
+        "ジョー マローン 香水"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "Cult GaiaがSephoraで香水展開",
-      "summary_ja": "Cult Gaiaのオードパルファムが米Sephoraのオンラインと150店超で発売された。新ブランドの香水投入も相次ぐ。",
-      "source": "Drug Store News",
-      "url": "https://drugstorenews.com/beauty-update-6-brands-expand-retail-footprint",
-      "score": 55,
-      "commercial_score": 60,
-      "product_keywords": [
-        "カルトガイア 香水"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
+      "title_ja": "薬監局が「化粧品製品標準通則」を公布",
+      "summary_ja": "8月24日の公告で、化粧品業界標準が2027年1月1日から施行される。",
+      "source": "上海市药品监督管理局",
+      "url": "https://yjj.sh.gov.cn/qtgzwj/20260825/bf04afe5dde5454bbb51d2159f863ec0.html",
+      "score": 58,
+      "country": "cn",
+      "country_label_ja": "中国",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "英国ビューティーウィーク10月12日開幕",
-      "summary_ja": "英国ビューティー評議会が主催するBritish Beauty Weekが10月12〜25日に開催される。テーマは「美のインパクト」。",
+      "title_ja": "2026年クリスマスコフレの限定品速報",
+      "summary_ja": "各ブランドのクリスマスコフレや限定アイテムを紹介する特集。10月以降の発売品が多数並ぶ。",
+      "source": "@cosme",
+      "url": "https://www.cosme.net/feature/2026winter-christmas-coffret-1/",
+      "score": 55,
+      "commercial_score": 75,
+      "product_keywords": [
+        "クリスマスコフレ 2026"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "SephoraがM&Sと提携し英国に新拠点",
+      "summary_ja": "2027年に「Sephora at M&S」を開設する計画で、M&Sの全国網とオムニチャネルを活用する。英国美容小売の競争が激しくなる。",
       "source": "Cosmetics Business",
-      "url": "https://cosmeticsbusiness.com/british-beauty-week-2026-impact-of-beauty",
+      "url": "https://cosmeticsbusiness.com/sephora-partners-with-marks-and-spencer-on-new-uk-beauty-destination",
       "score": 55,
-      "commercial_score": 20,
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "双11予約販売、国産ブランドが躍進",
-      "summary_ja": "双11の予約開始10分で珀莱雅やロレアルなど13ブランドが1億元を突破し、可復美のコラーゲンスティックも注目された。",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GongSi/2024_10_15_751875.shtml",
+      "title_ja": "化粧品新原料の登録届出規定が7月施行",
+      "summary_ja": "6月26日に公布された規定で、高リスク新原料の範囲が10類から5類に縮小され、動物実験代替法の活用も奨励される。",
+      "source": "国家药监局",
+      "url": "https://www.nmpa.gov.cn/xxgk/fgwj/xzhgfxwj/20260626114523130.html",
       "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "2026年9月の新作ビューティー製品まとめ",
+      "summary_ja": "The Zoe Reportが9月に発売された注目のスキンケアやメイクを紹介している。",
+      "source": "The Zoe Report",
+      "url": "https://www.thezoereport.com/beauty/september-2026-best-new-beauty-products",
+      "score": 50,
+      "commercial_score": 75,
+      "product_keywords": [
+        "新作 スキンケア 2026"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "化粧品原料の新規定で国産美容の海外進出を後押し",
+      "summary_ja": "新規定が中国国産コスメの海外展開を促すと報じられた。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-26/10647847.shtml",
+      "score": 50,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "今週注目の新作ビューティー11品",
+      "summary_ja": "Drug Store Newsが今週発売の新作コスメやスキンケアを紹介している。",
+      "source": "Drug Store News",
+      "url": "https://drugstorenews.com/new-11-beauty-launches-watch-week",
+      "score": 48,
       "commercial_score": 70,
       "product_keywords": [
-        "可復美 コラーゲン",
-        "珀莱雅 美容液"
+        "新作コスメ 米国"
       ],
-      "country": "cn",
-      "country_label_ja": "中国",
+      "country": "us",
+      "country_label_ja": "アメリカ",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "英政府、日焼けマシン規制で意見公募",
-      "summary_ja": "APPGのUV安全報告を受け、英政府が日焼けマシンの規制強化に向けた意見公募を開始した。",
-      "source": "BritishBeautyBlogger",
-      "url": "https://britbeautyblog.substack.com/p/beauty-business-news-october-2026",
-      "score": 50,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "10月に3153品目が値上げ、酒類・調味料中心",
-      "summary_ja": "帝国データバンク調べ等によると、10月に食品・飲料3,153品目が値上げされる。西アジア情勢による原油・ナフサ高で包装資材費が上昇し、円安も響いた。酒類が1,399品目で最多、調味料820品目が続く。",
-      "source": "Malay Mail",
-      "url": "https://www.malaymail.com/news/money/2026/09/30/japan-food-prices-set-to-rise-for-3153-items-in-october-as-west-asia-conflict-drives-costs/237100",
-      "score": 90,
-      "commercial_score": 55,
-      "product_keywords": [
-        "調味料 まとめ買い",
-        "ビール ケース",
-        "食用油"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "レタス由来サイクロスポーラ流行、感染9,481人",
-      "summary_ja": "アイスバーグレタスに汚染されたサイクロスポーラの集団感染で、FDA報告では患者9,481人、入院398人、死亡2人に達した。",
-      "source": "Newsweek等",
-      "url": "https://newsone.com/6869687/major-2026-food-recalls-explained/",
-      "score": 80,
-      "commercial_score": 10,
-      "product_keywords": [
-        "レタス",
-        "野菜 宅配"
-      ],
+      "title_ja": "10月1日の米食品リコール情報",
+      "summary_ja": "Listeria混入の可能性でパスタや燻製シーフードがリコールされた。ニューヨーク州では生乳にも注意喚起が出た。",
+      "source": "eFoodAlert",
+      "url": "https://efoodalert.com/2026/10/01/recalls-and-alerts-october-1-2026/",
+      "score": 72,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "food",
       "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "2026年の値上げ食品が2万品目超え、2年連続",
-      "summary_ja": "2026年に値上げが実施・予定されている飲食料品は累計20,187品目となり、2年連続で2万品目を超えた。家計への負担が続いている。",
-      "source": "nippon.com",
-      "url": "https://www.nippon.com/en/news/yjj2026093000284/prices-for-over-20-000-food-items-rise-in-japan-in-2026.html",
-      "score": 78,
-      "commercial_score": 40,
-      "product_keywords": [
-        "食品 ストック",
-        "ふるさと納税 食品"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "FDAがリステリア集団感染の調査を開始",
-      "summary_ja": "FDAが9月30日に新たなリステリア感染の調査を開始した。患者は11人だが、食品・州・企業は未公表で、リコールも出ていない。",
-      "source": "Food Poison Journal",
-      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/fda-opened-a-new-listeria-outbreak-investigation-on-september-30-2026-11-sick-no-food-named-no-states-listed-here-is-what-pregnant-women-older-adults-and-everyone-else-should-know/",
-      "score": 78,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英国の食品インフレ率が9月に2.5%へ低下",
-      "summary_ja": "BRCの調査で、食品インフレは8月の2.8%から2.5%に低下した。スーパー間の販促競争が肉や乳製品を押し下げた一方、チョコ・菓子は高止まりしている。",
-      "source": "Grocery Gazette",
-      "url": "https://www.grocerygazette.co.uk/2026/09/29/food-inflation-eases-to-2-5-as-promotions-temper-grocery-price-rises/",
-      "score": 75,
-      "commercial_score": 25,
-      "product_keywords": [
-        "英国 チョコレート",
-        "紅茶 英国"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ブロッコリースプラウトでサルモネラ感染拡大",
-      "summary_ja": "ブロッコリースプラウトに関連するサルモネラの複数州感染をFDAとCDCが調査中。アイダホ州の生産者が回収を実施し、入院は2人。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-sprouts-september-2026",
+      "title_ja": "10月1日、食品3033品目が値上げ",
+      "summary_ja": "酒類・飲料が最多で、しょうゆなど調味料も5〜25%値上げ。酒税一本化でビールは減税、チューハイは増税となる。",
+      "source": "文系エンジニアの日記",
+      "url": "https://vegcale.com/2026/09/19/food-price-hike-october-2026/",
       "score": 70,
-      "commercial_score": 5,
-      "product_keywords": [
-        "ブロッコリースプラウト"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "中国が食品安全国家基準50件を公表",
-      "summary_ja": "国家衛健委と市場監管総局が、アクリルアミド、鉛、スズなどの汚染物質や添加物規格を含む国家食品安全基準50件を公表した。",
-      "source": "Flavorist",
-      "url": "https://www.flavorist.com/asia-food-flavor-regulatory-update-september-16-30-2026/",
-      "score": 70,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "10月から発泡酒・缶チューハイなど酒税引き上げ",
-      "summary_ja": "10月の酒税改定で、発泡酒や第3のビール、缶チューハイの税率が引き上げられる。値上げ前の駆け込み需要も見込まれる。",
-      "source": "Malay Mail",
-      "url": "https://www.malaymail.com/news/money/2026/09/30/japan-food-prices-set-to-rise-for-3153-items-in-october-as-west-asia-conflict-drives-costs/237100",
-      "score": 65,
-      "commercial_score": 60,
-      "product_keywords": [
-        "缶チューハイ ケース",
-        "発泡酒 ケース"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英国の食品価格が2年ぶりに下落",
-      "summary_ja": "ガーディアン報道によると、英国の食品価格が9月に約2年ぶりに前年比で下落したとされる。値引き競争が背景にある。",
-      "source": "Hargreaves Lansdown",
-      "url": "https://www.hl.co.uk/news/the-guardian-uk-food-prices-fall-in-september-for-first-time-in-two-years-figures-show",
-      "score": 65,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "コンビニ各社がAI発案の新作スイーツを発売",
-      "summary_ja": "ローソンはAIで発想したピクルス風味のレモンタルトなどを発売し、ファミマも販売データをAIに学習させたカヌレを全国発売する。",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/16/ai-sweets-japan-convenience-stores/",
-      "score": 62,
-      "commercial_score": 35,
-      "product_keywords": [
-        "コンビニ スイーツ",
-        "カヌレ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "食の安全が政治争点に浮上、リコールが相次ぐ",
-      "summary_ja": "食品安全が生活に身近な政治課題として注目されている。今年は大規模な肉のリコールなど相次ぎ、規制のあり方が議論されている。",
-      "source": "US News",
-      "url": "https://usnews.com/news/health-news/articles/2026-09-28/food-safety-finds-a-place-among-kitchen-table-political-issues",
-      "score": 60,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Utzのポテトチップスがサルモネラでリコール",
-      "summary_ja": "Utz Quality Foodsが、Zapp'sなど各種フレーバーのポテトチップスをサルモネラ汚染の可能性で自主回収した。",
-      "source": "Yahoo News",
-      "url": "https://yahoo.com/news/articles/foods-were-recalled-2026-143526328.html",
-      "score": 55,
-      "commercial_score": 30,
-      "product_keywords": [
-        "ポテトチップス 輸入"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英国の店頭価格上昇率は1.4%に鈍化",
-      "summary_ja": "BRCによると9月の店頭価格上昇率は1.4%で、小売各社は大幅なコスト増を吸収している。BRCは事業税の軽減を求めた。",
-      "source": "Retail Gazette",
-      "url": "https://www.retailgazette.co.uk/blog/2026/09/shop-price-inflation-eases-in-september-despite-mounting-retailer-cost-pressures/",
-      "score": 55,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "中国が食品添加物7品目の意見募集を開始",
-      "summary_ja": "CFSAが9月10日、新規の栄養強化物質や添加物、使用範囲拡大など計7品目について意見募集を始めた。",
-      "source": "Flavorist",
-      "url": "https://www.flavorist.com/asia-food-flavor-regulatory-update-september-16-30-2026/",
-      "score": 55,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ファミマが「ネオ和菓子」を発売",
-      "summary_ja": "ファミリーマートが、どら焼きをバーガー風にした厚焼きどら焼きバーガー(268円)と生大福(149円)を新たに展開した。",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/features/new-products/japanese-convenience-store-chain-adds-neo-wagashi-sweets-to-its-lineup",
-      "score": 50,
-      "commercial_score": 45,
-      "product_keywords": [
-        "どら焼き",
-        "大福 和菓子"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "モリソンズがペストなど商品を回収",
-      "summary_ja": "モリソンズがFilippo Berio辛口チリペストを回収したほか、各スーパーでアレルゲン表示漏れや異物混入による回収が相次いでいる。",
-      "source": "Eastern Eye",
-      "url": "https://www.easterneye.biz/tesco-waitrose-food-recalls-uk-2026/",
-      "score": 50,
-      "commercial_score": 15,
-      "product_keywords": [
-        "ペスト ソース"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "中国、缶詰の国家食品安全基準を最終決定",
-      "summary_ja": "缶詰食品に関する新しい国家食品安全基準が最終決定された。調理済み食肉の衛生規範も公表されている。",
-      "source": "USDA FAS",
-      "url": "https://www.fas.usda.gov/data/china-national-food-safety-standard-canned-foods-finalized",
-      "score": 50,
-      "commercial_score": 10,
-      "product_keywords": [
-        "缶詰"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "香港で10月に新規開業のレストラン14店",
-      "summary_ja": "SCMPが、食べ放題の和牛やフローズンヨーグルトなど、10月に香港で開業する新店14店を紹介した。",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/lifestyle/food-drink/article/3369313/14-new-hong-kong-restaurants-and-bars-october-all-you-can-eat-wagyu-froyo",
-      "score": 45,
-      "commercial_score": 5,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "新食品原料の審査が進行、アルロース申請も",
-      "summary_ja": "国家衛健委の新食品原料審査が続き、D-アルロースの申請も確認された。低カロリー甘味料の動向として注目される。",
-      "source": "Flavorist",
-      "url": "https://www.flavorist.com/asia-food-flavor-regulatory-update-september-16-30-2026/",
-      "score": 40,
-      "commercial_score": 30,
-      "product_keywords": [
-        "アルロース"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "全国47都道府県でインフルエンザ流行入り",
-      "summary_ja": "定点当たりの患者報告数が全47都道府県で1.0を超え、全国平均は7.17人となりました。例年より早い流行で、ワクチン接種や手洗いなどの対策が呼びかけられています。",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/",
-      "score": 90,
-      "commercial_score": 70,
-      "product_keywords": [
-        "インフルエンザ対策 マスク",
-        "加湿器",
-        "アルコール消毒"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "低エネルギー食と運動で2型糖尿病が寛解",
-      "summary_ja": "低エネルギー食と構造化された運動プログラムの併用により、参加者の半数以上で2型糖尿病が寛解したとする研究が報告されました。生活習慣介入の有効性を示します。",
-      "source": "Healthline",
-      "url": "https://www.healthline.com/health-news",
-      "score": 80,
       "commercial_score": 50,
       "product_keywords": [
-        "血糖値 サプリ",
-        "食事管理 アプリ",
-        "ヨガマット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "インフル1都8県で注意報超え、H1N1が主体",
-      "summary_ja": "定点当たり報告数が注意報の目安である10を超えた地域が1都8県に広がりました。流行の主体はA(H1N1)pdm09で、早めの対策が求められます。",
-      "source": "日経メディカル",
-      "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202609/594732.html",
-      "score": 78,
-      "commercial_score": 60,
-      "product_keywords": [
-        "体温計",
-        "マスク",
-        "のど飴"
+        "ビール 酒税",
+        "しょうゆ"
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "英国でインフルとコロナのワクチン接種開始",
-      "summary_ja": "10月1日から英国全域でインフルエンザと新型コロナのワクチン接種が始まりました。65歳以上や妊婦などが優先対象で、今回初めて16歳以上のホームレス状態の人も対象に加わります。",
-      "source": "Meyka",
-      "url": "https://meyka.com/blog/nhs-flu-and-covid-19-vaccine-programme-rolls-out-october-1-across-uk-0110/",
-      "score": 78,
-      "commercial_score": 25,
-      "product_keywords": [
-        "マスク",
-        "手指消毒"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "中国で国慶節前に流感ワクチン接種を推奨",
-      "summary_ja": "国家衛生健康委員会は9月23日の発表会で、休暇の移動時の健康対策を呼びかけました。高齢者や子ども、慢性疾患患者にはインフルエンザの流行前の接種を勧めています。",
-      "source": "人民網",
-      "url": "http://health.people.com.cn/n1/2026/0923/c14739-40804539.html",
-      "score": 75,
-      "commercial_score": 25,
-      "product_keywords": [
-        "マスク",
-        "手指消毒"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "HHSが大統領体力テスト向け1000万ドル賞金",
-      "summary_ja": "米保健福祉省は、学校や青少年団体が大統領体力テストを導入することを後押しする1000万ドル規模のコンテストを開始しました。子どもの運動習慣づくりを促す政策です。",
-      "source": "HHS",
-      "url": "https://www.hhs.gov/press-room/hhs-launches-10-million-presidential-fitness-school-innovation-challenge.html",
-      "score": 72,
-      "commercial_score": 35,
-      "product_keywords": [
-        "キッズ スポーツウェア",
-        "ランニングシューズ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "減量注射が睡眠時無呼吸の寛解に寄与か",
-      "summary_ja": "GLP-1作動薬などの減量注射が、英国で約1000万人に影響する睡眠時無呼吸を寛解させる可能性があると報じられました。中等度から重度の患者を対象にチルゼパチドの試験も行われています。",
-      "source": "Elrisala",
-      "url": "https://www.elrisala.com/yet-another-benefit-of-weight-loss-jabs-they-combat-severe-snoring-study-finds/",
-      "score": 72,
-      "commercial_score": 35,
-      "product_keywords": [
-        "いびき防止 グッズ",
-        "マウスピース",
-        "睡眠 サプリ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "10月1日から重点層に無料流感ワクチン",
-      "summary_ja": "国家疾病予防控制局などの方針に基づき、10月1日から65歳以上と義務教育段階の児童生徒に三価インフルエンザワクチンを無料提供する地域が出ています。上海市崇明区が一例です。",
-      "source": "新浪ニュース",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pgd6.html",
-      "score": 70,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "等尺性運動が血圧を下げる可能性",
-      "summary_ja": "週1〜2回の等尺性運動でも、短期的に血圧を下げる可能性があるとの新研究が発表されました。短時間でできる運動として注目されます。",
-      "source": "Medical News Today",
-      "url": "https://www.medicalnewstoday.com/news",
+      "title_ja": "アルファルファ・スプラウトで大腸菌とサルモネラが同時流行",
+      "summary_ja": "複数の病原体による食中毒がCDC調査で判明。Everything Sproutsなどの商品が対象で、回収が出ている。",
+      "source": "Newsweek",
+      "url": "https://newsweek.com/map-sprouts-recalled-after-rare-double-outbreak-hits-15-states-12355596",
       "score": 68,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ハンドグリップ",
-        "血圧計",
-        "トレーニングチューブ"
-      ],
       "country": "us",
       "country_label_ja": "アメリカ",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "心臓病向け幹細胞パッチが保険適用に",
-      "summary_ja": "幹細胞を用いた心臓病向けパッチが保険適用となり、再生医療の実用化が一歩前進しました。重症心不全患者への新たな治療選択肢として注目されます。",
-      "source": "時事メディカル",
-      "url": "https://medical.jiji.com/news/",
+      "title_ja": "CDCがスプラウト関連の食中毒調査を更新",
+      "summary_ja": "アルファルファ・スプラウト由来の大腸菌とサルモネラの流行について、CDCが調査状況を更新している。",
+      "source": "CDC",
+      "url": "https://cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/investigation.html",
+      "score": 66,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "セブン-イレブン10月前半の新作、明太もちゅチーズまん",
+      "summary_ja": "10月6日に190円で発売。大学芋風ラテや札幌すみれ監修の塩ラーメンなど全11品を紹介している。",
+      "source": "いこーよ",
+      "url": "https://report.iko-yo.net/articles/34052",
       "score": 65,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "疾控専門家が重点層の早期接種を提言",
-      "summary_ja": "中国疾病予防控制中心の専門家は、重症化リスクの高い高齢者や乳幼児、慢性疾患患者に、早めのインフルエンザワクチン接種を勧めています。",
-      "source": "新華網",
-      "url": "https://www.xinhuanet.com/politics/20260903/86f78aeb2e6a4f9fbd28c53d0413c620/c.html",
-      "score": 60,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "日本新薬のDMD治療薬候補で5年データ",
-      "summary_ja": "日本新薬はデュシェンヌ型筋ジストロフィー治療薬候補brogidirsenの5年間の有効性データを公表しました。歩行可能な患者で運動機能が維持または改善したと報告されています。",
-      "source": "PHARMA JAPAN",
-      "url": "https://pj.jiho.jp/",
-      "score": 55,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "北東部でNHSが睡眠時無呼吸インプラント導入",
-      "summary_ja": "北東部の3つのNHSトラストが連携し、閉塞性睡眠時無呼吸向けの先進的インプラント治療を地域で初めて実施しました。呼吸を整える新たな選択肢となります。",
-      "source": "Northumbria Healthcare NHS",
-      "url": "https://www.northumbria.nhs.uk/media-centre/news-and-blogs/news-stories/three-nhs-trusts-join-forces-bring-pioneering-sleep-apnoea-treatment-north-east",
-      "score": 55,
-      "commercial_score": 20,
-      "product_keywords": [
-        "いびき 対策"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "米国人のフィットネス支出は600億ドル規模",
-      "summary_ja": "健康・フィットネス協会の調査で、2026年に運動目標のため約600億ドルが支出される見通しと分かりました。ジムや関連用品への需要の強さを示します。",
-      "source": "Empower",
-      "url": "https://www.empower.com/the-currency/life/fitness-spending-news",
-      "score": 50,
       "commercial_score": 70,
       "product_keywords": [
-        "フィットネスバンド",
-        "プロテイン",
-        "ダンベル"
+        "セブンイレブン 新商品"
       ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "ファミマ10月前半の新作、ハーゲンダッツ パンプキン",
+      "summary_ja": "10月6日発売のファミマ限定「パパパパンプキンタルト」や、20周年のオトナ★ファミチキ、miffyコラボを紹介。",
+      "source": "いこーよ",
+      "url": "https://report.iko-yo.net/articles/34053",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ハーゲンダッツ パンプキン",
+        "ファミチキ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "広東省の消費者保護条例、10月1日施行で出前の封緘を規定",
+      "summary_ja": "2026年7月31日に可決され10月1日に施行された。出前の食品安全面の封かんなどを定める。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261003/herald/cf9c8d9b4639e248de424b3d8aff4eb3.html",
+      "score": 65,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "50項目の食品安全国家標準を新たに公布",
+      "summary_ja": "国家衛生健康委と市場監督総局が2026年第6号公告で公布。食品安全の全工程管理を細かく定める。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701915.shtml",
+      "score": 65,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "Tesco、無添加亜硝酸のベーコン・ハム新シリーズ",
+      "summary_ja": "9月24日付の業界まとめで、Tescoの亜硝酸無添加ベーコン・ハム発売、Morrisonsの好調などが報じられた。",
+      "source": "IGD",
+      "url": "https://www.igd.com/articles/uk-roundup-loyalty-and-store-updates-asda-growth/73986",
+      "score": 58,
+      "commercial_score": 55,
+      "product_keywords": [
+        "亜硝酸無添加 ベーコン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "ローソンストア100が栗・さつまいもの秋スイーツ",
+      "summary_ja": "10月7日から税込108円〜で秋の味覚パンとスイーツを順次発売し、28日には大きな麻婆肉まんも登場する。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000590.000025635.html",
+      "score": 55,
+      "commercial_score": 65,
+      "product_keywords": [
+        "ローソンストア100 栗 さつまいも"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "AARPがスプラウト食中毒の注意点を解説",
+      "summary_ja": "高齢者を含む消費者向けに、該当スプラウトの廃棄や症状への注意を呼びかけている。",
+      "source": "AARP",
+      "url": "https://www.aarp.org/health/conditions-treatments/alfalfa-sprout-outbreak-august-2026/",
+      "score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "中秋・国慶の連休向け食品安全の消費提示",
+      "summary_ja": "上海市が9月25日付で月餅購入や保存などの注意点を示した。",
+      "source": "上海市政府",
+      "url": "https://www.shanghai.gov.cn/nw17239/20260926/ea6dfc4412d342fb8bb05896a2e1de7e.html",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "国務院が中秋・国慶期間の食品安全を指示",
+      "summary_ja": "国務院食安弁が月餅など節句食品の線上線下の監督強化を求めた。",
+      "source": "中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260920/49753092.html",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "英小売の決算と健康投資の動向まとめ",
+      "summary_ja": "IGDが英国の小売決算と食品の健康関連投資をまとめた。",
+      "source": "IGD",
+      "url": "https://www.igd.com/articles/uk-roundup-retailer-results-and-health-investment/74137",
+      "score": 52,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "英国の不健康食品広告規制の解説",
+      "summary_ja": "2026年1月から高脂肪・高塩分・高糖質食品のテレビ広告は午後9時前、ネット有料広告は終日禁止となった。業界の対応を解説している。",
+      "source": "Unilever Food Solutions",
+      "url": "https://www.unileverfoodsolutions.co.uk/channels/fast-food-restaurants/business-hub/ban-on-fast-food-tv-advertising.html",
+      "score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "英国不健康食品広告禁止の影響を解説",
+      "summary_ja": "ブランドやクリエイター向けに、2026年の広告規制で注意すべき点をまとめている。",
+      "source": "LegalLens",
+      "url": "https://www.legallens.co.uk/blog/uk-junk-food-ad-ban-2026",
+      "score": 45,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "インフルエンザ、全都道府県で流行入りの目安を超過",
+      "summary_ja": "9月21〜27日の定点当たり報告数は7.17人。4県で注意報、沖縄は警報が出ている。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "マスク",
+        "インフルエンザ 予防"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "イーライリリーのFoundayoで糖尿病リスク57%低下の予測",
+      "summary_ja": "ATTAIN-1の事後解析で、最高用量群は10年の2型糖尿病リスクがプラセボより57%低いと予測された。実際の発症数の比較ではない。",
+      "source": "inkl",
+      "url": "https://www.inkl.com/news/lillys-foundayo-pill-linked-to-57-lower-predicted-diabetes-risk-in-attain-1-modeling-but-no-cases-were-counted",
+      "score": 72,
+      "commercial_score": 30,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "NHS患者向け減量注射を薬局で処方へ",
-      "summary_ja": "NHSの患者が短い相談のみで薬局から減量注射を受けられる仕組みが、肥満対策の一環として報じられています。アクセス改善が狙いです。",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/weight-loss-jabs-pharmacies-nhs-203651408.html",
-      "score": 50,
-      "commercial_score": 25,
+      "title_ja": "国家衛健委、体重は軽いほど良いわけではない",
+      "summary_ja": "9月23日の会見で、急速減量を避け、食事と運動を基本とするよう呼びかけた。三甲病院の95%以上に体重管理外来がある。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-23/10702451.shtml",
+      "score": 70,
+      "commercial_score": 40,
       "product_keywords": [
-        "ダイエット サプリ",
-        "体重計"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "抵抗性デンプンがSNSで血糖管理の話題に",
-      "summary_ja": "抵抗性デンプンが血糖コントロールや減量に役立つとしてSNSで話題です。一方で過信を戒める声もあり、健康食品トレンドとして注目されています。",
-      "source": "新浪ニュース",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pfz8.html",
-      "score": 50,
-      "commercial_score": 55,
-      "product_keywords": [
-        "レジスタントスターチ",
-        "低糖質 食品",
-        "食物繊維 サプリ"
+        "体重計",
+        "プロテイン"
       ],
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "インフルが夏から急増、過去2番目の早さ",
+      "summary_ja": "厚労省のデータでは8月に流行期入りし、過去2番目の早さとなった。",
+      "source": "nippon.com",
+      "url": "https://nippon.com/ja/japan-data/h02917",
+      "score": 65,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "NHSが月26マイル歩くと特典の挑戦を発表",
+      "summary_ja": "2027年1月開始の月間マラソン挑戦で、約26マイル歩くと割引などの特典を受けられる。",
+      "source": "Deccan Herald",
+      "url": "https://www.deccanherald.com/health/healthcare/nhs-uk-will-reward-people-who-walk-daily-4062998",
+      "score": 65,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ウォーキングシューズ",
+        "歩数計"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "FDAがワクチン諮問委を開催、南半球インフル株を選定",
+      "summary_ja": "10月1日にVRBPACが2027年南半球シーズンのインフルエンザワクチン株について協議した。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
+      "score": 62,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "イングランドの薬局、秋から処方できる症状が拡大",
+      "summary_ja": "Pharmacy Firstに片頭痛、ニキビ、疥癬、中耳炎、鼻炎が加わる。3億4000万ポンドを投じる。",
+      "source": "PSLHub",
+      "url": "https://www.pslhub.org/news/more-pharmacies-in-england-to-prescribe-medication-from-autumn-r9824/",
+      "score": 62,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "上野厚労相が10月2日の閣議後会見",
+      "summary_ja": "診療報酬改定、出産一時金、後発医薬品の使用促進、風しん、難病対策などが議題となった。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76538.html",
+      "score": 60,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "連休前に衛健委が外出時の健康注意を呼びかけ",
+      "summary_ja": "気温が下がる時期の連休に向け、外出時の注意点を提示した。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-24/10702713.shtml",
+      "score": 60,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "GP契約2026/27、減量注射の処方を奨励",
+      "summary_ja": "肥満対応の指標が追加され、体重管理プログラムの紹介が評価対象となる。",
+      "source": "Pulse Today",
+      "url": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/weight-loss-drug-prescribing-to-be-added-to-qof-as-part-of-2026-27-gp-contract/",
+      "score": 58,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "早期流行のインフルに警戒を求める社説",
+      "summary_ja": "日経が早い流行入りを受けて警戒を促す社説を掲載した。",
+      "source": "日本経済新聞",
+      "url": "https://nikkei.com/article/DGXZQODK296OA0Z20C26A9000000",
+      "score": 55,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "速く歩く、多く歩くほど長生き、英国6.4万人調査",
+      "summary_ja": "英国の成人64,743人のデータで、歩く距離または速さが長寿と関連した。",
+      "source": "Harvard Health",
+      "url": "https://health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ウォーキングシューズ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "中秋・国慶前後の重点感染症対策の通知",
+      "summary_ja": "湖南省が連休前後と秋冬季の感染症防止の通知を出した。",
+      "source": "湖南省政府",
+      "url": "https://www.hunan.gov.cn/zqt/zcsd/202609/t20260928_34073047.html",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "南京で無料インフル予防接種、10月全面開始へ",
+      "summary_ja": "65歳以上と義務教育段階の児童生徒が三価ワクチンを無料で接種できる。",
+      "source": "扬子晚报",
+      "url": "https://www.yzwb.net/news/jiangsu/nanjing/202609/t20260926_397088.html",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "ACSMが2026年フィットネス動向、1位はウェアラブル",
+      "summary_ja": "高齢者向けプログラム、体重管理運動、モバイルアプリが続く。GLP-1薬の普及も背景にある。",
+      "source": "Newswise",
+      "url": "https://www.newswise.com/articles/the-future-of-fitness-acsm-announces-top-trends-for-2026",
+      "score": 50,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スマートウォッチ",
+        "活動量計"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "NHSイングランドのGP契約変更2026/27",
+      "summary_ja": "2026/27年度のGP契約の変更点を、NHSイングランドが公表している。",
+      "source": "NHS England",
+      "url": "https://www.england.nhs.uk/long-read/changes-to-the-gp-contract-in-2026-27/",
+      "score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "瀕死で見つかった犬、80日の治療で奇跡の回復",
+      "summary_ja": "頭に大けがを負い骨と皮だけの状態で発見された犬が、80日間の治療を経て回復し新しい家族に迎えられた。",
+      "source": "LIMO",
+      "url": "https://limo.media/articles/-/139193",
+      "score": 72,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "米で犬猫フードの全国リコール、サルモネラ等の懸念",
+      "summary_ja": "Northwest Naturalsの冷凍フードがサルモネラやリステリア陽性となり、約2,000ポンドが全国でリコールされた。",
+      "source": "FOX 8",
+      "url": "https://fox8.com/news/nearly-2000-lbs-of-cat-and-dog-food-recalled-nationwide-over-salmonella-and-listeria-concerns/",
+      "score": 72,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ペットフード 安全"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "交通事故の猫が回復、懸命な治療に感謝の声",
+      "summary_ja": "車にはねられ重度の頭部外傷を負った猫が、複数回の手術と治療で回復した。自力で食事できるようになり体重も約6.5kgまで増えた。",
+      "source": "Yahoo!ニュース(LIMO)",
+      "url": "https://news.yahoo.co.jp/articles/f2c91aacf93cf38337c8c5a283a179b04c0525e6",
+      "score": 70,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "英国600超のビーチで犬の散歩規制が解除",
+      "summary_ja": "10月1日から季節的な犬の立入禁止が解かれ、600以上のビーチで犬連れが可能になった。獣医師が注意を呼びかけている。",
+      "source": "Grimsby Live",
+      "url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/vets-warning-ahead-october-1-11176815",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "犬 リード 長さ調節",
+        "犬 レインコート"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
     },
     {
       "title_ja": "いなば、2026年秋の犬用新商品を全国発売",
-      "summary_ja": "いなばペットフードが2026年秋の犬用新商品を全国発売した。ちゅ～るテリーヌやジャーキー、関節や歯の健康に配慮した商品が並ぶ。",
+      "summary_ja": "ちゅ～るテリーヌや関節の健康に配慮したクランキーなど、秋の犬用新商品が順次発売される。",
       "source": "PR TIMES",
       "url": "https://prtimes.jp/main/html/rd/p/000000427.000058165.html",
-      "score": 72,
-      "commercial_score": 92,
-      "product_keywords": [
-        "ちゅ～る 犬用",
-        "犬 おやつ",
-        "犬 関節ケア フード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "いなば、2026年秋の猫用新商品を全国発売",
-      "summary_ja": "いなばペットフードが猫用の2026年秋の新商品を全国で順次発売した。毎日の食事やおやつ向けに幅広いラインナップを展開する。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000425.000058165.html",
-      "score": 72,
-      "commercial_score": 93,
-      "product_keywords": [
-        "ちゅ～る 猫",
-        "猫 おやつ",
-        "キャットフード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Darwin's犬用牛肉フードでO157検出、FDAが警告",
-      "summary_ja": "Darwin's Natural Petの牛肉ドッグフードから大腸菌O157:H7が検出され、4歳児の入院との関連がFDAの解析で示された。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/latest-news",
-      "score": 70,
-      "commercial_score": 30,
-      "product_keywords": [
-        "ドッグフード 加熱",
-        "犬 ウェットフード"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Northwest Naturals、サルモネラ等で冷凍フードをリコール",
-      "summary_ja": "オレゴン州のNorthwest Naturalsが、サルモネラとリステリア陽性を受け冷凍の犬猫用生食フードを全米で自主回収。約2,000ポンド規模。",
-      "source": "FOX 8",
-      "url": "https://fox8.com/news/nearly-2000-lbs-of-cat-and-dog-food-recalled-nationwide-over-salmonella-and-listeria-concerns/",
       "score": 68,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ペットフード 無添加",
-        "犬 生食"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "アニコムとアリアケ、共同開発ペットフード10月発売",
-      "summary_ja": "アニコムグループとアリアケジャパンが食と健康の知見を融合して共同開発したペットフードの第一弾を、2026年10月に発売予定。",
-      "source": "アニコム損保",
-      "url": "https://www.anicom-sompo.co.jp/news-release/2026/",
-      "score": 65,
       "commercial_score": 80,
       "product_keywords": [
-        "ペットフード 国産",
-        "犬 健康 フード"
+        "ちゅ～る 犬用",
+        "犬 おやつ"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "猫との衝突報告の義務化、議会で10月26日に審議",
-      "summary_ja": "ドライバーに猫との衝突事故の報告を義務づける法改正を求める請願が約19万筆に達し、10月26日に議会審議が行われる。",
-      "source": "Yorkshire Live",
-      "url": "https://www.examinerlive.co.uk/news/uk-world-news/new-october-key-deadline-issued-34636139",
+      "title_ja": "2026年のペットフード回収、サルモネラで犬が体調不良",
+      "summary_ja": "米国で最近のサルモネラ事案により犬が体調を崩した。リコール情報の確認が飼い主に促されている。",
+      "source": "Fast Company",
+      "url": "https://www.fastcompany.com/91591717/pet-food-recall-2026-dogs-get-sick-in-latest-us-salmonella-scare",
+      "score": 68,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "2026年の中国ペット業界、規制強化の新政策を解説",
+      "summary_ja": "農業農村部など複数部門が、ペットフード・医療・サービス全体に及ぶ規制政策を相次いで打ち出し、業界は常態的な強い規制の段階に入った。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2044748563809399201",
       "score": 65,
-      "commercial_score": 25,
-      "product_keywords": [
-        "猫 マイクロチップ",
-        "猫 首輪 反射"
-      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "RSPCA、保護犬急増で里親の募集を訴え",
+      "summary_ja": "虐待・ネグレクト事案で保護犬が過去最多となり、月65万ポンド超の民間ケネル費用がかかっているため里親を募っている。",
+      "source": "RSPCA",
+      "url": "https://www.rspca.org.uk/w/whatwedo/press/rspca-warns-of-rehoming-crisis-as-record-numbers-of-dogs-flood-into-care",
+      "score": 64,
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "ペット業界、強力な規制が常態化",
-      "summary_ja": "2026年の中国では農業農村部や市場監督総局などが連携し、ペットフード、医療、サービス、用品の全分野で規制新政を相次いで打ち出している。",
-      "source": "今日头条",
-      "url": "https://www.toutiao.com/article/7646297442203288083/",
+      "title_ja": "獣医師共同開発の犬猫用マヌカハニーシャンプー新発売",
+      "summary_ja": "獣医師と共同開発した犬猫用のマヌカハニースキンケア シャンプー＆トリートメントが発売された。洗うたび皮膚を整えることを訴求する。",
+      "source": "ASCII STARTUP",
+      "url": "https://ascii.jp/elem/000/004/438/4438384/?rss=",
       "score": 62,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "国慶連休、ペット同伴旅行と預かり需要が急増",
-      "summary_ja": "国慶節の大型連休でペット同伴旅行が最盛期を迎え、ペットホテルの需要が急増。ペット対応ホテルは36都市で3万軒超とされる。",
-      "source": "什么值得买",
-      "url": "https://post.smzdm.com/p/a6z0eq4o/",
-      "score": 62,
-      "commercial_score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "ペット キャリーバッグ",
-        "犬 旅行 グッズ"
+        "犬 猫 シャンプー マヌカハニー"
       ],
-      "country": "cn",
-      "country_label_ja": "中国",
+      "country": "jp",
+      "country_label_ja": "日本",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "マース、ロイヤルカナン工場など製造に20億ドル投資",
-      "summary_ja": "マースは2026年までに製造部門へ20億ドルを投じ、オハイオ州の4.5億ドルのロイヤルカナン乾燥フード工場など増強を進める。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/latest-news",
+      "title_ja": "KEYUCA初のペット用品、10月5日発売",
+      "summary_ja": "ペットオーナーの声を参考に、食事・くつろぎ・散歩などの小さな不便に寄り添う用品を10月1日からEC先行、5日から発売する。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000670.000042258.html",
+      "score": 60,
+      "commercial_score": 82,
+      "product_keywords": [
+        "ペット用品 おしゃれ",
+        "犬 フードボウル"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "猫用フードのリコール情報一覧(2026年10月)",
+      "summary_ja": "Catsterが猫用フードのリコール・警告情報を最新状態に更新している。凍結乾燥生食製品の回収が目立つ。",
+      "source": "Catster",
+      "url": "https://www.catster.com/cat-food-recalls/",
+      "score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "中国のペットフード業界研究報告が公開",
+      "summary_ja": "『宠食新局』と題する2026年中国ペットフード業界の研究報告が公開され、市場動向が整理された。",
+      "source": "ZAKER",
+      "url": "https://app.myzaker.com/news/article.php?pk=6a4376be8e9f0970f65265aa",
       "score": 60,
       "commercial_score": 70,
       "product_keywords": [
-        "ロイヤルカナン",
-        "療法食 犬"
+        "猫粮",
+        "狗粮"
       ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "pet",
+      "genre_label_ja": "ペット",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "2026年の犬用フードリコール、FDAとAVMAの一覧",
+      "summary_ja": "FDAなどが公表した2026年の犬用フードリコールを一覧で確認できる。生食製品のサルモネラ検出が多い。",
+      "source": "Vetstreet",
+      "url": "https://www.vetstreet.com/our-pet-experts/dog-food-recalls-2026",
+      "score": 58,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "ペットフード基準憲章を発表、透明性強化を要求",
-      "summary_ja": "Pets Magazineが、英国の犬猫用フードに対する透明性と監視、安全策の強化を求める「Pet Food Standards Charter」を立ち上げた。",
-      "source": "Pets Magazine",
-      "url": "https://www.petsmag.co.uk/news/",
-      "score": 60,
-      "commercial_score": 45,
-      "product_keywords": [
-        "無添加 ドッグフード",
-        "キャットフード 国産"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "中国宠物白皮书、市場規模3,100億元超え",
-      "summary_ja": "2026年版中国ペット業界白書によると、市場規模は3,100億元を突破した。ペット経済は引き続き拡大している。",
-      "source": "光明網",
-      "url": "https://m.gmw.cn/2026-01/05/content_1304291767.htm",
-      "score": 60,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ペット用品 中国",
-        "猫 おもちゃ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Pets at Home、売上3.9%増で通期見通し維持",
-      "summary_ja": "英小売大手Pets at Homeは売上高が3.9%増となり、2027年度通期の業績見通しを据え置いた。",
-      "source": "Pets at Home",
-      "url": "https://www.petsmag.co.uk/news/",
-      "score": 58,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ペット用品"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "処方食・フリーズドライ食品の新基準が5月施行",
-      "summary_ja": "処方食基準とフリーズドライ食品基準の2つの中核基準が2026年5月1日から全面実施され、ペットフードの高品質化が進む。",
-      "source": "今日头条",
-      "url": "https://www.toutiao.com/article/7646297442203288083/",
-      "score": 58,
-      "commercial_score": 60,
-      "product_keywords": [
-        "フリーズドライ キャットフード",
-        "療法食 猫"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "浙江省がペット経済促進策、2030年に500億元",
-      "summary_ja": "浙江省が10月にペット経済促進の意見を公表し、2030年までに省内消費市場500億元超を目指す。地方政府の誘致競争も加速している。",
-      "source": "知乎",
-      "url": "https://zhuanlan.zhihu.com/p/2065536673534961146",
-      "score": 57,
-      "commercial_score": 35,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "飼養管理基準、小型哺乳類にも拡大を議論",
-      "summary_ja": "環境省の動物愛護部会で、犬猫中心だった飼養管理基準をうさぎ、フェレット、ハムスター等へ広げる答申案が議論段階に入った。",
-      "source": "PET-CEPA",
-      "url": "https://pet-pace.com/management/2436/",
+      "title_ja": "ペディグリー缶詰の2ロットを自主回収",
+      "summary_ja": "異物混入の恐れがあるペディグリー高たんぱくウェットフードの2ロットが、不正流通の可能性で自主回収された。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
       "score": 55,
-      "commercial_score": 35,
-      "product_keywords": [
-        "うさぎ ケージ",
-        "ハムスター 飼育セット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "Steve's Real Food、チアミン不足の恐れでリコール拡大",
-      "summary_ja": "Go Raw LLCがフリーズドライのチキンレシピ1ロットをチアミン低含有の可能性でリコール範囲に追加。20州で流通した。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/latest-news",
-      "score": 55,
-      "commercial_score": 35,
-      "product_keywords": [
-        "フリーズドライ ドッグフード",
-        "犬 サプリ"
-      ],
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "バタシー、流行ペットの隠れた健康リスクを警告",
-      "summary_ja": "バタシー動物保護施設は、短頭種など流行の外見を持つペットが抱える健康コストに警鐘を鳴らし、福祉優先の飼育を促した。",
-      "source": "Pets Magazine",
-      "url": "https://www.petsmag.co.uk/news/",
+      "title_ja": "秋の日暮れ、庭に犬を出す飼い主へ注意喚起",
+      "summary_ja": "日没が早まる秋、薄暗い庭に犬を出す際にハリネズミを危険にさらす一般的な過ちがあるとして注意が呼びかけられた。",
+      "source": "AOL UK",
+      "url": "https://www.aol.co.uk/articles/warning-uks-15-million-dog-060000000.html",
       "score": 55,
-      "commercial_score": 30,
-      "product_keywords": [
-        "短頭種 犬 ケア",
-        "ペット保険"
-      ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "ペット保険の窓口精算、対応病院が拡大",
-      "summary_ja": "アイペットの窓口精算対応動物病院が7月末時点で6,284施設となり、ペット保険の利便性向上が進んでいる。",
-      "source": "PET-CEPA",
-      "url": "https://pet-pace.com/management/2436/",
+      "title_ja": "犬猫生活が茨城の守谷フォレスト動物病院を承継",
+      "summary_ja": "犬猫生活株式会社が茨城県の動物病院を事業承継し、グループに加わった。動物病院の再編が続いている。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000041812.html",
       "score": 50,
-      "commercial_score": 30,
-      "product_keywords": [
-        "ペット保険"
-      ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "PawfitとバタシーがGPSなどペット安全で提携",
-      "summary_ja": "PawfitとBatterseaが提携し、ペットの安全確保と保護動物の支援を進める。スマートトラッカー分野の動きとして注目される。",
-      "source": "PR Newswire UK",
-      "url": "https://prnewswire.co.uk/news-releases/pawfit-and-battersea-join-forces-to-help-keep-pets-safe-and-support-animals-in-need-302895129.html",
-      "score": 50,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ペット GPS トラッカー",
-        "犬 迷子防止"
-      ],
+      "title_ja": "英国の一軒家から250頭の犬を保護",
+      "summary_ja": "RSPCAが一つの家から250頭超のプードル系犬を保護した。内87頭をRSPCAが、残りをDogs Trustが引き受けた。",
+      "source": "Malay Mail",
+      "url": "https://www.malaymail.com/news/life/2026/04/10/too-wild-to-be-real-250-dogs-rescued-from-one-uk-home-rspca-says-its-no-ai/215830",
+      "score": 48,
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "改正治安管理処罰法が施行、文明的な飼育を明確化",
-      "summary_ja": "1月施行の改正治安管理処罰法で、犬の放し飼いによる傷害や猛犬の違法飼育などへの罰則が国家レベルで統一された。",
-      "source": "今日头条",
-      "url": "https://www.toutiao.com/article/7646297442203288083/",
-      "score": 50,
-      "commercial_score": 40,
-      "product_keywords": [
-        "犬 リード",
-        "犬 口輪"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "エンドウでんぷん配合食が犬猫の代謝に好影響",
-      "summary_ja": "エンドウでんぷんの配合は犬猫の代謝健康に有益で、発酵させると犬の腸内細菌叢や猫の嗜好性も改善するとの研究が報告された。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/latest-news",
+      "title_ja": "中国の動物保護と政治を論じる記事(10月2日)",
+      "summary_ja": "中国における動物保護運動の位置づけを政治的観点から論じた記事。ペットを巡る社会情勢を扱う。",
+      "source": "禁聞網",
+      "url": "https://bannedbook.org/bnews/baitai/20261002/2365686.html",
       "score": 45,
-      "commercial_score": 50,
-      "product_keywords": [
-        "グレインフリー キャットフード",
-        "腸活 犬"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
+      "country": "cn",
+      "country_label_ja": "中国",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "週末は全国で犬関連イベントが多数開催",
-      "summary_ja": "10月3日から4日にかけて佐倉Wanパーク、DOG SPORTS FESTIVAL、長野のWan!WonderfulFestaなど犬関連イベントが開催される。",
-      "source": "わんにゃんスマイル",
-      "url": "https://wannyan-smile.com/column-list/c1/",
-      "score": 40,
-      "commercial_score": 45,
-      "product_keywords": [
-        "犬 お出かけ グッズ",
-        "ドッグウェア"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
+      "title_ja": "庭付きペット同伴可ホテルの選び方ガイド",
+      "summary_ja": "ペット同伴可で庭のある宿の選び方を、共用庭と専用庭の確認など3つの観点で紹介している。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:nitwkuv5363896",
+      "score": 42,
+      "country": "cn",
+      "country_label_ja": "中国",
       "genre": "pet",
       "genre_label_ja": "ペット",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "ペットフード業界の人事、アルフィア暫定CEO就任",
-      "summary_ja": "北米のペットフード製造大手アルフィアでミゲル・ニストール氏が暫定CEOに就き、前任は取締役会アドバイザーに移った。",
-      "source": "Petfood Industry",
-      "url": "https://www.petfoodindustry.com/latest-news",
-      "score": 35,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "pet",
-      "genre_label_ja": "ペット",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "秋のクマ被害多発で登山計画に影響",
-      "summary_ja": "冬眠前の9〜10月はクマ被害のピーク期で、登山者の約77%が不安を感じていると報じられている。目的地変更や中止の例も出ており、鈴やラジオ、撃退スプレーの携行が推奨されている。",
-      "source": "nippon.com",
-      "url": "https://www.nippon.com/ja/japan-data/h02589/",
-      "score": 85,
-      "commercial_score": 60,
-      "product_keywords": [
-        "クマ鈴",
-        "クマ撃退スプレー",
-        "携帯ラジオ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "グランドキャニオン鉄砲水の続報と安全対策",
-      "summary_ja": "8月末の鉄砲水で2名が死亡、82名が救助された。行方不明者の捜索が続き、内陸部の一部は閉鎖されている。",
-      "source": "NPS",
-      "url": "https://www.nps.gov/grca/learn/news/two-deceased-hikers-recovered-and-identified-following-flash-flood.htm",
-      "score": 80,
-      "commercial_score": 25,
-      "product_keywords": [
-        "登山 救急キット",
-        "防水バッグ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ワシントン州で1週間に4人のハイカー死亡",
-      "summary_ja": "秋の早い降雪や凍結、日照短縮など秋のバックカントリーの危険を捜索救助隊が解説している。",
-      "source": "Outside",
-      "url": "https://outsideonline.com/outdoor-adventure/exploration-survival/washington-hiker-death-fall-safety",
-      "score": 78,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ヘッドライト",
-        "エマージェンシーシェルター",
-        "防寒ジャケット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ケアンゴームズで吹雪の中9時間の二重救助",
-      "summary_ja": "吹雪のケアンゴームズ国立公園で、道に迷った登山者とキャンプ中の夫婦計4人が救助された。氷点下で積雪は最大1mだった。",
-      "source": "Press and Journal",
-      "url": "https://www.pressandjournal.co.uk/fp/news/highlands-islands/6663537/double-rescue-cairngorms-national-park-cmrt/",
-      "score": 75,
-      "commercial_score": 45,
-      "product_keywords": [
-        "冬用寝袋",
-        "防寒テント"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "スノーピーク、10月3日に新アイテム発売",
-      "summary_ja": "スノーピークはTi-Single 300 Cup Coverなどを10月3日に発売する。ペンドルトンとのコラボ商品も10月16日発売予定。",
-      "source": "スノーピーク",
-      "url": "https://www.snowpeak.co.jp/news/category/products/",
+      "title_ja": "ロゴス「2026秋セット」を10月1日発売",
+      "summary_ja": "テントやたき火台、シュラフなど秋キャンプ向けアイテムを組み合わせたお得なセットが全国で発売された。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000001147.000032114.html",
       "score": 72,
       "commercial_score": 90,
       "product_keywords": [
-        "スノーピーク チタン",
-        "スノーピーク ペンドルトン"
+        "LOGOS キャンプ セット",
+        "たき火台"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "山と溪谷がクマ被害事例と対策を解説",
-      "summary_ja": "登山者が死亡するケースを含む近年のクマ被害事例をまとめた特集。入山時の備えと遭遇時の対応が紹介されている。",
-      "source": "山と溪谷オンライン",
-      "url": "https://www.yamakei-online.com/yama-ya/detail.php?id=4901",
+      "title_ja": "国慶節に長江デルタで軽量キャンプがブーム",
+      "summary_ja": "国慶節連休に、混雑する観光地を避けて山や湖畔に向かう軽量キャンプが長江デルタ地域で広がっている。",
+      "source": "捜狐",
+      "url": "https://www.sohu.com/a/1083039606_122066679",
       "score": 70,
-      "commercial_score": 50,
-      "product_keywords": [
-        "クマ鈴",
-        "クマ撃退スプレー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "トランプ政権が国立公園の提携協定を多数停止",
-      "summary_ja": "政権が国立公園における第三者との協定数十件を差し止めた。公園運営や来訪者サービスへの影響が懸念される。",
-      "source": "KJZZ",
-      "url": "https://kjzz.org/politics/2026-10-01/trump-administration-blocks-dozens-of-third-party-agreements-in-national-parks",
-      "score": 65,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "コールマン2026年新商品を展開",
-      "summary_ja": "コールマンは大型テントやワゴン、チェアなど2026年の新商品を公開している。タフスピードドーム DRルーフなどが注目される。",
-      "source": "コールマン",
-      "url": "https://ec.coleman.co.jp/category/2026_NEWITEMS/",
-      "score": 60,
-      "commercial_score": 92,
-      "product_keywords": [
-        "コールマン テント",
-        "アウトドアワゴン",
-        "キャンプチェア"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "国慶節に星空露営イベントが各地で開催",
-      "summary_ja": "寧夏の星空音楽フェスや天津の都市キャンプ場など、国慶節連休に露営イベントが開かれている。",
-      "source": "澎湃新闻",
-      "url": "https://m.thepaper.cn/newsDetail_forward_32237384",
-      "score": 60,
-      "commercial_score": 40,
-      "product_keywords": [
-        "キャンプ テント",
-        "天幕タープ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2026年注目のアウトドアギアをOutsideが紹介",
-      "summary_ja": "BioLite FirePit+など革新的な新作ギアが2026年の注目として取り上げられている。",
-      "source": "Outside",
-      "url": "https://www.outsideonline.com/outdoor-gear/2026-outdoor-gear-preview/",
-      "score": 55,
-      "commercial_score": 85,
-      "product_keywords": [
-        "バイオライト ファイヤーピット",
-        "焚き火台"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "テスラ新型Model 3が10月1日発売、外部給電2200W",
-      "summary_ja": "新型Model 3は据え置き価格で、新たに2200Wの外部給電を備え、キャンプでの電源利用が可能になる。",
-      "source": "新浪新闻",
-      "url": "https://www.sina.cn/weibo/detail/5349646324466872.html",
-      "score": 55,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ポータブル電源",
-        "車載電源インバーター"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ダイソーの新作キャンプ収納コンテナが話題",
-      "summary_ja": "10月1日、ダイソーの新作コンテナ(550円)がキャンプ収納グッズとして話題になっている。",
-      "source": "ハピキャン",
-      "url": "https://happycamper.jp/",
-      "score": 50,
-      "commercial_score": 80,
-      "product_keywords": [
-        "キャンプ 収納ボックス",
-        "ギアコンテナ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "湖水地方でクライマーをヘリで救助",
-      "summary_ja": "9月28日、胸痛を訴えた湖水地方のクライマーが搬送された。同日にはLow Pikeで足首負傷者も救助された。",
-      "source": "Cumbria Crack",
-      "url": "https://cumbriacrack.com/2026/09/30/helicopter-rescue-for-lake-district-climber-with-chest-pains/",
-      "score": 50,
-      "commercial_score": 20,
-      "product_keywords": [
-        "登山 救急キット"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2026年英国のおすすめ新キャンプギア",
-      "summary_ja": "英国メディアが2026年の新作キャンプ・アウトドアギアをまとめて紹介している。",
-      "source": "Out and About Live",
-      "url": "https://www.outandaboutlive.co.uk/camping/news/best-new-camping-and-outdoor-gear-2026",
-      "score": 50,
       "commercial_score": 75,
       "product_keywords": [
-        "テント",
-        "キャンプ ランタン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "外部給電対応EVが露営の新定番に",
-      "summary_ja": "外部給電機能付きEVを出力別3段階で紹介。軽い露営から家族キャンプまで、車で家電を使う楽しみ方が広がっている。",
-      "source": "新浪新闻",
-      "url": "https://k.sina.cn/article_7879776496_1d5abd8f00680196oe.html",
-      "score": 50,
-      "commercial_score": 45,
-      "product_keywords": [
-        "ポータブル電源",
-        "電気ケトル キャンプ"
+        "露营 帐篷",
+        "折叠椅"
       ],
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "国慶節向け露営装備リストと人気ブランド",
-      "summary_ja": "テント、寝袋、マットが三大必須装備。牧高笛(Mobi Garden)、Naturehike、Camelなどが人気。",
-      "source": "新浪众测",
-      "url": "https://zhongce.sina.com.cn/interface/article/view/148926/",
-      "score": 50,
+      "title_ja": "ogawa「テントの日」に新商品、10月10日から",
+      "summary_ja": "10月10日のテントの日に合わせ、リクライニングローチェアやFIRE PITシリーズなどが10月10日から18日に販売される。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000045.000112588.html",
+      "score": 68,
+      "commercial_score": 88,
+      "product_keywords": [
+        "ogawa ローチェア",
+        "焚き火台"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "「精緻キャンプ」から山野丸ごとの体験へ",
+      "summary_ja": "アウトドア観光が、設備の整ったキャンプから山野全体を売る形へ移りつつあるという双節特集。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwti4729350.shtml",
+      "score": 66,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "スノーピーク2026年新商品、全17アイテムまとめ",
+      "summary_ja": "スノーピークの2026年新商品17アイテムが一覧で紹介されている。購入検討の参考になる。",
+      "source": "CAMP REVIEW",
+      "url": "https://campreview.jp/snow-peak-2026-new-products/",
+      "score": 64,
       "commercial_score": 85,
       "product_keywords": [
-        "ナチュラハイク テント",
-        "インフレータブルマット",
-        "封筒型寝袋"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "秋の最終ハイキング適地と山岳道路閉鎖",
-      "summary_ja": "冬季閉鎖前に楽しめる秋のハイキングコースが紹介されている。",
-      "source": "Unofficial Networks",
-      "url": "https://unofficialnetworks.com/2026/09/28/last-fall-hikes-before-mountain-roads-close-2026/",
-      "score": 45,
-      "commercial_score": 40,
-      "product_keywords": [
-        "トレッキングシューズ",
-        "ハイキング ザック"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英国各地でウォーキングフェスティバル開催",
-      "summary_ja": "ダースリー、ホルムファース、ワイト島などで10月にウォーキングフェスが開かれる。秋のウォーキング需要が高まっている。",
-      "source": "The Great Outdoors",
-      "url": "https://www.thegreatoutdoorsmag.com/outdoor-events-walking-festivals-uk/",
-      "score": 45,
-      "commercial_score": 30,
-      "product_keywords": [
-        "ウォーキングシューズ",
-        "レインジャケット"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "モルバーン・キャラバン&モーターホームショー",
-      "summary_ja": "10月2〜4日に開催。キャラバンの販売やトレードエリアが設けられ、秋のキャンプ需要を反映している。",
-      "source": "Out and About Live",
-      "url": "https://www.outandaboutlive.co.uk/camping/news",
-      "score": 40,
-      "commercial_score": 30,
-      "product_keywords": [
-        "キャンピングトレーラー",
-        "ポータブル電源"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "2026年人気露営装備ランキング",
-      "summary_ja": "折りたたみベッドが注目で、牧高笛や挪客などのブランドが上位に入っている。",
-      "source": "榜中榜",
-      "url": "https://www.maigoo.com/goomai/286810.html",
-      "score": 40,
-      "commercial_score": 80,
-      "product_keywords": [
-        "折りたたみ キャンプベッド",
-        "Naturehike"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "台風27号が急発達、小笠原は荒天警戒",
-      "summary_ja": "台風27号(チョーイワン)は非常に強い勢力に発達し、4日から6日にかけて小笠原近海を北上する見込み。関東でも7日頃に強風の可能性があり、早めの備えが呼びかけられている。",
-      "source": "tenki.jp",
-      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/10/02/40827.html",
-      "score": 85,
-      "commercial_score": 45,
-      "product_keywords": [
-        "防災セット",
-        "懐中電灯",
-        "モバイルバッテリー"
+        "スノーピーク 新作"
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "10月と国慶節連休の自然災害リスクを発表",
-      "summary_ja": "中国の応急管理部などが10月の災害リスクを発表。華中・華南・西南で洪水や雹のリスクが高く、台風1~2個の上陸や影響、森林火災や地質災害にも警戒が必要とした。",
-      "source": "光明網",
-      "url": "https://m.gmw.cn/2026-10/02/content_1304570922.htm",
-      "score": 80,
-      "commercial_score": 20,
-      "product_keywords": [
-        "防災セット",
-        "携帯ラジオ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "米国で2000万人超に洪水の脅威",
-      "summary_ja": "アリゾナからイリノイにかけて洪水の脅威が広がり、非常事態宣言が出された地域もある。ニューメキシコ州などでは高水位での救助活動が続いている。",
-      "source": "NBC News",
-      "url": "https://nbcnews.com/nightly-news/video/flooding-triggers-state-of-emergency-270817349910",
-      "score": 75,
-      "commercial_score": 35,
-      "product_keywords": [
-        "防水バッグ",
-        "ライフジャケット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "台風26号は温帯低気圧に、27号に注意",
-      "summary_ja": "台風26号は10月2日午前3時に日本の東で温帯低気圧に変わった。来週にかけては台風27号の動向に注意が必要とされている。",
-      "source": "tenki.jp",
-      "url": "https://tenki.jp/forecaster/deskpart/2026/10/02/40824.html",
-      "score": 70,
-      "commercial_score": 35,
-      "product_keywords": [
-        "防災ラジオ",
-        "雨具"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "湖南西部など黄色の地質災害リスク警報",
-      "summary_ja": "自然資源部と中国気象局は10月2日18時、湖南西部や重慶南部、貴州などで3日20時まで地質災害の気象リスクが高いとして黄色警報を発表した。",
-      "source": "新浪新闻",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908plm6.html",
-      "score": 70,
-      "commercial_score": 15,
-      "product_keywords": [
-        "ヘルメット",
-        "ホイッスル"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "千葉県北東部で震度3、M5.1の地震",
-      "summary_ja": "10月1日21時27分頃、千葉県北東部を震源とするM5.1の地震が発生し、茨城県と千葉県で最大震度3を観測した。津波の心配はない。",
-      "source": "tenki.jp",
-      "url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2026/10/01/2026-10-01-21-27-19.html",
-      "score": 65,
-      "commercial_score": 40,
-      "product_keywords": [
-        "家具転倒防止",
-        "非常用持ち出し袋"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "ワシントン州知事が山火事で大規模災害宣言要請",
-      "summary_ja": "ワシントン州のファーガソン知事は、夏の山火事で約36.9万エーカーが焼け住宅649棟が全焼したとして連邦の大規模災害宣言を要請した。被害額は1.88億ドルに上る。",
-      "source": "Lynnwood Times",
-      "url": "https://lynnwoodtimes.com/2026/09/30/disaster-declaration-2",
-      "score": 65,
-      "commercial_score": 25,
-      "product_keywords": [
-        "防煙マスク",
-        "空気清浄機"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "国慶連休、南方で降雨多く10月に台風1~2個",
-      "summary_ja": "国家気候センターによると、国慶連休は南方で降雨が多く、10月は華南に1~2個の台風が影響する見通し。山洪や都市部の冠水への警戒が呼びかけられている。",
-      "source": "搜狐",
-      "url": "https://www.sohu.com/a/1082307446_100116740",
-      "score": 65,
-      "commercial_score": 20,
-      "product_keywords": [
-        "防水バッグ",
-        "レインウェア"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "防災庁が11月2日に発足予定",
-      "summary_ja": "首相直轄の司令塔として防災庁が11月2日に発足する予定で、予算や制度の見直しが進むと見られる。家庭の備えへの関心も高まりそうだ。",
-      "source": "note",
-      "url": "https://note.com/tatsuya_sabato/n/n97e156cadd06",
-      "score": 60,
-      "commercial_score": 35,
-      "product_keywords": [
-        "防災グッズ",
-        "非常食"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "GAO、危険軽減事業の審査が長すぎると指摘",
-      "summary_ja": "GAOは10月1日の報告書で、FEMAの災害軽減プロジェクトの審査過程が長すぎると指摘した。超党派の議員もFEMAの対応の遅さを批判している。",
-      "source": "ENR",
-      "url": "https://www.enr.com/articles/63742-gao-report-finds-too-lengthy-review-process-for-hazard-mitigation-projects-across-us",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "南海トラフ避難、備蓄ゼロの自治体が6割",
-      "summary_ja": "南海トラフ地震で被害が想定される自治体の6割で、簡易トイレなど主要8品目のいずれかの備蓄がゼロだったことが調査で分かった。家庭備蓄の重要性が改めて指摘されている。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUE01BX00R00C25A5000000/",
-      "score": 55,
+      "title_ja": "ホテルより車中泊キャンプを選ぶ旅行者が増加",
+      "summary_ja": "連休中のホテル高騰もあり、車中泊キャンプや銭湯・健康ランドで夜を過ごす旅行者が増えている。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsp5052056.shtml",
+      "score": 64,
       "commercial_score": 70,
       "product_keywords": [
-        "簡易トイレ",
-        "保存水",
-        "非常食"
+        "车载 露营",
+        "车宿 床垫"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "オリンピック国立公園の道路閉鎖と現況",
+      "summary_ja": "オリンピック国立公園ではモラ・ロードが10月15日まで工事で全面通行止めとなっている。訪問前に現況の確認が必要。",
+      "source": "NPS",
+      "url": "https://www.nps.gov/olym/planyourvisit/conditions.htm",
+      "score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "英国山岳協会のハイキング最新情報",
+      "summary_ja": "英国山岳協会が10月の清掃活動やレイク・ディストリクトでの歩行イベントなど、ハイキング関連の最新情報を発信している。",
+      "source": "BMC",
+      "url": "https://www.thebmc.co.uk/en/hill-walking-news",
+      "score": 55,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "国慶旅行の安全指南が拡散",
+      "summary_ja": "連休の外出に向けて、景勝地や応急セットなどの注意点をまとめた安全指南が広まっている。",
+      "source": "捜狐",
+      "url": "https://www.sohu.com/a/1082966153_122066679",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "FUTURE FOX、防災トイレや焚き火台の予約開始",
+      "summary_ja": "信州発のブランドが10月上旬から、簡易トイレやポータブル電源用収納ケース、焚き火台などの予約販売を始めた。",
+      "source": "FUTURE FOX",
+      "url": "https://futurefox-online.com/",
+      "score": 52,
+      "commercial_score": 75,
+      "product_keywords": [
+        "焚き火台",
+        "ポータブル電源 ケース"
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "大西洋、観測史上初のハリケーンゼロで10月入り",
-      "summary_ja": "今季の大西洋は10月1日時点で命名された嵐が8個、ハリケーンはゼロで、衛星観測時代では初めてとなった。一方、東太平洋ではハリケーン・レイチェルが発達中。",
-      "source": "Tampa Bay Times",
-      "url": "https://tampabay.com/hurricane/2026/10/01/atlantic-gulf-storm-season-tropics-el-nino-weather-forecast",
-      "score": 55,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英気象庁が2026/27年の嵐の名前を発表",
-      "summary_ja": "気象庁、アイルランド気象局、オランダ気象局が共同で、オースティンからウェンデまでの21の嵐名を発表した。4万件超の公募から選ばれ、秋冬の荒天シーズンに備える。",
-      "source": "LBC",
-      "url": "https://www.lbc.co.uk/article/met-office-storm-names-2026-2027-full-list-5Hjdgjh_2/",
-      "score": 55,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "英政府、レジリエンス行動計画2026の実施報告",
-      "summary_ja": "英政府はレジリエンス行動計画の2026年実施報告を公表した。洪水対策タスクフォースの成果や、秋の全国的な備え啓発キャンペーンなどが含まれる。",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/publications/the-uk-government-resilience-action-plan-2026-implementation-report/the-uk-government-resilience-action-plan-2026-implementation-report-html",
-      "score": 55,
-      "commercial_score": 15,
+      "title_ja": "2026年の国立公園キャンプ予約のコツ",
+      "summary_ja": "ヨセミテの車両予約停止など2026年の変更点を踏まえ、国立公園キャンプの予約のコツを解説している。",
+      "source": "Black Series",
+      "url": "https://blackseries.net/blogs/news/national-park-camping-2026-reservation-tips-blackseries",
+      "score": 52,
+      "commercial_score": 65,
       "product_keywords": [
-        "防災セット"
+        "キャンプ テント"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "議会委員会、FEMAのハリケーン対応を調査",
-      "summary_ja": "下院運輸・インフラ委員会の幹部が、FEMAのハリケーン備えと対応を巡る懸念報道を受けて調査を開始した。FEMAの体制への不安が続いている。",
-      "source": "US House T&I Committee",
-      "url": "https://transportation.house.gov/news/documentsingle.aspx?DocumentID=407852",
-      "score": 50,
-      "commercial_score": 10,
       "country": "us",
       "country_label_ja": "アメリカ",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "イングランドの洪水リスクは低いがカンブリアは注意",
-      "summary_ja": "10月1日時点でイングランドに洪水警報はなく、今後5日間のリスクも非常に低い。ただしカンブリアでは金曜に表面水による局地的な浸水の可能性がある。",
-      "source": "GOV.UK",
-      "url": "https://check-for-flooding.service.gov.uk/",
+      "title_ja": "北ヨークシャーの人気ルートで負傷者を救助",
+      "summary_ja": "人気のウォーキングルートで負傷した歩行者が山岳救助隊に救助された。秋の入山時の備えが改めて重要になる。",
+      "source": "Mountain Rescue England & Wales",
+      "url": "https://www.mountain.rescue.org.uk/news/injured-walker-rescued-from-popular-north-yorkshire-route/",
+      "score": 52,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "2026年秋に訪れたい米国の国立公園8選",
+      "summary_ja": "秋の旅行向けに米国の国立公園8か所を紹介した記事。混雑が減り撮影にも適した時期とされる。",
+      "source": "Tempo",
+      "url": "https://en.tempo.co/read/2120768/8-best-us-national-parks-to-visit-for-autumn-trip-2026",
       "score": 50,
-      "commercial_score": 20,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "キャンプ計画の立て方、防湿マットや災害リスクも",
+      "summary_ja": "山野でのキャンプ計画について、防湿マットの準備や地質災害への注意など具体的な手順を紹介している。",
+      "source": "新浪",
+      "url": "https://k.sina.cn/article_7879849919_1d5acf7bf06802yvl6.html",
+      "score": 50,
+      "commercial_score": 60,
       "product_keywords": [
-        "防水ブーツ",
+        "防潮垫"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "10月に行くべき国立公園の選び方",
+      "summary_ja": "10月は朝が涼しく登山口も静かで、国立公園の訪問に向くとして、目的別のおすすめを紹介している。",
+      "source": "Hydaway",
+      "url": "https://shop.myhydaway.com/blogs/news/best-national-park-in-october",
+      "score": 48,
+      "commercial_score": 60,
+      "product_keywords": [
+        "折りたたみ バックパック"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "英国の10月ハイキングイベント一覧",
+      "summary_ja": "イングランド各地で10月に開かれるハイキングのイベントを一覧で確認できる。",
+      "source": "Time Outdoors",
+      "url": "https://www.timeoutdoors.com/events/hikes/october",
+      "score": 42,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "気象庁、秋は雨・風・嵐と洪水の可能性高と警告",
+      "summary_ja": "エルニーニョの影響で、秋は雨や強風、嵐、洪水の可能性が高いと英気象庁が警告した。10〜12月が多雨になる確率は平年の2倍。",
+      "source": "LBC",
+      "url": "https://www.lbc.co.uk/article/weather-rain-uk-flooding-autumn-5HjdjFy_2/",
+      "score": 66,
+      "commercial_score": 50,
+      "product_keywords": [
+        "防水バッグ",
         "土のう"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "bousai",
       "genre_label_ja": "防災",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "スコットランド、1500万ポンドの洪水対策計画",
-      "summary_ja": "スコットランド政府は、地域の備えや復旧、防護事業、持続可能な排水などを含む1500万ポンドの洪水レジリエンス計画を発表した。",
-      "source": "Water Magazine",
-      "url": "https://www.watermagazine.co.uk/2026/09/24/scottish-government-sets-out-15m-flood-resilience-programme/",
-      "score": 50,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "連休中に中国3省区で同日地震",
-      "summary_ja": "国慶節の連休に入り、中国大陸では気温低下と降雨が続き、3つの省区で同日に地震が発生したと報じられた。",
-      "source": "大紀元",
-      "url": "https://www.epochtimes.com/gb/26/10/1/n14861537.htm",
-      "score": 50,
-      "commercial_score": 25,
+      "title_ja": "キャンピングカーで防災を提案、松戸の防災フェアに出展",
+      "summary_ja": "11月7日の松戸市防災フェアで、キャンピングカーやポータブルシャワー、トイレなど災害時に使えるアウトドア用品を展示する。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000175731.html",
+      "score": 62,
+      "commercial_score": 80,
       "product_keywords": [
-        "防災グッズ",
-        "非常用ライト"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "bousai",
-      "genre_label_ja": "防災",
-      "date": "2026-10-02"
-    },
-    {
-      "title_ja": "三陸沖でM5.0の地震、最大震度2",
-      "summary_ja": "10月2日未明に三陸沖を震源とするM5.0の地震が発生し、山形県などで震度1から2を観測した。津波の心配はない。",
-      "source": "さくらんぼテレビ",
-      "url": "https://www.sakuranbo.co.jp/news/2026/10/02/2026100200000001.html",
-      "score": 45,
-      "commercial_score": 30,
-      "product_keywords": [
-        "防災グッズ",
-        "簡易トイレ"
+        "ポータブルトイレ",
+        "ポータブルシャワー"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "bousai",
       "genre_label_ja": "防災",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "title_ja": "中国、2026年上半期の自然災害状況を公表",
-      "summary_ja": "国家防災減災救災委員会弁公室と応急管理部が、2026年上半期の全国自然災害の状況を発表した。",
-      "source": "中華人民共和国応急管理部",
+      "title_ja": "FEMA、オレゴン州の病院の津波対策に1,400万ドル",
+      "summary_ja": "オレゴン州アストリアの病院が津波・地震対策工事を終えられるよう、FEMAが約1,400万ドルを拠出した。",
+      "source": "OPB",
+      "url": "https://opb.org/article/2026/09/29/fema-astoria-hospital-funding-tsunami-upgrade",
+      "score": 62,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "エルニーニョで英国の嵐と洪水リスク上昇",
+      "summary_ja": "英気象庁が、世界的な気象パターンの乱れにより今秋の嵐・洪水リスクが高まると発表した。",
+      "source": "BritBrief",
+      "url": "https://britbrief.co.uk/environment/climate/met-office-el-nio-raises-uk-storm-and-flood-risk-this-autumn.html",
+      "score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "レベルと色で危険を知らせる新しい防災気象情報",
+      "summary_ja": "警戒レベルと色で危険度を示す新しい防災気象情報の仕組みを、ニュースの解説形式で紹介している。",
+      "source": "熊本日日新聞",
+      "url": "https://kumanichi.com/articles/2008779",
+      "score": 58,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "GAO報告、ハザード軽減事業の審査が長すぎると指摘",
+      "summary_ja": "米政府監査院の報告で、災害軽減事業の審査過程が長く、多額の資金が未執行のままだと分かった。",
+      "source": "ENR",
+      "url": "https://www.enr.com/articles/63742-gao-report-finds-too-lengthy-review-process-for-hazard-mitigation-projects-across-us",
+      "score": 58,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "応急管理部、2026年上半期の全国自然災害状況を発表",
+      "summary_ja": "上半期は洪水や地質災害、風害、地震などで多くの人が被災し、直接経済損失は414億元に上った。",
+      "source": "中国応急管理部",
       "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202607/t20260713_676243.shtml",
-      "score": 40,
-      "commercial_score": 5,
+      "score": 58,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "bousai",
       "genre_label_ja": "防災",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "10月2日朝に茨城県南部で最大震度2の地震",
+      "summary_ja": "10月2日6時頃、茨城県南部でM3.9、最大震度2の地震が発生した。津波の心配はない。",
+      "source": "tenki.jp",
+      "url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2026/10/02/2026-10-02-06-01-47.html",
+      "score": 55,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "FEMAがハリケーン対策の資料を公開",
+      "summary_ja": "ハリケーン活動の最盛期に向け、FEMAが緊急対応担当者向けの2026年版準備資料を紹介している。",
+      "source": "FEMA",
+      "url": "https://www.fema.gov/blog/2026-hurricane-readiness-resources-every-emergency-manager-needs",
+      "score": 52,
+      "commercial_score": 50,
+      "product_keywords": [
+        "非常用持ち出し袋"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "暗闇で光る防災グッズが新登場",
+      "summary_ja": "ワッツが防災の日に合わせ、暗闇で光る防災グッズなど日常に取り入れやすい新商品を発売した。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000386.000084599.html",
+      "score": 50,
+      "commercial_score": 85,
+      "product_keywords": [
+        "防災グッズ セット",
+        "蓄光 防災"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "応急管理部、今年の主汛期は極端気象が多く旱涝並存",
+      "summary_ja": "今年の主汛期は極端な天気・気候事象が多く、干ばつと洪水が併存すると応急管理部が説明した。",
+      "source": "人民網",
+      "url": "http://society.people.com.cn/n1/2026/0623/c1008-40745857.html",
+      "score": 50,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "イングランドの洪水リスク確認サービス",
+      "summary_ja": "今後5日間のイングランドの洪水リスクはおおむね極めて低いが、カンブリアでは局地的な表面水氾濫の可能性がある。",
+      "source": "GOV.UK",
+      "url": "https://check-for-flooding.service.gov.uk/",
+      "score": 48,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "応急管理部の公式サイト",
+      "summary_ja": "防災・減災・救援に関する最新の公式発表を掲載している。",
+      "source": "中国応急管理部",
+      "url": "https://www.mem.gov.cn/",
+      "score": 42,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
+    },
+    {
+      "title_ja": "連邦官報、災害支援金額の調整を告示",
+      "summary_ja": "連邦官報が9月29日付で災害助成金額の調整通知を掲載した。",
+      "source": "Federal Register",
+      "url": "https://federalregister.gov/documents/2026/09/29/2026-19898/notice-of-adjustment-of-disaster-grant-amounts",
+      "score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "bousai",
+      "genre_label_ja": "防災",
+      "date": "2026-10-03"
     }
   ]
 }

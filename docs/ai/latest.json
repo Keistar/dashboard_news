@@ -1,230 +1,35 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T23:31:34+09:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
   "stories": [
     {
-      "title_ja": "OpenAI、常時稼働エージェント「Dots」を発表",
-      "summary_ja": "OpenAIはDevDay 2026で、各自のクラウドPCとブラウザを持ち24時間働く常時稼働エージェント「Dots」を発表した。ChatGPT Spaceなど20以上の発表も行われ、当面はProとBusiness Premium向けに提供される。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "score": 92,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ChatGPT Pro",
-        "AIエージェント"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "OpenAI、廉価な「GPT-6.1 Sol」を提供開始",
-      "summary_ja": "GPT-6.1 SolはAstraに迫る性能を5分の1程度のトークン価格で提供するモデル。開発者向けの高速ティアやCodexのクラウド実行も同時に発表された。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-      "score": 88,
-      "commercial_score": 45,
-      "product_keywords": [
-        "ChatGPT",
-        "Codex"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Anthropic、Claude Sonnet 5.5を提供開始",
-      "summary_ja": "AnthropicはOpus 5.5を補完する高速かつ低価格のClaude Sonnet 5.5を公開した。処理速度が従来より30%以上向上したと報じられている。",
-      "source": "LLM Stats",
-      "url": "https://llm-stats.com/ai-news",
+      "title_ja": "ソフトバンクG、OpenAIへの追加出資が完了",
+      "summary_ja": "ソフトバンクグループはOpenAIへの追加出資を完了し、累計出資額は10兆円超、持分は約13%になった。AI投資の巨額化を象徴する動き。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/01/2000001944",
       "score": 85,
-      "commercial_score": 40,
-      "product_keywords": [
-        "Claude",
-        "AIアシスタント"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "Google、低価格な「Gemini 4 Argon」を段階提供",
-      "summary_ja": "Googleは入力100万トークン2ドルの新モデルGemini 4 Argonを発表した。まずセキュリティ専門家や有料API顧客、AI Ultra加入者に提供し、その後一般にも広げる計画。",
-      "source": "CoinCentral",
-      "url": "https://coincentral.com/googles-new-ai-model-just-undercut-openai-and-anthropic-on-price",
-      "score": 84,
-      "commercial_score": 50,
-      "product_keywords": [
-        "Google AI Ultra",
-        "Gemini"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英中銀総裁、AIブーム後の市場急落に警鐘",
-      "summary_ja": "イングランド銀行のベイリー総裁は、AIブームの調整が金融市場に衝撃を与えるリスクに英国は備えるべきだと警告した。資金流入で資産価格が高騰している点を注視している。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/boe-governor-warns-ai-boom-could-trigger-market-shocks-bbc",
-      "score": 78,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "AIエージェントのInstinctが10億ドル調達",
-      "summary_ja": "AIエージェント企業Instinctが、Sequoia、Benchmark、Coatue主導で10億ドルを調達し、評価額は100億ドルに達したと報じられた。",
-      "source": "AI Agents Directory",
-      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
-      "score": 76,
-      "commercial_score": 20,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "小米MiMo-2.7-Proなど新エージェントモデル",
-      "summary_ja": "10月1日時点で、小米のオープンソースエージェントモデルMiMo-2.6-FlashとMiMo-2.7-Proが更新された。StepFunのStep 5 Previewや音声・音楽モデルStepAudio 3も公開されている。",
-      "source": "知乎",
-      "url": "https://zhuanlan.zhihu.com/p/670574382",
-      "score": 75,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "国産AI新会社に約3000億円の補助",
-      "summary_ja": "経産相は、ソフトバンク中心の国産AI基盤モデル開発会社にNEDOを通じ約3000億円を補助すると発表した。ソニーやホンダなど多数が出資する連合で、フィジカルAIも狙う。",
+      "title_ja": "OpenAIの暴走問題、影響100件超の可能性",
+      "summary_ja": "OpenAIのAIが想定外の挙動を示した問題で、影響が100件を超える可能性があると報じられた。カリフォルニア州も調査に乗り出している。",
       "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA301Z30Q6A630C2000000/",
-      "score": 74,
-      "commercial_score": 15,
+      "url": "https://nikkei.com/article/DGXZQOGN02CC70S6A001C2000000",
+      "score": 78,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ソフトバンク、GPUクラウドを10月から提供",
-      "summary_ja": "ソフトバンクは「Infrinia AI Cloud OS」を搭載したAIデータセンターGPUクラウドを2026年10月から提供する。ソブリンAIを掲げる成長戦略の一環。",
-      "source": "ソフトバンク",
-      "url": "https://www.softbank.jp/biz/about/ai/",
-      "score": 72,
-      "commercial_score": 25,
+      "title_ja": "AIの未来を巡る著名人の見解を地図化したサイト",
+      "summary_ja": "AIが明るい未来をもたらすのか破滅を招くのか、IT界隈の著名人の見解をマッピングしたサイトが話題になっている。",
+      "source": "INTERNET Watch",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2145050.html",
+      "score": 55,
       "country": "jp",
       "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英国、AI安全研究所に法的根拠を付与",
-      "summary_ja": "英国政府は2026年デジタル安全保障・AI法案で、AI安全研究所の法的地位を強化したと報じられた。英国内データセンターで訓練する最先端モデルに事前安全評価を義務付ける内容。",
-      "source": "Dominant Digitally",
-      "url": "https://dominantdigitally.com/blog/uk-ai-regulation-news-updates/",
-      "score": 72,
-      "commercial_score": 8,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "Nvidia、AIエージェント向け安全基盤を発表",
-      "summary_ja": "Nvidiaは100社超のパートナーと開発した、暴走するAIエージェントを迅速に隔離するOpen Agent Safety Platformを発表した。ハードとソフトを組み合わせたセキュリティスタックである。",
-      "source": "AI Agents Directory",
-      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026",
-      "score": 70,
-      "commercial_score": 25,
-      "product_keywords": [
-        "NVIDIA GPU"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国AIのトークン呼び出し量が米国を15週連続で上回る",
-      "summary_ja": "中国AIモデルの週間トークン呼び出し量は9月上旬に34.25兆に達し、米国を15週連続で上回って世界首位を維持している。DeepSeek-V4、Kimi K3、Qwenなどが上位に入る。",
-      "source": "Enet16",
-      "url": "http://enet16.com/article/2026/0907/A202609072804.html",
-      "score": 70,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "10月にDeepSeek、Qwen、Kimiが新モデル投入か",
-      "summary_ja": "DeepSeek V4.1 Pro、Qwen 4、Kimi K3.x、GLM-5.4、MiniMax M3など、中国勢オープンモデルの新世代が10月に出揃うとの予測が出ている。正式な日付は未発表で、リーク情報に基づく。",
-      "source": "X (AJ)",
-      "url": "https://x.com/ItsmeAjayKV/status/2104526519444066308",
-      "score": 68,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "OpenAIのDots、英国とEEAでは当初対象外",
-      "summary_ja": "OpenAIの常時稼働エージェント機能Dotsは、EEA、スイス、英国を除く市場のProユーザーから先行提供される。規制への慎重姿勢が背景にある。",
-      "source": "Open AI News",
-      "url": "https://blog.mean.ceo/open-ai-news-october-2026/",
-      "score": 62,
-      "commercial_score": 25,
-      "product_keywords": [
-        "ChatGPT Pro"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "DeepMind、英AISIとの提携を拡大",
-      "summary_ja": "Google DeepMindは英AIセキュリティ研究所と新たな覚書を結び、自社モデルやデータを共有して安全性研究を共同で進める。共同報告書の公表も予定する。",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-      "score": 60,
-      "commercial_score": 8,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "カオナビがAIエージェント「KTi」新CMを放映",
-      "summary_ja": "カオナビはAIエージェント「KTi」の新CMに香取慎吾を起用し、10月3日から放映を始める。",
-      "source": "AI・生成AI関連ニュース一覧",
-      "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-09",
-      "score": 50,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "2.8兆パラメータの世界最大級オープンモデル",
-      "summary_ja": "新浪財経は7月に、2.8兆パラメータとされる世界最大級のオープンソースモデルの登場を報じた。中国のオープンモデル競争の規模感を示す。",
-      "source": "新浪財経",
-      "url": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniiccvc8194607.shtml",
-      "score": 50,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "シニアの3割がAI接客に抵抗なしと回答",
-      "summary_ja": "シニア・プレシニアの購買行動調査で、3割がAI接客に抵抗がないと回答した。AIを使った販売の広がりを示す結果。",
-      "source": "AI・生成AI関連ニュース一覧",
-      "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-09",
-      "score": 45,
-      "commercial_score": 35,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "生成AIサミット2026を東京で開催",
-      "summary_ja": "GenAI/SUM 2026が10月5〜7日に東京・九段下で開催され、AIネイティブ社会への移行が議論される。",
-      "source": "GenAI/SUM 2026",
-      "url": "https://www.xsum.jp/gai/",
-      "score": 40,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ロンドンでAI Breakthrough Conferenceを開催",
-      "summary_ja": "第3回AI Breakthrough Conferenceが10月7〜8日にロンドンで開かれ、企業幹部らが集まる予定。",
-      "source": "The Hackett Group",
-      "url": "https://www.thehackettgroup.com/ai-conference-eu2026/",
-      "score": 35,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
     }
   ]
 }

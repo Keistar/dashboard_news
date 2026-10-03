@@ -1,222 +1,177 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T23:31:34+09:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
   "stories": [
     {
-      "title_ja": "全国47都道府県でインフルエンザ流行入り",
-      "summary_ja": "定点当たりの患者報告数が全47都道府県で1.0を超え、全国平均は7.17人となりました。例年より早い流行で、ワクチン接種や手洗いなどの対策が呼びかけられています。",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/",
-      "score": 90,
-      "commercial_score": 70,
-      "product_keywords": [
-        "インフルエンザ対策 マスク",
-        "加湿器",
-        "アルコール消毒"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "低エネルギー食と運動で2型糖尿病が寛解",
-      "summary_ja": "低エネルギー食と構造化された運動プログラムの併用により、参加者の半数以上で2型糖尿病が寛解したとする研究が報告されました。生活習慣介入の有効性を示します。",
-      "source": "Healthline",
-      "url": "https://www.healthline.com/health-news",
-      "score": 80,
+      "title_ja": "インフルエンザ、全都道府県で流行入りの目安を超過",
+      "summary_ja": "9月21〜27日の定点当たり報告数は7.17人。4県で注意報、沖縄は警報が出ている。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
+      "score": 75,
       "commercial_score": 50,
       "product_keywords": [
-        "血糖値 サプリ",
-        "食事管理 アプリ",
-        "ヨガマット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "インフル1都8県で注意報超え、H1N1が主体",
-      "summary_ja": "定点当たり報告数が注意報の目安である10を超えた地域が1都8県に広がりました。流行の主体はA(H1N1)pdm09で、早めの対策が求められます。",
-      "source": "日経メディカル",
-      "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202609/594732.html",
-      "score": 78,
-      "commercial_score": 60,
-      "product_keywords": [
-        "体温計",
         "マスク",
-        "のど飴"
+        "インフルエンザ 予防"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英国でインフルとコロナのワクチン接種開始",
-      "summary_ja": "10月1日から英国全域でインフルエンザと新型コロナのワクチン接種が始まりました。65歳以上や妊婦などが優先対象で、今回初めて16歳以上のホームレス状態の人も対象に加わります。",
-      "source": "Meyka",
-      "url": "https://meyka.com/blog/nhs-flu-and-covid-19-vaccine-programme-rolls-out-october-1-across-uk-0110/",
-      "score": 78,
-      "commercial_score": 25,
-      "product_keywords": [
-        "マスク",
-        "手指消毒"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "title_ja": "イーライリリーのFoundayoで糖尿病リスク57%低下の予測",
+      "summary_ja": "ATTAIN-1の事後解析で、最高用量群は10年の2型糖尿病リスクがプラセボより57%低いと予測された。実際の発症数の比較ではない。",
+      "source": "inkl",
+      "url": "https://www.inkl.com/news/lillys-foundayo-pill-linked-to-57-lower-predicted-diabetes-risk-in-attain-1-modeling-but-no-cases-were-counted",
+      "score": 72,
+      "commercial_score": 30,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国で国慶節前に流感ワクチン接種を推奨",
-      "summary_ja": "国家衛生健康委員会は9月23日の発表会で、休暇の移動時の健康対策を呼びかけました。高齢者や子ども、慢性疾患患者にはインフルエンザの流行前の接種を勧めています。",
-      "source": "人民網",
-      "url": "http://health.people.com.cn/n1/2026/0923/c14739-40804539.html",
-      "score": 75,
-      "commercial_score": 25,
+      "title_ja": "国家衛健委、体重は軽いほど良いわけではない",
+      "summary_ja": "9月23日の会見で、急速減量を避け、食事と運動を基本とするよう呼びかけた。三甲病院の95%以上に体重管理外来がある。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-23/10702451.shtml",
+      "score": 70,
+      "commercial_score": 40,
       "product_keywords": [
-        "マスク",
-        "手指消毒"
+        "体重計",
+        "プロテイン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "HHSが大統領体力テスト向け1000万ドル賞金",
-      "summary_ja": "米保健福祉省は、学校や青少年団体が大統領体力テストを導入することを後押しする1000万ドル規模のコンテストを開始しました。子どもの運動習慣づくりを促す政策です。",
-      "source": "HHS",
-      "url": "https://www.hhs.gov/press-room/hhs-launches-10-million-presidential-fitness-school-innovation-challenge.html",
-      "score": 72,
-      "commercial_score": 35,
+      "title_ja": "インフルが夏から急増、過去2番目の早さ",
+      "summary_ja": "厚労省のデータでは8月に流行期入りし、過去2番目の早さとなった。",
+      "source": "nippon.com",
+      "url": "https://nippon.com/ja/japan-data/h02917",
+      "score": 65,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "NHSが月26マイル歩くと特典の挑戦を発表",
+      "summary_ja": "2027年1月開始の月間マラソン挑戦で、約26マイル歩くと割引などの特典を受けられる。",
+      "source": "Deccan Herald",
+      "url": "https://www.deccanherald.com/health/healthcare/nhs-uk-will-reward-people-who-walk-daily-4062998",
+      "score": 65,
+      "commercial_score": 45,
       "product_keywords": [
-        "キッズ スポーツウェア",
-        "ランニングシューズ"
+        "ウォーキングシューズ",
+        "歩数計"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "FDAがワクチン諮問委を開催、南半球インフル株を選定",
+      "summary_ja": "10月1日にVRBPACが2027年南半球シーズンのインフルエンザワクチン株について協議した。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
+      "score": 62,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "イングランドの薬局、秋から処方できる症状が拡大",
+      "summary_ja": "Pharmacy Firstに片頭痛、ニキビ、疥癬、中耳炎、鼻炎が加わる。3億4000万ポンドを投じる。",
+      "source": "PSLHub",
+      "url": "https://www.pslhub.org/news/more-pharmacies-in-england-to-prescribe-medication-from-autumn-r9824/",
+      "score": 62,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "上野厚労相が10月2日の閣議後会見",
+      "summary_ja": "診療報酬改定、出産一時金、後発医薬品の使用促進、風しん、難病対策などが議題となった。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76538.html",
+      "score": 60,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "連休前に衛健委が外出時の健康注意を呼びかけ",
+      "summary_ja": "気温が下がる時期の連休に向け、外出時の注意点を提示した。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-24/10702713.shtml",
+      "score": 60,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "GP契約2026/27、減量注射の処方を奨励",
+      "summary_ja": "肥満対応の指標が追加され、体重管理プログラムの紹介が評価対象となる。",
+      "source": "Pulse Today",
+      "url": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/weight-loss-drug-prescribing-to-be-added-to-qof-as-part-of-2026-27-gp-contract/",
+      "score": 58,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "早期流行のインフルに警戒を求める社説",
+      "summary_ja": "日経が早い流行入りを受けて警戒を促す社説を掲載した。",
+      "source": "日本経済新聞",
+      "url": "https://nikkei.com/article/DGXZQODK296OA0Z20C26A9000000",
+      "score": 55,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "速く歩く、多く歩くほど長生き、英国6.4万人調査",
+      "summary_ja": "英国の成人64,743人のデータで、歩く距離または速さが長寿と関連した。",
+      "source": "Harvard Health",
+      "url": "https://health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ウォーキングシューズ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "減量注射が睡眠時無呼吸の寛解に寄与か",
-      "summary_ja": "GLP-1作動薬などの減量注射が、英国で約1000万人に影響する睡眠時無呼吸を寛解させる可能性があると報じられました。中等度から重度の患者を対象にチルゼパチドの試験も行われています。",
-      "source": "Elrisala",
-      "url": "https://www.elrisala.com/yet-another-benefit-of-weight-loss-jabs-they-combat-severe-snoring-study-finds/",
-      "score": 72,
-      "commercial_score": 35,
-      "product_keywords": [
-        "いびき防止 グッズ",
-        "マウスピース",
-        "睡眠 サプリ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "10月1日から重点層に無料流感ワクチン",
-      "summary_ja": "国家疾病予防控制局などの方針に基づき、10月1日から65歳以上と義務教育段階の児童生徒に三価インフルエンザワクチンを無料提供する地域が出ています。上海市崇明区が一例です。",
-      "source": "新浪ニュース",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pgd6.html",
-      "score": 70,
-      "commercial_score": 15,
+      "title_ja": "中秋・国慶前後の重点感染症対策の通知",
+      "summary_ja": "湖南省が連休前後と秋冬季の感染症防止の通知を出した。",
+      "source": "湖南省政府",
+      "url": "https://www.hunan.gov.cn/zqt/zcsd/202609/t20260928_34073047.html",
+      "score": 55,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "等尺性運動が血圧を下げる可能性",
-      "summary_ja": "週1〜2回の等尺性運動でも、短期的に血圧を下げる可能性があるとの新研究が発表されました。短時間でできる運動として注目されます。",
-      "source": "Medical News Today",
-      "url": "https://www.medicalnewstoday.com/news",
-      "score": 68,
+      "title_ja": "南京で無料インフル予防接種、10月全面開始へ",
+      "summary_ja": "65歳以上と義務教育段階の児童生徒が三価ワクチンを無料で接種できる。",
+      "source": "扬子晚报",
+      "url": "https://www.yzwb.net/news/jiangsu/nanjing/202609/t20260926_397088.html",
+      "score": 55,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ACSMが2026年フィットネス動向、1位はウェアラブル",
+      "summary_ja": "高齢者向けプログラム、体重管理運動、モバイルアプリが続く。GLP-1薬の普及も背景にある。",
+      "source": "Newswise",
+      "url": "https://www.newswise.com/articles/the-future-of-fitness-acsm-announces-top-trends-for-2026",
+      "score": 50,
       "commercial_score": 65,
       "product_keywords": [
-        "ハンドグリップ",
-        "血圧計",
-        "トレーニングチューブ"
+        "スマートウォッチ",
+        "活動量計"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "心臓病向け幹細胞パッチが保険適用に",
-      "summary_ja": "幹細胞を用いた心臓病向けパッチが保険適用となり、再生医療の実用化が一歩前進しました。重症心不全患者への新たな治療選択肢として注目されます。",
-      "source": "時事メディカル",
-      "url": "https://medical.jiji.com/news/",
-      "score": 65,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "疾控専門家が重点層の早期接種を提言",
-      "summary_ja": "中国疾病予防控制中心の専門家は、重症化リスクの高い高齢者や乳幼児、慢性疾患患者に、早めのインフルエンザワクチン接種を勧めています。",
-      "source": "新華網",
-      "url": "https://www.xinhuanet.com/politics/20260903/86f78aeb2e6a4f9fbd28c53d0413c620/c.html",
-      "score": 60,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "日本新薬のDMD治療薬候補で5年データ",
-      "summary_ja": "日本新薬はデュシェンヌ型筋ジストロフィー治療薬候補brogidirsenの5年間の有効性データを公表しました。歩行可能な患者で運動機能が維持または改善したと報告されています。",
-      "source": "PHARMA JAPAN",
-      "url": "https://pj.jiho.jp/",
-      "score": 55,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "北東部でNHSが睡眠時無呼吸インプラント導入",
-      "summary_ja": "北東部の3つのNHSトラストが連携し、閉塞性睡眠時無呼吸向けの先進的インプラント治療を地域で初めて実施しました。呼吸を整える新たな選択肢となります。",
-      "source": "Northumbria Healthcare NHS",
-      "url": "https://www.northumbria.nhs.uk/media-centre/news-and-blogs/news-stories/three-nhs-trusts-join-forces-bring-pioneering-sleep-apnoea-treatment-north-east",
-      "score": 55,
-      "commercial_score": 20,
-      "product_keywords": [
-        "いびき 対策"
-      ],
+      "title_ja": "NHSイングランドのGP契約変更2026/27",
+      "summary_ja": "2026/27年度のGP契約の変更点を、NHSイングランドが公表している。",
+      "source": "NHS England",
+      "url": "https://www.england.nhs.uk/long-read/changes-to-the-gp-contract-in-2026-27/",
+      "score": 50,
       "country": "gb",
       "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "米国人のフィットネス支出は600億ドル規模",
-      "summary_ja": "健康・フィットネス協会の調査で、2026年に運動目標のため約600億ドルが支出される見通しと分かりました。ジムや関連用品への需要の強さを示します。",
-      "source": "Empower",
-      "url": "https://www.empower.com/the-currency/life/fitness-spending-news",
-      "score": 50,
-      "commercial_score": 70,
-      "product_keywords": [
-        "フィットネスバンド",
-        "プロテイン",
-        "ダンベル"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "NHS患者向け減量注射を薬局で処方へ",
-      "summary_ja": "NHSの患者が短い相談のみで薬局から減量注射を受けられる仕組みが、肥満対策の一環として報じられています。アクセス改善が狙いです。",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/weight-loss-jabs-pharmacies-nhs-203651408.html",
-      "score": 50,
-      "commercial_score": 25,
-      "product_keywords": [
-        "ダイエット サプリ",
-        "体重計"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "抵抗性デンプンがSNSで血糖管理の話題に",
-      "summary_ja": "抵抗性デンプンが血糖コントロールや減量に役立つとしてSNSで話題です。一方で過信を戒める声もあり、健康食品トレンドとして注目されています。",
-      "source": "新浪ニュース",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pfz8.html",
-      "score": 50,
-      "commercial_score": 55,
-      "product_keywords": [
-        "レジスタントスターチ",
-        "低糖質 食品",
-        "食物繊維 サプリ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
     }
   ]
 }

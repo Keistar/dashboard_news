@@ -1,0 +1,43 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
+  "stories": [
+    {
+      "title_ja": "インフルエンザ、全都道府県で流行入りの目安を超過",
+      "summary_ja": "9月21〜27日の定点当たり報告数は7.17人。4県で注意報、沖縄は警報が出ている。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "マスク",
+        "インフルエンザ 予防"
+      ]
+    },
+    {
+      "title_ja": "上野厚労相が10月2日の閣議後会見",
+      "summary_ja": "診療報酬改定、出産一時金、後発医薬品の使用促進、風しん、難病対策などが議題となった。",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76538.html",
+      "score": 60
+    },
+    {
+      "title_ja": "インフルが夏から急増、過去2番目の早さ",
+      "summary_ja": "厚労省のデータでは8月に流行期入りし、過去2番目の早さとなった。",
+      "source": "nippon.com",
+      "url": "https://nippon.com/ja/japan-data/h02917",
+      "score": 65
+    },
+    {
+      "title_ja": "早期流行のインフルに警戒を求める社説",
+      "summary_ja": "日経が早い流行入りを受けて警戒を促す社説を掲載した。",
+      "source": "日本経済新聞",
+      "url": "https://nikkei.com/article/DGXZQODK296OA0Z20C26A9000000",
+      "score": 55
+    }
+  ]
+}

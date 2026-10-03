@@ -1,0 +1,73 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
+  "trends": [
+    {
+      "keyword": "Dodgers vs Cubs",
+      "reason_ja": "MLBドジャース対カブスの試合で検索が増えた。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "Dodgers jersey",
+        "baseball cap"
+      ],
+      "product_keywords_ja": [
+        "ドジャース ユニフォーム",
+        "ドジャース キャップ"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索。MLBの対戦カードが複数上位に入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ]
+    },
+    {
+      "keyword": "Patrick Kane",
+      "reason_ja": "アイスホッケー選手パトリック・ケインの検索が増えた。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "hockey jersey"
+      ],
+      "product_keywords_ja": [
+        "NHL ユニフォーム"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索に選手名が入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ]
+    },
+    {
+      "keyword": "Walgreens store closings 2026",
+      "reason_ja": "ウォルグリーンの閉店店舗に関する検索が増えた。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google トレンド 米国の急上昇",
+          "summary_ja": "米国の急上昇検索にウォルグリーン閉店の話題が入った。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+        }
+      ]
+    }
+  ]
+}
