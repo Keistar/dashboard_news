@@ -30,6 +30,21 @@
 | `docs/index.html` | 生成されたダッシュボード本体（GitHub Pagesで公開） |
 | `requirements.txt` | 必要なPythonパッケージ（`anthropic` SDK） |
 
+## ローカルで毎朝実行する（RSS方式）
+
+Web検索はサイト側のクローラー拒否で記事が取れないため、RSSから記事を集める方式です。
+`scripts/feeds.json` にジャンル×国のRSSを、`scripts/rss_news.py` に取得〜日本語化〜生成を実装しています。
+
+```bash
+pip install -r requirements.txt
+export ANTHROPIC_API_KEY=...            # 選定と日本語化に使用
+python scripts/rss_news.py --genre pet --dry-run   # 取得件数だけ確認（APIは使わない）
+scripts/run_local.sh                    # 全ジャンルを生成して main に push
+```
+
+毎朝6:00に動かすには cron に `0 6 * * * ANTHROPIC_API_KEY=... /path/to/dashboard_news/scripts/run_local.sh >> ~/dashboard_news.log 2>&1` を登録します（Windows はタスクスケジューラ）。PCが起動している必要があります。
+`.github/workflows/daily-news.yml` は手動実行用です（schedule を足せばActionsでも定期実行できます）。
+
 ## ジャンル
 
 対象国は全ジャンル共通で **日本・アメリカ・イギリス・中国（jp / us / gb / cn）** です。
