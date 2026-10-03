@@ -1,0 +1,42 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
+  "stories": [
+    {
+      "title_ja": "FEMA、オレゴン州の病院の津波対策に1,400万ドル",
+      "summary_ja": "オレゴン州アストリアの病院が津波・地震対策工事を終えられるよう、FEMAが約1,400万ドルを拠出した。",
+      "source": "OPB",
+      "url": "https://opb.org/article/2026/09/29/fema-astoria-hospital-funding-tsunami-upgrade",
+      "score": 62
+    },
+    {
+      "title_ja": "GAO報告、ハザード軽減事業の審査が長すぎると指摘",
+      "summary_ja": "米政府監査院の報告で、災害軽減事業の審査過程が長く、多額の資金が未執行のままだと分かった。",
+      "source": "ENR",
+      "url": "https://www.enr.com/articles/63742-gao-report-finds-too-lengthy-review-process-for-hazard-mitigation-projects-across-us",
+      "score": 58
+    },
+    {
+      "title_ja": "FEMAがハリケーン対策の資料を公開",
+      "summary_ja": "ハリケーン活動の最盛期に向け、FEMAが緊急対応担当者向けの2026年版準備資料を紹介している。",
+      "source": "FEMA",
+      "url": "https://www.fema.gov/blog/2026-hurricane-readiness-resources-every-emergency-manager-needs",
+      "score": 52,
+      "commercial_score": 50,
+      "product_keywords": [
+        "非常用持ち出し袋"
+      ]
+    },
+    {
+      "title_ja": "連邦官報、災害支援金額の調整を告示",
+      "summary_ja": "連邦官報が9月29日付で災害助成金額の調整通知を掲載した。",
+      "source": "Federal Register",
+      "url": "https://federalregister.gov/documents/2026/09/29/2026-19898/notice-of-adjustment-of-disaster-grant-amounts",
+      "score": 40
+    }
+  ]
+}

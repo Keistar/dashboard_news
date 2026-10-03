@@ -1,0 +1,36 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
+  "stories": [
+    {
+      "title_ja": "気象庁、秋は雨・風・嵐と洪水の可能性高と警告",
+      "summary_ja": "エルニーニョの影響で、秋は雨や強風、嵐、洪水の可能性が高いと英気象庁が警告した。10〜12月が多雨になる確率は平年の2倍。",
+      "source": "LBC",
+      "url": "https://www.lbc.co.uk/article/weather-rain-uk-flooding-autumn-5HjdjFy_2/",
+      "score": 66,
+      "commercial_score": 50,
+      "product_keywords": [
+        "防水バッグ",
+        "土のう"
+      ]
+    },
+    {
+      "title_ja": "エルニーニョで英国の嵐と洪水リスク上昇",
+      "summary_ja": "英気象庁が、世界的な気象パターンの乱れにより今秋の嵐・洪水リスクが高まると発表した。",
+      "source": "BritBrief",
+      "url": "https://britbrief.co.uk/environment/climate/met-office-el-nio-raises-uk-storm-and-flood-risk-this-autumn.html",
+      "score": 60
+    },
+    {
+      "title_ja": "イングランドの洪水リスク確認サービス",
+      "summary_ja": "今後5日間のイングランドの洪水リスクはおおむね極めて低いが、カンブリアでは局地的な表面水氾濫の可能性がある。",
+      "source": "GOV.UK",
+      "url": "https://check-for-flooding.service.gov.uk/",
+      "score": 48
+    }
+  ]
+}

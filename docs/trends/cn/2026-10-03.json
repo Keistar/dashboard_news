@@ -1,0 +1,141 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
+  "trends": [
+    {
+      "keyword": "国庆旅游",
+      "reason_ja": "国慶節連休で観光地が混雑し、旅行関連の話題が続いた。",
+      "genre": "outdoor",
+      "commercial_score": 60,
+      "product_keywords": [
+        "travel backpack",
+        "portable charger"
+      ],
+      "product_keywords_ja": [
+        "旅行 リュック",
+        "モバイルバッテリー"
+      ],
+      "trend_source": "新浪旅游ホットトピック",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "新浪の旅行ホットトピック速報",
+          "summary_ja": "国慶節連休中の観光客数や人気スポットを時間ごとに紹介する速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjto.html"
+        },
+        {
+          "title_ja": "新浪の旅行ホットトピック速報（午後）",
+          "summary_ja": "上海や北京などの人気観光地の混雑状況を伝える速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkla.html"
+        }
+      ]
+    },
+    {
+      "keyword": "全世界都知道中国人放假了",
+      "reason_ja": "国慶節連休で世界中に中国人観光客が増えたという話題が拡散した。",
+      "genre": "outdoor",
+      "commercial_score": 45,
+      "product_keywords": [
+        "travel adapter",
+        "luggage"
+      ],
+      "product_keywords_ja": [
+        "海外旅行 変換プラグ",
+        "スーツケース"
+      ],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の旅行ホットトピック速報（朝）",
+          "summary_ja": "国慶節連休の朝の旅行関連の話題をまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjee.html"
+        }
+      ]
+    },
+    {
+      "keyword": "JDG 1:2 T1",
+      "reason_ja": "eスポーツ試合でJDGがT1に1対2で敗れ話題になった。",
+      "genre": "gadget",
+      "commercial_score": 40,
+      "product_keywords": [
+        "gaming mouse",
+        "gaming keyboard"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングマウス",
+        "ゲーミングキーボード"
+      ],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の音楽ホットトピック速報",
+          "summary_ja": "10月2日夕方の話題をまとめた新浪の速報記事。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pl74.html"
+        }
+      ]
+    },
+    {
+      "keyword": "四川广元国庆烟花秀",
+      "reason_ja": "四川省広元市の国慶節花火ショーが迫力あると話題になった。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の文旅ホットトピック速報",
+          "summary_ja": "各地の文化観光の話題を時間ごとにまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkyw.html"
+        }
+      ]
+    },
+    {
+      "keyword": "国足0:5不敌巴勒斯坦",
+      "reason_ja": "サッカー中国代表がパレスチナに0対5で敗れ、抖音で話題になった。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "新浪の国慶節ホットトピック速報",
+          "summary_ja": "国慶節期間中の10月2日の話題を時間ごとにまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908plvc.html"
+        }
+      ]
+    },
+    {
+      "keyword": "秋粮收获进度过三成",
+      "reason_ja": "中国の秋の穀物収穫が3割を超えたと伝えられた。",
+      "genre": "food",
+      "commercial_score": 15,
+      "product_keywords": [],
+      "product_keywords_ja": [],
+      "trend_source": "抖音ホットリスト",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "新浪の文旅ホットトピック速報（深夜）",
+          "summary_ja": "10月2日0時時点の話題をまとめた速報。",
+          "source": "新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pi8i.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T16:09:25+09:00",
+  "stories": [
+    {
+      "title_ja": "イーライリリーのFoundayoで糖尿病リスク57%低下の予測",
+      "summary_ja": "ATTAIN-1の事後解析で、最高用量群は10年の2型糖尿病リスクがプラセボより57%低いと予測された。実際の発症数の比較ではない。",
+      "source": "inkl",
+      "url": "https://www.inkl.com/news/lillys-foundayo-pill-linked-to-57-lower-predicted-diabetes-risk-in-attain-1-modeling-but-no-cases-were-counted",
+      "score": 72,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "FDAがワクチン諮問委を開催、南半球インフル株を選定",
+      "summary_ja": "10月1日にVRBPACが2027年南半球シーズンのインフルエンザワクチン株について協議した。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
+      "score": 62
+    },
+    {
+      "title_ja": "ACSMが2026年フィットネス動向、1位はウェアラブル",
+      "summary_ja": "高齢者向けプログラム、体重管理運動、モバイルアプリが続く。GLP-1薬の普及も背景にある。",
+      "source": "Newswise",
+      "url": "https://www.newswise.com/articles/the-future-of-fitness-acsm-announces-top-trends-for-2026",
+      "score": 50,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スマートウォッチ",
+        "活動量計"
+      ]
+    },
+    {
+      "title_ja": "速く歩く、多く歩くほど長生き、英国6.4万人調査",
+      "summary_ja": "英国の成人64,743人のデータで、歩く距離または速さが長寿と関連した。",
+      "source": "Harvard Health",
+      "url": "https://health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ウォーキングシューズ"
+      ]
+    }
+  ]
+}
