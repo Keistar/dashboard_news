@@ -1,8 +1,7 @@
 name: Daily News (RSS)
 
 on:
-  schedule:
-    - cron: '0 21 * * *'   # 06:00 JST
+  # 定期実行はローカルPCで行う（scripts/run_local.sh）。自動化したい場合はここに schedule を追加する。
   workflow_dispatch: {}
 
 permissions:
