@@ -1,0 +1,57 @@
+{
+  "_comment": "genre -> country -> RSS/Atom URLs. 'gnews:' entries are Google News RSS search queries (language/region set per country in rss_news.py). Dead feeds are skipped at run time.",
+  "ai": {
+    "jp": ["https://www.itmedia.co.jp/news/subtop/aiplus/index.xml", "https://xtech.nikkei.com/rss/index.rdf", "gnews:生成AI OR 人工知能"],
+    "us": ["https://techcrunch.com/category/artificial-intelligence/feed/", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "gnews:artificial intelligence OpenAI OR Anthropic OR Google"],
+    "gb": ["https://feeds.bbci.co.uk/news/technology/rss.xml", "https://www.theguardian.com/technology/artificialintelligence/rss", "gnews:artificial intelligence UK"],
+    "cn": ["https://36kr.com/feed", "https://www.ithome.com/rss/", "gnews:人工智能 大模型"]
+  },
+  "gadget": {
+    "jp": ["https://www.itmedia.co.jp/mobile/subtop/index.xml", "https://gadget.itmedia.co.jp/gg/subtop/index.xml", "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf", "gnews:ガジェット 新製品 発売"],
+    "us": ["https://www.theverge.com/rss/index.xml", "https://www.engadget.com/rss.xml", "gnews:gadget launch review"],
+    "gb": ["https://www.techradar.com/rss", "https://feeds.bbci.co.uk/news/technology/rss.xml", "gnews:gadget launch UK"],
+    "cn": ["https://www.ithome.com/rss/", "https://36kr.com/feed", "gnews:数码 新品 发布"]
+  },
+  "kosodate": {
+    "jp": ["gnews:子育て 育児 ニュース", "gnews:保育 こども家庭庁", "https://prtimes.jp/index.rdf"],
+    "us": ["gnews:parenting children family news", "gnews:child care policy"],
+    "gb": ["https://feeds.bbci.co.uk/news/education/rss.xml", "gnews:parenting childcare UK"],
+    "cn": ["gnews:育儿 托育 政策", "gnews:母婴 新品"]
+  },
+  "beauty": {
+    "jp": ["https://prtimes.jp/index.rdf", "gnews:コスメ 新発売 美容", "gnews:スキンケア 新製品"],
+    "us": ["gnews:beauty skincare launch", "gnews:cosmetics news"],
+    "gb": ["gnews:beauty skincare launch UK", "gnews:cosmetics news UK"],
+    "cn": ["gnews:美妆 护肤 新品", "gnews:化妆品 监管"]
+  },
+  "food": {
+    "jp": ["https://prtimes.jp/index.rdf", "gnews:食品 新商品 発売", "gnews:グルメ ニュース"],
+    "us": ["gnews:food industry news recall OR launch", "gnews:restaurant food trends"],
+    "gb": ["gnews:food industry news UK", "gnews:food standards agency"],
+    "cn": ["gnews:食品 新品 发布", "gnews:餐饮 食品安全"]
+  },
+  "health": {
+    "jp": ["gnews:健康 フィットネス ニュース", "gnews:厚生労働省 健康"],
+    "us": ["gnews:health fitness study", "gnews:FDA health news"],
+    "gb": ["https://feeds.bbci.co.uk/news/health/rss.xml", "https://www.theguardian.com/society/health/rss"],
+    "cn": ["gnews:健康 健身 研究", "gnews:国家卫健委 健康"]
+  },
+  "pet": {
+    "jp": ["https://prtimes.jp/index.rdf", "gnews:ペット 犬 猫 新商品", "gnews:ペットフード ニュース"],
+    "us": ["gnews:pet industry news dog cat", "gnews:pet food recall OR launch"],
+    "gb": ["gnews:pet dog cat news UK", "gnews:RSPCA OR Dogs Trust"],
+    "cn": ["gnews:宠物 猫 狗 新品", "gnews:宠物食品 行业"]
+  },
+  "outdoor": {
+    "jp": ["gnews:アウトドア キャンプ 新製品", "https://prtimes.jp/index.rdf"],
+    "us": ["gnews:outdoor gear camping hiking", "gnews:REI OR Patagonia OR Yeti outdoor"],
+    "gb": ["gnews:outdoor gear camping hiking UK", "gnews:national parks UK walking"],
+    "cn": ["gnews:户外 露营 装备", "gnews:徒步 户外 品牌"]
+  },
+  "bousai": {
+    "jp": ["https://www3.nhk.or.jp/rss/news/cat6.xml", "gnews:防災 地震 台風 備え", "gnews:防災グッズ"],
+    "us": ["gnews:disaster preparedness hurricane OR earthquake", "gnews:FEMA emergency"],
+    "gb": ["https://feeds.bbci.co.uk/news/uk/rss.xml", "gnews:flood warning UK Environment Agency"],
+    "cn": ["gnews:应急管理 防灾 减灾", "gnews:地震 台风 预警"]
+  }
+}
