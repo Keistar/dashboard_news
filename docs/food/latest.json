@@ -1,174 +1,245 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "10月1日の米食品リコール情報",
-      "summary_ja": "Listeria混入の可能性でパスタや燻製シーフードがリコールされた。ニューヨーク州では生乳にも注意喚起が出た。",
-      "source": "eFoodAlert",
-      "url": "https://efoodalert.com/2026/10/01/recalls-and-alerts-october-1-2026/",
-      "score": 72,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "10月1日、食品3033品目が値上げ",
-      "summary_ja": "酒類・飲料が最多で、しょうゆなど調味料も5〜25%値上げ。酒税一本化でビールは減税、チューハイは増税となる。",
-      "source": "文系エンジニアの日記",
-      "url": "https://vegcale.com/2026/09/19/food-price-hike-october-2026/",
-      "score": 70,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ビール 酒税",
-        "しょうゆ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "アルファルファ・スプラウトで大腸菌とサルモネラが同時流行",
-      "summary_ja": "複数の病原体による食中毒がCDC調査で判明。Everything Sproutsなどの商品が対象で、回収が出ている。",
-      "source": "Newsweek",
-      "url": "https://newsweek.com/map-sprouts-recalled-after-rare-double-outbreak-hits-15-states-12355596",
-      "score": 68,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "CDCがスプラウト関連の食中毒調査を更新",
-      "summary_ja": "アルファルファ・スプラウト由来の大腸菌とサルモネラの流行について、CDCが調査状況を更新している。",
-      "source": "CDC",
-      "url": "https://cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/investigation.html",
-      "score": 66,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "セブン-イレブン10月前半の新作、明太もちゅチーズまん",
-      "summary_ja": "10月6日に190円で発売。大学芋風ラテや札幌すみれ監修の塩ラーメンなど全11品を紹介している。",
-      "source": "いこーよ",
-      "url": "https://report.iko-yo.net/articles/34052",
-      "score": 65,
-      "commercial_score": 70,
-      "product_keywords": [
-        "セブンイレブン 新商品"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ファミマ10月前半の新作、ハーゲンダッツ パンプキン",
-      "summary_ja": "10月6日発売のファミマ限定「パパパパンプキンタルト」や、20周年のオトナ★ファミチキ、miffyコラボを紹介。",
-      "source": "いこーよ",
-      "url": "https://report.iko-yo.net/articles/34053",
-      "score": 65,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ハーゲンダッツ パンプキン",
-        "ファミチキ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "広東省の消費者保護条例、10月1日施行で出前の封緘を規定",
-      "summary_ja": "2026年7月31日に可決され10月1日に施行された。出前の食品安全面の封かんなどを定める。",
-      "source": "21经济网",
-      "url": "https://www.21jingji.com/article/20261003/herald/cf9c8d9b4639e248de424b3d8aff4eb3.html",
-      "score": 65,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "50項目の食品安全国家標準を新たに公布",
-      "summary_ja": "国家衛生健康委と市場監督総局が2026年第6号公告で公布。食品安全の全工程管理を細かく定める。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701915.shtml",
-      "score": 65,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Tesco、無添加亜硝酸のベーコン・ハム新シリーズ",
-      "summary_ja": "9月24日付の業界まとめで、Tescoの亜硝酸無添加ベーコン・ハム発売、Morrisonsの好調などが報じられた。",
-      "source": "IGD",
-      "url": "https://www.igd.com/articles/uk-roundup-loyalty-and-store-updates-asda-growth/73986",
-      "score": 58,
-      "commercial_score": 55,
-      "product_keywords": [
-        "亜硝酸無添加 ベーコン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ローソンストア100が栗・さつまいもの秋スイーツ",
-      "summary_ja": "10月7日から税込108円〜で秋の味覚パンとスイーツを順次発売し、28日には大きな麻婆肉まんも登場する。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000590.000025635.html",
-      "score": 55,
+      "title_ja": "10月の食品値上げは3,000品目超",
+      "summary_ja": "帝国データバンクによると、2か月連続で月間3,000品目を超えた。酒類・飲料が最多で、原油高や円安が背景だ。",
+      "source": "マカロニ",
+      "url": "https://macaro-ni.jp/178020",
+      "score": 80,
       "commercial_score": 65,
       "product_keywords": [
-        "ローソンストア100 栗 さつまいも"
+        "値上げ",
+        "酒類"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "AARPがスプラウト食中毒の注意点を解説",
-      "summary_ja": "高齢者を含む消費者向けに、該当スプラウトの廃棄や症状への注意を呼びかけている。",
-      "source": "AARP",
-      "url": "https://www.aarp.org/health/conditions-treatments/alfalfa-sprout-outbreak-august-2026/",
-      "score": 55,
+      "title_ja": "10月1日発売の食品新製品まとめ",
+      "summary_ja": "味の素冷凍食品の黄金炒飯や、日本盛とキリンの機能性表示食品和源酵素などが並ぶ。日本食糧新聞が一覧で紹介している。",
+      "source": "日本食糧新聞",
+      "url": "https://news.nissyoku.co.jp/foodsnews/2026/10/01",
+      "score": 72,
+      "commercial_score": 90,
+      "product_keywords": [
+        "黄金炒飯",
+        "和源酵素"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ハーシーとマース、2026年ハロウィン菓子",
+      "summary_ja": "ハーシーは20種超の新作でキットカットの魔女型などを出す。マースもSkittles POP'dを投入する。",
+      "source": "Sporked",
+      "url": "https://sporked.com/article/new-halloween-candy-2026/",
+      "score": 70,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Mars",
+        "Skittles",
+        "ハロウィン"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中秋・国慶の連休向け食品安全の消費提示",
-      "summary_ja": "上海市が9月25日付で月餅購入や保存などの注意点を示した。",
-      "source": "上海市政府",
-      "url": "https://www.shanghai.gov.cn/nw17239/20260926/ea6dfc4412d342fb8bb05896a2e1de7e.html",
-      "score": 55,
+      "title_ja": "USDA、外食費の上昇見通しを引き上げ",
+      "summary_ja": "食料品の上昇率は1.7%に鈍化する一方、外食は4.6%上昇の予測だ。",
+      "source": "AgBull",
+      "url": "https://www.agbull.com/usda-revises-food-price-outlook-slowing-grocery-inflation-but-lifting-restaurant-costs/",
+      "score": 68,
+      "commercial_score": 50,
+      "product_keywords": [
+        "食品価格",
+        "外食"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "各スーパーの2026年クリスマス商品が出そろう",
+      "summary_ja": "パーティーフード、ヌジャ入りピッグスなど、シェア向けの高級路線が目立つ。",
+      "source": "Grocery Gazette",
+      "url": "https://www.grocerygazette.co.uk/?p=119671",
+      "score": 66,
+      "commercial_score": 88,
+      "product_keywords": [
+        "クリスマス",
+        "パーティーフード"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Aldi、毎週1店舗ペースで新規出店",
+      "summary_ja": "Rayleighなどを含む1,500店体制に向け、2026年に3.7億ポンドを投じる。",
+      "source": "Shopappy",
+      "url": "https://shopappy.com/retail/supermarkets-grocers/",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "Aldi"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "国慶節の外食消費、新品と限定セットが活発",
+      "summary_ja": "海底撈などが祝日セットや新メニューを投入し、食材の備蓄を3割以上増やした。",
+      "source": "北京新聞",
+      "url": "https://www.bjnews.com.cn/detail/1760089154129618.html",
+      "score": 65,
+      "commercial_score": 80,
+      "product_keywords": [
+        "海底撈",
+        "祝日セット"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "国務院が中秋・国慶期間の食品安全を指示",
-      "summary_ja": "国務院食安弁が月餅など節句食品の線上線下の監督強化を求めた。",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260920/49753092.html",
-      "score": 55,
+      "title_ja": "ハーシー2026ハロウィン、塩味スナックにも進出",
+      "summary_ja": "Reese's Sweet & Saltyなど過去最大の品ぞろえとなる。",
+      "source": "Haunted Attraction Network",
+      "url": "https://hauntedattractionnetwork.com/hershey-halloween-candy-2026/",
+      "score": 64,
+      "commercial_score": 86,
+      "product_keywords": [
+        "Hershey",
+        "Reese's"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国の食品インフレ、8月は1.3%",
+      "summary_ja": "Sainsbury'sのトップは2026年も低下が続くと見通す。次回CPIは10月21日だ。",
+      "source": "Food Market",
+      "url": "https://www.foodmarket.com/News/A/1330265/UK-Food-Inflation-to-Continue-to-Fall-in-2026-Says-Sainsburys-Boss",
+      "score": 62,
+      "commercial_score": 45,
+      "product_keywords": [
+        "食品インフレ",
+        "Sainsbury's"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ローソンから抹茶ガトーショコラなど新スイーツ",
+      "summary_ja": "お抹茶ガトーショコラ171円とマンゴーレアチーズケーキ257円が10月4日以降順次発売される。",
+      "source": "電撃オンライン",
+      "url": "https://dengekionline.com/articles/155225/",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ローソン",
+        "ガトーショコラ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "国慶期間はコーヒーが飲食の検索ワードに",
+      "summary_ja": "沿海部では海鮮食べ歩き旅行も流行している。美食市場も盛況だ。",
+      "source": "凤凰网",
+      "url": "https://news.ifeng.com/c/8dOs0ykDOSg",
+      "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "コーヒー",
+        "海鮮"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "英小売の決算と健康投資の動向まとめ",
-      "summary_ja": "IGDが英国の小売決算と食品の健康関連投資をまとめた。",
-      "source": "IGD",
-      "url": "https://www.igd.com/articles/uk-roundup-retailer-results-and-health-investment/74137",
+      "title_ja": "World of Sweets、ハロウィン&クリスマス新商品",
+      "summary_ja": "Bondsなどのブランドで新製品を投入し、PEZやThe Traitorsの限定品も展開する。",
+      "source": "Grocery Gazette",
+      "url": "https://www.grocerygazette.co.uk/2026/08/24/world-of-sweets-unveils-2026-halloween-and-christmas-range/",
+      "score": 58,
+      "commercial_score": 85,
+      "product_keywords": [
+        "World of Sweets",
+        "PEZ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "各地で美食イベントが相次ぎ開催",
+      "summary_ja": "山西汾陽の中国菜芸術祭や寧夏呉忠の早茶文化祭などが開かれ、外食消費を後押しする。",
+      "source": "凤凰网",
+      "url": "https://news.ifeng.com/c/8nJl8ZaQEol",
+      "score": 58,
+      "commercial_score": 70,
+      "product_keywords": [
+        "美食節",
+        "早茶"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "M&Sカフェ、秋の新メニュー",
+      "summary_ja": "シナモンバンやスパイスラテ、ヨークシャープディングラップが復活する。",
+      "source": "Yorkshire Evening Post",
+      "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/ms-cafe-unveils-its-new-autumn-menu-additions-including-epic-jacket-potatoes-and-best-ever-toast-3853803",
+      "score": 56,
+      "commercial_score": 84,
+      "product_keywords": [
+        "M&S",
+        "スパイスラテ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "コンビニ各社の今週の新商品",
+      "summary_ja": "セブンやファミマも弁当やスイーツを投入している。ネット上のグルメ記事で話題になっている。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/fav/articles/3921126/",
+      "score": 55,
+      "commercial_score": 82,
+      "product_keywords": [
+        "コンビニ",
+        "新商品"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "リーシズ・サンデーカップが注目新商品に",
+      "summary_ja": "Supermarket Newsが注目すべきCPG新商品として紹介した。",
+      "source": "Supermarket News",
+      "url": "https://www.supermarketnews.com/new-cpg-products/sn-products-to-watch-reese-s-sundae-cups",
+      "score": 55,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Reese's",
+        "サンデーカップ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "国慶・中秋のサービス消費拡大策",
+      "summary_ja": "各地が個性的で高品質なサービス消費の供給を拡大し、美食市場が活況だ。",
+      "source": "中国政府网",
+      "url": "https://www.gov.cn/yaowen/shipin/202510/content_7043494.htm",
       "score": 52,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英国の不健康食品広告規制の解説",
-      "summary_ja": "2026年1月から高脂肪・高塩分・高糖質食品のテレビ広告は午後9時前、ネット有料広告は終日禁止となった。業界の対応を解説している。",
-      "source": "Unilever Food Solutions",
-      "url": "https://www.unileverfoodsolutions.co.uk/channels/fast-food-restaurants/business-hub/ban-on-fast-food-tv-advertising.html",
-      "score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英国不健康食品広告禁止の影響を解説",
-      "summary_ja": "ブランドやクリエイター向けに、2026年の広告規制で注意すべき点をまとめている。",
-      "source": "LegalLens",
-      "url": "https://www.legallens.co.uk/blog/uk-junk-food-ad-ban-2026",
-      "score": 45,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "commercial_score": 55,
+      "product_keywords": [
+        "サービス消費"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

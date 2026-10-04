@@ -1,0 +1,153 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
+  "trends": [
+    {
+      "keyword": "Pixel 11 vs iPhone 18",
+      "reason_ja": "新型スマホの比較検討が活発で、買い替え需要が高まっている。",
+      "genre": "gadget",
+      "commercial_score": 78,
+      "product_keywords": [
+        "iPhone 18 Pro",
+        "Pixel 11 Pro"
+      ],
+      "product_keywords_ja": [
+        "iPhone 18 Pro",
+        "Pixel 11 Pro"
+      ],
+      "trend_source": "Digit等",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "iPhone 18とPixel 11の比較",
+          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
+          "source": "Digit",
+          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
+        },
+        {
+          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
+          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
+        }
+      ]
+    },
+    {
+      "keyword": "Galaxy S26 FE",
+      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
+      "genre": "gadget",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Galaxy S26 FE"
+      ],
+      "product_keywords_ja": [
+        "Galaxy S26 FE"
+      ],
+      "trend_source": "Brut",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年後半の新型スマホ発売一覧",
+          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
+          "source": "Brut",
+          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
+        }
+      ]
+    },
+    {
+      "keyword": "ChatGPT",
+      "reason_ja": "2026年も検索が伸びているAIサービスで、関連ツールへの関心が高い。",
+      "genre": "ai",
+      "commercial_score": 65,
+      "product_keywords": [
+        "AI notebook",
+        "ChatGPT"
+      ],
+      "product_keywords_ja": [
+        "AI ノート",
+        "生成AI 本"
+      ],
+      "trend_source": "bloggerspassion",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "2026年の最多検索キーワード",
+          "summary_ja": "YouTubeが首位で、ChatGPTや旅行関連の検索も伸びたとする記事。",
+          "source": "Bloggers Passion",
+          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+        }
+      ]
+    },
+    {
+      "keyword": "Pumpkin head photoshoot",
+      "reason_ja": "ハロウィンに向けパンプキンヘッド撮影がTikTokで流行している。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "pumpkin mask",
+        "Halloween costume"
+      ],
+      "product_keywords_ja": [
+        "ハロウィン 仮装",
+        "かぼちゃ マスク"
+      ],
+      "trend_source": "TikTok",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "今月のTikTokトレンド",
+          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
+          "source": "Ypulse",
+          "url": "https://www.ypulse.com/?p=70637"
+        }
+      ]
+    },
+    {
+      "keyword": "GhostfaceCult",
+      "reason_ja": "Scream由来のGhostface風アイコンがTikTokで24,900万回再生。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "Ghostface mask"
+      ],
+      "product_keywords_ja": [
+        "ゴーストフェイス マスク"
+      ],
+      "trend_source": "TikTok",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "今月のTikTokトレンド",
+          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
+          "source": "Ypulse",
+          "url": "https://www.ypulse.com/?p=70637"
+        }
+      ]
+    },
+    {
+      "keyword": "Taylor Swift",
+      "reason_ja": "7月のTravis Kelceとの結婚後も、最多検索の女性アーティストである。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "Taylor Swift album vinyl"
+      ],
+      "product_keywords_ja": [
+        "テイラー・スウィフト レコード"
+      ],
+      "trend_source": "meetglimpse等",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "最も検索されている人物",
+          "summary_ja": "Messi、Ronaldoなどに並び、Taylor Swiftが最多検索の女性との記載。",
+          "source": "Bloggers Passion",
+          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+        }
+      ]
+    }
+  ]
+}

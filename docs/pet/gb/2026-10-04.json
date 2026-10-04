@@ -1,0 +1,34 @@
+{
+  "genre": "pet",
+  "genre_label_ja": "ペット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "英政府のペット年間100ポンド課金説は誤り",
+      "summary_ja": "10月から犬猫に年100ポンドの料金が課されるという主張を、ファクトチェック団体が誤りと結論づけた。",
+      "source": "Full Fact",
+      "url": "https://dev.fullfact.org/economy/government-not-introducing-100-dog-cat-fee-october/",
+      "score": 60,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ペット保険",
+        "ペット用品"
+      ]
+    },
+    {
+      "title_ja": "英ペット業界ニュース一覧",
+      "summary_ja": "英国のペット関連の最新記事を掲載する専門メディアのタグページ。動物福祉や業界動向を扱う。",
+      "source": "Pets Magazine",
+      "url": "https://www.petsmag.co.uk/tag/pets/",
+      "score": 40,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ペットフード",
+        "ペットケア"
+      ]
+    }
+  ]
+}

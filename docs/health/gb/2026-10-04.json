@@ -1,0 +1,57 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "NHSイングランド、第1四半期に1.03億ポンドの超過",
+      "summary_ja": "2026/27年度の累計で計画を上回る支出となった。",
+      "source": "HFMA",
+      "url": "https://www.hfma.org.uk/news-alerts/mackey-next-steps-planning",
+      "score": 62,
+      "commercial_score": 35,
+      "product_keywords": [
+        "NHS",
+        "財政"
+      ]
+    },
+    {
+      "title_ja": "ウェールズNHSの活動・実績データ公表",
+      "summary_ja": "9月から10月の活動と実績を要約した報告が公表される。",
+      "source": "Welsh Government",
+      "url": "https://www.gov.wales/node/76786",
+      "score": 52,
+      "commercial_score": 30,
+      "product_keywords": [
+        "NHS Wales"
+      ]
+    },
+    {
+      "title_ja": "英国統計局、NHSサービスの利用体験調査",
+      "summary_ja": "イングランドのNHS医療サービスに関する利用者の体験を公表している。",
+      "source": "ONS",
+      "url": "https://cy.ons.gov.uk/releases/experiencesofnhshealthcareservicesinengland10september2026",
+      "score": 56,
+      "commercial_score": 30,
+      "product_keywords": [
+        "NHS",
+        "調査"
+      ]
+    },
+    {
+      "title_ja": "英国の健康に関する2026年の懸念と統計",
+      "summary_ja": "待機リストの長期化で自費医療や民間保険への関心が高まっている。",
+      "source": "WeCovr",
+      "url": "https://wecovr.com/guides/the-state-of-uk-health-2026-concerns-trends-and-statistics/",
+      "score": 50,
+      "commercial_score": 55,
+      "product_keywords": [
+        "民間医療保険",
+        "待機リスト"
+      ]
+    }
+  ]
+}

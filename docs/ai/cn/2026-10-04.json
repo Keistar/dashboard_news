@@ -1,0 +1,62 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "華為Mate 90、小芸が個人エージェントに進化",
+      "summary_ja": "華為は10月1日にMate 90シリーズを発表し、AIアシスタント小芸が先回りして作業する個人専属エージェントになった。鴻蒙7を搭載する。",
+      "source": "快科技（MyDrivers）",
+      "url": "https://news.mydrivers.com/1/1155/1155067.htm",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "華為 Mate 90",
+        "小芸",
+        "鴻蒙7"
+      ]
+    },
+    {
+      "title_ja": "華為Mate 90が端末側30B大規模モデルを搭載",
+      "summary_ja": "麒麟9050 Proを積むMate 90は端末上で30B規模のMoEモデルを動かせる。AIオフライン画像編集などに対応する。",
+      "source": "網易",
+      "url": "https://www.163.com/dy/article/L85LAO3705198CJN.html",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "麒麟9050 Pro",
+        "Mate 90",
+        "端末側AI"
+      ]
+    },
+    {
+      "title_ja": "国慶前後に国内外10超の大規模モデルが登場へ",
+      "summary_ja": "中秋と国慶の連休前後にDeepSeek V4.1 Pro、Qwen4、GLM系など10以上のモデル投入が見込まれると報じられた。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnhax2520156.shtml",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "DeepSeek V4.1",
+        "Qwen4",
+        "GLM"
+      ]
+    },
+    {
+      "title_ja": "千問と智譜が相次ぎオープンソース化 価格競争",
+      "summary_ja": "千問と智譜がモデルを連夜でオープンソース化し、DeepSeekより安い価格を打ち出した。国産モデルの値下げ競争が激しくなっている。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260827A07KNN00",
+      "score": 55,
+      "commercial_score": 35,
+      "product_keywords": [
+        "通義千問",
+        "GLM",
+        "DeepSeek"
+      ]
+    }
+  ]
+}

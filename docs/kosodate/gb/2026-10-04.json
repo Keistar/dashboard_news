@@ -1,0 +1,34 @@
+{
+  "genre": "kosodate",
+  "genre_label_ja": "子育て",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "英政府、週30時間の無償保育を拡大",
+      "summary_ja": "英国政府は共働き世帯向けの週30時間無償保育を拡充し、子ども1人当たり年7,500ポンドの節約になるとしている。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/parents-to-save-thousands-in-childcare-cost-with-new-funding",
+      "score": 50,
+      "commercial_score": 35,
+      "product_keywords": [
+        "無償保育",
+        "保育料"
+      ]
+    },
+    {
+      "title_ja": "英政府、保育の隠れた費用に対策",
+      "summary_ja": "教育大臣が競争・市場庁に書簡を送り、保育施設の隠れた追加費用の是正に動いた。親の7割超が貯金で追加費用を賄っているという。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/new-action-against-hidden-childcare-costs-to-help-families",
+      "score": 48,
+      "commercial_score": 20,
+      "product_keywords": [
+        "保育料",
+        "保育園"
+      ]
+    }
+  ]
+}

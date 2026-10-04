@@ -1,0 +1,34 @@
+{
+  "genre": "pet",
+  "genre_label_ja": "ペット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "ペディグリー缶ドッグフード回収、金属混入の恐れ",
+      "summary_ja": "FDAが一部のペディグリー製ドッグフードの自主回収を発表した。金属片が混入した可能性があり、飼い主は対象品の確認が必要だ。",
+      "source": "WWAY News",
+      "url": "https://wwaytv3.com/news-tags/pets",
+      "score": 55,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ドッグフード",
+        "ペットフード"
+      ]
+    },
+    {
+      "title_ja": "生肉ペットフードにサルモネラ菌の懸念で回収",
+      "summary_ja": "生肉タイプのペットフードがサルモネラ菌の懸念で回収された。購入者は該当ロットを確認し、使用を控えるよう求められている。",
+      "source": "KY3",
+      "url": "https://www.ky3.com/2026/05/09/raw-pet-food-brand-recalled-over-salmonella-concerns/",
+      "score": 45,
+      "commercial_score": 55,
+      "product_keywords": [
+        "生肉フード",
+        "ペットフード"
+      ]
+    }
+  ]
+}

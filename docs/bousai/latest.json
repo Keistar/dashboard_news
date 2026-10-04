@@ -1,153 +1,175 @@
 {
   "genre": "bousai",
   "genre_label_ja": "防災",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
   "stories": [
     {
-      "title_ja": "気象庁、秋は雨・風・嵐と洪水の可能性高と警告",
-      "summary_ja": "エルニーニョの影響で、秋は雨や強風、嵐、洪水の可能性が高いと英気象庁が警告した。10〜12月が多雨になる確率は平年の2倍。",
-      "source": "LBC",
-      "url": "https://www.lbc.co.uk/article/weather-rain-uk-flooding-autumn-5HjdjFy_2/",
-      "score": 66,
-      "commercial_score": 50,
+      "title_ja": "沖縄県が台風26号関連資料を公表",
+      "summary_ja": "沖縄県が9月25日付で台風関連の資料を公開した。南西諸島では大雨や強風への警戒が続いた。",
+      "source": "沖縄県",
+      "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/040/085/20260925shiryo2.pdf",
+      "score": 65,
+      "commercial_score": 40,
       "product_keywords": [
-        "防水バッグ",
-        "土のう"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "キャンピングカーで防災を提案、松戸の防災フェアに出展",
-      "summary_ja": "11月7日の松戸市防災フェアで、キャンピングカーやポータブルシャワー、トイレなど災害時に使えるアウトドア用品を展示する。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000062.000175731.html",
-      "score": 62,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ポータブルトイレ",
-        "ポータブルシャワー"
+        "非常用持ち出し袋",
+        "モバイルバッテリー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "FEMA、オレゴン州の病院の津波対策に1,400万ドル",
-      "summary_ja": "オレゴン州アストリアの病院が津波・地震対策工事を終えられるよう、FEMAが約1,400万ドルを拠出した。",
-      "source": "OPB",
-      "url": "https://opb.org/article/2026/09/29/fema-astoria-hospital-funding-tsunami-upgrade",
-      "score": 62,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "エルニーニョで英国の嵐と洪水リスク上昇",
-      "summary_ja": "英気象庁が、世界的な気象パターンの乱れにより今秋の嵐・洪水リスクが高まると発表した。",
-      "source": "BritBrief",
-      "url": "https://britbrief.co.uk/environment/climate/met-office-el-nio-raises-uk-storm-and-flood-risk-this-autumn.html",
-      "score": 60,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "レベルと色で危険を知らせる新しい防災気象情報",
-      "summary_ja": "警戒レベルと色で危険度を示す新しい防災気象情報の仕組みを、ニュースの解説形式で紹介している。",
+      "title_ja": "新しい防災気象情報、レベルと色で危険を提示",
+      "summary_ja": "危険度をレベルと色で示す新しい防災気象情報の仕組みを解説する記事。避難判断に役立つ。",
       "source": "熊本日日新聞",
       "url": "https://kumanichi.com/articles/2008779",
-      "score": 58,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "GAO報告、ハザード軽減事業の審査が長すぎると指摘",
-      "summary_ja": "米政府監査院の報告で、災害軽減事業の審査過程が長く、多額の資金が未執行のままだと分かった。",
-      "source": "ENR",
-      "url": "https://www.enr.com/articles/63742-gao-report-finds-too-lengthy-review-process-for-hazard-mitigation-projects-across-us",
-      "score": 58,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "応急管理部、2026年上半期の全国自然災害状況を発表",
-      "summary_ja": "上半期は洪水や地質災害、風害、地震などで多くの人が被災し、直接経済損失は414億元に上った。",
-      "source": "中国応急管理部",
-      "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202607/t20260713_676243.shtml",
-      "score": 58,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "10月2日朝に茨城県南部で最大震度2の地震",
-      "summary_ja": "10月2日6時頃、茨城県南部でM3.9、最大震度2の地震が発生した。津波の心配はない。",
-      "source": "tenki.jp",
-      "url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2026/10/02/2026-10-02-06-01-47.html",
       "score": 55,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ハザードマップ",
+        "防災ラジオ"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "FEMAがハリケーン対策の資料を公開",
-      "summary_ja": "ハリケーン活動の最盛期に向け、FEMAが緊急対応担当者向けの2026年版準備資料を紹介している。",
-      "source": "FEMA",
-      "url": "https://www.fema.gov/blog/2026-hurricane-readiness-resources-every-emergency-manager-needs",
-      "score": 52,
+      "title_ja": "FEMAとNOAAがハリケーン対応計画を説明",
+      "summary_ja": "FEMAとNOAAが今季のハリケーンへの備えと対応計画を示した。発電機や水の備蓄も説明された。",
+      "source": "HSToday",
+      "url": "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-noaa-outline-hurricane-season-readiness-and-response-plans/",
+      "score": 55,
       "commercial_score": 50,
       "product_keywords": [
-        "非常用持ち出し袋"
+        "発電機",
+        "非常食",
+        "飲料水"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "暗闇で光る防災グッズが新登場",
-      "summary_ja": "ワッツが防災の日に合わせ、暗闇で光る防災グッズなど日常に取り入れやすい新商品を発売した。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000386.000084599.html",
+      "title_ja": "今季ハリケーンはやや少なめ予測も破壊的リスクは高い",
+      "summary_ja": "NOAAは今季の命名嵐を8から14個と予測し、沿岸住民に早めの備えを呼びかけた。",
+      "source": "NPR／KPCW",
+      "url": "https://www.kpcw.org/npr-news/2026-05-21/forecasters-expect-slightly-fewer-hurricanes-than-usual-this-year-but-the-risk-of-destructive-storms-is-still-high",
       "score": 50,
-      "commercial_score": 85,
+      "commercial_score": 45,
       "product_keywords": [
-        "防災グッズ セット",
-        "蓄光 防災"
+        "防災キット",
+        "ソーラー充電器"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "応急管理部、今年の主汛期は極端気象が多く旱涝並存",
-      "summary_ja": "今年の主汛期は極端な天気・気候事象が多く、干ばつと洪水が併存すると応急管理部が説明した。",
-      "source": "人民網",
-      "url": "http://society.people.com.cn/n1/2026/0623/c1008-40745857.html",
+      "title_ja": "英国は気象の急変に備えが不十分との指摘",
+      "summary_ja": "極端な雨と干ばつが交互に来る気象の急変に英国は備えが足りないとする論説。",
+      "source": "Gulf Today",
+      "url": "https://www.gulftoday.ae/opinion/2026/09/12/britain-isnt-ready-for-weather-whiplash",
       "score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "イングランドの洪水リスク確認サービス",
-      "summary_ja": "今後5日間のイングランドの洪水リスクはおおむね極めて低いが、カンブリアでは局地的な表面水氾濫の可能性がある。",
-      "source": "GOV.UK",
-      "url": "https://check-for-flooding.service.gov.uk/",
-      "score": 48,
+      "commercial_score": 30,
+      "product_keywords": [
+        "防水用品",
+        "止水板"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "応急管理部の公式サイト",
-      "summary_ja": "防災・減災・救援に関する最新の公式発表を掲載している。",
-      "source": "中国応急管理部",
-      "url": "https://www.mem.gov.cn/",
-      "score": 42,
+      "title_ja": "台風第9号で応急管理部が地質災害対応を発動",
+      "summary_ja": "浙江と福建に地質災害の3級応急対応が発動された。台風バウイによる大雨が背景にある。",
+      "source": "光明網",
+      "url": "https://m.gmw.cn/2026-07/10/content_1304528181.htm",
+      "score": 50,
+      "commercial_score": 30,
+      "product_keywords": [
+        "防災用品",
+        "非常食"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "連邦官報、災害支援金額の調整を告示",
-      "summary_ja": "連邦官報が9月29日付で災害助成金額の調整通知を掲載した。",
-      "source": "Federal Register",
-      "url": "https://federalregister.gov/documents/2026/09/29/2026-19898/notice-of-adjustment-of-disaster-grant-amounts",
+      "title_ja": "台風防災チェックリスト",
+      "summary_ja": "台風シーズンに向けた備蓄や避難準備のチェックリストを紹介している。",
+      "source": "vegcale",
+      "url": "https://vegcale.com/2026/06/27/typhoon-bousai-checklist/",
+      "score": 45,
+      "commercial_score": 70,
+      "product_keywords": [
+        "保存食",
+        "防災セット",
+        "懐中電灯"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英国の記録的豪雨と洪水の緊急事態",
+      "summary_ja": "記録的な降雨による洪水被害と緊急対応を伝える記事。",
+      "source": "Karmactive",
+      "url": "https://www.karmactive.com/uk-storm-record-rainfall-flooding-emergency-2026-2/",
+      "score": 45,
+      "commercial_score": 35,
+      "product_keywords": [
+        "土のう",
+        "防水バッグ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英国政府が洪水への備えを呼びかけ",
+      "summary_ja": "政府が市民に洪水への備えを求め、約700万世帯が浸水リスクにあるとされる。",
+      "source": "ThePrint",
+      "url": "https://theprint.in/world/uk-govt-urges-public-to-develop-flood-preparedness/2310572/",
+      "score": 45,
+      "commercial_score": 35,
+      "product_keywords": [
+        "防災キット",
+        "止水板"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "全国防災減災日、江西南昌で主会場行事",
+      "summary_ja": "第18回全国防災減災日の主会場行事が初めて南昌で開かれ、各地で応急演習も行われた。",
+      "source": "科技日報",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/13/content_515842.html",
+      "score": 45,
+      "commercial_score": 30,
+      "product_keywords": [
+        "応急救援セット"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ハリケーン期にFEMAはどう対応するか",
+      "summary_ja": "FEMAの体制を巡る論点を整理したブログ。災害対応能力への懸念が指摘されている。",
+      "source": "UCS",
+      "url": "https://blog.ucs.org/shana-udvardy/its-hurricane-season-how-will-fema-show-up/",
       "score": 40,
+      "commercial_score": 30,
+      "product_keywords": [
+        "非常用品"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "青海玉樹で防災減災日、防汛演習を実施",
+      "summary_ja": "玉樹州で防災減災日の活動と交通救援・防汛の総合演習が行われた。",
+      "source": "科技日報",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/13/content_515842.html",
+      "score": 40,
+      "commercial_score": 25,
+      "product_keywords": [
+        "救援装備"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

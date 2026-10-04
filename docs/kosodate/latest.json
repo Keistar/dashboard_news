@@ -1,211 +1,178 @@
 {
   "genre": "kosodate",
   "genre_label_ja": "子育て",
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T23:31:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "こどもNISA、口座開設の事前申込が開始",
-      "summary_ja": "10月1日から各証券会社でこどもNISAの口座開設の事前申込受付が始まった。0〜17歳が対象で、年間60万円、総額600万円まで非課税で運用できる。",
-      "source": "Impress Watch",
-      "url": "https://watch.impress.co.jp/docs/news/2144840.html",
-      "score": 80,
-      "commercial_score": 35,
-      "product_keywords": [
-        "学資 投資 本",
-        "子育て マネー 本"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "CPSC、乳児用歩行器など複数のベビー用品を警告",
-      "summary_ja": "CPSCは乳児用歩行器が階段で止まらず転落の危険があるとして使用中止を警告した。シェイン販売のおしゃぶり玩具も窒息の恐れでリコールされた。",
-      "source": "CPSC",
-      "url": "https://www.cpsc.gov/Recalls/2026/Uuoeebb-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-BaoD",
+      "title_ja": "札幌の保育園児窒息死から2年 給食事故の防止策",
+      "summary_ja": "札幌の保育園で1歳児が給食を喉に詰まらせ亡くなった事故から2年がたった。母親が検証制度づくりに動き、再発防止を訴えている。",
+      "source": "HTB北海道ニュース（Yahoo!ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/ddb20ca9470bc4cb633e9b4b0849d76fb2423362",
       "score": 78,
-      "commercial_score": 60,
+      "commercial_score": 25,
       "product_keywords": [
-        "ベビーウォーカー 安全",
-        "ベビーゲート"
+        "保育園",
+        "給食",
+        "誤嚥"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "待機児童が9年ぶりに増加、東京都で増",
-      "summary_ja": "こども家庭庁の取りまとめで、全国では利用児童が減る一方、東京都では利用児童数が増え待機児童は1,113人と前年から774人増加した。9年ぶりの増加となる。",
-      "source": "こどもとIT",
-      "url": "https://edu.watch.impress.co.jp/docs/news/2144802.html",
-      "score": 75,
-      "commercial_score": 10,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "国家衛健委、托育総合サービスセンター強化を通知",
-      "summary_ja": "9月15日、国家衛健委は托育総合サービスセンターの整備通知を出し、2030年までに地級市レベルでの全面整備を目指す。全日・半日・時間単位の託児を提供する。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260915A0BZO300",
-      "score": 75,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ベビーバスシートがリコール、溺水の危険",
-      "summary_ja": "Amazonで販売されたベビー用バスシートが不安定で転倒し、脚の開口部から子どもが滑り落ちる恐れがあるとして、CPSCがリコールを発表した。",
-      "source": "CPSC",
-      "url": "https://www.cpsc.gov/Recalls/2026/NFSVLB-Baby-Bath-Seats-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-and-Entrapment-Violate-Mandatory-Standard-for-Infant-Bath-Seats-Sold-on-Amazon-by-NFSVLB",
+      "title_ja": "育児補助金の申請期限を延長 2026年末まで",
+      "summary_ja": "2022年から2024年生まれの乳幼児の初回申請期限が2026年12月31日まで延長された。国家衛生健康委が基準の変更点を解説した。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/c/2026-07-21/doc-iniipxxh8182909.shtml",
       "score": 72,
-      "commercial_score": 55,
+      "commercial_score": 30,
       "product_keywords": [
-        "ベビーバス",
-        "お風呂 チェア ベビー"
+        "育児補助金",
+        "育児手当"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "衛健委主任、地域や企業による託児施設を支援",
-      "summary_ja": "雷海潮主任は、地域や企業による託児施設の設置を支援し、託幼一体化を進める考えを示した。3歳未満の入托率を2030年までに6ポイント引き上げる。",
-      "source": "21经济网",
-      "url": "https://www.21jingji.com/article/20260914/herald/576ebc77e11929cf46ff1854bfb76e36.html",
-      "score": 72,
-      "commercial_score": 10,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "連邦ACF、保育改革パッケージを発表",
-      "summary_ja": "ACFは保育費の負担軽減、利用機会の拡大、親の選択の強化を柱とする保育改革パッケージを発表した。",
-      "source": "ACF",
-      "url": "https://acf.gov/media/press/2026/acf-announces-child-care-reform-package-address-affordability-expand-access-and",
-      "score": 70,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国、16歳未満のSNS禁止を発表",
-      "summary_ja": "スターマー首相は16歳以下のSNS利用を禁止する方針を示した。TikTokやYouTubeなどが対象で、2027年初頭の実施を目指す。",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5858733/u-k-announces-social-media-ban-for-children-under-16",
+      "title_ja": "富山・朝日町 保育園休園に保護者が猛反発",
+      "summary_ja": "朝日町が町立保育園の休園を半年前に告知し、保護者が239人分の反対署名を集めた。町は方針を再検討する。",
+      "source": "チューリップテレビ（Yahoo!ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/b76398bade7e72cc21c49a784afa9bba4bdc9161",
       "score": 70,
       "commercial_score": 15,
       "product_keywords": [
-        "子供 ペアレンタルコントロール",
-        "キッズ スマホ"
+        "保育園",
+        "休園"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "Head Start規則案、賃金要件の撤廃案に意見募集",
-      "summary_ja": "Head Startの賃金・福利厚生要件を撤廃する規則案の意見募集が10月6日に締め切られる。早期教育の質への影響が議論されている。",
-      "source": "First Five Years Fund",
-      "url": "https://www.ffyf.org/2026/08/06/state-of-play-nprm/",
+      "title_ja": "秋田・大仙市 保育施設の主食費を無償に",
+      "summary_ja": "大仙市は10月から保育施設の主食費を無償にした。物価高で苦しむ家計を支え、0歳から中学生まで給食費が完全無償になる。",
+      "source": "ABS秋田放送（Yahoo!ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/e24ae2938814e4517f6176a38d57c29c0bd9e609",
+      "score": 68,
+      "commercial_score": 20,
+      "product_keywords": [
+        "給食費無償化",
+        "保育料"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "育児補助金に999億元 前年比10.6%増",
+      "summary_ja": "財政部は2026年の育児補助金に999億元を配分した。通年では約1100億元の財政支出となる見込みで、3歳未満は月300元。",
+      "source": "同花順",
+      "url": "https://news.10jqka.com.cn/20260603/c677167689.shtml",
+      "score": 68,
+      "commercial_score": 25,
+      "product_keywords": [
+        "育児補助金",
+        "少子化対策"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "熊本市 0歳児世帯に絵本と子育て用品を提供",
+      "summary_ja": "熊本市は10月から0歳児を養育する世帯に絵本や子育て用品を提供する。子育て経験者による相談支援にもつなげる。",
+      "source": "熊本日日新聞",
+      "url": "https://kumanichi.com/articles/2038506",
       "score": 62,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "こども家庭庁の26年度予算案、保育施策に注目",
-      "summary_ja": "誰でも通園や保育士の処遇改善などに約1.9兆円が計上された。保育士のミドルリーダー育成による質の向上も打ち出されている。",
-      "source": "東京新聞 すくすく",
-      "url": "https://sukusuku.tokyo-np.co.jp/birth/107218/",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Coram調査、2歳未満の保育費に拡大の影響",
-      "summary_ja": "Coramの25年目の保育調査は、イングランドで無償枠が拡大した影響を分析した。0〜2歳の保育費の動向が示された。",
-      "source": "Coram",
-      "url": "https://www.coram.org.uk/news/childcare-survey-2026/",
-      "score": 60,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "全国で託児枠が増加、託児所の整備進む",
-      "summary_ja": "多くの地域で託児枠が新設されている。2025年末時点で託児機関は12.6万か所、枠は666万に達した。",
-      "source": "21财经",
-      "url": "https://m.21jingji.com/article/20261001/herald/65b65fabb8af5c65378c5358cd3f593e.html",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "2026年版ベビー用品リコールまとめ",
-      "summary_ja": "Consumer Reportsが2026年にリコールされたベビー用品を整理し、親が確認すべき製品を紹介した。",
-      "source": "Consumer Reports",
-      "url": "https://www.consumerreports.org/babies-kids/baby-product-recalls/baby-product-recalls-parents-caregivers-should-be-aware-of-a5859124070/",
-      "score": 58,
-      "commercial_score": 50,
+      "commercial_score": 45,
       "product_keywords": [
-        "ベビー用品 安全"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "2026年育児補助金、中央財政999億元を配分",
-      "summary_ja": "財政部は2026年の育児補助金として999億元を配分した。3歳未満の子ども1人あたり年3,600元が支給され、前年比10.6%増となる。",
-      "source": "21经济网",
-      "url": "https://www.21jingji.com/article/20260602/herald/e2d7d935c296a6f814a5c9a51b80176b.html",
-      "score": 58,
-      "commercial_score": 5,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "こども向け商品のリコール情報を一元確認",
-      "summary_ja": "消費者庁は、こども向け商品のリコール情報を集約して公開している。9月も重大製品事故の公表が続き、購入済み製品の確認が呼びかけられる。",
-      "source": "消費者庁",
-      "url": "https://www.caa.go.jp/policies/policy/consumer_safety/child/project_010/",
-      "score": 55,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ベビー用品 安全",
-        "チャイルドシート"
+        "絵本",
+        "ベビー用品",
+        "出産祝い"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "イングランドの無償保育、9か月から週30時間",
-      "summary_ja": "就労する親は、子どもが生後9か月から週30時間の無償保育を受けられる。年収10万ポンド以上は対象外で、資格は3か月ごとに確認が必要となる。",
-      "source": "Day Nurseries",
-      "url": "https://www.daynurseries.co.uk/advice/free-childcare-changes-in-england-eligibility",
+      "title_ja": "フロリダの母親、幼児4人を残しクルーズ旅行で逮捕",
+      "summary_ja": "フロリダ州の29歳の母親が生後2か月の乳児を含む子ども4人を自宅に残し3日間のクルーズに出た。児童放置の罪で逮捕され、子どもは保護された。",
+      "source": "NBC News",
+      "url": "https://nbcnews.com/news/us-news/mom-left-infant-toddler-two-kids-home-alone-went-3-day-cruise-official-rcna600587",
       "score": 55,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "commercial_score": 10,
+      "product_keywords": [
+        "児童放置"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "河内長野市、10月から第2子以降の保育料無償化",
-      "summary_ja": "河内長野市は10月から、保育所や認定こども園を利用する第2子以降の保育料を、第1子の年齢にかかわらず無償化した。自治体独自の子育て支援として注目される。",
-      "source": "奥河内",
-      "url": "https://okukawachi.biz/2026/09/30/hoiku0",
+      "title_ja": "「補助金あり」から「産みたい」へ 少子化対策の課題",
+      "summary_ja": "補助金だけでなく、産みやすい環境をどう整えるかを論じる記事。託児や雇用など総合的な支援の必要性を指摘する。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-09/doc-inhxftir1789460.shtml",
+      "score": 55,
+      "commercial_score": 25,
+      "product_keywords": [
+        "託育",
+        "出産支援"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "クランシー被告の弁護人 殺害の証拠不十分と主張",
+      "summary_ja": "3人の子の殺害罪に問われたクランシー被告の公判は陪審が評決不能となった。弁護人は証拠が推測に基づくと主張した。",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
       "score": 50,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本"
+      "commercial_score": 10,
+      "product_keywords": [
+        "産後うつ",
+        "周産期メンタルヘルス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英政府、早期教育と保育の資金ガイダンスを公開",
-      "summary_ja": "2026年4月以降に有効となる早期教育・保育の公的資金に関する政府ガイダンスが公開されている。",
+      "title_ja": "英政府、週30時間の無償保育を拡大",
+      "summary_ja": "英国政府は共働き世帯向けの週30時間無償保育を拡充し、子ども1人当たり年7,500ポンドの節約になるとしている。",
       "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/publications/early-education-and-childcare--2/early-education-and-childcare-valid-from-1-april-2026",
-      "score": 45,
-      "commercial_score": 3,
+      "url": "https://www.gov.uk/government/news/parents-to-save-thousands-in-childcare-cost-with-new-funding",
+      "score": 50,
+      "commercial_score": 35,
+      "product_keywords": [
+        "無償保育",
+        "保育料"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英政府、保育の隠れた費用に対策",
+      "summary_ja": "教育大臣が競争・市場庁に書簡を送り、保育施設の隠れた追加費用の是正に動いた。親の7割超が貯金で追加費用を賄っているという。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/new-action-against-hidden-childcare-costs-to-help-families",
+      "score": 48,
+      "commercial_score": 20,
+      "product_keywords": [
+        "保育料",
+        "保育園"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "国慶連休、幼稚園が家庭向けに安全の注意を通知",
+      "summary_ja": "国慶連休は10月1日から7日の7連休で、幼稚園は交通や水難、家庭内の安全を呼びかける通知を出した。親子で過ごす活動も勧めている。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1082763801_121124032",
+      "score": 45,
+      "commercial_score": 30,
+      "product_keywords": [
+        "幼稚園",
+        "チャイルドシート",
+        "親子旅行"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }
