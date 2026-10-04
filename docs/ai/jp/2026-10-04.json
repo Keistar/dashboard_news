@@ -1,0 +1,60 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "Google「Gemini 4 Argon」とOpenAI「GPT-6.1 Sol」発表",
+      "summary_ja": "Googleが新フロンティアモデルGemini 4 Argon、OpenAIがGPT-6.1 Solを相次いで公開した。長時間のエージェント作業やコーディング性能を競う。",
+      "source": "ITmedia PC USER",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html",
+      "score": 90,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Gemini 4 Argon",
+        "GPT-6.1 Sol",
+        "ChatGPT"
+      ]
+    },
+    {
+      "title_ja": "OpenAIの文化は壊れている 安全性統括の元社員が寄稿",
+      "summary_ja": "安全性報告書を統括していた元従業員が退社し、OpenAIの文化は壊れていると寄稿した。急速なモデル投入への安全面の懸念が改めて注目されている。",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "score": 80,
+      "commercial_score": 25,
+      "product_keywords": [
+        "OpenAI",
+        "AI安全性"
+      ]
+    },
+    {
+      "title_ja": "Apple、macOSのフルディスクアクセス制御を強化へ",
+      "summary_ja": "AppleはAIエージェントの進化でリスクが大幅に増すとして、macOSのフルディスクアクセスに追加の制御を導入する。エージェント型アプリの権限管理が変わる。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/03/2000001983",
+      "score": 72,
+      "commercial_score": 35,
+      "product_keywords": [
+        "macOS",
+        "AIエージェント",
+        "Mac"
+      ]
+    },
+    {
+      "title_ja": "AI生成コードの誤り率、JavaがPythonの6.7倍",
+      "summary_ja": "@ITの週間人気記事で、AI生成コードのエラー率が言語ごとに大きく異なる調査が話題になった。通信4社の5G速度差の記事も上位に入った。",
+      "source": "@IT",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
+      "score": 62,
+      "commercial_score": 30,
+      "product_keywords": [
+        "AIコーディング",
+        "GitHub Copilot"
+      ]
+    }
+  ]
+}

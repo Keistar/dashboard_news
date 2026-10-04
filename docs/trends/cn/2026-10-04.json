@@ -1,0 +1,129 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
+  "trends": [
+    {
+      "keyword": "国庆黄金周",
+      "reason_ja": "国慶節の大型連休で旅行関連の検索熱度が前月比278%増。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "travel suitcase",
+        "travel pillow"
+      ],
+      "product_keywords_ja": [
+        "スーツケース",
+        "ネックピロー"
+      ],
+      "trend_source": "網易",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節の大型連休旅行トレンド",
+          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
+          "source": "網易",
+          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
+        }
+      ]
+    },
+    {
+      "keyword": "请3休13",
+      "reason_ja": "3日休暇で13連休になる「超長連休」が話題。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "travel backpack"
+      ],
+      "product_keywords_ja": [
+        "旅行 リュック"
+      ],
+      "trend_source": "網易",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節の大型連休旅行トレンド",
+          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
+          "source": "網易",
+          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
+        },
+        {
+          "title_ja": "2026年国慶節ゴールデンウィークの展望",
+          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
+          "source": "界面新聞",
+          "url": "https://m.jiemian.com/article/13436593.html"
+        }
+      ]
+    },
+    {
+      "keyword": "西南西北长途游",
+      "reason_ja": "西南・西北への長距離旅行の予約が前年比30%超増。",
+      "genre": "outdoor",
+      "commercial_score": 50,
+      "product_keywords": [
+        "hiking boots",
+        "portable power bank"
+      ],
+      "product_keywords_ja": [
+        "トレッキングシューズ",
+        "モバイルバッテリー"
+      ],
+      "trend_source": "界面新聞",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節ゴールデンウィークの展望",
+          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
+          "source": "界面新聞",
+          "url": "https://m.jiemian.com/article/13436593.html"
+        }
+      ]
+    },
+    {
+      "keyword": "中秋国庆",
+      "reason_ja": "中秋・国慶関連の検索が大幅増で、帰省や旅行需要が高い。",
+      "genre": "food",
+      "commercial_score": 50,
+      "product_keywords": [
+        "mooncake gift box"
+      ],
+      "product_keywords_ja": [
+        "月餅 ギフト"
+      ],
+      "trend_source": "網易",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節の大型連休旅行トレンド",
+          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
+          "source": "網易",
+          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
+        }
+      ]
+    },
+    {
+      "keyword": "邮轮出境游",
+      "reason_ja": "クルーズや少人数高級ツアーなど体験型の海外旅行が人気。",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "travel adapter"
+      ],
+      "product_keywords_ja": [
+        "海外 変換プラグ"
+      ],
+      "trend_source": "Airbnb",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Airbnb 国慶節の出国旅行トレンド報告",
+          "summary_ja": "クルーズや少人数高級ツアーなど体験重視の旅行が人気との報告。",
+          "source": "Airbnb",
+          "url": "https://news.airbnb.com/zh/airbnb%E7%88%B1%E5%BD%BC%E8%BF%8E%E5%8F%91%E5%B8%83%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E5%87%BA%E5%A2%83%E6%B8%B8%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%97%85/"
+        }
+      ]
+    }
+  ]
+}

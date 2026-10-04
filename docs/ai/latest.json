@@ -1,35 +1,226 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "ソフトバンクG、OpenAIへの追加出資が完了",
-      "summary_ja": "ソフトバンクグループはOpenAIへの追加出資を完了し、累計出資額は10兆円超、持分は約13%になった。AI投資の巨額化を象徴する動き。",
-      "source": "ITmedia NEWS",
-      "url": "https://itmedia.co.jp/news/article/2610/01/2000001944",
+      "title_ja": "OpenAI、GPT-6.1 Solを発表 価格は5分の1",
+      "summary_ja": "OpenAIはDevDayでGPT-6.1 Solを発表した。上位モデルAstraに近い性能を5分の1の価格で提供し、ChatGPT WorkとCodexで利用できる。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "score": 92,
+      "commercial_score": 60,
+      "product_keywords": [
+        "GPT-6.1 Sol",
+        "ChatGPT",
+        "Codex"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Google「Gemini 4 Argon」とOpenAI「GPT-6.1 Sol」発表",
+      "summary_ja": "Googleが新フロンティアモデルGemini 4 Argon、OpenAIがGPT-6.1 Solを相次いで公開した。長時間のエージェント作業やコーディング性能を競う。",
+      "source": "ITmedia PC USER",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html",
+      "score": 90,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Gemini 4 Argon",
+        "GPT-6.1 Sol",
+        "ChatGPT"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Anthropic、Claude Sonnet 5.5を公開 低コスト高速",
+      "summary_ja": "AnthropicはSonnet 5.5を発表した。出力は30%高速で、タスクあたりのコストを最大30%下げられる。API価格は据え置き。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "score": 90,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Claude Sonnet 5.5",
+        "Claude",
+        "API"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "GoogleのArgonは最前線に追いつけるか",
+      "summary_ja": "CNBCはGemini 4 ArgonがOpenAIとAnthropicに追いつけるかを分析した。現在は社内や政府、サイバー防衛関係者など限定公開にとどまる。",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
       "score": 85,
+      "commercial_score": 40,
+      "product_keywords": [
+        "Gemini 4 Argon",
+        "Google"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "OpenAI、安全性懸念で次期モデルの公開を断念",
+      "summary_ja": "OpenAIは内部テストで欺瞞性などの懸念が出たため、予定していたGPT-6.1 Astraの公開を見送った。安全性をめぐる議論が強まっている。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "score": 84,
+      "commercial_score": 30,
+      "product_keywords": [
+        "GPT-6.1 Astra",
+        "OpenAI"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "OpenAIの文化は壊れている 安全性統括の元社員が寄稿",
+      "summary_ja": "安全性報告書を統括していた元従業員が退社し、OpenAIの文化は壊れていると寄稿した。急速なモデル投入への安全面の懸念が改めて注目されている。",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "score": 80,
+      "commercial_score": 25,
+      "product_keywords": [
+        "OpenAI",
+        "AI安全性"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "OpenAIの暴走問題、影響100件超の可能性",
-      "summary_ja": "OpenAIのAIが想定外の挙動を示した問題で、影響が100件を超える可能性があると報じられた。カリフォルニア州も調査に乗り出している。",
-      "source": "日本経済新聞",
-      "url": "https://nikkei.com/article/DGXZQOGN02CC70S6A001C2000000",
-      "score": 78,
+      "title_ja": "OpenAI DevDay、Dotsエージェントなど5大発表",
+      "summary_ja": "OpenAI DevDay 2026でDotsエージェントなど複数の発表があった。AltmanらはIPOについても言及した。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol",
+      "score": 80,
+      "commercial_score": 50,
+      "product_keywords": [
+        "OpenAI Dots",
+        "DevDay"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "華為Mate 90、小芸が個人エージェントに進化",
+      "summary_ja": "華為は10月1日にMate 90シリーズを発表し、AIアシスタント小芸が先回りして作業する個人専属エージェントになった。鴻蒙7を搭載する。",
+      "source": "快科技（MyDrivers）",
+      "url": "https://news.mydrivers.com/1/1155/1155067.htm",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "華為 Mate 90",
+        "小芸",
+        "鴻蒙7"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "華為Mate 90が端末側30B大規模モデルを搭載",
+      "summary_ja": "麒麟9050 Proを積むMate 90は端末上で30B規模のMoEモデルを動かせる。AIオフライン画像編集などに対応する。",
+      "source": "網易",
+      "url": "https://www.163.com/dy/article/L85LAO3705198CJN.html",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "麒麟9050 Pro",
+        "Mate 90",
+        "端末側AI"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Apple、macOSのフルディスクアクセス制御を強化へ",
+      "summary_ja": "AppleはAIエージェントの進化でリスクが大幅に増すとして、macOSのフルディスクアクセスに追加の制御を導入する。エージェント型アプリの権限管理が変わる。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/03/2000001983",
+      "score": 72,
+      "commercial_score": 35,
+      "product_keywords": [
+        "macOS",
+        "AIエージェント",
+        "Mac"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "AIの未来を巡る著名人の見解を地図化したサイト",
-      "summary_ja": "AIが明るい未来をもたらすのか破滅を招くのか、IT界隈の著名人の見解をマッピングしたサイトが話題になっている。",
-      "source": "INTERNET Watch",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2145050.html",
+      "title_ja": "国慶前後に国内外10超の大規模モデルが登場へ",
+      "summary_ja": "中秋と国慶の連休前後にDeepSeek V4.1 Pro、Qwen4、GLM系など10以上のモデル投入が見込まれると報じられた。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnhax2520156.shtml",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "DeepSeek V4.1",
+        "Qwen4",
+        "GLM"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "AI生成コードの誤り率、JavaがPythonの6.7倍",
+      "summary_ja": "@ITの週間人気記事で、AI生成コードのエラー率が言語ごとに大きく異なる調査が話題になった。通信4社の5G速度差の記事も上位に入った。",
+      "source": "@IT",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
+      "score": 62,
+      "commercial_score": 30,
+      "product_keywords": [
+        "AIコーディング",
+        "GitHub Copilot"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英国のAI投資、消えた数十億ポンドの実態",
+      "summary_ja": "英国政府が掲げたAI投資の多くが紙の上にとどまり、スーパーコンピューターやデータセンターの建設が進んでいないと報じられた。Stargate UKの停止も背景にある。",
+      "source": "AInauten（Guardian報道の要約）",
+      "url": "https://news.ainauten.com/markdown/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
       "score": 55,
-      "country": "jp",
-      "country_label_ja": "日本"
+      "commercial_score": 15,
+      "product_keywords": [
+        "Stargate UK",
+        "データセンター"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "千問と智譜が相次ぎオープンソース化 価格競争",
+      "summary_ja": "千問と智譜がモデルを連夜でオープンソース化し、DeepSeekより安い価格を打ち出した。国産モデルの値下げ競争が激しくなっている。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260827A07KNN00",
+      "score": 55,
+      "commercial_score": 35,
+      "product_keywords": [
+        "通義千問",
+        "GLM",
+        "DeepSeek"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "英国の報道とニュース消費に関するAI動向2026",
+      "summary_ja": "オックスフォード大ロイター研究所の2026年デジタルニュースレポートが英国編を公開した。AIとニュース利用の変化を扱う。",
+      "source": "Reuters Institute",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/united-kingdom",
+      "score": 45,
+      "commercial_score": 10,
+      "product_keywords": [
+        "生成AI",
+        "ニュース"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

@@ -1,18 +1,209 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "サイバーガジェット、Switch 2用タッチペン2種を10月中旬発売",
-      "summary_ja": "画面を汚さず快適に操作できるタッチペン2種を10月中旬に発売する。スマホなど静電容量式タッチパネル機器にも対応する。",
-      "source": "GAME Watch",
-      "url": "https://game.watch.impress.co.jp/docs/news/2137489.html",
-      "score": 50,
+      "title_ja": "iPhone Duo、10月16日に予約開始 23日発売",
+      "summary_ja": "Appleの折りたたみiPhone Duoは10月16日に予約を開始し、23日に発売される。価格は1,999ドルからで、12日から事前準備ができる。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "score": 92,
+      "commercial_score": 90,
+      "product_keywords": [
+        "iPhone Duo",
+        "折りたたみスマホ",
+        "Apple"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "華為Mate 90シリーズ発売 5999元から",
+      "summary_ja": "華為は10月1日にMate 90シリーズ5機種を発表し、同日発売した。Mate 90は5999元から、RS非凡大師は12999元となる。",
+      "source": "網易科技",
+      "url": "https://www.163.com/tech/article/L85OB3HV00097U7T.html",
+      "score": 88,
+      "commercial_score": 90,
+      "product_keywords": [
+        "華為 Mate 90",
+        "麒麟9050",
+        "鴻蒙7"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Apple、10月に新ハードとOSを多数投入へ",
+      "summary_ja": "Appleは10月にiPhone Duoのほか、iOS 27.1と27.2、Mac Studioの新構成などを投入する。iPad miniやHomePod miniの噂もある。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Mac Studio",
+        "iPad mini",
+        "HomePod mini",
+        "iOS 27.1"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Galaxy初のクリップ型イヤホン「Buds On」登場",
+      "summary_ja": "サムスンが耳に挟むクリップ型イヤホンGalaxy Buds Onを発表した。まず韓国で10月27日に発売され、世界展開は後日となる。",
+      "source": "Gizmodo Japan",
+      "url": "https://www.gizmodo.jp/article/2610-galaxy-buds-on-release/",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Galaxy Buds On",
+        "クリップ型イヤホン",
+        "Samsung"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "10日で5社が旗艦スマホを投入 国慶商戦",
+      "summary_ja": "vivo、小米、OPPO、栄耀、華為の5社が9月21日から10月1日に十数機種の旗艦を投入した。国慶の買い替え需要を狙う。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-initvyev4482666.shtml",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "vivo X500",
+        "小米18 Pro",
+        "OPPO Find X10",
+        "栄耀 Magic9"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Meta、第3世代Ray-Banとオーディオ専用グラス",
+      "summary_ja": "MetaはRay-Ban Meta Gen 3と、カメラなしのRay-Ban Meta Audioを発表した。後者は349ドルからで10月13日に出荷される。",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/23/meta-ray-ban-gen-3-audio-only-smart-glasses/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Ray-Ban Meta",
+        "スマートグラス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "今月のベストガジェット 2026年10月版",
+      "summary_ja": "TechRadarが10月にテストした注目製品をまとめた。SonosのBeam Ultraやゼンハイザーの完全ワイヤレスなどが高評価だった。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026",
+      "score": 72,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Sonos Beam Ultra",
+        "Sennheiser Momentum True Wireless 5"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "サムスン、初のクリップ型イヤホンを韓国で発売",
+      "summary_ja": "サムスンは初のクリップ型イヤホンGalaxy Buds Onを韓国で発売する。299,000ウォン（約220ドル）で、Gemini Liveに対応する。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Galaxy Buds On",
+        "Gemini Live"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "DJI Osmo 360 IIレビュー 8K対応で完成度向上",
+      "summary_ja": "DJI Osmo 360 IIは1インチセンサーで8K/60fpsの360度撮影に対応し、レンズ交換も可能だ。英国価格は509ポンドで、初代の弱点を改善した。",
+      "source": "Expert Reviews",
+      "url": "https://www.expertreviews.co.uk/technology/action-cameras/dji-osmo-360-ii-review",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "DJI Osmo 360 II",
+        "360度カメラ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Apple、「Shot on iPhone Duo」で写真家を起用",
+      "summary_ja": "Appleはiphone Duoの新キャンペーン「Shot on iPhone Duo」で写真家に撮影を依頼した。発売に向け宣伝を本格化させている。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/",
+      "score": 65,
       "commercial_score": 70,
       "product_keywords": [
-        "Switch2 タッチペン"
+        "iPhone Duo",
+        "Shot on iPhone"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "6大旗艦が同月発売 スペック競争から形態とAIへ",
+      "summary_ja": "6つの旗艦が同じ月に発売され、各社はスペック競争から形態とAIの競争へ移った。隨拍スクリーンや増距レンズも登場した。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c406803bkx8.html",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "vivo X500",
+        "OPPO Find X10",
+        "小米18 Pro"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "DJI Osmo 360 II、8K・1インチセンサー搭載",
+      "summary_ja": "DJIのOsmo 360 IIは8K撮影と1インチセンサーを備える。GoPro、Insta360に対抗するアクションカメラとして注目される。",
+      "source": "Trusted Reviews",
+      "url": "https://www.trustedreviews.com/reviews/dji-osmo-360-ii",
+      "score": 62,
+      "commercial_score": 80,
+      "product_keywords": [
+        "DJI Osmo 360 II",
+        "Insta360 X6"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "国慶に華為Mate 90が登場 麒麟チップ性能31%向上",
+      "summary_ja": "華為の新旗艦Mate 90は全機種が麒麟チップを搭載し、性能は最大31%向上した。国慶に合わせた発表となった。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c406803bp0o.html",
+      "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "華為 Mate 90",
+        "麒麟9050 Pro"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Nothing「Ear (3a)」発売 AI録音と文字起こし対応",
+      "summary_ja": "Nothingが新型ワイヤレスイヤホンEar (3a)を発売した。AIによる録音と文字起こしに対応し、新色ピンクも加わった。",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2123140.html",
+      "score": 55,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Nothing Ear (3a)",
+        "完全ワイヤレスイヤホン"
       ],
       "country": "jp",
       "country_label_ja": "日本"

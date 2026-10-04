@@ -1,0 +1,46 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "今月のベストガジェット 2026年10月版",
+      "summary_ja": "TechRadarが10月にテストした注目製品をまとめた。SonosのBeam Ultraやゼンハイザーの完全ワイヤレスなどが高評価だった。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026",
+      "score": 72,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Sonos Beam Ultra",
+        "Sennheiser Momentum True Wireless 5"
+      ]
+    },
+    {
+      "title_ja": "DJI Osmo 360 IIレビュー 8K対応で完成度向上",
+      "summary_ja": "DJI Osmo 360 IIは1インチセンサーで8K/60fpsの360度撮影に対応し、レンズ交換も可能だ。英国価格は509ポンドで、初代の弱点を改善した。",
+      "source": "Expert Reviews",
+      "url": "https://www.expertreviews.co.uk/technology/action-cameras/dji-osmo-360-ii-review",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "DJI Osmo 360 II",
+        "360度カメラ"
+      ]
+    },
+    {
+      "title_ja": "DJI Osmo 360 II、8K・1インチセンサー搭載",
+      "summary_ja": "DJIのOsmo 360 IIは8K撮影と1インチセンサーを備える。GoPro、Insta360に対抗するアクションカメラとして注目される。",
+      "source": "Trusted Reviews",
+      "url": "https://www.trustedreviews.com/reviews/dji-osmo-360-ii",
+      "score": 62,
+      "commercial_score": 80,
+      "product_keywords": [
+        "DJI Osmo 360 II",
+        "Insta360 X6"
+      ]
+    }
+  ]
+}

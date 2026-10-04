@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
+  "stories": [
+    {
+      "title_ja": "英国のAI投資、消えた数十億ポンドの実態",
+      "summary_ja": "英国政府が掲げたAI投資の多くが紙の上にとどまり、スーパーコンピューターやデータセンターの建設が進んでいないと報じられた。Stargate UKの停止も背景にある。",
+      "source": "AInauten（Guardian報道の要約）",
+      "url": "https://news.ainauten.com/markdown/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
+      "score": 55,
+      "commercial_score": 15,
+      "product_keywords": [
+        "Stargate UK",
+        "データセンター"
+      ]
+    },
+    {
+      "title_ja": "英国の報道とニュース消費に関するAI動向2026",
+      "summary_ja": "オックスフォード大ロイター研究所の2026年デジタルニュースレポートが英国編を公開した。AIとニュース利用の変化を扱う。",
+      "source": "Reuters Institute",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/united-kingdom",
+      "score": 45,
+      "commercial_score": 10,
+      "product_keywords": [
+        "生成AI",
+        "ニュース"
+      ]
+    }
+  ]
+}
