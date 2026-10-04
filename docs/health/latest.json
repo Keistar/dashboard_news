@@ -2,15 +2,55 @@
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "今季インフル定期接種が開始、供給は約5190万回分",
-      "summary_ja": "多くの自治体で10月1日に始まり、9月から始めた自治体もある。厚労省は供給量を約5190万回分と見込む。",
-      "source": "時事通信メディカル",
-      "url": "https://nk.jiho.jp/article/304742",
+      "title_ja": "インフルエンザ拡大の背景、海外流入や免疫低下",
+      "summary_ja": "インフルエンザが例年より早く広がっている要因について専門家に聞いた。海外からの流入や免疫の低下など複数の要因が重なっている可能性がある。",
+      "source": "北國新聞",
+      "url": "https://news.yahoo.co.jp/articles/d25a0c9b2233480806e22232d57e5685696dbf75/images/000",
       "score": 82,
-      "commercial_score": 60,
+      "commercial_score": 45,
+      "product_keywords": [
+        "インフルエンザ 対策",
+        "マスク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "インフル流行期へ、今年はワクチンの選択肢が拡大",
+      "summary_ja": "インフルエンザの流行期を前に、今年は新しいワクチンの選択肢が増えた。コネチカット州の医師らが早めの接種を呼びかけている。",
+      "source": "Hartford Courant",
+      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/flu-season-approaches-with-more-vaccine-choices-this-year-here-s-what-ct-experts-are-saying/ar-AA2dpM4d",
+      "score": 78,
+      "commercial_score": 40,
+      "product_keywords": [
+        "インフルエンザワクチン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "この冬の「スーパーフル」は心配か、GPが解説",
+      "summary_ja": "かかりつけ医（GP）が、この冬に懸念される「スーパーフル」について解説した。一度に多くの人がかかる恐れがあるとして備えを促している。",
+      "source": "Daily Express",
+      "url": "https://www.express.co.uk/life-style/health/2254177/gp-confirms-not-brits-should-worried-superflu",
+      "score": 78,
+      "commercial_score": 45,
+      "product_keywords": [
+        "インフルエンザ 対策"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "沖縄でインフル流行、専門医がワクチン接種を推奨",
+      "summary_ja": "沖縄県でインフルエンザ患者が増え、専門医は高齢者や基礎疾患のある人、介護者にワクチン接種を検討するよう呼びかけた。",
+      "source": "沖縄タイムス",
+      "url": "https://www.oricon.co.jp/article/3396139/",
+      "score": 76,
+      "commercial_score": 40,
       "product_keywords": [
         "インフルエンザワクチン"
       ],
@@ -18,208 +58,175 @@
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "高用量インフルワクチンの定期接種化は見送り",
-      "summary_ja": "75歳以上が対象の方針だったが、供給状況を踏まえ2026/27シーズンの導入は見送られた。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/content/10906000/001742425.pdf",
-      "score": 70,
-      "commercial_score": 45,
+      "title_ja": "新型コロナ、世界の死因トップ10から初めて外れる",
+      "summary_ja": "最新の世界推計で、新型コロナの直接死者は2023年に約90万人で死因の14位となり、パンデミック後初めてトップ10から外れた。平均寿命もほぼ以前の水準に戻った。",
+      "source": "Health Policy Watch",
+      "url": "https://www.eatg.org/hiv-news/health-policy-watch-covid-19-drops-out-of-worlds-top-10-causes-of-death-for-first-time-since-pandemic-began/",
+      "score": 74,
+      "commercial_score": 10,
       "product_keywords": [
-        "高用量ワクチン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "FDA、10月に主要な承認判断が相次ぐ",
-      "summary_ja": "Welirig+Lenvimaは10月4日、ifinatamab deruxtecanは10日が期限となる。",
-      "source": "Akin Gump",
-      "url": "https://www.akingump.com/en/insights/blogs/eye-on-fda?bc=1130235",
-      "score": 70,
-      "commercial_score": 50,
-      "product_keywords": [
-        "FDA",
-        "承認"
+        "COVID-19"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "国慶旅行時の感染症予防を呼びかけ",
-      "summary_ja": "公共交通機関や人混みでのマスク着用と手洗いを勧めている。",
-      "source": "澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32375084",
-      "score": 65,
-      "commercial_score": 50,
+      "title_ja": "NHS、ホームレスの人へ無料インフル接種を開始",
+      "summary_ja": "NHSは今週から、ホームレスの人数万人が無料でインフルエンザワクチンを受けられるポップアップ診療所を始めた。",
+      "source": "Care Appointments",
+      "url": "https://careappointments.com/care-news/england/238769/pop-up-nhs-clinics-to-offer-flu-jabs-to-tens-of-thousands-of-homeless-people/",
+      "score": 72,
+      "commercial_score": 15,
       "product_keywords": [
-        "マスク",
-        "インフルエンザ"
+        "インフルエンザワクチン"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "NHSイングランド、第1四半期に1.03億ポンドの超過",
-      "summary_ja": "2026/27年度の累計で計画を上回る支出となった。",
-      "source": "HFMA",
-      "url": "https://www.hfma.org.uk/news-alerts/mackey-next-steps-planning",
-      "score": 62,
+      "title_ja": "江蘇・大丰でインフル接種開始、農村の高齢者と子は無料",
+      "summary_ja": "2026〜27年シーズンのインフルエンザワクチン接種が始まった。農村部の65歳以上と小中学生は無料で受けられる。",
+      "source": "捜狐",
+      "url": "https://m.sohu.com/a/1083939991_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "score": 72,
       "commercial_score": 35,
       "product_keywords": [
-        "NHS",
-        "財政"
+        "流感疫苗"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "痛くない経鼻インフルワクチンが好評",
+      "summary_ja": "2〜18歳を対象に鼻にスプレーする経鼻インフルエンザワクチン「フルミスト」が好評だ。注射の痛みがなく、子どもが受けやすい。",
+      "source": "北國新聞",
+      "url": "https://www.msn.com/ja-jp/health/diseases-and-conditions/%E7%89%B9%E9%9B%86-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC%E5%BC%8F%E3%81%AE%E7%B5%8C%E9%BC%BB%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%A5%BD%E8%A9%95-2-18%E6%AD%B3%E5%AF%BE%E8%B1%A1-%E7%97%9B%E3%81%BF%E3%81%AA%E3%81%97/ar-AA2dvrnt",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "フルミスト"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "メキシコ、FDAのレタス調査は汚染源を特定せずと反論",
+      "summary_ja": "メキシコ政府は、FDAによるサイクロスポラ感染とレタスの調査について、汚染源を決定的に特定したものではないと主張した。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-says-fda-lettuce-probe-did-not-conclusively-identify-contamination-source-2026-10-03/",
+      "score": 70,
+      "commercial_score": 20,
+      "product_keywords": [
+        "レタス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "連休の「報復夜更かし」に注意、回復法を医師が解説",
+      "summary_ja": "国慶節の連休中に夜更かしを続ける若者に向け、救急科の医師が健康リスクと回復のコツを紹介した。",
+      "source": "川観新聞",
+      "url": "https://sichuan.scol.com.cn/ggxw/202610/83335092.html",
+      "score": 66,
+      "commercial_score": 45,
+      "product_keywords": [
+        "睡眠サプリ",
+        "アイマスク"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ランカシャー、冬に向けインフルとコロナ接種案内",
+      "summary_ja": "NHSの警告を受け、ランカシャーの保健当局が冬に向けたインフルエンザと新型コロナのワクチン接種の受け方を案内した。",
+      "source": "Lancashire Evening Post",
+      "url": "https://www.msn.com/en-gb/health/diseases-and-conditions/how-to-get-flu-and-covid-vaccines-in-lancashire-this-winter-amid-nhs-warning/ar-AA2dw9rY",
+      "score": 64,
+      "commercial_score": 15,
+      "product_keywords": [
+        "ワクチン接種"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "インフルエンザワクチン接種を推奨",
-      "summary_ja": "6か月以上で禁忌のない人は毎年の接種が望ましい。効果は6〜8か月続く。",
-      "source": "光明网",
-      "url": "https://m.gmw.cn/2026-08/22/content_1304552154.htm",
+      "title_ja": "コロチキ西野、フィットネスブランド「sissy」始動",
+      "summary_ja": "肉体改造で話題のコロコロチキチキペッパーズ西野が手がけるフィットネスブランド『sissy』が始動した。吉本興業が発表した。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000005387.000029501.html",
       "score": 62,
-      "commercial_score": 60,
+      "commercial_score": 70,
       "product_keywords": [
-        "インフルエンザワクチン"
+        "フィットネスウェア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ギャビー・ローガン、90代まで元気に 欠かさない4つの運動",
+      "summary_ja": "53歳の司会者ギャビー・ローガンが、90代まで元気に暮らすために欠かさない4つのトレーニングを紹介した。",
+      "source": "Women's Health UK",
+      "url": "https://www.womenshealthmag.com/uk/fitness/a73956264/gabby-logan-workouts/",
+      "score": 58,
+      "commercial_score": 65,
+      "product_keywords": [
+        "筋トレ",
+        "ピラティス"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "悪い習慣が肺の健康を損なう、専門医が警告",
+      "summary_ja": "新華網の健康コーナーで、喫煙や空気の悪い環境など肺に悪い習慣に注意するよう専門医が呼びかけた。",
+      "source": "新華網",
+      "url": "https://www.news.cn/20261004/59b1e075d0344e3588510fd94d15681e/c.html",
+      "score": 58,
+      "commercial_score": 30,
+      "product_keywords": [
+        "空気清浄機"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "全国のインフル活動が上昇期に入る",
-      "summary_ja": "一部の省は高流行レベルに達しており、H3N2亜型が主流だ。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/13667562.html",
-      "score": 60,
-      "commercial_score": 55,
-      "product_keywords": [
-        "インフルエンザ",
-        "H3N2"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英国統計局、NHSサービスの利用体験調査",
-      "summary_ja": "イングランドのNHS医療サービスに関する利用者の体験を公表している。",
-      "source": "ONS",
-      "url": "https://cy.ons.gov.uk/releases/experiencesofnhshealthcareservicesinengland10september2026",
+      "title_ja": "フロリダ州Broward Health、10月は乳がん検診を割安に",
+      "summary_ja": "乳がん啓発月間の10月、Broward Healthは低料金または無料のマンモグラフィー検診を提供している。",
+      "source": "South Florida Hospital News",
+      "url": "https://southfloridahospitalnews.com/2026/10/03/broward-health-offers-low-cost-and-free-mammograms-throughout-october-for-breast-cancer-awareness-month/",
       "score": 56,
-      "commercial_score": 30,
+      "commercial_score": 20,
       "product_keywords": [
-        "NHS",
-        "調査"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "FDA措置の週次アップデート",
-      "summary_ja": "承認や臨床保留などの最新動向を神経領域を中心にまとめている。",
-      "source": "NeurologyLive",
-      "url": "https://www.neurologylive.com/view/fda-action-update-week-august-23-2026-authorization-clinical-hold-and-clearance",
-      "score": 55,
-      "commercial_score": 45,
-      "product_keywords": [
-        "FDA",
-        "神経疾患"
+        "乳がん検診"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "プライマリケア向け8月のFDA判断5件",
-      "summary_ja": "プライマリケア医が知るべき承認判断を整理している。",
-      "source": "Patient Care",
-      "url": "https://www.patientcareonline.com/view/5-fda-decisions-for-primary-care-to-know-from-august-2026",
-      "score": 52,
-      "commercial_score": 50,
+      "title_ja": "マカオ衛生局、インフルエンザ重症例1件を報告",
+      "summary_ja": "マカオ衛生局は、インフルエンザの重症例を1件確認したと発表した。流行期に入りワクチン接種を呼びかけている。",
+      "source": "マカオ政府",
+      "url": "https://www.gov.mo/zh-hans/news/940804/",
+      "score": 54,
+      "commercial_score": 20,
       "product_keywords": [
-        "FDA",
-        "プライマリケア"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ウェールズNHSの活動・実績データ公表",
-      "summary_ja": "9月から10月の活動と実績を要約した報告が公表される。",
-      "source": "Welsh Government",
-      "url": "https://www.gov.wales/node/76786",
-      "score": 52,
-      "commercial_score": 30,
-      "product_keywords": [
-        "NHS Wales"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "名古屋市がインフル予防接種を案内",
-      "summary_ja": "2026年度の定期接種対象者と実施期間などを自治体が周知している。",
-      "source": "名古屋市",
-      "url": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005769.html",
-      "score": 50,
-      "commercial_score": 40,
-      "product_keywords": [
-        "予防接種"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英国の健康に関する2026年の懸念と統計",
-      "summary_ja": "待機リストの長期化で自費医療や民間保険への関心が高まっている。",
-      "source": "WeCovr",
-      "url": "https://wecovr.com/guides/the-state-of-uk-health-2026-concerns-trends-and-statistics/",
-      "score": 50,
-      "commercial_score": 55,
-      "product_keywords": [
-        "民間医療保険",
-        "待機リスト"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "健康・養生関連の最新ニュース",
-      "summary_ja": "凤凰网が医療・健康関連の話題を伝えている。",
-      "source": "凤凰网",
-      "url": "https://news.ifeng.com/c/8WLSGXu5XHX",
-      "score": 50,
-      "commercial_score": 45,
-      "product_keywords": [
-        "健康",
-        "養生"
+        "流感"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "インフル流行期の医療情報",
-      "summary_ja": "メディコム・パークが季節性インフルエンザ関連の医療ニュースを伝えている。",
-      "source": "Medicom Park",
-      "url": "https://www.phchd.com/jp/medicom/park/idea/medicom-medicalnews/82130",
-      "score": 48,
-      "commercial_score": 40,
+      "title_ja": "浜松市とイオン、健康づくり支援のご当地WAON",
+      "summary_ja": "売上の一部が市民の健康づくりに使われる、イオンのご当地WAON浜松版が発売された。浜松市とイオンの連携協定に基づく取り組み。",
+      "source": "テレビ静岡",
+      "url": "https://www.msn.com/ja-jp/health/mindandbody/%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BA%BA%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AB%E8%B2%A2%E7%8C%AE-%E6%B5%9C%E6%9D%BE%E5%B8%82%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%8C%E9%80%A3%E6%90%BA-%E3%81%94%E5%BD%93%E5%9C%B0%EF%BD%97%EF%BD%81%EF%BD%8F%EF%BD%8E%E6%B5%9C%E6%9D%BE%E7%89%88%E3%82%92%E7%99%BA%E5%A3%B2/ar-AA2dvKst",
+      "score": 50,
+      "commercial_score": 30,
       "product_keywords": [
-        "インフルエンザ"
+        "WAON"
       ],
       "country": "jp",
       "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "BMS、BMS-986310の第1/2相試験で被験者募集",
-      "summary_ja": "BioWorldが臨床開発の進捗を報じた。",
-      "source": "BioWorld",
-      "url": "https://www.bioworld.com/articles/667950-bristol-myers-squibb-enrolling-participants-in-phase-i-ii-study-of-bms-986310",
-      "score": 48,
-      "commercial_score": 40,
-      "product_keywords": [
-        "臨床試験"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
     }
   ]
 }

@@ -4,29 +4,65 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "フロリダの母親、幼児4人を残しクルーズ旅行で逮捕",
-      "summary_ja": "フロリダ州の29歳の母親が生後2か月の乳児を含む子ども4人を自宅に残し3日間のクルーズに出た。児童放置の罪で逮捕され、子どもは保護された。",
-      "source": "NBC News",
-      "url": "https://nbcnews.com/news/us-news/mom-left-infant-toddler-two-kids-home-alone-went-3-day-cruise-official-rcna600587",
-      "score": 55,
-      "commercial_score": 10,
+      "title_ja": "関税でベビー用品が値上がり、大半が中国製",
+      "summary_ja": "業界団体によると、米国で売られるベビー用品の大半は中国製で、輸入関税の影響が価格に表れている。チャイルドシートなどの値上がりが家計を圧迫している。",
+      "source": "The Michigan Independent",
+      "url": "https://michiganindependent.com/economy/tariffs-on-imports-are-raising-the-prices-of-baby-products-for-us-consumers/",
+      "score": 82,
+      "commercial_score": 70,
       "product_keywords": [
-        "児童放置"
+        "ベビーカー",
+        "チャイルドシート"
       ]
     },
     {
-      "title_ja": "クランシー被告の弁護人 殺害の証拠不十分と主張",
-      "summary_ja": "3人の子の殺害罪に問われたクランシー被告の公判は陪審が評決不能となった。弁護人は証拠が推測に基づくと主張した。",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
+      "title_ja": "育児の不安につけ込むアルゴリズム、新米ママの消費",
+      "summary_ja": "ネットは「商品を買えば新生児育児の悩みは解決する」と新米ママに訴えかける。夜中の授乳中にスマホで買い物を重ねる母親の実態を伝えている。",
+      "source": "The 19th / Good Men Project",
+      "url": "https://goodmenproject.com/featured-content/youll-do-anything-for-your-baby-the-algorithm-knows-how-to-exploit-that/",
+      "score": 74,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ベビーモニター",
+        "ベビー用品"
+      ]
+    },
+    {
+      "title_ja": "今年のおもちゃトレンドは「マカロニチーズ」",
+      "summary_ja": "Good Housekeeping研究所の調査で、スクイーズ玩具から家族ゲーム、絵本までマカロニチーズをモチーフにした商品が子どもに人気だとわかった。",
+      "source": "Good Housekeeping",
+      "url": "https://www.yahoo.com/lifestyle/articles/most-unexpected-toy-trend-170000541.html",
+      "score": 66,
+      "commercial_score": 75,
+      "product_keywords": [
+        "スクイーズ おもちゃ",
+        "知育玩具"
+      ]
+    },
+    {
+      "title_ja": "新作ファミリーゲーム、食べ物モチーフが続々",
+      "summary_ja": "グミやタピオカを使って遊ぶなど、食べ物をテーマにした新作ファミリーゲームが多く出ている。年末の贈り物候補として紹介された。",
+      "source": "Good Housekeeping",
+      "url": "https://www.msn.com/en-us/news/other/some-of-the-best-new-family-games-are-all-about-playing-with-food/ar-AA2duqUI",
+      "score": 58,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ボードゲーム",
+        "ファミリーゲーム"
+      ]
+    },
+    {
+      "title_ja": "テキサスの大学、子育て学生の保育支援に200万ドル",
+      "summary_ja": "スティーブン・F・オースティン州立大学が、子育て中の学生の保育を支える米教育省の補助金約200万ドルを獲得した。低所得の学生が学業を続けやすくなる。",
+      "source": "SFA",
+      "url": "https://www.sfasu.edu/about-sfa/newsroom/2026/sfa-awarded-nearly-2m-grant-expand-childcare-access-parenting-students",
       "score": 50,
       "commercial_score": 10,
       "product_keywords": [
-        "産後うつ",
-        "周産期メンタルヘルス"
+        "保育支援"
       ]
     }
   ]

@@ -2,148 +2,260 @@
   "genre": "outdoor",
   "genre_label_ja": "アウトドア",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "北海道のキャンプ場でクマ目撃、予約取り消し",
-      "summary_ja": "下振のキャンプ場近くでクマが目撃され、予約がキャンセルされ一時閉鎖となった。秋の入山は対策が欠かせない。",
-      "source": "北海道新聞",
-      "url": "https://www.hokkaido-np.co.jp/article/1337205/",
-      "score": 65,
-      "commercial_score": 55,
+      "title_ja": "国慶はトレッキングが人気、若者が1万元かけて山へ",
+      "summary_ja": "国慶節の連休にトレッキングを楽しむ若者が増え、1万元以上を払って山岳ツアーに参加する人もいる。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-04/doc-initzkxf3372205.shtml",
+      "score": 80,
+      "commercial_score": 65,
       "product_keywords": [
-        "クマ鈴",
-        "クマ撃退スプレー"
+        "登山靴",
+        "トレッキングポール"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "スノーピーク「Octa Nomad」、秋冬登山向け4モデル",
+      "summary_ja": "スノーピークは保温と吸水速乾を両立したOcta素材のウエア「Octa Nomad」を展開する。ジャケットやパンツなど4モデルの違いを紹介している。",
+      "source": "THE ANSWER",
+      "url": "https://the-ans.jp/item/mountain/735449/",
+      "score": 78,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スノーピーク Octa",
+        "登山ウェア"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "GO OUT CAMP vol.22が富士宮で開催",
-      "summary_ja": "10月2日から4日にふもとっぱらでキャンプフェスが開かれる。音楽ライブやワークショップも用意される。",
-      "source": "BE-PAL",
-      "url": "https://www.bepal.net/special",
-      "score": 60,
-      "commercial_score": 70,
+      "title_ja": "静岡県も富士山の救助ヘリ有料化へ",
+      "summary_ja": "静岡県の鈴木知事は、閉山期の富士山での県防災ヘリによる救助を有料にする条例を今年度中に作る方針を示した。登山届を出さない人には過料を科す。",
+      "source": "テレビ朝日",
+      "url": "https://news.yahoo.co.jp/articles/8166ddface3ca933bd52050318087b7637180d9b",
+      "score": 76,
+      "commercial_score": 30,
       "product_keywords": [
-        "テント",
-        "キャンプ用品"
+        "登山 保険"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "YHAウォーキング祭が10月11日まで開催",
-      "summary_ja": "YHAの秋のウォーキング祭が9月11日から10月11日まで開かれ、ガイド付き散策などが行われる。",
-      "source": "YHA",
-      "url": "https://www.yha.org.uk/blog/26-things-do-uk-2026",
-      "score": 50,
-      "commercial_score": 55,
+      "title_ja": "Prime Big Deal Days前のアウトドア用品セール",
+      "summary_ja": "Amazonのセール（10月6〜7日）を前に、光学機器やトレイルカメラ、ナイフ、クーラーなどが値下げされている。Outdoor Lifeが他店の価格と比べて紹介した。",
+      "source": "Outdoor Life",
+      "url": "https://www.outdoorlife.com/gear/best-early-prime-day-deals-on-outdoor-gear/",
+      "score": 76,
+      "commercial_score": 85,
       "product_keywords": [
-        "ウォーキングシューズ",
-        "レインウェア"
+        "クーラーボックス",
+        "トレイルカメラ"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国の10月ハイキングイベント一覧",
-      "summary_ja": "セブンシスターズやサリー3ピークスなど、10月開催のハイキング大会をまとめている。",
-      "source": "Let's Do This",
-      "url": "https://www.letsdothis.com/gb/hiking-events",
-      "score": 50,
+      "title_ja": "REI Outlet、最大60%オフの秋セール",
+      "summary_ja": "REI Outletが466品を最大60%オフにする秋セールを始めた。ノース・フェイスやオスプレーなどが対象になっている。",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-us/news/other/rei-outlet-launches-fall-sale-with-up-to-60-off-outdoor-gear-including-north-face-jackets-as-low-as-49-99/ar-AA2drCMg",
+      "score": 72,
+      "commercial_score": 85,
+      "product_keywords": [
+        "REI",
+        "オスプレー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "秋の散歩に最適なビーチ、ウェールズのホワイトサンズ湾が首位",
+      "summary_ja": "GO Outdoorsが降水量や日照、口コミを比べた調査で、ペンブルックシャーのホワイトサンズ湾が秋の散歩に最適なビーチに選ばれた。",
+      "source": "Nation.Cymru",
+      "url": "https://nation.cymru/news/the-welsh-beaches-named-among-the-best-for-autumn-walks/",
+      "score": 72,
       "commercial_score": 50,
       "product_keywords": [
-        "トレッキングポール",
-        "バックパック"
+        "ウォーキングシューズ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "国慶連休で露営注文が大幅増、短距離志向",
-      "summary_ja": "国慶期間は都市近郊の短距離露営が人気で、露営の注文が大きく伸びたと報じられた。",
-      "source": "中国新聞",
-      "url": "https://www.cls.cn/detail/1148945",
-      "score": 50,
-      "commercial_score": 70,
+      "title_ja": "古北水鎮で司馬台アウトドアフェス、星空キャンプも",
+      "summary_ja": "北京郊外の古北水鎮が国慶節に合わせて司馬台アウトドアフェスを始めた。長城の紅葉を楽しむ催しや星空キャンプ場を用意している。",
+      "source": "人民網",
+      "url": "https://news.qq.com/rain/a/20261004A039JT00",
+      "score": 68,
+      "commercial_score": 55,
       "product_keywords": [
-        "テント",
         "キャンプ用品"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "紅葉登山が楽しめるキャンプ場9選",
-      "summary_ja": "秋の紅葉登山とキャンプを両立できるキャンプ場を紹介する特集。見頃は10月下旬から11月中旬が中心。",
-      "source": "BE-PAL",
-      "url": "https://www.bepal.net/archives/590732",
-      "score": 45,
-      "commercial_score": 60,
+      "title_ja": "女性が選ぶリュックのアウトドアブランド、2位はノース",
+      "summary_ja": "ねとらぼの調査で、女性が欲しいリュック・バックパックのアウトドアブランドの2位はザ・ノース・フェイスだった。",
+      "source": "ねとらぼ",
+      "url": "https://news.yahoo.co.jp/articles/74d88c71a9a53afc76a2e68c52d916e7fde1b1a6",
+      "score": 66,
+      "commercial_score": 85,
       "product_keywords": [
-        "登山靴",
-        "防寒着"
+        "ザ・ノース・フェイス リュック"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "秋の国立公園、紅葉とハイキングの名所",
-      "summary_ja": "ザイオンやアカディアなど、秋に混雑が減り紅葉を楽しめる国立公園を紹介している。",
-      "source": "The Dyrt",
-      "url": "https://thedyrt.com/magazine/lifestyle/best-national-parks-visit-fall/",
-      "score": 45,
+      "title_ja": "Mountain Warehouse、グレートヤーマスに新店",
+      "summary_ja": "アウトドア用品チェーンのMountain Warehouseが、グレートヤーマスの空き店舗に新店を開いた。",
+      "source": "EDP24",
+      "url": "https://www.edp24.co.uk/news/26603268.mountain-warehouse-opens-new-store-great-yarmouth/",
+      "score": 66,
       "commercial_score": 60,
       "product_keywords": [
-        "キャンプ用品",
-        "ハイキングブーツ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "2026年おすすめバックパッキング用品レビュー",
-      "summary_ja": "テントやブーツ、ストーブなど2026年版の最新ギア比較記事が掲載されている。",
-      "source": "OutdoorsMagic",
-      "url": "https://outdoorsmagic.com/article",
-      "score": 45,
-      "commercial_score": 75,
-      "product_keywords": [
-        "テント",
-        "登山靴",
-        "ストーブ"
+        "Mountain Warehouse"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "国慶・中秋に長距離トレッキングが若者に人気",
-      "summary_ja": "青蔵高原や西北の砂漠地帯など長距離トレッキングが若者に支持されている。",
-      "source": "新華報業",
-      "url": "https://www.yzwb.net/news/yw/202510/t20251008_273715.html",
-      "score": 45,
+      "title_ja": "ほぼ無制限の範囲で使える装着型無線機",
+      "summary_ja": "LTEと無線を組み合わせ、グループで遠く離れても連絡を取り合える装着型の無線機が登場する。",
+      "source": "New Atlas",
+      "url": "https://newatlas.com/outdoor-gear/group-radio-lte-poclink-motion-ultra/",
+      "score": 64,
+      "commercial_score": 70,
+      "product_keywords": [
+        "トランシーバー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "KEENのアウトドアスニーカーが人気",
+      "summary_ja": "ゴムのようなシューレースで脱ぎ履きしやすいKEENのスニーカーが、キャンプやフェスから街まで使えると人気を集めている。",
+      "source": "ねとらぼ",
+      "url": "https://news.yahoo.co.jp/articles/938921516ffadd42cbb5d15138b6132a9d7a42e1",
+      "score": 62,
+      "commercial_score": 85,
+      "product_keywords": [
+        "KEEN スニーカー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "冬用グローブのベスト、5年のテストで選定",
+      "summary_ja": "Treeline Reviewが5年間のテストから、暖かさと操作性、耐久性に優れた冬用グローブを選んだ。",
+      "source": "Treeline Review",
+      "url": "https://www.treelinereview.com/gearreviews/best-winter-gloves",
+      "score": 62,
+      "commercial_score": 85,
+      "product_keywords": [
+        "冬用グローブ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "深汕に露営と潮干狩りの公園が開業",
+      "summary_ja": "深圳の深汕特別合作区で、キャンプと潮干狩りを楽しめる紅泉露営赶海公園が試験営業を始めた。",
+      "source": "深圳特区報",
+      "url": "https://www.sohu.com/a/1083809836_121384255",
+      "score": 62,
       "commercial_score": 55,
       "product_keywords": [
-        "トレッキング用品",
-        "登山靴"
+        "テント",
+        "タープ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "秋の絶景紅葉スポット12選",
-      "summary_ja": "バックパッカー誌が選ぶ紅葉の名所を紹介する特集。ハイキング計画の参考になる。",
-      "source": "Backpacker",
-      "url": "https://www.backpacker.com/view/photos/fall-foliage/12-amazing-fall-foliage-destinations/?scope=anon",
-      "score": 40,
-      "commercial_score": 55,
+      "title_ja": "和歌山の登山道でクマが男性をかむ、通行止め",
+      "summary_ja": "和歌山県九度山町の登山道「黒河道」で60代男性がクマに右腕をかまれた。町は道を通行止めにし、捕獲用のおりを置いた。",
+      "source": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20261004-GYO1T00020/",
+      "score": 60,
+      "commercial_score": 50,
       "product_keywords": [
-        "バックパック",
-        "防水ジャケット"
+        "クマよけ鈴",
+        "クマスプレー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "キャンピングトレーラー会社が清算、全注文を取り消し",
+      "summary_ja": "キャンピングトレーラーのメーカーが清算に入り、受けていた注文をすべて取り消した。オーナーは「悪夢」とSNSに投稿した。",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/camper-company-liquidate-cancels-orders-110300362.html",
+      "score": 58,
+      "commercial_score": 30,
+      "product_keywords": [
+        "キャンピングトレーラー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "リッチモンド区、収入源に屋外サウナを検討",
+      "summary_ja": "ロンドンのリッチモンド区は、健康面の利点もある収入源として屋外サウナの導入を検討している。",
+      "source": "BBC",
+      "url": "https://www.msn.com/en-us/news/other/outdoor-saunas-considered-to-boost-council-income/ar-AA2du10v",
+      "score": 58,
+      "commercial_score": 45,
+      "product_keywords": [
+        "サウナ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ヨセミテの山火事は放置された焚き火が原因",
+      "summary_ja": "ヨセミテのドーム火災は放置されたキャンプファイヤーが原因だった。火災シーズンのキャンプでは避難経路と大気の状態を確認するよう呼びかけている。",
+      "source": "KQED",
+      "url": "https://www.kqed.org/news/12096539/going-camping-during-fire-season-heres-what-to-know",
+      "score": 54,
+      "commercial_score": 35,
+      "product_keywords": [
+        "焚き火台"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "SNSで話題の「野景点」に注意、新華社が呼びかけ",
+      "summary_ja": "国慶節に近場のアウトドアが人気になるなか、SNSで話題の未整備の景勝地には危険が潜むと新華社が注意を呼びかけた。",
+      "source": "新華網",
+      "url": "https://news.qq.com/rain/a/20261004A03DZ400",
+      "score": 54,
+      "commercial_score": 30,
+      "product_keywords": [
+        "アウトドア 安全"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ウォリントン、アウトドアに強い英国の町6位",
+      "summary_ja": "ウォリントンは車で90分以内にキャンプ場233カ所、天然の水泳スポット99カ所がそろい、英国のアウトドアに強い町の6位に選ばれた。",
+      "source": "Warrington Guardian",
+      "url": "https://www.msn.com/en-gb/travel/outdoor-activities/warrington-named-sixth-best-uk-town-for-outdoor-adventure-and-access-to-nature/ar-AA2dtLEa",
+      "score": 50,
+      "commercial_score": 30,
+      "product_keywords": [
+        "キャンプ用品"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

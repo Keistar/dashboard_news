@@ -2,86 +2,29 @@
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "10月の食品値上げは3,000品目超",
-      "summary_ja": "帝国データバンクによると、2か月連続で月間3,000品目を超えた。酒類・飲料が最多で、原油高や円安が背景だ。",
-      "source": "マカロニ",
-      "url": "https://macaro-ni.jp/178020",
+      "title_ja": "茶飲料店が茶卵やビールも販売、業態拡大",
+      "summary_ja": "覇王茶姫が茶卵を、古茗が生ビールを売り出し、蜜雪冰城は生ビールブランドを買収した。茶飲料チェーンが飲み物以外に販売の幅を広げている。",
+      "source": "中華網",
+      "url": "https://news.china.com/socialgd/10000169/20261002/49775550_all.html",
       "score": 80,
-      "commercial_score": 65,
+      "commercial_score": 70,
       "product_keywords": [
-        "値上げ",
-        "酒類"
+        "覇王茶姫",
+        "蜜雪冰城"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "10月1日発売の食品新製品まとめ",
-      "summary_ja": "味の素冷凍食品の黄金炒飯や、日本盛とキリンの機能性表示食品和源酵素などが並ぶ。日本食糧新聞が一覧で紹介している。",
-      "source": "日本食糧新聞",
-      "url": "https://news.nissyoku.co.jp/foodsnews/2026/10/01",
-      "score": 72,
-      "commercial_score": 90,
-      "product_keywords": [
-        "黄金炒飯",
-        "和源酵素"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ハーシーとマース、2026年ハロウィン菓子",
-      "summary_ja": "ハーシーは20種超の新作でキットカットの魔女型などを出す。マースもSkittles POP'dを投入する。",
-      "source": "Sporked",
-      "url": "https://sporked.com/article/new-halloween-candy-2026/",
-      "score": 70,
-      "commercial_score": 88,
-      "product_keywords": [
-        "Mars",
-        "Skittles",
-        "ハロウィン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "USDA、外食費の上昇見通しを引き上げ",
-      "summary_ja": "食料品の上昇率は1.7%に鈍化する一方、外食は4.6%上昇の予測だ。",
-      "source": "AgBull",
-      "url": "https://www.agbull.com/usda-revises-food-price-outlook-slowing-grocery-inflation-but-lifting-restaurant-costs/",
-      "score": 68,
-      "commercial_score": 50,
-      "product_keywords": [
-        "食品価格",
-        "外食"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "各スーパーの2026年クリスマス商品が出そろう",
-      "summary_ja": "パーティーフード、ヌジャ入りピッグスなど、シェア向けの高級路線が目立つ。",
-      "source": "Grocery Gazette",
-      "url": "https://www.grocerygazette.co.uk/?p=119671",
-      "score": 66,
-      "commercial_score": 88,
-      "product_keywords": [
-        "クリスマス",
-        "パーティーフード"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "Aldi、毎週1店舗ペースで新規出店",
-      "summary_ja": "Rayleighなどを含む1,500店体制に向け、2026年に3.7億ポンドを投じる。",
-      "source": "Shopappy",
-      "url": "https://shopappy.com/retail/supermarkets-grocers/",
-      "score": 65,
-      "commercial_score": 60,
+      "title_ja": "Aldi、値下げで客が殺到し購入を2点までに制限",
+      "summary_ja": "Aldiは目玉商品の値下げで昨年店内が混乱したことを受け、一部商品の購入を1人2点までに制限すると発表した。",
+      "source": "Daily Express",
+      "url": "https://www.express.co.uk/news/uk/2254191/aldi-announces-two-limit-rule",
+      "score": 78,
+      "commercial_score": 70,
       "product_keywords": [
         "Aldi"
       ],
@@ -89,154 +32,228 @@
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "国慶節の外食消費、新品と限定セットが活発",
-      "summary_ja": "海底撈などが祝日セットや新メニューを投入し、食材の備蓄を3割以上増やした。",
-      "source": "北京新聞",
-      "url": "https://www.bjnews.com.cn/detail/1760089154129618.html",
-      "score": 65,
+      "title_ja": "ファミマ、人気ラーメンYouTuberの看板メニュー商品化",
+      "summary_ja": "ファミリーマートが人気ラーメンYouTuberの看板メニューを商品化した。コンビニ商品レビューの連載で実食している。",
+      "source": "Yahoo!ニュース エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/9b658868adc3d692c5e6b9746db103a3d2f303e1",
+      "score": 76,
       "commercial_score": 80,
       "product_keywords": [
-        "海底撈",
-        "祝日セット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ハーシー2026ハロウィン、塩味スナックにも進出",
-      "summary_ja": "Reese's Sweet & Saltyなど過去最大の品ぞろえとなる。",
-      "source": "Haunted Attraction Network",
-      "url": "https://hauntedattractionnetwork.com/hershey-halloween-candy-2026/",
-      "score": 64,
-      "commercial_score": 86,
-      "product_keywords": [
-        "Hershey",
-        "Reese's"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国の食品インフレ、8月は1.3%",
-      "summary_ja": "Sainsbury'sのトップは2026年も低下が続くと見通す。次回CPIは10月21日だ。",
-      "source": "Food Market",
-      "url": "https://www.foodmarket.com/News/A/1330265/UK-Food-Inflation-to-Continue-to-Fall-in-2026-Says-Sainsburys-Boss",
-      "score": 62,
-      "commercial_score": 45,
-      "product_keywords": [
-        "食品インフレ",
-        "Sainsbury's"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ローソンから抹茶ガトーショコラなど新スイーツ",
-      "summary_ja": "お抹茶ガトーショコラ171円とマンゴーレアチーズケーキ257円が10月4日以降順次発売される。",
-      "source": "電撃オンライン",
-      "url": "https://dengekionline.com/articles/155225/",
-      "score": 60,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ローソン",
-        "ガトーショコラ"
+        "ファミマ ラーメン"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "国慶期間はコーヒーが飲食の検索ワードに",
-      "summary_ja": "沿海部では海鮮食べ歩き旅行も流行している。美食市場も盛況だ。",
-      "source": "凤凰网",
-      "url": "https://news.ifeng.com/c/8dOs0ykDOSg",
-      "score": 60,
-      "commercial_score": 75,
+      "title_ja": "トレーダージョーズ、10月の新商品9品",
+      "summary_ja": "トレーダージョーズは10月に9つの新商品を投入する。パンプキンクリームチーズのクロワッサンや、北欧のプリンセスケーキなどがある。",
+      "source": "Food & Wine",
+      "url": "https://www.foodandwine.com/trader-joes-new-items-october-2026-12151732",
+      "score": 76,
+      "commercial_score": 80,
       "product_keywords": [
-        "コーヒー",
-        "海鮮"
+        "トレーダージョーズ"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "World of Sweets、ハロウィン&クリスマス新商品",
-      "summary_ja": "Bondsなどのブランドで新製品を投入し、PEZやThe Traitorsの限定品も展開する。",
-      "source": "Grocery Gazette",
-      "url": "https://www.grocerygazette.co.uk/2026/08/24/world-of-sweets-unveils-2026-halloween-and-christmas-range/",
-      "score": 58,
-      "commercial_score": 85,
-      "product_keywords": [
-        "World of Sweets",
-        "PEZ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "各地で美食イベントが相次ぎ開催",
-      "summary_ja": "山西汾陽の中国菜芸術祭や寧夏呉忠の早茶文化祭などが開かれ、外食消費を後押しする。",
-      "source": "凤凰网",
-      "url": "https://news.ifeng.com/c/8nJl8ZaQEol",
-      "score": 58,
+      "title_ja": "Waitrose、亜硝酸塩不使用のハムを英国初発売",
+      "summary_ja": "Waitroseは亜硝酸塩を使わないガモン（塊のハム）とラードンを英国の小売で初めて発売した。無添加志向の高まりで需要が伸びているという。",
+      "source": "The Grocer",
+      "url": "https://www.thegrocer.co.uk/news/waitrose-launches-made-without-nitrites-gammon-joint-and-lardons/724312.article",
+      "score": 74,
       "commercial_score": 70,
       "product_keywords": [
-        "美食節",
-        "早茶"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "M&Sカフェ、秋の新メニュー",
-      "summary_ja": "シナモンバンやスパイスラテ、ヨークシャープディングラップが復活する。",
-      "source": "Yorkshire Evening Post",
-      "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/ms-cafe-unveils-its-new-autumn-menu-additions-including-epic-jacket-potatoes-and-best-ever-toast-3853803",
-      "score": 56,
-      "commercial_score": 84,
-      "product_keywords": [
-        "M&S",
-        "スパイスラテ"
+        "無塩せき ハム",
+        "ベーコン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "コンビニ各社の今週の新商品",
-      "summary_ja": "セブンやファミマも弁当やスイーツを投入している。ネット上のグルメ記事で話題になっている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/fav/articles/3921126/",
-      "score": 55,
-      "commercial_score": 82,
+      "title_ja": "セブン、北海道の名店監修グルメ3品を発売",
+      "summary_ja": "セブン-イレブンが9月29日から北海道の名店監修メニューを順次発売している。ぶたはげの豚丼やすみれの塩ラーメン、阿部商店監修のいかめしおむすびなどがある。",
+      "source": "LIMO",
+      "url": "https://limo.media/articles/-/140064",
+      "score": 72,
+      "commercial_score": 80,
       "product_keywords": [
-        "コンビニ",
-        "新商品"
+        "セブン 北海道フェア",
+        "豚丼"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "リーシズ・サンデーカップが注目新商品に",
-      "summary_ja": "Supermarket Newsが注目すべきCPG新商品として紹介した。",
-      "source": "Supermarket News",
-      "url": "https://www.supermarketnews.com/new-cpg-products/sn-products-to-watch-reese-s-sundae-cups",
-      "score": 55,
-      "commercial_score": 80,
+      "title_ja": "セブン、おにぎり100円セールを10月3日から",
+      "summary_ja": "セブン-イレブンが10月3日からおにぎりの100円セールを始めた。対象商品は最大73円安くなる。",
+      "source": "Yahoo!ニュース エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/ce644bc4ab71733ca2b08b48f58225244cbaaf27",
+      "score": 70,
+      "commercial_score": 75,
       "product_keywords": [
-        "Reese's",
-        "サンデーカップ"
+        "セブン おにぎり"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "スナックの高たんぱく化が進む、Goldfishも",
+      "summary_ja": "スナック各社が高たんぱく商品を相次いで出している。たんぱく質6gのGoldfishなど、なじみのある味で需要を取り込む。",
+      "source": "Food Business News",
+      "url": "https://www.foodbusinessnews.net/articles/31123-slideshow-bulking-up-snack-innovation",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "高たんぱく スナック",
+        "プロテインスナック"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "国慶・中秋のサービス消費拡大策",
-      "summary_ja": "各地が個性的で高品質なサービス消費の供給を拡大し、美食市場が活況だ。",
-      "source": "中国政府网",
-      "url": "https://www.gov.cn/yaowen/shipin/202510/content_7043494.htm",
-      "score": 52,
+      "title_ja": "コカ・コーラ、英国でクリスマス限定の新味",
+      "summary_ja": "コカ・コーラは昨年のゼロシュガー・シナモンを販売せず、英国で初めて新しい冬季限定フレーバーを投入する。",
+      "source": "Liverpool Echo",
+      "url": "https://www.msn.com/en-gb/food-and-drink/beverages/coca-cola-ditches-last-year-s-festive-edition-for-new-taste-and-fans-can-t-wait/ar-AA2dqoqq",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "コカ・コーラ 限定"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "呼和浩特の焼売祭、国慶初日に22万人超",
+      "summary_ja": "国慶節初日に始まった呼和浩特の焼売グルメ大会と玉泉焼売グルメ街に、22.86万人が訪れた。警察が交通整理にあたった。",
+      "source": "央広網",
+      "url": "https://news.qq.com/rain/a/20261003A09EGM00",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "焼売"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "不二家洋菓子店、10月の新作スイーツまとめ",
+      "summary_ja": "不二家洋菓子店が10月に発売する新作を紹介。ミルキーモンブランタルトや週末限定100円のカントリーマアムシュークリームなどが並ぶ。",
+      "source": "えん食べ",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/entabe/trend/entabe-61686",
+      "score": 64,
+      "commercial_score": 80,
+      "product_keywords": [
+        "不二家 ケーキ",
+        "カントリーマアム"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Iceland、ロンドンで即日配送サービス開始",
+      "summary_ja": "冷凍食品スーパーのIcelandは10月5日からロンドンの17店舗で即日配送を始め、19日から対象を広げる。",
+      "source": "Retail Times",
+      "url": "https://retailtimes.co.uk/iceland-announces-new-rapid-online-delivery-service/",
+      "score": 64,
+      "commercial_score": 40,
+      "product_keywords": [
+        "Iceland 冷凍食品"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Aldi、10月の月替わり特選品を発表",
+      "summary_ja": "Aldiは10月の月替わり特選品「Aldi Finds」を発表した。秋とハロウィンに向けた季節商品が中心だ。",
+      "source": "Snack Food & Wholesale Bakery",
+      "url": "https://www.snackandbakery.com/articles/116424-aldi-falls-into-october-with-latest-monthly-finds",
+      "score": 62,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Aldi"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "広東・海豊、国慶の外食市場が活況",
+      "summary_ja": "国慶節の連休中、広東省海豊県では地元の屋台料理を中心に外食需要が高まっている。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/wm/2026-10-03/doc-inityccz4613651.shtml",
+      "score": 60,
+      "commercial_score": 40,
+      "product_keywords": [
+        "地方グルメ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "コンビニアイス週間ランキング1位は蜜芋ブリュレ",
+      "summary_ja": "もぐナビの10月第1週のアイスランキングで、セブンプレミアムのワッフルコーン蜜芋ブリュレが1位になった。秋の味覚を使った新作が上位に並ぶ。",
+      "source": "もぐナビ",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27999/",
+      "score": 58,
+      "commercial_score": 75,
+      "product_keywords": [
+        "蜜芋 アイス",
+        "セブンプレミアム"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "M&S、ハロウィン用「コリン」グミ菓子を発売",
+      "summary_ja": "M&Sの人気ケーキキャラクター「コリン・ザ・キャタピラー」がハロウィン用のグミミックスになった。バラバラにされたデザインが話題だ。",
+      "source": "Good Housekeeping",
+      "url": "https://www.msn.com/en-gb/entertainment/general/colin-s-been-dismembered-m-s-s-new-trick-or-treat-mix-is-his-most-gruesome-makeover-yet/ar-AA2doWzY",
+      "score": 58,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ハロウィン お菓子",
+        "グミ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "白雲国際ビール・グルメ祭が広州で開幕",
+      "summary_ja": "国慶節初日、広州の白雲国際会議センターでビールと料理、音楽を組み合わせた祭りが始まった。",
+      "source": "捜狐",
+      "url": "https://m.sohu.com/a/1083486506_161795?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "score": 56,
       "commercial_score": 55,
       "product_keywords": [
-        "サービス消費"
+        "クラフトビール"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Kings、NJ州で2店閉鎖し122人削減",
+      "summary_ja": "高級スーパーのKingsがニュージャージー州の2店舗を閉鎖し、122人を削減する。食品小売の再編が続いている。",
+      "source": "NJBIZ",
+      "url": "https://njbiz.com/kings-close-nj-stores-122-jobs/",
+      "score": 54,
+      "commercial_score": 20,
+      "product_keywords": [
+        "Kings Food Markets"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "洛陽疾控、国慶の外食で食中毒に注意喚起",
+      "summary_ja": "洛陽市疾病予防管理センターは、行楽客が増える国慶節の外食で腸炎ビブリオやノロウイルスなどの食中毒に注意するよう呼びかけた。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.cn/2026-10-04/detail-initzeri3463496.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 50,
+      "commercial_score": 20,
+      "product_keywords": [
+        "食品安全"
       ],
       "country": "cn",
       "country_label_ja": "中国"

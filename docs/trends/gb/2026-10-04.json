@@ -3,95 +3,105 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "trends": [
     {
-      "keyword": "iPhone 18 Pro",
-      "reason_ja": "9月発売見込みのiPhone 18 Proへの関心が英国でも高い。",
-      "genre": "gadget",
-      "commercial_score": 78,
+      "keyword": "polar vortex 2026",
+      "reason_ja": "英気象庁がエルニーニョと極渦の見通しを更新し、10月中旬の降雪予報も出て検索が5000件超に急増。",
+      "genre": "bousai",
+      "commercial_score": 80,
       "product_keywords": [
-        "iPhone 18 Pro"
+        "electric heater",
+        "heated throw",
+        "thermal base layer"
       ],
       "product_keywords_ja": [
-        "iPhone 18 Pro"
+        "電気ヒーター",
+        "電気毛布",
+        "インナー 防寒"
       ],
-      "trend_source": "Digit等",
-      "trend_source_type": "news",
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "iPhone 18とPixel 11の比較",
-          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
-          "source": "Digit",
-          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
+          "title_ja": "英気象庁、極渦の最新見通しで厳冬の可能性",
+          "summary_ja": "英気象庁は、エルニーニョが冬の後半に成層圏の極渦を弱める可能性があると説明した。寒波への警戒が高まっている。",
+          "source": "Daily Mirror",
+          "url": "https://www.mirror.co.uk/news/uk-news/met-office-polar-vortex-fresh-37732317"
+        },
+        {
+          "title_ja": "極渦を前にエルニーニョの新たな警告",
+          "summary_ja": "英気象庁の担当者は、エルニーニョのピーク後、冬の後半に寒さが強まる可能性に言及した。",
+          "source": "LBC",
+          "url": "https://www.lbc.co.uk/article/snow-cold-autumn-el-nino-polar-vortex-5HjdjNG_2/"
         }
       ]
     },
     {
-      "keyword": "Pixel 11",
-      "reason_ja": "8月発表のPixel 11シリーズの比較検索が続いている。",
-      "genre": "gadget",
-      "commercial_score": 72,
-      "product_keywords": [
-        "Google Pixel 11"
-      ],
-      "product_keywords_ja": [
-        "Pixel 11"
-      ],
-      "trend_source": "Business Today",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
-          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
-          "source": "Business Today",
-          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
-        }
-      ]
-    },
-    {
-      "keyword": "Galaxy S26 FE",
-      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
-      "genre": "gadget",
-      "commercial_score": 68,
-      "product_keywords": [
-        "Galaxy S26 FE"
-      ],
-      "product_keywords_ja": [
-        "Galaxy S26 FE"
-      ],
-      "trend_source": "Brut",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年後半の新型スマホ発売一覧",
-          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
-          "source": "Brut",
-          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
-        }
-      ]
-    },
-    {
-      "keyword": "Halloween costume",
-      "reason_ja": "10月に入りハロウィン関連の検索・動画が増えている。",
-      "genre": "other",
+      "keyword": "El Nino 2026",
+      "reason_ja": "過去最大級ともいわれるエルニーニョが英国の冬に与える影響への関心が高まっている。",
+      "genre": "bousai",
       "commercial_score": 60,
       "product_keywords": [
-        "Halloween costume",
-        "pumpkin"
+        "dehumidifier",
+        "waterproof jacket"
       ],
       "product_keywords_ja": [
-        "ハロウィン 仮装",
-        "かぼちゃ 飾り"
+        "除湿機",
+        "防水ジャケット"
       ],
-      "trend_source": "TikTok",
-      "trend_source_type": "sns",
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "今月のTikTokトレンド",
-          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
-          "source": "Ypulse",
-          "url": "https://www.ypulse.com/?p=70637"
+          "title_ja": "前回の巨大エルニーニョはロンドンにどう影響したか",
+          "summary_ja": "前回のスーパーエルニーニョがロンドンにもたらした天候を振り返り、今冬の見通しを解説している。",
+          "source": "London Evening Standard",
+          "url": "https://www.msn.com/en-gb/news/other/how-the-last-big-el-ni%C3%B1o-hit-london-and-what-it-could-mean-this-winter/ar-AA2djnP6"
+        }
+      ]
+    },
+    {
+      "keyword": "The Celebrity Traitors",
+      "reason_ja": "BBCの人気リアリティ番組の第2シリーズが始まり、裏切り者役の振る舞いが話題に。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "The Traitors board game"
+      ],
+      "product_keywords_ja": [
+        "人狼 ボードゲーム"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "『Celebrity Traitors』次回放送日と日程",
+          "summary_ja": "BBCの『Celebrity Traitors』2026年シリーズが始まり、第2話以降の放送予定がまとめられている。",
+          "source": "Digital Spy",
+          "url": "https://www.digitalspy.com/tv/reality-tv/a73866586/celebrity-traitors-release-schedule-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "F1",
+      "reason_ja": "マレーシアで代替開催されたバーレーンGPの中継・結果を求める検索が2万件超に。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "F1 merchandise"
+      ],
+      "product_keywords_ja": [
+        "F1 グッズ"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "マレーシアでのF1レース、スタートが遅れる",
+          "summary_ja": "マレーシアで2017年以来となるF1レースが行われたが、雨の影響でスタートが遅れた。",
+          "source": "Goal",
+          "url": "https://www.goal.com/en/news/formula-1-race-in-malaysia-starts-late/blt434bf4ddb824e2a0"
         }
       ]
     }

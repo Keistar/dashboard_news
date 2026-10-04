@@ -4,54 +4,64 @@
   "country": "jp",
   "country_label_ja": "日本",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "10月1日発売の食品新製品まとめ",
-      "summary_ja": "味の素冷凍食品の黄金炒飯や、日本盛とキリンの機能性表示食品和源酵素などが並ぶ。日本食糧新聞が一覧で紹介している。",
-      "source": "日本食糧新聞",
-      "url": "https://news.nissyoku.co.jp/foodsnews/2026/10/01",
+      "title_ja": "ファミマ、人気ラーメンYouTuberの看板メニュー商品化",
+      "summary_ja": "ファミリーマートが人気ラーメンYouTuberの看板メニューを商品化した。コンビニ商品レビューの連載で実食している。",
+      "source": "Yahoo!ニュース エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/9b658868adc3d692c5e6b9746db103a3d2f303e1",
+      "score": 76,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ファミマ ラーメン"
+      ]
+    },
+    {
+      "title_ja": "セブン、北海道の名店監修グルメ3品を発売",
+      "summary_ja": "セブン-イレブンが9月29日から北海道の名店監修メニューを順次発売している。ぶたはげの豚丼やすみれの塩ラーメン、阿部商店監修のいかめしおむすびなどがある。",
+      "source": "LIMO",
+      "url": "https://limo.media/articles/-/140064",
       "score": 72,
-      "commercial_score": 90,
+      "commercial_score": 80,
       "product_keywords": [
-        "黄金炒飯",
-        "和源酵素"
+        "セブン 北海道フェア",
+        "豚丼"
       ]
     },
     {
-      "title_ja": "ローソンから抹茶ガトーショコラなど新スイーツ",
-      "summary_ja": "お抹茶ガトーショコラ171円とマンゴーレアチーズケーキ257円が10月4日以降順次発売される。",
-      "source": "電撃オンライン",
-      "url": "https://dengekionline.com/articles/155225/",
-      "score": 60,
-      "commercial_score": 85,
+      "title_ja": "セブン、おにぎり100円セールを10月3日から",
+      "summary_ja": "セブン-イレブンが10月3日からおにぎりの100円セールを始めた。対象商品は最大73円安くなる。",
+      "source": "Yahoo!ニュース エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/ce644bc4ab71733ca2b08b48f58225244cbaaf27",
+      "score": 70,
+      "commercial_score": 75,
       "product_keywords": [
-        "ローソン",
-        "ガトーショコラ"
+        "セブン おにぎり"
       ]
     },
     {
-      "title_ja": "コンビニ各社の今週の新商品",
-      "summary_ja": "セブンやファミマも弁当やスイーツを投入している。ネット上のグルメ記事で話題になっている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/fav/articles/3921126/",
-      "score": 55,
-      "commercial_score": 82,
+      "title_ja": "不二家洋菓子店、10月の新作スイーツまとめ",
+      "summary_ja": "不二家洋菓子店が10月に発売する新作を紹介。ミルキーモンブランタルトや週末限定100円のカントリーマアムシュークリームなどが並ぶ。",
+      "source": "えん食べ",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/entabe/trend/entabe-61686",
+      "score": 64,
+      "commercial_score": 80,
       "product_keywords": [
-        "コンビニ",
-        "新商品"
+        "不二家 ケーキ",
+        "カントリーマアム"
       ]
     },
     {
-      "title_ja": "10月の食品値上げは3,000品目超",
-      "summary_ja": "帝国データバンクによると、2か月連続で月間3,000品目を超えた。酒類・飲料が最多で、原油高や円安が背景だ。",
-      "source": "マカロニ",
-      "url": "https://macaro-ni.jp/178020",
-      "score": 80,
-      "commercial_score": 65,
+      "title_ja": "コンビニアイス週間ランキング1位は蜜芋ブリュレ",
+      "summary_ja": "もぐナビの10月第1週のアイスランキングで、セブンプレミアムのワッフルコーン蜜芋ブリュレが1位になった。秋の味覚を使った新作が上位に並ぶ。",
+      "source": "もぐナビ",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27999/",
+      "score": 58,
+      "commercial_score": 75,
       "product_keywords": [
-        "値上げ",
-        "酒類"
+        "蜜芋 アイス",
+        "セブンプレミアム"
       ]
     }
   ]

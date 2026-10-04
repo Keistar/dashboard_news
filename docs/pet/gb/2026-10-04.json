@@ -4,30 +4,51 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "英政府のペット年間100ポンド課金説は誤り",
-      "summary_ja": "10月から犬猫に年100ポンドの料金が課されるという主張を、ファクトチェック団体が誤りと結論づけた。",
-      "source": "Full Fact",
-      "url": "https://dev.fullfact.org/economy/government-not-introducing-100-dog-cat-fee-october/",
-      "score": 60,
-      "commercial_score": 40,
+      "title_ja": "英国の数百のビーチで犬の散歩制限が解除",
+      "summary_ja": "夏の繁忙期に犬の散歩を禁じていた英国各地のビーチで、季節限定の規制が解かれた。",
+      "source": "Somerset County Gazette",
+      "url": "https://www.msn.com/en-gb/news/other/key-rule-change-impacting-dog-owners-on-hundreds-of-uk-beaches/ar-AA2dpIDw",
+      "score": 74,
+      "commercial_score": 30,
       "product_keywords": [
-        "ペット保険",
-        "ペット用品"
+        "犬 散歩グッズ"
       ]
     },
     {
-      "title_ja": "英ペット業界ニュース一覧",
-      "summary_ja": "英国のペット関連の最新記事を掲載する専門メディアのタグページ。動物福祉や業界動向を扱う。",
-      "source": "Pets Magazine",
-      "url": "https://www.petsmag.co.uk/tag/pets/",
-      "score": 40,
-      "commercial_score": 45,
+      "title_ja": "オフィス復帰で猫のストレスに注意、6つのサイン",
+      "summary_ja": "秋に出社する人が増えるなか、英国の猫の飼い主に分離不安やストレスの6つのサインに注意するよう呼びかけた。",
+      "source": "Liverpool Echo",
+      "url": "https://www.msn.com/en-gb/lifestyle/other/cat-owners-in-britain-advised-to-look-for-six-signs-their-pet-is-stressed/ar-AA2dvXqm",
+      "score": 70,
+      "commercial_score": 55,
       "product_keywords": [
-        "ペットフード",
-        "ペットケア"
+        "猫 おもちゃ",
+        "猫 ストレス"
+      ]
+    },
+    {
+      "title_ja": "ランカシャーの景勝地、犬に優しい旅行先トップ10入り",
+      "summary_ja": "ランカシャーのボウランドの森が、英国で犬連れに優しい旅行先のトップ10に選ばれた。",
+      "source": "Yahoo UK",
+      "url": "https://uk.news.yahoo.com/lancashire-beauty-spot-named-among-040000850.html",
+      "score": 62,
+      "commercial_score": 40,
+      "product_keywords": [
+        "犬連れ旅行"
+      ]
+    },
+    {
+      "title_ja": "カーコーディの巨大猫像オークション、10万ポンド超",
+      "summary_ja": "スコットランド・カーコーディの巨大な猫の像のオークションが10万ポンドを超えた。",
+      "source": "Fife Today",
+      "url": "https://www.fifetoday.co.uk/news/people/kirkcaldys-wemyss-cat-auction-smashes-ps100000-barrier-9262900",
+      "score": 52,
+      "commercial_score": 20,
+      "product_keywords": [
+        "猫グッズ"
       ]
     }
   ]

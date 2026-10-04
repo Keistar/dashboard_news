@@ -4,56 +4,67 @@
   "country": "jp",
   "country_label_ja": "日本",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:32+09:00",
   "stories": [
     {
-      "title_ja": "Google「Gemini 4 Argon」とOpenAI「GPT-6.1 Sol」発表",
-      "summary_ja": "Googleが新フロンティアモデルGemini 4 Argon、OpenAIがGPT-6.1 Solを相次いで公開した。長時間のエージェント作業やコーディング性能を競う。",
-      "source": "ITmedia PC USER",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html",
+      "title_ja": "Gemini無料版、10月9日からFlash-Liteのみに",
+      "summary_ja": "Googleは個人向けGeminiアプリで使えるモデルを契約プランごとに見直すと告知した。無料ユーザーは10月9日から最小モデルのFlash-Liteだけになり、Pro系は有料プランに限られる。",
+      "source": "ITmedia",
+      "url": "https://www.msn.com/ja-jp/technology/software/%E5%80%8B%E4%BA%BA%E5%90%91%E3%81%91gemini%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB%E9%81%B8%E6%8A%9E%E3%81%8C%E5%8E%B3%E6%A0%BC%E5%8C%96-%E7%84%A1%E6%96%99%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF-flash-lite-%E3%81%AE%E3%81%BF%E3%81%AB/ar-AA2dvYSO",
       "score": 90,
-      "commercial_score": 55,
+      "commercial_score": 60,
       "product_keywords": [
-        "Gemini 4 Argon",
-        "GPT-6.1 Sol",
-        "ChatGPT"
+        "Gemini",
+        "Google AI Pro"
       ]
     },
     {
-      "title_ja": "OpenAIの文化は壊れている 安全性統括の元社員が寄稿",
-      "summary_ja": "安全性報告書を統括していた元従業員が退社し、OpenAIの文化は壊れていると寄稿した。急速なモデル投入への安全面の懸念が改めて注目されている。",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "score": 80,
-      "commercial_score": 25,
-      "product_keywords": [
-        "OpenAI",
-        "AI安全性"
-      ]
-    },
-    {
-      "title_ja": "Apple、macOSのフルディスクアクセス制御を強化へ",
-      "summary_ja": "AppleはAIエージェントの進化でリスクが大幅に増すとして、macOSのフルディスクアクセスに追加の制御を導入する。エージェント型アプリの権限管理が変わる。",
-      "source": "ITmedia NEWS",
-      "url": "https://itmedia.co.jp/news/article/2610/03/2000001983",
-      "score": 72,
-      "commercial_score": 35,
-      "product_keywords": [
-        "macOS",
-        "AIエージェント",
-        "Mac"
-      ]
-    },
-    {
-      "title_ja": "AI生成コードの誤り率、JavaがPythonの6.7倍",
-      "summary_ja": "@ITの週間人気記事で、AI生成コードのエラー率が言語ごとに大きく異なる調査が話題になった。通信4社の5G速度差の記事も上位に入った。",
-      "source": "@IT",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
-      "score": 62,
+      "title_ja": "高市首相、Appleに生成AIの自殺防止策を要請",
+      "summary_ja": "高市首相は10月2日、Siri AIなど端末搭載の生成AIに自殺防止機能や安全対策を実装するようAppleに要請したとXで明らかにした。Apple側も政府との連携に前向きとされる。",
+      "source": "iPhone Mania",
+      "url": "https://iphone-mania.jp/apple-606953/",
+      "score": 78,
       "commercial_score": 30,
       "product_keywords": [
-        "AIコーディング",
-        "GitHub Copilot"
+        "Apple Intelligence",
+        "Siri"
+      ]
+    },
+    {
+      "title_ja": "ChatGPTのウェブ訪問数、3カ月連続で増加",
+      "summary_ja": "2026年前半に伸び悩んでいたChatGPTのウェブ訪問数が3カ月連続で増え、停滞を脱した。同時期にはClaudeやGeminiも利用者基盤を固めている。",
+      "source": "Forbes JAPAN",
+      "url": "https://forbesjapan.com/articles/detail/105956",
+      "score": 70,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "Pixel 11でGeminiが代わりに電話する新機能",
+      "summary_ja": "GoogleはPixel 11シリーズ向けに、Geminiがユーザーの代わりに店舗へ電話をかける「Call for Me」を発表した。当面は米国の英語のみで提供される。",
+      "source": "WIRED.jp",
+      "url": "https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "score": 66,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Pixel 11",
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "ChatGPTが再び利用制限リセット、Sol遅延で",
+      "summary_ja": "OpenAIはGPT-6.1 Solの動作遅延を受け、日本時間10月3日午前2時にChatGPTとCodexの利用上限をリセットした。担当者がXで前日に予告していた。",
+      "source": "PC Watch",
+      "url": "https://www.msn.com/ja-jp/technology/tech-companies/%E3%81%BE%E3%81%9Fchatgpt%E3%81%8C%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-10%E6%9C%883%E6%97%A52%E6%99%82%E3%81%AB-gpt-6-1-sol%E5%8B%95%E4%BD%9C%E9%81%85%E5%BB%B6%E3%81%AE%E3%81%8A%E8%A9%AB%E3%81%B3/ar-AA2dpWvi",
+      "score": 58,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT",
+        "Codex"
       ]
     }
   ]

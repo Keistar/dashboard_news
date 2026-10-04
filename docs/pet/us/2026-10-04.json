@@ -4,30 +4,62 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "ペディグリー缶ドッグフード回収、金属混入の恐れ",
-      "summary_ja": "FDAが一部のペディグリー製ドッグフードの自主回収を発表した。金属片が混入した可能性があり、飼い主は対象品の確認が必要だ。",
-      "source": "WWAY News",
-      "url": "https://wwaytv3.com/news-tags/pets",
-      "score": 55,
-      "commercial_score": 60,
+      "title_ja": "市販キャットフードの大半から重金属や有害物質",
+      "summary_ja": "米国の調査で、市販のキャットフードの大半から重金属や農薬、プラスチック由来の化学物質が見つかった。長く食べ続けると体内に蓄積する恐れがあると指摘している。",
+      "source": "People",
+      "url": "https://www.msn.com/en-us/news/other/heavy-metals-and-toxic-chemicals-found-in-most-cat-foods-investigation-finds/ar-AA2dvn0E",
+      "score": 86,
+      "commercial_score": 65,
       "product_keywords": [
-        "ドッグフード",
+        "キャットフード"
+      ]
+    },
+    {
+      "title_ja": "ペットフードにも「値ごろ感への不安」",
+      "summary_ja": "世界の消費者の3分の1が家計が苦しくなったと答えるなか、飼い主はペットフードの値上がりを課題に挙げている。メーカーの対応策を探る。",
+      "source": "PetfoodIndustry",
+      "url": "https://www.petfoodindustry.com/blogs-columns/adventures-in-pet-food/blog/15836588/is-affordability-anxiety-hitting-pet-food",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
         "ペットフード"
       ]
     },
     {
-      "title_ja": "生肉ペットフードにサルモネラ菌の懸念で回収",
-      "summary_ja": "生肉タイプのペットフードがサルモネラ菌の懸念で回収された。購入者は該当ロットを確認し、使用を控えるよう求められている。",
-      "source": "KY3",
-      "url": "https://www.ky3.com/2026/05/09/raw-pet-food-brand-recalled-over-salmonella-concerns/",
-      "score": 45,
-      "commercial_score": 55,
+      "title_ja": "米最大の動物病院Banfield、24時間獣医相談を開始",
+      "summary_ja": "北米最大の動物病院チェーンBanfieldは、健康プランの加入者に24時間の獣医相談サービス「Vet Chat」を始めた。",
+      "source": "dvm360",
+      "url": "https://www.dvm360.com/view/banfield-jumps-telehealth-jane-lynch-reinforce-veterinary-expertise",
+      "score": 64,
+      "commercial_score": 40,
       "product_keywords": [
-        "生肉フード",
-        "ペットフード"
+        "ペット 遠隔診療"
+      ]
+    },
+    {
+      "title_ja": "Tractive、犬用GPSトラッカー「DOG 6」",
+      "summary_ja": "Tractiveの犬用GPSトラッカーDOG 6は位置だけでなく、活動量や睡眠、かゆがる動作も記録する。秋の外出向けに紹介された。",
+      "source": "Yahoo",
+      "url": "https://www.msn.com/en-us/news/other/tractive-s-dog-6-gps-tracker-gives-dog-parents-peace-of-mind-on-fall-adventures/ar-AA2dwJHN",
+      "score": 60,
+      "commercial_score": 80,
+      "product_keywords": [
+        "犬 GPS",
+        "Tractive"
+      ]
+    },
+    {
+      "title_ja": "猫の糖尿病、インスリン注射なしの治療は可能か",
+      "summary_ja": "獣医師のコラムで、猫の糖尿病に飲み薬で対応できるかという飼い主の質問に答えている。",
+      "source": "Boston Herald",
+      "url": "https://www.bostonherald.com/2026/10/04/treating-cats-diabetes-without-insulin-shots/",
+      "score": 50,
+      "commercial_score": 35,
+      "product_keywords": [
+        "猫 糖尿病"
       ]
     }
   ]

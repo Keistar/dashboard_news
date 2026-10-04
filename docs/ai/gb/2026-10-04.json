@@ -4,30 +4,72 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:32+09:00",
   "stories": [
     {
-      "title_ja": "英国のAI投資、消えた数十億ポンドの実態",
-      "summary_ja": "英国政府が掲げたAI投資の多くが紙の上にとどまり、スーパーコンピューターやデータセンターの建設が進んでいないと報じられた。Stargate UKの停止も背景にある。",
-      "source": "AInauten（Guardian報道の要約）",
-      "url": "https://news.ainauten.com/markdown/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
-      "score": 55,
+      "title_ja": "英最大のAIスパコン、電力不足で2030年以降に",
+      "summary_ja": "Nvidiaが出資するNscaleの英国最大のAIデータセンターは、電力供給が確保できず2027年の稼働予定が2030年以降にずれ込む見通しになった。英国のAIインフラ整備の課題が浮き彫りになった。",
+      "source": "TechRadar",
+      "url": "https://www.msn.com/en-us/news/other/nvidia-backed-neocloud-nscale-faces-delay-as-uks-largest-ai-supercomputer-cant-get-enough-power/ar-AA2dumE9",
+      "score": 80,
       "commercial_score": 15,
       "product_keywords": [
-        "Stargate UK",
-        "データセンター"
+        "AI data centre"
       ]
     },
     {
-      "title_ja": "英国の報道とニュース消費に関するAI動向2026",
-      "summary_ja": "オックスフォード大ロイター研究所の2026年デジタルニュースレポートが英国編を公開した。AIとニュース利用の変化を扱う。",
-      "source": "Reuters Institute",
-      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/united-kingdom",
-      "score": 45,
+      "title_ja": "スナク元首相、AIへの政府監督強化を訴え",
+      "summary_ja": "リシ・スナク元首相は寄稿で、相次ぐAIの安全問題を受けて政府による監督を強めるべきだと主張した。AI推進派の立場は変えずに規制の必要性を説いている。",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/rishi-sunak-urges-greater-government-050000066.html",
+      "score": 74,
       "commercial_score": 10,
       "product_keywords": [
-        "生成AI",
-        "ニュース"
+        "AI safety"
+      ]
+    },
+    {
+      "title_ja": "ブライアン・メイ、AIデータセンターに反対表明",
+      "summary_ja": "クイーンのブライアン・メイがマンチェスターのバーナム市長にAIデータセンター計画を止めるよう求めた。データセンターを「巨大な悪」と呼び、手遅れになる前に対抗すべきだと訴えた。",
+      "source": "AOL",
+      "url": "https://ca.news.yahoo.com/queen-brian-may-issues-warning-090715495.html",
+      "score": 70,
+      "commercial_score": 10,
+      "product_keywords": [
+        "AI data centre"
+      ]
+    },
+    {
+      "title_ja": "BT、英国企業向けAIツール群を提供開始",
+      "summary_ja": "BT Businessは、英国の企業がAIを安全かつ簡単に使えるようにするAIツール群を発売した。AI受付や業務支援など、中小企業への導入を狙う。",
+      "source": "Mobile Europe",
+      "url": "https://www.mobileeurope.co.uk/bt-business-ai-suite/",
+      "score": 64,
+      "commercial_score": 45,
+      "product_keywords": [
+        "BT Business AI"
+      ]
+    },
+    {
+      "title_ja": "英主要ロースクール、法務AI「Legora」を採用",
+      "summary_ja": "キングス・カレッジ・ロンドンなど英国のロースクール3校が、法律事務所向けAIのLegoraを授業に取り入れた。学生が実務と同じツールに触れられるようになる。",
+      "source": "Legal Cheek",
+      "url": "https://www.legalcheek.com/2026/10/leading-uk-law-schools-adopt-legora-ai/",
+      "score": 58,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Legora"
+      ]
+    },
+    {
+      "title_ja": "ブレナム宮殿、AIツアーガイドアプリ導入へ",
+      "summary_ja": "世界遺産のブレナム宮殿が、2027年春にAIが案内するツアーガイドアプリを導入する。来場者の質問に応じて解説する仕組みになる。",
+      "source": "Yahoo News UK",
+      "url": "https://www.msn.com/en-gb/news/other/blenheim-palace-to-launch-ai-powered-tour-guide-app/ar-AA2dwbVB",
+      "score": 52,
+      "commercial_score": 25,
+      "product_keywords": [
+        "AI tour guide"
       ]
     }
   ]

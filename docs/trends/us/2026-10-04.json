@@ -3,149 +3,73 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "trends": [
     {
-      "keyword": "Pixel 11 vs iPhone 18",
-      "reason_ja": "新型スマホの比較検討が活発で、買い替え需要が高まっている。",
+      "keyword": "Apple TV",
+      "reason_ja": "Apple TVが10月分の無料ボーナス映画を追加し、10月13日の新型Apple TV発表のうわさも重なって検索が5000件超に。",
       "genre": "gadget",
-      "commercial_score": 78,
-      "product_keywords": [
-        "iPhone 18 Pro",
-        "Pixel 11 Pro"
-      ],
-      "product_keywords_ja": [
-        "iPhone 18 Pro",
-        "Pixel 11 Pro"
-      ],
-      "trend_source": "Digit等",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "iPhone 18とPixel 11の比較",
-          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
-          "source": "Digit",
-          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
-        },
-        {
-          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
-          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
-          "source": "Business Today",
-          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
-        }
-      ]
-    },
-    {
-      "keyword": "Galaxy S26 FE",
-      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
-      "genre": "gadget",
-      "commercial_score": 70,
-      "product_keywords": [
-        "Galaxy S26 FE"
-      ],
-      "product_keywords_ja": [
-        "Galaxy S26 FE"
-      ],
-      "trend_source": "Brut",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年後半の新型スマホ発売一覧",
-          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
-          "source": "Brut",
-          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
-        }
-      ]
-    },
-    {
-      "keyword": "ChatGPT",
-      "reason_ja": "2026年も検索が伸びているAIサービスで、関連ツールへの関心が高い。",
-      "genre": "ai",
       "commercial_score": 65,
       "product_keywords": [
-        "AI notebook",
-        "ChatGPT"
+        "Apple TV 4K",
+        "streaming device"
       ],
       "product_keywords_ja": [
-        "AI ノート",
-        "生成AI 本"
+        "Apple TV 4K",
+        "ストリーミング端末"
       ],
-      "trend_source": "bloggerspassion",
+      "trend_source": "Google Trends US",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "2026年の最多検索キーワード",
-          "summary_ja": "YouTubeが首位で、ChatGPTや旅行関連の検索も伸びたとする記事。",
-          "source": "Bloggers Passion",
-          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+          "title_ja": "Apple TV、10月の無料ボーナス映画を更新",
+          "summary_ja": "Apple TVは加入者向けに無料で見られる名作映画のラインアップを入れ替え、10月分として十数本を追加した。",
+          "source": "MacTrast",
+          "url": "https://www.mactrast.com/2026/10/apple-tv-updates-its-selection-of-free-great-movies-just-in-time-for-the-weekend/"
         }
       ]
     },
     {
-      "keyword": "Pumpkin head photoshoot",
-      "reason_ja": "ハロウィンに向けパンプキンヘッド撮影がTikTokで流行している。",
+      "keyword": "F1 Malaysian Grand Prix",
+      "reason_ja": "バーレーンGPが代替開催でマレーシアのセパンで行われ、豪雨によるスタート遅延もあって検索が急増。",
       "genre": "other",
-      "commercial_score": 60,
+      "commercial_score": 30,
       "product_keywords": [
-        "pumpkin mask",
-        "Halloween costume"
+        "F1 merchandise"
       ],
       "product_keywords_ja": [
-        "ハロウィン 仮装",
-        "かぼちゃ マスク"
+        "F1 グッズ"
       ],
-      "trend_source": "TikTok",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "今月のTikTokトレンド",
-          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
-          "source": "Ypulse",
-          "url": "https://www.ypulse.com/?p=70637"
-        }
-      ]
-    },
-    {
-      "keyword": "GhostfaceCult",
-      "reason_ja": "Scream由来のGhostface風アイコンがTikTokで24,900万回再生。",
-      "genre": "other",
-      "commercial_score": 55,
-      "product_keywords": [
-        "Ghostface mask"
-      ],
-      "product_keywords_ja": [
-        "ゴーストフェイス マスク"
-      ],
-      "trend_source": "TikTok",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "今月のTikTokトレンド",
-          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
-          "source": "Ypulse",
-          "url": "https://www.ypulse.com/?p=70637"
-        }
-      ]
-    },
-    {
-      "keyword": "Taylor Swift",
-      "reason_ja": "7月のTravis Kelceとの結婚後も、最多検索の女性アーティストである。",
-      "genre": "other",
-      "commercial_score": 50,
-      "product_keywords": [
-        "Taylor Swift album vinyl"
-      ],
-      "product_keywords_ja": [
-        "テイラー・スウィフト レコード"
-      ],
-      "trend_source": "meetglimpse等",
+      "trend_source": "Google Trends US",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "最も検索されている人物",
-          "summary_ja": "Messi、Ronaldoなどに並び、Taylor Swiftが最多検索の女性との記載。",
-          "source": "Bloggers Passion",
-          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+          "title_ja": "F1バーレーンGPをマレーシアで開催、豪雨でスタート遅延",
+          "summary_ja": "今季のバーレーンGPはマレーシアのセパンで行われ、激しい雨のためスタートが遅れた。ポールポジションはフェルスタッペン。",
+          "source": "Newsday",
+          "url": "https://www.newsday.com/sports/motor-racing/f1-bahrain-malaysia-verstappen-hamilton-antonelli-i88766"
+        }
+      ]
+    },
+    {
+      "keyword": "Hawaii",
+      "reason_ja": "ハワイ火山国立公園の名所ホーレイ・シーアーチが崩落したと報じられ、検索が増えた。",
+      "genre": "outdoor",
+      "commercial_score": 20,
+      "product_keywords": [
+        "Hawaii travel"
+      ],
+      "product_keywords_ja": [
+        "ハワイ 旅行 グッズ"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ハワイの名所ホーレイ・シーアーチが崩落",
+          "summary_ja": "ハワイ島の溶岩でできた高さ約27メートルの海食アーチが崩れた。国立公園局は崖に近づかないよう警告している。",
+          "source": "AP",
+          "url": "https://apnews.com/article/hawaii-sea-arch-cliff-collapse-6cc8d0a2ebc2ab36ee1cd4b69f8ea5f0"
         }
       ]
     }

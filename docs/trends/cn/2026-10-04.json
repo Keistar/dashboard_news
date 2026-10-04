@@ -3,125 +3,91 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "trends": [
     {
-      "keyword": "国庆黄金周",
-      "reason_ja": "国慶節の大型連休で旅行関連の検索熱度が前月比278%増。",
-      "genre": "other",
-      "commercial_score": 65,
-      "product_keywords": [
-        "travel suitcase",
-        "travel pillow"
-      ],
-      "product_keywords_ja": [
-        "スーツケース",
-        "ネックピロー"
-      ],
-      "trend_source": "網易",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節の大型連休旅行トレンド",
-          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
-          "source": "網易",
-          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
-        }
-      ]
-    },
-    {
-      "keyword": "请3休13",
-      "reason_ja": "3日休暇で13連休になる「超長連休」が話題。",
-      "genre": "other",
-      "commercial_score": 55,
-      "product_keywords": [
-        "travel backpack"
-      ],
-      "product_keywords_ja": [
-        "旅行 リュック"
-      ],
-      "trend_source": "網易",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節の大型連休旅行トレンド",
-          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
-          "source": "網易",
-          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
-        },
-        {
-          "title_ja": "2026年国慶節ゴールデンウィークの展望",
-          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
-          "source": "界面新聞",
-          "url": "https://m.jiemian.com/article/13436593.html"
-        }
-      ]
-    },
-    {
-      "keyword": "西南西北长途游",
-      "reason_ja": "西南・西北への長距離旅行の予約が前年比30%超増。",
-      "genre": "outdoor",
-      "commercial_score": 50,
-      "product_keywords": [
-        "hiking boots",
-        "portable power bank"
-      ],
-      "product_keywords_ja": [
-        "トレッキングシューズ",
-        "モバイルバッテリー"
-      ],
-      "trend_source": "界面新聞",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節ゴールデンウィークの展望",
-          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
-          "source": "界面新聞",
-          "url": "https://m.jiemian.com/article/13436593.html"
-        }
-      ]
-    },
-    {
-      "keyword": "中秋国庆",
-      "reason_ja": "中秋・国慶関連の検索が大幅増で、帰省や旅行需要が高い。",
+      "keyword": "蜜雪冰城 抽中电动车",
+      "reason_ja": "昆明の蜜雪冰城旗艦店で127元分の菓子を買った男性が約4000元の電動バイクを当て、百度热搜に。",
       "genre": "food",
-      "commercial_score": 50,
-      "product_keywords": [
-        "mooncake gift box"
-      ],
-      "product_keywords_ja": [
-        "月餅 ギフト"
-      ],
-      "trend_source": "網易",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節の大型連休旅行トレンド",
-          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
-          "source": "網易",
-          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
-        }
-      ]
-    },
-    {
-      "keyword": "邮轮出境游",
-      "reason_ja": "クルーズや少人数高級ツアーなど体験型の海外旅行が人気。",
-      "genre": "other",
       "commercial_score": 45,
       "product_keywords": [
-        "travel adapter"
+        "蜜雪冰城"
       ],
-      "product_keywords_ja": [
-        "海外 変換プラグ"
-      ],
-      "trend_source": "Airbnb",
-      "trend_source_type": "news",
+      "product_keywords_ja": [],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Airbnb 国慶節の出国旅行トレンド報告",
-          "summary_ja": "クルーズや少人数高級ツアーなど体験重視の旅行が人気との報告。",
-          "source": "Airbnb",
-          "url": "https://news.airbnb.com/zh/airbnb%E7%88%B1%E5%BD%BC%E8%BF%8E%E5%8F%91%E5%B8%83%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E5%87%BA%E5%A2%83%E6%B8%B8%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%97%85/"
+          "title_ja": "蜜雪冰城の国慶キャンペーンで電動バイクが当選",
+          "summary_ja": "昆明の蜜雪冰城旗艦店が国慶節に行う抽選で、127元分を買った客が特賞の電動バイクを当てた。特賞は10台用意されている。",
+          "source": "鳳凰網",
+          "url": "https://news.ifeng.com/c/8wwlHk5i8jy"
+        }
+      ]
+    },
+    {
+      "keyword": "余承东 工作备注",
+      "reason_ja": "華為の余承東氏が享界G9の宣伝投稿に社内向けの指示文を残したまま投稿し、百度热搜に。",
+      "genre": "gadget",
+      "commercial_score": 40,
+      "product_keywords": [
+        "享界G9",
+        "华为 Mate 90"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "余承東氏の微博、社内メモ付きで投稿し話題に",
+          "summary_ja": "余承東氏が享界G9の車載通信テストを紹介した微博に「余総転送」などの社内向けメモが残っており、ネットで話題になった。",
+          "source": "網易",
+          "url": "https://m.163.com/news/article/L8DJBE910511A6N9.html"
+        }
+      ]
+    },
+    {
+      "keyword": "徐良演唱会 面包厂",
+      "reason_ja": "歌手・徐良がコンサートの手土産を倒産寸前の工場に発注し、2工場が持ち直したことが百度热搜に。",
+      "genre": "food",
+      "commercial_score": 40,
+      "product_keywords": [
+        "怀旧面包",
+        "毛毛虫面包"
+      ],
+      "product_keywords_ja": [
+        "菓子パン"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "徐良のコンサート手土産、倒産寸前の工場を救う",
+          "summary_ja": "徐良はツアー各地で懐かしのパンを手土産に配っており、北京公演の毛虫パンを倒産寸前の工場に発注した。注文を受けた工場は従業員を呼び戻した。",
+          "source": "QQ",
+          "url": "https://news.qq.com/rain/a/20261004A02YOB00"
+        }
+      ]
+    },
+    {
+      "keyword": "国庆景区热度 小城",
+      "reason_ja": "去哪儿のデータで国慶の人気観光地トップ10を地方の小都市が独占し、百度热搜に。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "旅行用品"
+      ],
+      "product_keywords_ja": [
+        "旅行 グッズ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "国慶の人気観光地トップ10を小都市が独占",
+          "summary_ja": "去哪儿によると、国慶節の人気観光地トップ10は小都市が占めた。九寨溝などでは4〜6日の入場券が売り切れている。",
+          "source": "楚天都市報",
+          "url": "https://www.ctdsb.net/c1476_202610/2871998.html"
         }
       ]
     }

@@ -4,30 +4,62 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "英政府、週30時間の無償保育を拡大",
-      "summary_ja": "英国政府は共働き世帯向けの週30時間無償保育を拡充し、子ども1人当たり年7,500ポンドの節約になるとしている。",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/parents-to-save-thousands-in-childcare-cost-with-new-funding",
-      "score": 50,
-      "commercial_score": 35,
+      "title_ja": "保守党、年収10万ポンドの保育支援「崖」撤廃を公約",
+      "summary_ja": "保守党のベイドノック党首は、年収10万ポンドを超えると無償保育が打ち切られる仕組みを撤廃すると表明した。公務員削減で財源をまかなうとし、党大会前に各紙が大きく報じた。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo",
+      "score": 90,
+      "commercial_score": 30,
       "product_keywords": [
-        "無償保育",
-        "保育料"
+        "無償保育"
       ]
     },
     {
-      "title_ja": "英政府、保育の隠れた費用に対策",
-      "summary_ja": "教育大臣が競争・市場庁に書簡を送り、保育施設の隠れた追加費用の是正に動いた。親の7割超が貯金で追加費用を賄っているという。",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/new-action-against-hidden-childcare-costs-to-help-families",
-      "score": 48,
-      "commercial_score": 20,
+      "title_ja": "フード付きベビー寝袋の使用中止を呼びかけ",
+      "summary_ja": "10月1日に出た全国的な製品安全警告を受け、フード付きや腕穴のないベビー用スリーパーの購入・使用をやめるよう保護者に呼びかけられている。窒息の危険があるためだ。",
+      "source": "London Daily News",
+      "url": "https://www.londondaily.news/parents-urged-to-stop-using-baby-sleeping-bags-with-hoods-or-no-armholes/",
+      "score": 80,
+      "commercial_score": 60,
       "product_keywords": [
-        "保育料",
-        "保育園"
+        "ベビースリーパー",
+        "ベビー寝袋"
+      ]
+    },
+    {
+      "title_ja": "保育不足がハイランドの労働力と人口を脅かす",
+      "summary_ja": "スコットランド・ハイランド地方の報告書は、保育の不足が雇用や企業の採用、家族の定住に影響していると警告した。遠隔地ほど深刻だという。",
+      "source": "Inverness Courier",
+      "url": "https://www.inverness-courier.co.uk/news/childcare-shortages-threaten-highland-workforce-and-populati-446523/",
+      "score": 68,
+      "commercial_score": 15,
+      "product_keywords": [
+        "保育"
+      ]
+    },
+    {
+      "title_ja": "ジャージー島、保育時間拡大に有資格者が不足",
+      "summary_ja": "英王室属領ジャージー島では、保育時間の拡大に対応できるだけの有資格スタッフがいないと指摘された。制度変更の実施に課題が残る。",
+      "source": "BBC",
+      "url": "https://www.msn.com/en-us/news/other/more-staff-needed-for-increased-childcare-hours/ar-AA2duqYX",
+      "score": 58,
+      "commercial_score": 10,
+      "product_keywords": [
+        "保育士"
+      ]
+    },
+    {
+      "title_ja": "誰でも利用できる「ベビーバンク」が開設",
+      "summary_ja": "グロスターシャーのニューエントに、子ども服などを無料で配るベビーバンクの新拠点ができた。責任者は「誰にでも開かれている」と話す。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?amp;at_campaign=rss",
+      "score": 52,
+      "commercial_score": 25,
+      "product_keywords": [
+        "ベビー服"
       ]
     }
   ]
