@@ -1,370 +1,212 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "Kindleが刷新、薄型化と高速化",
-      "summary_ja": "アマゾンジャパンは電子書籍リーダーKindleの新機種4モデル（Kindle 16GB/32GB、Paperwhite、Colorsoft）を発表した。価格は2万9980円から。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145144.html",
-      "score": 80,
-      "commercial_score": 88,
-      "product_keywords": [
-        "Kindle",
-        "電子書籍リーダー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "新Fire TV Stick 4K、電源アダプター不要に",
-      "summary_ja": "新しいFire TV Stick 4KはテレビのUSB端子から給電して動く。価格は1万1980円で、10月のプライム感謝祭では5980円になる。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145167.html",
-      "score": 76,
+      "title_ja": "iPhone Duo、10月16日に予約開始 23日発売",
+      "summary_ja": "Appleの折りたたみiPhone Duoは10月16日に予約を開始し、23日に発売される。価格は1,999ドルからで、12日から事前準備ができる。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "score": 92,
       "commercial_score": 90,
       "product_keywords": [
-        "Fire TV Stick 4K"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Androidのマイナンバーカード、10月20日開始",
-      "summary_ja": "デジタル庁は、AndroidのGoogle ウォレットに追加して使える「Androidのマイナンバーカード」を10月20日に提供開始する。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145170.html",
-      "score": 74,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Mate 90 Pro Max、ゲームの電力効率で高評価",
-      "summary_ja": "10月1日に発表されたファーウェイのMate 90 Pro Maxを極客湾が検証し、麒麟9050 Proの電力効率が一部のゲームでSnapdragon 8 Elite第5世代機を上回った。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/580.htm",
-      "score": 74,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "TDK、網膜に直接映すスマートグラスを実証",
-      "summary_ja": "TDKは厚さ150ナノメートルの透明なメタオプティクスミラーをレンズに埋め込み、網膜に直接映像を描くスマートグラス向けディスプレイの実証に成功したと発表した。",
-      "source": "デイリーガジェット",
-      "url": "https://daily-gadget.net/gadgets/121192/",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "スマートグラス"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Meta、AI端末「Muse」を自作できるコードを公開",
-      "summary_ja": "MetaはAIエージェント「Muse」を載せた端末を誰でも作れるよう、コードをオープンソースで公開した。同社は自己責任での利用を呼びかけている。",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "score": 70,
-      "commercial_score": 45,
-      "product_keywords": [
-        "スマートスピーカー"
+        "iPhone Duo",
+        "折りたたみスマホ",
+        "Apple"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Jackery、EV技術でポータブル電源を小型化",
-      "summary_ja": "JackeryはEVで使われるCTB（セル・トゥ・ボディ）構造を新しいポータブル電源に採用し、大容量のまま本体を小さくした。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/jackery-used-a-well-known-ev-trick-to-slash-dimensions-of-its-new-portable-power-stations-ctb-shrinks-explorer-2000-plus-v2-pps-by-60-makes-it-33-lighter",
-      "score": 70,
+      "title_ja": "華為Mate 90シリーズ発売 5999元から",
+      "summary_ja": "華為は10月1日にMate 90シリーズ5機種を発表し、同日発売した。Mate 90は5999元から、RS非凡大師は12999元となる。",
+      "source": "網易科技",
+      "url": "https://www.163.com/tech/article/L85OB3HV00097U7T.html",
+      "score": 88,
+      "commercial_score": 90,
+      "product_keywords": [
+        "華為 Mate 90",
+        "麒麟9050",
+        "鴻蒙7"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Apple、10月に新ハードとOSを多数投入へ",
+      "summary_ja": "Appleは10月にiPhone Duoのほか、iOS 27.1と27.2、Mac Studioの新構成などを投入する。iPad miniやHomePod miniの噂もある。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "ポータブル電源",
-        "Jackery"
+        "Mac Studio",
+        "iPad mini",
+        "HomePod mini",
+        "iOS 27.1"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Galaxy初のクリップ型イヤホン「Buds On」登場",
+      "summary_ja": "サムスンが耳に挟むクリップ型イヤホンGalaxy Buds Onを発表した。まず韓国で10月27日に発売され、世界展開は後日となる。",
+      "source": "Gizmodo Japan",
+      "url": "https://www.gizmodo.jp/article/2610-galaxy-buds-on-release/",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Galaxy Buds On",
+        "クリップ型イヤホン",
+        "Samsung"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "10日で5社が旗艦スマホを投入 国慶商戦",
+      "summary_ja": "vivo、小米、OPPO、栄耀、華為の5社が9月21日から10月1日に十数機種の旗艦を投入した。国慶の買い替え需要を狙う。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-initvyev4482666.shtml",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "vivo X500",
+        "小米18 Pro",
+        "OPPO Find X10",
+        "栄耀 Magic9"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Meta、第3世代Ray-Banとオーディオ専用グラス",
+      "summary_ja": "MetaはRay-Ban Meta Gen 3と、カメラなしのRay-Ban Meta Audioを発表した。後者は349ドルからで10月13日に出荷される。",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/23/meta-ray-ban-gen-3-audio-only-smart-glasses/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Ray-Ban Meta",
+        "スマートグラス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "今月のベストガジェット 2026年10月版",
+      "summary_ja": "TechRadarが10月にテストした注目製品をまとめた。SonosのBeam Ultraやゼンハイザーの完全ワイヤレスなどが高評価だった。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026",
+      "score": 72,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Sonos Beam Ultra",
+        "Sennheiser Momentum True Wireless 5"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "楽天市場、新セール「ジャンル祭」4日20時から",
-      "summary_ja": "楽天市場は新たなセール「ジャンル祭」を10月4日20時から9日まで開く。初回はお買い物マラソンと連動し、ファッション・食品・日用品・家電で最大50%オフやポイント還元を行う。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145237.html",
+      "title_ja": "サムスン、初のクリップ型イヤホンを韓国で発売",
+      "summary_ja": "サムスンは初のクリップ型イヤホンGalaxy Buds Onを韓国で発売する。299,000ウォン（約220ドル）で、Gemini Liveに対応する。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Galaxy Buds On",
+        "Gemini Live"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "DJI Osmo 360 IIレビュー 8K対応で完成度向上",
+      "summary_ja": "DJI Osmo 360 IIは1インチセンサーで8K/60fpsの360度撮影に対応し、レンズ交換も可能だ。英国価格は509ポンドで、初代の弱点を改善した。",
+      "source": "Expert Reviews",
+      "url": "https://www.expertreviews.co.uk/technology/action-cameras/dji-osmo-360-ii-review",
       "score": 68,
       "commercial_score": 85,
       "product_keywords": [
-        "楽天 セール",
-        "家電"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ソフトバンク、上空3000mの無人機から通信提供",
-      "summary_ja": "ソフトバンクは国産の通信ポッドを大型無人機に載せ、上空から通信サービスを提供することに成功した。災害時の臨時通信エリアとして実用化を目指す。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2145115.html",
-      "score": 66,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "カプコン、ゲーム開発の効率化にAI活用へ",
-      "summary_ja": "カプコンはゲーム開発のスピードを上げるためAIを使う方針を示した。ゲーム内にAI生成コンテンツは使わないと以前から表明している。",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
-      "score": 66,
-      "commercial_score": 40,
-      "product_keywords": [
-        "カプコン ゲーム"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "部品高騰がテレビ価格に波及",
-      "summary_ja": "AI需要による部品不足で、メモリーやWi-Fiモジュールの価格がパネル以上に上がり、テレビの価格にも影響が出始めている。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
-      "score": 66,
-      "commercial_score": 50,
-      "product_keywords": [
-        "テレビ"
+        "DJI Osmo 360 II",
+        "360度カメラ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "Suunto Race 3S、10月15日発売との情報",
-      "summary_ja": "リーク資料によると、スントの新スポーツウォッチRace 3Sは10月15日発売で499ドル。2000ニトの有機EL、サファイアガラス、45時間の2周波GPSを備えるという。",
-      "source": "gadgetsandwearables.com",
-      "url": "https://gadgetsandwearables.com/2026/10/02/suunto-race-3s-leak-specs-launch-price/",
-      "score": 64,
-      "commercial_score": 75,
-      "product_keywords": [
-        "スント",
-        "GPSウォッチ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Googlebook、Gemini搭載の高級ノートPC",
-      "summary_ja": "GoogleのAndroidベースの新ノートPC「Googlebook」は高価格帯でGeminiを売りにする。従来のChromebookからの買い替えに見合うかを比較した。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/computing/chromebooks/googlebook-vs-chromebook",
-      "score": 64,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ノートパソコン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "加州、救急を妨げたロボタクシーに罰金へ",
-      "summary_ja": "カリフォルニア州は、ロボタクシーが消防や救急などの緊急車両の通行を妨げた場合、運行会社に罰金を科す新ルールを導入する。",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/",
-      "score": 62,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "国慶節の高速道路EV充電量、前年比51%増",
-      "summary_ja": "国慶節休暇の最初の2日間で、全国の高速道路での充電量は5000万kWhを超え、前年より51.34%増えた。10月1日の充電量は平日の3.24倍だった。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/508.htm",
-      "score": 62,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "UGREEN、背面が電子ペーパーのiPhoneケース",
-      "summary_ja": "UGREENはiPhone 18 Pro/17 Pro向けに、背面に3.7インチの6色電子ペーパーを組み込んだケースを中国で発売した。アプリから送った画像を表示できる。",
-      "source": "デイリーガジェット",
-      "url": "https://daily-gadget.net/gadgets/121208/",
-      "score": 60,
+      "title_ja": "Apple、「Shot on iPhone Duo」で写真家を起用",
+      "summary_ja": "Appleはiphone Duoの新キャンペーン「Shot on iPhone Duo」で写真家に撮影を依頼した。発売に向け宣伝を本格化させている。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/",
+      "score": 65,
       "commercial_score": 70,
       "product_keywords": [
-        "iPhone ケース",
-        "電子ペーパー"
+        "iPhone Duo",
+        "Shot on iPhone"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "DoorDashのAI、冷蔵庫の写真から買い物かご作成",
-      "summary_ja": "DoorDashはiPhoneのメッセージで注文できるAIエージェントを米国で試験提供している。冷蔵庫の写真から食料品の買い物かごを作ることもできる。",
-      "source": "Gadget Review",
-      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/doordash-ai-look-fridge-decide-181837777.html",
-      "score": 60,
-      "commercial_score": 30,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "DoorDashのドローン、5分以内に料理を配達",
-      "summary_ja": "DoorDashはドローン配送の詳細を明らかにし、料理を5分以内に届けられるとした。一方、Amazonのドローンには騒音の苦情が出ている。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/cameras/drones/doordash-says-its-new-drone-can-get-food-to-you-in-under-five-minutes-but-texas-residents-are-already-calling-amazon-drone-noise-a-big-problem",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "海馬雲、クラウド併用の携帯ゲーム機を発売",
-      "summary_ja": "海馬雲はクラウドと端末の両方で遊べる携帯ゲーム機「haimacloud GEAR」を3149元で発売した。7インチ144Hzの有機ELと8000mAhの電池を備える。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/576.htm",
-      "score": 60,
-      "commercial_score": 50,
+      "title_ja": "6大旗艦が同月発売 スペック競争から形態とAIへ",
+      "summary_ja": "6つの旗艦が同じ月に発売され、各社はスペック競争から形態とAIの競争へ移った。隨拍スクリーンや増距レンズも登場した。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c406803bkx8.html",
+      "score": 65,
+      "commercial_score": 70,
       "product_keywords": [
-        "携帯ゲーム機"
+        "vivo X500",
+        "OPPO Find X10",
+        "小米18 Pro"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "iPhone DuoとiPad mini、どちらを選ぶか",
-      "summary_ja": "スマホとタブレットを兼ねるiPhone Duoと、iPad miniのどちらが合うかをEngadgetが比較した。",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/",
-      "score": 58,
+      "title_ja": "DJI Osmo 360 II、8K・1インチセンサー搭載",
+      "summary_ja": "DJIのOsmo 360 IIは8K撮影と1インチセンサーを備える。GoPro、Insta360に対抗するアクションカメラとして注目される。",
+      "source": "Trusted Reviews",
+      "url": "https://www.trustedreviews.com/reviews/dji-osmo-360-ii",
+      "score": 62,
       "commercial_score": 80,
       "product_keywords": [
-        "iPhone",
-        "iPad mini"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Apple Watch 12とGarmin、睡眠計測を比べた",
-      "summary_ja": "TechRadarの記者がApple Watch Series 12とGarmin Cirqaを1週間着けて睡眠スコアを比べた。全体の傾向は同じだが、細かい数値にはずれがあった。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/i-measured-my-sleep-scores-for-a-week-with-both-the-apple-watch-series-12-and-the-garmin-cirqa-heres-how-they-compare",
-      "score": 58,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Apple Watch",
-        "ガーミン"
+        "DJI Osmo 360 II",
+        "Insta360 X6"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "Thrustmaster、GT7公式ハンコン「T-GT III」",
-      "summary_ja": "ThrustmasterはPS4/PS5向けにグランツーリスモ7公式ライセンスのハンドルコントローラー「T-GT III」を発表した。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/gaming/thrustmaster-enters-a-new-era-with-its-officially-licensed-gran-turismo-7-t-gt-iii-steering-wheel-for-ps4-and-ps5",
-      "score": 58,
+      "title_ja": "国慶に華為Mate 90が登場 麒麟チップ性能31%向上",
+      "summary_ja": "華為の新旗艦Mate 90は全機種が麒麟チップを搭載し、性能は最大31%向上した。国慶に合わせた発表となった。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c406803bp0o.html",
+      "score": 60,
       "commercial_score": 75,
       "product_keywords": [
-        "ハンドルコントローラー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "QCY、399元のイヤーカフ型イヤホン",
-      "summary_ja": "QCYはイヤーカフ型イヤホン「Crossky C70」を399元で発売した。LDAC対応で、最大30時間再生できる。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/565.htm",
-      "score": 58,
-      "commercial_score": 70,
-      "product_keywords": [
-        "イヤーカフ イヤホン",
-        "QCY"
+        "華為 Mate 90",
+        "麒麟9050 Pro"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "脳波で集中を助けるヘッドホン「Neurable One」",
-      "summary_ja": "神経科学者が率いるNeurableが、脳のデータを記録して集中を助けるヘッドホン「Neurable One」を発表した。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/audio/headphones/forget-your-phone-how-drained-is-your-brains-battery-meet-the-all-new-eeg-enabled-cognitive-health-headphones-all-set-to-give-you-an-accurate-reading",
-      "score": 56,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "TCL QM7L、今年最高の中価格帯テレビと評価",
-      "summary_ja": "TechRadarはTCLのQM7Lを、高級機に近い画質を手頃な価格で得られる2026年の中価格帯テレビの最良機と評価した。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/televisions/an-almost-premium-tv-at-mid-range-prices-tcls-qm7l-mini-led-screen-is-one-of-the-best-affordable-sets-ive-tested-thanks-to-its-vibrant-colors-bright-highlights-and-great-gaming-features",
-      "score": 56,
-      "commercial_score": 70,
-      "product_keywords": [
-        "TCL テレビ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "HONOR、42秒で自転車タイヤを満たす空気入れ",
-      "summary_ja": "HONORは照明付きの電動空気入れ「HONOR Life 充気泵 Lite」を248元で発売した。設定した空気圧で自動停止する。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/538.htm",
-      "score": 54,
+      "title_ja": "Nothing「Ear (3a)」発売 AI録音と文字起こし対応",
+      "summary_ja": "Nothingが新型ワイヤレスイヤホンEar (3a)を発売した。AIによる録音と文字起こしに対応し、新色ピンクも加わった。",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2123140.html",
+      "score": 55,
       "commercial_score": 75,
       "product_keywords": [
-        "電動空気入れ"
+        "Nothing Ear (3a)",
+        "完全ワイヤレスイヤホン"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "シャオミ、コードレスのヘアアイロンブラシ2",
-      "summary_ja": "シャオミは米家ブランドのコードレスヘアアイロンブラシの第2世代を発売した。初値は299.2元。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/510.htm",
-      "score": 52,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ヘアアイロン ブラシ",
-        "コードレス"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "VGN、439元の磁気スイッチキーボード",
-      "summary_ja": "VGNは0.005mm単位で反応点を調整できる磁気スイッチのキーボード「霓虹75 Turbo」を439元で発売する。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/533.htm",
-      "score": 52,
-      "commercial_score": 65,
-      "product_keywords": [
-        "磁気スイッチ キーボード"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ファーウェイ、AIエージェント機能の対応を縮小",
-      "summary_ja": "ファーウェイは「小芸帮帮忙」エージェントについて、今後追加される端末では対応しないと公式サイトで明らかにした。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/516.htm",
-      "score": 50,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

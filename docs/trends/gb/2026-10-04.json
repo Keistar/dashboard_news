@@ -1,0 +1,99 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
+  "trends": [
+    {
+      "keyword": "iPhone 18 Pro",
+      "reason_ja": "9月発売見込みのiPhone 18 Proへの関心が英国でも高い。",
+      "genre": "gadget",
+      "commercial_score": 78,
+      "product_keywords": [
+        "iPhone 18 Pro"
+      ],
+      "product_keywords_ja": [
+        "iPhone 18 Pro"
+      ],
+      "trend_source": "Digit等",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "iPhone 18とPixel 11の比較",
+          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
+          "source": "Digit",
+          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
+        }
+      ]
+    },
+    {
+      "keyword": "Pixel 11",
+      "reason_ja": "8月発表のPixel 11シリーズの比較検索が続いている。",
+      "genre": "gadget",
+      "commercial_score": 72,
+      "product_keywords": [
+        "Google Pixel 11"
+      ],
+      "product_keywords_ja": [
+        "Pixel 11"
+      ],
+      "trend_source": "Business Today",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
+          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
+        }
+      ]
+    },
+    {
+      "keyword": "Galaxy S26 FE",
+      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
+      "genre": "gadget",
+      "commercial_score": 68,
+      "product_keywords": [
+        "Galaxy S26 FE"
+      ],
+      "product_keywords_ja": [
+        "Galaxy S26 FE"
+      ],
+      "trend_source": "Brut",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年後半の新型スマホ発売一覧",
+          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
+          "source": "Brut",
+          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
+        }
+      ]
+    },
+    {
+      "keyword": "Halloween costume",
+      "reason_ja": "10月に入りハロウィン関連の検索・動画が増えている。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "Halloween costume",
+        "pumpkin"
+      ],
+      "product_keywords_ja": [
+        "ハロウィン 仮装",
+        "かぼちゃ 飾り"
+      ],
+      "trend_source": "TikTok",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "今月のTikTokトレンド",
+          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
+          "source": "Ypulse",
+          "url": "https://www.ypulse.com/?p=70637"
+        }
+      ]
+    }
+  ]
+}

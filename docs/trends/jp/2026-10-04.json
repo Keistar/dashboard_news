@@ -1,0 +1,153 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
+  "trends": [
+    {
+      "keyword": "Pixel 11",
+      "reason_ja": "Pixel 11シリーズ発表後も比較記事が多く、買い替え検討層の関心が続く。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Google Pixel 11",
+        "Pixel 11 case"
+      ],
+      "product_keywords_ja": [
+        "Pixel 11",
+        "Pixel 11 ケース"
+      ],
+      "trend_source": "Business Today等",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
+          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
+        },
+        {
+          "title_ja": "2026年後半の新型スマホ発売一覧",
+          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
+          "source": "Brut",
+          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
+        }
+      ]
+    },
+    {
+      "keyword": "気象情報",
+      "reason_ja": "Google急上昇で50万+検索、台風や天候への関心が高まっている。",
+      "genre": "bousai",
+      "commercial_score": 55,
+      "product_keywords": [
+        "portable weather radio",
+        "emergency kit"
+      ],
+      "product_keywords_ja": [
+        "防災ラジオ",
+        "防災グッズ セット"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: 気象情報",
+          "summary_ja": "気象情報が50万+検索で急上昇。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ]
+    },
+    {
+      "keyword": "早期天候情報",
+      "reason_ja": "早期天候情報が5万+検索で急上昇し、気温変化への備えが意識されている。",
+      "genre": "bousai",
+      "commercial_score": 40,
+      "product_keywords": [
+        "heated clothing",
+        "humidifier"
+      ],
+      "product_keywords_ja": [
+        "電熱ベスト",
+        "加湿器"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: 早期天候情報",
+          "summary_ja": "早期天候情報が5万+検索。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ]
+    },
+    {
+      "keyword": "ドジャース",
+      "reason_ja": "ドジャースの試合が10万+検索で急上昇している。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "Dodgers cap"
+      ],
+      "product_keywords_ja": [
+        "ドジャース キャップ"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: ドジャース",
+          "summary_ja": "10万+検索。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ]
+    },
+    {
+      "keyword": "ジャイアンツ 阪神",
+      "reason_ja": "プロ野球の試合が10万+検索で急上昇している。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "baseball jersey"
+      ],
+      "product_keywords_ja": [
+        "ユニフォーム 応援"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: ジャイアンツ対阪神",
+          "summary_ja": "10万+検索。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ]
+    },
+    {
+      "keyword": "RIZIN",
+      "reason_ja": "RIZINが10万+検索で急上昇、格闘技大会が話題。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [
+        "MMA gloves"
+      ],
+      "product_keywords_ja": [
+        "格闘技 グローブ"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: RIZIN",
+          "summary_ja": "10万+検索で急上昇。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ]
+    }
+  ]
+}

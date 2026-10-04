@@ -1,254 +1,149 @@
 {
   "genre": "pet",
   "genre_label_ja": "ペット",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "米調査、キャットフードのほぼ全品から重金属",
-      "summary_ja": "米国で市販のキャットフードを調べたところ、ほぼ全ての商品からプラスチック由来の汚染物質や除草剤グリホサート、鉛・水銀・ヒ素などの重金属が検出された。CNNが独占で報じた。",
-      "source": "CNN.co.jp",
-      "url": "https://www.cnn.co.jp/fringe/35253207.html",
-      "score": 84,
-      "commercial_score": 60,
+      "title_ja": "ABCペットパークfor Dogが岸和田で10月開催",
+      "summary_ja": "10月10日から12日の3日間、大阪府岸和田市のWHATAWONでペットイベントが開催される。ステージやフード、協賛ブースが並ぶ。",
+      "source": "iko-yo REPORT",
+      "url": "https://report.iko-yo.net/articles/33080",
+      "score": 60,
+      "commercial_score": 65,
       "product_keywords": [
-        "キャットフード 無添加"
+        "ドッグフード",
+        "ペットグッズ",
+        "犬用おやつ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "キャットフードに金属は入っているか",
-      "summary_ja": "新しい研究で、ほぼ全てのキャットフードから重金属が見つかった。Newsweekが飼い主の疑問に答えた。",
-      "source": "Newsweek",
-      "url": "https://www.msn.com/en-us/news/other/does-your-cat-food-contain-metal/ar-AA2drOhg",
-      "score": 76,
-      "commercial_score": 50,
+      "title_ja": "英政府のペット年間100ポンド課金説は誤り",
+      "summary_ja": "10月から犬猫に年100ポンドの料金が課されるという主張を、ファクトチェック団体が誤りと結論づけた。",
+      "source": "Full Fact",
+      "url": "https://dev.fullfact.org/economy/government-not-introducing-100-dog-cat-fee-october/",
+      "score": 60,
+      "commercial_score": 40,
       "product_keywords": [
+        "ペット保険",
+        "ペット用品"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ペディグリー缶ドッグフード回収、金属混入の恐れ",
+      "summary_ja": "FDAが一部のペディグリー製ドッグフードの自主回収を発表した。金属片が混入した可能性があり、飼い主は対象品の確認が必要だ。",
+      "source": "WWAY News",
+      "url": "https://wwaytv3.com/news-tags/pets",
+      "score": 55,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ドッグフード",
+        "ペットフード"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "杭州ペット博が10月16日から18日開催",
+      "summary_ja": "杭州国際博覧中心で10月16日から18日にペット用品展が開かれる。オンライン事前登録が始まっている。",
+      "source": "shifair",
+      "url": "https://www.shifair.com/informationDetails/319793.html",
+      "score": 55,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ペット用品",
         "キャットフード"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "国慶節にペット預かりが急増、「ペット経済」拡大",
-      "summary_ja": "河南省鄭州のペットシッターは国慶節の注文が3倍に増えた。ペット関連の消費は年に数千億元規模に育ち、若者の起業先にもなっている。",
-      "source": "chinanews.com.cn",
-      "url": "https://news.qq.com/rain/a/20261003A03W8700?adChannelId=finance",
-      "score": 74,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ペットシッター",
-        "自動給餌器"
-      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "横浜市民防災センターに災害対応ドッグフード自販機",
-      "summary_ja": "マーブル＆コーは横浜市と協定を結び、横浜市民防災センターに災害対応型のドッグフード自動販売機「愛犬の食卓」を置いた。災害時はペットフードを無償で提供する。",
-      "source": "AMP[アンプ]",
-      "url": "https://ampmedia.jp/2026/10/02/yokohama-marbleco/",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ペット 防災グッズ",
-        "ドッグフード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ペットの訪問世話サービス、北京消協が注意喚起",
-      "summary_ja": "北京市消費者協会は、ペットの訪問世話サービスでサービス内容の質の低下、資格の不備、料金の不透明さなどの問題があると注意を呼びかけた。",
-      "source": "揚子晩報（紫牛新聞）",
-      "url": "https://www.yangtse.com/news/txs/202610/t20261003_399377.html",
-      "score": 66,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ペットカメラ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "アニコム、「N-NOSEわんちゃん」利用後を追跡調査",
-      "summary_ja": "アニコム損害保険は、線虫で犬のがんリスクを調べる「N-NOSEわんちゃん」を使った後のがん診療について、長期の追跡調査を行う。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000278.000028421.html",
-      "score": 64,
-      "commercial_score": 40,
-      "product_keywords": [
-        "犬 がん検査"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ペットフードに「値段の不安」が広がる",
-      "summary_ja": "世界の消費者の3分の1が家計が苦しくなったと答え、飼い主もペットフードの値上がりを悩みに挙げている。ブランドの対応をPetfoodIndustryが論じた。",
-      "source": "PetfoodIndustry",
-      "url": "https://www.petfoodindustry.com/blogs-columns/adventures-in-pet-food/blog/15836588/is-affordability-anxiety-hitting-pet-food",
-      "score": 64,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国の多くの海岸で犬の立ち入り制限が解除",
-      "summary_ja": "夏の繁忙期に設けられていた、英国の数百の海岸での犬の散歩禁止が季節の終わりとともに解除された。",
-      "source": "Peeblesshire News",
-      "url": "https://www.msn.com/en-gb/news/other/key-rule-change-impacting-dog-owners-on-hundreds-of-uk-beaches/ar-AA2dpIDw",
-      "score": 64,
-      "commercial_score": 30,
-      "product_keywords": [
-        "犬 散歩グッズ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ジョー マローンが犬用シャンプーを発売",
-      "summary_ja": "英国の香水ブランド、ジョー マローン ロンドンがWildWashと組み、初めての犬用シャンプーを出した。",
-      "source": "Gentleman's Journal",
-      "url": "https://www.thegentlemansjournal.com/article/your-dog-can-now-smell-like-jo-malone/",
-      "score": 62,
-      "commercial_score": 80,
-      "product_keywords": [
-        "犬用シャンプー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ココグルメ、「世界のごちそうシリーズ」発売",
-      "summary_ja": "手作りドッグフードのココグルメが、世界の料理をイメージした「世界のごちそうシリーズ」を発売した。特別な日だけでなく普段の食事として提案する。",
-      "source": "ニコニコニュース",
-      "url": "https://www.oricon.co.jp/pressrelease/3018857/",
-      "score": 60,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ココグルメ",
-        "手作りドッグフード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "スマホ写真からペットの3Dフィギュアを制作",
-      "summary_ja": "オリジナルプリント.jpが、愛犬や愛猫のスマホ写真から約5cmのオーダーメイドフィギュアを作る「3Dペットフィギュア」を始めた。",
-      "source": "毎日キレイ",
-      "url": "https://animeanime.jp/release/prtimes/20261002/317164.html",
-      "score": 58,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ペット フィギュア オーダー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "グレイハウンドレース100周年に抗議",
-      "summary_ja": "英ウルヴァーハンプトンで行われたグレイハウンドレース100周年の催しに、動物福祉の団体が「ウェルフェア・ウォッシング」だと抗議した。",
-      "source": "Vet Times",
-      "url": "https://www.expressandstar.com/news/animal-welfare-protest-at-wolverhampton-greyhound-racing-centenary-event-8824638",
-      "score": 58,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "尾鷲高生、マグロの未利用部位でペットフード",
-      "summary_ja": "三重県立尾鷲高校の生徒6人が地元の水産会社と協力し、マグロの未利用部位を使った犬・猫用ペットフードを開発した。",
-      "source": "47NEWS",
-      "url": "https://www.isenp.co.jp/2026/10/02/153906/%e3%83%9e%e3%82%b0%e3%83%ad%e3%81%a7%e3%83%9a%e3%83%83%e3%83%88%e3%83%95%e3%83%bc%e3%83%89%e9%96%8b%e7%99%ba%e3%80%80%e5%b0%be%e9%b7%b2%e9%ab%98%e7%94%9f%e3%80%81%e6%9c%aa%e5%88%a9%e7%94%a8%e9%83%a8/",
-      "score": 56,
-      "commercial_score": 50,
-      "product_keywords": [
-        "マグロ ペットフード"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "保護施設から放置された犬猫やフクロウを救出",
-      "summary_ja": "英ヘイルズオーウェンの動物保護施設から、放置されていた犬、猫、フクロウを警察とRSPCAが救い出した。動物たちは無事だという。",
-      "source": "BBC",
-      "url": "https://www.msn.com/en-us/news/other/neglected-animals-rescued-from-sanctuary/ar-AA2dt7mi",
-      "score": 56,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "晋江市、常設のペット同伴公園を開設",
-      "summary_ja": "福建省晋江市で、ペットと一緒に過ごせる常設の公園が国慶節に合わせて使われ始めた。",
-      "source": "泉州新闻",
-      "url": "https://qz.fjsen.com/2026-10/03/content_32262563.htm",
-      "score": 56,
-      "commercial_score": 30,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Instagramに「ペット火葬炉」の広告",
-      "summary_ja": "Instagramで家庭用の「ペット火葬炉」の広告が表示され、利用者の間で戸惑いの声が上がっているとFuturismが報じた。",
-      "source": "futurism.com",
-      "url": "https://www.msn.com/en-us/lifestyle/other/why-is-instagram-running-ads-for-a-pet-incinerator/ar-AA2du73G",
-      "score": 54,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "北西イングランド、10月から犬連れの海岸が再開",
-      "summary_ja": "ランカシャーとマージーサイドの海岸では、制限が解かれ10月から犬を連れて行けるようになった。",
-      "source": "Manchester Evening News",
-      "url": "https://www.msn.com/en-gb/news/newsmanchester/all-the-north-west-areas-with-new-rules-for-dog-walkers-this-october/ar-AA2durut",
-      "score": 54,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "塩城で第3回ペット博覧会",
-      "summary_ja": "10月1日から3日間、江蘇省塩城の国際会展中心で第3回ペット博覧会が開かれ、国慶節の家族連れでにぎわった。",
-      "source": "紫牛新闻",
-      "url": "https://news.qq.com/rain/a/20261002A04R1200",
-      "score": 54,
-      "commercial_score": 30,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "管制無線に「ニャー」、パイロットが注意受ける",
-      "summary_ja": "ワシントンのレーガン空港の管制周波数で猫や犬の鳴きまねが聞こえ、2人のパイロットが管制官から注意された。",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/videos/pilots-scolded-after-they-meow-and-bark-on-air-traffic-control-channels",
-      "score": 52,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "鞍山で初のペット産業「源頭」博覧会",
-      "summary_ja": "遼寧省鞍山で10月3日、繁殖など産業の上流を扱うペット博覧会が開幕した。出展は500社余り、来場者は3万人を超えた。",
-      "source": "搜狐网",
-      "url": "https://news.qq.com/rain/a/20261003A080J200",
-      "score": 52,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ペット用品店Hollywood Feedが専用クレジットカード",
-      "summary_ja": "SunbitがペットショップHollywood Feedの全店で使えるクレジットカードを導入した。初回購入20%オフなどの特典がある。",
-      "source": "Pet Age",
-      "url": "https://www.desmoinesregister.com/press-release/story/133366/hollywood-feed-and-sunbit-launch-national-rollout-of-world-elite-mastercard-in-all-175-hollywood-feed-stores-and-online/",
+      "title_ja": "釧路でフォギーペットフェス10月10日開催",
+      "summary_ja": "北海道釧路市のくしろ記念公園で10月10日と11日にペットフェスが開かれる。飼い主と愛犬が楽しめる催しが予定されている。",
+      "source": "北海道新聞",
+      "url": "https://www.hokkaido-np.co.jp/article/1351315/",
       "score": 50,
-      "commercial_score": 30,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ペット用品",
+        "犬服"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "北京秋季ペット用品展UPETが10月中旬開催",
+      "summary_ja": "北京で10月16日から18日にペット用品の展示会が予定されている。中国ペット産業の動向を示す場となる。",
+      "source": "shifair",
+      "url": "https://www.shifair.com/informationDetails/360765.html",
+      "score": 50,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ペット用品",
+        "ペットフード"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "生肉ペットフードにサルモネラ菌の懸念で回収",
+      "summary_ja": "生肉タイプのペットフードがサルモネラ菌の懸念で回収された。購入者は該当ロットを確認し、使用を控えるよう求められている。",
+      "source": "KY3",
+      "url": "https://www.ky3.com/2026/05/09/raw-pet-food-brand-recalled-over-salmonella-concerns/",
+      "score": 45,
+      "commercial_score": 55,
+      "product_keywords": [
+        "生肉フード",
+        "ペットフード"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国ペット経済は7000億元規模へ拡大",
+      "summary_ja": "2024年の中国ペット経済市場は約7013億元とされ、00後が中心的な消費層になっている。",
+      "source": "每日经济／woshipm",
+      "url": "https://www.woshipm.com/it/4213399.html",
+      "score": 45,
+      "commercial_score": 65,
+      "product_keywords": [
+        "ペットフード",
+        "スマートペット用品"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ペット関連の最新ニュースまとめ",
+      "summary_ja": "ビジネスジャーナルのペット関連記事を集めた一覧ページ。健康や暮らしに関する話題が並ぶ。",
+      "source": "ビジネスジャーナル",
+      "url": "https://biz-journal.jp/tag/%E3%83%9A%E3%83%83%E3%83%88",
+      "score": 40,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ペット保険",
+        "ペットフード"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英ペット業界ニュース一覧",
+      "summary_ja": "英国のペット関連の最新記事を掲載する専門メディアのタグページ。動物福祉や業界動向を扱う。",
+      "source": "Pets Magazine",
+      "url": "https://www.petsmag.co.uk/tag/pets/",
+      "score": 40,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ペットフード",
+        "ペットケア"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

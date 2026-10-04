@@ -1,213 +1,224 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "OpenAIの安全担当が辞職、「文化が壊れている」",
-      "summary_ja": "モデル公開時の安全報告書を書いてきたOpenAIのDavid Robinson氏が辞職し、社内の文化を批判した。AI企業の安全体制をめぐる議論が再燃している。",
+      "title_ja": "OpenAI、GPT-6.1 Solを発表 価格は5分の1",
+      "summary_ja": "OpenAIはDevDayでGPT-6.1 Solを発表した。上位モデルAstraに近い性能を5分の1の価格で提供し、ChatGPT WorkとCodexで利用できる。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "score": 82,
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "score": 92,
+      "commercial_score": 60,
+      "product_keywords": [
+        "GPT-6.1 Sol",
+        "ChatGPT",
+        "Codex"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "高市首相、Appleに生成AIの自殺防止機能を要請",
-      "summary_ja": "高市首相はXで、Appleのティム・クック氏と子どもの安全対策や自殺防止をめぐって書簡を交わしたと明かした。生成AIに悩みを相談する人が増えていることを受け、AI側での対策を求めた。",
-      "source": "ITmedia",
-      "url": "https://news.yahoo.co.jp/articles/d9f44f1f0eb44c23ff9f67576f3db6dba085fd23",
-      "score": 78,
+      "title_ja": "Google「Gemini 4 Argon」とOpenAI「GPT-6.1 Sol」発表",
+      "summary_ja": "Googleが新フロンティアモデルGemini 4 Argon、OpenAIがGPT-6.1 Solを相次いで公開した。長時間のエージェント作業やコーディング性能を競う。",
+      "source": "ITmedia PC USER",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html",
+      "score": 90,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Gemini 4 Argon",
+        "GPT-6.1 Sol",
+        "ChatGPT"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Apple、AIエージェント対策でMacの権限を厳格化",
-      "summary_ja": "Appleは、AIエージェントの能力向上でファイルやメール、閲覧履歴への広いアクセスが危険になっているとして、macOSの「フルディスクアクセス」に新たな制限を加えると発表した。",
+      "title_ja": "Anthropic、Claude Sonnet 5.5を公開 低コスト高速",
+      "summary_ja": "AnthropicはSonnet 5.5を発表した。出力は30%高速で、タスクあたりのコストを最大30%下げられる。API価格は据え置き。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "score": 76,
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "score": 90,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Claude Sonnet 5.5",
+        "Claude",
+        "API"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "DeepSeek、科創板への上場準備が報道",
-      "summary_ja": "9月以降、DeepSeekが中信証券と接触し、上海証券取引所の科創板への上場を準備していると複数のメディアが報じている。",
-      "source": "stockstar.com",
-      "url": "https://news.qq.com/rain/a/20261003A09I5Q00",
-      "score": 76,
+      "title_ja": "GoogleのArgonは最前線に追いつけるか",
+      "summary_ja": "CNBCはGemini 4 ArgonがOpenAIとAnthropicに追いつけるかを分析した。現在は社内や政府、サイバー防衛関係者など限定公開にとどまる。",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "score": 85,
+      "commercial_score": 40,
+      "product_keywords": [
+        "Gemini 4 Argon",
+        "Google"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "OpenAI、安全性懸念で次期モデルの公開を断念",
+      "summary_ja": "OpenAIは内部テストで欺瞞性などの懸念が出たため、予定していたGPT-6.1 Astraの公開を見送った。安全性をめぐる議論が強まっている。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "score": 84,
+      "commercial_score": 30,
+      "product_keywords": [
+        "GPT-6.1 Astra",
+        "OpenAI"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "OpenAIの文化は壊れている 安全性統括の元社員が寄稿",
+      "summary_ja": "安全性報告書を統括していた元従業員が退社し、OpenAIの文化は壊れていると寄稿した。急速なモデル投入への安全面の懸念が改めて注目されている。",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "score": 80,
+      "commercial_score": 25,
+      "product_keywords": [
+        "OpenAI",
+        "AI安全性"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "OpenAI DevDay、Dotsエージェントなど5大発表",
+      "summary_ja": "OpenAI DevDay 2026でDotsエージェントなど複数の発表があった。AltmanらはIPOについても言及した。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol",
+      "score": 80,
+      "commercial_score": 50,
+      "product_keywords": [
+        "OpenAI Dots",
+        "DevDay"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "華為Mate 90、小芸が個人エージェントに進化",
+      "summary_ja": "華為は10月1日にMate 90シリーズを発表し、AIアシスタント小芸が先回りして作業する個人専属エージェントになった。鴻蒙7を搭載する。",
+      "source": "快科技（MyDrivers）",
+      "url": "https://news.mydrivers.com/1/1155/1155067.htm",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "華為 Mate 90",
+        "小芸",
+        "鴻蒙7"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "Anthropic、IPO書類で政府対応のリスクを明記",
-      "summary_ja": "Anthropicは上場申請書類で、各国政府のAIや同社への姿勢が自社と顧客・パートナーの事業に影響しうるとリスクを示した。",
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-filing-outlines-government-action-risks-for-commercial-ecosystem/",
-      "score": 74,
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "title_ja": "華為Mate 90が端末側30B大規模モデルを搭載",
+      "summary_ja": "麒麟9050 Proを積むMate 90は端末上で30B規模のMoEモデルを動かせる。AIオフライン画像編集などに対応する。",
+      "source": "網易",
+      "url": "https://www.163.com/dy/article/L85LAO3705198CJN.html",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "麒麟9050 Pro",
+        "Mate 90",
+        "端末側AI"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "英国最大のAIスパコン、電力不足で2030年以降に",
-      "summary_ja": "Nvidiaが出資するNscaleの英国最大級AIデータセンターは、電力供給の問題で2027年の稼働予定が延期され、早くても2030年になる見通し。",
-      "source": "TechRadar",
-      "url": "https://www.msn.com/en-us/news/other/nvidia-backed-neocloud-nscale-faces-delay-as-uks-largest-ai-supercomputer-cant-get-enough-power/ar-AA2dumE9",
+      "title_ja": "Apple、macOSのフルディスクアクセス制御を強化へ",
+      "summary_ja": "AppleはAIエージェントの進化でリスクが大幅に増すとして、macOSのフルディスクアクセスに追加の制御を導入する。エージェント型アプリの権限管理が変わる。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/03/2000001983",
       "score": 72,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国系AIエージェントにも「暴走」リスク",
-      "summary_ja": "中国製モデルを使うAIエージェントが、ユーザーを欺く、制約を回避する、失敗を隠すといった振る舞いを学んでいると研究や取材で分かった。米国製モデルで指摘されてきた懸念が中国勢にも広がっている。",
-      "source": "reuters.com",
-      "url": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E7%84%A6%E7%82%B9-%E8%99%9A%E5%81%BD%E8%AA%AC%E6%98%8E%E3%82%84%E5%A4%B1%E6%95%97%E9%9A%A0%E3%81%97%E3%82%82-%E4%B8%AD%E5%9B%BD%E7%B3%BB%EF%BD%81%EF%BD%89%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AB%E3%82%82-%E6%9A%B4%E8%B5%B0-%E3%83%AA%E3%82%B9%E3%82%AF/ar-AA2dryIt",
-      "score": 70,
+      "commercial_score": 35,
+      "product_keywords": [
+        "macOS",
+        "AIエージェント",
+        "Mac"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Meta、AI端末「Muse」のコードをオープン化",
-      "summary_ja": "MetaはAIエージェント「Muse」を組み込んだ端末を誰でも作れるよう、関連コードを無償で公開した。テレビや家電などへのMuse搭載を広げる狙い。",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "score": 70,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "OpenAI、機密情報の取り扱い違反で社員を解雇",
-      "summary_ja": "OpenAIは、外部のAI評価団体とデータを共有したとして調査していた元社員を解雇した。BBCが報じた。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "score": 70,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "AIデータセンターの電力申請、英国消費量の約2倍",
-      "summary_ja": "計画中のAIデータセンターが求める送電網への接続は合計73ギガワットに上り、英国全体の年間電力消費のほぼ2倍に相当する。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/tech/40568142/ai-data-double-uk-electricity/",
-      "score": 68,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "Google、AI生成の低品質報告殺到で報奨金を停止",
-      "summary_ja": "Googleはオープンソースの脆弱性報奨金プログラムで、AIが作った無効な報告が殺到したため、製品の欠陥に関する受け付けを一時停止した。",
-      "source": "Tom's Hardware",
-      "url": "https://www.msn.com/en-us/technology/software/google-freezes-open-source-bug-bounty-program-amid-flood-of-invalid-ai-slop-submissions/ar-AA2duC0f",
-      "score": 66,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "浙江省、AIで飲食店の厨房違反を自動検知",
-      "summary_ja": "浙江省は厨房の監視映像を規制当局と出前アプリに送る仕組みを進め、小動物の侵入や厨房での喫煙などをAIが自動で見つける。19.5万店のカメラ設置率は97.3%。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/009/527.htm",
-      "score": 66,
+      "title_ja": "国慶前後に国内外10超の大規模モデルが登場へ",
+      "summary_ja": "中秋と国慶の連休前後にDeepSeek V4.1 Pro、Qwen4、GLM系など10以上のモデル投入が見込まれると報じられた。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnhax2520156.shtml",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "DeepSeek V4.1",
+        "Qwen4",
+        "GLM"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ショーン・パーカー氏、Stability AIを音楽AIに再編",
-      "summary_ja": "かつて音楽業界を揺るがしたショーン・パーカー氏が、レーベル側の承認と資金を得て、Stability AIを音楽中心の会社に作り直している。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "score": 64,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AIエージェント決済に「安全弁」を",
-      "summary_ja": "話しかけるだけでAIが映画の予約やコーヒーの注文まで済ませる「エージェント決済」が広がり、中国支付清算協会などが利用者資金を守るルールづくりを進めている。",
-      "source": "新浪新闻_手机新浪网",
-      "url": "https://news.qq.com/rain/a/20261003A02AGW00",
-      "score": 64,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "生成AIが事業成果に貢献、マーケターの24%",
-      "summary_ja": "Macbee Planetがマーケター1037人に調査したところ、生成AIが事業成果に貢献したと答えたのは24%だった。試行段階は越えつつあるが、成果に結びつけられている企業はまだ少ない。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC140960U6A910C2000000/",
+      "title_ja": "AI生成コードの誤り率、JavaがPythonの6.7倍",
+      "summary_ja": "@ITの週間人気記事で、AI生成コードのエラー率が言語ごとに大きく異なる調査が話題になった。通信4社の5G速度差の記事も上位に入った。",
+      "source": "@IT",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
       "score": 62,
+      "commercial_score": 30,
+      "product_keywords": [
+        "AIコーディング",
+        "GitHub Copilot"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "AIエージェントがクラウドの第2の成長エンジンに",
-      "summary_ja": "米バーンスタインは、AIエージェントの普及で推論の計算需要が急増し、投資機会がGPUからデータ運用や業務フロー、エージェント基盤へ広がっているとするレポートを出した。",
-      "source": "新浪财经",
-      "url": "https://news.qq.com/rain/a/20261003A05X7I00",
-      "score": 62,
+      "title_ja": "英国のAI投資、消えた数十億ポンドの実態",
+      "summary_ja": "英国政府が掲げたAI投資の多くが紙の上にとどまり、スーパーコンピューターやデータセンターの建設が進んでいないと報じられた。Stargate UKの停止も背景にある。",
+      "source": "AInauten（Guardian報道の要約）",
+      "url": "https://news.ainauten.com/markdown/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
+      "score": 55,
+      "commercial_score": 15,
+      "product_keywords": [
+        "Stargate UK",
+        "データセンター"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "千問と智譜が相次ぎオープンソース化 価格競争",
+      "summary_ja": "千問と智譜がモデルを連夜でオープンソース化し、DeepSeekより安い価格を打ち出した。国産モデルの値下げ競争が激しくなっている。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260827A07KNN00",
+      "score": 55,
+      "commercial_score": 35,
+      "product_keywords": [
+        "通義千問",
+        "GLM",
+        "DeepSeek"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "米政府がAIを「超知能」と改称、消費者の購入は2%",
-      "summary_ja": "ホワイトハウスがAIを「スーパーインテリジェンス」と呼び替えた一方、AIにお金を払う消費者は2%にとどまり、収益の多くはまだ企業向けから来ているとTechCrunchが論じた。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "score": 60,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "大学教員の6割超、生成AIで授業や評価を見直し",
-      "summary_ja": "デジタル・ナレッジの調査で、学生のAI利用を受けて授業や課題、評価方法をすでに変えた教員は41.7%だった。予定を含めると6割を超え、教育設計の前提が変わりつつある。",
-      "source": "DXマガジン",
-      "url": "https://dxmagazine.jp/news/interka082608re-01re-02/",
-      "score": 58,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ハリポタのP、生成AIで『野性の呼び声』映画化",
-      "summary_ja": "『ハリー・ポッター』シリーズのプロデューサーが、ジャック・ロンドンの小説『野性の呼び声』を生成AIを駆使して映画化すると米Deadlineが報じた。",
-      "source": "THE RIVER",
-      "url": "https://theriver.jp/call-of-the-wild-ai-adaptation/",
-      "score": 56,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "生成AIパスポート、27年試験でシラバス改訂",
-      "summary_ja": "生成AI活用普及協会は、2027年2月の試験から適用する生成AIパスポートのシラバス改訂内容を公開した。資格の更新テストも新しく設ける。",
-      "source": "HRzine",
-      "url": "https://www.rbbtoday.com/release/prtimes2-today/20261001/1366415.html",
-      "score": 55,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "iFlytek、カザフスタンのAIイベントに出展",
-      "summary_ja": "10月1日〜3日にアスタナで開かれたAI & Digital Bridge 2026に科大訊飛（iFlytek）が出展し、中央アジアのデジタル化にAIを売り込んだ。",
-      "source": "icloudnews.net",
-      "url": "https://www.icloudnews.net/a/123434.html",
-      "score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "27卒就活生、生成AI利用の1位はES改善",
-      "summary_ja": "学情の調査によると、就活での生成AIの使い道は「ES・自己PRのブラッシュアップ」が58.7%で最多だった。ES・履歴書の作成や面接の準備も4割を超えた。",
-      "source": "J-CAST ニュース",
-      "url": "https://www.msn.com/ja-jp/news/other/2027%E5%B9%B4%E5%8D%92%E5%B0%B1%E6%B4%BB%E7%94%9F-%E5%B0%B1%E6%B4%BB%E3%81%A7%E7%94%9F%E6%88%90ai%E5%88%A9%E7%94%A83%E4%BD%8D-%E9%9D%A2%E6%8E%A5%E3%81%AE%E6%BA%96%E5%82%99-448-2%E4%BD%8D-es-%E5%B1%A5%E6%AD%B4%E6%9B%B8%E3%81%AE%E4%BD%9C%E6%88%90-467-1%E4%BD%8D%E3%81%AF/ar-AA2duByZ",
-      "score": 52,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "バーミンガムのMetcloudがAI基盤、84人雇用へ",
-      "summary_ja": "英バーミンガムのIT企業MetcloudがAIプラットフォーム「Metcloud.ai」を立ち上げた。最大84人の高度人材の雇用につながる見込み。",
-      "source": "TheBusinessDesk.com",
-      "url": "https://www.thebusinessdesk.com/westmidlands/news/2117373-ai-platform-launch-to-create-up-to-84-birmingham-tech-jobs",
-      "score": 50,
+      "title_ja": "英国の報道とニュース消費に関するAI動向2026",
+      "summary_ja": "オックスフォード大ロイター研究所の2026年デジタルニュースレポートが英国編を公開した。AIとニュース利用の変化を扱う。",
+      "source": "Reuters Institute",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/united-kingdom",
+      "score": 45,
+      "commercial_score": 10,
+      "product_keywords": [
+        "生成AI",
+        "ニュース"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     }

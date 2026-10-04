@@ -1,213 +1,245 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "10月の飲食料品値上げは3153品目",
-      "summary_ja": "帝国データバンクによると、10月の飲食料品の値上げは3153品目で、値上げラッシュはピークを越えた。酒類・飲料が1年ぶりに分野別で最多となり、2026年は2年連続で年2万品目を超える。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000001456.000043465.html",
+      "title_ja": "10月の食品値上げは3,000品目超",
+      "summary_ja": "帝国データバンクによると、2か月連続で月間3,000品目を超えた。酒類・飲料が最多で、原油高や円安が背景だ。",
+      "source": "マカロニ",
+      "url": "https://macaro-ni.jp/178020",
       "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "値上げ",
+        "酒類"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "10月1日発売の食品新製品まとめ",
+      "summary_ja": "味の素冷凍食品の黄金炒飯や、日本盛とキリンの機能性表示食品和源酵素などが並ぶ。日本食糧新聞が一覧で紹介している。",
+      "source": "日本食糧新聞",
+      "url": "https://news.nissyoku.co.jp/foodsnews/2026/10/01",
+      "score": 72,
+      "commercial_score": 90,
+      "product_keywords": [
+        "黄金炒飯",
+        "和源酵素"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ハーシーとマース、2026年ハロウィン菓子",
+      "summary_ja": "ハーシーは20種超の新作でキットカットの魔女型などを出す。マースもSkittles POP'dを投入する。",
+      "source": "Sporked",
+      "url": "https://sporked.com/article/new-halloween-candy-2026/",
+      "score": 70,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Mars",
+        "Skittles",
+        "ハロウィン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "USDA、外食費の上昇見通しを引き上げ",
+      "summary_ja": "食料品の上昇率は1.7%に鈍化する一方、外食は4.6%上昇の予測だ。",
+      "source": "AgBull",
+      "url": "https://www.agbull.com/usda-revises-food-price-outlook-slowing-grocery-inflation-but-lifting-restaurant-costs/",
+      "score": 68,
+      "commercial_score": 50,
+      "product_keywords": [
+        "食品価格",
+        "外食"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "各スーパーの2026年クリスマス商品が出そろう",
+      "summary_ja": "パーティーフード、ヌジャ入りピッグスなど、シェア向けの高級路線が目立つ。",
+      "source": "Grocery Gazette",
+      "url": "https://www.grocerygazette.co.uk/?p=119671",
+      "score": 66,
+      "commercial_score": 88,
+      "product_keywords": [
+        "クリスマス",
+        "パーティーフード"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Aldi、毎週1店舗ペースで新規出店",
+      "summary_ja": "Rayleighなどを含む1,500店体制に向け、2026年に3.7億ポンドを投じる。",
+      "source": "Shopappy",
+      "url": "https://shopappy.com/retail/supermarkets-grocers/",
+      "score": 65,
       "commercial_score": 60,
       "product_keywords": [
-        "まとめ買い 食品",
-        "ビール ケース"
+        "Aldi"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Taylor Farmsのレタス、27州で回収",
-      "summary_ja": "サイクロスポラ症の集団感染を受け、Taylor Farmsがレタスを27州で回収した。保健当局は5州のタコベルのレタスを避けるよう呼びかけた。",
-      "source": "NBC Los Angeles",
-      "url": "https://www.nbclosangeles.com/news/national-international/taylor-farms-recalls-iceberg-lettuce-amid-cyclosporiasis-outbreak/3918782/",
-      "score": 80,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "EUが食品分野で譲歩、英国との合意に前進",
-      "summary_ja": "英国がEUの動植物検疫ルールに合わせる協定交渉で、EU側が食品・飲料について譲歩し、合意に近づいている。",
-      "source": "The i Paper",
-      "url": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202?app=true",
-      "score": 70,
-      "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "浙江の出前店19.5万店、AIで厨房を監視",
-      "summary_ja": "浙江省では厨房の映像を出前アプリと当局に公開する仕組みに19.5万店が参加し、AIが厨房での違反行為を自動で見つける。",
-      "source": "手机新浪网",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initxwvx3923573.shtml",
-      "score": 70,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "スシロー「本鮪大とろ」110円など回転寿司の秋新作",
-      "summary_ja": "スシローは秋の目玉として本鮪大とろを税込110円から販売し、かっぱ寿司は創業地・長野市とのコラボで食べ比べメニューを出す。",
-      "source": "えん食べ",
-      "url": "https://entabe.jp/61645/2026-oct-kaitenzushi-honmaguro-nagano-news",
-      "score": 68,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Pot Noodleの一部商品を回収、表示漏れ",
-      "summary_ja": "ユニリーバは、包装に全ての原材料が書かれていなかったとして、Tesco、Asda、Icelandで売られたPot Noodleの1種類を回収した。",
-      "source": "The Bury Times",
-      "url": "https://www.msn.com/en-gb/news/other/do-not-eat-recall-issued-for-pot-noodle-flavour-sold-at-tesco-asda-and-iceland/ar-AA2dtBJr",
-      "score": 68,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "セブン、おにぎり100円セールを10月3日から",
-      "summary_ja": "セブン-イレブンは10月3日からおにぎりを100円で販売するセールを行い、最大73円安くなる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/expert/articles/b8cbfcdc22b9e8a61b8e466238b0523082bfdd7a",
-      "score": 66,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "輸入卵に関連するサルモネラ感染を調査",
-      "summary_ja": "英国の保健当局は、最近のサルモネラ感染が輸入された殻付き卵に関連している可能性があるとして調査している。",
-      "source": "LBC",
-      "url": "https://www.lbc.co.uk/article/salmonella-outbreak-eggs-uk-health-5HjdgFt_2/",
-      "score": 66,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "広東省、封がされていない出前は受け取り拒否可能に",
-      "summary_ja": "広東省では今月から、封をしていない出前の料理を受け取り拒否できるようになった。",
-      "source": "凤凰网",
-      "url": "https://news.ifeng.com/c/8wvNusXSBPP",
-      "score": 66,
-      "commercial_score": 30,
+      "title_ja": "国慶節の外食消費、新品と限定セットが活発",
+      "summary_ja": "海底撈などが祝日セットや新メニューを投入し、食材の備蓄を3割以上増やした。",
+      "source": "北京新聞",
+      "url": "https://www.bjnews.com.cn/detail/1760089154129618.html",
+      "score": 65,
+      "commercial_score": 80,
       "product_keywords": [
-        "フードデリバリー 封印シール"
+        "海底撈",
+        "祝日セット"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "Nature's Ownのハワイアンブレッド、乳成分表示漏れで回収",
-      "summary_ja": "Flowers Foodsは、表示されていない乳成分が含まれていたとして、Nature's Ownブランドのハワイアンブレッドを回収した。健康被害の報告はない。",
-      "source": "PR Newswire",
-      "url": "https://finance.yahoo.com/healthcare/articles/flowers-foods-issues-recall-natures-233000057.html",
+      "title_ja": "ハーシー2026ハロウィン、塩味スナックにも進出",
+      "summary_ja": "Reese's Sweet & Saltyなど過去最大の品ぞろえとなる。",
+      "source": "Haunted Attraction Network",
+      "url": "https://hauntedattractionnetwork.com/hershey-halloween-candy-2026/",
       "score": 64,
-      "commercial_score": 5,
+      "commercial_score": 86,
+      "product_keywords": [
+        "Hershey",
+        "Reese's"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ユウキ食品、10期超の連続増収",
-      "summary_ja": "ガラスープや豆板醤で知られるユウキ食品は、エスニック系の流行を捉えて売り上げを10期以上伸ばしている。SNSで話題の「鬼辛ペースト」など、まず発売して反応を分析する開発手法を取る。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC1409A0U6A910C2000000/",
+      "title_ja": "英国の食品インフレ、8月は1.3%",
+      "summary_ja": "Sainsbury'sのトップは2026年も低下が続くと見通す。次回CPIは10月21日だ。",
+      "source": "Food Market",
+      "url": "https://www.foodmarket.com/News/A/1330265/UK-Food-Inflation-to-Continue-to-Fall-in-2026-Says-Sainsburys-Boss",
       "score": 62,
+      "commercial_score": 45,
+      "product_keywords": [
+        "食品インフレ",
+        "Sainsbury's"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ローソンから抹茶ガトーショコラなど新スイーツ",
+      "summary_ja": "お抹茶ガトーショコラ171円とマンゴーレアチーズケーキ257円が10月4日以降順次発売される。",
+      "source": "電撃オンライン",
+      "url": "https://dengekionline.com/articles/155225/",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ローソン",
+        "ガトーショコラ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "国慶期間はコーヒーが飲食の検索ワードに",
+      "summary_ja": "沿海部では海鮮食べ歩き旅行も流行している。美食市場も盛況だ。",
+      "source": "凤凰网",
+      "url": "https://news.ifeng.com/c/8dOs0ykDOSg",
+      "score": 60,
       "commercial_score": 75,
       "product_keywords": [
-        "ユウキ食品",
-        "鬼辛ペースト"
+        "コーヒー",
+        "海鮮"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英政府、食料不安対策に1000万ポンド",
-      "summary_ja": "英首相官邸は、イングランドの貧困地域で食料不安と食費の負担に対応するため1000万ポンドを投じる計画だ。",
-      "source": "Food Manufacture",
-      "url": "https://www.foodmanufacture.co.uk/Article/2026/10/02/downing-street-to-invest-10m-into-fighting-food-insecurity-in-england/",
-      "score": 62,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ゴディバ「安納芋 ショコリキサー」など秋チョコ新作",
-      "summary_ja": "ゴディバの「安納芋 ショコリキサー」が10月2日、OGGIの「プティ ショコラ」が10月3日に発売され、秋のチョコスイーツが出そろった。",
-      "source": "えん食べ",
-      "url": "https://entabe.jp/61631/2026-1001-chocolate-sweets-godiva-shokolixir-oggi-petit-chocolat-roundup",
-      "score": 60,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ゴディバ",
-        "チョコレート ギフト"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Sierra Nevada Cheeseのチーズ、大腸菌の恐れで回収",
-      "summary_ja": "Sierra Nevada Cheese Companyが、大腸菌汚染の恐れがあるとしてチーズ製品を回収した。ハワイ州保健局が住民に注意を呼びかけた。",
-      "source": "KITV",
-      "url": "https://www.msn.com/en-us/news/other/four-sierra-nevada-cheese-company-products-recalled-in-hawaii/ar-AA2dt34x",
-      "score": 60,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ランチ需要、アジア料理とヘルシーが好調",
-      "summary_ja": "出社に伴う平日ランチ需要が戻り、アジア料理とヘルシーなメニューを出す店が伸びているとNation's Restaurant Newsが報じた。",
-      "source": "Nation’s Restaurant News",
-      "url": "https://www.nrn.com/restaurant-operations/what-s-winning-the-lunch-rush-asian-cuisine-and-healthy-options",
-      "score": 58,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Aldi、クリスマス前に英国で24店を新規出店",
-      "summary_ja": "Aldiはクリスマスまでにイングランド、スコットランド、ウェールズで24店を新たに開き、3店を移転する。",
-      "source": "L’Express Franchise",
-      "url": "https://www.northwalespioneer.co.uk/news/national/uk-today/26600622.full-list-new-aldi-stores-opening-uk-christmas/",
-      "score": 58,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "山東省警察、国慶節の食品安全を取り締まり",
-      "summary_ja": "山東省の公安は国慶節の期間中、菓子、肉製品、酒・飲料や、観光地の飲食店、出前などを重点に食品安全の違法行為を取り締まっている。",
-      "source": "搜狐网",
-      "url": "https://news.qq.com/rain/a/20261002A08Q7Y00",
-      "score": 58,
-      "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "松屋・かつやなど外食チェーンの秋の新メニュー",
-      "summary_ja": "松屋、かつや、やよい軒、なか卯、ケンタッキーフライドチキンの9月末〜10月の新商品をまとめた。",
-      "source": "えん食べ",
-      "url": "https://entabe.jp/61493/summary-2026-september-restaurant-chain-new-menu-3rd",
+      "title_ja": "World of Sweets、ハロウィン&クリスマス新商品",
+      "summary_ja": "Bondsなどのブランドで新製品を投入し、PEZやThe Traitorsの限定品も展開する。",
+      "source": "Grocery Gazette",
+      "url": "https://www.grocerygazette.co.uk/2026/08/24/world-of-sweets-unveils-2026-halloween-and-christmas-range/",
+      "score": 58,
+      "commercial_score": 85,
+      "product_keywords": [
+        "World of Sweets",
+        "PEZ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "各地で美食イベントが相次ぎ開催",
+      "summary_ja": "山西汾陽の中国菜芸術祭や寧夏呉忠の早茶文化祭などが開かれ、外食消費を後押しする。",
+      "source": "凤凰网",
+      "url": "https://news.ifeng.com/c/8nJl8ZaQEol",
+      "score": 58,
+      "commercial_score": 70,
+      "product_keywords": [
+        "美食節",
+        "早茶"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "M&Sカフェ、秋の新メニュー",
+      "summary_ja": "シナモンバンやスパイスラテ、ヨークシャープディングラップが復活する。",
+      "source": "Yorkshire Evening Post",
+      "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/ms-cafe-unveils-its-new-autumn-menu-additions-including-epic-jacket-potatoes-and-best-ever-toast-3853803",
       "score": 56,
-      "commercial_score": 20,
+      "commercial_score": 84,
+      "product_keywords": [
+        "M&S",
+        "スパイスラテ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "コンビニ各社の今週の新商品",
+      "summary_ja": "セブンやファミマも弁当やスイーツを投入している。ネット上のグルメ記事で話題になっている。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/fav/articles/3921126/",
+      "score": 55,
+      "commercial_score": 82,
+      "product_keywords": [
+        "コンビニ",
+        "新商品"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "クッキー店Chip City、全店閉店へ",
-      "summary_ja": "ダニー・マイヤー氏が出資するクッキー専門店Chip Cityが、元CEOとの訴訟を抱えるなか、残る全店舗を閉じると従業員に伝えた。",
-      "source": "Nation’s Restaurant News",
-      "url": "https://finance.yahoo.com/small-business/articles/chip-city-shutting-down-locations-152654137.html",
-      "score": 56,
-      "commercial_score": 5,
+      "title_ja": "リーシズ・サンデーカップが注目新商品に",
+      "summary_ja": "Supermarket Newsが注目すべきCPG新商品として紹介した。",
+      "source": "Supermarket News",
+      "url": "https://www.supermarketnews.com/new-cpg-products/sn-products-to-watch-reese-s-sundae-cups",
+      "score": 55,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Reese's",
+        "サンデーカップ"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "国慶・中秋のサービス消費拡大策",
+      "summary_ja": "各地が個性的で高品質なサービス消費の供給を拡大し、美食市場が活況だ。",
+      "source": "中国政府网",
+      "url": "https://www.gov.cn/yaowen/shipin/202510/content_7043494.htm",
+      "score": 52,
+      "commercial_score": 55,
+      "product_keywords": [
+        "サービス消費"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

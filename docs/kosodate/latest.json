@@ -1,206 +1,176 @@
 {
   "genre": "kosodate",
   "genre_label_ja": "子育て",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:56+09:00",
   "stories": [
     {
-      "title_ja": "学童保育に「小4以上枠」、待機解消へ",
-      "summary_ja": "こども家庭庁は、学童保育に小学4年生以上を預かる専用枠を設けるよう自治体に促す。人員や開所日数の要件を緩め、2027年度から4〜6年生の待機が多い自治体に補助金を出す。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA163CD0W6A910C2000000/",
-      "score": 82,
-      "commercial_score": 30,
+      "title_ja": "札幌の保育園児窒息死から2年 給食事故の防止策",
+      "summary_ja": "札幌の保育園で1歳児が給食を喉に詰まらせ亡くなった事故から2年がたった。母親が検証制度づくりに動き、再発防止を訴えている。",
+      "source": "HTB北海道ニュース（Yahoo!ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/ddb20ca9470bc4cb633e9b4b0849d76fb2423362",
+      "score": 78,
+      "commercial_score": 25,
+      "product_keywords": [
+        "保育園",
+        "給食",
+        "誤嚥"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ヘッドスタート改革案に反発強まる",
-      "summary_ja": "トランプ政権が低所得家庭向けの幼児教育プログラム「ヘッドスタート」の大幅な見直しを進め、支援団体が強く反対している。",
-      "source": "kfor.com",
-      "url": "https://www.msn.com/en-us/money/general/head-start-fight-reaches-tipping-point-as-advocates-push-back-against-proposed-trump-changes/ar-AA2dvGMm",
-      "score": 76,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "都教委、教職員7万人の性犯罪歴を確認へ",
-      "summary_ja": "東京都教育委員会は、日本版DBSの開始を前に独自に教職員約7万人の性犯罪歴の有無を確認する。子どもへの被害を防ぐ狙い。",
-      "source": "Yahoo!ニュース",
-      "url": "https://www.msn.com/ja-jp/news/other/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%95%99%E5%A7%94-%E6%95%99%E8%81%B7%E5%93%A1%EF%BC%97%E4%B8%87%E4%BA%BA%E3%81%AE%E6%80%A7%E7%8A%AF%E7%BD%AA%E6%AD%B4%E3%81%AE%E6%9C%89%E7%84%A1%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%B8-%E6%96%B0%E5%88%B6%E5%BA%A6-%E6%97%A5%E6%9C%AC%E7%89%88%EF%BD%84%EF%BD%82%EF%BD%93-%E9%96%8B%E5%A7%8B%E5%89%8D%E3%81%AB%E7%8B%AC%E8%87%AA%E5%AF%BE%E5%BF%9C%E3%81%A7%E8%A2%AB%E5%AE%B3%E9%98%B2%E6%AD%A2/ar-AA2daQCl",
-      "score": 74,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "保守党、高所得世帯にも無償保育を拡大へ",
-      "summary_ja": "英保守党のベイドノック党首は、年収10万ポンドを超えると無償保育を失う「崖」をなくし、高所得者が働く時間を増やしやすくする方針を示した。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
-      "score": 74,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "病院が乳幼児の預かりに参入、各地で広がる",
-      "summary_ja": "広州などで病院が運営に関わる「政府・医療・企業」共同の保育園が増え、3歳未満の子どもを預かっている。共働き家庭の保育先不足を補う動き。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20261003A09PAG00?id=20261003A09PAG00&path=a&app=news&redirect_pc=1",
+      "title_ja": "育児補助金の申請期限を延長 2026年末まで",
+      "summary_ja": "2022年から2024年生まれの乳幼児の初回申請期限が2026年12月31日まで延長された。国家衛生健康委が基準の変更点を解説した。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/c/2026-07-21/doc-iniipxxh8182909.shtml",
       "score": 72,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "全米初の保育無償化から1年、母親の働き方に変化",
-      "summary_ja": "ニューメキシコ州が全米で初めて導入した誰でも使える保育制度から約1年。研究者が母親の就労への影響を調べている。",
-      "source": "The 74 Million",
-      "url": "https://www.msn.com/en-us/news/other/nearly-a-year-in-universal-childcare-is-reshaping-work-for-moms-in-new-mexico/ar-AA2dqLDX",
-      "score": 70,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AI生成の「キャット・イン・ザ・ハット」投稿で学校が警戒",
-      "summary_ja": "絵本のキャラクターが学校を狙うように見せるAI生成の投稿が広がり、警察の警告や逮捕者も出ている。学校は保護者に注意を呼びかけた。",
-      "source": "VICE",
-      "url": "https://www.vice.com/en/article/everything-we-know-about-the-creepy-cat-in-the-hat-trend-freaking-out-schools/",
-      "score": 66,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "RSウイルス予防の情報サイトが公開",
-      "summary_ja": "2歳までにほぼ全員が感染するとされるRSウイルス感染症について、MSDが妊娠中の人や親向けに予防の情報をまとめたサイトを公開した。",
-      "source": "マイナビ子育て",
-      "url": "https://topics.smt.docomo.ne.jp/article/woman_mynavi/life/woman_mynavi-46180",
-      "score": 64,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "浜田市長が約3週間の育休を取得へ",
-      "summary_ja": "島根県浜田市の三浦大紀市長は、妻の第二子出産に合わせ11月1日から23日まで育児休暇を取る。経験を今後の子育て支援に生かすという。",
-      "source": "Excite エキサイト",
-      "url": "https://news.yahoo.co.jp/articles/e3abf124600b7a4243925946a99b21f5e0bd699b",
-      "score": 60,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "湖南省の保育総合サービスセンターが開所",
-      "summary_ja": "湖南省衛生健康委員会などが9月29日、省の保育総合サービスセンターの運用を始めた。",
-      "source": "华声在线",
-      "url": "https://news.qq.com/rain/a/20261002A0933O00",
-      "score": 60,
-      "commercial_score": 5,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "伊達市とパルシステム、育児用品を家庭に配達",
-      "summary_ja": "福島県伊達市と生協パルシステム福島が子育て支援の連携協定を結んだ。子育て家庭に育児用品を届ける。",
-      "source": "福島民報デジタル",
-      "url": "https://www.minpo.jp/articles/-/242454",
-      "score": 58,
-      "commercial_score": 55,
-      "product_keywords": [
-        "おむつ",
-        "育児用品"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ラズベリーパイ、社員の保育費を補助",
-      "summary_ja": "英ケンブリッジのRaspberry Piは、子育て中の社員の保育費を補助する制度を始めた。",
-      "source": "Business Weekly",
-      "url": "https://www.businessweekly.co.uk/posts/raspberry-pi-splashes-out-on-childcare-for-its-staff",
-      "score": 58,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ジャージー島、保育時間拡大に資格者が不足",
-      "summary_ja": "英王室属領ジャージーでは、保育時間を増やす制度変更に見合うだけの資格を持つ保育士が足りないと指摘された。",
-      "source": "BBC",
-      "url": "https://www.msn.com/en-us/news/other/more-staff-needed-for-increased-childcare-hours/ar-AA2duqYX",
-      "score": 56,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "海外の母子ブランドが中国市場に根を張る理由",
-      "summary_ja": "中国の大きな市場と消費の高度化を背景に、海外の母子用品ブランドが中国での事業を強めている背景を澎湃新聞が取り上げた。",
-      "source": "thepaper.cn",
-      "url": "https://news.qq.com/rain/a/20261002A09ZSR00",
-      "score": 56,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ベビー用品"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "保育園を抜け出した2歳児、幹線道路で見つかる",
-      "summary_ja": "ウェールズのスウォンジーで、保育園から抜け出した2歳の男の子が交通量の多い道路の真ん中で見つかったと両親が訴えている。",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c6eq8e3jpwevo",
-      "score": 54,
       "commercial_score": 30,
       "product_keywords": [
-        "子供 迷子防止"
+        "育児補助金",
+        "育児手当"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "富山・朝日町 保育園休園に保護者が猛反発",
+      "summary_ja": "朝日町が町立保育園の休園を半年前に告知し、保護者が239人分の反対署名を集めた。町は方針を再検討する。",
+      "source": "チューリップテレビ（Yahoo!ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/b76398bade7e72cc21c49a784afa9bba4bdc9161",
+      "score": 70,
+      "commercial_score": 15,
+      "product_keywords": [
+        "保育園",
+        "休園"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "秋田・大仙市 保育施設の主食費を無償に",
+      "summary_ja": "大仙市は10月から保育施設の主食費を無償にした。物価高で苦しむ家計を支え、0歳から中学生まで給食費が完全無償になる。",
+      "source": "ABS秋田放送（Yahoo!ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/e24ae2938814e4517f6176a38d57c29c0bd9e609",
+      "score": 68,
+      "commercial_score": 20,
+      "product_keywords": [
+        "給食費無償化",
+        "保育料"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "育児補助金に999億元 前年比10.6%増",
+      "summary_ja": "財政部は2026年の育児補助金に999億元を配分した。通年では約1100億元の財政支出となる見込みで、3歳未満は月300元。",
+      "source": "同花順",
+      "url": "https://news.10jqka.com.cn/20260603/c677167689.shtml",
+      "score": 68,
+      "commercial_score": 25,
+      "product_keywords": [
+        "育児補助金",
+        "少子化対策"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "熊本市 0歳児世帯に絵本と子育て用品を提供",
+      "summary_ja": "熊本市は10月から0歳児を養育する世帯に絵本や子育て用品を提供する。子育て経験者による相談支援にもつなげる。",
+      "source": "熊本日日新聞",
+      "url": "https://kumanichi.com/articles/2038506",
+      "score": 62,
+      "commercial_score": 45,
+      "product_keywords": [
+        "絵本",
+        "ベビー用品",
+        "出産祝い"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "フロリダの母親、幼児4人を残しクルーズ旅行で逮捕",
+      "summary_ja": "フロリダ州の29歳の母親が生後2か月の乳児を含む子ども4人を自宅に残し3日間のクルーズに出た。児童放置の罪で逮捕され、子どもは保護された。",
+      "source": "NBC News",
+      "url": "https://nbcnews.com/news/us-news/mom-left-infant-toddler-two-kids-home-alone-went-3-day-cruise-official-rcna600587",
+      "score": 55,
+      "commercial_score": 10,
+      "product_keywords": [
+        "児童放置"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "「補助金あり」から「産みたい」へ 少子化対策の課題",
+      "summary_ja": "補助金だけでなく、産みやすい環境をどう整えるかを論じる記事。託児や雇用など総合的な支援の必要性を指摘する。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-09/doc-inhxftir1789460.shtml",
+      "score": 55,
+      "commercial_score": 25,
+      "product_keywords": [
+        "託育",
+        "出産支援"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "クランシー被告の弁護人 殺害の証拠不十分と主張",
+      "summary_ja": "3人の子の殺害罪に問われたクランシー被告の公判は陪審が評決不能となった。弁護人は証拠が推測に基づくと主張した。",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
+      "score": 50,
+      "commercial_score": 10,
+      "product_keywords": [
+        "産後うつ",
+        "周産期メンタルヘルス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英政府、週30時間の無償保育を拡大",
+      "summary_ja": "英国政府は共働き世帯向けの週30時間無償保育を拡充し、子ども1人当たり年7,500ポンドの節約になるとしている。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/parents-to-save-thousands-in-childcare-cost-with-new-funding",
+      "score": 50,
+      "commercial_score": 35,
+      "product_keywords": [
+        "無償保育",
+        "保育料"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "母子手帳アプリ「母子モ」、小金井市で提供開始",
-      "summary_ja": "母子手帳アプリ「母子モ」が東京都小金井市で使えるようになった。妊娠・出産・子育ての記録や自治体からのお知らせをスマホで受け取れる。",
-      "source": "ニコニコニュース",
-      "url": "https://www.sankei.com/pressrelease/prtimes/BLMWY6BL2FMWPAQOPLJVO2WX6Y/",
-      "score": 52,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ライトパターソン空軍基地に新しい保育施設",
-      "summary_ja": "米陸軍工兵隊は、オハイオ州ライトパターソン空軍基地に約3800平方メートルの新しい子ども発達センターを完成させた。",
-      "source": "DVIDS",
-      "url": "https://www.army.mil/article/295904/louisville_district_delivers_modern_child_development_center_at_wright_patterson_afb",
+      "title_ja": "英政府、保育の隠れた費用に対策",
+      "summary_ja": "教育大臣が競争・市場庁に書簡を送り、保育施設の隠れた追加費用の是正に動いた。親の7割超が貯金で追加費用を賄っているという。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/new-action-against-hidden-childcare-costs-to-help-families",
       "score": 48,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "子連れ向けスパホテルを記者が体験",
-      "summary_ja": "Metroの記者が幼児と英サフォークのIckworth Hotel and Spaに泊まり、親も子どもも楽しめるかを確かめた。",
-      "source": "Metro.co.uk",
-      "url": "https://metro.co.uk/2026/10/02/stayed-a-family-focused-uk-spa-hotel-toddler-honest-review-29674238/",
-      "score": 46,
       "commercial_score": 20,
+      "product_keywords": [
+        "保育料",
+        "保育園"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "北京の病院で国慶節当日に7人が誕生",
-      "summary_ja": "北京市海淀区の婦幼保健院では、国慶節の10月1日午前だけで7人の「国慶ベビー」が生まれた。",
-      "source": "京报网",
-      "url": "https://news.qq.com/rain/a/20261002A03AYI00",
-      "score": 46,
-      "commercial_score": 5,
+      "title_ja": "国慶連休、幼稚園が家庭向けに安全の注意を通知",
+      "summary_ja": "国慶連休は10月1日から7日の7連休で、幼稚園は交通や水難、家庭内の安全を呼びかける通知を出した。親子で過ごす活動も勧めている。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1082763801_121124032",
+      "score": 45,
+      "commercial_score": 30,
+      "product_keywords": [
+        "幼稚園",
+        "チャイルドシート",
+        "親子旅行"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     }

@@ -1,255 +1,175 @@
 {
   "genre": "bousai",
   "genre_label_ja": "防災",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
   "stories": [
     {
-      "title_ja": "台風25号、千葉・神奈川の死者15人に",
-      "summary_ja": "千葉県長柄町で台風25号による土砂崩れに巻き込まれたとみられる遺体が新たに見つかり、千葉県と神奈川県の死者は15人になった。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597425",
-      "score": 86,
+      "title_ja": "沖縄県が台風26号関連資料を公表",
+      "summary_ja": "沖縄県が9月25日付で台風関連の資料を公開した。南西諸島では大雨や強風への警戒が続いた。",
+      "source": "沖縄県",
+      "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/040/085/20260925shiryo2.pdf",
+      "score": 65,
       "commercial_score": 40,
       "product_keywords": [
-        "防災グッズ"
+        "非常用持ち出し袋",
+        "モバイルバッテリー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "四街道の航空燃料基地が浸水、送油を一時停止",
-      "summary_ja": "成田国際空港会社は、台風25号の大雨で航空燃料パイプラインの中継基地「四街道石油ターミナル」が浸水し、送油を一時止めていたと明らかにした。8月の豪雨でも浸水しており、対策を検討する。",
-      "source": "au Webポータル",
-      "url": "https://mainichi.jp/articles/20261002/k00/00m/310/333000c",
-      "score": 72,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "LAの大地震、対応能力を超えると地震学者が警告",
-      "summary_ja": "地震学者ルーシー・ジョーンズ氏はロサンゼルス郡の議会で、大地震が起きれば対応が追いつかないとして、特定の断層だけでなく広く備えるよう求めた。",
-      "source": "ColoradoBoulevard.net",
-      "url": "https://www.coloradoboulevard.net/lucy-jones-warns-major-l-a-county-earthquake-would-overwhelm-response-efforts/",
-      "score": 72,
-      "commercial_score": 60,
+      "title_ja": "新しい防災気象情報、レベルと色で危険を提示",
+      "summary_ja": "危険度をレベルと色で示す新しい防災気象情報の仕組みを解説する記事。避難判断に役立つ。",
+      "source": "熊本日日新聞",
+      "url": "https://kumanichi.com/articles/2008779",
+      "score": 55,
+      "commercial_score": 35,
       "product_keywords": [
-        "防災セット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "10月は台風が華南沿岸に影響、広東西部は雨多め",
-      "summary_ja": "応急管理部によると、10月は華中・華南・西南の一部で洪水やひょうのリスクが高く、1〜2個の台風が上陸または大きく影響する見込み。広東省西部は降水量が平年より多くなる。",
-      "source": "南都N視頻",
-      "url": "https://news.qq.com/rain/a/20261002A04JQN00",
-      "score": 72,
-      "commercial_score": 30,
-      "product_keywords": [
-        "防水バッグ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "空気で設置する新型止水板、宮崎の企業が開発",
-      "summary_ja": "8月の千葉豪雨では約3800棟が浸水した。宮崎市の企業が、空気を入れて簡単に設置できる新しい止水板を開発し注目されている。",
-      "source": "UMKテレビ宮崎",
-      "url": "https://www.fnn.jp/articles/-/1125645",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "止水板",
-        "土のう"
+        "ハザードマップ",
+        "防災ラジオ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "FEMA、水不足のプエルトリコに給水トレーラー",
-      "summary_ja": "水危機に直面するプエルトリコに、FEMAが給水トレーラーを提供する。最大30日間配置される。",
-      "source": "ABC News",
-      "url": "https://www.msn.com/en-us/news/us/fema-says-it-s-providing-water-trailers-to-puerto-rico-amid-water-crisis/ar-AA29KuJX",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "保存水",
-        "ウォータータンク"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国、雨不足で干ばつの恐れ続く",
-      "summary_ja": "英気象庁と環境庁は、先月の雨では水不足を取り戻すには全く足りず、英国は干ばつのリスクにあると警告した。",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/news/uk-news/drought-environment-agency-warning-rain-37731317",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "雨水タンク"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "10月と国慶節の自然災害リスクを発表",
-      "summary_ja": "国家防災減災救災委員会弁公室と応急管理部が、10月と国慶節休暇中の全国の自然災害リスク見通しを公表した。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-10-02/doc-inituwti4709258.shtml",
-      "score": 70,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "FEMA、消防向けに6億4800万ドルの補助金",
-      "summary_ja": "FEMAは全米の消防・救助隊1400隊などに、人員と装備を強化するための補助金計6億4800万ドルを出した。",
-      "source": "firehouse.com",
-      "url": "https://www.firehouse.com/careers-education/news/55409247/fema-awards-648-million-in-fire-act-grants",
-      "score": 66,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "イングランド東部の干ばつ、2027年まで続く恐れ",
-      "summary_ja": "アングリアン・ウォーターによると、ケンブリッジシャーのグラファム・ウォーター貯水池は容量の60%にとどまり、干ばつが2027年まで続く可能性がある。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8x86gn6n0o",
-      "score": 64,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "内閣府、自治体の防災計画の弱点を数値化",
-      "summary_ja": "内閣府は大規模災害に備え、自治体と連携して防災計画の弱点を見つけて数値化し、改善するための演習を開いた。",
-      "source": "朝日放送",
-      "url": "https://www.nagoyatv.com/news/syakai.html?id=000536771",
-      "score": 62,
-      "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "猛暑でクリミア・コンゴ出血熱を運ぶマダニが英国で長生き",
-      "summary_ja": "気温の上昇で、クリミア・コンゴ出血熱を媒介するイボマダニが英国で以前より長く生き延びていると専門家が警告した。",
-      "source": "Wales Online",
-      "url": "https://www.gazettelive.co.uk/news/uk-world-news/uk-heatwaves-helping-disease-carrying-34710854",
-      "score": 62,
+      "title_ja": "FEMAとNOAAがハリケーン対応計画を説明",
+      "summary_ja": "FEMAとNOAAが今季のハリケーンへの備えと対応計画を示した。発電機や水の備蓄も説明された。",
+      "source": "HSToday",
+      "url": "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-noaa-outline-hurricane-season-readiness-and-response-plans/",
+      "score": 55,
       "commercial_score": 50,
       "product_keywords": [
-        "虫除けスプレー"
+        "発電機",
+        "非常食",
+        "飲料水"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "今季ハリケーンはやや少なめ予測も破壊的リスクは高い",
+      "summary_ja": "NOAAは今季の命名嵐を8から14個と予測し、沿岸住民に早めの備えを呼びかけた。",
+      "source": "NPR／KPCW",
+      "url": "https://www.kpcw.org/npr-news/2026-05-21/forecasters-expect-slightly-fewer-hurricanes-than-usual-this-year-but-the-risk-of-destructive-storms-is-still-high",
+      "score": 50,
+      "commercial_score": 45,
+      "product_keywords": [
+        "防災キット",
+        "ソーラー充電器"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国は気象の急変に備えが不十分との指摘",
+      "summary_ja": "極端な雨と干ばつが交互に来る気象の急変に英国は備えが足りないとする論説。",
+      "source": "Gulf Today",
+      "url": "https://www.gulftoday.ae/opinion/2026/09/12/britain-isnt-ready-for-weather-whiplash",
+      "score": 50,
+      "commercial_score": 30,
+      "product_keywords": [
+        "防水用品",
+        "止水板"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "応急管理部、国慶節の安全対策をオンライン会議で指示",
-      "summary_ja": "応急管理部は10月3日、国慶節の安全対策をオンラインで指示した。各地で4200余りの検査班が4万300件以上の危険箇所を見つけている。",
-      "source": "新浪财经",
-      "url": "https://www.xinouzhou.com/wenzhang/179435-ying-ji-guan-li-bu-shi-pin-diao-du-guo-qing-jia-qi-an-quan-fang-fan-gong-zuo",
-      "score": 62,
-      "commercial_score": 5,
+      "title_ja": "台風第9号で応急管理部が地質災害対応を発動",
+      "summary_ja": "浙江と福建に地質災害の3級応急対応が発動された。台風バウイによる大雨が背景にある。",
+      "source": "光明網",
+      "url": "https://m.gmw.cn/2026-07/10/content_1304528181.htm",
+      "score": 50,
+      "commercial_score": 30,
+      "product_keywords": [
+        "防災用品",
+        "非常食"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "コーナン、光と音で知らせる防災ライト",
-      "summary_ja": "コーナンのPB「PortTech」から、高輝度LEDと大音量アラーム、赤青の警告灯を備えた防災・防犯ライトが出た。IPX4の防水で単4電池3本で動く。",
-      "source": "Real Sound｜リアルサウンド",
-      "url": "https://news.livedoor.com/article/detail/32474233/",
-      "score": 60,
-      "commercial_score": 85,
+      "title_ja": "台風防災チェックリスト",
+      "summary_ja": "台風シーズンに向けた備蓄や避難準備のチェックリストを紹介している。",
+      "source": "vegcale",
+      "url": "https://vegcale.com/2026/06/27/typhoon-bousai-checklist/",
+      "score": 45,
+      "commercial_score": 70,
       "product_keywords": [
-        "防災ライト",
-        "防犯アラーム"
+        "保存食",
+        "防災セット",
+        "懐中電灯"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "スカイ島で地滑り、幹線道路が通行止め",
-      "summary_ja": "スコットランドのスカイ島北部で地滑りが起き、A855号線が週末も通行止めとなった。運転者は約64kmの迂回を強いられる。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crn8w7zp77gzo?at_medium=RSS&at_campaign=rss",
-      "score": 60,
-      "commercial_score": 5,
+      "title_ja": "英国の記録的豪雨と洪水の緊急事態",
+      "summary_ja": "記録的な降雨による洪水被害と緊急対応を伝える記事。",
+      "source": "Karmactive",
+      "url": "https://www.karmactive.com/uk-storm-record-rainfall-flooding-emergency-2026-2/",
+      "score": 45,
+      "commercial_score": 35,
+      "product_keywords": [
+        "土のう",
+        "防水バッグ"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "マイアミ周辺のFEMA洪水リスク地図",
-      "summary_ja": "大雨と大潮で浸水しやすい南フロリダについて、CBSが自宅の洪水リスクを確かめられるFEMAの洪水区域地図を紹介した。",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/miami/news/miami-dade-broward-flood-zone-maps-hurricane-season/",
-      "score": 58,
+      "title_ja": "英国政府が洪水への備えを呼びかけ",
+      "summary_ja": "政府が市民に洪水への備えを求め、約700万世帯が浸水リスクにあるとされる。",
+      "source": "ThePrint",
+      "url": "https://theprint.in/world/uk-govt-urges-public-to-develop-flood-preparedness/2310572/",
+      "score": 45,
+      "commercial_score": 35,
+      "product_keywords": [
+        "防災キット",
+        "止水板"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "全国防災減災日、江西南昌で主会場行事",
+      "summary_ja": "第18回全国防災減災日の主会場行事が初めて南昌で開かれ、各地で応急演習も行われた。",
+      "source": "科技日報",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/13/content_515842.html",
+      "score": 45,
       "commercial_score": 30,
+      "product_keywords": [
+        "応急救援セット"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ハリケーン期にFEMAはどう対応するか",
+      "summary_ja": "FEMAの体制を巡る論点を整理したブログ。災害対応能力への懸念が指摘されている。",
+      "source": "UCS",
+      "url": "https://blog.ucs.org/shana-udvardy/its-hurricane-season-how-will-fema-show-up/",
+      "score": 40,
+      "commercial_score": 30,
+      "product_keywords": [
+        "非常用品"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "スコットランド国境地域で新しい洪水警報システム",
-      "summary_ja": "スコットランド・ボーダーズで改良された洪水警報システムが動き始め、危険のある世帯により正確で早い警告が届くようになった。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyz0yp8ke2o",
-      "score": 58,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ウェストバージニア州、FEMA支援の申請期限を延長",
-      "summary_ja": "7月の洪水を受けたウェストバージニア州で、FEMAが連邦災害支援の申請期限の延長を認めた。",
-      "source": "WDTV 5",
-      "url": "https://www.msn.com/en-us/news/other/extension-for-federal-disaster-assistance-secured-morrisey-announces/ar-AA2dv49J",
-      "score": 56,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国、極端な気象の予報強化で国際連携に参加",
-      "summary_ja": "英国は31か国が参加し、2030年までに海洋のリアルタイムの把握を目指す国際プログラム「OceanEye」に加わった。極端な気象の予報向上が狙い。",
-      "source": "yourweather.co.uk",
-      "url": "https://www.msn.com/en-gb/weather/general/uk-joins-international-alliance-to-boost-extreme-weather-forecasting/ar-AA2dtp9Q",
-      "score": 56,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "楽天モバイル、店頭で災害用伝言板を案内",
-      "summary_ja": "楽天モバイルは、大規模災害時に家族と連絡を取る手段として、店頭で対面で災害用伝言板の使い方を伝えている。",
-      "source": "BCN Retail",
-      "url": "https://topics.smt.docomo.ne.jp/article/bcnretail/trend/bcnretail-665135",
-      "score": 54,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ハリケーン・ローウェル後、ハワイの催しが支援イベントに",
-      "summary_ja": "ハワイ・カウアイ島で10月18日に予定されていた学校支援イベントが、ハリケーン・ローウェルの被害を受けて「リリーフ・フェスト」に名前を変えた。",
-      "source": "The Garden Island",
-      "url": "https://www.thegardenisland.com/2026/10/03/lifestyles/fitfest-becomes-relief-fest-after-hurricane-lowell/",
-      "score": 54,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "GovCIO、FEMAのIT保守を3億7500万ドルで受注",
-      "summary_ja": "GovCIOが、FEMAのIT部門の運用・保守契約を3億7500万ドルで受注した。災害対応の基盤を強化する。",
-      "source": "Homeland Security Today",
-      "url": "https://www.hstoday.us/industry/industry-news/govcio-wins-375-million-contract-to-strengthen-fema-technology-and-disaster-readiness/",
-      "score": 52,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "title_ja": "青海玉樹で防災減災日、防汛演習を実施",
+      "summary_ja": "玉樹州で防災減災日の活動と交通救援・防汛の総合演習が行われた。",
+      "source": "科技日報",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/13/content_515842.html",
+      "score": 40,
+      "commercial_score": 25,
+      "product_keywords": [
+        "救援装備"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

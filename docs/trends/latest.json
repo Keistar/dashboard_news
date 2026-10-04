@@ -1,481 +1,547 @@
 {
   "feed": "trends",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-04T09:33:34+09:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:08:57+09:00",
   "trends": [
     {
-      "keyword": "Prime Big Deal Days",
-      "reason_ja": "Amazonの10月のプライムセールが10月6日に始まり、アウトドア用品や家電の先行セールに関心が集まった。",
+      "keyword": "Pixel 11 vs iPhone 18",
+      "reason_ja": "新型スマホの比較検討が活発で、買い替え需要が高まっている。",
       "genre": "gadget",
-      "commercial_score": 92,
+      "commercial_score": 78,
       "product_keywords": [
-        "Prime Day deals",
-        "portable power station",
-        "AirTag"
+        "iPhone 18 Pro",
+        "Pixel 11 Pro"
       ],
       "product_keywords_ja": [
-        "プライム感謝祭",
-        "ポータブル電源",
-        "AirTag"
+        "iPhone 18 Pro",
+        "Pixel 11 Pro"
       ],
-      "trend_source": "ZDNET",
+      "trend_source": "Digit等",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "10月のプライムデー、先行セールのおすすめ",
-          "summary_ja": "Prime Big Deal Daysは10月6日から。AirTag、Garminのウォッチ、コールマンやAnker Solixなど先行セールの目玉をZDNETがまとめた。",
-          "source": "ZDNET",
-          "url": "https://www.zdnet.com/tech/best-early-amazon-october-prime-day-deals/"
+          "title_ja": "iPhone 18とPixel 11の比較",
+          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
+          "source": "Digit",
+          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
         },
         {
-          "title_ja": "REIアウトレット、最大60%オフの秋セール",
-          "summary_ja": "REIアウトレットが466品を最大60%引きで売る秋のセールを始めた。",
-          "source": "Cleveland.com",
-          "url": "https://www.msn.com/en-us/news/other/rei-outlet-launches-fall-sale-with-up-to-60-off-outdoor-gear-including-north-face-jackets-as-low-as-49-99/ar-AA2drCMg"
+          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
+          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "新型Kindle",
-      "reason_ja": "Kindleが4モデル一斉に刷新され、プライム感謝祭を前に新しいFire TV Stick 4Kとあわせて注目を集めた。",
+      "keyword": "iPhone 18 Pro",
+      "reason_ja": "9月発売見込みのiPhone 18 Proへの関心が英国でも高い。",
       "genre": "gadget",
-      "commercial_score": 90,
+      "commercial_score": 78,
       "product_keywords": [
-        "Kindle Paperwhite",
-        "Kindle Colorsoft"
+        "iPhone 18 Pro"
       ],
       "product_keywords_ja": [
-        "Kindle Paperwhite",
-        "Kindle Colorsoft"
+        "iPhone 18 Pro"
       ],
-      "trend_source": "ケータイ Watch",
+      "trend_source": "Digit等",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Kindleが刷新、薄型化と高速化",
-          "summary_ja": "アマゾンジャパンはKindle 16GB/32GB、Paperwhite、Colorsoftの新機種を発表した。価格は2万9980円から。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2145144.html"
-        },
-        {
-          "title_ja": "新Fire TV Stick 4K、電源アダプター不要に",
-          "summary_ja": "テレビのUSB端子から給電できる新しいFire TV Stick 4Kが1万1980円で発売され、プライム感謝祭では5980円になる。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2145167.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "楽天 ジャンル祭",
-      "reason_ja": "楽天市場の新セール「ジャンル祭」が10月4日20時に始まり、お買い物マラソンと重なることから注目された。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "Rakuten sale",
-        "home appliances"
-      ],
-      "product_keywords_ja": [
-        "楽天 セール",
-        "家電"
-      ],
-      "trend_source": "ケータイ Watch",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "楽天市場、新セール「ジャンル祭」4日から",
-          "summary_ja": "楽天市場は10月4日20時から9日まで「ジャンル祭」を開く。ファッション・食品・日用品・家電で最大50%オフやポイント還元を行う。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2145237.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "beauty advent calendar",
-      "reason_ja": "Aldiの19.99ポンドの美容アドベントカレンダーが紹介され、年末商戦のアドベントカレンダー探しが本格化した。",
-      "genre": "beauty",
-      "commercial_score": 85,
-      "product_keywords": [
-        "beauty advent calendar",
-        "cosmetics gift set"
-      ],
-      "product_keywords_ja": [
-        "コスメ アドベントカレンダー",
-        "クリスマスコフレ"
-      ],
-      "trend_source": "Hampshire Chronicle",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Aldiの19.99ポンドの美容アドベントカレンダー",
-          "summary_ja": "英Aldiが19.99ポンドの美容アドベントカレンダーを販売する。手頃な価格で中身が充実していると紹介された。",
-          "source": "Hampshire Chronicle",
-          "url": "https://www.msn.com/en-gb/news/other/i-had-a-sneak-peek-at-aldi-s-1999-beauty-advent-calendar-its-packed-with-treats/ar-AA2dpVQm"
+          "title_ja": "iPhone 18とPixel 11の比較",
+          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
+          "source": "Digit",
+          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "cat food heavy metals",
-      "reason_ja": "市販のキャットフードのほぼ全品から重金属などが見つかったとの調査が報じられ、飼い主の間で不安が広がった。",
-      "genre": "pet",
-      "commercial_score": 70,
+      "keyword": "Pixel 11",
+      "reason_ja": "Pixel 11シリーズ発表後も比較記事が多く、買い替え検討層の関心が続く。",
+      "genre": "gadget",
+      "commercial_score": 75,
       "product_keywords": [
-        "cat food",
-        "grain-free cat food"
+        "Google Pixel 11",
+        "Pixel 11 case"
       ],
       "product_keywords_ja": [
-        "キャットフード",
-        "無添加 キャットフード"
+        "Pixel 11",
+        "Pixel 11 ケース"
       ],
-      "trend_source": "Newsweek",
+      "trend_source": "Business Today等",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "キャットフードに金属は入っているか",
-          "summary_ja": "新しい研究で、ほぼ全てのキャットフードから重金属が見つかった。Newsweekが飼い主の疑問に答えた。",
-          "source": "Newsweek",
-          "url": "https://www.msn.com/en-us/news/other/does-your-cat-food-contain-metal/ar-AA2drOhg"
+          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
+          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
         },
         {
-          "title_ja": "米調査、キャットフードのほぼ全品から重金属",
-          "summary_ja": "検査したほぼ全ての商品から、プラスチック由来の汚染物質、除草剤、鉛や水銀などの重金属が検出された。",
-          "source": "CNN.co.jp",
-          "url": "https://www.cnn.co.jp/fringe/35253207.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "中国帐篷爆火",
-      "reason_ja": "設備の整ったプレハブ式テントハウスが海外で人気となり、受注が来年まで埋まっていると百度の急上昇に入った。",
-      "genre": "outdoor",
-      "commercial_score": 70,
-      "product_keywords": [
-        "glamping tent",
-        "tent"
-      ],
-      "product_keywords_ja": [
-        "グランピング テント",
-        "テント"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "中国製テントが人気、受注は来年まで",
-          "summary_ja": "ソファやベッド、空調、シャワーまで備えたプレハブ式テントハウスが海外で人気となり、生産から設置まで3か月で住めるという。",
-          "source": "中華網",
-          "url": "https://news.china.com/socialgd/10000169/20261003/49776870_1.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "台風27号",
-      "reason_ja": "台風27号が小笠原諸島付近にあり、高波への警戒と次の熱帯低気圧の発生で検索が急増した。",
-      "genre": "bousai",
-      "commercial_score": 65,
-      "product_keywords": [
-        "防災グッズ",
-        "モバイルバッテリー"
-      ],
-      "product_keywords_ja": [
-        "防災グッズ",
-        "モバイルバッテリー"
-      ],
-      "trend_source": "Google Trends JP",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "台風27号、小笠原諸島で高波に警戒",
-          "summary_ja": "台風27号の影響で小笠原諸島では高波に警戒が必要。来週半ばからは全国的に秋晴れになる見込み。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/e941c8674feb073a1c8e4b31b329b45f6dda4a29"
-        },
-        {
-          "title_ja": "週明けの北海道太平洋側、高波・高潮に注意",
-          "summary_ja": "週明けは北海道の太平洋側で台風27号による高波や高潮に注意が必要と気象予報士が解説した。",
-          "source": "tenki.jp",
-          "url": "https://tenki.jp/forecaster/masayoshi_satou/2026/10/03/40846.html"
+          "title_ja": "2026年後半の新型スマホ発売一覧",
+          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
+          "source": "Brut",
+          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "冷空气来袭 气温创新低",
-      "reason_ja": "国慶節中に寒気が続けて南下し、南北で今年下半期の最低気温を更新する見込みとなり、百度の急上昇に入った。",
-      "genre": "other",
-      "commercial_score": 60,
+      "keyword": "Pixel 11",
+      "reason_ja": "8月発表のPixel 11シリーズの比較検索が続いている。",
+      "genre": "gadget",
+      "commercial_score": 72,
       "product_keywords": [
-        "fleece jacket",
-        "heattech"
+        "Google Pixel 11"
       ],
       "product_keywords_ja": [
-        "フリース",
-        "ヒートテック"
+        "Pixel 11"
       ],
-      "trend_source": "百度热搜",
+      "trend_source": "Business Today",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
+          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Galaxy S26 FE",
+      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
+      "genre": "gadget",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Galaxy S26 FE"
+      ],
+      "product_keywords_ja": [
+        "Galaxy S26 FE"
+      ],
+      "trend_source": "Brut",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年後半の新型スマホ発売一覧",
+          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
+          "source": "Brut",
+          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Galaxy S26 FE",
+      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
+      "genre": "gadget",
+      "commercial_score": 68,
+      "product_keywords": [
+        "Galaxy S26 FE"
+      ],
+      "product_keywords_ja": [
+        "Galaxy S26 FE"
+      ],
+      "trend_source": "Brut",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年後半の新型スマホ発売一覧",
+          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
+          "source": "Brut",
+          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "ChatGPT",
+      "reason_ja": "2026年も検索が伸びているAIサービスで、関連ツールへの関心が高い。",
+      "genre": "ai",
+      "commercial_score": 65,
+      "product_keywords": [
+        "AI notebook",
+        "ChatGPT"
+      ],
+      "product_keywords_ja": [
+        "AI ノート",
+        "生成AI 本"
+      ],
+      "trend_source": "bloggerspassion",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "新たな寒気、南方の最低気温が更新へ",
-          "summary_ja": "新しい寒気で北方は秋の寒さが強まり、5日から7日にかけて南方の最低気温が広い範囲で今季最低を更新する見込み。",
-          "source": "光明網",
-          "url": "https://m.gmw.cn/2026-10/03/content_1304571452.htm"
+          "title_ja": "2026年の最多検索キーワード",
+          "summary_ja": "YouTubeが首位で、ChatGPTや旅行関連の検索も伸びたとする記事。",
+          "source": "Bloggers Passion",
+          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "国庆黄金周",
+      "reason_ja": "国慶節の大型連休で旅行関連の検索熱度が前月比278%増。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "travel suitcase",
+        "travel pillow"
+      ],
+      "product_keywords_ja": [
+        "スーツケース",
+        "ネックピロー"
+      ],
+      "trend_source": "網易",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節の大型連休旅行トレンド",
+          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
+          "source": "網易",
+          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "MLBポストシーズン",
-      "reason_ja": "ドジャースの地区シリーズが10月4日に始まり、テオスカー・ヘルナンデスの先制弾や中継・配信の探し方で検索が増えた。",
+      "keyword": "Pumpkin head photoshoot",
+      "reason_ja": "ハロウィンに向けパンプキンヘッド撮影がTikTokで流行している。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "pumpkin mask",
+        "Halloween costume"
+      ],
+      "product_keywords_ja": [
+        "ハロウィン 仮装",
+        "かぼちゃ マスク"
+      ],
+      "trend_source": "TikTok",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "今月のTikTokトレンド",
+          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
+          "source": "Ypulse",
+          "url": "https://www.ypulse.com/?p=70637"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Halloween costume",
+      "reason_ja": "10月に入りハロウィン関連の検索・動画が増えている。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "Halloween costume",
+        "pumpkin"
+      ],
+      "product_keywords_ja": [
+        "ハロウィン 仮装",
+        "かぼちゃ 飾り"
+      ],
+      "trend_source": "TikTok",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "今月のTikTokトレンド",
+          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
+          "source": "Ypulse",
+          "url": "https://www.ypulse.com/?p=70637"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "気象情報",
+      "reason_ja": "Google急上昇で50万+検索、台風や天候への関心が高まっている。",
+      "genre": "bousai",
+      "commercial_score": 55,
+      "product_keywords": [
+        "portable weather radio",
+        "emergency kit"
+      ],
+      "product_keywords_ja": [
+        "防災ラジオ",
+        "防災グッズ セット"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: 気象情報",
+          "summary_ja": "気象情報が50万+検索で急上昇。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "GhostfaceCult",
+      "reason_ja": "Scream由来のGhostface風アイコンがTikTokで24,900万回再生。",
       "genre": "other",
       "commercial_score": 55,
       "product_keywords": [
-        "Dodgers jersey",
+        "Ghostface mask"
+      ],
+      "product_keywords_ja": [
+        "ゴーストフェイス マスク"
+      ],
+      "trend_source": "TikTok",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "今月のTikTokトレンド",
+          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
+          "source": "Ypulse",
+          "url": "https://www.ypulse.com/?p=70637"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "请3休13",
+      "reason_ja": "3日休暇で13連休になる「超長連休」が話題。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "travel backpack"
+      ],
+      "product_keywords_ja": [
+        "旅行 リュック"
+      ],
+      "trend_source": "網易",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節の大型連休旅行トレンド",
+          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
+          "source": "網易",
+          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
+        },
+        {
+          "title_ja": "2026年国慶節ゴールデンウィークの展望",
+          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
+          "source": "界面新聞",
+          "url": "https://m.jiemian.com/article/13436593.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "Taylor Swift",
+      "reason_ja": "7月のTravis Kelceとの結婚後も、最多検索の女性アーティストである。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "Taylor Swift album vinyl"
+      ],
+      "product_keywords_ja": [
+        "テイラー・スウィフト レコード"
+      ],
+      "trend_source": "meetglimpse等",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "最も検索されている人物",
+          "summary_ja": "Messi、Ronaldoなどに並び、Taylor Swiftが最多検索の女性との記載。",
+          "source": "Bloggers Passion",
+          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "西南西北长途游",
+      "reason_ja": "西南・西北への長距離旅行の予約が前年比30%超増。",
+      "genre": "outdoor",
+      "commercial_score": 50,
+      "product_keywords": [
+        "hiking boots",
+        "portable power bank"
+      ],
+      "product_keywords_ja": [
+        "トレッキングシューズ",
+        "モバイルバッテリー"
+      ],
+      "trend_source": "界面新聞",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節ゴールデンウィークの展望",
+          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
+          "source": "界面新聞",
+          "url": "https://m.jiemian.com/article/13436593.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "中秋国庆",
+      "reason_ja": "中秋・国慶関連の検索が大幅増で、帰省や旅行需要が高い。",
+      "genre": "food",
+      "commercial_score": 50,
+      "product_keywords": [
+        "mooncake gift box"
+      ],
+      "product_keywords_ja": [
+        "月餅 ギフト"
+      ],
+      "trend_source": "網易",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "2026年国慶節の大型連休旅行トレンド",
+          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
+          "source": "網易",
+          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "邮轮出境游",
+      "reason_ja": "クルーズや少人数高級ツアーなど体験型の海外旅行が人気。",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "travel adapter"
+      ],
+      "product_keywords_ja": [
+        "海外 変換プラグ"
+      ],
+      "trend_source": "Airbnb",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Airbnb 国慶節の出国旅行トレンド報告",
+          "summary_ja": "クルーズや少人数高級ツアーなど体験重視の旅行が人気との報告。",
+          "source": "Airbnb",
+          "url": "https://news.airbnb.com/zh/airbnb%E7%88%B1%E5%BD%BC%E8%BF%8E%E5%8F%91%E5%B8%83%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E5%87%BA%E5%A2%83%E6%B8%B8%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%97%85/"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "早期天候情報",
+      "reason_ja": "早期天候情報が5万+検索で急上昇し、気温変化への備えが意識されている。",
+      "genre": "bousai",
+      "commercial_score": 40,
+      "product_keywords": [
+        "heated clothing",
+        "humidifier"
+      ],
+      "product_keywords_ja": [
+        "電熱ベスト",
+        "加湿器"
+      ],
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Google急上昇: 早期天候情報",
+          "summary_ja": "早期天候情報が5万+検索。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "ドジャース",
+      "reason_ja": "ドジャースの試合が10万+検索で急上昇している。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
         "Dodgers cap"
       ],
       "product_keywords_ja": [
-        "ドジャース ユニフォーム",
         "ドジャース キャップ"
       ],
       "trend_source": "Google Trends JP",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ドジャース初戦は気温38度の猛暑予想",
-          "summary_ja": "ドジャースの地区シリーズ初戦は摂氏38度の猛暑が予想され、大谷翔平は「ピッチャーが大変」と話した。",
-          "source": "日刊スポーツ",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202610030001092.html"
-        },
-        {
-          "title_ja": "ドジャースvsブレーブスの放送・配信予定",
-          "summary_ja": "10月4日のドジャース対ブレーブスのテレビ放送とネット配信の予定をまとめた。",
-          "source": "Lemino",
-          "url": "https://lemino.docomo.ne.jp/leminonews/articles/dodgers-braves-mlb-live-20261004"
-        },
-        {
-          "title_ja": "MLBポストシーズン日程、地区シリーズは4日から",
-          "summary_ja": "MLBポストシーズンのトーナメント表と日程。ドジャースなどの地区シリーズは4日に始まる。",
-          "source": "サンスポ",
-          "url": "https://www.sanspo.com/article/20261001-2HNWQRDDERIXFEPARY5A6JWDWU/?outputType=theme_mlb"
+          "title_ja": "Google急上昇: ドジャース",
+          "summary_ja": "10万+検索。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "宠物托管",
-      "reason_ja": "国慶節の旅行でペットの預かりサービスの注文が急増し、「ペット経済」として報じられた。",
-      "genre": "pet",
-      "commercial_score": 55,
-      "product_keywords": [
-        "automatic pet feeder",
-        "pet camera"
-      ],
-      "product_keywords_ja": [
-        "自動給餌器",
-        "ペットカメラ"
-      ],
-      "trend_source": "中国新聞網",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "国慶節にペット預かりが急増",
-          "summary_ja": "河南省鄭州のペットシッターは国慶節の注文が3倍に増えた。ペット関連の消費は若者の起業先にもなっている。",
-          "source": "中国新聞網",
-          "url": "https://news.qq.com/rain/a/20261003A03W8700?adChannelId=finance"
-        },
-        {
-          "title_ja": "ペットの訪問世話サービスに注意喚起",
-          "summary_ja": "北京市消費者協会は、ペットの訪問世話サービスで質の低下や資格の不備、料金の不透明さがあると注意を呼びかけた。",
-          "source": "揚子晩報",
-          "url": "https://www.yangtse.com/news/txs/202610/t20261003_399377.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "Yankees vs Rays",
-      "reason_ja": "ヤンキースとレイズの地区シリーズで、アーロン・ジャッジがロースターから外れたことが大きな話題になった。",
-      "genre": "other",
-      "commercial_score": 45,
-      "product_keywords": [
-        "Yankees cap",
-        "MLB jersey"
-      ],
-      "product_keywords_ja": [
-        "ヤンキース キャップ",
-        "MLB ユニフォーム"
-      ],
-      "trend_source": "Google Trends US",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ジャッジ、レイズとの地区シリーズのロースター外れる",
-          "summary_ja": "ヤンキースはレイズとの地区シリーズのロースターに、故障から回復中のアーロン・ジャッジを入れなかった。",
-          "source": "ESPN",
-          "url": "https://www.espn.com/mlb/story/_/id/50090418/source-aaron-judge-not-yankees-roster-alds-vs-rays"
-        },
-        {
-          "title_ja": "3度のMVPジャッジ、まだ回復途上",
-          "summary_ja": "CBS Sportsは、ジャッジがレイズとの地区シリーズのメンバーから外れた経緯とけがの状況を伝えた。",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "米国産ジャガイモ解禁前倒し",
-      "reason_ja": "米国産の生鮮ジャガイモの輸入解禁判断が前倒しされる可能性が報じられ、リアルタイム検索で話題になった。",
-      "genre": "food",
-      "commercial_score": 40,
-      "product_keywords": [
-        "potato chips",
-        "potatoes"
-      ],
-      "product_keywords_ja": [
-        "ポテトチップス",
-        "じゃがいも"
-      ],
-      "trend_source": "Yahoo!リアルタイム検索",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "米国産ジャガイモ解禁、早ければ1年程度で判断か",
-          "summary_ja": "当初2〜3年とみられていた米国産生鮮ジャガイモの輸入解禁の最終判断が前倒しになる可能性がある。農家へのアピールを狙うトランプ政権の圧力が背景にある。",
-          "source": "産経新聞",
-          "url": "https://www.sankei.com/article/20261004-W7DOD2PN4JPZHO3NWIATNFTGWQ/"
-        },
-        {
-          "title_ja": "生鮮ジャガイモ輸入解禁、検疫協議次第で1年で判断",
-          "summary_ja": "農林水産省は9月に3段階ある解禁手続きの最終工程に入った。日本が求める対応を米側が取れば判断が早まる見通し。",
-          "source": "毎日新聞",
-          "url": "https://mainichi.jp/articles/20261004/ddm/012/020/078000c"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "netflix movies",
-      "reason_ja": "10月にNetflixで新しく配信される映画やドラマを探す検索が増えた。",
-      "genre": "other",
-      "commercial_score": 40,
-      "product_keywords": [
-        "streaming stick",
-        "projector"
-      ],
-      "product_keywords_ja": [
-        "Fire TV Stick",
-        "プロジェクター"
-      ],
-      "trend_source": "Google Trends GB",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "10月にNetflixで観たい新作映画15本",
-          "summary_ja": "10月にNetflixに加わる映画から、おすすめの15本をForbesが紹介した。",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/erikkain/2026/10/02/netflix-10-best-movies-october-2026/"
-        },
-        {
-          "title_ja": "Netflix UKの10月の注目ドラマ",
-          "summary_ja": "レスリー・マンヴィル主演の豪華なドラマなど、10月にNetflix UKで配信が始まる注目作をEsquireがまとめた。",
-          "source": "Esquire",
-          "url": "https://www.esquire.com/uk/culture/tv/a73927805/best-tv-shows-netflix-uk-october-2026/"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "上门私厨",
-      "reason_ja": "高級ホテルの総料理長が出張料理人に転身し、国慶節の予約が埋まったと報じられ話題になった。",
-      "genre": "food",
-      "commercial_score": 35,
-      "product_keywords": [
-        "home party catering"
-      ],
-      "product_keywords_ja": [
-        "出張シェフ"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ホテルの総料理長が出張料理人に、国慶節は満員",
-          "summary_ja": "武漢の出張料理人は国慶節の予約が埋まり、客の家で帝王ガニなど10品の誕生日の宴を作った。客ごとにメニューを組むため多くの料理に通じている必要がある。",
-          "source": "九派新聞",
-          "url": "https://news.qq.com/rain/a/20261003A07M3R00"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "証券投資の日",
-      "reason_ja": "10月4日は「証券投資の日」で、証券会社のキャンペーンや2027年に始まるこどもNISAの事前受付が話題になった。",
+      "keyword": "ジャイアンツ 阪神",
+      "reason_ja": "プロ野球の試合が10万+検索で急上昇している。",
       "genre": "other",
       "commercial_score": 30,
       "product_keywords": [
-        "investment book",
-        "NISA"
+        "baseball jersey"
       ],
       "product_keywords_ja": [
-        "投資 本",
-        "NISA 入門"
+        "ユニフォーム 応援"
       ],
-      "trend_source": "Yahoo!リアルタイム検索",
-      "trend_source_type": "sns",
+      "trend_source": "Google Trends JP",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "SBI証券、証券投資の日に6つのキャンペーン",
-          "summary_ja": "SBI証券は10月4日の証券投資の日に合わせ、NISA口座開設や投資信託の取引などで6つのキャンペーンを行う。こどもNISAの事前受付にあわせた施策もある。",
-          "source": "ORICON NEWS",
-          "url": "https://www.oricon.co.jp/pressrelease/3015545/"
+          "title_ja": "Google急上昇: ジャイアンツ対阪神",
+          "summary_ja": "10万+検索。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "国庆出游用AI被坑",
-      "reason_ja": "国慶節の旅行計画をAIに任せた人が、混雑や移動時間の読み違いで失敗した体験談が相次ぎ話題になった。",
-      "genre": "ai",
-      "commercial_score": 30,
+      "keyword": "RIZIN",
+      "reason_ja": "RIZINが10万+検索で急上昇、格闘技大会が話題。",
+      "genre": "other",
+      "commercial_score": 20,
       "product_keywords": [
-        "travel guidebook"
+        "MMA gloves"
       ],
       "product_keywords_ja": [
-        "旅行 ガイドブック"
+        "格闘技 グローブ"
       ],
-      "trend_source": "百度热搜",
+      "trend_source": "Google Trends JP",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "国慶節の旅行計画をAIに任せ、失敗する人が続出",
-          "summary_ja": "豆包やDeepSeek、旅行アプリのAIで旅程を作る人が増えたが、現地の混雑や移動時間をAIが読み違え、計画通りにいかない例が相次いでいる。",
-          "source": "36氪",
-          "url": "https://eu.36kr.com/zh/p/4009478235295881"
+          "title_ja": "Google急上昇: RIZIN",
+          "summary_ja": "10万+検索で急上昇。",
+          "source": "Google Trends",
+          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }
