@@ -1,0 +1,97 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-04T09:33:34+09:00",
+  "stories": [
+    {
+      "title_ja": "Jackery、EV技術でポータブル電源を小型化",
+      "summary_ja": "JackeryはEVで使われるCTB（セル・トゥ・ボディ）構造を新しいポータブル電源に採用し、大容量のまま本体を小さくした。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/jackery-used-a-well-known-ev-trick-to-slash-dimensions-of-its-new-portable-power-stations-ctb-shrinks-explorer-2000-plus-v2-pps-by-60-makes-it-33-lighter",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ポータブル電源",
+        "Jackery"
+      ]
+    },
+    {
+      "title_ja": "部品高騰がテレビ価格に波及",
+      "summary_ja": "AI需要による部品不足で、メモリーやWi-Fiモジュールの価格がパネル以上に上がり、テレビの価格にも影響が出始めている。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
+      "score": 66,
+      "commercial_score": 50,
+      "product_keywords": [
+        "テレビ"
+      ]
+    },
+    {
+      "title_ja": "Googlebook、Gemini搭載の高級ノートPC",
+      "summary_ja": "GoogleのAndroidベースの新ノートPC「Googlebook」は高価格帯でGeminiを売りにする。従来のChromebookからの買い替えに見合うかを比較した。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/computing/chromebooks/googlebook-vs-chromebook",
+      "score": 64,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "DoorDashのドローン、5分以内に料理を配達",
+      "summary_ja": "DoorDashはドローン配送の詳細を明らかにし、料理を5分以内に届けられるとした。一方、Amazonのドローンには騒音の苦情が出ている。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/cameras/drones/doordash-says-its-new-drone-can-get-food-to-you-in-under-five-minutes-but-texas-residents-are-already-calling-amazon-drone-noise-a-big-problem",
+      "score": 60,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "Apple Watch 12とGarmin、睡眠計測を比べた",
+      "summary_ja": "TechRadarの記者がApple Watch Series 12とGarmin Cirqaを1週間着けて睡眠スコアを比べた。全体の傾向は同じだが、細かい数値にはずれがあった。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/i-measured-my-sleep-scores-for-a-week-with-both-the-apple-watch-series-12-and-the-garmin-cirqa-heres-how-they-compare",
+      "score": 58,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Apple Watch",
+        "ガーミン"
+      ]
+    },
+    {
+      "title_ja": "Thrustmaster、GT7公式ハンコン「T-GT III」",
+      "summary_ja": "ThrustmasterはPS4/PS5向けにグランツーリスモ7公式ライセンスのハンドルコントローラー「T-GT III」を発表した。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/gaming/thrustmaster-enters-a-new-era-with-its-officially-licensed-gran-turismo-7-t-gt-iii-steering-wheel-for-ps4-and-ps5",
+      "score": 58,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ハンドルコントローラー"
+      ]
+    },
+    {
+      "title_ja": "脳波で集中を助けるヘッドホン「Neurable One」",
+      "summary_ja": "神経科学者が率いるNeurableが、脳のデータを記録して集中を助けるヘッドホン「Neurable One」を発表した。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/audio/headphones/forget-your-phone-how-drained-is-your-brains-battery-meet-the-all-new-eeg-enabled-cognitive-health-headphones-all-set-to-give-you-an-accurate-reading",
+      "score": 56,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ヘッドホン"
+      ]
+    },
+    {
+      "title_ja": "TCL QM7L、今年最高の中価格帯テレビと評価",
+      "summary_ja": "TechRadarはTCLのQM7Lを、高級機に近い画質を手頃な価格で得られる2026年の中価格帯テレビの最良機と評価した。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/televisions/an-almost-premium-tv-at-mid-range-prices-tcls-qm7l-mini-led-screen-is-one-of-the-best-affordable-sets-ive-tested-thanks-to-its-vibrant-colors-bright-highlights-and-great-gaming-features",
+      "score": 56,
+      "commercial_score": 70,
+      "product_keywords": [
+        "TCL テレビ"
+      ]
+    }
+  ]
+}

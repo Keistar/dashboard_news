@@ -3,69 +3,97 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "trends": [
     {
-      "keyword": "Dodgers vs Cubs",
-      "reason_ja": "MLBドジャース対カブスの試合で検索が増えた。",
-      "genre": "other",
-      "commercial_score": 50,
+      "keyword": "Prime Big Deal Days",
+      "reason_ja": "Amazonの10月のプライムセールが10月6日に始まり、アウトドア用品や家電の先行セールに関心が集まった。",
+      "genre": "gadget",
+      "commercial_score": 92,
       "product_keywords": [
-        "Dodgers jersey",
-        "baseball cap"
+        "Prime Day deals",
+        "portable power station",
+        "AirTag"
       ],
       "product_keywords_ja": [
-        "ドジャース ユニフォーム",
-        "ドジャース キャップ"
+        "プライム感謝祭",
+        "ポータブル電源",
+        "AirTag"
       ],
-      "trend_source": "Google Trends US",
-      "trend_source_type": "search",
+      "trend_source": "ZDNET",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Google トレンド 米国の急上昇",
-          "summary_ja": "米国の急上昇検索。MLBの対戦カードが複数上位に入った。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+          "title_ja": "10月のプライムデー、先行セールのおすすめ",
+          "summary_ja": "Prime Big Deal Daysは10月6日から。AirTag、Garminのウォッチ、コールマンやAnker Solixなど先行セールの目玉をZDNETがまとめた。",
+          "source": "ZDNET",
+          "url": "https://www.zdnet.com/tech/best-early-amazon-october-prime-day-deals/"
+        },
+        {
+          "title_ja": "REIアウトレット、最大60%オフの秋セール",
+          "summary_ja": "REIアウトレットが466品を最大60%引きで売る秋のセールを始めた。",
+          "source": "Cleveland.com",
+          "url": "https://www.msn.com/en-us/news/other/rei-outlet-launches-fall-sale-with-up-to-60-off-outdoor-gear-including-north-face-jackets-as-low-as-49-99/ar-AA2drCMg"
         }
       ]
     },
     {
-      "keyword": "Patrick Kane",
-      "reason_ja": "アイスホッケー選手パトリック・ケインの検索が増えた。",
-      "genre": "other",
-      "commercial_score": 35,
+      "keyword": "cat food heavy metals",
+      "reason_ja": "市販のキャットフードのほぼ全品から重金属などが見つかったとの調査が報じられ、飼い主の間で不安が広がった。",
+      "genre": "pet",
+      "commercial_score": 70,
       "product_keywords": [
-        "hockey jersey"
+        "cat food",
+        "grain-free cat food"
       ],
       "product_keywords_ja": [
-        "NHL ユニフォーム"
+        "キャットフード",
+        "無添加 キャットフード"
       ],
-      "trend_source": "Google Trends US",
-      "trend_source_type": "search",
+      "trend_source": "Newsweek",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Google トレンド 米国の急上昇",
-          "summary_ja": "米国の急上昇検索に選手名が入った。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+          "title_ja": "キャットフードに金属は入っているか",
+          "summary_ja": "新しい研究で、ほぼ全てのキャットフードから重金属が見つかった。Newsweekが飼い主の疑問に答えた。",
+          "source": "Newsweek",
+          "url": "https://www.msn.com/en-us/news/other/does-your-cat-food-contain-metal/ar-AA2drOhg"
+        },
+        {
+          "title_ja": "米調査、キャットフードのほぼ全品から重金属",
+          "summary_ja": "検査したほぼ全ての商品から、プラスチック由来の汚染物質、除草剤、鉛や水銀などの重金属が検出された。",
+          "source": "CNN.co.jp",
+          "url": "https://www.cnn.co.jp/fringe/35253207.html"
         }
       ]
     },
     {
-      "keyword": "Walgreens store closings 2026",
-      "reason_ja": "ウォルグリーンの閉店店舗に関する検索が増えた。",
+      "keyword": "Yankees vs Rays",
+      "reason_ja": "ヤンキースとレイズの地区シリーズで、アーロン・ジャッジがロースターから外れたことが大きな話題になった。",
       "genre": "other",
-      "commercial_score": 25,
-      "product_keywords": [],
-      "product_keywords_ja": [],
+      "commercial_score": 45,
+      "product_keywords": [
+        "Yankees cap",
+        "MLB jersey"
+      ],
+      "product_keywords_ja": [
+        "ヤンキース キャップ",
+        "MLB ユニフォーム"
+      ],
       "trend_source": "Google Trends US",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google トレンド 米国の急上昇",
-          "summary_ja": "米国の急上昇検索にウォルグリーン閉店の話題が入った。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+          "title_ja": "ジャッジ、レイズとの地区シリーズのロースター外れる",
+          "summary_ja": "ヤンキースはレイズとの地区シリーズのロースターに、故障から回復中のアーロン・ジャッジを入れなかった。",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50090418/source-aaron-judge-not-yankees-roster-alds-vs-rays"
+        },
+        {
+          "title_ja": "3度のMVPジャッジ、まだ回復途上",
+          "summary_ja": "CBS Sportsは、ジャッジがレイズとの地区シリーズのメンバーから外れた経緯とけがの状況を伝えた。",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/"
         }
       ]
     }

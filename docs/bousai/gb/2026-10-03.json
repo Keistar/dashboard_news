@@ -4,33 +4,61 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "気象庁、秋は雨・風・嵐と洪水の可能性高と警告",
-      "summary_ja": "エルニーニョの影響で、秋は雨や強風、嵐、洪水の可能性が高いと英気象庁が警告した。10〜12月が多雨になる確率は平年の2倍。",
-      "source": "LBC",
-      "url": "https://www.lbc.co.uk/article/weather-rain-uk-flooding-autumn-5HjdjFy_2/",
-      "score": 66,
-      "commercial_score": 50,
+      "title_ja": "英国、雨不足で干ばつの恐れ続く",
+      "summary_ja": "英気象庁と環境庁は、先月の雨では水不足を取り戻すには全く足りず、英国は干ばつのリスクにあると警告した。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/news/uk-news/drought-environment-agency-warning-rain-37731317",
+      "score": 70,
+      "commercial_score": 40,
       "product_keywords": [
-        "防水バッグ",
-        "土のう"
+        "雨水タンク"
       ]
     },
     {
-      "title_ja": "エルニーニョで英国の嵐と洪水リスク上昇",
-      "summary_ja": "英気象庁が、世界的な気象パターンの乱れにより今秋の嵐・洪水リスクが高まると発表した。",
-      "source": "BritBrief",
-      "url": "https://britbrief.co.uk/environment/climate/met-office-el-nio-raises-uk-storm-and-flood-risk-this-autumn.html",
-      "score": 60
+      "title_ja": "イングランド東部の干ばつ、2027年まで続く恐れ",
+      "summary_ja": "アングリアン・ウォーターによると、ケンブリッジシャーのグラファム・ウォーター貯水池は容量の60%にとどまり、干ばつが2027年まで続く可能性がある。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8x86gn6n0o",
+      "score": 64,
+      "commercial_score": 30
     },
     {
-      "title_ja": "イングランドの洪水リスク確認サービス",
-      "summary_ja": "今後5日間のイングランドの洪水リスクはおおむね極めて低いが、カンブリアでは局地的な表面水氾濫の可能性がある。",
-      "source": "GOV.UK",
-      "url": "https://check-for-flooding.service.gov.uk/",
-      "score": 48
+      "title_ja": "猛暑でクリミア・コンゴ出血熱を運ぶマダニが英国で長生き",
+      "summary_ja": "気温の上昇で、クリミア・コンゴ出血熱を媒介するイボマダニが英国で以前より長く生き延びていると専門家が警告した。",
+      "source": "Wales Online",
+      "url": "https://www.gazettelive.co.uk/news/uk-world-news/uk-heatwaves-helping-disease-carrying-34710854",
+      "score": 62,
+      "commercial_score": 50,
+      "product_keywords": [
+        "虫除けスプレー"
+      ]
+    },
+    {
+      "title_ja": "スカイ島で地滑り、幹線道路が通行止め",
+      "summary_ja": "スコットランドのスカイ島北部で地滑りが起き、A855号線が週末も通行止めとなった。運転者は約64kmの迂回を強いられる。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crn8w7zp77gzo?at_medium=RSS&at_campaign=rss",
+      "score": 60,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "スコットランド国境地域で新しい洪水警報システム",
+      "summary_ja": "スコットランド・ボーダーズで改良された洪水警報システムが動き始め、危険のある世帯により正確で早い警告が届くようになった。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyz0yp8ke2o",
+      "score": 58,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "英国、極端な気象の予報強化で国際連携に参加",
+      "summary_ja": "英国は31か国が参加し、2030年までに海洋のリアルタイムの把握を目指す国際プログラム「OceanEye」に加わった。極端な気象の予報向上が狙い。",
+      "source": "yourweather.co.uk",
+      "url": "https://www.msn.com/en-gb/weather/general/uk-joins-international-alliance-to-boost-extreme-weather-forecasting/ar-AA2dtp9Q",
+      "score": 56,
+      "commercial_score": 5
     }
   ]
 }

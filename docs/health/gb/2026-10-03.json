@@ -4,40 +4,64 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "NHSが月26マイル歩くと特典の挑戦を発表",
-      "summary_ja": "2027年1月開始の月間マラソン挑戦で、約26マイル歩くと割引などの特典を受けられる。",
-      "source": "Deccan Herald",
-      "url": "https://www.deccanherald.com/health/healthcare/nhs-uk-will-reward-people-who-walk-daily-4062998",
-      "score": 65,
-      "commercial_score": 45,
+      "title_ja": "英国で亜硝酸塩不使用ベーコンの売り上げ急増",
+      "summary_ja": "発色剤への不安から、英国で亜硝酸塩を使わないベーコンに乗り換える人が増えている。ただ、こちらの方が安全だという根拠は乏しい。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
+      "score": 66,
+      "commercial_score": 60,
       "product_keywords": [
-        "ウォーキングシューズ",
-        "歩数計"
+        "無塩せき ベーコン"
       ]
     },
     {
-      "title_ja": "イングランドの薬局、秋から処方できる症状が拡大",
-      "summary_ja": "Pharmacy Firstに片頭痛、ニキビ、疥癬、中耳炎、鼻炎が加わる。3億4000万ポンドを投じる。",
-      "source": "PSLHub",
-      "url": "https://www.pslhub.org/news/more-pharmacies-in-england-to-prescribe-medication-from-autumn-r9824/",
-      "score": 62
+      "title_ja": "大気汚染の悪化で夜のせきが増える",
+      "summary_ja": "英国主導の研究で、大気汚染が増えると夜間のせきが増え、睡眠を妨げることが分かった。見過ごされやすい日常の症状だという。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/02/increased-air-pollution-link-night-time-coughing-uk-study-cambridge",
+      "score": 64,
+      "commercial_score": 50,
+      "product_keywords": [
+        "空気清浄機"
+      ]
     },
     {
-      "title_ja": "GP契約2026/27、減量注射の処方を奨励",
-      "summary_ja": "肥満対応の指標が追加され、体重管理プログラムの紹介が評価対象となる。",
-      "source": "Pulse Today",
-      "url": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/weight-loss-drug-prescribing-to-be-added-to-qof-as-part-of-2026-27-gp-contract/",
-      "score": 58
+      "title_ja": "更年期前の不調で仕事と家庭を失った女性",
+      "summary_ja": "更年期の前段階であるペリメノポーズの症状で職と家庭生活を失った女性が、他の女性にも「危険な時期」を知ってほしいとBBCに語った。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0994dgpno?at_medium=RSS&at_campaign=rss",
+      "score": 60,
+      "commercial_score": 30
     },
     {
-      "title_ja": "NHSイングランドのGP契約変更2026/27",
-      "summary_ja": "2026/27年度のGP契約の変更点を、NHSイングランドが公表している。",
-      "source": "NHS England",
-      "url": "https://www.england.nhs.uk/long-read/changes-to-the-gp-contract-in-2026-27/",
-      "score": 50
+      "title_ja": "ベリー類はどれくらい体に良いのか",
+      "summary_ja": "専門家は、いちご、ブラックベリー、ブルーベリーなどどのベリーを食べても健康効果があるとガーディアンに語った。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/wellness/2026/oct/02/how-healthy-are-berries-smoothies-bowls",
+      "score": 54,
+      "commercial_score": 50,
+      "product_keywords": [
+        "冷凍ブルーベリー"
+      ]
+    },
+    {
+      "title_ja": "元サッカー選手カマラ氏、男性の心の健康支援",
+      "summary_ja": "クリス・カマラ氏がガーンジー島で男性のメンタルヘルスを支える新しい取り組み「Here for Chris」を立ち上げた。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cmz7x332dzv5o?at_medium=RSS&at_campaign=rss",
+      "score": 52,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "英国看護協会、イスラエルの製薬会社と提携解消",
+      "summary_ja": "英国看護協会（RCN）は、イスラエル軍との関係などを理由に、テバUKとの商業パートナー契約を打ち切った。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/02/royal-college-of-nursing-cuts-ties-with-israeli-drug-company",
+      "score": 50,
+      "commercial_score": 5
     }
   ]
 }

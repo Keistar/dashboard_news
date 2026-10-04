@@ -1,0 +1,59 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-04T09:33:34+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAIの安全担当が辞職、「文化が壊れている」",
+      "summary_ja": "モデル公開時の安全報告書を書いてきたOpenAIのDavid Robinson氏が辞職し、社内の文化を批判した。AI企業の安全体制をめぐる議論が再燃している。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "score": 82
+    },
+    {
+      "title_ja": "Apple、AIエージェント対策でMacの権限を厳格化",
+      "summary_ja": "Appleは、AIエージェントの能力向上でファイルやメール、閲覧履歴への広いアクセスが危険になっているとして、macOSの「フルディスクアクセス」に新たな制限を加えると発表した。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "score": 76
+    },
+    {
+      "title_ja": "Anthropic、IPO書類で政府対応のリスクを明記",
+      "summary_ja": "Anthropicは上場申請書類で、各国政府のAIや同社への姿勢が自社と顧客・パートナーの事業に影響しうるとリスクを示した。",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-filing-outlines-government-action-risks-for-commercial-ecosystem/",
+      "score": 74
+    },
+    {
+      "title_ja": "Meta、AI端末「Muse」のコードをオープン化",
+      "summary_ja": "MetaはAIエージェント「Muse」を組み込んだ端末を誰でも作れるよう、関連コードを無償で公開した。テレビや家電などへのMuse搭載を広げる狙い。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "score": 70
+    },
+    {
+      "title_ja": "Google、AI生成の低品質報告殺到で報奨金を停止",
+      "summary_ja": "Googleはオープンソースの脆弱性報奨金プログラムで、AIが作った無効な報告が殺到したため、製品の欠陥に関する受け付けを一時停止した。",
+      "source": "Tom's Hardware",
+      "url": "https://www.msn.com/en-us/technology/software/google-freezes-open-source-bug-bounty-program-amid-flood-of-invalid-ai-slop-submissions/ar-AA2duC0f",
+      "score": 66
+    },
+    {
+      "title_ja": "ショーン・パーカー氏、Stability AIを音楽AIに再編",
+      "summary_ja": "かつて音楽業界を揺るがしたショーン・パーカー氏が、レーベル側の承認と資金を得て、Stability AIを音楽中心の会社に作り直している。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "score": 64
+    },
+    {
+      "title_ja": "米政府がAIを「超知能」と改称、消費者の購入は2%",
+      "summary_ja": "ホワイトハウスがAIを「スーパーインテリジェンス」と呼び替えた一方、AIにお金を払う消費者は2%にとどまり、収益の多くはまだ企業向けから来ているとTechCrunchが論じた。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "score": 60
+    }
+  ]
+}

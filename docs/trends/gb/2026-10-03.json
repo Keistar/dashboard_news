@@ -3,89 +3,59 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "trends": [
     {
-      "keyword": "Premier League",
-      "reason_ja": "2026-27シーズンのプレミアリーグは継続的に検索される。",
-      "genre": "other",
-      "commercial_score": 50,
+      "keyword": "beauty advent calendar",
+      "reason_ja": "Aldiの19.99ポンドの美容アドベントカレンダーが紹介され、年末商戦のアドベントカレンダー探しが本格化した。",
+      "genre": "beauty",
+      "commercial_score": 85,
       "product_keywords": [
-        "football shirt",
-        "football boots"
+        "beauty advent calendar",
+        "cosmetics gift set"
       ],
       "product_keywords_ja": [
-        "サッカー ユニフォーム",
-        "サッカー スパイク"
+        "コスメ アドベントカレンダー",
+        "クリスマスコフレ"
       ],
-      "trend_source": "Google Trends UK関連",
+      "trend_source": "Hampshire Chronicle",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Aldiの19.99ポンドの美容アドベントカレンダー",
+          "summary_ja": "英Aldiが19.99ポンドの美容アドベントカレンダーを販売する。手頃な価格で中身が充実していると紹介された。",
+          "source": "Hampshire Chronicle",
+          "url": "https://www.msn.com/en-gb/news/other/i-had-a-sneak-peek-at-aldi-s-1999-beauty-advent-calendar-its-packed-with-treats/ar-AA2dpVQm"
+        }
+      ]
+    },
+    {
+      "keyword": "netflix movies",
+      "reason_ja": "10月にNetflixで新しく配信される映画やドラマを探す検索が増えた。",
+      "genre": "other",
+      "commercial_score": 40,
+      "product_keywords": [
+        "streaming stick",
+        "projector"
+      ],
+      "product_keywords_ja": [
+        "Fire TV Stick",
+        "プロジェクター"
+      ],
+      "trend_source": "Google Trends GB",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "2026-27シーズンのプレミアリーグ",
-          "summary_ja": "2026-27シーズンの試合日程や順位をまとめた百科事典ページ。",
-          "source": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
-        }
-      ]
-    },
-    {
-      "keyword": "Glasgow travel",
-      "reason_ja": "グラスゴーが2026年の注目旅行先として紹介されている。",
-      "genre": "outdoor",
-      "commercial_score": 40,
-      "product_keywords": [
-        "travel guide UK",
-        "carry-on suitcase"
-      ],
-      "product_keywords_ja": [
-        "旅行 スーツケース 機内持ち込み",
-        "英国 ガイドブック"
-      ],
-      "trend_source": "NationalWorld",
-      "trend_source_type": "news",
-      "articles": [
+          "title_ja": "10月にNetflixで観たい新作映画15本",
+          "summary_ja": "10月にNetflixに加わる映画から、おすすめの15本をForbesが紹介した。",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/erikkain/2026/10/02/netflix-10-best-movies-october-2026/"
+        },
         {
-          "title_ja": "英国から2026年人気旅行先トップ10入り",
-          "summary_ja": "グラスゴーはユネスコ音楽都市として、現代文化や食で人気の旅行先に選ばれた。",
-          "source": "NationalWorld",
-          "url": "https://www.nationalworld.com/travel/travel-news/one-uk-city-amongst-the-top-10-trending-destinations-for-2026-5472259"
-        }
-      ]
-    },
-    {
-      "keyword": "British TV 2026",
-      "reason_ja": "英国のテレビ番組の話題が継続して検索されている。",
-      "genre": "other",
-      "commercial_score": 30,
-      "product_keywords": [],
-      "product_keywords_ja": [],
-      "trend_source": "Wikipedia",
-      "trend_source_type": "other",
-      "articles": [
-        {
-          "title_ja": "2026年の英国テレビ",
-          "summary_ja": "2026年の英国テレビの番組や出来事をまとめたページ。",
-          "source": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/2026_in_British_television"
-        }
-      ]
-    },
-    {
-      "keyword": "pub costs UK",
-      "reason_ja": "英国のパブの運営コスト上昇と課税への懸念が報じられた。",
-      "genre": "food",
-      "commercial_score": 20,
-      "product_keywords": [],
-      "product_keywords_ja": [],
-      "trend_source": "Morning Advertiser",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "10月2日のニュース",
-          "summary_ja": "英国の飲食業界の10月2日のニュースまとめ。パブのコスト上昇と課税への懸念を扱う。",
-          "source": "Morning Advertiser",
-          "url": "https://www.morningadvertiser.co.uk/Article/2026/10/02/whats-in-the-news-2-october/"
+          "title_ja": "Netflix UKの10月の注目ドラマ",
+          "summary_ja": "レスリー・マンヴィル主演の豪華なドラマなど、10月にNetflix UKで配信が始まる注目作をEsquireがまとめた。",
+          "source": "Esquire",
+          "url": "https://www.esquire.com/uk/culture/tv/a73927805/best-tv-shows-netflix-uk-october-2026/"
         }
       ]
     }

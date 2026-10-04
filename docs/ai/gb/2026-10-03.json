@@ -1,0 +1,38 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-04T09:33:34+09:00",
+  "stories": [
+    {
+      "title_ja": "英国最大のAIスパコン、電力不足で2030年以降に",
+      "summary_ja": "Nvidiaが出資するNscaleの英国最大級AIデータセンターは、電力供給の問題で2027年の稼働予定が延期され、早くても2030年になる見通し。",
+      "source": "TechRadar",
+      "url": "https://www.msn.com/en-us/news/other/nvidia-backed-neocloud-nscale-faces-delay-as-uks-largest-ai-supercomputer-cant-get-enough-power/ar-AA2dumE9",
+      "score": 72
+    },
+    {
+      "title_ja": "OpenAI、機密情報の取り扱い違反で社員を解雇",
+      "summary_ja": "OpenAIは、外部のAI評価団体とデータを共有したとして調査していた元社員を解雇した。BBCが報じた。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "score": 70
+    },
+    {
+      "title_ja": "AIデータセンターの電力申請、英国消費量の約2倍",
+      "summary_ja": "計画中のAIデータセンターが求める送電網への接続は合計73ギガワットに上り、英国全体の年間電力消費のほぼ2倍に相当する。",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/tech/40568142/ai-data-double-uk-electricity/",
+      "score": 68
+    },
+    {
+      "title_ja": "バーミンガムのMetcloudがAI基盤、84人雇用へ",
+      "summary_ja": "英バーミンガムのIT企業MetcloudがAIプラットフォーム「Metcloud.ai」を立ち上げた。最大84人の高度人材の雇用につながる見込み。",
+      "source": "TheBusinessDesk.com",
+      "url": "https://www.thebusinessdesk.com/westmidlands/news/2117373-ai-platform-launch-to-create-up-to-84-birmingham-tech-jobs",
+      "score": 50
+    }
+  ]
+}
