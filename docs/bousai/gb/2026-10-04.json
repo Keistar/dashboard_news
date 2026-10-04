@@ -4,42 +4,53 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "英国は気象の急変に備えが不十分との指摘",
-      "summary_ja": "極端な雨と干ばつが交互に来る気象の急変に英国は備えが足りないとする論説。",
-      "source": "Gulf Today",
-      "url": "https://www.gulftoday.ae/opinion/2026/09/12/britain-isnt-ready-for-weather-whiplash",
-      "score": 50,
-      "commercial_score": 30,
+      "title_ja": "英気象庁が極渦の見通し更新、ロンドンでエルニーニョ警戒",
+      "summary_ja": "英気象庁（Met Office）が極渦の最新見通しを出した。過去にない規模の「ゴジラ級」エルニーニョがロンドンに影響するとの懸念も報じられている。",
+      "source": "London Evening Standard",
+      "url": "https://www.msn.com/en-gb/news/other/met-office-issues-polar-vortex-update-amid-london-el-nino-fears/ar-AA2dr1Dw",
+      "score": 86,
+      "commercial_score": 60,
       "product_keywords": [
-        "防水用品",
-        "止水板"
+        "電気ヒーター",
+        "防寒着"
       ]
     },
     {
-      "title_ja": "英国の記録的豪雨と洪水の緊急事態",
-      "summary_ja": "記録的な降雨による洪水被害と緊急対応を伝える記事。",
-      "source": "Karmactive",
-      "url": "https://www.karmactive.com/uk-storm-record-rainfall-flooding-emergency-2026-2/",
-      "score": 45,
-      "commercial_score": 35,
+      "title_ja": "英国、数日内に4cmの積雪予報も",
+      "summary_ja": "予報チャートでは10月12〜14日にかけて英国各地に雪が広がる可能性がある。極渦への警戒を受けたもの。",
+      "source": "Birmingham Live",
+      "url": "https://www.msn.com/en-gb/weather/meteorology/uk-faces-4cm-snow-within-days-after-met-office-issues-polar-vortex-warning/ar-AA2dw5hl",
+      "score": 78,
+      "commercial_score": 65,
       "product_keywords": [
-        "土のう",
-        "防水バッグ"
+        "電気毛布",
+        "スノーブーツ"
       ]
     },
     {
-      "title_ja": "英国政府が洪水への備えを呼びかけ",
-      "summary_ja": "政府が市民に洪水への備えを求め、約700万世帯が浸水リスクにあるとされる。",
-      "source": "ThePrint",
-      "url": "https://theprint.in/world/uk-govt-urges-public-to-develop-flood-preparedness/2310572/",
-      "score": 45,
-      "commercial_score": 35,
+      "title_ja": "British Gas、寒波前に3日分の食料備蓄を推奨",
+      "summary_ja": "British Gasは、極渦による雪に備えて家庭で3日分の食料を備えるよう呼びかけた。",
+      "source": "Daily Express",
+      "url": "https://www.msn.com/en-gb/weather/meteorology/british-gas-says-stockpile-three-days-of-food-before-polar-vortex-snow/ar-AA2dtY1b",
+      "score": 74,
+      "commercial_score": 70,
       "product_keywords": [
-        "防災キット",
-        "止水板"
+        "非常食",
+        "ポータブル電源"
+      ]
+    },
+    {
+      "title_ja": "環境庁、雨が足りず干ばつの恐れが続くと警告",
+      "summary_ja": "英気象庁と環境庁は、9月に雨は降ったものの水不足を解消するには足りず、干ばつのリスクが残ると警告した。",
+      "source": "Daily Mirror",
+      "url": "https://www.mirror.co.uk/news/uk-news/drought-environment-agency-warning-rain-37731317",
+      "score": 66,
+      "commercial_score": 40,
+      "product_keywords": [
+        "節水グッズ"
       ]
     }
   ]

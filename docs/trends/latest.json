@@ -1,547 +1,382 @@
 {
   "feed": "trends",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "trends": [
     {
-      "keyword": "Pixel 11 vs iPhone 18",
-      "reason_ja": "新型スマホの比較検討が活発で、買い替え需要が高まっている。",
-      "genre": "gadget",
-      "commercial_score": 78,
-      "product_keywords": [
-        "iPhone 18 Pro",
-        "Pixel 11 Pro"
-      ],
-      "product_keywords_ja": [
-        "iPhone 18 Pro",
-        "Pixel 11 Pro"
-      ],
-      "trend_source": "Digit等",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "iPhone 18とPixel 11の比較",
-          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
-          "source": "Digit",
-          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
-        },
-        {
-          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
-          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
-          "source": "Business Today",
-          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "iPhone 18 Pro",
-      "reason_ja": "9月発売見込みのiPhone 18 Proへの関心が英国でも高い。",
-      "genre": "gadget",
-      "commercial_score": 78,
-      "product_keywords": [
-        "iPhone 18 Pro"
-      ],
-      "product_keywords_ja": [
-        "iPhone 18 Pro"
-      ],
-      "trend_source": "Digit等",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "iPhone 18とPixel 11の比較",
-          "summary_ja": "iPhone 18 ProとPixel 11のカメラやチップなど想定スペックを比較する記事。",
-          "source": "Digit",
-          "url": "https://www.digit.in/google-pixel-11-vs-apple-iphone-18-camera-display-processor-and-other-expected-specs-compared"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Pixel 11",
-      "reason_ja": "Pixel 11シリーズ発表後も比較記事が多く、買い替え検討層の関心が続く。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "Google Pixel 11",
-        "Pixel 11 case"
-      ],
-      "product_keywords_ja": [
-        "Pixel 11",
-        "Pixel 11 ケース"
-      ],
-      "trend_source": "Business Today等",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
-          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
-          "source": "Business Today",
-          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
-        },
-        {
-          "title_ja": "2026年後半の新型スマホ発売一覧",
-          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
-          "source": "Brut",
-          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Pixel 11",
-      "reason_ja": "8月発表のPixel 11シリーズの比較検索が続いている。",
-      "genre": "gadget",
-      "commercial_score": 72,
-      "product_keywords": [
-        "Google Pixel 11"
-      ],
-      "product_keywords_ja": [
-        "Pixel 11"
-      ],
-      "trend_source": "Business Today",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
-          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
-          "source": "Business Today",
-          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Galaxy S26 FE",
-      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
-      "genre": "gadget",
-      "commercial_score": 70,
-      "product_keywords": [
-        "Galaxy S26 FE"
-      ],
-      "product_keywords_ja": [
-        "Galaxy S26 FE"
-      ],
-      "trend_source": "Brut",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年後半の新型スマホ発売一覧",
-          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
-          "source": "Brut",
-          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Galaxy S26 FE",
-      "reason_ja": "10月発売見込みのSamsung新型スマホが注目されている。",
-      "genre": "gadget",
-      "commercial_score": 68,
-      "product_keywords": [
-        "Galaxy S26 FE"
-      ],
-      "product_keywords_ja": [
-        "Galaxy S26 FE"
-      ],
-      "trend_source": "Brut",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年後半の新型スマホ発売一覧",
-          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
-          "source": "Brut",
-          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "ChatGPT",
-      "reason_ja": "2026年も検索が伸びているAIサービスで、関連ツールへの関心が高い。",
-      "genre": "ai",
-      "commercial_score": 65,
-      "product_keywords": [
-        "AI notebook",
-        "ChatGPT"
-      ],
-      "product_keywords_ja": [
-        "AI ノート",
-        "生成AI 本"
-      ],
-      "trend_source": "bloggerspassion",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "2026年の最多検索キーワード",
-          "summary_ja": "YouTubeが首位で、ChatGPTや旅行関連の検索も伸びたとする記事。",
-          "source": "Bloggers Passion",
-          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "国庆黄金周",
-      "reason_ja": "国慶節の大型連休で旅行関連の検索熱度が前月比278%増。",
-      "genre": "other",
-      "commercial_score": 65,
-      "product_keywords": [
-        "travel suitcase",
-        "travel pillow"
-      ],
-      "product_keywords_ja": [
-        "スーツケース",
-        "ネックピロー"
-      ],
-      "trend_source": "網易",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節の大型連休旅行トレンド",
-          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
-          "source": "網易",
-          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "Pumpkin head photoshoot",
-      "reason_ja": "ハロウィンに向けパンプキンヘッド撮影がTikTokで流行している。",
-      "genre": "other",
-      "commercial_score": 60,
-      "product_keywords": [
-        "pumpkin mask",
-        "Halloween costume"
-      ],
-      "product_keywords_ja": [
-        "ハロウィン 仮装",
-        "かぼちゃ マスク"
-      ],
-      "trend_source": "TikTok",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "今月のTikTokトレンド",
-          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
-          "source": "Ypulse",
-          "url": "https://www.ypulse.com/?p=70637"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Halloween costume",
-      "reason_ja": "10月に入りハロウィン関連の検索・動画が増えている。",
-      "genre": "other",
-      "commercial_score": 60,
-      "product_keywords": [
-        "Halloween costume",
-        "pumpkin"
-      ],
-      "product_keywords_ja": [
-        "ハロウィン 仮装",
-        "かぼちゃ 飾り"
-      ],
-      "trend_source": "TikTok",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "今月のTikTokトレンド",
-          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
-          "source": "Ypulse",
-          "url": "https://www.ypulse.com/?p=70637"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "気象情報",
-      "reason_ja": "Google急上昇で50万+検索、台風や天候への関心が高まっている。",
+      "keyword": "polar vortex 2026",
+      "reason_ja": "英気象庁がエルニーニョと極渦の見通しを更新し、10月中旬の降雪予報も出て検索が5000件超に急増。",
       "genre": "bousai",
-      "commercial_score": 55,
+      "commercial_score": 80,
       "product_keywords": [
-        "portable weather radio",
-        "emergency kit"
+        "electric heater",
+        "heated throw",
+        "thermal base layer"
       ],
       "product_keywords_ja": [
-        "防災ラジオ",
-        "防災グッズ セット"
+        "電気ヒーター",
+        "電気毛布",
+        "インナー 防寒"
       ],
-      "trend_source": "Google Trends JP",
+      "trend_source": "Google Trends GB",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: 気象情報",
-          "summary_ja": "気象情報が50万+検索で急上昇。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "GhostfaceCult",
-      "reason_ja": "Scream由来のGhostface風アイコンがTikTokで24,900万回再生。",
-      "genre": "other",
-      "commercial_score": 55,
-      "product_keywords": [
-        "Ghostface mask"
-      ],
-      "product_keywords_ja": [
-        "ゴーストフェイス マスク"
-      ],
-      "trend_source": "TikTok",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "今月のTikTokトレンド",
-          "summary_ja": "ハロウィン関連のパンプキンヘッド撮影やGhostface系ハッシュタグなど、10月のTikTok流行を紹介。",
-          "source": "Ypulse",
-          "url": "https://www.ypulse.com/?p=70637"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "请3休13",
-      "reason_ja": "3日休暇で13連休になる「超長連休」が話題。",
-      "genre": "other",
-      "commercial_score": 55,
-      "product_keywords": [
-        "travel backpack"
-      ],
-      "product_keywords_ja": [
-        "旅行 リュック"
-      ],
-      "trend_source": "網易",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節の大型連休旅行トレンド",
-          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
-          "source": "網易",
-          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
+          "title_ja": "英気象庁、極渦の最新見通しで厳冬の可能性",
+          "summary_ja": "英気象庁は、エルニーニョが冬の後半に成層圏の極渦を弱める可能性があると説明した。寒波への警戒が高まっている。",
+          "source": "Daily Mirror",
+          "url": "https://www.mirror.co.uk/news/uk-news/met-office-polar-vortex-fresh-37732317"
         },
         {
-          "title_ja": "2026年国慶節ゴールデンウィークの展望",
-          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
-          "source": "界面新聞",
-          "url": "https://m.jiemian.com/article/13436593.html"
+          "title_ja": "極渦を前にエルニーニョの新たな警告",
+          "summary_ja": "英気象庁の担当者は、エルニーニョのピーク後、冬の後半に寒さが強まる可能性に言及した。",
+          "source": "LBC",
+          "url": "https://www.lbc.co.uk/article/snow-cold-autumn-el-nino-polar-vortex-5HjdjNG_2/"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Taylor Swift",
-      "reason_ja": "7月のTravis Kelceとの結婚後も、最多検索の女性アーティストである。",
-      "genre": "other",
-      "commercial_score": 50,
+      "keyword": "Apple TV",
+      "reason_ja": "Apple TVが10月分の無料ボーナス映画を追加し、10月13日の新型Apple TV発表のうわさも重なって検索が5000件超に。",
+      "genre": "gadget",
+      "commercial_score": 65,
       "product_keywords": [
-        "Taylor Swift album vinyl"
+        "Apple TV 4K",
+        "streaming device"
       ],
       "product_keywords_ja": [
-        "テイラー・スウィフト レコード"
+        "Apple TV 4K",
+        "ストリーミング端末"
       ],
-      "trend_source": "meetglimpse等",
+      "trend_source": "Google Trends US",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "最も検索されている人物",
-          "summary_ja": "Messi、Ronaldoなどに並び、Taylor Swiftが最多検索の女性との記載。",
-          "source": "Bloggers Passion",
-          "url": "https://bloggerspassion.com/most-searched-things-on-google/"
+          "title_ja": "Apple TV、10月の無料ボーナス映画を更新",
+          "summary_ja": "Apple TVは加入者向けに無料で見られる名作映画のラインアップを入れ替え、10月分として十数本を追加した。",
+          "source": "MacTrast",
+          "url": "https://www.mactrast.com/2026/10/apple-tv-updates-its-selection-of-free-great-movies-just-in-time-for-the-weekend/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "西南西北长途游",
-      "reason_ja": "西南・西北への長距離旅行の予約が前年比30%超増。",
-      "genre": "outdoor",
-      "commercial_score": 50,
+      "keyword": "El Nino 2026",
+      "reason_ja": "過去最大級ともいわれるエルニーニョが英国の冬に与える影響への関心が高まっている。",
+      "genre": "bousai",
+      "commercial_score": 60,
       "product_keywords": [
-        "hiking boots",
-        "portable power bank"
+        "dehumidifier",
+        "waterproof jacket"
       ],
       "product_keywords_ja": [
-        "トレッキングシューズ",
-        "モバイルバッテリー"
+        "除湿機",
+        "防水ジャケット"
       ],
-      "trend_source": "界面新聞",
-      "trend_source_type": "news",
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "2026年国慶節ゴールデンウィークの展望",
-          "summary_ja": "国内線予約が前年比40%超増、西南・西北への長距離旅行が人気という内容。",
-          "source": "界面新聞",
-          "url": "https://m.jiemian.com/article/13436593.html"
+          "title_ja": "前回の巨大エルニーニョはロンドンにどう影響したか",
+          "summary_ja": "前回のスーパーエルニーニョがロンドンにもたらした天候を振り返り、今冬の見通しを解説している。",
+          "source": "London Evening Standard",
+          "url": "https://www.msn.com/en-gb/news/other/how-the-last-big-el-ni%C3%B1o-hit-london-and-what-it-could-mean-this-winter/ar-AA2djnP6"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "keyword": "中秋国庆",
-      "reason_ja": "中秋・国慶関連の検索が大幅増で、帰省や旅行需要が高い。",
-      "genre": "food",
-      "commercial_score": 50,
-      "product_keywords": [
-        "mooncake gift box"
-      ],
-      "product_keywords_ja": [
-        "月餅 ギフト"
-      ],
-      "trend_source": "網易",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "2026年国慶節の大型連休旅行トレンド",
-          "summary_ja": "「請3休13」による超長連休で旅行需要が拡大し、検索熱度が前月比278%増となった。",
-          "source": "網易",
-          "url": "https://www.163.com/dy/article/L3HJ0OKU0553TENB.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "邮轮出境游",
-      "reason_ja": "クルーズや少人数高級ツアーなど体験型の海外旅行が人気。",
+      "keyword": "ゆるキャラグランプリ",
+      "reason_ja": "後継イベント「ゆるバース2026」の決選投票が4日にさいたまで開かれ、Yahoo!リアルタイム検索で話題に。",
       "genre": "other",
       "commercial_score": 45,
       "product_keywords": [
-        "travel adapter"
+        "ゆるキャラ グッズ",
+        "くまモン"
       ],
       "product_keywords_ja": [
-        "海外 変換プラグ"
+        "ゆるキャラ グッズ",
+        "くまモン グッズ"
       ],
-      "trend_source": "Airbnb",
-      "trend_source_type": "news",
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Airbnb 国慶節の出国旅行トレンド報告",
-          "summary_ja": "クルーズや少人数高級ツアーなど体験重視の旅行が人気との報告。",
-          "source": "Airbnb",
-          "url": "https://news.airbnb.com/zh/airbnb%E7%88%B1%E5%BD%BC%E8%BF%8E%E5%8F%91%E5%B8%83%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E5%87%BA%E5%A2%83%E6%B8%B8%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%97%85/"
+          "title_ja": "「ゆるバース」決選投票、くまモンらも登場",
+          "summary_ja": "ゆるキャラグランプリの後継イベント「ゆるバース」の決選投票が4日、GMOアリーナさいたまで開かれた。くまモンやチーバくんなど全国のキャラクターが集まった。",
+          "source": "MSN",
+          "url": "https://www.msn.com/ja-jp/news/other/%E3%81%8F%E3%81%BE%E3%83%A2%E3%83%B3-%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8B%E3%83%A2%E3%83%BC%E3%83%B3-%E3%83%81%E3%83%BC%E3%83%90%E3%81%8F%E3%82%93%E3%82%89%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8%E7%81%BD%E5%AE%B3%E3%81%AE%E7%BE%A9%E6%8F%B4%E9%87%91%E5%8D%94%E5%8A%9B%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91/ar-AA2dvqyS"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "蜜雪冰城 抽中电动车",
+      "reason_ja": "昆明の蜜雪冰城旗艦店で127元分の菓子を買った男性が約4000元の電動バイクを当て、百度热搜に。",
+      "genre": "food",
+      "commercial_score": 45,
+      "product_keywords": [
+        "蜜雪冰城"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "蜜雪冰城の国慶キャンペーンで電動バイクが当選",
+          "summary_ja": "昆明の蜜雪冰城旗艦店が国慶節に行う抽選で、127元分を買った客が特賞の電動バイクを当てた。特賞は10台用意されている。",
+          "source": "鳳凰網",
+          "url": "https://news.ifeng.com/c/8wwlHk5i8jy"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "早期天候情報",
-      "reason_ja": "早期天候情報が5万+検索で急上昇し、気温変化への備えが意識されている。",
-      "genre": "bousai",
+      "keyword": "余承东 工作备注",
+      "reason_ja": "華為の余承東氏が享界G9の宣伝投稿に社内向けの指示文を残したまま投稿し、百度热搜に。",
+      "genre": "gadget",
       "commercial_score": 40,
       "product_keywords": [
-        "heated clothing",
-        "humidifier"
+        "享界G9",
+        "华为 Mate 90"
       ],
-      "product_keywords_ja": [
-        "電熱ベスト",
-        "加湿器"
-      ],
-      "trend_source": "Google Trends JP",
+      "product_keywords_ja": [],
+      "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: 早期天候情報",
-          "summary_ja": "早期天候情報が5万+検索。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "余承東氏の微博、社内メモ付きで投稿し話題に",
+          "summary_ja": "余承東氏が享界G9の車載通信テストを紹介した微博に「余総転送」などの社内向けメモが残っており、ネットで話題になった。",
+          "source": "網易",
+          "url": "https://m.163.com/news/article/L8DJBE910511A6N9.html"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "keyword": "ドジャース",
-      "reason_ja": "ドジャースの試合が10万+検索で急上昇している。",
+      "keyword": "徐良演唱会 面包厂",
+      "reason_ja": "歌手・徐良がコンサートの手土産を倒産寸前の工場に発注し、2工場が持ち直したことが百度热搜に。",
+      "genre": "food",
+      "commercial_score": 40,
+      "product_keywords": [
+        "怀旧面包",
+        "毛毛虫面包"
+      ],
+      "product_keywords_ja": [
+        "菓子パン"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "徐良のコンサート手土産、倒産寸前の工場を救う",
+          "summary_ja": "徐良はツアー各地で懐かしのパンを手土産に配っており、北京公演の毛虫パンを倒産寸前の工場に発注した。注文を受けた工場は従業員を呼び戻した。",
+          "source": "QQ",
+          "url": "https://news.qq.com/rain/a/20261004A02YOB00"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "国庆景区热度 小城",
+      "reason_ja": "去哪儿のデータで国慶の人気観光地トップ10を地方の小都市が独占し、百度热搜に。",
       "genre": "other",
       "commercial_score": 35,
       "product_keywords": [
-        "Dodgers cap"
+        "旅行用品"
       ],
       "product_keywords_ja": [
-        "ドジャース キャップ"
+        "旅行 グッズ"
       ],
-      "trend_source": "Google Trends JP",
+      "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: ドジャース",
-          "summary_ja": "10万+検索。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "国慶の人気観光地トップ10を小都市が独占",
+          "summary_ja": "去哪儿によると、国慶節の人気観光地トップ10は小都市が占めた。九寨溝などでは4〜6日の入場券が売り切れている。",
+          "source": "楚天都市報",
+          "url": "https://www.ctdsb.net/c1476_202610/2871998.html"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "keyword": "ジャイアンツ 阪神",
-      "reason_ja": "プロ野球の試合が10万+検索で急上昇している。",
+      "keyword": "凱旋門賞 2026",
+      "reason_ja": "日本からメイショウタバルとアドマイヤテラが出走する凱旋門賞が4日夜に行われ、検索が1万件超に急増。",
       "genre": "other",
       "commercial_score": 30,
       "product_keywords": [
-        "baseball jersey"
+        "競馬",
+        "凱旋門賞"
       ],
       "product_keywords_ja": [
-        "ユニフォーム 応援"
+        "競馬 グッズ"
       ],
       "trend_source": "Google Trends JP",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: ジャイアンツ対阪神",
-          "summary_ja": "10万+検索。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "凱旋門賞2026の見どころ、日本から2頭が参戦",
+          "summary_ja": "10月4日にパリロンシャン競馬場で行われる凱旋門賞に、昨年覇者ダリズやカルパナなど16頭が出走する。日本からはメイショウタバルとアドマイヤテラが挑む。",
+          "source": "Sporting News Japan",
+          "url": "https://www.sportingnews.com/jp/horse-racing/news/2026-horse-racing-qatar-prix-de-larc-de-triomphe-prediction/250ebe712d836cf225310883"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "RIZIN",
-      "reason_ja": "RIZINが10万+検索で急上昇、格闘技大会が話題。",
+      "keyword": "F1 Malaysian Grand Prix",
+      "reason_ja": "バーレーンGPが代替開催でマレーシアのセパンで行われ、豪雨によるスタート遅延もあって検索が急増。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "F1 merchandise"
+      ],
+      "product_keywords_ja": [
+        "F1 グッズ"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "F1バーレーンGPをマレーシアで開催、豪雨でスタート遅延",
+          "summary_ja": "今季のバーレーンGPはマレーシアのセパンで行われ、激しい雨のためスタートが遅れた。ポールポジションはフェルスタッペン。",
+          "source": "Newsday",
+          "url": "https://www.newsday.com/sports/motor-racing/f1-bahrain-malaysia-verstappen-hamilton-antonelli-i88766"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "The Celebrity Traitors",
+      "reason_ja": "BBCの人気リアリティ番組の第2シリーズが始まり、裏切り者役の振る舞いが話題に。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "The Traitors board game"
+      ],
+      "product_keywords_ja": [
+        "人狼 ボードゲーム"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "『Celebrity Traitors』次回放送日と日程",
+          "summary_ja": "BBCの『Celebrity Traitors』2026年シリーズが始まり、第2話以降の放送予定がまとめられている。",
+          "source": "Digital Spy",
+          "url": "https://www.digitalspy.com/tv/reality-tv/a73866586/celebrity-traitors-release-schedule-2026/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "毎日王冠",
+      "reason_ja": "4日の毎日王冠で5番人気セイウンハーデスが写真判定の末に優勝し、Yahoo!リアルタイム検索でも関連語が上位に。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "競馬"
+      ],
+      "product_keywords_ja": [
+        "競馬 グッズ"
+      ],
+      "trend_source": "Google Trends JP・Yahoo!リアルタイム検索",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "毎日王冠はセイウンハーデスが写真判定で制す",
+          "summary_ja": "5番人気のセイウンハーデスがゴール前で逃げるホウオウビスケッツをとらえ、重賞3勝目を挙げた。幸英明騎手は26年ぶりの毎日王冠制覇。",
+          "source": "MSN",
+          "url": "https://www.msn.com/ja-jp/news/news/%E6%AF%8E%E6%97%A5%E7%8E%8B%E5%86%A0-%E7%99%BD%E8%A1%80%E7%97%85%E5%AF%9B%E8%A7%A3%E3%81%AE%E8%A5%BF%E5%B1%B1%E8%8C%82%E8%A1%8C%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%86%E3%82%8C%E3%81%97%E3%81%84%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-%E3%81%9D%E3%82%8C%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A7%E7%94%9F%E3%81%8D%E8%BF%94%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-%E5%A4%A9%E7%9A%87%E8%B3%9E-%E7%A7%8B%E3%81%AE%E3%83%91%E3%83%89%E3%83%83%E3%82%AF%E3%82%82%E8%A1%8C%E3%81%8F/ar-AA2dwCim"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "F1",
+      "reason_ja": "マレーシアで代替開催されたバーレーンGPの中継・結果を求める検索が2万件超に。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "F1 merchandise"
+      ],
+      "product_keywords_ja": [
+        "F1 グッズ"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "マレーシアでのF1レース、スタートが遅れる",
+          "summary_ja": "マレーシアで2017年以来となるF1レースが行われたが、雨の影響でスタートが遅れた。",
+          "source": "Goal",
+          "url": "https://www.goal.com/en/news/formula-1-race-in-malaysia-starts-late/blt434bf4ddb824e2a0"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "桑木志帆",
+      "reason_ja": "日本女子オープン最終日に首位の桑木志帆が申ジエとプレーオフにもつれ込み、検索が1万件超に。",
       "genre": "other",
       "commercial_score": 20,
       "product_keywords": [
-        "MMA gloves"
+        "ゴルフウェア"
       ],
       "product_keywords_ja": [
-        "格闘技 グローブ"
+        "ゴルフウェア レディース"
       ],
       "trend_source": "Google Trends JP",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: RIZIN",
-          "summary_ja": "10万+検索で急上昇。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "申ジエが逆転優勝、桑木志帆をプレーオフで破る",
+          "summary_ja": "日本女子オープンで2打差2位から出た申ジエが、首位の桑木志帆とのプレーオフを制して通算30勝目を挙げ、永久シードを獲得した。",
+          "source": "日刊スポーツ",
+          "url": "https://www.nikkansports.com/sports/golf/news/202610040000913.html"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Hawaii",
+      "reason_ja": "ハワイ火山国立公園の名所ホーレイ・シーアーチが崩落したと報じられ、検索が増えた。",
+      "genre": "outdoor",
+      "commercial_score": 20,
+      "product_keywords": [
+        "Hawaii travel"
+      ],
+      "product_keywords_ja": [
+        "ハワイ 旅行 グッズ"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ハワイの名所ホーレイ・シーアーチが崩落",
+          "summary_ja": "ハワイ島の溶岩でできた高さ約27メートルの海食アーチが崩れた。国立公園局は崖に近づかないよう警告している。",
+          "source": "AP",
+          "url": "https://apnews.com/article/hawaii-sea-arch-cliff-collapse-6cc8d0a2ebc2ab36ee1cd4b69f8ea5f0"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

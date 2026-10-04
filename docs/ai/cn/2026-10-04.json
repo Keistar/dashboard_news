@@ -4,58 +4,50 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:32+09:00",
   "stories": [
     {
-      "title_ja": "華為Mate 90、小芸が個人エージェントに進化",
-      "summary_ja": "華為は10月1日にMate 90シリーズを発表し、AIアシスタント小芸が先回りして作業する個人専属エージェントになった。鴻蒙7を搭載する。",
-      "source": "快科技（MyDrivers）",
-      "url": "https://news.mydrivers.com/1/1155/1155067.htm",
+      "title_ja": "米国家情報長官がホワイトハウスAI担当に",
+      "summary_ja": "トランプ大統領はクレイトン国家情報長官をホワイトハウスのAI担当に任命した。「超知能作業部会」を率い、120日以内にAIのリスクと機会に関する報告をまとめる。",
+      "source": "新華網",
+      "url": "https://news.qq.com/rain/a/20261004A062QP00",
+      "score": 84,
+      "commercial_score": 15,
+      "product_keywords": [
+        "AI政策"
+      ]
+    },
+    {
+      "title_ja": "米財務長官、米中AI安全通報メカニズムを提案へ",
+      "summary_ja": "ベッセント米財務長官は、AIの安全問題に備えて米中間の通報メカニズムを提案する考えを示した。エージェントの暴走や非国家主体によるAI悪用のリスクを何立峰副首相と協議したという。",
+      "source": "RTHK",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1872607-20261004.htm",
       "score": 80,
-      "commercial_score": 60,
+      "commercial_score": 10,
       "product_keywords": [
-        "華為 Mate 90",
-        "小芸",
-        "鴻蒙7"
+        "AI安全"
       ]
     },
     {
-      "title_ja": "華為Mate 90が端末側30B大規模モデルを搭載",
-      "summary_ja": "麒麟9050 Proを積むMate 90は端末上で30B規模のMoEモデルを動かせる。AIオフライン画像編集などに対応する。",
-      "source": "網易",
-      "url": "https://www.163.com/dy/article/L85LAO3705198CJN.html",
-      "score": 75,
-      "commercial_score": 55,
+      "title_ja": "Anthropic、1億ドルで前線技術者1万人育成",
+      "summary_ja": "AnthropicはClaude Frontier Academyに1億ドルを投じ、2027年末までに約1万人の技術者を育成すると発表した。中国メディアも人材争奪の動きとして報じている。",
+      "source": "央広網",
+      "url": "https://news.qq.com/rain/a/20261004A02O4600",
+      "score": 70,
+      "commercial_score": 25,
       "product_keywords": [
-        "麒麟9050 Pro",
-        "Mate 90",
-        "端末側AI"
+        "Claude"
       ]
     },
     {
-      "title_ja": "国慶前後に国内外10超の大規模モデルが登場へ",
-      "summary_ja": "中秋と国慶の連休前後にDeepSeek V4.1 Pro、Qwen4、GLM系など10以上のモデル投入が見込まれると報じられた。",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnhax2520156.shtml",
-      "score": 65,
+      "title_ja": "香港の生成AI「香港仔」、広東語と生活に精通",
+      "summary_ja": "香港科技大学が中心の香港生成AI研究開発センター（HKGAI）が開発する大規模モデル「香港仔」が紹介された。広東語や香港の生活場面に特化した点が強みだ。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpf3870266.shtml",
+      "score": 60,
       "commercial_score": 30,
       "product_keywords": [
-        "DeepSeek V4.1",
-        "Qwen4",
-        "GLM"
-      ]
-    },
-    {
-      "title_ja": "千問と智譜が相次ぎオープンソース化 価格競争",
-      "summary_ja": "千問と智譜がモデルを連夜でオープンソース化し、DeepSeekより安い価格を打ち出した。国産モデルの値下げ競争が激しくなっている。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260827A07KNN00",
-      "score": 55,
-      "commercial_score": 35,
-      "product_keywords": [
-        "通義千問",
-        "GLM",
-        "DeepSeek"
+        "HKGAI"
       ]
     }
   ]

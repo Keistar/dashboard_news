@@ -4,43 +4,63 @@
   "country": "jp",
   "country_label_ja": "日本",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "沖縄県が台風26号関連資料を公表",
-      "summary_ja": "沖縄県が9月25日付で台風関連の資料を公開した。南西諸島では大雨や強風への警戒が続いた。",
-      "source": "沖縄県",
-      "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/040/085/20260925shiryo2.pdf",
-      "score": 65,
-      "commercial_score": 40,
+      "title_ja": "台風27号、5日夕方から小笠原に接近のおそれ",
+      "summary_ja": "大型で非常に強い台風27号は北東へ進み、5日夕方から6日にかけて小笠原諸島に近づく見込みだ。中心気圧は925ヘクトパスカルまで下がり、最大瞬間風速70メートルの猛烈な風に警戒が必要。",
+      "source": "NBC長崎放送",
+      "url": "https://news.yahoo.co.jp/articles/479075f53912e2b62ee4a15e69dd564d7bb9c9fc",
+      "score": 92,
+      "commercial_score": 60,
       "product_keywords": [
-        "非常用持ち出し袋",
+        "防災グッズ",
         "モバイルバッテリー"
       ]
     },
     {
-      "title_ja": "新しい防災気象情報、レベルと色で危険を提示",
-      "summary_ja": "危険度をレベルと色で示す新しい防災気象情報の仕組みを解説する記事。避難判断に役立つ。",
-      "source": "熊本日日新聞",
-      "url": "https://kumanichi.com/articles/2008779",
-      "score": 55,
-      "commercial_score": 35,
+      "title_ja": "ハリケーンNOLOが「越境台風」になる可能性",
+      "summary_ja": "ハワイ近海から西に進むハリケーンNOLOが、5日朝に日付変更線を越えて台風になる可能性が高い。越境台風は3年ぶりで、越境時の勢力は過去最強クラスになりそうだ。",
+      "source": "ウェザーニュース",
+      "url": "https://www.msn.com/ja-jp/weather/extreme-weather-events/%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3nolo%E3%81%8C-%E8%B6%8A%E5%A2%83%E5%8F%B0%E9%A2%A8-%E3%81%AB%E3%81%AA%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7-%E8%B6%8A%E5%A2%83%E6%99%82%E3%81%AE%E5%8B%A2%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80%E5%BC%B7%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%8B/ar-AA2dvQ5S",
+      "score": 84,
+      "commercial_score": 40,
       "product_keywords": [
-        "ハザードマップ",
-        "防災ラジオ"
+        "防災グッズ"
       ]
     },
     {
-      "title_ja": "台風防災チェックリスト",
-      "summary_ja": "台風シーズンに向けた備蓄や避難準備のチェックリストを紹介している。",
-      "source": "vegcale",
-      "url": "https://vegcale.com/2026/06/27/typhoon-bousai-checklist/",
-      "score": 45,
-      "commercial_score": 70,
+      "title_ja": "週刊地震情報、茨城県南部で震度4",
+      "summary_ja": "9月28日〜10月4日に国内で震度3以上の地震が5回あった。茨城県南部の地震で震度4を観測し、関東周辺と熊本の地震が目立った。",
+      "source": "ウェザーニュース",
+      "url": "https://www.msn.com/ja-jp/science/earth-science/%E9%80%B1%E5%88%8A%E5%9C%B0%E9%9C%87%E6%83%85%E5%A0%B1-2026-10-04-%E9%96%A2%E6%9D%B1%E3%81%AE%E9%99%B8%E5%9F%9F%E3%82%92%E9%9C%87%E6%BA%90%E3%81%A8%E3%81%99%E3%82%8B%E5%9C%B0%E9%9C%87%E3%81%A7%E9%9C%87%E5%BA%A64%E3%81%A8%E9%9C%87%E5%BA%A63%E3%81%AE%E6%8F%BA%E3%82%8C/ar-AA2dvxDf",
+      "score": 70,
+      "commercial_score": 45,
       "product_keywords": [
-        "保存食",
-        "防災セット",
-        "懐中電灯"
+        "家具転倒防止",
+        "非常食"
+      ]
+    },
+    {
+      "title_ja": "安平町で防災フェスタ、胆振東部地震の教訓継承",
+      "summary_ja": "2018年の胆振東部地震で震度6強を観測した北海道安平町で、避難や防災を体験できる「あびら防災フェスタ」が開かれた。",
+      "source": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2987937",
+      "score": 60,
+      "commercial_score": 40,
+      "product_keywords": [
+        "防災セット"
+      ]
+    },
+    {
+      "title_ja": "豊川市の桜町連区防災推進協に大臣表彰",
+      "summary_ja": "学校や商店を巻き込んだ地域ぐるみの防災活動が評価され、豊川市の桜町連区防災推進協議会が防災担当大臣表彰を受けた。",
+      "source": "東愛知新聞",
+      "url": "https://higashiaichi.jp/news/detail.php?id=28001",
+      "score": 50,
+      "commercial_score": 20,
+      "product_keywords": [
+        "防災訓練"
       ]
     }
   ]

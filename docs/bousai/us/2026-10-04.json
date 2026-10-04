@@ -4,42 +4,52 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "FEMAとNOAAがハリケーン対応計画を説明",
-      "summary_ja": "FEMAとNOAAが今季のハリケーンへの備えと対応計画を示した。発電機や水の備蓄も説明された。",
-      "source": "HSToday",
-      "url": "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/fema-noaa-outline-hurricane-season-readiness-and-response-plans/",
-      "score": 55,
+      "title_ja": "サンディエゴ市、エルニーニョに備え緊急事態宣言",
+      "summary_ja": "サンディエゴのグロリア市長は、2026〜27年のエルニーニョに伴う荒天に備えて地域の緊急事態を宣言した。対策を前倒しで進めやすくする狙いだ。",
+      "source": "Inside San Diego",
+      "url": "https://www.insidesandiego.org/mayor-gloria-proclaims-local-emergency-city-san-diego-el-nino-season",
+      "score": 84,
       "commercial_score": 50,
       "product_keywords": [
-        "発電機",
-        "非常食",
-        "飲料水"
+        "土のう",
+        "防水シート"
       ]
     },
     {
-      "title_ja": "今季ハリケーンはやや少なめ予測も破壊的リスクは高い",
-      "summary_ja": "NOAAは今季の命名嵐を8から14個と予測し、沿岸住民に早めの備えを呼びかけた。",
-      "source": "NPR／KPCW",
-      "url": "https://www.kpcw.org/npr-news/2026-05-21/forecasters-expect-slightly-fewer-hurricanes-than-usual-this-year-but-the-risk-of-destructive-storms-is-still-high",
-      "score": 50,
+      "title_ja": "10月15日に地震訓練「グレート・シェイクアウト」",
+      "summary_ja": "サンタバーバラ郡は10月15日の地震訓練グレート・シェイクアウトへの参加を住民に呼びかけている。家庭の備えを見直す機会にしてほしいという。",
+      "source": "Santa Maria Times",
+      "url": "https://santamariatimes.com/news/local/great-shake-out-earthquake-preparedness-event-coming-oct-15/article_9d699efa-8807-4130-9288-f993e63478e3.html",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "防災セット",
+        "非常食"
+      ]
+    },
+    {
+      "title_ja": "コロラド州ウェストミンスター、ペット避難を訓練",
+      "summary_ja": "ウェストミンスター市がペットの避難を想定した緊急訓練を行った。2021年の大規模火災の教訓を生かす。",
+      "source": "Yahoo",
+      "url": "https://www.msn.com/en-us/lifestyle/other/westminster-leaders-prepare-for-pet-evacuations-with-emergency-simulation/ar-AA2dvLYB",
+      "score": 60,
       "commercial_score": 45,
       "product_keywords": [
-        "防災キット",
-        "ソーラー充電器"
+        "ペット 避難グッズ"
       ]
     },
     {
-      "title_ja": "ハリケーン期にFEMAはどう対応するか",
-      "summary_ja": "FEMAの体制を巡る論点を整理したブログ。災害対応能力への懸念が指摘されている。",
-      "source": "UCS",
-      "url": "https://blog.ucs.org/shana-udvardy/its-hurricane-season-how-will-fema-show-up/",
-      "score": 40,
-      "commercial_score": 30,
+      "title_ja": "LA大火の対応、連絡不足が混乱招いたと報告書",
+      "summary_ja": "2025年のロサンゼルス周辺の大火災について、準備不足や連絡体制の不備が緊急対応を妨げたとする報告書が出た。",
+      "source": "NBC News",
+      "url": "https://www.msn.com/en-us/news/other/poor-communication-marred-emergency-response-to-deadly-la-area-fires-report-finds/ar-AA2dqQqp",
+      "score": 56,
+      "commercial_score": 20,
       "product_keywords": [
-        "非常用品"
+        "緊急警報"
       ]
     }
   ]

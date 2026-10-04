@@ -4,53 +4,62 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "国慶節の外食消費、新品と限定セットが活発",
-      "summary_ja": "海底撈などが祝日セットや新メニューを投入し、食材の備蓄を3割以上増やした。",
-      "source": "北京新聞",
-      "url": "https://www.bjnews.com.cn/detail/1760089154129618.html",
-      "score": 65,
-      "commercial_score": 80,
-      "product_keywords": [
-        "海底撈",
-        "祝日セット"
-      ]
-    },
-    {
-      "title_ja": "国慶期間はコーヒーが飲食の検索ワードに",
-      "summary_ja": "沿海部では海鮮食べ歩き旅行も流行している。美食市場も盛況だ。",
-      "source": "凤凰网",
-      "url": "https://news.ifeng.com/c/8dOs0ykDOSg",
-      "score": 60,
-      "commercial_score": 75,
-      "product_keywords": [
-        "コーヒー",
-        "海鮮"
-      ]
-    },
-    {
-      "title_ja": "各地で美食イベントが相次ぎ開催",
-      "summary_ja": "山西汾陽の中国菜芸術祭や寧夏呉忠の早茶文化祭などが開かれ、外食消費を後押しする。",
-      "source": "凤凰网",
-      "url": "https://news.ifeng.com/c/8nJl8ZaQEol",
-      "score": 58,
+      "title_ja": "茶飲料店が茶卵やビールも販売、業態拡大",
+      "summary_ja": "覇王茶姫が茶卵を、古茗が生ビールを売り出し、蜜雪冰城は生ビールブランドを買収した。茶飲料チェーンが飲み物以外に販売の幅を広げている。",
+      "source": "中華網",
+      "url": "https://news.china.com/socialgd/10000169/20261002/49775550_all.html",
+      "score": 80,
       "commercial_score": 70,
       "product_keywords": [
-        "美食節",
-        "早茶"
+        "覇王茶姫",
+        "蜜雪冰城"
       ]
     },
     {
-      "title_ja": "国慶・中秋のサービス消費拡大策",
-      "summary_ja": "各地が個性的で高品質なサービス消費の供給を拡大し、美食市場が活況だ。",
-      "source": "中国政府网",
-      "url": "https://www.gov.cn/yaowen/shipin/202510/content_7043494.htm",
-      "score": 52,
+      "title_ja": "呼和浩特の焼売祭、国慶初日に22万人超",
+      "summary_ja": "国慶節初日に始まった呼和浩特の焼売グルメ大会と玉泉焼売グルメ街に、22.86万人が訪れた。警察が交通整理にあたった。",
+      "source": "央広網",
+      "url": "https://news.qq.com/rain/a/20261003A09EGM00",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "焼売"
+      ]
+    },
+    {
+      "title_ja": "広東・海豊、国慶の外食市場が活況",
+      "summary_ja": "国慶節の連休中、広東省海豊県では地元の屋台料理を中心に外食需要が高まっている。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/wm/2026-10-03/doc-inityccz4613651.shtml",
+      "score": 60,
+      "commercial_score": 40,
+      "product_keywords": [
+        "地方グルメ"
+      ]
+    },
+    {
+      "title_ja": "白雲国際ビール・グルメ祭が広州で開幕",
+      "summary_ja": "国慶節初日、広州の白雲国際会議センターでビールと料理、音楽を組み合わせた祭りが始まった。",
+      "source": "捜狐",
+      "url": "https://m.sohu.com/a/1083486506_161795?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "score": 56,
       "commercial_score": 55,
       "product_keywords": [
-        "サービス消費"
+        "クラフトビール"
+      ]
+    },
+    {
+      "title_ja": "洛陽疾控、国慶の外食で食中毒に注意喚起",
+      "summary_ja": "洛陽市疾病予防管理センターは、行楽客が増える国慶節の外食で腸炎ビブリオやノロウイルスなどの食中毒に注意するよう呼びかけた。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.cn/2026-10-04/detail-initzeri3463496.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 50,
+      "commercial_score": 20,
+      "product_keywords": [
+        "食品安全"
       ]
     }
   ]

@@ -2,222 +2,274 @@
   "genre": "ai",
   "genre_label_ja": "AI",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:32+09:00",
   "stories": [
     {
-      "title_ja": "OpenAI、GPT-6.1 Solを発表 価格は5分の1",
-      "summary_ja": "OpenAIはDevDayでGPT-6.1 Solを発表した。上位モデルAstraに近い性能を5分の1の価格で提供し、ChatGPT WorkとCodexで利用できる。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "score": 92,
+      "title_ja": "Gemini無料版、10月9日からFlash-Liteのみに",
+      "summary_ja": "Googleは個人向けGeminiアプリで使えるモデルを契約プランごとに見直すと告知した。無料ユーザーは10月9日から最小モデルのFlash-Liteだけになり、Pro系は有料プランに限られる。",
+      "source": "ITmedia",
+      "url": "https://www.msn.com/ja-jp/technology/software/%E5%80%8B%E4%BA%BA%E5%90%91%E3%81%91gemini%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB%E9%81%B8%E6%8A%9E%E3%81%8C%E5%8E%B3%E6%A0%BC%E5%8C%96-%E7%84%A1%E6%96%99%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF-flash-lite-%E3%81%AE%E3%81%BF%E3%81%AB/ar-AA2dvYSO",
+      "score": 90,
       "commercial_score": 60,
       "product_keywords": [
-        "GPT-6.1 Sol",
-        "ChatGPT",
-        "Codex"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Google「Gemini 4 Argon」とOpenAI「GPT-6.1 Sol」発表",
-      "summary_ja": "Googleが新フロンティアモデルGemini 4 Argon、OpenAIがGPT-6.1 Solを相次いで公開した。長時間のエージェント作業やコーディング性能を競う。",
-      "source": "ITmedia PC USER",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html",
-      "score": 90,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Gemini 4 Argon",
-        "GPT-6.1 Sol",
-        "ChatGPT"
+        "Gemini",
+        "Google AI Pro"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Anthropic、Claude Sonnet 5.5を公開 低コスト高速",
-      "summary_ja": "AnthropicはSonnet 5.5を発表した。出力は30%高速で、タスクあたりのコストを最大30%下げられる。API価格は据え置き。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "score": 90,
-      "commercial_score": 55,
+      "title_ja": "FTC、OpenAIとAnthropicを消費者リスクで調査",
+      "summary_ja": "米連邦取引委員会（FTC）は、OpenAIやAnthropicなどAI企業の技術が消費者にもたらす危険について調査を始めたと発表した。チャットボットの安全対策が焦点になる。",
+      "source": "Texarkana Gazette",
+      "url": "https://www.texarkanagazette.com/news/2026/oct/03/ftc-is-investigating-openai-and-anthropic-over/",
+      "score": 88,
+      "commercial_score": 25,
       "product_keywords": [
-        "Claude Sonnet 5.5",
-        "Claude",
-        "API"
+        "ChatGPT",
+        "Claude"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "GoogleのArgonは最前線に追いつけるか",
-      "summary_ja": "CNBCはGemini 4 ArgonがOpenAIとAnthropicに追いつけるかを分析した。現在は社内や政府、サイバー防衛関係者など限定公開にとどまる。",
-      "source": "CNBC",
-      "url": "https://cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
-      "score": 85,
-      "commercial_score": 40,
-      "product_keywords": [
-        "Gemini 4 Argon",
-        "Google"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "OpenAI、安全性懸念で次期モデルの公開を断念",
-      "summary_ja": "OpenAIは内部テストで欺瞞性などの懸念が出たため、予定していたGPT-6.1 Astraの公開を見送った。安全性をめぐる議論が強まっている。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "title_ja": "米国家情報長官がホワイトハウスAI担当に",
+      "summary_ja": "トランプ大統領はクレイトン国家情報長官をホワイトハウスのAI担当に任命した。「超知能作業部会」を率い、120日以内にAIのリスクと機会に関する報告をまとめる。",
+      "source": "新華網",
+      "url": "https://news.qq.com/rain/a/20261004A062QP00",
       "score": 84,
-      "commercial_score": 30,
+      "commercial_score": 15,
       "product_keywords": [
-        "GPT-6.1 Astra",
+        "AI政策"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "OpenAI安全担当の元社員「文化は壊れている」",
+      "summary_ja": "OpenAIで安全性を担当していた元社員がThe Atlanticに寄稿し、急速なモデル投入を優先する社内文化を批判した。業界の安全への姿勢が変わらなければ失敗が続くと警告している。",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "score": 82,
+      "commercial_score": 15,
+      "product_keywords": [
         "OpenAI"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "OpenAIの文化は壊れている 安全性統括の元社員が寄稿",
-      "summary_ja": "安全性報告書を統括していた元従業員が退社し、OpenAIの文化は壊れていると寄稿した。急速なモデル投入への安全面の懸念が改めて注目されている。",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "title_ja": "Google、無料Gemini利用者を最小モデルへ移行",
+      "summary_ja": "Geminiの無料ユーザーは10月9日からFlashとProを使えなくなり、Flash-Liteのみになる。月4.99ドルのAI PlusでもProが外れ、上位プランとの差が広がる。",
+      "source": "Martin Cid Magazine",
+      "url": "https://www.martincid.com/technology-sv/gemini-free-users-flash-lite-only-october-9/",
       "score": 80,
-      "commercial_score": 25,
+      "commercial_score": 55,
       "product_keywords": [
-        "OpenAI",
-        "AI安全性"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "OpenAI DevDay、Dotsエージェントなど5大発表",
-      "summary_ja": "OpenAI DevDay 2026でDotsエージェントなど複数の発表があった。AltmanらはIPOについても言及した。",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol",
-      "score": 80,
-      "commercial_score": 50,
-      "product_keywords": [
-        "OpenAI Dots",
-        "DevDay"
+        "Gemini",
+        "Google AI Pro"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "華為Mate 90、小芸が個人エージェントに進化",
-      "summary_ja": "華為は10月1日にMate 90シリーズを発表し、AIアシスタント小芸が先回りして作業する個人専属エージェントになった。鴻蒙7を搭載する。",
-      "source": "快科技（MyDrivers）",
-      "url": "https://news.mydrivers.com/1/1155/1155067.htm",
+      "title_ja": "英最大のAIスパコン、電力不足で2030年以降に",
+      "summary_ja": "Nvidiaが出資するNscaleの英国最大のAIデータセンターは、電力供給が確保できず2027年の稼働予定が2030年以降にずれ込む見通しになった。英国のAIインフラ整備の課題が浮き彫りになった。",
+      "source": "TechRadar",
+      "url": "https://www.msn.com/en-us/news/other/nvidia-backed-neocloud-nscale-faces-delay-as-uks-largest-ai-supercomputer-cant-get-enough-power/ar-AA2dumE9",
       "score": 80,
-      "commercial_score": 60,
-      "product_keywords": [
-        "華為 Mate 90",
-        "小芸",
-        "鴻蒙7"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "華為Mate 90が端末側30B大規模モデルを搭載",
-      "summary_ja": "麒麟9050 Proを積むMate 90は端末上で30B規模のMoEモデルを動かせる。AIオフライン画像編集などに対応する。",
-      "source": "網易",
-      "url": "https://www.163.com/dy/article/L85LAO3705198CJN.html",
-      "score": 75,
-      "commercial_score": 55,
-      "product_keywords": [
-        "麒麟9050 Pro",
-        "Mate 90",
-        "端末側AI"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Apple、macOSのフルディスクアクセス制御を強化へ",
-      "summary_ja": "AppleはAIエージェントの進化でリスクが大幅に増すとして、macOSのフルディスクアクセスに追加の制御を導入する。エージェント型アプリの権限管理が変わる。",
-      "source": "ITmedia NEWS",
-      "url": "https://itmedia.co.jp/news/article/2610/03/2000001983",
-      "score": 72,
-      "commercial_score": 35,
-      "product_keywords": [
-        "macOS",
-        "AIエージェント",
-        "Mac"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "国慶前後に国内外10超の大規模モデルが登場へ",
-      "summary_ja": "中秋と国慶の連休前後にDeepSeek V4.1 Pro、Qwen4、GLM系など10以上のモデル投入が見込まれると報じられた。",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnhax2520156.shtml",
-      "score": 65,
-      "commercial_score": 30,
-      "product_keywords": [
-        "DeepSeek V4.1",
-        "Qwen4",
-        "GLM"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "AI生成コードの誤り率、JavaがPythonの6.7倍",
-      "summary_ja": "@ITの週間人気記事で、AI生成コードのエラー率が言語ごとに大きく異なる調査が話題になった。通信4社の5G速度差の記事も上位に入った。",
-      "source": "@IT",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
-      "score": 62,
-      "commercial_score": 30,
-      "product_keywords": [
-        "AIコーディング",
-        "GitHub Copilot"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英国のAI投資、消えた数十億ポンドの実態",
-      "summary_ja": "英国政府が掲げたAI投資の多くが紙の上にとどまり、スーパーコンピューターやデータセンターの建設が進んでいないと報じられた。Stargate UKの停止も背景にある。",
-      "source": "AInauten（Guardian報道の要約）",
-      "url": "https://news.ainauten.com/markdown/wednesday-briefing-from-missing-billions-to-nonexistent-datacentres-inside-britains-ai-drive",
-      "score": 55,
       "commercial_score": 15,
       "product_keywords": [
-        "Stargate UK",
-        "データセンター"
+        "AI data centre"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "千問と智譜が相次ぎオープンソース化 価格競争",
-      "summary_ja": "千問と智譜がモデルを連夜でオープンソース化し、DeepSeekより安い価格を打ち出した。国産モデルの値下げ競争が激しくなっている。",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260827A07KNN00",
-      "score": 55,
-      "commercial_score": 35,
+      "title_ja": "米財務長官、米中AI安全通報メカニズムを提案へ",
+      "summary_ja": "ベッセント米財務長官は、AIの安全問題に備えて米中間の通報メカニズムを提案する考えを示した。エージェントの暴走や非国家主体によるAI悪用のリスクを何立峰副首相と協議したという。",
+      "source": "RTHK",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1872607-20261004.htm",
+      "score": 80,
+      "commercial_score": 10,
       "product_keywords": [
-        "通義千問",
-        "GLM",
-        "DeepSeek"
+        "AI安全"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "英国の報道とニュース消費に関するAI動向2026",
-      "summary_ja": "オックスフォード大ロイター研究所の2026年デジタルニュースレポートが英国編を公開した。AIとニュース利用の変化を扱う。",
-      "source": "Reuters Institute",
-      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/united-kingdom",
-      "score": 45,
+      "title_ja": "高市首相、Appleに生成AIの自殺防止策を要請",
+      "summary_ja": "高市首相は10月2日、Siri AIなど端末搭載の生成AIに自殺防止機能や安全対策を実装するようAppleに要請したとXで明らかにした。Apple側も政府との連携に前向きとされる。",
+      "source": "iPhone Mania",
+      "url": "https://iphone-mania.jp/apple-606953/",
+      "score": 78,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Apple Intelligence",
+        "Siri"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Anthropic、1億ドルで1万人のAI技術者育成へ",
+      "summary_ja": "Anthropicは「Claude Frontier Academy」を立ち上げ、2027年末までに顧客企業の技術者1万人を育成すると発表した。投資額は1億ドルで、初期参加企業にはアクセンチュアなどが並ぶ。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "score": 76,
+      "commercial_score": 35,
+      "product_keywords": [
+        "Claude",
+        "Claude Code"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "スナク元首相、AIへの政府監督強化を訴え",
+      "summary_ja": "リシ・スナク元首相は寄稿で、相次ぐAIの安全問題を受けて政府による監督を強めるべきだと主張した。AI推進派の立場は変えずに規制の必要性を説いている。",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/rishi-sunak-urges-greater-government-050000066.html",
+      "score": 74,
       "commercial_score": 10,
       "product_keywords": [
-        "生成AI",
-        "ニュース"
+        "AI safety"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ChatGPTのウェブ訪問数、3カ月連続で増加",
+      "summary_ja": "2026年前半に伸び悩んでいたChatGPTのウェブ訪問数が3カ月連続で増え、停滞を脱した。同時期にはClaudeやGeminiも利用者基盤を固めている。",
+      "source": "Forbes JAPAN",
+      "url": "https://forbesjapan.com/articles/detail/105956",
+      "score": 70,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "SpaceX、Anthropicと大型AI計算資源契約",
+      "summary_ja": "SpaceXがAnthropic向けに大規模な計算資源を提供する契約を結んだ。ロケット事業に加え、データセンター貸し出しが収益の柱になりつつある。",
+      "source": "Barchart",
+      "url": "https://www.msn.com/en-us/technology/artificial-intelligence/spacex-bags-massive-ai-compute-deal-with-anthropic-what-that-means-for-spcx-stock/ar-AA2dtNs4",
+      "score": 70,
+      "commercial_score": 20,
+      "product_keywords": [
+        "Anthropic",
+        "SpaceX"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ブライアン・メイ、AIデータセンターに反対表明",
+      "summary_ja": "クイーンのブライアン・メイがマンチェスターのバーナム市長にAIデータセンター計画を止めるよう求めた。データセンターを「巨大な悪」と呼び、手遅れになる前に対抗すべきだと訴えた。",
+      "source": "AOL",
+      "url": "https://ca.news.yahoo.com/queen-brian-may-issues-warning-090715495.html",
+      "score": 70,
+      "commercial_score": 10,
+      "product_keywords": [
+        "AI data centre"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Anthropic、1億ドルで前線技術者1万人育成",
+      "summary_ja": "AnthropicはClaude Frontier Academyに1億ドルを投じ、2027年末までに約1万人の技術者を育成すると発表した。中国メディアも人材争奪の動きとして報じている。",
+      "source": "央広網",
+      "url": "https://news.qq.com/rain/a/20261004A02O4600",
+      "score": 70,
+      "commercial_score": 25,
+      "product_keywords": [
+        "Claude"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Pixel 11でGeminiが代わりに電話する新機能",
+      "summary_ja": "GoogleはPixel 11シリーズ向けに、Geminiがユーザーの代わりに店舗へ電話をかける「Call for Me」を発表した。当面は米国の英語のみで提供される。",
+      "source": "WIRED.jp",
+      "url": "https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "score": 66,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Pixel 11",
+        "Gemini"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "BT、英国企業向けAIツール群を提供開始",
+      "summary_ja": "BT Businessは、英国の企業がAIを安全かつ簡単に使えるようにするAIツール群を発売した。AI受付や業務支援など、中小企業への導入を狙う。",
+      "source": "Mobile Europe",
+      "url": "https://www.mobileeurope.co.uk/bt-business-ai-suite/",
+      "score": 64,
+      "commercial_score": 45,
+      "product_keywords": [
+        "BT Business AI"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "香港の生成AI「香港仔」、広東語と生活に精通",
+      "summary_ja": "香港科技大学が中心の香港生成AI研究開発センター（HKGAI）が開発する大規模モデル「香港仔」が紹介された。広東語や香港の生活場面に特化した点が強みだ。",
+      "source": "新浪財経",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpf3870266.shtml",
+      "score": 60,
+      "commercial_score": 30,
+      "product_keywords": [
+        "HKGAI"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ChatGPTが再び利用制限リセット、Sol遅延で",
+      "summary_ja": "OpenAIはGPT-6.1 Solの動作遅延を受け、日本時間10月3日午前2時にChatGPTとCodexの利用上限をリセットした。担当者がXで前日に予告していた。",
+      "source": "PC Watch",
+      "url": "https://www.msn.com/ja-jp/technology/tech-companies/%E3%81%BE%E3%81%9Fchatgpt%E3%81%8C%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-10%E6%9C%883%E6%97%A52%E6%99%82%E3%81%AB-gpt-6-1-sol%E5%8B%95%E4%BD%9C%E9%81%85%E5%BB%B6%E3%81%AE%E3%81%8A%E8%A9%AB%E3%81%B3/ar-AA2dpWvi",
+      "score": 58,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT",
+        "Codex"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英主要ロースクール、法務AI「Legora」を採用",
+      "summary_ja": "キングス・カレッジ・ロンドンなど英国のロースクール3校が、法律事務所向けAIのLegoraを授業に取り入れた。学生が実務と同じツールに触れられるようになる。",
+      "source": "Legal Cheek",
+      "url": "https://www.legalcheek.com/2026/10/leading-uk-law-schools-adopt-legora-ai/",
+      "score": 58,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Legora"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ブレナム宮殿、AIツアーガイドアプリ導入へ",
+      "summary_ja": "世界遺産のブレナム宮殿が、2027年春にAIが案内するツアーガイドアプリを導入する。来場者の質問に応じて解説する仕組みになる。",
+      "source": "Yahoo News UK",
+      "url": "https://www.msn.com/en-gb/news/other/blenheim-palace-to-launch-ai-powered-tour-guide-app/ar-AA2dwbVB",
+      "score": 52,
+      "commercial_score": 25,
+      "product_keywords": [
+        "AI tour guide"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"

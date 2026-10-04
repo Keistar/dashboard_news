@@ -4,42 +4,76 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:56+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "stories": [
     {
-      "title_ja": "今月のベストガジェット 2026年10月版",
-      "summary_ja": "TechRadarが10月にテストした注目製品をまとめた。SonosのBeam Ultraやゼンハイザーの完全ワイヤレスなどが高評価だった。",
+      "title_ja": "テレビのチップ価格がパネルを上回る、AI需要で",
+      "summary_ja": "AI向け需要でメモリーなどの部品が高騰し、テレビに使うチップの価格が初めてパネルを上回った。今後のテレビ価格の上昇につながる恐れがある。",
       "source": "TechRadar",
-      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026",
-      "score": 72,
-      "commercial_score": 88,
+      "url": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
+      "score": 82,
+      "commercial_score": 55,
       "product_keywords": [
-        "Sonos Beam Ultra",
-        "Sennheiser Momentum True Wireless 5"
+        "4Kテレビ"
       ]
     },
     {
-      "title_ja": "DJI Osmo 360 IIレビュー 8K対応で完成度向上",
-      "summary_ja": "DJI Osmo 360 IIは1インチセンサーで8K/60fpsの360度撮影に対応し、レンズ交換も可能だ。英国価格は509ポンドで、初代の弱点を改善した。",
-      "source": "Expert Reviews",
-      "url": "https://www.expertreviews.co.uk/technology/action-cameras/dji-osmo-360-ii-review",
-      "score": 68,
-      "commercial_score": 85,
+      "title_ja": "Nvidia Shield Pro、部品高騰で50%値上げ",
+      "summary_ja": "NvidiaはストリーミングプレーヤーShieldの標準モデルを打ち切り、Proモデルを50%値上げした。AI需要によるGPUとメモリーの高騰が理由だ。",
+      "source": "TechRadar",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/nvidia-shield-pro-getting-50-155402647.html",
+      "score": 76,
+      "commercial_score": 60,
       "product_keywords": [
-        "DJI Osmo 360 II",
-        "360度カメラ"
+        "Nvidia Shield TV Pro"
       ]
     },
     {
-      "title_ja": "DJI Osmo 360 II、8K・1インチセンサー搭載",
-      "summary_ja": "DJIのOsmo 360 IIは8K撮影と1インチセンサーを備える。GoPro、Insta360に対抗するアクションカメラとして注目される。",
-      "source": "Trusted Reviews",
-      "url": "https://www.trustedreviews.com/reviews/dji-osmo-360-ii",
-      "score": 62,
+      "title_ja": "iPhone 18 ProとGalaxy S26 Ultraのカメラ比較",
+      "summary_ja": "TechRadarがハワイでiPhone 18 ProとGalaxy S26 Ultraのカメラを比べ、色づくりの方向性が大きく違うと評価した。自然さのiPhoneと鮮やかさのGalaxyという選択になる。",
+      "source": "TechRadar",
+      "url": "https://tech.yahoo.com/phones/articles/iphone-18-pro-vs-samsung-133241125.html",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "iPhone 18 Pro",
+        "Galaxy S26 Ultra"
+      ]
+    },
+    {
+      "title_ja": "HP OmniBook 5 14、699ドルでMacBook Neoに対抗",
+      "summary_ja": "HPは14インチ有機ELタッチ画面を備えたOmniBook 5 14を699.99ドルで発売した。AppleのMacBook Neoを直接意識した価格設定だ。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/hp-omnibook-5-14-arrives-at-699-99-to-challenge-apples-macbook-neo",
+      "score": 66,
+      "commercial_score": 75,
+      "product_keywords": [
+        "HP OmniBook 5",
+        "MacBook Neo"
+      ]
+    },
+    {
+      "title_ja": "Anker Nano 45W、顔を表示する充電器をレビュー",
+      "summary_ja": "TechRadarが表情を表示する小型充電器Anker Nano 45W Smart Display Chargerをレビューした。遊び心がありつつ小型で、おすすめしやすいと評価している。",
+      "source": "TechRadar",
+      "url": "https://www.msn.com/en-gb/technology/hardware-and-devices/anker-nano-45w-smart-display-charger-review-a-quirky-and-compact-charging-companion/ar-AA2duFt7",
+      "score": 60,
       "commercial_score": 80,
       "product_keywords": [
-        "DJI Osmo 360 II",
-        "Insta360 X6"
+        "Anker Nano 充電器",
+        "USB-C充電器"
+      ]
+    },
+    {
+      "title_ja": "Noble Audio FoKus Artemis、最高級の音質と評価",
+      "summary_ja": "TechRadarはNoble Audioのワイヤレスヘッドホン「FoKus Artemis」を、これまで使った中で最高クラスの音だと評価した。3ドライバー構成とEQの幅も備える。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/audio/wireless-headphones/noble-audio-fokus-artemis-review",
+      "score": 54,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Noble Audio FoKus",
+        "ワイヤレスヘッドホン"
       ]
     }
   ]

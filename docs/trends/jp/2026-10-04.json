@@ -3,149 +3,96 @@
   "country": "jp",
   "country_label_ja": "日本",
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T16:08:57+09:00",
+  "generated_at": "2026-10-04T17:39:33+09:00",
   "trends": [
     {
-      "keyword": "Pixel 11",
-      "reason_ja": "Pixel 11シリーズ発表後も比較記事が多く、買い替え検討層の関心が続く。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "Google Pixel 11",
-        "Pixel 11 case"
-      ],
-      "product_keywords_ja": [
-        "Pixel 11",
-        "Pixel 11 ケース"
-      ],
-      "trend_source": "Business Today等",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Pixel 11シリーズ発表、Tensor G6搭載",
-          "summary_ja": "2026年8月12日のMade by Googleで発表されたPixel 11シリーズの仕様をまとめた記事。",
-          "source": "Business Today",
-          "url": "https://businesstoday.in/technology/news/story/apple-iphone-18-vs-google-pixel-11-which-flagship-model-should-you-wait-for-545526-2026-07-27"
-        },
-        {
-          "title_ja": "2026年後半の新型スマホ発売一覧",
-          "summary_ja": "8月から12月に発売予定のスマホ(Galaxy S26 FEなど)をまとめた記事。",
-          "source": "Brut",
-          "url": "https://www.brut.media/in/articles/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
-        }
-      ]
-    },
-    {
-      "keyword": "気象情報",
-      "reason_ja": "Google急上昇で50万+検索、台風や天候への関心が高まっている。",
-      "genre": "bousai",
-      "commercial_score": 55,
-      "product_keywords": [
-        "portable weather radio",
-        "emergency kit"
-      ],
-      "product_keywords_ja": [
-        "防災ラジオ",
-        "防災グッズ セット"
-      ],
-      "trend_source": "Google Trends JP",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "Google急上昇: 気象情報",
-          "summary_ja": "気象情報が50万+検索で急上昇。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
-        }
-      ]
-    },
-    {
-      "keyword": "早期天候情報",
-      "reason_ja": "早期天候情報が5万+検索で急上昇し、気温変化への備えが意識されている。",
-      "genre": "bousai",
-      "commercial_score": 40,
-      "product_keywords": [
-        "heated clothing",
-        "humidifier"
-      ],
-      "product_keywords_ja": [
-        "電熱ベスト",
-        "加湿器"
-      ],
-      "trend_source": "Google Trends JP",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "Google急上昇: 早期天候情報",
-          "summary_ja": "早期天候情報が5万+検索。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
-        }
-      ]
-    },
-    {
-      "keyword": "ドジャース",
-      "reason_ja": "ドジャースの試合が10万+検索で急上昇している。",
+      "keyword": "ゆるキャラグランプリ",
+      "reason_ja": "後継イベント「ゆるバース2026」の決選投票が4日にさいたまで開かれ、Yahoo!リアルタイム検索で話題に。",
       "genre": "other",
-      "commercial_score": 35,
+      "commercial_score": 45,
       "product_keywords": [
-        "Dodgers cap"
+        "ゆるキャラ グッズ",
+        "くまモン"
       ],
       "product_keywords_ja": [
-        "ドジャース キャップ"
+        "ゆるキャラ グッズ",
+        "くまモン グッズ"
       ],
-      "trend_source": "Google Trends JP",
-      "trend_source_type": "search",
+      "trend_source": "Yahoo!リアルタイム検索",
+      "trend_source_type": "sns",
       "articles": [
         {
-          "title_ja": "Google急上昇: ドジャース",
-          "summary_ja": "10万+検索。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "「ゆるバース」決選投票、くまモンらも登場",
+          "summary_ja": "ゆるキャラグランプリの後継イベント「ゆるバース」の決選投票が4日、GMOアリーナさいたまで開かれた。くまモンやチーバくんなど全国のキャラクターが集まった。",
+          "source": "MSN",
+          "url": "https://www.msn.com/ja-jp/news/other/%E3%81%8F%E3%81%BE%E3%83%A2%E3%83%B3-%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8B%E3%83%A2%E3%83%BC%E3%83%B3-%E3%83%81%E3%83%BC%E3%83%90%E3%81%8F%E3%82%93%E3%82%89%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8%E7%81%BD%E5%AE%B3%E3%81%AE%E7%BE%A9%E6%8F%B4%E9%87%91%E5%8D%94%E5%8A%9B%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91/ar-AA2dvqyS"
         }
       ]
     },
     {
-      "keyword": "ジャイアンツ 阪神",
-      "reason_ja": "プロ野球の試合が10万+検索で急上昇している。",
+      "keyword": "凱旋門賞 2026",
+      "reason_ja": "日本からメイショウタバルとアドマイヤテラが出走する凱旋門賞が4日夜に行われ、検索が1万件超に急増。",
       "genre": "other",
       "commercial_score": 30,
       "product_keywords": [
-        "baseball jersey"
+        "競馬",
+        "凱旋門賞"
       ],
       "product_keywords_ja": [
-        "ユニフォーム 応援"
+        "競馬 グッズ"
       ],
       "trend_source": "Google Trends JP",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: ジャイアンツ対阪神",
-          "summary_ja": "10万+検索。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "凱旋門賞2026の見どころ、日本から2頭が参戦",
+          "summary_ja": "10月4日にパリロンシャン競馬場で行われる凱旋門賞に、昨年覇者ダリズやカルパナなど16頭が出走する。日本からはメイショウタバルとアドマイヤテラが挑む。",
+          "source": "Sporting News Japan",
+          "url": "https://www.sportingnews.com/jp/horse-racing/news/2026-horse-racing-qatar-prix-de-larc-de-triomphe-prediction/250ebe712d836cf225310883"
         }
       ]
     },
     {
-      "keyword": "RIZIN",
-      "reason_ja": "RIZINが10万+検索で急上昇、格闘技大会が話題。",
+      "keyword": "毎日王冠",
+      "reason_ja": "4日の毎日王冠で5番人気セイウンハーデスが写真判定の末に優勝し、Yahoo!リアルタイム検索でも関連語が上位に。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "競馬"
+      ],
+      "product_keywords_ja": [
+        "競馬 グッズ"
+      ],
+      "trend_source": "Google Trends JP・Yahoo!リアルタイム検索",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "毎日王冠はセイウンハーデスが写真判定で制す",
+          "summary_ja": "5番人気のセイウンハーデスがゴール前で逃げるホウオウビスケッツをとらえ、重賞3勝目を挙げた。幸英明騎手は26年ぶりの毎日王冠制覇。",
+          "source": "MSN",
+          "url": "https://www.msn.com/ja-jp/news/news/%E6%AF%8E%E6%97%A5%E7%8E%8B%E5%86%A0-%E7%99%BD%E8%A1%80%E7%97%85%E5%AF%9B%E8%A7%A3%E3%81%AE%E8%A5%BF%E5%B1%B1%E8%8C%82%E8%A1%8C%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%86%E3%82%8C%E3%81%97%E3%81%84%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-%E3%81%9D%E3%82%8C%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A7%E7%94%9F%E3%81%8D%E8%BF%94%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-%E5%A4%A9%E7%9A%87%E8%B3%9E-%E7%A7%8B%E3%81%AE%E3%83%91%E3%83%89%E3%83%83%E3%82%AF%E3%82%82%E8%A1%8C%E3%81%8F/ar-AA2dwCim"
+        }
+      ]
+    },
+    {
+      "keyword": "桑木志帆",
+      "reason_ja": "日本女子オープン最終日に首位の桑木志帆が申ジエとプレーオフにもつれ込み、検索が1万件超に。",
       "genre": "other",
       "commercial_score": 20,
       "product_keywords": [
-        "MMA gloves"
+        "ゴルフウェア"
       ],
       "product_keywords_ja": [
-        "格闘技 グローブ"
+        "ゴルフウェア レディース"
       ],
       "trend_source": "Google Trends JP",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "Google急上昇: RIZIN",
-          "summary_ja": "10万+検索で急上昇。",
-          "source": "Google Trends",
-          "url": "https://trends.google.com/trends/trendingsearches/daily?geo=JP"
+          "title_ja": "申ジエが逆転優勝、桑木志帆をプレーオフで破る",
+          "summary_ja": "日本女子オープンで2打差2位から出た申ジエが、首位の桑木志帆とのプレーオフを制して通算30勝目を挙げ、永久シードを獲得した。",
+          "source": "日刊スポーツ",
+          "url": "https://www.nikkansports.com/sports/golf/news/202610040000913.html"
         }
       ]
     }
