@@ -4,35 +4,34 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "広東省の消費者保護条例、10月1日施行で出前の封緘を規定",
-      "summary_ja": "2026年7月31日に可決され10月1日に施行された。出前の食品安全面の封かんなどを定める。",
-      "source": "21经济网",
-      "url": "https://www.21jingji.com/article/20261003/herald/cf9c8d9b4639e248de424b3d8aff4eb3.html",
-      "score": 65
+      "title_ja": "浙江の出前店19.5万店、AIで厨房を監視",
+      "summary_ja": "浙江省では厨房の映像を出前アプリと当局に公開する仕組みに19.5万店が参加し、AIが厨房での違反行為を自動で見つける。",
+      "source": "手机新浪网",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initxwvx3923573.shtml",
+      "score": 70,
+      "commercial_score": 10
     },
     {
-      "title_ja": "50項目の食品安全国家標準を新たに公布",
-      "summary_ja": "国家衛生健康委と市場監督総局が2026年第6号公告で公布。食品安全の全工程管理を細かく定める。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701915.shtml",
-      "score": 65
+      "title_ja": "広東省、封がされていない出前は受け取り拒否可能に",
+      "summary_ja": "広東省では今月から、封をしていない出前の料理を受け取り拒否できるようになった。",
+      "source": "凤凰网",
+      "url": "https://news.ifeng.com/c/8wvNusXSBPP",
+      "score": 66,
+      "commercial_score": 30,
+      "product_keywords": [
+        "フードデリバリー 封印シール"
+      ]
     },
     {
-      "title_ja": "中秋・国慶の連休向け食品安全の消費提示",
-      "summary_ja": "上海市が9月25日付で月餅購入や保存などの注意点を示した。",
-      "source": "上海市政府",
-      "url": "https://www.shanghai.gov.cn/nw17239/20260926/ea6dfc4412d342fb8bb05896a2e1de7e.html",
-      "score": 55
-    },
-    {
-      "title_ja": "国務院が中秋・国慶期間の食品安全を指示",
-      "summary_ja": "国務院食安弁が月餅など節句食品の線上線下の監督強化を求めた。",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260920/49753092.html",
-      "score": 55
+      "title_ja": "山東省警察、国慶節の食品安全を取り締まり",
+      "summary_ja": "山東省の公安は国慶節の期間中、菓子、肉製品、酒・飲料や、観光地の飲食店、出前などを重点に食品安全の違法行為を取り締まっている。",
+      "source": "搜狐网",
+      "url": "https://news.qq.com/rain/a/20261002A08Q7Y00",
+      "score": 58,
+      "commercial_score": 5
     }
   ]
 }

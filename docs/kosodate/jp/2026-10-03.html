@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-03 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #060f08;
+    --line: #123820;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #58c870;
+    --signal: #48d880;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; PARENTING & CHILDCARE &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-03 &middot; 09:33 JST &middot; 6 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">学童保育に「小4以上枠」、待機解消へ</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">82<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">こども家庭庁は、学童保育に小学4年生以上を預かる専用枠を設けるよう自治体に促す。人員や開所日数の要件を緩め、2027年度から4〜6年生の待機が多い自治体に補助金を出す。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nikkei.com/article/DGXZQOUA163CD0W6A910C2000000/" target="_blank" rel="noopener noreferrer">
+                日本経済新聞 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">都教委、教職員7万人の性犯罪歴を確認へ</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">74<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">東京都教育委員会は、日本版DBSの開始を前に独自に教職員約7万人の性犯罪歴の有無を確認する。子どもへの被害を防ぐ狙い。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.msn.com/ja-jp/news/other/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%95%99%E5%A7%94-%E6%95%99%E8%81%B7%E5%93%A1%EF%BC%97%E4%B8%87%E4%BA%BA%E3%81%AE%E6%80%A7%E7%8A%AF%E7%BD%AA%E6%AD%B4%E3%81%AE%E6%9C%89%E7%84%A1%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%B8-%E6%96%B0%E5%88%B6%E5%BA%A6-%E6%97%A5%E6%9C%AC%E7%89%88%EF%BD%84%EF%BD%82%EF%BD%93-%E9%96%8B%E5%A7%8B%E5%89%8D%E3%81%AB%E7%8B%AC%E8%87%AA%E5%AF%BE%E5%BF%9C%E3%81%A7%E8%A2%AB%E5%AE%B3%E9%98%B2%E6%AD%A2/ar-AA2daQCl" target="_blank" rel="noopener noreferrer">
+                Yahoo!ニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">RSウイルス予防の情報サイトが公開</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">64<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">2歳までにほぼ全員が感染するとされるRSウイルス感染症について、MSDが妊娠中の人や親向けに予防の情報をまとめたサイトを公開した。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://topics.smt.docomo.ne.jp/article/woman_mynavi/life/woman_mynavi-46180" target="_blank" rel="noopener noreferrer">
+                マイナビ子育て <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">浜田市長が約3週間の育休を取得へ</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">島根県浜田市の三浦大紀市長は、妻の第二子出産に合わせ11月1日から23日まで育児休暇を取る。経験を今後の子育て支援に生かすという。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.yahoo.co.jp/articles/e3abf124600b7a4243925946a99b21f5e0bd699b" target="_blank" rel="noopener noreferrer">
+                Excite エキサイト <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">伊達市とパルシステム、育児用品を家庭に配達</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">58<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">福島県伊達市と生協パルシステム福島が子育て支援の連携協定を結んだ。子育て家庭に育児用品を届ける。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.minpo.jp/articles/-/242454" target="_blank" rel="noopener noreferrer">
+                福島民報デジタル <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">母子手帳アプリ「母子モ」、小金井市で提供開始</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">52<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">母子手帳アプリ「母子モ」が東京都小金井市で使えるようになった。妊娠・出産・子育ての記録や自治体からのお知らせをスマホで受け取れる。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.sankei.com/pressrelease/prtimes/BLMWY6BL2FMWPAQOPLJVO2WX6Y/" target="_blank" rel="noopener noreferrer">
+                ニコニコニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

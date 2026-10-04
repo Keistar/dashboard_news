@@ -4,45 +4,66 @@
   "country": "jp",
   "country_label_ja": "日本",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "10月2日朝に茨城県南部で最大震度2の地震",
-      "summary_ja": "10月2日6時頃、茨城県南部でM3.9、最大震度2の地震が発生した。津波の心配はない。",
-      "source": "tenki.jp",
-      "url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2026/10/02/2026-10-02-06-01-47.html",
-      "score": 55
-    },
-    {
-      "title_ja": "キャンピングカーで防災を提案、松戸の防災フェアに出展",
-      "summary_ja": "11月7日の松戸市防災フェアで、キャンピングカーやポータブルシャワー、トイレなど災害時に使えるアウトドア用品を展示する。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000062.000175731.html",
-      "score": 62,
-      "commercial_score": 80,
+      "title_ja": "台風25号、千葉・神奈川の死者15人に",
+      "summary_ja": "千葉県長柄町で台風25号による土砂崩れに巻き込まれたとみられる遺体が新たに見つかり、千葉県と神奈川県の死者は15人になった。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597425",
+      "score": 86,
+      "commercial_score": 40,
       "product_keywords": [
-        "ポータブルトイレ",
-        "ポータブルシャワー"
+        "防災グッズ"
       ]
     },
     {
-      "title_ja": "レベルと色で危険を知らせる新しい防災気象情報",
-      "summary_ja": "警戒レベルと色で危険度を示す新しい防災気象情報の仕組みを、ニュースの解説形式で紹介している。",
-      "source": "熊本日日新聞",
-      "url": "https://kumanichi.com/articles/2008779",
-      "score": 58
+      "title_ja": "四街道の航空燃料基地が浸水、送油を一時停止",
+      "summary_ja": "成田国際空港会社は、台風25号の大雨で航空燃料パイプラインの中継基地「四街道石油ターミナル」が浸水し、送油を一時止めていたと明らかにした。8月の豪雨でも浸水しており、対策を検討する。",
+      "source": "au Webポータル",
+      "url": "https://mainichi.jp/articles/20261002/k00/00m/310/333000c",
+      "score": 72,
+      "commercial_score": 5
     },
     {
-      "title_ja": "暗闇で光る防災グッズが新登場",
-      "summary_ja": "ワッツが防災の日に合わせ、暗闇で光る防災グッズなど日常に取り入れやすい新商品を発売した。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000386.000084599.html",
-      "score": 50,
+      "title_ja": "空気で設置する新型止水板、宮崎の企業が開発",
+      "summary_ja": "8月の千葉豪雨では約3800棟が浸水した。宮崎市の企業が、空気を入れて簡単に設置できる新しい止水板を開発し注目されている。",
+      "source": "UMKテレビ宮崎",
+      "url": "https://www.fnn.jp/articles/-/1125645",
+      "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "防災グッズ セット",
-        "蓄光 防災"
+        "止水板",
+        "土のう"
       ]
+    },
+    {
+      "title_ja": "内閣府、自治体の防災計画の弱点を数値化",
+      "summary_ja": "内閣府は大規模災害に備え、自治体と連携して防災計画の弱点を見つけて数値化し、改善するための演習を開いた。",
+      "source": "朝日放送",
+      "url": "https://www.nagoyatv.com/news/syakai.html?id=000536771",
+      "score": 62,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "コーナン、光と音で知らせる防災ライト",
+      "summary_ja": "コーナンのPB「PortTech」から、高輝度LEDと大音量アラーム、赤青の警告灯を備えた防災・防犯ライトが出た。IPX4の防水で単4電池3本で動く。",
+      "source": "Real Sound｜リアルサウンド",
+      "url": "https://news.livedoor.com/article/detail/32474233/",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "防災ライト",
+        "防犯アラーム"
+      ]
+    },
+    {
+      "title_ja": "楽天モバイル、店頭で災害用伝言板を案内",
+      "summary_ja": "楽天モバイルは、大規模災害時に家族と連絡を取る手段として、店頭で対面で災害用伝言板の使い方を伝えている。",
+      "source": "BCN Retail",
+      "url": "https://topics.smt.docomo.ne.jp/article/bcnretail/trend/bcnretail-665135",
+      "score": 54,
+      "commercial_score": 20
     }
   ]
 }

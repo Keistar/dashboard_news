@@ -4,45 +4,66 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "イーライリリーのFoundayoで糖尿病リスク57%低下の予測",
-      "summary_ja": "ATTAIN-1の事後解析で、最高用量群は10年の2型糖尿病リスクがプラセボより57%低いと予測された。実際の発症数の比較ではない。",
-      "source": "inkl",
-      "url": "https://www.inkl.com/news/lillys-foundayo-pill-linked-to-57-lower-predicted-diabetes-risk-in-attain-1-modeling-but-no-cases-were-counted",
+      "title_ja": "GLP-1薬と男性の脱毛に関連の可能性",
+      "summary_ja": "GLP-1受容体作動薬と男性の脱毛の関連を示す研究が出た。ただ専門家は、急な体重減少や遺伝など他の要因もあると注意を促している。",
+      "source": "The Washington Post",
+      "url": "https://www.msn.com/en-us/news/other/new-study-suggests-possible-connection-between-glp-1s-and-hair-loss-in-men/ar-AA2dtkDj",
+      "score": 74,
+      "commercial_score": 40,
+      "product_keywords": [
+        "育毛剤"
+      ]
+    },
+    {
+      "title_ja": "サラダドレッシング回収、FDAが最高危険度に",
+      "summary_ja": "サルモネラ汚染の恐れでSalataが8月に始めたハラペーニョアボカドドレッシングの回収について、FDAは最も危険度の高いクラスIに分類した。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/03/health/fda-recall-salata-salad-dressing-salmonella.html",
       "score": 72,
-      "commercial_score": 30
+      "commercial_score": 5
     },
     {
-      "title_ja": "FDAがワクチン諮問委を開催、南半球インフル株を選定",
-      "summary_ja": "10月1日にVRBPACが2027年南半球シーズンのインフルエンザワクチン株について協議した。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
-      "score": 62
+      "title_ja": "子どもと一緒に成長する心臓弁、FDAが承認",
+      "summary_ja": "先天性心疾患の子ども向けに、成長に合わせて大きさを調整できる人工心臓弁をFDAが初めて承認した。",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/health-news/articles/2026-10-02/a-heart-valve-that-grows-up-with-the-patient-wins-fda-approval",
+      "score": 70,
+      "commercial_score": 5
     },
     {
-      "title_ja": "ACSMが2026年フィットネス動向、1位はウェアラブル",
-      "summary_ja": "高齢者向けプログラム、体重管理運動、モバイルアプリが続く。GLP-1薬の普及も背景にある。",
-      "source": "Newswise",
-      "url": "https://www.newswise.com/articles/the-future-of-fitness-acsm-announces-top-trends-for-2026",
-      "score": 50,
-      "commercial_score": 65,
+      "title_ja": "クレアチン、運動なしでも筋肉の維持に役立つ可能性",
+      "summary_ja": "国際スポーツ栄養学会誌の研究で、毎日のクレアチン摂取が記憶力の向上やサルコペニア予防と関連していることが示された。",
+      "source": "Fox News",
+      "url": "https://www.msn.com/en-us/health/health-news/taking-daily-supplement-may-help-preserve-muscle-as-you-age-even-without-exercise/ar-AA2dqYkK",
+      "score": 68,
+      "commercial_score": 85,
       "product_keywords": [
-        "スマートウォッチ",
-        "活動量計"
+        "クレアチン",
+        "サプリメント"
       ]
     },
     {
-      "title_ja": "速く歩く、多く歩くほど長生き、英国6.4万人調査",
-      "summary_ja": "英国の成人64,743人のデータで、歩く距離または速さが長寿と関連した。",
-      "source": "Harvard Health",
-      "url": "https://health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds",
-      "score": 55,
-      "commercial_score": 50,
+      "title_ja": "睡眠の質、83の病気のリスク低下に関連",
+      "summary_ja": "睡眠の質が良いと83種類の病気のリスクが下がる可能性があるとの研究結果が出た。",
+      "source": "Prevention",
+      "url": "https://www.aol.com/articles/sleep-doesn-t-just-matter-122600000.html",
+      "score": 66,
+      "commercial_score": 60,
       "product_keywords": [
-        "ウォーキングシューズ"
+        "枕",
+        "睡眠 グッズ"
       ]
+    },
+    {
+      "title_ja": "降圧剤クロルタリドン、1万3千本超を回収",
+      "summary_ja": "試験で不適合となった25mgのクロルタリドン錠1万3567本について、FDAが回収を発表した。同じメーカーの今年2回目の回収となる。",
+      "source": "Healthline",
+      "url": "https://www.healthline.com/health-news/blood-pressure-medication-nationwide-recall-fda",
+      "score": 62,
+      "commercial_score": 5
     }
   ]
 }

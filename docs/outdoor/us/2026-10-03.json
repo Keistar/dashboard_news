@@ -4,43 +4,58 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "オリンピック国立公園の道路閉鎖と現況",
-      "summary_ja": "オリンピック国立公園ではモラ・ロードが10月15日まで工事で全面通行止めとなっている。訪問前に現況の確認が必要。",
-      "source": "NPS",
-      "url": "https://www.nps.gov/olym/planyourvisit/conditions.htm",
-      "score": 55
+      "title_ja": "10月のプライムデー、アウトドア用品の先行セール",
+      "summary_ja": "Amazonのプライム感謝祭（Prime Big Deal Days）が10月6日から始まり、コールマン、Anker Solix、Solo Stoveなどの先行セールが始まっている。",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/tech/best-early-amazon-october-prime-day-deals/",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "コールマン",
+        "ポータブル電源"
+      ]
     },
     {
-      "title_ja": "2026年秋に訪れたい米国の国立公園8選",
-      "summary_ja": "秋の旅行向けに米国の国立公園8か所を紹介した記事。混雑が減り撮影にも適した時期とされる。",
-      "source": "Tempo",
-      "url": "https://en.tempo.co/read/2120768/8-best-us-national-parks-to-visit-for-autumn-trip-2026",
-      "score": 50
+      "title_ja": "REIアウトレット、最大60%オフの秋セール",
+      "summary_ja": "REIアウトレットが466品を最大60%引きで売る秋のセールを始めた。ノースフェイスのジャケットは49.99ドルから。",
+      "source": "Cleveland.com",
+      "url": "https://www.msn.com/en-us/news/other/rei-outlet-launches-fall-sale-with-up-to-60-off-outdoor-gear-including-north-face-jackets-as-low-as-49-99/ar-AA2drCMg",
+      "score": 66,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ノースフェイス ジャケット"
+      ]
     },
     {
-      "title_ja": "10月に行くべき国立公園の選び方",
-      "summary_ja": "10月は朝が涼しく登山口も静かで、国立公園の訪問に向くとして、目的別のおすすめを紹介している。",
-      "source": "Hydaway",
-      "url": "https://shop.myhydaway.com/blogs/news/best-national-park-in-october",
+      "title_ja": "トヨタ、グランドハイランダーにアウトドア仕様",
+      "summary_ja": "トヨタは2027年型グランドハイランダー・ハイブリッドに、全地形タイヤや車高アップ、キャンプ向け装備を備えたWoodland Editionを加える。",
+      "source": "Motor1.com",
+      "url": "https://www.msn.com/en-au/news/other/toyota-adds-woodland-edition-to-the-grand-highlander-with-half-inch-lift-all-terrain-tires-and-outdoor-gear/ar-AA2dt24k",
+      "score": 60,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "煙の少ない焚き火台、Solo StoveとBreeoを比較",
+      "summary_ja": "人気の煙の少ない焚き火台、Solo StoveとBreeoのどちらが合うかをPopular Mechanicsが使い方別に比べた。",
+      "source": "Popular Mechanics",
+      "url": "https://www.msn.com/en-us/news/other/solo-stove-vs-breeo-which-smokeless-fire-pit-is-actually-right-for-you/ar-AA2drt00",
+      "score": 58,
+      "commercial_score": 80,
+      "product_keywords": [
+        "焚き火台",
+        "ソロストーブ"
+      ]
+    },
+    {
+      "title_ja": "L.L.Beanがサウスカロライナに出店へ",
+      "summary_ja": "サウスカロライナ州北西部で、L.L.Beanなどの新店の出店が相次いでいる。",
+      "source": "The Greenville News",
+      "url": "https://www.msn.com/en-us/news/other/ll-bean-super-g-mart-lead-wave-of-upstate-business-growth/ar-AA2dpfbW",
       "score": 48,
-      "commercial_score": 60,
-      "product_keywords": [
-        "折りたたみ バックパック"
-      ]
-    },
-    {
-      "title_ja": "2026年の国立公園キャンプ予約のコツ",
-      "summary_ja": "ヨセミテの車両予約停止など2026年の変更点を踏まえ、国立公園キャンプの予約のコツを解説している。",
-      "source": "Black Series",
-      "url": "https://blackseries.net/blogs/news/national-park-camping-2026-reservation-tips-blackseries",
-      "score": 52,
-      "commercial_score": 65,
-      "product_keywords": [
-        "キャンプ テント"
-      ]
+      "commercial_score": 30
     }
   ]
 }

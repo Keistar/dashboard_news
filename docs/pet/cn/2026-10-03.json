@@ -4,40 +4,54 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "2026年の中国ペット業界、規制強化の新政策を解説",
-      "summary_ja": "農業農村部など複数部門が、ペットフード・医療・サービス全体に及ぶ規制政策を相次いで打ち出し、業界は常態的な強い規制の段階に入った。",
-      "source": "知乎",
-      "url": "https://zhuanlan.zhihu.com/p/2044748563809399201",
-      "score": 65
-    },
-    {
-      "title_ja": "中国のペットフード業界研究報告が公開",
-      "summary_ja": "『宠食新局』と題する2026年中国ペットフード業界の研究報告が公開され、市場動向が整理された。",
-      "source": "ZAKER",
-      "url": "https://app.myzaker.com/news/article.php?pk=6a4376be8e9f0970f65265aa",
-      "score": 60,
-      "commercial_score": 70,
+      "title_ja": "国慶節にペット預かりが急増、「ペット経済」拡大",
+      "summary_ja": "河南省鄭州のペットシッターは国慶節の注文が3倍に増えた。ペット関連の消費は年に数千億元規模に育ち、若者の起業先にもなっている。",
+      "source": "chinanews.com.cn",
+      "url": "https://news.qq.com/rain/a/20261003A03W8700?adChannelId=finance",
+      "score": 74,
+      "commercial_score": 50,
       "product_keywords": [
-        "猫粮",
-        "狗粮"
+        "ペットシッター",
+        "自動給餌器"
       ]
     },
     {
-      "title_ja": "中国の動物保護と政治を論じる記事(10月2日)",
-      "summary_ja": "中国における動物保護運動の位置づけを政治的観点から論じた記事。ペットを巡る社会情勢を扱う。",
-      "source": "禁聞網",
-      "url": "https://bannedbook.org/bnews/baitai/20261002/2365686.html",
-      "score": 45
+      "title_ja": "ペットの訪問世話サービス、北京消協が注意喚起",
+      "summary_ja": "北京市消費者協会は、ペットの訪問世話サービスでサービス内容の質の低下、資格の不備、料金の不透明さなどの問題があると注意を呼びかけた。",
+      "source": "揚子晩報（紫牛新聞）",
+      "url": "https://www.yangtse.com/news/txs/202610/t20261003_399377.html",
+      "score": 66,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ペットカメラ"
+      ]
     },
     {
-      "title_ja": "庭付きペット同伴可ホテルの選び方ガイド",
-      "summary_ja": "ペット同伴可で庭のある宿の選び方を、共用庭と専用庭の確認など3つの観点で紹介している。",
-      "source": "微博",
-      "url": "https://weibo.com/2/detail/comos:nitwkuv5363896",
-      "score": 42
+      "title_ja": "晋江市、常設のペット同伴公園を開設",
+      "summary_ja": "福建省晋江市で、ペットと一緒に過ごせる常設の公園が国慶節に合わせて使われ始めた。",
+      "source": "泉州新闻",
+      "url": "https://qz.fjsen.com/2026-10/03/content_32262563.htm",
+      "score": 56,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "塩城で第3回ペット博覧会",
+      "summary_ja": "10月1日から3日間、江蘇省塩城の国際会展中心で第3回ペット博覧会が開かれ、国慶節の家族連れでにぎわった。",
+      "source": "紫牛新闻",
+      "url": "https://news.qq.com/rain/a/20261002A04R1200",
+      "score": 54,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "鞍山で初のペット産業「源頭」博覧会",
+      "summary_ja": "遼寧省鞍山で10月3日、繁殖など産業の上流を扱うペット博覧会が開幕した。出展は500社余り、来場者は3万人を超えた。",
+      "source": "搜狐网",
+      "url": "https://news.qq.com/rain/a/20261003A080J200",
+      "score": 52,
+      "commercial_score": 20
     }
   ]
 }

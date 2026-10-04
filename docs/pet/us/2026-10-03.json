@@ -4,46 +4,61 @@
   "country": "us",
   "country_label_ja": "アメリカ",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "米で犬猫フードの全国リコール、サルモネラ等の懸念",
-      "summary_ja": "Northwest Naturalsの冷凍フードがサルモネラやリステリア陽性となり、約2,000ポンドが全国でリコールされた。",
-      "source": "FOX 8",
-      "url": "https://fox8.com/news/nearly-2000-lbs-of-cat-and-dog-food-recalled-nationwide-over-salmonella-and-listeria-concerns/",
-      "score": 72,
-      "commercial_score": 40,
+      "title_ja": "キャットフードに金属は入っているか",
+      "summary_ja": "新しい研究で、ほぼ全てのキャットフードから重金属が見つかった。Newsweekが飼い主の疑問に答えた。",
+      "source": "Newsweek",
+      "url": "https://www.msn.com/en-us/news/other/does-your-cat-food-contain-metal/ar-AA2drOhg",
+      "score": 76,
+      "commercial_score": 50,
       "product_keywords": [
-        "ペットフード 安全"
+        "キャットフード"
       ]
     },
     {
-      "title_ja": "2026年のペットフード回収、サルモネラで犬が体調不良",
-      "summary_ja": "米国で最近のサルモネラ事案により犬が体調を崩した。リコール情報の確認が飼い主に促されている。",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91591717/pet-food-recall-2026-dogs-get-sick-in-latest-us-salmonella-scare",
-      "score": 68
+      "title_ja": "ペットフードに「値段の不安」が広がる",
+      "summary_ja": "世界の消費者の3分の1が家計が苦しくなったと答え、飼い主もペットフードの値上がりを悩みに挙げている。ブランドの対応をPetfoodIndustryが論じた。",
+      "source": "PetfoodIndustry",
+      "url": "https://www.petfoodindustry.com/blogs-columns/adventures-in-pet-food/blog/15836588/is-affordability-anxiety-hitting-pet-food",
+      "score": 64,
+      "commercial_score": 40
     },
     {
-      "title_ja": "猫用フードのリコール情報一覧(2026年10月)",
-      "summary_ja": "Catsterが猫用フードのリコール・警告情報を最新状態に更新している。凍結乾燥生食製品の回収が目立つ。",
-      "source": "Catster",
-      "url": "https://www.catster.com/cat-food-recalls/",
-      "score": 60
+      "title_ja": "ジョー マローンが犬用シャンプーを発売",
+      "summary_ja": "英国の香水ブランド、ジョー マローン ロンドンがWildWashと組み、初めての犬用シャンプーを出した。",
+      "source": "Gentleman's Journal",
+      "url": "https://www.thegentlemansjournal.com/article/your-dog-can-now-smell-like-jo-malone/",
+      "score": 62,
+      "commercial_score": 80,
+      "product_keywords": [
+        "犬用シャンプー"
+      ]
     },
     {
-      "title_ja": "2026年の犬用フードリコール、FDAとAVMAの一覧",
-      "summary_ja": "FDAなどが公表した2026年の犬用フードリコールを一覧で確認できる。生食製品のサルモネラ検出が多い。",
-      "source": "Vetstreet",
-      "url": "https://www.vetstreet.com/our-pet-experts/dog-food-recalls-2026",
-      "score": 58
+      "title_ja": "Instagramに「ペット火葬炉」の広告",
+      "summary_ja": "Instagramで家庭用の「ペット火葬炉」の広告が表示され、利用者の間で戸惑いの声が上がっているとFuturismが報じた。",
+      "source": "futurism.com",
+      "url": "https://www.msn.com/en-us/lifestyle/other/why-is-instagram-running-ads-for-a-pet-incinerator/ar-AA2du73G",
+      "score": 54,
+      "commercial_score": 10
     },
     {
-      "title_ja": "ペディグリー缶詰の2ロットを自主回収",
-      "summary_ja": "異物混入の恐れがあるペディグリー高たんぱくウェットフードの2ロットが、不正流通の可能性で自主回収された。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
-      "score": 55
+      "title_ja": "管制無線に「ニャー」、パイロットが注意受ける",
+      "summary_ja": "ワシントンのレーガン空港の管制周波数で猫や犬の鳴きまねが聞こえ、2人のパイロットが管制官から注意された。",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/videos/pilots-scolded-after-they-meow-and-bark-on-air-traffic-control-channels",
+      "score": 52,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "ペット用品店Hollywood Feedが専用クレジットカード",
+      "summary_ja": "SunbitがペットショップHollywood Feedの全店で使えるクレジットカードを導入した。初回購入20%オフなどの特典がある。",
+      "source": "Pet Age",
+      "url": "https://www.desmoinesregister.com/press-release/story/133366/hollywood-feed-and-sunbit-launch-national-rollout-of-world-elite-mastercard-in-all-175-hollywood-feed-stores-and-online/",
+      "score": 50,
+      "commercial_score": 30
     }
   ]
 }
