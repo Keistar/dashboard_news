@@ -4,35 +4,53 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "近期の美粧ニュース、7つの新原料が届出完了",
-      "summary_ja": "中国食品薬品網が8月20日〜9月4日の化粧品業界動向をまとめた。海南の免税化粧品電子ラベル試行の延長や新原料の届出が含まれる。",
-      "source": "中国食品药品网",
-      "url": "https://m.cnpharm.com/c/2026-09-23/1107674.shtml",
-      "score": 60
+      "title_ja": "中国コスメの輸出が28%増、海外展開が加速",
+      "summary_ja": "中国コスメの輸出が28%増えた。国内ECで鍛えたSNSでの宣伝、ライブコマース、素早い新商品投入の手法で、日韓が強かったアジア市場に挑んでいる。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1083266991_122094388",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "中国コスメ"
+      ]
     },
     {
-      "title_ja": "薬監局が「化粧品製品標準通則」を公布",
-      "summary_ja": "8月24日の公告で、化粧品業界標準が2027年1月1日から施行される。",
-      "source": "上海市药品监督管理局",
-      "url": "https://yjj.sh.gov.cn/qtgzwj/20260825/bf04afe5dde5454bbb51d2159f863ec0.html",
-      "score": 58
+      "title_ja": "浙江・金華の化粧品輸出、受注は年末まで",
+      "summary_ja": "浙江省金華市の化粧品工場は国慶節も稼働を続け、受注は年末まで埋まっている。月に約700万個を生産する企業もある。",
+      "source": "新浪财经",
+      "url": "https://news.qq.com/rain/a/20261003A06AK400",
+      "score": 66,
+      "commercial_score": 30
     },
     {
-      "title_ja": "化粧品新原料の登録届出規定が7月施行",
-      "summary_ja": "6月26日に公布された規定で、高リスク新原料の範囲が10類から5類に縮小され、動物実験代替法の活用も奨励される。",
-      "source": "国家药监局",
-      "url": "https://www.nmpa.gov.cn/xxgk/fgwj/xzhgfxwj/20260626114523130.html",
-      "score": 55
+      "title_ja": "上美股份、IFSCCと欧州皮膚科学会で研究発表",
+      "summary_ja": "上海の化粧品大手・上美股份が、IFSCCと欧州皮膚科学会の両方で研究成果を発表し、国産ブランドの研究力を示した。",
+      "source": "Jiemian.com",
+      "url": "https://finance.sina.com.cn/roll/2026-10-02/doc-initvyfc7143281.shtml",
+      "score": 60,
+      "commercial_score": 30
     },
     {
-      "title_ja": "化粧品原料の新規定で国産美容の海外進出を後押し",
-      "summary_ja": "新規定が中国国産コスメの海外展開を促すと報じられた。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-26/10647847.shtml",
-      "score": 50
+      "title_ja": "美容動画、24本中3本がヒット商品に",
+      "summary_ja": "中国の美容ブランドは動画の「当たり率」を競う段階に入り、24本の動画から3本のヒット商品が生まれる例も出ている。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-01/doc-inittvfx1837299.shtml",
+      "score": 58,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "溪木源、IFSCCで敏感肌研究を発表",
+      "summary_ja": "9月28日〜10月1日に豪パースで開かれた第36回IFSCCで、中国ブランド溪木源がアジア人の敏感肌に関する研究を発表した。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-10-01/detail-inittvfv5097487.d.html?vt=4",
+      "score": 56,
+      "commercial_score": 40,
+      "product_keywords": [
+        "敏感肌 化粧水"
+      ]
     }
   ]
 }

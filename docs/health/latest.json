@@ -2,174 +2,273 @@
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "インフルエンザ、全都道府県で流行入りの目安を超過",
-      "summary_ja": "9月21〜27日の定点当たり報告数は7.17人。4県で注意報、沖縄は警報が出ている。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
-      "score": 75,
-      "commercial_score": 50,
-      "product_keywords": [
-        "マスク",
-        "インフルエンザ 予防"
-      ],
+      "title_ja": "ノボ、恒瑞の週1回の飲む減量薬に最大26億ドル",
+      "summary_ja": "ノボ ノルディスクが、中国・恒瑞医薬の週1回服用する経口減量薬の権利を、総額最大26億ドルで先に押さえた。",
+      "source": "QQ News",
+      "url": "https://finance.sina.com.cn/roll/2026-10-02/doc-initviii5773611.shtml",
+      "score": 78,
+      "commercial_score": 20,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "マイナ保険証の利用率70.43%に",
+      "summary_ja": "期限切れの健康保険証を窓口で使える暫定措置は7月31日で終わった。厚生労働省によると7月のマイナ保険証の利用率は70.43%で、受診者の約7割が使っている。",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "url": "https://www.msn.com/ja-jp/news/other/%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%BA%E8%A8%BC-8%E6%9C%88%E3%81%8B%E3%82%89%E6%9C%9F%E9%99%90%E5%88%87%E3%82%8C%E3%81%AE%E4%BF%9D%E9%99%BA%E8%A8%BC%E3%81%AF%E7%AA%93%E5%8F%A3%E3%81%A7%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%84-%E3%83%9E%E3%82%A4%E3%83%8A%E4%BF%9D%E9%99%BA%E8%A8%BC%E3%81%AE%E5%88%A9%E7%94%A8%E7%8E%87%E3%81%AF-7043-%E5%8F%97%E8%A8%BA%E3%81%A7%E4%BD%95%E3%81%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F/ar-AA2duglx",
+      "score": 74,
+      "commercial_score": 10,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "イーライリリーのFoundayoで糖尿病リスク57%低下の予測",
-      "summary_ja": "ATTAIN-1の事後解析で、最高用量群は10年の2型糖尿病リスクがプラセボより57%低いと予測された。実際の発症数の比較ではない。",
-      "source": "inkl",
-      "url": "https://www.inkl.com/news/lillys-foundayo-pill-linked-to-57-lower-predicted-diabetes-risk-in-attain-1-modeling-but-no-cases-were-counted",
-      "score": 72,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "国家衛健委、体重は軽いほど良いわけではない",
-      "summary_ja": "9月23日の会見で、急速減量を避け、食事と運動を基本とするよう呼びかけた。三甲病院の95%以上に体重管理外来がある。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-23/10702451.shtml",
-      "score": 70,
+      "title_ja": "GLP-1薬と男性の脱毛に関連の可能性",
+      "summary_ja": "GLP-1受容体作動薬と男性の脱毛の関連を示す研究が出た。ただ専門家は、急な体重減少や遺伝など他の要因もあると注意を促している。",
+      "source": "The Washington Post",
+      "url": "https://www.msn.com/en-us/news/other/new-study-suggests-possible-connection-between-glp-1s-and-hair-loss-in-men/ar-AA2dtkDj",
+      "score": 74,
       "commercial_score": 40,
       "product_keywords": [
-        "体重計",
-        "プロテイン"
+        "育毛剤"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "インフルが夏から急増、過去2番目の早さ",
-      "summary_ja": "厚労省のデータでは8月に流行期入りし、過去2番目の早さとなった。",
-      "source": "nippon.com",
-      "url": "https://nippon.com/ja/japan-data/h02917",
-      "score": 65,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "NHSが月26マイル歩くと特典の挑戦を発表",
-      "summary_ja": "2027年1月開始の月間マラソン挑戦で、約26マイル歩くと割引などの特典を受けられる。",
-      "source": "Deccan Herald",
-      "url": "https://www.deccanherald.com/health/healthcare/nhs-uk-will-reward-people-who-walk-daily-4062998",
-      "score": 65,
-      "commercial_score": 45,
-      "product_keywords": [
-        "ウォーキングシューズ",
-        "歩数計"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "FDAがワクチン諮問委を開催、南半球インフル株を選定",
-      "summary_ja": "10月1日にVRBPACが2027年南半球シーズンのインフルエンザワクチン株について協議した。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
-      "score": 62,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "イングランドの薬局、秋から処方できる症状が拡大",
-      "summary_ja": "Pharmacy Firstに片頭痛、ニキビ、疥癬、中耳炎、鼻炎が加わる。3億4000万ポンドを投じる。",
-      "source": "PSLHub",
-      "url": "https://www.pslhub.org/news/more-pharmacies-in-england-to-prescribe-medication-from-autumn-r9824/",
-      "score": 62,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "title_ja": "サラダドレッシング回収、FDAが最高危険度に",
+      "summary_ja": "サルモネラ汚染の恐れでSalataが8月に始めたハラペーニョアボカドドレッシングの回収について、FDAは最も危険度の高いクラスIに分類した。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/03/health/fda-recall-salata-salad-dressing-salmonella.html",
+      "score": 72,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "上野厚労相が10月2日の閣議後会見",
-      "summary_ja": "診療報酬改定、出産一時金、後発医薬品の使用促進、風しん、難病対策などが議題となった。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76538.html",
-      "score": 60,
+      "title_ja": "子どもと一緒に成長する心臓弁、FDAが承認",
+      "summary_ja": "先天性心疾患の子ども向けに、成長に合わせて大きさを調整できる人工心臓弁をFDAが初めて承認した。",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/health-news/articles/2026-10-02/a-heart-valve-that-grows-up-with-the-patient-wins-fda-approval",
+      "score": 70,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "クレアチン、運動なしでも筋肉の維持に役立つ可能性",
+      "summary_ja": "国際スポーツ栄養学会誌の研究で、毎日のクレアチン摂取が記憶力の向上やサルコペニア予防と関連していることが示された。",
+      "source": "Fox News",
+      "url": "https://www.msn.com/en-us/health/health-news/taking-daily-supplement-may-help-preserve-muscle-as-you-age-even-without-exercise/ar-AA2dqYkK",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "クレアチン",
+        "サプリメント"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "インフルエンザ感染者、前週から減少",
+      "summary_ja": "全国のインフルエンザ感染者数は前週より減った。都道府県別では沖縄が最多で、埼玉、茨城が続いた。",
+      "source": "読売新聞",
+      "url": "https://www.msn.com/ja-jp/health/diseases-and-conditions/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E6%84%9F%E6%9F%93%E8%80%85%E6%95%B0-%E5%89%8D%E9%80%B1%E3%81%8B%E3%82%89%E6%B8%9B%E5%B0%91-%E6%9C%80%E5%A4%9A%E3%81%AF%E6%B2%96%E7%B8%84%E3%81%A7%E5%9F%BC%E7%8E%89-%E8%8C%A8%E5%9F%8E%E3%81%8C%E7%B6%9A%E3%81%8F/ar-AA2dprxK",
+      "score": 66,
+      "commercial_score": 40,
+      "product_keywords": [
+        "マスク",
+        "加湿器"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "連休前に衛健委が外出時の健康注意を呼びかけ",
-      "summary_ja": "気温が下がる時期の連休に向け、外出時の注意点を提示した。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-24/10702713.shtml",
-      "score": 60,
+      "title_ja": "睡眠の質、83の病気のリスク低下に関連",
+      "summary_ja": "睡眠の質が良いと83種類の病気のリスクが下がる可能性があるとの研究結果が出た。",
+      "source": "Prevention",
+      "url": "https://www.aol.com/articles/sleep-doesn-t-just-matter-122600000.html",
+      "score": 66,
+      "commercial_score": 60,
+      "product_keywords": [
+        "枕",
+        "睡眠 グッズ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国で亜硝酸塩不使用ベーコンの売り上げ急増",
+      "summary_ja": "発色剤への不安から、英国で亜硝酸塩を使わないベーコンに乗り換える人が増えている。ただ、こちらの方が安全だという根拠は乏しい。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
+      "score": 66,
+      "commercial_score": 60,
+      "product_keywords": [
+        "無塩せき ベーコン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "博瑞医薬の減量薬、第3相の結果をEASDで発表",
+      "summary_ja": "博瑞医薬のGLP-1/GIP二重作動薬BGM0504について、中国の肥満者を対象にした第3相試験の結果がミラノのEASD2026で発表された。",
+      "source": "搜狐网",
+      "url": "https://news.10jqka.com.cn/field/20261003/680435805.shtml",
+      "score": 66,
+      "commercial_score": 10,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "GP契約2026/27、減量注射の処方を奨励",
-      "summary_ja": "肥満対応の指標が追加され、体重管理プログラムの紹介が評価対象となる。",
-      "source": "Pulse Today",
-      "url": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/weight-loss-drug-prescribing-to-be-added-to-qof-as-part-of-2026-27-gp-contract/",
-      "score": 58,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "早期流行のインフルに警戒を求める社説",
-      "summary_ja": "日経が早い流行入りを受けて警戒を促す社説を掲載した。",
-      "source": "日本経済新聞",
-      "url": "https://nikkei.com/article/DGXZQODK296OA0Z20C26A9000000",
-      "score": 55,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "速く歩く、多く歩くほど長生き、英国6.4万人調査",
-      "summary_ja": "英国の成人64,743人のデータで、歩く距離または速さが長寿と関連した。",
-      "source": "Harvard Health",
-      "url": "https://health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds",
-      "score": 55,
+      "title_ja": "大気汚染の悪化で夜のせきが増える",
+      "summary_ja": "英国主導の研究で、大気汚染が増えると夜間のせきが増え、睡眠を妨げることが分かった。見過ごされやすい日常の症状だという。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/02/increased-air-pollution-link-night-time-coughing-uk-study-cambridge",
+      "score": 64,
       "commercial_score": 50,
       "product_keywords": [
-        "ウォーキングシューズ"
+        "空気清浄機"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中秋・国慶前後の重点感染症対策の通知",
-      "summary_ja": "湖南省が連休前後と秋冬季の感染症防止の通知を出した。",
-      "source": "湖南省政府",
-      "url": "https://www.hunan.gov.cn/zqt/zcsd/202609/t20260928_34073047.html",
-      "score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "南京で無料インフル予防接種、10月全面開始へ",
-      "summary_ja": "65歳以上と義務教育段階の児童生徒が三価ワクチンを無料で接種できる。",
-      "source": "扬子晚报",
-      "url": "https://www.yzwb.net/news/jiangsu/nanjing/202609/t20260926_397088.html",
-      "score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ACSMが2026年フィットネス動向、1位はウェアラブル",
-      "summary_ja": "高齢者向けプログラム、体重管理運動、モバイルアプリが続く。GLP-1薬の普及も背景にある。",
-      "source": "Newswise",
-      "url": "https://www.newswise.com/articles/the-future-of-fitness-acsm-announces-top-trends-for-2026",
-      "score": 50,
-      "commercial_score": 65,
+      "title_ja": "伊藤園、たんぱく質入り「チー坊のむヨーグルト」",
+      "summary_ja": "伊藤園はチチヤスと共同開発した、不足しがちなたんぱく質をとれる「チー坊のむヨーグルト クリーミーたんぱく」を10月5日に発売する。",
+      "source": "伊藤園",
+      "url": "https://japan.cnet.com/release/31212001/",
+      "score": 62,
+      "commercial_score": 80,
       "product_keywords": [
-        "スマートウォッチ",
-        "活動量計"
+        "飲むヨーグルト",
+        "たんぱく質 ドリンク"
       ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "降圧剤クロルタリドン、1万3千本超を回収",
+      "summary_ja": "試験で不適合となった25mgのクロルタリドン錠1万3567本について、FDAが回収を発表した。同じメーカーの今年2回目の回収となる。",
+      "source": "Healthline",
+      "url": "https://www.healthline.com/health-news/blood-pressure-medication-nationwide-recall-fda",
+      "score": 62,
+      "commercial_score": 5,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "NHSイングランドのGP契約変更2026/27",
-      "summary_ja": "2026/27年度のGP契約の変更点を、NHSイングランドが公表している。",
-      "source": "NHS England",
-      "url": "https://www.england.nhs.uk/long-read/changes-to-the-gp-contract-in-2026-27/",
+      "title_ja": "中之島クロス、国の創薬支援に再採択",
+      "summary_ja": "大阪・中之島クロスを運営する未来医療推進機構が、厚労省の創薬クラスター整備事業に再び採択された。「健康人生100年」を掲げ、大阪を世界的なライフサイエンス拠点にする構想を示した。",
+      "source": "47NEWS",
+      "url": "https://weekly-osakanichi2.net/archives/58425",
+      "score": 60,
+      "commercial_score": 10,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "更年期前の不調で仕事と家庭を失った女性",
+      "summary_ja": "更年期の前段階であるペリメノポーズの症状で職と家庭生活を失った女性が、他の女性にも「危険な時期」を知ってほしいとBBCに語った。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0994dgpno?at_medium=RSS&at_campaign=rss",
+      "score": 60,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "重慶市、50万元以上の医療機器を集中購買に",
+      "summary_ja": "重慶市衛生健康委員会は、1台あたり予算50万元以上の医療機器を集中購買の対象とする目録案を公表し、意見を募集している。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-10-03/detail-initxwvx3859544.d.html?vt=4",
+      "score": 60,
+      "commercial_score": 5,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "歌礼製薬、月1〜3か月1回の減量薬候補を発表",
+      "summary_ja": "歌礼製薬はEASD2026で、月1回から3か月に1回の投与を目指す配合剤ASC36_35FDCの前臨床データを報告した。",
+      "source": "美通社",
+      "url": "https://news.qq.com/rain/a/20261002A07YTH00",
+      "score": 60,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "マネーフォワード、従業員の健康管理に参入",
+      "summary_ja": "マネーフォワードは10月中旬から「マネーフォワード クラウド健康管理」を提供する。ストレスチェックや健康診断の業務をAIで効率化する。",
+      "source": "Impress Watch",
+      "url": "https://www.msn.com/ja-jp/money/human-resources/%E3%83%9E%E3%83%8D%E3%83%BC%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89-%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%AE%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86-%E3%81%AB%E5%8F%82%E5%85%A5/ar-AA2dnwQK",
+      "score": 58,
+      "commercial_score": 10,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "「急激に痩せる」減量合宿の乱れに注意",
+      "summary_ja": "「短期間で大幅に痩せる」とうたう減量合宿でトラブルが相次ぎ、利用者に注意が呼びかけられている。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-02/doc-initusmt7640390.shtml",
+      "score": 58,
+      "commercial_score": 20,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "世界メンタルヘルスデー、厚労省が啓発",
+      "summary_ja": "10月10日の世界メンタルヘルスデーに向け、厚生労働省は「心のサポーター」の養成や普及啓発を進める。",
+      "source": "保健指導リソースガイド",
+      "url": "https://tokuteikenshin-hokensidou.jp/reference/2026/10/2026-4.php",
+      "score": 56,
+      "commercial_score": 10,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ベリー類はどれくらい体に良いのか",
+      "summary_ja": "専門家は、いちご、ブラックベリー、ブルーベリーなどどのベリーを食べても健康効果があるとガーディアンに語った。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/wellness/2026/oct/02/how-healthy-are-berries-smoothies-bowls",
+      "score": 54,
+      "commercial_score": 50,
+      "product_keywords": [
+        "冷凍ブルーベリー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "元サッカー選手カマラ氏、男性の心の健康支援",
+      "summary_ja": "クリス・カマラ氏がガーンジー島で男性のメンタルヘルスを支える新しい取り組み「Here for Chris」を立ち上げた。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cmz7x332dzv5o?at_medium=RSS&at_campaign=rss",
+      "score": 52,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "美作大とマルイ、鉄分をとれる弁当を開発",
+      "summary_ja": "岡山県津山市の美作大学とスーパーのマルイが、栄養バランスに配慮した「満彩めぐり弁当」を開発し、販売を始めた。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/1996101",
       "score": 50,
+      "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英国看護協会、イスラエルの製薬会社と提携解消",
+      "summary_ja": "英国看護協会（RCN）は、イスラエル軍との関係などを理由に、テバUKとの商業パートナー契約を打ち切った。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/02/royal-college-of-nursing-cuts-ties-with-israeli-drug-company",
+      "score": 50,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     }

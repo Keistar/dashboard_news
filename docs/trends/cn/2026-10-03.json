@@ -3,137 +3,127 @@
   "country": "cn",
   "country_label_ja": "中国",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "trends": [
     {
-      "keyword": "国庆旅游",
-      "reason_ja": "国慶節連休で観光地が混雑し、旅行関連の話題が続いた。",
+      "keyword": "中国帐篷爆火",
+      "reason_ja": "設備の整ったプレハブ式テントハウスが海外で人気となり、受注が来年まで埋まっていると百度の急上昇に入った。",
       "genre": "outdoor",
+      "commercial_score": 70,
+      "product_keywords": [
+        "glamping tent",
+        "tent"
+      ],
+      "product_keywords_ja": [
+        "グランピング テント",
+        "テント"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "中国製テントが人気、受注は来年まで",
+          "summary_ja": "ソファやベッド、空調、シャワーまで備えたプレハブ式テントハウスが海外で人気となり、生産から設置まで3か月で住めるという。",
+          "source": "中華網",
+          "url": "https://news.china.com/socialgd/10000169/20261003/49776870_1.html"
+        }
+      ]
+    },
+    {
+      "keyword": "冷空气来袭 气温创新低",
+      "reason_ja": "国慶節中に寒気が続けて南下し、南北で今年下半期の最低気温を更新する見込みとなり、百度の急上昇に入った。",
+      "genre": "other",
       "commercial_score": 60,
       "product_keywords": [
-        "travel backpack",
-        "portable charger"
+        "fleece jacket",
+        "heattech"
       ],
       "product_keywords_ja": [
-        "旅行 リュック",
-        "モバイルバッテリー"
+        "フリース",
+        "ヒートテック"
       ],
-      "trend_source": "新浪旅游ホットトピック",
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "新たな寒気、南方の最低気温が更新へ",
+          "summary_ja": "新しい寒気で北方は秋の寒さが強まり、5日から7日にかけて南方の最低気温が広い範囲で今季最低を更新する見込み。",
+          "source": "光明網",
+          "url": "https://m.gmw.cn/2026-10/03/content_1304571452.htm"
+        }
+      ]
+    },
+    {
+      "keyword": "宠物托管",
+      "reason_ja": "国慶節の旅行でペットの預かりサービスの注文が急増し、「ペット経済」として報じられた。",
+      "genre": "pet",
+      "commercial_score": 55,
+      "product_keywords": [
+        "automatic pet feeder",
+        "pet camera"
+      ],
+      "product_keywords_ja": [
+        "自動給餌器",
+        "ペットカメラ"
+      ],
+      "trend_source": "中国新聞網",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "新浪の旅行ホットトピック速報",
-          "summary_ja": "国慶節連休中の観光客数や人気スポットを時間ごとに紹介する速報。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjto.html"
+          "title_ja": "国慶節にペット預かりが急増",
+          "summary_ja": "河南省鄭州のペットシッターは国慶節の注文が3倍に増えた。ペット関連の消費は若者の起業先にもなっている。",
+          "source": "中国新聞網",
+          "url": "https://news.qq.com/rain/a/20261003A03W8700?adChannelId=finance"
         },
         {
-          "title_ja": "新浪の旅行ホットトピック速報（午後）",
-          "summary_ja": "上海や北京などの人気観光地の混雑状況を伝える速報。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkla.html"
+          "title_ja": "ペットの訪問世話サービスに注意喚起",
+          "summary_ja": "北京市消費者協会は、ペットの訪問世話サービスで質の低下や資格の不備、料金の不透明さがあると注意を呼びかけた。",
+          "source": "揚子晩報",
+          "url": "https://www.yangtse.com/news/txs/202610/t20261003_399377.html"
         }
       ]
     },
     {
-      "keyword": "全世界都知道中国人放假了",
-      "reason_ja": "国慶節連休で世界中に中国人観光客が増えたという話題が拡散した。",
-      "genre": "outdoor",
-      "commercial_score": 45,
-      "product_keywords": [
-        "travel adapter",
-        "luggage"
-      ],
-      "product_keywords_ja": [
-        "海外旅行 変換プラグ",
-        "スーツケース"
-      ],
-      "trend_source": "抖音ホットリスト",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "新浪の旅行ホットトピック速報（朝）",
-          "summary_ja": "国慶節連休の朝の旅行関連の話題をまとめた速報。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pjee.html"
-        }
-      ]
-    },
-    {
-      "keyword": "JDG 1:2 T1",
-      "reason_ja": "eスポーツ試合でJDGがT1に1対2で敗れ話題になった。",
-      "genre": "gadget",
-      "commercial_score": 40,
-      "product_keywords": [
-        "gaming mouse",
-        "gaming keyboard"
-      ],
-      "product_keywords_ja": [
-        "ゲーミングマウス",
-        "ゲーミングキーボード"
-      ],
-      "trend_source": "抖音ホットリスト",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "新浪の音楽ホットトピック速報",
-          "summary_ja": "10月2日夕方の話題をまとめた新浪の速報記事。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pl74.html"
-        }
-      ]
-    },
-    {
-      "keyword": "四川广元国庆烟花秀",
-      "reason_ja": "四川省広元市の国慶節花火ショーが迫力あると話題になった。",
-      "genre": "other",
-      "commercial_score": 25,
-      "product_keywords": [],
-      "product_keywords_ja": [],
-      "trend_source": "抖音ホットリスト",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "新浪の文旅ホットトピック速報",
-          "summary_ja": "各地の文化観光の話題を時間ごとにまとめた速報。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pkyw.html"
-        }
-      ]
-    },
-    {
-      "keyword": "国足0:5不敌巴勒斯坦",
-      "reason_ja": "サッカー中国代表がパレスチナに0対5で敗れ、抖音で話題になった。",
-      "genre": "other",
-      "commercial_score": 20,
-      "product_keywords": [],
-      "product_keywords_ja": [],
-      "trend_source": "抖音ホットリスト",
-      "trend_source_type": "sns",
-      "articles": [
-        {
-          "title_ja": "新浪の国慶節ホットトピック速報",
-          "summary_ja": "国慶節期間中の10月2日の話題を時間ごとにまとめた速報。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908plvc.html"
-        }
-      ]
-    },
-    {
-      "keyword": "秋粮收获进度过三成",
-      "reason_ja": "中国の秋の穀物収穫が3割を超えたと伝えられた。",
+      "keyword": "上门私厨",
+      "reason_ja": "高級ホテルの総料理長が出張料理人に転身し、国慶節の予約が埋まったと報じられ話題になった。",
       "genre": "food",
-      "commercial_score": 15,
-      "product_keywords": [],
-      "product_keywords_ja": [],
-      "trend_source": "抖音ホットリスト",
-      "trend_source_type": "news",
+      "commercial_score": 35,
+      "product_keywords": [
+        "home party catering"
+      ],
+      "product_keywords_ja": [
+        "出張シェフ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "新浪の文旅ホットトピック速報（深夜）",
-          "summary_ja": "10月2日0時時点の話題をまとめた速報。",
-          "source": "新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pi8i.html"
+          "title_ja": "ホテルの総料理長が出張料理人に、国慶節は満員",
+          "summary_ja": "武漢の出張料理人は国慶節の予約が埋まり、客の家で帝王ガニなど10品の誕生日の宴を作った。客ごとにメニューを組むため多くの料理に通じている必要がある。",
+          "source": "九派新聞",
+          "url": "https://news.qq.com/rain/a/20261003A07M3R00"
+        }
+      ]
+    },
+    {
+      "keyword": "国庆出游用AI被坑",
+      "reason_ja": "国慶節の旅行計画をAIに任せた人が、混雑や移動時間の読み違いで失敗した体験談が相次ぎ話題になった。",
+      "genre": "ai",
+      "commercial_score": 30,
+      "product_keywords": [
+        "travel guidebook"
+      ],
+      "product_keywords_ja": [
+        "旅行 ガイドブック"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "国慶節の旅行計画をAIに任せ、失敗する人が続出",
+          "summary_ja": "豆包やDeepSeek、旅行アプリのAIで旅程を作る人が増えたが、現地の混雑や移動時間をAIが読み違え、計画通りにいかない例が相次いでいる。",
+          "source": "36氪",
+          "url": "https://eu.36kr.com/zh/p/4009478235295881"
         }
       ]
     }

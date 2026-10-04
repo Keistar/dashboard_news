@@ -4,53 +4,67 @@
   "country": "jp",
   "country_label_ja": "日本",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "セブン-イレブン10月前半の新作、明太もちゅチーズまん",
-      "summary_ja": "10月6日に190円で発売。大学芋風ラテや札幌すみれ監修の塩ラーメンなど全11品を紹介している。",
-      "source": "いこーよ",
-      "url": "https://report.iko-yo.net/articles/34052",
-      "score": 65,
-      "commercial_score": 70,
-      "product_keywords": [
-        "セブンイレブン 新商品"
-      ]
-    },
-    {
-      "title_ja": "ファミマ10月前半の新作、ハーゲンダッツ パンプキン",
-      "summary_ja": "10月6日発売のファミマ限定「パパパパンプキンタルト」や、20周年のオトナ★ファミチキ、miffyコラボを紹介。",
-      "source": "いこーよ",
-      "url": "https://report.iko-yo.net/articles/34053",
-      "score": 65,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ハーゲンダッツ パンプキン",
-        "ファミチキ"
-      ]
-    },
-    {
-      "title_ja": "ローソンストア100が栗・さつまいもの秋スイーツ",
-      "summary_ja": "10月7日から税込108円〜で秋の味覚パンとスイーツを順次発売し、28日には大きな麻婆肉まんも登場する。",
+      "title_ja": "10月の飲食料品値上げは3153品目",
+      "summary_ja": "帝国データバンクによると、10月の飲食料品の値上げは3153品目で、値上げラッシュはピークを越えた。酒類・飲料が1年ぶりに分野別で最多となり、2026年は2年連続で年2万品目を超える。",
       "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000590.000025635.html",
-      "score": 55,
-      "commercial_score": 65,
+      "url": "https://prtimes.jp/main/html/rd/p/000001456.000043465.html",
+      "score": 80,
+      "commercial_score": 60,
       "product_keywords": [
-        "ローソンストア100 栗 さつまいも"
+        "まとめ買い 食品",
+        "ビール ケース"
       ]
     },
     {
-      "title_ja": "10月1日、食品3033品目が値上げ",
-      "summary_ja": "酒類・飲料が最多で、しょうゆなど調味料も5〜25%値上げ。酒税一本化でビールは減税、チューハイは増税となる。",
-      "source": "文系エンジニアの日記",
-      "url": "https://vegcale.com/2026/09/19/food-price-hike-october-2026/",
-      "score": 70,
-      "commercial_score": 50,
+      "title_ja": "スシロー「本鮪大とろ」110円など回転寿司の秋新作",
+      "summary_ja": "スシローは秋の目玉として本鮪大とろを税込110円から販売し、かっぱ寿司は創業地・長野市とのコラボで食べ比べメニューを出す。",
+      "source": "えん食べ",
+      "url": "https://entabe.jp/61645/2026-oct-kaitenzushi-honmaguro-nagano-news",
+      "score": 68,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "セブン、おにぎり100円セールを10月3日から",
+      "summary_ja": "セブン-イレブンは10月3日からおにぎりを100円で販売するセールを行い、最大73円安くなる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/b8cbfcdc22b9e8a61b8e466238b0523082bfdd7a",
+      "score": 66,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "ユウキ食品、10期超の連続増収",
+      "summary_ja": "ガラスープや豆板醤で知られるユウキ食品は、エスニック系の流行を捉えて売り上げを10期以上伸ばしている。SNSで話題の「鬼辛ペースト」など、まず発売して反応を分析する開発手法を取る。",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC1409A0U6A910C2000000/",
+      "score": 62,
+      "commercial_score": 75,
       "product_keywords": [
-        "ビール 酒税",
-        "しょうゆ"
+        "ユウキ食品",
+        "鬼辛ペースト"
       ]
+    },
+    {
+      "title_ja": "ゴディバ「安納芋 ショコリキサー」など秋チョコ新作",
+      "summary_ja": "ゴディバの「安納芋 ショコリキサー」が10月2日、OGGIの「プティ ショコラ」が10月3日に発売され、秋のチョコスイーツが出そろった。",
+      "source": "えん食べ",
+      "url": "https://entabe.jp/61631/2026-1001-chocolate-sweets-godiva-shokolixir-oggi-petit-chocolat-roundup",
+      "score": 60,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ゴディバ",
+        "チョコレート ギフト"
+      ]
+    },
+    {
+      "title_ja": "松屋・かつやなど外食チェーンの秋の新メニュー",
+      "summary_ja": "松屋、かつや、やよい軒、なか卯、ケンタッキーフライドチキンの9月末〜10月の新商品をまとめた。",
+      "source": "えん食べ",
+      "url": "https://entabe.jp/61493/summary-2026-september-restaurant-chain-new-menu-3rd",
+      "score": 56,
+      "commercial_score": 20
     }
   ]
 }

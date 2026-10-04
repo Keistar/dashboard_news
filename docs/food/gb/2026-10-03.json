@@ -4,39 +4,47 @@
   "country": "gb",
   "country_label_ja": "イギリス",
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:09:25+09:00",
+  "generated_at": "2026-10-04T09:33:34+09:00",
   "stories": [
     {
-      "title_ja": "Tesco、無添加亜硝酸のベーコン・ハム新シリーズ",
-      "summary_ja": "9月24日付の業界まとめで、Tescoの亜硝酸無添加ベーコン・ハム発売、Morrisonsの好調などが報じられた。",
-      "source": "IGD",
-      "url": "https://www.igd.com/articles/uk-roundup-loyalty-and-store-updates-asda-growth/73986",
+      "title_ja": "EUが食品分野で譲歩、英国との合意に前進",
+      "summary_ja": "英国がEUの動植物検疫ルールに合わせる協定交渉で、EU側が食品・飲料について譲歩し、合意に近づいている。",
+      "source": "The i Paper",
+      "url": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202?app=true",
+      "score": 70,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "Pot Noodleの一部商品を回収、表示漏れ",
+      "summary_ja": "ユニリーバは、包装に全ての原材料が書かれていなかったとして、Tesco、Asda、Icelandで売られたPot Noodleの1種類を回収した。",
+      "source": "The Bury Times",
+      "url": "https://www.msn.com/en-gb/news/other/do-not-eat-recall-issued-for-pot-noodle-flavour-sold-at-tesco-asda-and-iceland/ar-AA2dtBJr",
+      "score": 68,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "輸入卵に関連するサルモネラ感染を調査",
+      "summary_ja": "英国の保健当局は、最近のサルモネラ感染が輸入された殻付き卵に関連している可能性があるとして調査している。",
+      "source": "LBC",
+      "url": "https://www.lbc.co.uk/article/salmonella-outbreak-eggs-uk-health-5HjdgFt_2/",
+      "score": 66,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "英政府、食料不安対策に1000万ポンド",
+      "summary_ja": "英首相官邸は、イングランドの貧困地域で食料不安と食費の負担に対応するため1000万ポンドを投じる計画だ。",
+      "source": "Food Manufacture",
+      "url": "https://www.foodmanufacture.co.uk/Article/2026/10/02/downing-street-to-invest-10m-into-fighting-food-insecurity-in-england/",
+      "score": 62,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "Aldi、クリスマス前に英国で24店を新規出店",
+      "summary_ja": "Aldiはクリスマスまでにイングランド、スコットランド、ウェールズで24店を新たに開き、3店を移転する。",
+      "source": "L’Express Franchise",
+      "url": "https://www.northwalespioneer.co.uk/news/national/uk-today/26600622.full-list-new-aldi-stores-opening-uk-christmas/",
       "score": 58,
-      "commercial_score": 55,
-      "product_keywords": [
-        "亜硝酸無添加 ベーコン"
-      ]
-    },
-    {
-      "title_ja": "英小売の決算と健康投資の動向まとめ",
-      "summary_ja": "IGDが英国の小売決算と食品の健康関連投資をまとめた。",
-      "source": "IGD",
-      "url": "https://www.igd.com/articles/uk-roundup-retailer-results-and-health-investment/74137",
-      "score": 52
-    },
-    {
-      "title_ja": "英国の不健康食品広告規制の解説",
-      "summary_ja": "2026年1月から高脂肪・高塩分・高糖質食品のテレビ広告は午後9時前、ネット有料広告は終日禁止となった。業界の対応を解説している。",
-      "source": "Unilever Food Solutions",
-      "url": "https://www.unileverfoodsolutions.co.uk/channels/fast-food-restaurants/business-hub/ban-on-fast-food-tv-advertising.html",
-      "score": 50
-    },
-    {
-      "title_ja": "英国不健康食品広告禁止の影響を解説",
-      "summary_ja": "ブランドやクリエイター向けに、2026年の広告規制で注意すべき点をまとめている。",
-      "source": "LegalLens",
-      "url": "https://www.legallens.co.uk/blog/uk-junk-food-ad-ban-2026",
-      "score": 45
+      "commercial_score": 10
     }
   ]
 }
