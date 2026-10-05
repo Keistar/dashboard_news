@@ -1,232 +1,200 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T17:39:33+09:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
   "stories": [
     {
-      "title_ja": "インフルエンザ拡大の背景、海外流入や免疫低下",
-      "summary_ja": "インフルエンザが例年より早く広がっている要因について専門家に聞いた。海外からの流入や免疫の低下など複数の要因が重なっている可能性がある。",
-      "source": "北國新聞",
-      "url": "https://news.yahoo.co.jp/articles/d25a0c9b2233480806e22232d57e5685696dbf75/images/000",
-      "score": 82,
-      "commercial_score": 45,
-      "product_keywords": [
-        "インフルエンザ 対策",
-        "マスク"
-      ],
+      "title_ja": "ノーベル医学・生理学賞、5日発表",
+      "summary_ja": "スウェーデンのカロリンスカ研究所が日本時間5日夕に発表する。日本勢では森和俊氏や睡眠研究の柳沢正史氏が有力視される。",
+      "source": "日本経済新聞",
+      "url": "https://nikkei.com/article/DGXZQOSG301NO0Q6A930C2000000",
+      "score": 80,
+      "commercial_score": 25,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "インフル流行期へ、今年はワクチンの選択肢が拡大",
-      "summary_ja": "インフルエンザの流行期を前に、今年は新しいワクチンの選択肢が増えた。コネチカット州の医師らが早めの接種を呼びかけている。",
-      "source": "Hartford Courant",
-      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/flu-season-approaches-with-more-vaccine-choices-this-year-here-s-what-ct-experts-are-saying/ar-AA2dpM4d",
+      "title_ja": "GLP-1と男性の薄毛の関連を示す研究",
+      "summary_ja": "NYU Langoneの研究で、遺伝的に薄毛リスクのある男性はGLP-1薬の使用で脱毛リスクが約7%上がる可能性が示された。薬が原因とは確定していない。",
+      "source": "Washington Post",
+      "url": "https://washingtonpost.com/wellness/2026/10/03/new-study-suggests-possible-connection-between-glp-1s-hair-loss-men",
       "score": 78,
-      "commercial_score": 40,
+      "commercial_score": 55,
       "product_keywords": [
-        "インフルエンザワクチン"
+        "育毛剤"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "この冬の「スーパーフル」は心配か、GPが解説",
-      "summary_ja": "かかりつけ医（GP）が、この冬に懸念される「スーパーフル」について解説した。一度に多くの人がかかる恐れがあるとして備えを促している。",
-      "source": "Daily Express",
-      "url": "https://www.express.co.uk/life-style/health/2254177/gp-confirms-not-brits-should-worried-superflu",
-      "score": 78,
-      "commercial_score": 45,
-      "product_keywords": [
-        "インフルエンザ 対策"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "沖縄でインフル流行、専門医がワクチン接種を推奨",
-      "summary_ja": "沖縄県でインフルエンザ患者が増え、専門医は高齢者や基礎疾患のある人、介護者にワクチン接種を検討するよう呼びかけた。",
-      "source": "沖縄タイムス",
-      "url": "https://www.oricon.co.jp/article/3396139/",
+      "title_ja": "チルゼパチドが高用量セマグルチドより減量効果",
+      "summary_ja": "EASDで発表された間接比較で、チルゼパチドは高用量セマグルチドより平均3〜4.5%多く減量した。ただし直接比較試験はなく仮説段階。",
+      "source": "Pharmacy Times",
+      "url": "https://www.pharmacytimes.com/view/tirzepatide-linked-to-more-weight-loss-than-semaglutide-7-2-mg",
       "score": 76,
+      "commercial_score": 45,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "NHS、子どもと妊婦のインフル接種を開始",
+      "summary_ja": "NHSが冬に向けて子どもと妊婦へのインフルエンザ接種を始めた。65歳以上や持病のある成人などは10月1日から接種できる。",
+      "source": "NHS England",
+      "url": "https://www.england.nhs.uk/2026/09/nhs-kicks-off-flu-jabs-for-children-and-pregnant-women-ahead-of-winter/",
+      "score": 74,
+      "commercial_score": 40,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "インフルエンザ、今季は早期に流行入り",
+      "summary_ja": "インフルエンザの流行入りは例年より早く、感染症法施行以来2番目の早さとされる。高齢者の定期接種は10月1日から始まった。",
+      "source": "大阪府",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51206.html",
+      "score": 72,
       "commercial_score": 40,
       "product_keywords": [
-        "インフルエンザワクチン"
+        "インフルエンザ マスク"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "新型コロナ、世界の死因トップ10から初めて外れる",
-      "summary_ja": "最新の世界推計で、新型コロナの直接死者は2023年に約90万人で死因の14位となり、パンデミック後初めてトップ10から外れた。平均寿命もほぼ以前の水準に戻った。",
-      "source": "Health Policy Watch",
-      "url": "https://www.eatg.org/hiv-news/health-policy-watch-covid-19-drops-out-of-worlds-top-10-causes-of-death-for-first-time-since-pandemic-began/",
-      "score": 74,
-      "commercial_score": 10,
-      "product_keywords": [
-        "COVID-19"
-      ],
+      "title_ja": "リリーの経口GLP-1が糖尿病・心血管リスク低減",
+      "summary_ja": "リリーの経口GLP-1薬Foundayoは、2型糖尿病と心血管疾患の予測長期リスクを大きく下げることと関連したと発表された。",
+      "source": "Eli Lilly",
+      "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-was-associated",
+      "score": 70,
+      "commercial_score": 40,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "NHS、ホームレスの人へ無料インフル接種を開始",
-      "summary_ja": "NHSは今週から、ホームレスの人数万人が無料でインフルエンザワクチンを受けられるポップアップ診療所を始めた。",
-      "source": "Care Appointments",
-      "url": "https://careappointments.com/care-news/england/238769/pop-up-nhs-clinics-to-offer-flu-jabs-to-tens-of-thousands-of-homeless-people/",
-      "score": 72,
-      "commercial_score": 15,
-      "product_keywords": [
-        "インフルエンザワクチン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "江蘇・大丰でインフル接種開始、農村の高齢者と子は無料",
-      "summary_ja": "2026〜27年シーズンのインフルエンザワクチン接種が始まった。農村部の65歳以上と小中学生は無料で受けられる。",
-      "source": "捜狐",
-      "url": "https://m.sohu.com/a/1083939991_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "score": 72,
+      "title_ja": "国慶連休は飲食・蚊媒介の健康リスクに注意",
+      "summary_ja": "連休は人の移動や会食が増え、食中毒や蚊媒介感染症のリスクが高まる。防蚊対策や食品の加熱を呼びかけている。",
+      "source": "光明網",
+      "url": "https://m.gmw.cn/2026-10/01/content_39030602.htm",
+      "score": 70,
       "commercial_score": 35,
       "product_keywords": [
-        "流感疫苗"
+        "虫よけ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "痛くない経鼻インフルワクチンが好評",
-      "summary_ja": "2〜18歳を対象に鼻にスプレーする経鼻インフルエンザワクチン「フルミスト」が好評だ。注射の痛みがなく、子どもが受けやすい。",
-      "source": "北國新聞",
-      "url": "https://www.msn.com/ja-jp/health/diseases-and-conditions/%E7%89%B9%E9%9B%86-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC%E5%BC%8F%E3%81%AE%E7%B5%8C%E9%BC%BB%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%A5%BD%E8%A9%95-2-18%E6%AD%B3%E5%AF%BE%E8%B1%A1-%E7%97%9B%E3%81%BF%E3%81%AA%E3%81%97/ar-AA2dvrnt",
-      "score": 70,
-      "commercial_score": 45,
-      "product_keywords": [
-        "フルミスト"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "メキシコ、FDAのレタス調査は汚染源を特定せずと反論",
-      "summary_ja": "メキシコ政府は、FDAによるサイクロスポラ感染とレタスの調査について、汚染源を決定的に特定したものではないと主張した。",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-says-fda-lettuce-probe-did-not-conclusively-identify-contamination-source-2026-10-03/",
-      "score": 70,
-      "commercial_score": 20,
-      "product_keywords": [
-        "レタス"
-      ],
+      "title_ja": "米医学団体、今秋のインフル・コロナ接種を推奨",
+      "summary_ja": "米国の主要医学団体が、6か月以上のほぼ全員にインフルエンザ接種を勧める指針を出した。政権の助言の変化による混乱の緩和が狙い。",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/top-u-s-doctors-offer-updated-flu-and-covid-vaccine-recommendations-aiming-to-ease-confusion",
+      "score": 68,
+      "commercial_score": 35,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "連休の「報復夜更かし」に注意、回復法を医師が解説",
-      "summary_ja": "国慶節の連休中に夜更かしを続ける若者に向け、救急科の医師が健康リスクと回復のコツを紹介した。",
-      "source": "川観新聞",
-      "url": "https://sichuan.scol.com.cn/ggxw/202610/83335092.html",
+      "title_ja": "リリーのFoundayo、英MHRAが承認",
+      "summary_ja": "英医薬品規制当局MHRAが8月10日に経口GLP-1のFoundayoを承認した。欧州で最初の承認とされる。",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/eli-lillys-foundayo-wins-uk-approval",
       "score": 66,
+      "commercial_score": 40,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "国慶連休に多い「健康の落とし穴」",
+      "summary_ja": "連休中に多くの人が陥りがちな健康の落とし穴を紹介する。出行時の生活習慣の乱れに注意を促す内容。",
+      "source": "光明網",
+      "url": "https://m.gmw.cn/2026-10/02/content_1304570845.htm",
+      "score": 64,
+      "commercial_score": 35,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "国慶連休の健康リスク、流感や諾如に注意",
+      "summary_ja": "疾控部門は連休中のデング熱、チクングニア熱、インフルエンザ、ノロウイルス胃腸炎への警戒を呼びかけている。",
+      "source": "搜狐",
+      "url": "https://sohu.com/a/1082883021_121106832",
+      "score": 62,
+      "commercial_score": 35,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "筋トレは有酸素より睡眠を延ばす可能性",
+      "summary_ja": "米心臓協会の会議で、1年間の筋トレで睡眠が平均40分延びたとの予備研究が示された。有酸素運動のみの群は約23分の延びだった。",
+      "source": "CNN.co.jp",
+      "url": "https://www.cnn.co.jp/fringe/35187172.html",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ダンベル",
+        "プロテイン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "連休の「代謝安定」術、体重計より微習慣",
+      "summary_ja": "上海の健康番組が、体重計を手放して微習慣で代謝を整える方法を紹介した。筋肉・睡眠・インスリンの観点から解説している。",
+      "source": "搜狐",
+      "url": "https://sohu.com/a/1083733495_122066679",
+      "score": 60,
+      "commercial_score": 45,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "国慶の旅に健康の備えを、各地が提示",
+      "summary_ja": "連休の外出前に感染症の流行情報を確認し、手洗いや換気を徹底するよう促している。北京日報が健康提示をまとめた。",
+      "source": "北京日報",
+      "url": "https://xinwen.bjd.com.cn/content/s6abdeee8e4b039a8e2f1cde3.html",
+      "score": 58,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "早寝の人は翌日の活動量が約30分多い",
+      "summary_ja": "約2万人の1年間の記録から、早寝の人は遅寝の人より中高強度の活動が約30分長いと判明した。睡眠と運動の関係を示す研究。",
+      "source": "Newsweek日本版",
+      "url": "https://www.newsweekjapan.jp/articles/-/18655",
+      "score": 56,
       "commercial_score": 45,
       "product_keywords": [
-        "睡眠サプリ",
-        "アイマスク"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ランカシャー、冬に向けインフルとコロナ接種案内",
-      "summary_ja": "NHSの警告を受け、ランカシャーの保健当局が冬に向けたインフルエンザと新型コロナのワクチン接種の受け方を案内した。",
-      "source": "Lancashire Evening Post",
-      "url": "https://www.msn.com/en-gb/health/diseases-and-conditions/how-to-get-flu-and-covid-vaccines-in-lancashire-this-winter-amid-nhs-warning/ar-AA2dw9rY",
-      "score": 64,
-      "commercial_score": 15,
-      "product_keywords": [
-        "ワクチン接種"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "コロチキ西野、フィットネスブランド「sissy」始動",
-      "summary_ja": "肉体改造で話題のコロコロチキチキペッパーズ西野が手がけるフィットネスブランド『sissy』が始動した。吉本興業が発表した。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000005387.000029501.html",
-      "score": 62,
-      "commercial_score": 70,
-      "product_keywords": [
-        "フィットネスウェア"
+        "スマートウォッチ 睡眠"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ギャビー・ローガン、90代まで元気に 欠かさない4つの運動",
-      "summary_ja": "53歳の司会者ギャビー・ローガンが、90代まで元気に暮らすために欠かさない4つのトレーニングを紹介した。",
-      "source": "Women's Health UK",
-      "url": "https://www.womenshealthmag.com/uk/fitness/a73956264/gabby-logan-workouts/",
-      "score": 58,
-      "commercial_score": 65,
-      "product_keywords": [
-        "筋トレ",
-        "ピラティス"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "悪い習慣が肺の健康を損なう、専門医が警告",
-      "summary_ja": "新華網の健康コーナーで、喫煙や空気の悪い環境など肺に悪い習慣に注意するよう専門医が呼びかけた。",
-      "source": "新華網",
-      "url": "https://www.news.cn/20261004/59b1e075d0344e3588510fd94d15681e/c.html",
-      "score": 58,
-      "commercial_score": 30,
-      "product_keywords": [
-        "空気清浄機"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "フロリダ州Broward Health、10月は乳がん検診を割安に",
-      "summary_ja": "乳がん啓発月間の10月、Broward Healthは低料金または無料のマンモグラフィー検診を提供している。",
-      "source": "South Florida Hospital News",
-      "url": "https://southfloridahospitalnews.com/2026/10/03/broward-health-offers-low-cost-and-free-mammograms-throughout-october-for-breast-cancer-awareness-month/",
+      "title_ja": "PureGym、英国のフィットネス年次報告",
+      "summary_ja": "PureGymの年次報告は、英国人の健康やフィットネスへの意識と2026年のトレンドを分析している。ジム利用の統計も含まれる。",
+      "source": "PureGym",
+      "url": "https://www.puregym.com/amp/blog/uk-fitness-report-gym-statistics/",
       "score": 56,
-      "commercial_score": 20,
+      "commercial_score": 50,
       "product_keywords": [
-        "乳がん検診"
+        "ジム 会員"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "マカオ衛生局、インフルエンザ重症例1件を報告",
-      "summary_ja": "マカオ衛生局は、インフルエンザの重症例を1件確認したと発表した。流行期に入りワクチン接種を呼びかけている。",
-      "source": "マカオ政府",
-      "url": "https://www.gov.mo/zh-hans/news/940804/",
+      "title_ja": "2026年ウェルネス潮流は女性向けフィットネス",
+      "summary_ja": "周期に合わせたトレーニングや更年期向けの低負荷筋トレなど、女性中心のフィットネスが広がっている。体の声を聞く運動が潮流とされる。",
+      "source": "Luxury London",
+      "url": "https://luxurylondon.co.uk/wellbeing/health/2026-wellness-trends-female-fitness-somatic-healing-fibre/",
       "score": 54,
-      "commercial_score": 20,
+      "commercial_score": 50,
       "product_keywords": [
-        "流感"
+        "ヨガマット"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "浜松市とイオン、健康づくり支援のご当地WAON",
-      "summary_ja": "売上の一部が市民の健康づくりに使われる、イオンのご当地WAON浜松版が発売された。浜松市とイオンの連携協定に基づく取り組み。",
-      "source": "テレビ静岡",
-      "url": "https://www.msn.com/ja-jp/health/mindandbody/%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BA%BA%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AB%E8%B2%A2%E7%8C%AE-%E6%B5%9C%E6%9D%BE%E5%B8%82%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%8C%E9%80%A3%E6%90%BA-%E3%81%94%E5%BD%93%E5%9C%B0%EF%BD%97%EF%BD%81%EF%BD%8F%EF%BD%8E%E6%B5%9C%E6%9D%BE%E7%89%88%E3%82%92%E7%99%BA%E5%A3%B2/ar-AA2dvKst",
-      "score": 50,
-      "commercial_score": 30,
-      "product_keywords": [
-        "WAON"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

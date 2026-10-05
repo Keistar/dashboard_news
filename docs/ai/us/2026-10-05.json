@@ -1,0 +1,62 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:36+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAI、GPT-6.1 Sol公開 Astraに迫り低価格",
+      "summary_ja": "OpenAIはGPT-6.1 SolをDevDayで発表し、GPT-6 Astraにほぼ並ぶ性能をより低価格で提供するとした。ChatGPT WorkとCodexの有料利用者から使える。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "score": 80,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title_ja": "Google、最上位モデル「Gemini 4 Argon」を展開",
+      "summary_ja": "GoogleはAlphabetで最も高度なモデルGemini 4 Argonの提供を始めた。コーディングやサイバーセキュリティ、専門業務が強化された。",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "score": 78,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "Google、OpenAI・Anthropic対抗のGemini 4を披露",
+      "summary_ja": "GoogleはOpenAIとAnthropicへの待望の回答となるGemini 4を発表した。フロンティアAI競争が一段と激しくなる。",
+      "source": "Axios",
+      "url": "https://axios.com/2026/09/30/google-gemini-4",
+      "score": 72,
+      "commercial_score": 25,
+      "product_keywords": [
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "OpenAI、常時稼働エージェント「Dots」を投入",
+      "summary_ja": "OpenAIは専用のクラウドPCを持ち、割り当てた作業を進める常時稼働エージェントDotsを発表した。GPT-6 Astraを搭載する。",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/29/openai-dots-agent",
+      "score": 68,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title_ja": "3社、金融業界FINRA型のAI安全規制機関を計画",
+      "summary_ja": "Google、OpenAI、Anthropicが最先端AI向けの安全基準を定める共同機関の設立を計画している。年内か2027年初頭の発足を目指す。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/28/google-openai--anthropic-plan-their-own-finra-style-ai-safety-regulator/",
+      "score": 66,
+      "commercial_score": 15
+    }
+  ]
+}

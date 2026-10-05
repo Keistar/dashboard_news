@@ -1,278 +1,235 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T17:39:32+09:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:36+09:00",
   "stories": [
     {
-      "title_ja": "Gemini無料版、10月9日からFlash-Liteのみに",
-      "summary_ja": "Googleは個人向けGeminiアプリで使えるモデルを契約プランごとに見直すと告知した。無料ユーザーは10月9日から最小モデルのFlash-Liteだけになり、Pro系は有料プランに限られる。",
-      "source": "ITmedia",
-      "url": "https://www.msn.com/ja-jp/technology/software/%E5%80%8B%E4%BA%BA%E5%90%91%E3%81%91gemini%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB%E9%81%B8%E6%8A%9E%E3%81%8C%E5%8E%B3%E6%A0%BC%E5%8C%96-%E7%84%A1%E6%96%99%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF-flash-lite-%E3%81%AE%E3%81%BF%E3%81%AB/ar-AA2dvYSO",
-      "score": 90,
-      "commercial_score": 60,
-      "product_keywords": [
-        "Gemini",
-        "Google AI Pro"
-      ],
+      "title_ja": "元OpenAI安全担当「文化は壊れている」と寄稿",
+      "summary_ja": "OpenAIで安全性報告書を統括した従業員が退社し、同社の文化は壊れていると寄稿した。急速なモデル投入と安全性の両立が改めて問われている。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/04/2000001986",
+      "score": 80,
+      "commercial_score": 10,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "FTC、OpenAIとAnthropicを消費者リスクで調査",
-      "summary_ja": "米連邦取引委員会（FTC）は、OpenAIやAnthropicなどAI企業の技術が消費者にもたらす危険について調査を始めたと発表した。チャットボットの安全対策が焦点になる。",
-      "source": "Texarkana Gazette",
-      "url": "https://www.texarkanagazette.com/news/2026/oct/03/ftc-is-investigating-openai-and-anthropic-over/",
-      "score": 88,
-      "commercial_score": 25,
+      "title_ja": "OpenAI、GPT-6.1 Sol公開 Astraに迫り低価格",
+      "summary_ja": "OpenAIはGPT-6.1 SolをDevDayで発表し、GPT-6 Astraにほぼ並ぶ性能をより低価格で提供するとした。ChatGPT WorkとCodexの有料利用者から使える。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "score": 80,
+      "commercial_score": 35,
       "product_keywords": [
-        "ChatGPT",
-        "Claude"
+        "ChatGPT"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米国家情報長官がホワイトハウスAI担当に",
-      "summary_ja": "トランプ大統領はクレイトン国家情報長官をホワイトハウスのAI担当に任命した。「超知能作業部会」を率い、120日以内にAIのリスクと機会に関する報告をまとめる。",
-      "source": "新華網",
-      "url": "https://news.qq.com/rain/a/20261004A062QP00",
-      "score": 84,
-      "commercial_score": 15,
-      "product_keywords": [
-        "AI政策"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "OpenAI安全担当の元社員「文化は壊れている」",
-      "summary_ja": "OpenAIで安全性を担当していた元社員がThe Atlanticに寄稿し、急速なモデル投入を優先する社内文化を批判した。業界の安全への姿勢が変わらなければ失敗が続くと警告している。",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
-      "score": 82,
-      "commercial_score": 15,
-      "product_keywords": [
-        "OpenAI"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Google、無料Gemini利用者を最小モデルへ移行",
-      "summary_ja": "Geminiの無料ユーザーは10月9日からFlashとProを使えなくなり、Flash-Liteのみになる。月4.99ドルのAI PlusでもProが外れ、上位プランとの差が広がる。",
-      "source": "Martin Cid Magazine",
-      "url": "https://www.martincid.com/technology-sv/gemini-free-users-flash-lite-only-october-9/",
-      "score": 80,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Gemini",
-        "Google AI Pro"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英最大のAIスパコン、電力不足で2030年以降に",
-      "summary_ja": "Nvidiaが出資するNscaleの英国最大のAIデータセンターは、電力供給が確保できず2027年の稼働予定が2030年以降にずれ込む見通しになった。英国のAIインフラ整備の課題が浮き彫りになった。",
-      "source": "TechRadar",
-      "url": "https://www.msn.com/en-us/news/other/nvidia-backed-neocloud-nscale-faces-delay-as-uks-largest-ai-supercomputer-cant-get-enough-power/ar-AA2dumE9",
-      "score": 80,
-      "commercial_score": 15,
-      "product_keywords": [
-        "AI data centre"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "米財務長官、米中AI安全通報メカニズムを提案へ",
-      "summary_ja": "ベッセント米財務長官は、AIの安全問題に備えて米中間の通報メカニズムを提案する考えを示した。エージェントの暴走や非国家主体によるAI悪用のリスクを何立峰副首相と協議したという。",
-      "source": "RTHK",
-      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1872607-20261004.htm",
-      "score": 80,
-      "commercial_score": 10,
-      "product_keywords": [
-        "AI安全"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "高市首相、Appleに生成AIの自殺防止策を要請",
-      "summary_ja": "高市首相は10月2日、Siri AIなど端末搭載の生成AIに自殺防止機能や安全対策を実装するようAppleに要請したとXで明らかにした。Apple側も政府との連携に前向きとされる。",
-      "source": "iPhone Mania",
-      "url": "https://iphone-mania.jp/apple-606953/",
+      "title_ja": "Gemini 4 Argon、Astra・Fable・Opusとの違い",
+      "summary_ja": "ITmedia AI＋がGoogleの新モデルGemini 4 Argonの性能評価を解説した。GPT-6 AstraやClaude Fable、Opusとの違いと一般提供時期にも触れている。",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
       "score": 78,
       "commercial_score": 30,
       "product_keywords": [
-        "Apple Intelligence",
-        "Siri"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Anthropic、1億ドルで1万人のAI技術者育成へ",
-      "summary_ja": "Anthropicは「Claude Frontier Academy」を立ち上げ、2027年末までに顧客企業の技術者1万人を育成すると発表した。投資額は1億ドルで、初期参加企業にはアクセンチュアなどが並ぶ。",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 76,
-      "commercial_score": 35,
-      "product_keywords": [
-        "Claude",
-        "Claude Code"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "スナク元首相、AIへの政府監督強化を訴え",
-      "summary_ja": "リシ・スナク元首相は寄稿で、相次ぐAIの安全問題を受けて政府による監督を強めるべきだと主張した。AI推進派の立場は変えずに規制の必要性を説いている。",
-      "source": "Yahoo News UK",
-      "url": "https://uk.news.yahoo.com/rishi-sunak-urges-greater-government-050000066.html",
-      "score": 74,
-      "commercial_score": 10,
-      "product_keywords": [
-        "AI safety"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ChatGPTのウェブ訪問数、3カ月連続で増加",
-      "summary_ja": "2026年前半に伸び悩んでいたChatGPTのウェブ訪問数が3カ月連続で増え、停滞を脱した。同時期にはClaudeやGeminiも利用者基盤を固めている。",
-      "source": "Forbes JAPAN",
-      "url": "https://forbesjapan.com/articles/detail/105956",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ChatGPT",
-        "Claude",
         "Gemini"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "SpaceX、Anthropicと大型AI計算資源契約",
-      "summary_ja": "SpaceXがAnthropic向けに大規模な計算資源を提供する契約を結んだ。ロケット事業に加え、データセンター貸し出しが収益の柱になりつつある。",
-      "source": "Barchart",
-      "url": "https://www.msn.com/en-us/technology/artificial-intelligence/spacex-bags-massive-ai-compute-deal-with-anthropic-what-that-means-for-spcx-stock/ar-AA2dtNs4",
-      "score": 70,
-      "commercial_score": 20,
+      "title_ja": "Google、最上位モデル「Gemini 4 Argon」を展開",
+      "summary_ja": "GoogleはAlphabetで最も高度なモデルGemini 4 Argonの提供を始めた。コーディングやサイバーセキュリティ、専門業務が強化された。",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "score": 78,
+      "commercial_score": 30,
       "product_keywords": [
-        "Anthropic",
-        "SpaceX"
+        "Gemini"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ブライアン・メイ、AIデータセンターに反対表明",
-      "summary_ja": "クイーンのブライアン・メイがマンチェスターのバーナム市長にAIデータセンター計画を止めるよう求めた。データセンターを「巨大な悪」と呼び、手遅れになる前に対抗すべきだと訴えた。",
-      "source": "AOL",
-      "url": "https://ca.news.yahoo.com/queen-brian-may-issues-warning-090715495.html",
-      "score": 70,
-      "commercial_score": 10,
+      "title_ja": "Google「Gemini 4 Argon」発表、他社最上位級を上回る",
+      "summary_ja": "GoogleはGemini 4シリーズの先駆けとなるGemini 4 Argonを発表した。GPT-6 AstraやClaude Fable 5.1を超える性能をうたう。",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/news/20261001-google-gemini-4-argon",
+      "score": 76,
+      "commercial_score": 30,
       "product_keywords": [
-        "AI data centre"
+        "Gemini"
       ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "OpenAI「GPT-6.1 Sol」、Astra級を5分の1の料金で",
+      "summary_ja": "OpenAIはGPT-6.1 Solを公開し、GPT-6 Astraに迫る性能を5分の1の料金で提供するとした。先代モデルからわずか1週間での投入となった。",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+      "score": 74,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Google、OpenAI・Anthropic対抗のGemini 4を披露",
+      "summary_ja": "GoogleはOpenAIとAnthropicへの待望の回答となるGemini 4を発表した。フロンティアAI競争が一段と激しくなる。",
+      "source": "Axios",
+      "url": "https://axios.com/2026/09/30/google-gemini-4",
+      "score": 72,
+      "commercial_score": 25,
+      "product_keywords": [
+        "Gemini"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英AI安全研究所、最新モデルの試験が阻まれる恐れ",
+      "summary_ja": "OpenAIとAnthropicが、ホワイトハウスの要請で最新モデルを英AISIに渡さない可能性があると報じられた。英国の試験体制に影響しうる。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/uk-ai-security-institute-may-be-blocked-from-testing-latest-openai-and-anthropic-models",
+      "score": 72,
+      "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "Anthropic、1億ドルで前線技術者1万人育成",
-      "summary_ja": "AnthropicはClaude Frontier Academyに1億ドルを投じ、2027年末までに約1万人の技術者を育成すると発表した。中国メディアも人材争奪の動きとして報じている。",
-      "source": "央広網",
-      "url": "https://news.qq.com/rain/a/20261004A02O4600",
-      "score": 70,
-      "commercial_score": 25,
-      "product_keywords": [
-        "Claude"
-      ],
+      "title_ja": "中国科学院、AI中心の5カ年計画を発表",
+      "summary_ja": "中国科学院は2026〜2030年の新たな5カ年計画を公表した。集積回路やAI、量子技術などを重点分野に据える。",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/science/article/3369084/china-targets-ai-and-frontier-tech-newly-unveiled-innovation-blueprint",
+      "score": 72,
+      "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "Pixel 11でGeminiが代わりに電話する新機能",
-      "summary_ja": "GoogleはPixel 11シリーズ向けに、Geminiがユーザーの代わりに店舗へ電話をかける「Call for Me」を発表した。当面は米国の英語のみで提供される。",
-      "source": "WIRED.jp",
-      "url": "https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "score": 66,
-      "commercial_score": 55,
+      "title_ja": "OpenAI、24時間働くエージェント「dots」発表",
+      "summary_ja": "OpenAIはGPT-6 Astraを搭載した常時稼働エージェントdotsを発表した。クラウド上で自律的にタスクをこなす。",
+      "source": "ITmedia AI＋",
+      "url": "https://itmedia.co.jp/aiplus/article/2609/30/2000001864",
+      "score": 70,
+      "commercial_score": 35,
       "product_keywords": [
-        "Pixel 11",
-        "Gemini"
+        "ChatGPT"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "BT、英国企業向けAIツール群を提供開始",
-      "summary_ja": "BT Businessは、英国の企業がAIを安全かつ簡単に使えるようにするAIツール群を発売した。AI受付や業務支援など、中小企業への導入を狙う。",
-      "source": "Mobile Europe",
-      "url": "https://www.mobileeurope.co.uk/bt-business-ai-suite/",
-      "score": 64,
+      "title_ja": "国慶連休に広がる中国のAI活用、CGTNが紹介",
+      "summary_ja": "CGTNは国慶節の連休で観光や消費の場面にAIが浸透していると伝えた。AI歩行認識で動く外骨格デバイスも登山客に使われている。",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com/news/2026-10-04/Holiday-experiences-highlight-practical-power-of-China-s-AI-innovation-1QXLHVxxuHS/p.html",
+      "score": 70,
+      "commercial_score": 25,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "OpenAI、常時稼働エージェント「Dots」を投入",
+      "summary_ja": "OpenAIは専用のクラウドPCを持ち、割り当てた作業を進める常時稼働エージェントDotsを発表した。GPT-6 Astraを搭載する。",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/29/openai-dots-agent",
+      "score": 68,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英政府、AI「キルスイッチ」を否定",
+      "summary_ja": "英政府は緊急時に閣僚がAIを停止できる法的キルスイッチ構想を退けた。技術界の指導者らは慎重な姿勢を促している。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/government-rules-out-ai-kill-switch-as-tech-leaders-urge-caution",
+      "score": 68,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "GPT-6 Astraの超高速モード、月8.4万円のProプラン",
+      "summary_ja": "OpenAIはGPT-6 Astraを8倍速で動かすUltrafastモードと、上限を増やす月額8.4万円のPro 500プランを導入した。",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260930-gpt-6-astra-ultrafast",
+      "score": 66,
       "commercial_score": 45,
       "product_keywords": [
-        "BT Business AI"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "香港の生成AI「香港仔」、広東語と生活に精通",
-      "summary_ja": "香港科技大学が中心の香港生成AI研究開発センター（HKGAI）が開発する大規模モデル「香港仔」が紹介された。広東語や香港の生活場面に特化した点が強みだ。",
-      "source": "新浪財経",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpf3870266.shtml",
-      "score": 60,
-      "commercial_score": 30,
-      "product_keywords": [
-        "HKGAI"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ChatGPTが再び利用制限リセット、Sol遅延で",
-      "summary_ja": "OpenAIはGPT-6.1 Solの動作遅延を受け、日本時間10月3日午前2時にChatGPTとCodexの利用上限をリセットした。担当者がXで前日に予告していた。",
-      "source": "PC Watch",
-      "url": "https://www.msn.com/ja-jp/technology/tech-companies/%E3%81%BE%E3%81%9Fchatgpt%E3%81%8C%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-10%E6%9C%883%E6%97%A52%E6%99%82%E3%81%AB-gpt-6-1-sol%E5%8B%95%E4%BD%9C%E9%81%85%E5%BB%B6%E3%81%AE%E3%81%8A%E8%A9%AB%E3%81%B3/ar-AA2dpWvi",
-      "score": 58,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ChatGPT",
-        "Codex"
+        "ChatGPT Pro"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英主要ロースクール、法務AI「Legora」を採用",
-      "summary_ja": "キングス・カレッジ・ロンドンなど英国のロースクール3校が、法律事務所向けAIのLegoraを授業に取り入れた。学生が実務と同じツールに触れられるようになる。",
-      "source": "Legal Cheek",
-      "url": "https://www.legalcheek.com/2026/10/leading-uk-law-schools-adopt-legora-ai/",
-      "score": 58,
-      "commercial_score": 30,
-      "product_keywords": [
-        "Legora"
-      ],
+      "title_ja": "3社、金融業界FINRA型のAI安全規制機関を計画",
+      "summary_ja": "Google、OpenAI、Anthropicが最先端AI向けの安全基準を定める共同機関の設立を計画している。年内か2027年初頭の発足を目指す。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/28/google-openai--anthropic-plan-their-own-finra-style-ai-safety-regulator/",
+      "score": 66,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英政府、オープンソースAI開発者に計算資源支援",
+      "summary_ja": "英政府は50万ポンド超の計算資源支援となる基金を創設し、若手開発者10人の諮問委員会も設ける。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/uk-backs-open-source-ai-builders",
+      "score": 64,
+      "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ブレナム宮殿、AIツアーガイドアプリ導入へ",
-      "summary_ja": "世界遺産のブレナム宮殿が、2027年春にAIが案内するツアーガイドアプリを導入する。来場者の質問に応じて解説する仕組みになる。",
-      "source": "Yahoo News UK",
-      "url": "https://www.msn.com/en-gb/news/other/blenheim-palace-to-launch-ai-powered-tour-guide-app/ar-AA2dwbVB",
-      "score": 52,
-      "commercial_score": 25,
-      "product_keywords": [
-        "AI tour guide"
-      ],
+      "title_ja": "AIによる雇用喪失、英国が他国より深刻と報告",
+      "summary_ja": "報告書は、AI起因の雇用喪失が英国で同水準の国々より大きいと指摘した。労働市場への影響が懸念される。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/ai-driven-job-losses-hitting-uk-harder-than-peers",
+      "score": 62,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "議員ら「英規制当局にAIリスクを止める権限なし」",
+      "summary_ja": "英議員は規制当局にAIリスクを止める権限が不足していると指摘した。AI規制の抜本的強化を求める声が出ている。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/legislation-regulation/uk-regulators-lack-power-to-stop-ai-risks",
+      "score": 60,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "香港、AI時代の若手雇用へ4段階の人材育成案",
+      "summary_ja": "香港当局はAIによる入門職の減少に備え、4段階の人材育成の道筋を示した。若手の雇用への打撃を和らげるねらい。",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369751/hong-kong-outlines-four-step-ai-talent-ladder-offset-entry-level-job-shock",
+      "score": 60,
+      "commercial_score": 5,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "新浪AI熱点時報 10月4日16時",
+      "summary_ja": "新浪が10月4日16時時点のAI関連トピックをまとめた。ロボットやモデル関連の話題が並ぶ。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908psqi.html",
+      "score": 50,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

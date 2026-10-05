@@ -1,0 +1,33 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
+  "stories": [
+    {
+      "title_ja": "Google、Gemini向けノートPC「Googlebook」を米国発売",
+      "summary_ja": "Googleの新ノートPCブランドGooglebookが米国で発売された。Acer、ASUS、Dell、HP、Lenovoの5モデルが並ぶ。",
+      "source": "JetStream",
+      "url": "https://jetstream.blog/2026/10/04/googlebook-launch-us/",
+      "score": 74,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Googlebook",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "aiwa、立体音響タブレット「aiwa tab AS11」",
+      "summary_ja": "aiwaが8Way Audioを初搭載したタブレットaiwa tab AS11を発表した。10月1日からMakuakeで先行販売中。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000034.000182591.html",
+      "score": 50,
+      "commercial_score": 75,
+      "product_keywords": [
+        "タブレット"
+      ]
+    }
+  ]
+}

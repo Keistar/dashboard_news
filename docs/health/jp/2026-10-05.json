@@ -1,0 +1,52 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
+  "stories": [
+    {
+      "title_ja": "ノーベル医学・生理学賞、5日発表",
+      "summary_ja": "スウェーデンのカロリンスカ研究所が日本時間5日夕に発表する。日本勢では森和俊氏や睡眠研究の柳沢正史氏が有力視される。",
+      "source": "日本経済新聞",
+      "url": "https://nikkei.com/article/DGXZQOSG301NO0Q6A930C2000000",
+      "score": 80,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "インフルエンザ、今季は早期に流行入り",
+      "summary_ja": "インフルエンザの流行入りは例年より早く、感染症法施行以来2番目の早さとされる。高齢者の定期接種は10月1日から始まった。",
+      "source": "大阪府",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51206.html",
+      "score": 72,
+      "commercial_score": 40,
+      "product_keywords": [
+        "インフルエンザ マスク"
+      ]
+    },
+    {
+      "title_ja": "筋トレは有酸素より睡眠を延ばす可能性",
+      "summary_ja": "米心臓協会の会議で、1年間の筋トレで睡眠が平均40分延びたとの予備研究が示された。有酸素運動のみの群は約23分の延びだった。",
+      "source": "CNN.co.jp",
+      "url": "https://www.cnn.co.jp/fringe/35187172.html",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ダンベル",
+        "プロテイン"
+      ]
+    },
+    {
+      "title_ja": "早寝の人は翌日の活動量が約30分多い",
+      "summary_ja": "約2万人の1年間の記録から、早寝の人は遅寝の人より中高強度の活動が約30分長いと判明した。睡眠と運動の関係を示す研究。",
+      "source": "Newsweek日本版",
+      "url": "https://www.newsweekjapan.jp/articles/-/18655",
+      "score": 56,
+      "commercial_score": 45,
+      "product_keywords": [
+        "スマートウォッチ 睡眠"
+      ]
+    }
+  ]
+}

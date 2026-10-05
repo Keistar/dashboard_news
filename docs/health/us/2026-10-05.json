@@ -1,0 +1,45 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
+  "stories": [
+    {
+      "title_ja": "GLP-1と男性の薄毛の関連を示す研究",
+      "summary_ja": "NYU Langoneの研究で、遺伝的に薄毛リスクのある男性はGLP-1薬の使用で脱毛リスクが約7%上がる可能性が示された。薬が原因とは確定していない。",
+      "source": "Washington Post",
+      "url": "https://washingtonpost.com/wellness/2026/10/03/new-study-suggests-possible-connection-between-glp-1s-hair-loss-men",
+      "score": 78,
+      "commercial_score": 55,
+      "product_keywords": [
+        "育毛剤"
+      ]
+    },
+    {
+      "title_ja": "チルゼパチドが高用量セマグルチドより減量効果",
+      "summary_ja": "EASDで発表された間接比較で、チルゼパチドは高用量セマグルチドより平均3〜4.5%多く減量した。ただし直接比較試験はなく仮説段階。",
+      "source": "Pharmacy Times",
+      "url": "https://www.pharmacytimes.com/view/tirzepatide-linked-to-more-weight-loss-than-semaglutide-7-2-mg",
+      "score": 76,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "リリーの経口GLP-1が糖尿病・心血管リスク低減",
+      "summary_ja": "リリーの経口GLP-1薬Foundayoは、2型糖尿病と心血管疾患の予測長期リスクを大きく下げることと関連したと発表された。",
+      "source": "Eli Lilly",
+      "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-was-associated",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "米医学団体、今秋のインフル・コロナ接種を推奨",
+      "summary_ja": "米国の主要医学団体が、6か月以上のほぼ全員にインフルエンザ接種を勧める指針を出した。政権の助言の変化による混乱の緩和が狙い。",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/top-u-s-doctors-offer-updated-flu-and-covid-vaccine-recommendations-aiming-to-ease-confusion",
+      "score": 68,
+      "commercial_score": 35
+    }
+  ]
+}
