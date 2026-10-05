@@ -1,0 +1,50 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:36+09:00",
+  "stories": [
+    {
+      "title_ja": "英AI安全研究所、最新モデルの試験が阻まれる恐れ",
+      "summary_ja": "OpenAIとAnthropicが、ホワイトハウスの要請で最新モデルを英AISIに渡さない可能性があると報じられた。英国の試験体制に影響しうる。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/uk-ai-security-institute-may-be-blocked-from-testing-latest-openai-and-anthropic-models",
+      "score": 72,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "英政府、AI「キルスイッチ」を否定",
+      "summary_ja": "英政府は緊急時に閣僚がAIを停止できる法的キルスイッチ構想を退けた。技術界の指導者らは慎重な姿勢を促している。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/government-rules-out-ai-kill-switch-as-tech-leaders-urge-caution",
+      "score": 68,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "英政府、オープンソースAI開発者に計算資源支援",
+      "summary_ja": "英政府は50万ポンド超の計算資源支援となる基金を創設し、若手開発者10人の諮問委員会も設ける。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/uk-backs-open-source-ai-builders",
+      "score": 64,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "AIによる雇用喪失、英国が他国より深刻と報告",
+      "summary_ja": "報告書は、AI起因の雇用喪失が英国で同水準の国々より大きいと指摘した。労働市場への影響が懸念される。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/ai-driven-job-losses-hitting-uk-harder-than-peers",
+      "score": 62,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "議員ら「英規制当局にAIリスクを止める権限なし」",
+      "summary_ja": "英議員は規制当局にAIリスクを止める権限が不足していると指摘した。AI規制の抜本的強化を求める声が出ている。",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/legislation-regulation/uk-regulators-lack-power-to-stop-ai-risks",
+      "score": 60,
+      "commercial_score": 5
+    }
+  ]
+}

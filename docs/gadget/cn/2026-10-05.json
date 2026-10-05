@@ -1,0 +1,32 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
+  "stories": [
+    {
+      "title_ja": "新浪数码熱点時報 10月4日10時",
+      "summary_ja": "新浪が10月4日10時時点のデジタル分野の話題をまとめた。iPhoneの電池や持続時間が話題に上がる。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908prne.html",
+      "score": 50,
+      "commercial_score": 40,
+      "product_keywords": [
+        "iPhone"
+      ]
+    },
+    {
+      "title_ja": "新浪数码熱点時報 10月4日22時",
+      "summary_ja": "新浪が10月4日22時時点のデジタル話題をまとめた。メモリやiPhoneの充電器の不具合が取り上げられる。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ptsm.html",
+      "score": 48,
+      "commercial_score": 40,
+      "product_keywords": [
+        "iPhone"
+      ]
+    }
+  ]
+}

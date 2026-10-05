@@ -1,0 +1,73 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:36+09:00",
+  "stories": [
+    {
+      "title_ja": "元OpenAI安全担当「文化は壊れている」と寄稿",
+      "summary_ja": "OpenAIで安全性報告書を統括した従業員が退社し、同社の文化は壊れていると寄稿した。急速なモデル投入と安全性の両立が改めて問われている。",
+      "source": "ITmedia NEWS",
+      "url": "https://itmedia.co.jp/news/article/2610/04/2000001986",
+      "score": 80,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "Gemini 4 Argon、Astra・Fable・Opusとの違い",
+      "summary_ja": "ITmedia AI＋がGoogleの新モデルGemini 4 Argonの性能評価を解説した。GPT-6 AstraやClaude Fable、Opusとの違いと一般提供時期にも触れている。",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
+      "score": 78,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "Google「Gemini 4 Argon」発表、他社最上位級を上回る",
+      "summary_ja": "GoogleはGemini 4シリーズの先駆けとなるGemini 4 Argonを発表した。GPT-6 AstraやClaude Fable 5.1を超える性能をうたう。",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/news/20261001-google-gemini-4-argon",
+      "score": 76,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Gemini"
+      ]
+    },
+    {
+      "title_ja": "OpenAI「GPT-6.1 Sol」、Astra級を5分の1の料金で",
+      "summary_ja": "OpenAIはGPT-6.1 Solを公開し、GPT-6 Astraに迫る性能を5分の1の料金で提供するとした。先代モデルからわずか1週間での投入となった。",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+      "score": 74,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title_ja": "OpenAI、24時間働くエージェント「dots」発表",
+      "summary_ja": "OpenAIはGPT-6 Astraを搭載した常時稼働エージェントdotsを発表した。クラウド上で自律的にタスクをこなす。",
+      "source": "ITmedia AI＋",
+      "url": "https://itmedia.co.jp/aiplus/article/2609/30/2000001864",
+      "score": 70,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title_ja": "GPT-6 Astraの超高速モード、月8.4万円のProプラン",
+      "summary_ja": "OpenAIはGPT-6 Astraを8倍速で動かすUltrafastモードと、上限を増やす月額8.4万円のPro 500プランを導入した。",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260930-gpt-6-astra-ultrafast",
+      "score": 66,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ChatGPT Pro"
+      ]
+    }
+  ]
+}

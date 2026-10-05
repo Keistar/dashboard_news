@@ -1,0 +1,38 @@
+{
+  "genre": "pet",
+  "genre_label_ja": "ペット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
+  "stories": [
+    {
+      "title_ja": "米国で初めて子猫を飼う世帯が子犬を上回る",
+      "summary_ja": "Packaged Factsの統計で、米国では初めて子猫を飼う世帯が子犬を飼う世帯を上回った。子犬と子猫の比率は2026年に0.94対1となり、猫飼い主の約半数は業界が猫向けに力を入れていないと感じている。",
+      "source": "Washington Post",
+      "url": "https://washingtonpost.com/opinions/interactive/2026/10/04/what-new-cat-ownership-data-says-about-americans",
+      "score": 82,
+      "commercial_score": 70,
+      "product_keywords": [
+        "猫 おもちゃ",
+        "キャットフード"
+      ]
+    },
+    {
+      "title_ja": "保護施設の譲渡キャンペーン、956頭が新しい家へ",
+      "summary_ja": "バージニア州のWSLSが連携した12の保護団体で、1か月間の譲渡キャンペーンにより956件の譲渡が成立した。内訳は猫651匹、犬297匹、その他8匹だった。",
+      "source": "WSLS 10",
+      "url": "https://wsls.com/news/local/2026/10/02/clear-the-shelters-recap",
+      "score": 62,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "オレンジ郡の動物保護施設、5日から受け入れ縮小",
+      "summary_ja": "フロリダ州オレンジ郡の動物サービス課は、新施設の建設に伴い10月5日から約1週間、動物の受け入れ手続きを一時的に変更する。飼い主は事前の確認が必要になる。",
+      "source": "Orange County Government",
+      "url": "https://newsroom.ocfl.net/media-advisories/press-releases/2026/09/orange-county-animal-services-adjusts-pet-intake-during-shelter-construction",
+      "score": 45,
+      "commercial_score": 15
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:10:37+09:00",
+  "stories": [
+    {
+      "title_ja": "iPhone 18 Pro発売、Galaxy S26とPixel 11は値下げ",
+      "summary_ja": "iPhone 18 Pro/Pro Maxの発売に合わせ、Galaxy S26とPixel 11シリーズが値下がりしている。",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585.php",
+      "score": 66,
+      "commercial_score": 80,
+      "product_keywords": [
+        "iPhone 18 Pro",
+        "Galaxy S26"
+      ]
+    },
+    {
+      "title_ja": "PlayStation 2のセキュリティチップを解析",
+      "summary_ja": "初代PlayStation 2のセキュリティチップがリバースエンジニアリングされたと報じられた。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/",
+      "score": 50,
+      "commercial_score": 20,
+      "product_keywords": [
+        "PlayStation"
+      ]
+    },
+    {
+      "title_ja": "Apple、10月にイベント開催か 7製品が候補",
+      "summary_ja": "MacRumorsは10月のAppleイベントで発表が見込まれる7製品を整理した。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/22/apple-event-october-2026-what-to-expect/",
+      "score": 58,
+      "commercial_score": 60,
+      "product_keywords": [
+        "Apple"
+      ]
+    }
+  ]
+}
