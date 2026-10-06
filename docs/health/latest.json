@@ -1,208 +1,241 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T18:00:52+09:00",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:48:00+09:00",
   "stories": [
     {
-      "title_ja": "若い世代でがんの増加が速まる、国際研究",
-      "summary_ja": "英国・米国・オランダのデータを調べた研究者が、7種のがんで若年発症の大幅な増加を確認した。生活習慣への警告が出ている。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds",
-      "score": 78,
-      "commercial_score": 5,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ラスカー賞の柳沢教授、日本人の睡眠不足を危惧",
-      "summary_ja": "2026年のラスカー基礎医学研究賞に選ばれた筑波大の柳沢正史教授が、日本人の恒常的な睡眠不足に警鐘を鳴らした。AI時代に人にしかできない仕事は、十分に眠った脳でしかできないと語る。",
+      "title_ja": "日本医師会、健康食品をセルフケアの手段と位置づけ",
+      "summary_ja": "日本医師会が公表した健康食品安全対策委員会の報告書に、健康食品は適切に使えばセルフケアを支える手段になりうるとの記述が盛り込まれました。これまで医療と対立的に見てきた健康食品への姿勢を見直した形で、その背景が解説されています。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/c9686f76d0351d39f9c2ae8ee26c9f69864d67d8",
-      "score": 74,
-      "commercial_score": 30,
+      "url": "https://news.yahoo.co.jp/articles/da598878815c5db1022d4bb91375df9d858d2dfd",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "健康食品",
+        "サプリメント"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "寝るだけで賞金222万円、90分の「睡眠レース」",
-      "summary_ja": "眠りの質を競う90分の「睡眠レース」が5日に開かれた。勝敗を決めるのは、どれだけ質の高い眠りを取れたか。優勝賞金は222万円。",
+      "title_ja": "米アマゾンのセールで家庭用ジム用品が最大50%引き",
+      "summary_ja": "米メンズヘルス誌の編集者が、アマゾンの「Prime Big Deal Days」で値下げされているフィットネス用品を紹介しています。家庭用ジム機器が最大50%引きになっているとしています。",
+      "source": "Men's Health",
+      "url": "https://www.menshealth.com/fitness/a70626969/best-fitness-deals-2026/",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ダンベル",
+        "トレーニングベンチ",
+        "ルームランナー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "眠りの質を競う90分の「睡眠レース」が開催",
+      "summary_ja": "寝るだけで優勝賞金222万円という、眠りを競うレースが5日に行われました。勝敗はどれだけ質の高い眠りを取れたかで決まり、90分間の様子が伝えられています。",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/1b04a1e97eae5d9d28e49ced98b582ef87e1c820",
-      "score": 72,
+      "score": 75,
       "commercial_score": 50,
       "product_keywords": [
         "睡眠グッズ",
-        "枕"
+        "アイマスク"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "NHSの子どもの4人に1人、治療を1年以上待つ",
-      "summary_ja": "2026年7月時点で、NHSの地域保健サービスの待機リストに載る子どもの26.7%が52週以上待っていた。",
-      "source": "lbc.co.uk",
-      "url": "https://www.lbc.co.uk/article/children-year-long-waits-nhs-treatment-5HjdjRf_2/",
-      "score": 72,
-      "commercial_score": 5,
+      "title_ja": "短時間の「運動スナック」、運動不足の大人に効果の可能性",
+      "summary_ja": "運動不足の大人994人を含む22件の研究をまとめた分析で、短い運動をこまめに行う「エクササイズスナック」が、最大酸素摂取量や血糖値、中性脂肪の改善と関連していたと報告されました。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261006/Short-bursts-of-exercise-may-improve-fitness-and-blood-sugar-in-sedentary-adults.aspx",
+      "score": 75,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ステッパー",
+        "踏み台昇降"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "暑さ・明るさ・騒音と睡眠の関係を若者372人で調査",
+      "summary_ja": "平均22歳の若者372人を14日間調べ、寝室が暑い、明るい、うるさいといった環境で睡眠時間と質がどう違うかを分析した調査結果です。寝室環境を見直すきっかけになりそうです。",
+      "source": "SmartNews",
+      "url": "https://www.smartnews.com/news/article/4998227202005799444-%E5%AF%9D%E5%AE%A4%E3%81%8C%E3%80%8C%E6%9A%91%E3%81%84%E3%83%BB%E6%98%8E%E3%82%8B%E3%81%84%E3%83%BB%E3%81%86%E3%82%8B%E3%81%95%E3%81%84%E3%80%8D%E3%81%A8%E7%9D%A1%E7%9C%A0%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%EF%BC%9F%20%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "遮光カーテン",
+        "耳栓",
+        "アイマスク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英ブリストル、前立腺がん患者向け運動プログラム",
+      "summary_ja": "英国で、がん患者向けの運動プログラムに参加した前立腺がんの男性が体力を取り戻しつつあると紹介されています。参加者は、弱って落ち込んだ気持ちがなくなったと話しています。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2d3y813ywo",
+      "score": 70,
+      "commercial_score": 20,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "10代の体力が、成人後のうつのリスクを下げる可能性",
-      "summary_ja": "10代のときに体力があると、大人になってからのうつを防ぐ可能性があるとする研究が発表された。",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/2026/10/06/could-teenage-fitness-shape-your-mental-health-decades-later-new-research-suggests-it-migh",
+      "title_ja": "中国で医療レベルの健康記録と長時間電池のスマートウォッチ比較",
+      "summary_ja": "心拍や血中酸素、心電図の傾向を日常的に確認したい人に向けて、健康の記録とバッテリーの持ちを両立したスマートウォッチの選び方を紹介しています。",
+      "source": "中关村在线手机",
+      "url": "https://mobile.zol.com.cn/1257/12571166.html",
       "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スマートウォッチ 心電図",
+        "スマートウォッチ 血中酸素"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "睡眠学者・柳沢正史氏「寝だめはできない」",
+      "summary_ja": "睡眠学の第一人者である柳沢正史教授が、休日に長く眠れてしまうのは寝不足の表れだとして、寝だめはできない理由を説明しています。著書『世界最高の睡眠学が教える 睡眠の正解』の内容から紹介された記事です。",
+      "source": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/-/400099",
+      "score": 65,
+      "commercial_score": 45,
+      "product_keywords": [
+        "睡眠の正解 柳沢正史"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "女性の健康研究の拠点、英バーミンガムに第1号",
+      "summary_ja": "女性の健康に関する格差を縮めることを目指すNHSの研究拠点6か所のうち、最初の1か所がバーミンガムに決まりました。運営する臨床研究会社は、今後3年で最大30人を雇用する計画です。",
+      "source": "Trending Now Infrastructure",
+      "url": "https://www.infrastructure-now.co.uk/article/493677/birmingham-lands-first-of-six-nhs-research-sites-aimed-at-closing-womens-health-gap?utm_source=civilengineering&utm_medium=newsfeed&utm_campaign=civilengineering-articleId-493677",
+      "score": 65,
+      "commercial_score": 20,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の車で「健康座舱」が競争の焦点に",
+      "summary_ja": "中国の自動車メーカーの間で、車内の空気浄化や酸素供給、健康状態の見守りといった機能が差別化の舞台になっています。華為（Huawei）系の鴻蒙智行や小鵬などの取り組みと、3つの技術の流れが解説されています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_7880068201_1d5b04c6906802jdss.html?from=auto",
+      "score": 65,
+      "commercial_score": 50,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "インドで雑穀ミレットの栽培と市場が拡大",
+      "summary_ja": "インドでヒエやアワ、キビなどの雑穀「ミレット」が注目され、政府も普及を後押ししています。干ばつや高温に強く、健康志向の高まりを背景に市場規模も広がっています。",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB056PZ0V01C26A0000000/",
+      "score": 60,
+      "commercial_score": 60,
+      "product_keywords": [
+        "雑穀",
+        "ミレット",
+        "キビ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "運動をやめると体はどう変わる？専門家が時系列で解説",
+      "summary_ja": "運動の専門家や医師が、トレーニングをやめてから数週間から数か月の間に、体の主な機能に何が起きるかを解説しています。",
+      "source": "Outside Magazine",
+      "url": "https://www.outsideonline.com/health/training-performance/timeline-stop-working-out-weeks-months/",
+      "score": 60,
       "commercial_score": 30,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "見守り機器の同意を巡り、NHSの10トラストを照会",
-      "summary_ja": "患者の病室で呼吸や脈拍を見守る赤外線機器の同意の扱いを巡り、NHSの10のトラストが照会された。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o",
-      "score": 70,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "女性は全身で男性より痛みを抱える、世界規模の研究",
-      "summary_ja": "世界の人々の痛みを生涯にわたって調べた研究で、女性は全身で男性より痛みが多いと分かった。差が最も急に広がるのは55歳まで。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/05/women-more-pain-than-men-global-study",
-      "score": 68,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "全粒穀物には心臓に良い「適量」がある",
-      "summary_ja": "Washington Postが、心臓の健康にとって全粒穀物には最適な摂取量があるとする研究を紹介した。",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2026/10/05/study-finds-whole-grain-sweet-spot-heart-health/",
-      "score": 66,
-      "commercial_score": 35,
-      "product_keywords": [
-        "全粒粉",
-        "オートミール"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "NHSのPalantir契約に抗議、病院前でデモ",
-      "summary_ja": "英サセックスの活動家が、NHSに米Palantirとの3億3000万ポンドのデータ契約をやめるよう求めて、病院の前で抗議した。",
-      "source": "The Argus",
-      "url": "https://www.theargus.co.uk/news/26603249.sussex-campaigners-call-nhs-drop-palantir-contract/",
-      "score": 64,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "夜型の人は障害年金が必要になる可能性が70%高い",
-      "summary_ja": "夜型の人は、障害年金が必要になる可能性が70%高いとする研究結果をScienceAlertが伝えた。",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/night-owls-are-70-more-likely-to-need-a-disability-pension-study-suggests",
-      "score": 62,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "使い捨て服「次抛衣」に健康リスク",
-      "summary_ja": "休暇の旅行で写真映えを狙い、数元から十数元の使い捨て服を買う若者が増えている。中国環境網はその健康上のリスクを指摘した。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/2026-10-06/detail-iniufxcq7248011.d.html?vt=4&cid=76675&node_id=76675",
-      "score": 62,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "認知機能の低下を70%抑制、「脳の健康」を高める5つの方法",
-      "summary_ja": "脳の健康を高める5つの方法を紹介する記事。国連総会でも「脳機能資本（ブレインキャピタル）」が焦点になっていると伝えている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/6d13e525f9f1eccdac306294091736465277f439",
+      "title_ja": "NHS型の糖尿病予防プログラム、費用対効果ありと試算",
+      "summary_ja": "糖尿病予備群の大人を対象に、英NHSイングランドの方式にならった生活習慣改善プログラムを行った場合を試算した研究です。費用対効果があり、医療費の節約にもつながる可能性が高いとしています。",
+      "source": "Drug Topics",
+      "url": "https://www.drugtopics.com/view/model-finds-nhs-england-style-diabetes-prevention-program-cost-effective",
       "score": 60,
       "commercial_score": 25,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "バーミンガムに女性の健康格差を縮めるNHS研究拠点",
-      "summary_ja": "臨床研究のSelene Clinical Researchが、女性の健康格差の解消を目指すNHSの研究拠点6カ所の最初の1つをバーミンガムに開いた。3年で最大30人を雇う。",
-      "source": "TheBusinessDesk.com",
-      "url": "https://www.thebusinessdesk.com/westmidlands/news/2117714-birmingham-lands-first-of-six-nhs-research-sites-aimed-at-closing-womens-health-gap",
-      "score": 60,
-      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "スコットランドのNHSアプリ、利用低迷に批判",
-      "summary_ja": "スコットランドのNHSアプリ「MyCare.scot」は6月の公開以来2万2206回しかダウンロードされていない。開発費は1700万ポンドで、批判が出ている。",
-      "source": "Med-Tech Insights",
-      "url": "https://med-techinsights.com/2026/10/05/low-uptake-for-scottish-nhs-app-draws-criticism-amid-debates-about-scalability/",
+      "title_ja": "女性向けスマートウォッチ、サイズ・色・健康機能で選ぶ",
+      "summary_ja": "女性がスマートウォッチを選ぶときのポイントとして、手首の太さに合うサイズ、服装に合う色、健康機能の3点を挙げて解説しています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_1747383115_6826f34b02003l8bk.html?from=digit",
       "score": 60,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ジャガイモを主食にすれば痩せる？ デマを検証",
-      "summary_ja": "米や麺をジャガイモに替え、半年で体重が25斤（12.5kg）減ったという話について、全国ネットデマ対策プラットフォームが検証した。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/2026-10-06/detail-iniufxcp5872297.d.html?vt=4&cid=76675&node_id=76675",
-      "score": 58,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "山陰合同銀行、女性の健康配慮で中国・四国初の認定",
-      "summary_ja": "女性が活躍できる職場づくりや健康への配慮に取り組む事業者を国が認定する制度で、松江市の山陰合同銀行が中国・四国地方で初めて認定された。",
-      "source": "NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55020",
-      "score": 56,
-      "commercial_score": 5,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "AIによる心のケア、3つの段階を経て進化",
-      "summary_ja": "大規模言語モデルのメンタルヘルス分野での進化を、リスク検出の道具から共感する対話相手、記憶を持つ長期の伴走者へと3段階で整理した。",
-      "source": "科技行者",
-      "url": "https://www.techwalker.com/2026/1006/3201122.shtml",
-      "score": 56,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "国慶節特集、室内でできる科学的なトレーニング",
-      "summary_ja": "新華網が国慶節の休み向けに、室内で続けられる運動のやり方を紹介した。",
-      "source": "新华网",
-      "url": "http://www.xinhuanet.com/20261006/325012fbb8434e4fb40fa391107a1c2e/c.html",
-      "score": 55,
-      "commercial_score": 40,
+      "commercial_score": 80,
       "product_keywords": [
-        "ヨガマット",
-        "トレーニング器具"
+        "スマートウォッチ レディース"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "銀川で国慶節の運動ブーム",
-      "summary_ja": "国慶節の休み中、寧夏の銀川では各地の運動施設に多くの市民が集まった。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1084356697_362042",
-      "score": 50,
-      "commercial_score": 15,
+      "title_ja": "タマディック、サウナ付きの新オフィスを豊田に開設",
+      "summary_ja": "タマディックがトヨタの近くに「豊田オフィス Mobius Park」を新設しました。エンジニアが技術力を発揮しながら健康に働くことをコンセプトに掲げ、サウナも備えています。",
+      "source": "日経クロステック（xTECH）",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092400005/?ST=singleview",
+      "score": 55,
+      "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "運動中の脇腹の痛み、原因と対処法を専門家が解説",
+      "summary_ja": "運動中に起きる脇腹の痛みについて、医師が原因や予防のコツ、痛みが出たときの対処法を説明しています。医療機関を受診すべき目安にも触れています。",
+      "source": "Prevention",
+      "url": "https://www.prevention.com/fitness/fitness-tips/a70341850/side-stitch-causes/",
+      "score": 55,
+      "commercial_score": 25,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英ウォーターサイドに無料の健康チェックバス",
+      "summary_ja": "英国のウォーターサイド地域で、NHSのサービスを無料で地域に届ける移動式の健康ユニットが運行を始めました。健康チェックや心身のサポートを受けられます。",
+      "source": "Daily Echo",
+      "url": "https://www.dailyecho.co.uk/news/26606342.waterside-health-bus-brings-free-nhs-services-community/",
+      "score": 55,
+      "commercial_score": 10,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ダンベル型の水筒が中国で話題に",
+      "summary_ja": "中国の女優・李一桐さんが使うダンベルの形をした水筒が話題になっています。見た目はトレーニング器具ながら、実際は水を飲むためのボトルです。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5910074034_m1604492b203301cq12.html",
+      "score": 55,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ダンベル 水筒",
+        "ダンベルボトル"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "新華網、国慶節向けの室内トレーニングを紹介",
+      "summary_ja": "新華網の連載「科学健身周周練」が国慶節の特集として、室内で続けられるトレーニングを取り上げています。",
+      "source": "新华网",
+      "url": "https://www.news.cn/sports/20261006/e020d5e096cb46f795a67334b8dc6675/c.html",
+      "score": 45,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ヨガマット",
+        "トレーニングマット"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     }

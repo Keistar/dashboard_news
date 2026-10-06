@@ -1,0 +1,57 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:42:06+09:00",
+  "stories": [
+    {
+      "title_ja": "仏ミストラル、中国勢の一部を上回るAIモデル公開",
+      "summary_ja": "フランスのミストラルAIが新しいAIモデルを発表した。同社は一部の中国製モデルより性能が高いとしている。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+      "score": 75,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "英政府、医療AIの提言を採用し試験の場を設ける",
+      "summary_ja": "英国政府が、医療でのAI活用に関する提言を受け入れた。開発者や規制当局、医療機関が、AI機器を安全に見守り続ける方法を試せる場を設ける。",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366651579/UK-government-accepts-AI-healthcare-recommendations",
+      "score": 70,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "開発者はAIツールに慎重、Stack Overflow調査",
+      "summary_ja": "Stack Overflowの調査で、コーディング用AIが広く使われている一方、開発者の多くがまだ信頼しきれていないことが分かった。大事な判断をAIに任せられる人はごく少数だった。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/stack-overflow-survey-finds-developers-wary-of-ai-tools",
+      "score": 60,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "獣医療の現場でAI利用が2年で2倍超に",
+      "summary_ja": "獣医療の専門職のうちAIを使う人が、この2年で2倍以上に増えたという調査結果が出た。方針や体制を整え、仕事の流れを見直した病院ほど成果が大きいという。",
+      "source": "DVM 360",
+      "url": "https://www.dvm360.com/view/artificial-intelligence-use-among-veterinary-professionals-more-than-doubles-in-2-years",
+      "score": 55,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ペット"
+      ]
+    },
+    {
+      "title_ja": "映画「A.I.」25周年の4K Blu-ray",
+      "summary_ja": "映画「A.I.」の公開25周年を記念した4K Blu-rayが取り上げられた。",
+      "source": "Blu-ray.com",
+      "url": "https://www.blu-ray.com/news/?id=39138",
+      "score": 45,
+      "commercial_score": 75,
+      "product_keywords": [
+        "A.I. 4K Blu-ray",
+        "スピルバーグ Blu-ray"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:46:51+09:00",
+  "stories": [
+    {
+      "title_ja": "英人気シェフのリック・スタイン、ウェイトローズと提携",
+      "summary_ja": "英国の有名シェフ、リック・スタインが英スーパーのウェイトローズと独占契約を結び、新たな提携を始める。",
+      "source": "Oxford Mail",
+      "url": "https://www.oxfordmail.co.uk/news/26612681.rick-stein-signs-exclusive-deal-uk-supermarket-chain/",
+      "score": 75,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "英モリソンズ、生鮮・冷凍食品をロッカーで受け取り可能に",
+      "summary_ja": "英スーパーのモリソンズで、注文した生鮮食品や冷凍食品をロッカーで受け取れるようになった。英国のスーパーでは初の取り組みで、受け取りの行列を避けられる。",
+      "source": "GB News",
+      "url": "https://www.gbnews.com/lifestyle/food/morrisons-click-and-collect-groceries-supermarket-first",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "英ピザエクスプレス、温かい持ち帰り商品を開始",
+      "summary_ja": "英ピザエクスプレスが、温かい料理を持ち帰りで売る新しい商品群を始めた。まずテーマパーク「ソープパーク」の夜のイベントで、1人用の手のばしピザなどを出す。店の味をより多くの場所に届ける計画の一環。",
+      "source": "restaurantonline.co.uk",
+      "url": "https://www.restaurantonline.co.uk/Article/2026/10/06/pizza-express-launches-hot-food-to-go-range/",
+      "score": 60,
+      "commercial_score": 45,
+      "product_keywords": [
+        "冷凍ピザ"
+      ]
+    },
+    {
+      "title_ja": "英スーパーの8割、オーガニック食品の品ぞろえを縮小",
+      "summary_ja": "英国のスーパーの8割がオーガニック食品の品ぞろえを減らしたと業界誌が伝えた。売り場に並ぶ食品のうちオーガニックは5.4%にとどまる。",
+      "source": "The Grocer",
+      "url": "https://www.thegrocer.co.uk/news/80-of-supermarkets-cut-organic-food-ranges/724450.article",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "オーガニック 食品"
+      ]
+    },
+    {
+      "title_ja": "シェイクシャック、ロンドン・パディントン駅横に出店へ",
+      "summary_ja": "シェイクシャックが今冬、ロンドンのパディントン駅そばに英国22店目を開く。通勤客や観光客、近隣住民を見込む。開店日はまだ決まっていない。",
+      "source": "The Upcoming",
+      "url": "https://www.theupcoming.co.uk/2026/10/06/shake-shack-to-open-22nd-uk-restaurant-beside-paddington-station-this-winter/",
+      "score": 50,
+      "commercial_score": 30
+    }
+  ]
+}
