@@ -54,6 +54,42 @@
 
 手動生成: `python scripts/generate_dashboard.py --genre beauty --input stories.json [--date YYYY-MM-DD]`
 
+## ローカルでの毎日の更新（`scripts/run_daily.sh`）
+
+クラウドのルーティンから集めるとアクセス制限でニュースの質が落ちるので、運営者の Mac から毎日 15:30 に集める（2026-10-07〜）。
+OSSU はトレンドを 17:00 と 21:00 に、logik2.com の X の下書きは翌朝 06:00 にここから読む。
+
+| 段階 | やること | 担当 |
+|---|---|---|
+| 1. 集める | Google News の RSS（ジャンル × 国。過去 1 日）、Google トレンドの RSS（jp / us / gb）、百度热搜（cn）の候補 | `scripts/news_pipeline.py collect` |
+| 2. 選ぶ | 候補の見出しから国ごとに 4〜6 本選ぶ | `claude -p`（`prompts/genre.md`・`prompts/trends.md`） |
+| 3. 確かめる | Google News のリンクを元記事の URL に直し、記事ページの説明文を取る | `news_pipeline.py resolve`（Claude が実行） |
+| 4. 書く | 日本語の見出し（40 文字以内）と要約（2〜3 文）。説明文に書いてあることだけで、自分の言葉で | `claude -p` |
+| 5. 検査 | 形・文字数・番号を確かめ、出典と URL を埋めて `--input` の JSON にする | `news_pipeline.py build`（Claude が実行） |
+| 6. 公開 | `generate_dashboard.py` でページを作り、ブランチに push → PR → マージ | `run_daily.sh` |
+
+- **Claude に許すのは、`work/` の中の読み書きと、`news_pipeline.py` の `resolve` / `build` だけ**（`--permission-mode dontAsk`、ユーザー設定と MCP は読まない）。
+  ネットワークに出るのは決まったスクリプトだけなので、記事ページの文に指示が紛れていても、ほかのコマンドや送信には届かない
+- 記事の URL は Claude に書かせない（`ref` で選んだ記事を指し、`build` が埋める）。存在しない URL が載らない
+- ジャンルは 1 つずつ別の `claude -p` で書く（1 つ 25 分で打ち切り）。失敗したジャンルは前日のまま、ほかは公開する。失敗すると Mac の通知に出る
+- 作業ファイルは `work/{日付}/`（2 週間で消す）、ログは `logs/{日付}.log`。どちらも git に入れない
+
+### 始め方
+
+自動実行専用の clone を作り、そこで登録する（手で作業する clone とは分ける。実行のたびに `origin/main` から始め直すため）。
+
+```sh
+git clone git@github.com:Keistar/dashboard_news.git ~/dev/dashboard_news-runner
+cd ~/dev/dashboard_news-runner
+scripts/run_daily.sh                 # 一度手で流して、通ることを確かめる（NEWS_NO_PUBLISH=1 なら公開しない）
+scripts/install_launchd.sh           # 毎日 15:30 に登録
+launchctl kickstart gui/$(id -u)/com.keistar.dashboard-news   # 今すぐ 1 回
+scripts/install_launchd.sh --uninstall                         # 外す
+```
+
+- Mac がスリープ中に 15:30 を過ぎたら、起きたときに 1 回動く。電源が切れていた日は動かない（翌日の分で追いつく。X の下書きは 2 日前までのニュースを使う）
+- `claude` は、この Mac でログインしている Claude Code の認証をそのまま使う。`git push` は SSH の鍵、PR は `gh` の認証を使う
+
 ## トレンド枠（`trends`）
 
 各国の「いま検索・話題になっているワード」を起点に、関連記事を集める枠です。定点ニュースのジャンルとは別に、手動で実行します。
