@@ -83,7 +83,7 @@ for g in "${GENRES[@]}"; do
   rm -f "work/$DATE/input/$g.json"
   # 1 ジャンル 25 分で打ち切る（macOS には timeout が無いので perl の alarm）。
   perl -e 'alarm shift; exec @ARGV' 1500 \
-    claude -p "$prompt" "${MODEL_ARGS[@]}" \
+    claude -p "$prompt" ${MODEL_ARGS[@]+"${MODEL_ARGS[@]}"} \
       --permission-mode dontAsk \
       --setting-sources project \
       --strict-mcp-config \
