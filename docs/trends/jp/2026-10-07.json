@@ -1,0 +1,157 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:55:42+09:00",
+  "trends": [
+    {
+      "keyword": "プライム感謝祭",
+      "reason_ja": "Amazonプライム感謝祭の先行セールを前に、すでに値下げされた商品やメーカーのセール告知が話題になっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "ヘアアイロン",
+        "Xiaomi",
+        "プライム感謝祭"
+      ],
+      "product_keywords_ja": [
+        "ヘアアイロン",
+        "Xiaomi"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライム感謝祭より早くセール価格になった愛用品",
+          "summary_ja": "今年のAmazonプライム感謝祭は先行セールが10月13日から、本番が10月16日から19日までです。筆者は10月6日の時点でセール価格になっている愛用品として、ヘアアイロンなどを紹介しています。",
+          "source": "note",
+          "url": "https://note.com/tekeshun/n/n8fb413ac4a55"
+        },
+        {
+          "title_ja": "シャオミがプライム感謝祭のセールを告知、一部は先行",
+          "summary_ja": "シャオミ・ジャパンが公式Xで、Amazonプライム感謝祭に合わせたセールの開催を告知しました。一部の製品は10月6日からお得になっています。",
+          "source": "週刊モバイル.com",
+          "url": "https://mobamag.com/sale/xiaomi-prime-kanshasai-2026/"
+        },
+        {
+          "title_ja": "プライム感謝祭は何が安くなる？売れ筋まとめ",
+          "summary_ja": "10月13日からAmazonプライム感謝祭の先行セールが始まります。1年前のプライム感謝祭で特に売れていた商品をまとめています。",
+          "source": "360LiFE",
+          "url": "https://360life.shinyusha.co.jp/articles/-/56410"
+        }
+      ]
+    },
+    {
+      "keyword": "しまむら ドラクエ",
+      "reason_ja": "しまむらとドラゴンクエストの100種を超える大型コラボ商品が10月7日に全国で発売され、受注販売の実施もSNSで歓迎されています。",
+      "genre": "other",
+      "commercial_score": 90,
+      "product_keywords": [
+        "ドラクエ Tシャツ",
+        "ドラクエ グッズ",
+        "スライム ブランケット"
+      ],
+      "product_keywords_ja": [
+        "ドラクエ Tシャツ",
+        "ドラクエ グッズ",
+        "スライム ブランケット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "しまむら×ドラクエのコラボ商品が発売、受注販売に歓迎の声",
+          "summary_ja": "しまむらがドラゴンクエストシリーズとのコラボフェアを始め、ファッションやライフアイテムを10月7日から発売します。受注販売の実施に、SNSでは「神対応」と喜ぶ声が出ています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/91b23aa7130a36ecfe1a301d4ad2c7e9cce8cddb"
+        },
+        {
+          "title_ja": "しまむらでドラクエ100種超の大型コラボ、限定ショッパー特典も",
+          "summary_ja": "「ファッションセンタードラクエ」Tシャツセットや宿屋ブランケットなど100種を超える商品が、全国約1,400店舗で発売されます。限定ショッパーの特典や巨大スライムを置く店舗もあります。",
+          "source": "朝日新聞",
+          "url": "https://www.asahi.com/and/m/article/16940906"
+        },
+        {
+          "title_ja": "ドラクエ×しまむらのグッズまとめ、Tシャツや着る毛布も",
+          "summary_ja": "スクウェア・エニックスとしまむらのコラボで、Tシャツや着る毛布など100種を超える商品が全国のしまむらで発売されます。一部の商品は台風の影響で入荷が10月24日以降になります。",
+          "source": "GAME Watch",
+          "url": "https://game.watch.impress.co.jp/docs/news/2145459.html"
+        }
+      ]
+    },
+    {
+      "keyword": "楽天お買い物マラソン",
+      "reason_ja": "楽天市場のお買い物マラソンと新セール企画「ジャンル祭」が同時に開催され、各メーカーの値下げが話題です。",
+      "genre": "sale",
+      "commercial_score": 90,
+      "product_keywords": [
+        "ゲーミングヘッドセット",
+        "ゲーミングコントローラー",
+        "お買い物マラソン"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングヘッドセット",
+        "ゲーミングコントローラー"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Turtle BeachやVictrixのゲーミング機器が楽天でセール",
+          "summary_ja": "楽天市場で「お買い物マラソン&ジャンル祭り」が期間限定で開催中です。Turtle BeachやVictrixのゲーミングデバイスがセール対象になっています。",
+          "source": "AKIBA PC Hotline!",
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2145707.html"
+        },
+        {
+          "title_ja": "楽天市場、ジャンル別キャンペーンを集めた「ジャンル祭」開始",
+          "summary_ja": "楽天グループが、商品ジャンルごとのキャンペーンを集めた新しいセール企画「ジャンル祭」を楽天市場で始めると発表しました。初回は10月4日から始まります。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/052e9921a61b2fb9e083ad0df786d489c8e8ebf6"
+        },
+        {
+          "title_ja": "楽天市場の新セール「ジャンル祭」、マラソンと連動",
+          "summary_ja": "楽天市場が新しいセールイベント「ジャンル祭」を開催しています。お買い物マラソンと連動して還元を受けられる仕組みです。",
+          "source": "コマースピック",
+          "url": "https://www.commercepick.com/archives/104423"
+        }
+      ]
+    },
+    {
+      "keyword": "宇野千代",
+      "reason_ja": "朝ドラ「ブラッサム」の主人公のモデルとして、作家・宇野千代の自伝や人柄に注目が集まっています。",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "宇野千代 生きて行く私",
+        "宇野千代 本"
+      ],
+      "product_keywords_ja": [
+        "宇野千代 生きて行く私",
+        "宇野千代 本"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "宇野千代が自伝で気づいた父親との共通点",
+          "summary_ja": "朝ドラ「ブラッサム」は主人公が自伝を書く場面から始まります。主人公のモデルである宇野千代の自伝『生きて行く私』から、亡き両親について綴った部分を紹介しています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/c74ad7024ff24c788794b86209b7d8a84f6d5b1c"
+        },
+        {
+          "title_ja": "宇野千代が語る梶井基次郎の人柄",
+          "summary_ja": "朝ドラ『ブラッサム』の主人公・葉野珠のモデルは作家の宇野千代です。宇野千代が梶井基次郎について「自分のことをちっとも語らない人だった」と振り返った文章を紹介しています。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/fujinkoron/life/fujinkoron-24151"
+        },
+        {
+          "title_ja": "「ブラッサム」で注目、山口・岩国の“AI千代”",
+          "summary_ja": "NHKの朝の番組で、「ブラッサム」で注目を集める山口・岩国の“AI千代”をアナウンサーがリポートしました。",
+          "source": "NHK",
+          "url": "https://www.nhk.or.jp/yamaguchi/info/articles/310/070/91/"
+        }
+      ]
+    }
+  ]
+}

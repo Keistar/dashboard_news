@@ -1,0 +1,65 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:42:06+09:00",
+  "stories": [
+    {
+      "title_ja": "グーグル、スマホでも動く埋め込みAI「EmbeddingGemma 2」",
+      "summary_ja": "グーグル・ディープマインドが、文章やコード、画像、動画、音声をまとめて同じベクトル空間に変換するオープンな埋め込みモデルを公開した。量子化すればスマートフォン上でも少ないメモリーで動くとしている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187318",
+      "score": 80,
+      "commercial_score": 45,
+      "product_keywords": [
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "松山市でAIアバターが多言語で観光案内、JTBが実証",
+      "summary_ja": "JTBが松山市と組み、生成AIのアバターを使った観光案内の実証を始めた。松山城のマスコット「よしあきくん」が多言語の音声で観光客に応対する。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/1996967",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "松山 旅行",
+        "道後温泉"
+      ]
+    },
+    {
+      "title_ja": "20代の過半数が住まい探しに生成AIを活用",
+      "summary_ja": "20代の半数以上が、住まい探しに生成AIを使っているという調査結果が出た。金利が上がるなかで、家の購入の考え方がどう変わるかにも触れている。",
+      "source": "ガジェット通信 GetNews",
+      "url": "https://getnews.jp/archives/3747364",
+      "score": 65,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "米リフレクションAI、初のオープンウェイトモデル発表",
+      "summary_ja": "米リフレクションAIが初のオープンウェイトモデル「Beam」を発表した。混合専門家（MoE）構成で、コーディングやエージェントの業務向けとしている。重みと技術報告書は今月後半に公開予定で、早期アクセスの登録を受け付けている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187314",
+      "score": 60,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "中小病院向けAI「てますい」、紹介状やFAXを一覧に",
+      "summary_ja": "大阪のHiMaWaSa Syncが、記録や書類の下書きを手伝うAIサービス「てますい」の病院版を始めた。中小規模の病院の地域連携室や病棟、外来向けで、紹介状やFAXを読み取って一覧にする。",
+      "source": "医療テックニュース",
+      "url": "https://medicaltech-news.com/management/13099/",
+      "score": 55,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "アパレルECの商品撮影や原稿作りにAIを活用",
+      "summary_ja": "ECで欠かせない商品の撮影・採寸・原稿作り（ささげ）に、AIを使う方法を取り上げた連載記事。作業を効率化しながら、商品が自然に見えるようにする工夫を紹介している。",
+      "source": "繊研新聞",
+      "url": "https://senken.co.jp/posts/ec-261007",
+      "score": 45,
+      "commercial_score": 50
+    }
+  ]
+}

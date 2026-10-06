@@ -1,0 +1,100 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:55:42+09:00",
+  "trends": [
+    {
+      "keyword": "Amazon Prime Day UK",
+      "reason_ja": "英国でもAmazonのPrime Big Deal Daysが始まり、お得に買うコツや目玉商品が話題です。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Prime Big Deal Days",
+        "air fryer",
+        "games console"
+      ],
+      "product_keywords_ja": [
+        "ノンフライヤー",
+        "ゲーム機"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Amazon英国、秋とクリスマスの買い物向けのセール",
+          "summary_ja": "AmazonのPrime Big Deal Daysは2日間のセールです。ファッション、家電、美容、おもちゃなど、プライム会員限定のお得な商品が並びます。",
+          "source": "About Amazon UK",
+          "url": "https://www.aboutamazon.co.uk/news/retail/prime-big-deal-days-save-big-on-autumn-and-christmas-shopping-from-october-6-7th"
+        },
+        {
+          "title_ja": "プライムデーのお得な商品を見つける7つのコツ",
+          "summary_ja": "長年プライムデーを取材してきたショッピングの専門家が、10月のセールでお得な商品を見つけるコツを紹介しています。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/amazon-prime-day/prime-day-shopping-top-tips-amazon-b3061892.html"
+        },
+        {
+          "title_ja": "Prime Big Deal Daysはいつから？早めのお得情報",
+          "summary_ja": "Prime Big Deal Daysが始まり、ゲーム機からエアフライヤーまで幅広い商品がお得になっています。",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/money/40592970/amazon-prime-big-deal-days-start-early-deals/"
+        }
+      ]
+    },
+    {
+      "keyword": "Ninja air fryer deal",
+      "reason_ja": "英国のプライムデーで、Ninjaのエアフライヤーなどキッチン家電の値下げが注目されています。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Ninja air fryer",
+        "air fryer"
+      ],
+      "product_keywords_ja": [
+        "ニンジャ ノンフライヤー",
+        "ノンフライヤー"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライムデーでエアフライヤーが最大90ポンド引き",
+          "summary_ja": "Amazonのプライムデーが始まり、エアフライヤーが値下げされています。クリスマスの買い物を早めに始めるのにも向いているとしています。",
+          "source": "HuffPost UK",
+          "url": "https://www.huffingtonpost.co.uk/entry/amazon-prime-day-air-fryer-sale_uk_6ac4e206e4b0613dcc54d062"
+        },
+        {
+          "title_ja": "Dysonやアップルなど、本当にお得なプライムデー46選",
+          "summary_ja": "The Guardianが、AmazonのPrime Big Deal Daysで本当にお得な商品を選んでいます。UggやNinja、KitchenAid、Sharkなどが並びます。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/thefilter-us/2026/oct/06/best-october-amazon-big-deals-prime-day"
+        }
+      ]
+    },
+    {
+      "keyword": "nicola peltz",
+      "reason_ja": "ニコラ・ペルツとブルックリン・ベッカムの、薄手のカーテンを生かしたミニマルな自宅が注目されています。",
+      "genre": "interior",
+      "commercial_score": 55,
+      "product_keywords": [
+        "sheer curtains",
+        "voile curtains"
+      ],
+      "product_keywords_ja": [
+        "レースカーテン",
+        "シアーカーテン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ニコラ・ペルツ夫妻のミニマルな自宅、主役は薄手のカーテン",
+          "summary_ja": "ニコラ・ペルツとブルックリン・ベッカムの自宅は、目立つ絵や家具がなく、光と空間で落ち着いた雰囲気をつくっています。その鍵となっているのが薄手のカーテンだと紹介しています。",
+          "source": "Grazia",
+          "url": "https://graziamagazine.com/us/articles/inside-nicola-peltz-and-brooklyn-beckhams-ultra-minimalist-home-where-sheer-curtains-do-all-the-talking-25497/"
+        }
+      ]
+    }
+  ]
+}

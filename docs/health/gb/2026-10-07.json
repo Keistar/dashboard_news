@@ -1,0 +1,42 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:48:00+09:00",
+  "stories": [
+    {
+      "title_ja": "英ブリストル、前立腺がん患者向け運動プログラム",
+      "summary_ja": "英国で、がん患者向けの運動プログラムに参加した前立腺がんの男性が体力を取り戻しつつあると紹介されています。参加者は、弱って落ち込んだ気持ちがなくなったと話しています。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2d3y813ywo",
+      "score": 70,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "女性の健康研究の拠点、英バーミンガムに第1号",
+      "summary_ja": "女性の健康に関する格差を縮めることを目指すNHSの研究拠点6か所のうち、最初の1か所がバーミンガムに決まりました。運営する臨床研究会社は、今後3年で最大30人を雇用する計画です。",
+      "source": "Trending Now Infrastructure",
+      "url": "https://www.infrastructure-now.co.uk/article/493677/birmingham-lands-first-of-six-nhs-research-sites-aimed-at-closing-womens-health-gap?utm_source=civilengineering&utm_medium=newsfeed&utm_campaign=civilengineering-articleId-493677",
+      "score": 65,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "NHS型の糖尿病予防プログラム、費用対効果ありと試算",
+      "summary_ja": "糖尿病予備群の大人を対象に、英NHSイングランドの方式にならった生活習慣改善プログラムを行った場合を試算した研究です。費用対効果があり、医療費の節約にもつながる可能性が高いとしています。",
+      "source": "Drug Topics",
+      "url": "https://www.drugtopics.com/view/model-finds-nhs-england-style-diabetes-prevention-program-cost-effective",
+      "score": 60,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "英ウォーターサイドに無料の健康チェックバス",
+      "summary_ja": "英国のウォーターサイド地域で、NHSのサービスを無料で地域に届ける移動式の健康ユニットが運行を始めました。健康チェックや心身のサポートを受けられます。",
+      "source": "Daily Echo",
+      "url": "https://www.dailyecho.co.uk/news/26606342.waterside-health-bus-brings-free-nhs-services-community/",
+      "score": 55,
+      "commercial_score": 10
+    }
+  ]
+}

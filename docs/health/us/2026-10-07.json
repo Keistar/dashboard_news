@@ -1,0 +1,51 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:48:00+09:00",
+  "stories": [
+    {
+      "title_ja": "米アマゾンのセールで家庭用ジム用品が最大50%引き",
+      "summary_ja": "米メンズヘルス誌の編集者が、アマゾンの「Prime Big Deal Days」で値下げされているフィットネス用品を紹介しています。家庭用ジム機器が最大50%引きになっているとしています。",
+      "source": "Men's Health",
+      "url": "https://www.menshealth.com/fitness/a70626969/best-fitness-deals-2026/",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ダンベル",
+        "トレーニングベンチ",
+        "ルームランナー"
+      ]
+    },
+    {
+      "title_ja": "短時間の「運動スナック」、運動不足の大人に効果の可能性",
+      "summary_ja": "運動不足の大人994人を含む22件の研究をまとめた分析で、短い運動をこまめに行う「エクササイズスナック」が、最大酸素摂取量や血糖値、中性脂肪の改善と関連していたと報告されました。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261006/Short-bursts-of-exercise-may-improve-fitness-and-blood-sugar-in-sedentary-adults.aspx",
+      "score": 75,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ステッパー",
+        "踏み台昇降"
+      ]
+    },
+    {
+      "title_ja": "運動をやめると体はどう変わる？専門家が時系列で解説",
+      "summary_ja": "運動の専門家や医師が、トレーニングをやめてから数週間から数か月の間に、体の主な機能に何が起きるかを解説しています。",
+      "source": "Outside Magazine",
+      "url": "https://www.outsideonline.com/health/training-performance/timeline-stop-working-out-weeks-months/",
+      "score": 60,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "運動中の脇腹の痛み、原因と対処法を専門家が解説",
+      "summary_ja": "運動中に起きる脇腹の痛みについて、医師が原因や予防のコツ、痛みが出たときの対処法を説明しています。医療機関を受診すべき目安にも触れています。",
+      "source": "Prevention",
+      "url": "https://www.prevention.com/fitness/fitness-tips/a70341850/side-stitch-causes/",
+      "score": 55,
+      "commercial_score": 25
+    }
+  ]
+}

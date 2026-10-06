@@ -1,78 +1,65 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T18:00:52+09:00",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:43:15+09:00",
   "stories": [
     {
-      "title_ja": "華為「Mate 90」シリーズ発表、全機種に旗艦チップ",
-      "summary_ja": "華為（Huawei）はMate 90シリーズを発表した。全機種が旗艦向けのチップを積む。",
+      "title_ja": "華為（Huawei）、「Mate 90」シリーズを発表",
+      "summary_ja": "華為（Huawei）が新しいスマートフォン「Mate 90」シリーズを発表しました。全モデルにフラッグシップ向けの「韜」チップを搭載しています。",
       "source": "中青在线",
       "url": "http://news.cyol.com/gb/keji/articles/2026-10/06/content_MbBgGxcNga.html",
-      "score": 82,
-      "commercial_score": 65,
-      "product_keywords": [
-        "HUAWEI Mate"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Google「Pixel 10a」、発売7カ月で100ドル値上げ",
-      "summary_ja": "Googleは普及型スマホ「Pixel 10a」の価格を発売から7カ月で100ドル引き上げ、128GBモデルを599ドルとした。普及型スマホの値上げの流れに加わった。",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/905367eb-8e24-4dcd-ad3c-cac0331714d3",
-      "score": 78,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Pixel 10a"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Google、Pixel 10aを100ドル値上げ 599ドルに",
-      "summary_ja": "Googleは発売7カ月のPixel 10aを100ドル値上げし、128GBモデルを599ドルとした。普及型スマホで値上げが相次いでいる。",
-      "source": "finance.biggo.com",
-      "url": "https://finance.biggo.com/news/905367eb-8e24-4dcd-ad3c-cac0331714d3",
-      "score": 78,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Pixel 10a"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Microsoft、10月7日にSurface発表会へ",
-      "summary_ja": "Windows Centralによると、Microsoftは10月7日にWindowsとSurfaceの特別イベントを開く。Surface Laptop UltraやRTX Sparkのほか、エージェント機能を強めたOSが披露される見込みだ。",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/what-to-expect-at-microsofts-special-windows-and-surface-event-on-october-7-surface-laptop-ultra-and-rtx-spark-revealed-new-agentic-os-capabilities-and-more",
-      "score": 78,
-      "commercial_score": 65,
-      "product_keywords": [
-        "Surface Laptop"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "余承東氏、Appleの折りたたみ参入を歓迎",
-      "summary_ja": "華為の余承東氏は、Appleの折りたたみスマホ参入について同業の競争を歓迎すると述べた。iPhone Duoの発表後、華為のPura X Maxの販売は76%増えたという。",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8x02jYzkkEQ",
-      "score": 76,
+      "score": 90,
       "commercial_score": 50,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
+      "title_ja": "ソニー新型Xperia、カードをかざして推し仕様に",
+      "summary_ja": "ソニーの「Xperia 10 VIII」は、カードをかざすと壁紙や充電音を好きな作品の仕様に切り替えられる新サービス「Fan Sync」に対応しました。第1弾は「鬼滅の刃」やハローキティとのコラボです。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/440/4440419/",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Xperia 10 VIII"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Surface Laptop Ultra、10月7日発表へ 仕様判明",
+      "summary_ja": "マイクロソフトが10月7日に「Surface Laptop Ultra」を正式に発表する予定です。発表を前に、最大128GBのメモリーと20コアのRTX Sparkを積むことなど、詳しい情報が複数の情報源から伝わっています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/New-Surface-Laptop-Ultra-release-details-revealed-with-up-to-128-GB-RAM-and-20-core-RTX-Spark.1416963.0.html",
+      "score": 85,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Surface Laptop"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "アップル、10月にMac中心の2回目の発表会か",
+      "summary_ja": "アップルが10月に、M6チップを積んだMacを中心とする2回目の発表会を開くと報じられています。まだ正式な発表はなく、Macの購入を考えている人は時期を見極めたいところです。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/apple-reportedly-planning-a-second-october-event-focused-on-macs",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "MacBook"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
       "title_ja": "サムスン「Galaxy S26 FE」が海外で発売",
-      "summary_ja": "サムスン電子は秋の新モデル「Galaxy S26 FE」を海外で発売した。ハイエンド級の性能と最新のAI機能を、価格を抑えて使えるモデルだ。",
+      "summary_ja": "サムスン電子が秋の新モデル「Galaxy S26 FE」を海外で発売しました。FEシリーズは高性能ながら価格を抑えたモデルで、最新のAI機能を手軽に使えるのが特徴です。",
       "source": "マイナビニュース",
       "url": "https://news.mynavi.jp/article/20261006-galaxy_s26_fe/",
       "score": 75,
-      "commercial_score": 75,
+      "commercial_score": 70,
       "product_keywords": [
         "Galaxy S26 FE"
       ],
@@ -80,129 +67,75 @@
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "OPPOの折りたたみ「Find N6」、技適取得で日本発売に期待",
-      "summary_ja": "OPPOは折りたたみスマホ「Find N6」をグローバル発表した。画面の折り目をほぼなくし、2億画素カメラや専用ペンに対応する。実機に技適マークがあり、日本発売が期待される。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/382/4382240/",
-      "score": 72,
-      "commercial_score": 70,
+      "title_ja": "ガーミン「Enduro 4」、最大320時間の長持ち電池",
+      "summary_ja": "ガーミンの新しいスマートウォッチ「Enduro 4」は、最大320時間のバッテリー駆動をうたいます。「Fenix 9 Pro」と同じ健康管理やフィットネスの機能も使えます。",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/garmin-enduro-4-smartwatch-2000822419",
+      "score": 75,
+      "commercial_score": 75,
       "product_keywords": [
-        "OPPO Find N6",
-        "折りたたみスマホ"
+        "Garmin Enduro"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "Googlebook、多くの機能にARM CPUとAndroid 17が必要",
-      "summary_ja": "Googleは新しいノートPC「Googlebook」の機能を詳しく説明した。Intel CPUの機種や古いスマホと組み合わせると、一部のアプリや機能が使えないと注意している。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Many-Googlebook-features-require-ARM-CPU-and-Android-17-smartphone.1416451.0.html",
-      "score": 72,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Googlebook"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Appleの折りたたみ、生産難で当初は米国限定か",
-      "summary_ja": "財聯社によると、Appleの折りたたみスマホは製造が難しく当初の供給が限られる見通しで、米国だけでの販売になるとの見方が出ている。",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2454260",
-      "score": 72,
-      "commercial_score": 45,
-      "product_keywords": [
-        "iPhone 折りたたみ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Huawei、三つ折りスマホ「Mate XT 2」の世界発売を確認",
-      "summary_ja": "Huaweiは三つ折りスマホ「Mate XT 2」を中国以外の市場でも発売すると認めた。",
-      "source": "huaweicentral.com",
+      "title_ja": "華為（Huawei）、三つ折りスマホ「Mate XT 2」を世界展開",
+      "summary_ja": "華為（Huawei）が、三つ折りスマートフォン「Mate XT 2」を中国以外の国でも発売することを明らかにしました。",
+      "source": "Huawei Central",
       "url": "https://www.huaweicentral.com/huawei-confirms-mate-xt-2-tri-fold-for-global-launch/",
       "score": 70,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Huawei Mate XT 2"
-      ],
+      "commercial_score": 45,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Technics、新ワイヤレスヘッドホン「EAH-A1000」",
-      "summary_ja": "TechnicsはEAH-A800の後継となる「EAH-A1000」を出す。40mmの磁性流体ドライバーとカーボン振動板を採用し、449.99ドルで10月15日までに出荷する。",
+      "title_ja": "テクニクス、新ワイヤレスヘッドホン「EAH-A1000」",
+      "summary_ja": "テクニクスが、2022年の「EAH-A800」の後継となるワイヤレスヘッドホン「EAH-A1000」を発表しました。新しい40mmの磁性流体ドライバーとカーボンファイバーの振動板を採用し、価格は449.99ドル、10月15日までに出荷されます。",
       "source": "We Rave You",
       "url": "https://weraveyou.com/2026/10/technics-eah-a1000-wireless-headphones/",
       "score": 70,
       "commercial_score": 80,
       "product_keywords": [
         "Technics EAH-A1000",
-        "ワイヤレスヘッドホン"
+        "テクニクス ヘッドホン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "サムスン「W27」、10月29日発表へ 予約受付を開始",
-      "summary_ja": "サムスンの中国向け高級折りたたみ機「心系天下W27」の発表会が10月29日に開かれる。店頭では予約を受け付けており、11月5日から受け取れる見込み。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniueriz4269693.shtml",
-      "score": 66,
-      "commercial_score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Galaxy S26の値上げ、米英加EUで比較",
-      "summary_ja": "Gadget Hacksが、Galaxy S26の値上げについて米国・英国・カナダ・EUの価格を比べて解説した。",
-      "source": "Gadget Hacks",
-      "url": "https://samsung.gadgethacks.com/news/galaxy-s26-price-increase-explained-us-uk-canada-eu/",
+      "title_ja": "アクア、冷凍室が中段の5ドア冷蔵庫を発売へ",
+      "summary_ja": "アクアが5ドア冷凍冷蔵庫「AQR-S45B」を10月8日に発売します。幅60cmのスリムな本体に453Lを収め、冷凍室を中段に置いて使いやすくしました。実売予想価格は21万8900円（税込）です。",
+      "source": "GetNavi web",
+      "url": "https://getnavi.jp/appliances/1116625/",
       "score": 65,
-      "commercial_score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "Galaxy S26"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "約63gで4万円台のARグラス「VITURE Pro 2」",
-      "summary_ja": "ガジェットブロガーのゴーゴーシンゴ氏が、約63gと軽く4万円台で買えるARグラス「VITURE Pro 2」を試し、ライバル機と比べた。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/expert/articles/f7792370b4efccd9edb4b572e4180be53608217f",
-      "score": 62,
-      "commercial_score": 75,
-      "product_keywords": [
-        "VITURE Pro 2",
-        "ARグラス"
+        "AQUA 冷蔵庫 AQR-S45B"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "HP、1100nitの有機EL搭載14型ノート「OmniBook 5」",
-      "summary_ja": "HPは最大1100nitの有機ELと120Hz表示を選べる14型ノート「OmniBook 5」を発売した。IntelのWildcat Lakeを積み、メモリは最大32GB。",
+      "title_ja": "デル、13型「XPS Googlebook」を米国で値下げ",
+      "summary_ja": "デルが、最大32GBのメモリーと120Hzの可変リフレッシュレート画面を備えた13インチノートPC「XPS Googlebook」の新モデルを出しました。米国では9月の発売時より大きく安くなっています。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-with-1-100-nit-OLED-display-and-32-GB-RAM.1416014.0.html",
-      "score": 62,
-      "commercial_score": 70,
+      "url": "https://www.notebookcheck.net/Dell-releases-new-13-inch-laptop-with-cheaper-pricing-and-up-to-32-GB-RAM.1416964.0.html",
+      "score": 65,
+      "commercial_score": 60,
       "product_keywords": [
-        "HP OmniBook 5"
+        "Dell XPS"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Huawei Watch 6 Pro、時計らしい見た目と長持ち電池",
-      "summary_ja": "Huaweiの新しいスマートウォッチ「Watch 6 Pro」は、普通の腕時計のような見た目で電池が数日持つ。体の状態も細かく記録できる。",
-      "source": "Yahoo Style UK",
-      "url": "https://uk.style.yahoo.com/huawei-watch-6-pro-might-154800289.html",
-      "score": 62,
-      "commercial_score": 70,
+      "title_ja": "華為（Huawei）「Watch 6 Pro」、腕時計らしい見た目",
+      "summary_ja": "華為（Huawei）の新しいスマートウォッチ「Watch 6 Pro」は、普通の腕時計に近い見た目で、電池も数日もちます。体の状態についても多くの情報を知らせてくれます。",
+      "source": "Esquire",
+      "url": "https://www.esquire.com/uk/watches/a74005663/huaweis-new-watch-6-pro-might-be-the-smartwatch-for-people-who-dont-like-smartwatches/",
+      "score": 65,
+      "commercial_score": 65,
       "product_keywords": [
         "HUAWEI WATCH"
       ],
@@ -210,50 +143,113 @@
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "MATECH、USB-C一体型モバイルバッテリーを発売",
-      "summary_ja": "MATECHはUSB-C一体型のモバイルバッテリー「PowerNano 5000」と、Apple Watchにも対応する「PowerNano Watch 5000」を発売した。最大22.5Wの急速充電とパススルー充電に対応する。",
+      "title_ja": "華為（Huawei）、大画面テレビ「MateTV 2」",
+      "summary_ja": "華為（Huawei）が「Mate 90」シリーズなどの発表会で、スマートスクリーン「MateTV 2」を発表しました。家族みんなで使える大きなスマホのようなテレビとして、鴻蒙（HarmonyOS）の製品群を広げます。",
+      "source": "TGBUS",
+      "url": "https://android.tgbus.com/news/245293",
+      "score": 65,
+      "commercial_score": 45,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "MATECH、USB-C一体型の小型モバイルバッテリー",
+      "summary_ja": "MATECHが、スマホに直接挿して使えるUSB-C一体型モバイルバッテリー「PowerNano 5000」と、Apple Watchにも対応する「PowerNano Watch 5000」を発売しました。最大22.5Wの急速充電とパススルー充電に対応しています。",
       "source": "ASCII.jp",
       "url": "https://ascii.jp/elem/000/004/440/4440152/",
       "score": 60,
       "commercial_score": 85,
       "product_keywords": [
-        "モバイルバッテリー"
+        "MATECH PowerNano",
+        "モバイルバッテリー USB-C一体型"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "華為、スマートスクリーン「MateTV 2」を発表",
-      "summary_ja": "華為はMate 90シリーズの発表会で、スマートスクリーン「MateTV 2」を発表した。家族で使う大画面として、HarmonyOSの生態系を広げる。",
-      "source": "TGBUS",
-      "url": "https://android.tgbus.com/news/245293",
-      "score": 60,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "Google日本、ベルトコンベア式キーボードを公開",
-      "summary_ja": "Google日本法人が、キーを4本のベルトコンベアに載せたキーボードの構想を公開した。手をほとんど動かさずに入力できるが、正確に打つには練習が要りそうだ。",
+      "title_ja": "vivo、1万mAh電池の防水スマホ「S2 FE」",
+      "summary_ja": "vivoが、10,000mAhの大容量バッテリーとIP69の防水防塵性能を備えた中価格帯のスマートフォン「S2 FE」を発表しました。明るい有機ELの画面と、ソニー製センサーの5000万画素メインカメラを載せています。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Google-Japan-unveils-keyboard-with-four-conveyor-belts-for-one-handed-typing.1416487.0.html",
-      "score": 58,
-      "commercial_score": 20,
+      "url": "https://www.notebookcheck.net/Vivo-unveils-smartphone-with-10-000-mAh-battery-and-IP69-rating-for-the-equivalent-of-399.1417003.0.html",
+      "score": 60,
+      "commercial_score": 45,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Keurig「Alta」、海藻で包んだ堆肥化できるコーヒー",
-      "summary_ja": "Keurigの「Alta」は、海藻由来の膜で包んだ堆肥化できるコーヒーで、エスプレッソやラテを入れる。本体は499.99ドルで、個包装にはプラスチックが残る。",
-      "source": "Gadget Review",
-      "url": "https://www.gadgetreview.com/keurigs-alta-replaces-conventional-plastic-pods-with-compostable-seaweed-coated-coffee-rounds",
-      "score": 58,
-      "commercial_score": 55,
+      "title_ja": "ソニー、INZONEのヘッドセットとイヤホンに新色",
+      "summary_ja": "ソニーが、ゲーミング向けヘッドセット「INZONE H9 II」とインイヤーヘッドホン「INZONE E9」に新しい色を追加しました。",
+      "source": "Sony UK",
+      "url": "https://www.sony.eu/presscentre/sony-introduces-new-colour-to-inzone-h9-ii-headset-and-inzone-e9-in-ear-headphones",
+      "score": 60,
+      "commercial_score": 75,
       "product_keywords": [
-        "コーヒーメーカー"
+        "INZONE H9 II",
+        "INZONE E9"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ゲーミングスマホ「紅魔12 Pro+」10月15日発表へ",
+      "summary_ja": "ゲーミングスマートフォン「紅魔（REDMAGIC）12 Pro+」の予約受付が始まりました。10月15日に正式に発表されます。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniuhyrf5524031.shtml",
+      "score": 60,
+      "commercial_score": 50,
+      "product_keywords": [
+        "REDMAGIC"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "駐車位置も探せるカーチャージャーなど5製品",
+      "summary_ja": "ハックが、位置検索機能に対応したカーチャージャーやスマホホルダーなど、車で使えるスマホ関連の5製品を2026年9月から順次発売します。充電しながら、車を停めた場所を探すのにも役立ちます。",
+      "source": "ベストカーWeb",
+      "url": "https://bestcarweb.jp/news/1641687",
+      "score": 55,
+      "commercial_score": 75,
+      "product_keywords": [
+        "カーチャージャー",
+        "スマホホルダー 車"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "OPPO、8000mAh電池の中価格スマホ「F35 5G」",
+      "summary_ja": "OPPOが中価格帯の5Gスマートフォン「F35 5G」をインドで発売しました。8,000mAhの大容量バッテリーと80Wの急速充電に対応し、120Hzの有機EL画面と5000万画素の自撮りカメラを備えます。",
+      "source": "Notebookcheck CN",
+      "url": "https://www.notebookcheck-cn.com/Oppo-8-000mAh-80W.1416678.0.html",
+      "score": 55,
+      "commercial_score": 45,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "スリコ、透けるデザインのイヤホンや充電器",
+      "summary_ja": "3COINSが10月9日に、シースルーデザインの有線イヤホンやUSBケーブル、USB充電器など7製品を発売します。パープルやホワイトなどのパステルカラーで、そろえて買うのも楽しめます。",
+      "source": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/32505832/",
+      "score": 50,
+      "commercial_score": 70,
+      "product_keywords": [
+        "有線イヤホン",
+        "USB充電器"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "サムスン、折りたたみ「W27」を10月29日発表か",
+      "summary_ja": "サムスンの正規販売店が、折りたたみスマホ「心系天下 W27」の発表会を10月29日に開くと予告しました。店頭ではすでに予約を受け付けています。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-05/detail-iniueriz4272353.d.html?oid=%E7%BA%AA%E6%A2%B5%E5%B8%8C%E7%B2%BE%E4%BB%BF%E3%80%88%E5%BE%AE%E4%BF%A1198099199%E3%80%89%E9%AB%98%E4%BB%BF%E7%9A%AE%E5%B8%A6%E6%89%8B%E8%A1%A8%E2%86%96%E5%BE%AE%E4%BF%A1198099199%E2%86%97%E9%AB%98%E4%BB%BFCELINE%E5%8C%85%E5%8C%85%E5%93%AA%E9%87%8C%E6%9C%89%E5%8D%96%E2%97%86%E5%BE%AE%E4%BF%A1198099199%E2%97%86goMl&vt=4&cid=76993&node_id=76993",
+      "score": 50,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

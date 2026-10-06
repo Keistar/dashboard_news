@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:42:06+09:00",
+  "stories": [
+    {
+      "title_ja": "騰訊の混元A13B、一部だけ動かして大型並みの性能",
+      "summary_ja": "騰訊（Tencent）の混元チームが、混合専門家構成のHunyuan-A13Bを発表した。全体のパラメータのうち一部だけを動かして、数学やプログラミングで大きなモデルに並ぶという。速く答える方式とじっくり考える方式を切り替えられる。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1006/3201131.shtml",
+      "score": 75,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "四川で「AI超市」が出店企業の募集を開始",
+      "summary_ja": "四川省で、AIの機能を商品のように選べる「AI超市」が参加企業の募集を始めた。陝西や北京でも、多くのAIモデルをまとめて手頃に使える場が作られている。",
+      "source": "Sohu",
+      "url": "https://m.sohu.com/a/1084542449_355475",
+      "score": 60,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "字節・騰訊・阿里がAI人材争奪、報酬上昇続く",
+      "summary_ja": "字節跳動（ByteDance）、騰訊、阿里巴巴（Alibaba）がAIの高度人材を取り合っている。そのため報酬が上がり続けている。",
+      "source": "ijiwei.com",
+      "url": "https://ijiwei.com/n/1115522",
+      "score": 55,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "済南でAI産業の大会、有力企業300社超が集結",
+      "summary_ja": "山東省済南市で開かれるAI産業の年次大会に、300社を超える有力企業が集まる。",
+      "source": "大众网",
+      "url": "https://jinan.dzwww.com/jrtt/202610/t20261006_18179546.htm",
+      "score": 50,
+      "commercial_score": 20
+    }
+  ]
+}

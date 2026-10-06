@@ -1,0 +1,57 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:42:06+09:00",
+  "stories": [
+    {
+      "title_ja": "Anthropic、新興企業にClaude Teamを1年無料提供",
+      "summary_ja": "Anthropicが、スタートアップ向けにClaude Teamを1年間無料にし、1,000ドル分のクレジットを付ける。モデルの上にサービスを作る企業を通じて、AIの恩恵を多くの人に届けたいとしている。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "score": 80,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "ChatGPT、回答の中の広告的な表示を増やす方針",
+      "summary_ja": "OpenAIが、ChatGPTの回答にスポンサー付きの結果をもっと載せる方向に動いていると報じられた。",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/openai-decides-chatgpt-would-be-better-with-more-sponsored-results-2000822440",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title_ja": "ChatGPTの出力に電子透かし、EU限定で標準に",
+      "summary_ja": "OpenAIが、ChatGPTが作った文章などに標準で透かしを入れる。対象はEUのみ。ほかの方法と同じく確実ではなく、簡単にかわせるとの指摘もある。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "score": 70,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "OpenAI、新モデルで解いた数学の成果を追加公開",
+      "summary_ja": "OpenAIが、新しいAIモデルで得たとする数学の成果とデータを新たに公開した。長年解かれていなかった問題の多くを解決したと説明している。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "score": 65,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "Claudeの有料プランはChatGPTよりお得、と調査会社",
+      "summary_ja": "調査会社が、AnthropicのClaudeの有料プランはOpenAIのものより価値が高いとする結果を出した。OpenAIには厳しい評価となった。",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Claude",
+        "ChatGPT"
+      ]
+    }
+  ]
+}

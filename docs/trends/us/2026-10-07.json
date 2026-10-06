@@ -1,0 +1,110 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:55:42+09:00",
+  "trends": [
+    {
+      "keyword": "Prime Big Deal Days",
+      "reason_ja": "Amazonの10月のプライムデー「Prime Big Deal Days」が開催中で、各メディアがおすすめのセール品を紹介しています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Prime Big Deal Days",
+        "camping gear",
+        "kitchen deals"
+      ],
+      "product_keywords_ja": [
+        "キャンプ用品",
+        "キッチン家電"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "10月のプライムデー、編集部が選ぶお得な35品",
+          "summary_ja": "Rolling Stoneの編集部が、Amazonの10月のプライムデー「Prime Big Deal Days」で買えるお得な商品を選んでいます。全体の値引きは大きくないものの、この35品はおすすめとしています。",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-amazon-prime-big-deal-days-offers-discounts-2026-1235636858/"
+        },
+        {
+          "title_ja": "ギア編集部が推すプライムデーのセール品6つ",
+          "summary_ja": "Outside Magazineのギア編集部が、Prime Big Deal Daysの中からキャンプ用品やアパレル、テック製品のおすすめ6品を選びました。",
+          "source": "Outside Magazine",
+          "url": "https://www.outsideonline.com/outdoor-gear/gear-news/amazon-prime-big-deal-days-2926/"
+        },
+        {
+          "title_ja": "Prime Big Deal Days開催、注目の150品",
+          "summary_ja": "Amazonが、Prime Big Deal Daysのおすすめ150品を紹介しています。テック、おもちゃ、キッチン、美容などが対象で、新しいセールが1日3回追加されます。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals"
+        }
+      ]
+    },
+    {
+      "keyword": "robot vacuum deals",
+      "reason_ja": "プライムデーで、DysonやShark、iRobotなどの掃除機やロボット掃除機の値下げが注目されています。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "robot vacuum",
+        "cordless vacuum",
+        "Shark vacuum"
+      ],
+      "product_keywords_ja": [
+        "ロボット掃除機",
+        "コードレス掃除機",
+        "シャーク 掃除機"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "10月のプライムデー、掃除機のお得な商品",
+          "summary_ja": "NBC Newsが、10月のプライムデーで買える掃除機のお得な商品を紹介しています。Dyson、Shark、Bissellなどが対象です。",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/select/shopping/october-prime-day-vacuum-deals-2026-rcna601735"
+        },
+        {
+          "title_ja": "ロボット掃除機がセール、Shark・iRobot・eufyなど",
+          "summary_ja": "USA Todayが、Shark、iRobot、eufyなどのロボット掃除機のセールを紹介しています。",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/shopping/home/vacuums/2026/10/06/best-prime-day-robot-vacuum-deals/92061939007/"
+        }
+      ]
+    },
+    {
+      "keyword": "air fryer deals",
+      "reason_ja": "プライムデーで、Ninjaなどのエアフライヤーやキッチン家電の値下げが注目されています。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "air fryer",
+        "Ninja air fryer",
+        "kitchen appliances"
+      ],
+      "product_keywords_ja": [
+        "ノンフライヤー",
+        "ニンジャ ノンフライヤー",
+        "キッチン家電"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライムデーのキッチン用品セール49選",
+          "summary_ja": "Bon Appétitが、プライムデーのキッチン用品のお得な商品を紹介しています。All-Clad、Breville、Le Creuset、Ninjaなどが値下げされています。",
+          "source": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+          "url": "https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2026-10-06"
+        },
+        {
+          "title_ja": "試して選んだプライムデーのエアフライヤー",
+          "summary_ja": "プライムデーでは多くのエアフライヤーがセールになっています。Business Insiderが、テストした中で良かった機種から先に買うべき5つを選びました。",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/guides/deals/best-prime-day-air-fryer-deals-2026-10"
+        }
+      ]
+    }
+  ]
+}
