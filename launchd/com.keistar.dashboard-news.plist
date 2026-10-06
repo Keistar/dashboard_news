@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- 毎日 15:30（この Mac の時刻）に scripts/run_daily.sh を動かす。scripts/install_launchd.sh が __RUNNER_DIR__ を埋めて
+     ~/Library/LaunchAgents に置く。スリープ中に時刻を過ぎたら、起きたときに 1 回動く（電源が切れていたら動かない）。 -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.keistar.dashboard-news</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>__RUNNER_DIR__/scripts/run_daily.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>__RUNNER_DIR__</string>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>15</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>__RUNNER_DIR__/logs/launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>__RUNNER_DIR__/logs/launchd.log</string>
+</dict>
+</plist>
