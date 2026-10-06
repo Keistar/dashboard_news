@@ -89,7 +89,7 @@ for g in "${GENRES[@]}"; do
       --strict-mcp-config \
       --no-session-persistence \
       --allowedTools \
-        "Read(./work/**)" "Write(./work/**)" "Edit(./work/**)" "Glob" "Grep" \
+        "Read(./work/**)" "Edit(./work/**)" "Glob" "Grep" \
         "Bash(python3 scripts/news_pipeline.py resolve --date $DATE --genre $g)" \
         "Bash(python3 scripts/news_pipeline.py build --date $DATE --genre $g)" \
     | tail -5
