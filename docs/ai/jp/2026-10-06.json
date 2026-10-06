@@ -1,0 +1,60 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "Gemini無料版、10月9日から「Flash-Lite」のみに",
+      "summary_ja": "Googleは個人アカウントのGeminiアプリで、無料ユーザーは10月9日から「Flash」「Pro」を使えなくなり、速度重視の「Flash-Lite」のみになるとヘルプページで明らかにした。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35253255/",
+      "score": 85,
+      "commercial_score": 40,
+      "product_keywords": [
+        "Gemini",
+        "Google One"
+      ]
+    },
+    {
+      "title_ja": "OpenAI、ChatGPTの生成文に電子透かし EUで導入",
+      "summary_ja": "OpenAIはChatGPTやCodexが生成する文章に、AIによる生成を識別する電子透かしを導入する。EUでは数週間かけて適用し、APIでは10月5日から一部モデルで任意に有効化できる。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2145957.html",
+      "score": 78,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "Claude Cowork、ローカル実行を廃止しクラウドへ",
+      "summary_ja": "「Claude」のエージェント機能Coworkは、10月6日以降タスクをクラウドで実行するようになった。ユーザーのPCで動かす「このコンピュータのみ」の設定は削除される。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
+      "score": 72,
+      "commercial_score": 25,
+      "product_keywords": [
+        "Claude"
+      ]
+    },
+    {
+      "title_ja": "中国で生成AIの利用者数が7億人超",
+      "summary_ja": "AFPBB Newsによると、中国で生成AIを使う人が7億人を超えた。",
+      "source": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/amp/3655288",
+      "score": 65,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "Suno、有料会員と年間収益が2月時点を大幅に上回る",
+      "summary_ja": "音楽生成AI「Suno」のシュルマンCEOはブルームバーグのインタビューで、2月に公表した有料会員200万人・年間経常収益3億ドルを、現在は「はるかに上回る」と述べた。",
+      "source": "Musicman",
+      "url": "https://www.musicman.co.jp/business/745851",
+      "score": 62,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Suno"
+      ]
+    }
+  ]
+}

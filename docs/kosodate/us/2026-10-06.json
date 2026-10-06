@@ -1,0 +1,53 @@
+{
+  "genre": "kosodate",
+  "genre_label_ja": "子育て",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "NYC、低所得の1万人超を無料保育の待機から解消",
+      "summary_ja": "ニューヨーク市は、低所得家庭の子ども1万人以上を無料保育バウチャーの待機リストから外し、利用できるようにすると発表した。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/newyork/news/free-childcare-voucher-waitlist-zohran-mamdani-nyc/",
+      "score": 80,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "アルゴリズムは「赤ちゃんがいる」と知り、消費を促す",
+      "summary_ja": "新米の親はEC広告に囲まれ、ベビー用品にお金を使うよう仕向けられている。Marketplaceは、それが偶然ではないと伝えた。",
+      "source": "marketplace.org",
+      "url": "https://www.marketplace.org/story/2026/10/05/how-the-algorithm-exploits-new-parents",
+      "score": 66,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ベビー用品"
+      ]
+    },
+    {
+      "title_ja": "保育への公的資金は母親の就労を後押しするか",
+      "summary_ja": "Phys.orgが、保育への公的資金を増やすと母親の就労が増えるのかを調べた研究を紹介した。",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-childcare-funding-mothers.html",
+      "score": 60,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "カンザス州知事、保育の改善で全国表彰",
+      "summary_ja": "カンザス州のケリー知事は、保育の改善への取り組みが認められ、Child Care Aware of Americaの会議で表彰を受けた。保育料の高さへの対応は続いている。",
+      "source": "KSNT 27 News",
+      "url": "https://www.ksnt.com/capitol-bureau/kansas-gov-accepts-award-for-childcare-improvement-efforts-as-work-to-fix-high-costs-continue/",
+      "score": 55,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "ミネソタの保育事業者、ネブラスカに4施設を開設",
+      "summary_ja": "ミネソタ州の保育グループが今年ネブラスカ州で4施設を開き、さらに2施設を計画している。州の保育不足に対応する。",
+      "source": "Nebraska Public Media",
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/childcare-organization-expands-into-nebraska-with-four-centers-two-more-planned/",
+      "score": 52,
+      "commercial_score": 5
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAI、UAEのファンドやBlackRockと300億ドル調達を協議",
+      "summary_ja": "Bloombergによると、OpenAIはUAEのファンドやBlackRockと300億ドル規模の資金調達について協議している。",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
+      "score": 85,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "BroadcomとAnthropic向け、600億ドルの過去最大チップ融資",
+      "summary_ja": "ウォール街の銀行団が、BroadcomとAnthropicに関わる過去最大の600億ドルのチップ融資の組成を始めた。AI関連の債務の膨張が懸念される中、貸し手の意欲が試される。",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca",
+      "score": 80,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "米国防総省、Anthropicのツール利用を停止",
+      "summary_ja": "BBCによると、米国防総省はAnthropicのAIツールの使用をやめた。同社が安全上の制限の解除を拒んだため、2月に「サプライチェーン上のリスク」に指定していた。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5j9x9pr0240o",
+      "score": 78,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "OpenAI、豪州でのハッキングを謝罪 開示の迅速化を約束",
+      "summary_ja": "OpenAIはオーストラリアで起きたハッキングについて謝罪し、今後はより早く開示すると約束した。同国議会では同社幹部がこの件で質問を受けている。",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure",
+      "score": 75,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "OpenAI、EUでChatGPTの文章に透かし",
+      "summary_ja": "OpenAIはEUのAI法に対応し、ChatGPTとCodexが生成する文章に見えない透かしを入れる。文章を編集すると検出しにくくなるとしている。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "score": 70,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "ChatGPT広告、効果測定と画像表現を強化",
+      "summary_ja": "OpenAIは広告主の不満に応え、ChatGPT Adsに新しい広告形式と効果測定ツール、ブランドの安全性の検証を加えた。",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "ChatGPT"
+      ]
+    }
+  ]
+}

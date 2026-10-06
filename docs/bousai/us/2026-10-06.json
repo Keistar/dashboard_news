@@ -1,0 +1,42 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "NY州、はしかで災害緊急事態を宣言",
+      "summary_ja": "ニューヨーク州のホークル知事は、はしかの流行を受けて州の災害緊急事態を宣言した。今年の州内の感染者は100人を超えた。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/new-york-declares-disaster-emergency-over-measles-outbreak-2026-10-05/",
+      "score": 80,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "LA山火事の対応、連絡の不備などの失敗",
+      "summary_ja": "2025年1月のイートン・パリセーズ山火事の対応を検証した報告書は、連絡の不備などの失敗があったとし、被害は単一の判断や誤りによるものではないと結論づけた。",
+      "source": "ABC7 Los Angeles",
+      "url": "https://abc7.com/amp/post/eaton-palisades-wildfire-response-was-marred-poor-communication-other-failures-new-report/19902175/",
+      "score": 72,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "無人機にソフトバンクの通信機器、災害対応を試験",
+      "summary_ja": "米GA-ASIは無人機MQ-9Bにソフトバンクの通信機器を載せ、災害対応を想定した飛行試験を行った。",
+      "source": "Military Aerospace",
+      "url": "https://www.militaryaerospace.com/uncrewed/news/55409363/ga-asi-tests-softbank-communications-payload-on-mq-9b-for-disaster-response",
+      "score": 56,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "小型モジュール炉で変わる原子力防災の計画区域",
+      "summary_ja": "小型モジュール炉（SMR）の登場で、原子力の緊急時計画区域の前提が変わりつつある。ハーバード大公衆衛生大学院が、防災担当者が見直すべき点を解説した。",
+      "source": "hsph.harvard.edu",
+      "url": "https://hsph.harvard.edu/advanced-learning-academy/news/smrs-are-changing-the-emergency-planning-zone-what-should-emergency-managers-rethink/",
+      "score": 55,
+      "commercial_score": 5
+    }
+  ]
+}

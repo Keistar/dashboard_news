@@ -1,200 +1,210 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T16:10:37+09:00",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
   "stories": [
     {
-      "title_ja": "ノーベル医学・生理学賞、5日発表",
-      "summary_ja": "スウェーデンのカロリンスカ研究所が日本時間5日夕に発表する。日本勢では森和俊氏や睡眠研究の柳沢正史氏が有力視される。",
-      "source": "日本経済新聞",
-      "url": "https://nikkei.com/article/DGXZQOSG301NO0Q6A930C2000000",
-      "score": 80,
+      "title_ja": "若い世代でがんの増加が速まる、国際研究",
+      "summary_ja": "英国・米国・オランダのデータを調べた研究者が、7種のがんで若年発症の大幅な増加を確認した。生活習慣への警告が出ている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds",
+      "score": 78,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ラスカー賞の柳沢教授、日本人の睡眠不足を危惧",
+      "summary_ja": "2026年のラスカー基礎医学研究賞に選ばれた筑波大の柳沢正史教授が、日本人の恒常的な睡眠不足に警鐘を鳴らした。AI時代に人にしかできない仕事は、十分に眠った脳でしかできないと語る。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c9686f76d0351d39f9c2ae8ee26c9f69864d67d8",
+      "score": 74,
+      "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "寝るだけで賞金222万円、90分の「睡眠レース」",
+      "summary_ja": "眠りの質を競う90分の「睡眠レース」が5日に開かれた。勝敗を決めるのは、どれだけ質の高い眠りを取れたか。優勝賞金は222万円。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/1b04a1e97eae5d9d28e49ced98b582ef87e1c820",
+      "score": 72,
+      "commercial_score": 50,
+      "product_keywords": [
+        "睡眠グッズ",
+        "枕"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "NHSの子どもの4人に1人、治療を1年以上待つ",
+      "summary_ja": "2026年7月時点で、NHSの地域保健サービスの待機リストに載る子どもの26.7%が52週以上待っていた。",
+      "source": "lbc.co.uk",
+      "url": "https://www.lbc.co.uk/article/children-year-long-waits-nhs-treatment-5HjdjRf_2/",
+      "score": 72,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "10代の体力が、成人後のうつのリスクを下げる可能性",
+      "summary_ja": "10代のときに体力があると、大人になってからのうつを防ぐ可能性があるとする研究が発表された。",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/2026/10/06/could-teenage-fitness-shape-your-mental-health-decades-later-new-research-suggests-it-migh",
+      "score": 70,
+      "commercial_score": 30,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "見守り機器の同意を巡り、NHSの10トラストを照会",
+      "summary_ja": "患者の病室で呼吸や脈拍を見守る赤外線機器の同意の扱いを巡り、NHSの10のトラストが照会された。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o",
+      "score": 70,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "女性は全身で男性より痛みを抱える、世界規模の研究",
+      "summary_ja": "世界の人々の痛みを生涯にわたって調べた研究で、女性は全身で男性より痛みが多いと分かった。差が最も急に広がるのは55歳まで。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/05/women-more-pain-than-men-global-study",
+      "score": 68,
+      "commercial_score": 10,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "全粒穀物には心臓に良い「適量」がある",
+      "summary_ja": "Washington Postが、心臓の健康にとって全粒穀物には最適な摂取量があるとする研究を紹介した。",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/05/study-finds-whole-grain-sweet-spot-heart-health/",
+      "score": 66,
+      "commercial_score": 35,
+      "product_keywords": [
+        "全粒粉",
+        "オートミール"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "NHSのPalantir契約に抗議、病院前でデモ",
+      "summary_ja": "英サセックスの活動家が、NHSに米Palantirとの3億3000万ポンドのデータ契約をやめるよう求めて、病院の前で抗議した。",
+      "source": "The Argus",
+      "url": "https://www.theargus.co.uk/news/26603249.sussex-campaigners-call-nhs-drop-palantir-contract/",
+      "score": 64,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "夜型の人は障害年金が必要になる可能性が70%高い",
+      "summary_ja": "夜型の人は、障害年金が必要になる可能性が70%高いとする研究結果をScienceAlertが伝えた。",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/night-owls-are-70-more-likely-to-need-a-disability-pension-study-suggests",
+      "score": 62,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "使い捨て服「次抛衣」に健康リスク",
+      "summary_ja": "休暇の旅行で写真映えを狙い、数元から十数元の使い捨て服を買う若者が増えている。中国環境網はその健康上のリスクを指摘した。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-10-06/detail-iniufxcq7248011.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 62,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "認知機能の低下を70%抑制、「脳の健康」を高める5つの方法",
+      "summary_ja": "脳の健康を高める5つの方法を紹介する記事。国連総会でも「脳機能資本（ブレインキャピタル）」が焦点になっていると伝えている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/6d13e525f9f1eccdac306294091736465277f439",
+      "score": 60,
       "commercial_score": 25,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "GLP-1と男性の薄毛の関連を示す研究",
-      "summary_ja": "NYU Langoneの研究で、遺伝的に薄毛リスクのある男性はGLP-1薬の使用で脱毛リスクが約7%上がる可能性が示された。薬が原因とは確定していない。",
-      "source": "Washington Post",
-      "url": "https://washingtonpost.com/wellness/2026/10/03/new-study-suggests-possible-connection-between-glp-1s-hair-loss-men",
-      "score": 78,
-      "commercial_score": 55,
-      "product_keywords": [
-        "育毛剤"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "チルゼパチドが高用量セマグルチドより減量効果",
-      "summary_ja": "EASDで発表された間接比較で、チルゼパチドは高用量セマグルチドより平均3〜4.5%多く減量した。ただし直接比較試験はなく仮説段階。",
-      "source": "Pharmacy Times",
-      "url": "https://www.pharmacytimes.com/view/tirzepatide-linked-to-more-weight-loss-than-semaglutide-7-2-mg",
-      "score": 76,
-      "commercial_score": 45,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "NHS、子どもと妊婦のインフル接種を開始",
-      "summary_ja": "NHSが冬に向けて子どもと妊婦へのインフルエンザ接種を始めた。65歳以上や持病のある成人などは10月1日から接種できる。",
-      "source": "NHS England",
-      "url": "https://www.england.nhs.uk/2026/09/nhs-kicks-off-flu-jabs-for-children-and-pregnant-women-ahead-of-winter/",
-      "score": 74,
-      "commercial_score": 40,
+      "title_ja": "バーミンガムに女性の健康格差を縮めるNHS研究拠点",
+      "summary_ja": "臨床研究のSelene Clinical Researchが、女性の健康格差の解消を目指すNHSの研究拠点6カ所の最初の1つをバーミンガムに開いた。3年で最大30人を雇う。",
+      "source": "TheBusinessDesk.com",
+      "url": "https://www.thebusinessdesk.com/westmidlands/news/2117714-birmingham-lands-first-of-six-nhs-research-sites-aimed-at-closing-womens-health-gap",
+      "score": 60,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "インフルエンザ、今季は早期に流行入り",
-      "summary_ja": "インフルエンザの流行入りは例年より早く、感染症法施行以来2番目の早さとされる。高齢者の定期接種は10月1日から始まった。",
-      "source": "大阪府",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51206.html",
-      "score": 72,
-      "commercial_score": 40,
-      "product_keywords": [
-        "インフルエンザ マスク"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "リリーの経口GLP-1が糖尿病・心血管リスク低減",
-      "summary_ja": "リリーの経口GLP-1薬Foundayoは、2型糖尿病と心血管疾患の予測長期リスクを大きく下げることと関連したと発表された。",
-      "source": "Eli Lilly",
-      "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-was-associated",
-      "score": 70,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "国慶連休は飲食・蚊媒介の健康リスクに注意",
-      "summary_ja": "連休は人の移動や会食が増え、食中毒や蚊媒介感染症のリスクが高まる。防蚊対策や食品の加熱を呼びかけている。",
-      "source": "光明網",
-      "url": "https://m.gmw.cn/2026-10/01/content_39030602.htm",
-      "score": 70,
-      "commercial_score": 35,
-      "product_keywords": [
-        "虫よけ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "米医学団体、今秋のインフル・コロナ接種を推奨",
-      "summary_ja": "米国の主要医学団体が、6か月以上のほぼ全員にインフルエンザ接種を勧める指針を出した。政権の助言の変化による混乱の緩和が狙い。",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/health/top-u-s-doctors-offer-updated-flu-and-covid-vaccine-recommendations-aiming-to-ease-confusion",
-      "score": 68,
-      "commercial_score": 35,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "リリーのFoundayo、英MHRAが承認",
-      "summary_ja": "英医薬品規制当局MHRAが8月10日に経口GLP-1のFoundayoを承認した。欧州で最初の承認とされる。",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/eli-lillys-foundayo-wins-uk-approval",
-      "score": 66,
-      "commercial_score": 40,
+      "title_ja": "スコットランドのNHSアプリ、利用低迷に批判",
+      "summary_ja": "スコットランドのNHSアプリ「MyCare.scot」は6月の公開以来2万2206回しかダウンロードされていない。開発費は1700万ポンドで、批判が出ている。",
+      "source": "Med-Tech Insights",
+      "url": "https://med-techinsights.com/2026/10/05/low-uptake-for-scottish-nhs-app-draws-criticism-amid-debates-about-scalability/",
+      "score": 60,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "国慶連休に多い「健康の落とし穴」",
-      "summary_ja": "連休中に多くの人が陥りがちな健康の落とし穴を紹介する。出行時の生活習慣の乱れに注意を促す内容。",
-      "source": "光明網",
-      "url": "https://m.gmw.cn/2026-10/02/content_1304570845.htm",
-      "score": 64,
-      "commercial_score": 35,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "国慶連休の健康リスク、流感や諾如に注意",
-      "summary_ja": "疾控部門は連休中のデング熱、チクングニア熱、インフルエンザ、ノロウイルス胃腸炎への警戒を呼びかけている。",
-      "source": "搜狐",
-      "url": "https://sohu.com/a/1082883021_121106832",
-      "score": 62,
-      "commercial_score": 35,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "筋トレは有酸素より睡眠を延ばす可能性",
-      "summary_ja": "米心臓協会の会議で、1年間の筋トレで睡眠が平均40分延びたとの予備研究が示された。有酸素運動のみの群は約23分の延びだった。",
-      "source": "CNN.co.jp",
-      "url": "https://www.cnn.co.jp/fringe/35187172.html",
-      "score": 60,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ダンベル",
-        "プロテイン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "連休の「代謝安定」術、体重計より微習慣",
-      "summary_ja": "上海の健康番組が、体重計を手放して微習慣で代謝を整える方法を紹介した。筋肉・睡眠・インスリンの観点から解説している。",
-      "source": "搜狐",
-      "url": "https://sohu.com/a/1083733495_122066679",
-      "score": 60,
-      "commercial_score": 45,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "国慶の旅に健康の備えを、各地が提示",
-      "summary_ja": "連休の外出前に感染症の流行情報を確認し、手洗いや換気を徹底するよう促している。北京日報が健康提示をまとめた。",
-      "source": "北京日報",
-      "url": "https://xinwen.bjd.com.cn/content/s6abdeee8e4b039a8e2f1cde3.html",
+      "title_ja": "ジャガイモを主食にすれば痩せる？ デマを検証",
+      "summary_ja": "米や麺をジャガイモに替え、半年で体重が25斤（12.5kg）減ったという話について、全国ネットデマ対策プラットフォームが検証した。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-10-06/detail-iniufxcp5872297.d.html?vt=4&cid=76675&node_id=76675",
       "score": 58,
-      "commercial_score": 30,
+      "commercial_score": 20,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "早寝の人は翌日の活動量が約30分多い",
-      "summary_ja": "約2万人の1年間の記録から、早寝の人は遅寝の人より中高強度の活動が約30分長いと判明した。睡眠と運動の関係を示す研究。",
-      "source": "Newsweek日本版",
-      "url": "https://www.newsweekjapan.jp/articles/-/18655",
+      "title_ja": "山陰合同銀行、女性の健康配慮で中国・四国初の認定",
+      "summary_ja": "女性が活躍できる職場づくりや健康への配慮に取り組む事業者を国が認定する制度で、松江市の山陰合同銀行が中国・四国地方で初めて認定された。",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55020",
       "score": 56,
-      "commercial_score": 45,
-      "product_keywords": [
-        "スマートウォッチ 睡眠"
-      ],
+      "commercial_score": 5,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "PureGym、英国のフィットネス年次報告",
-      "summary_ja": "PureGymの年次報告は、英国人の健康やフィットネスへの意識と2026年のトレンドを分析している。ジム利用の統計も含まれる。",
-      "source": "PureGym",
-      "url": "https://www.puregym.com/amp/blog/uk-fitness-report-gym-statistics/",
+      "title_ja": "AIによる心のケア、3つの段階を経て進化",
+      "summary_ja": "大規模言語モデルのメンタルヘルス分野での進化を、リスク検出の道具から共感する対話相手、記憶を持つ長期の伴走者へと3段階で整理した。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1006/3201122.shtml",
       "score": 56,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ジム 会員"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "2026年ウェルネス潮流は女性向けフィットネス",
-      "summary_ja": "周期に合わせたトレーニングや更年期向けの低負荷筋トレなど、女性中心のフィットネスが広がっている。体の声を聞く運動が潮流とされる。",
-      "source": "Luxury London",
-      "url": "https://luxurylondon.co.uk/wellbeing/health/2026-wellness-trends-female-fitness-somatic-healing-fibre/",
-      "score": 54,
-      "commercial_score": 50,
+      "title_ja": "国慶節特集、室内でできる科学的なトレーニング",
+      "summary_ja": "新華網が国慶節の休み向けに、室内で続けられる運動のやり方を紹介した。",
+      "source": "新华网",
+      "url": "http://www.xinhuanet.com/20261006/325012fbb8434e4fb40fa391107a1c2e/c.html",
+      "score": 55,
+      "commercial_score": 40,
       "product_keywords": [
-        "ヨガマット"
+        "ヨガマット",
+        "トレーニング器具"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "銀川で国慶節の運動ブーム",
+      "summary_ja": "国慶節の休み中、寧夏の銀川では各地の運動施設に多くの市民が集まった。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084356697_362042",
+      "score": 50,
+      "commercial_score": 15,
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

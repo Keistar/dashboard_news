@@ -1,233 +1,238 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T16:10:36+09:00",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
   "stories": [
     {
-      "title_ja": "元OpenAI安全担当「文化は壊れている」と寄稿",
-      "summary_ja": "OpenAIで安全性報告書を統括した従業員が退社し、同社の文化は壊れていると寄稿した。急速なモデル投入と安全性の両立が改めて問われている。",
-      "source": "ITmedia NEWS",
-      "url": "https://itmedia.co.jp/news/article/2610/04/2000001986",
-      "score": 80,
+      "title_ja": "DeepSeek、800億元超の資金調達へ 騰訊・CATLが主導",
+      "summary_ja": "ブルームバーグによると、DeepSeekは最新の資金調達で少なくとも800億元（約120億ドル）を確保する見通しで、目標を大きく上回る。2027年初めの上場に道を開く。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8x0BP1e1Hur",
+      "score": 88,
       "commercial_score": 10,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "OpenAI、GPT-6.1 Sol公開 Astraに迫り低価格",
-      "summary_ja": "OpenAIはGPT-6.1 SolをDevDayで発表し、GPT-6 Astraにほぼ並ぶ性能をより低価格で提供するとした。ChatGPT WorkとCodexの有料利用者から使える。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "score": 80,
-      "commercial_score": 35,
       "product_keywords": [
-        "ChatGPT"
+        "DeepSeek"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Gemini 4 Argon、Astra・Fable・Opusとの違い",
-      "summary_ja": "ITmedia AI＋がGoogleの新モデルGemini 4 Argonの性能評価を解説した。GPT-6 AstraやClaude Fable、Opusとの違いと一般提供時期にも触れている。",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
-      "score": 78,
-      "commercial_score": 30,
-      "product_keywords": [
-        "Gemini"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Google、最上位モデル「Gemini 4 Argon」を展開",
-      "summary_ja": "GoogleはAlphabetで最も高度なモデルGemini 4 Argonの提供を始めた。コーディングやサイバーセキュリティ、専門業務が強化された。",
-      "source": "CNBC",
-      "url": "https://cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-      "score": 78,
-      "commercial_score": 30,
-      "product_keywords": [
-        "Gemini"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Google「Gemini 4 Argon」発表、他社最上位級を上回る",
-      "summary_ja": "GoogleはGemini 4シリーズの先駆けとなるGemini 4 Argonを発表した。GPT-6 AstraやClaude Fable 5.1を超える性能をうたう。",
-      "source": "GIGAZINE",
-      "url": "https://gigazine.net/news/20261001-google-gemini-4-argon",
-      "score": 76,
-      "commercial_score": 30,
-      "product_keywords": [
-        "Gemini"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "OpenAI「GPT-6.1 Sol」、Astra級を5分の1の料金で",
-      "summary_ja": "OpenAIはGPT-6.1 Solを公開し、GPT-6 Astraに迫る性能を5分の1の料金で提供するとした。先代モデルからわずか1週間での投入となった。",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
-      "score": 74,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ChatGPT"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Google、OpenAI・Anthropic対抗のGemini 4を披露",
-      "summary_ja": "GoogleはOpenAIとAnthropicへの待望の回答となるGemini 4を発表した。フロンティアAI競争が一段と激しくなる。",
-      "source": "Axios",
-      "url": "https://axios.com/2026/09/30/google-gemini-4",
-      "score": 72,
-      "commercial_score": 25,
-      "product_keywords": [
-        "Gemini"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英AI安全研究所、最新モデルの試験が阻まれる恐れ",
-      "summary_ja": "OpenAIとAnthropicが、ホワイトハウスの要請で最新モデルを英AISIに渡さない可能性があると報じられた。英国の試験体制に影響しうる。",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/ai/uk-ai-security-institute-may-be-blocked-from-testing-latest-openai-and-anthropic-models",
-      "score": 72,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国科学院、AI中心の5カ年計画を発表",
-      "summary_ja": "中国科学院は2026〜2030年の新たな5カ年計画を公表した。集積回路やAI、量子技術などを重点分野に据える。",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3369084/china-targets-ai-and-frontier-tech-newly-unveiled-innovation-blueprint",
-      "score": 72,
-      "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "OpenAI、24時間働くエージェント「dots」発表",
-      "summary_ja": "OpenAIはGPT-6 Astraを搭載した常時稼働エージェントdotsを発表した。クラウド上で自律的にタスクをこなす。",
-      "source": "ITmedia AI＋",
-      "url": "https://itmedia.co.jp/aiplus/article/2609/30/2000001864",
-      "score": 70,
-      "commercial_score": 35,
+      "title_ja": "Gemini無料版、10月9日から「Flash-Lite」のみに",
+      "summary_ja": "Googleは個人アカウントのGeminiアプリで、無料ユーザーは10月9日から「Flash」「Pro」を使えなくなり、速度重視の「Flash-Lite」のみになるとヘルプページで明らかにした。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35253255/",
+      "score": 85,
+      "commercial_score": 40,
       "product_keywords": [
-        "ChatGPT"
+        "Gemini",
+        "Google One"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "国慶連休に広がる中国のAI活用、CGTNが紹介",
-      "summary_ja": "CGTNは国慶節の連休で観光や消費の場面にAIが浸透していると伝えた。AI歩行認識で動く外骨格デバイスも登山客に使われている。",
-      "source": "CGTN",
-      "url": "https://news.cgtn.com/news/2026-10-04/Holiday-experiences-highlight-practical-power-of-China-s-AI-innovation-1QXLHVxxuHS/p.html",
-      "score": 70,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "OpenAI、常時稼働エージェント「Dots」を投入",
-      "summary_ja": "OpenAIは専用のクラウドPCを持ち、割り当てた作業を進める常時稼働エージェントDotsを発表した。GPT-6 Astraを搭載する。",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/09/29/openai-dots-agent",
-      "score": 68,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ChatGPT"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英政府、AI「キルスイッチ」を否定",
-      "summary_ja": "英政府は緊急時に閣僚がAIを停止できる法的キルスイッチ構想を退けた。技術界の指導者らは慎重な姿勢を促している。",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/ai/government-rules-out-ai-kill-switch-as-tech-leaders-urge-caution",
-      "score": 68,
-      "commercial_score": 5,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "GPT-6 Astraの超高速モード、月8.4万円のProプラン",
-      "summary_ja": "OpenAIはGPT-6 Astraを8倍速で動かすUltrafastモードと、上限を増やす月額8.4万円のPro 500プランを導入した。",
-      "source": "GIGAZINE",
-      "url": "https://gigazine.net/gsc_news/en/20260930-gpt-6-astra-ultrafast",
-      "score": 66,
-      "commercial_score": 45,
-      "product_keywords": [
-        "ChatGPT Pro"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "3社、金融業界FINRA型のAI安全規制機関を計画",
-      "summary_ja": "Google、OpenAI、Anthropicが最先端AI向けの安全基準を定める共同機関の設立を計画している。年内か2027年初頭の発足を目指す。",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/28/google-openai--anthropic-plan-their-own-finra-style-ai-safety-regulator/",
-      "score": 66,
+      "title_ja": "OpenAI、UAEのファンドやBlackRockと300億ドル調達を協議",
+      "summary_ja": "Bloombergによると、OpenAIはUAEのファンドやBlackRockと300億ドル規模の資金調達について協議している。",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
+      "score": 85,
       "commercial_score": 15,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英政府、オープンソースAI開発者に計算資源支援",
-      "summary_ja": "英政府は50万ポンド超の計算資源支援となる基金を創設し、若手開発者10人の諮問委員会も設ける。",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/uk-backs-open-source-ai-builders",
-      "score": 64,
+      "title_ja": "BroadcomとAnthropic向け、600億ドルの過去最大チップ融資",
+      "summary_ja": "ウォール街の銀行団が、BroadcomとAnthropicに関わる過去最大の600億ドルのチップ融資の組成を始めた。AI関連の債務の膨張が懸念される中、貸し手の意欲が試される。",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca",
+      "score": 80,
       "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "AIによる雇用喪失、英国が他国より深刻と報告",
-      "summary_ja": "報告書は、AI起因の雇用喪失が英国で同水準の国々より大きいと指摘した。労働市場への影響が懸念される。",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/ai/ai-driven-job-losses-hitting-uk-harder-than-peers",
-      "score": 62,
+      "title_ja": "快手の動画生成AI「可霊」、香港上場へ 10億ドル調達",
+      "summary_ja": "快手傘下の動画生成AI「可霊（Kling）」は引受銀行を選び、香港での新規株式公開の準備を進めている。少なくとも10億ドルの調達を目指す。",
+      "source": "联合早报",
+      "url": "https://www.zaobao.com.sg/news/china/story20261006-9790693",
+      "score": 80,
+      "commercial_score": 20,
+      "product_keywords": [
+        "Kling AI"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "OpenAI、ChatGPTの生成文に電子透かし EUで導入",
+      "summary_ja": "OpenAIはChatGPTやCodexが生成する文章に、AIによる生成を識別する電子透かしを導入する。EUでは数週間かけて適用し、APIでは10月5日から一部モデルで任意に有効化できる。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2145957.html",
+      "score": 78,
+      "commercial_score": 20,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米国防総省、Anthropicのツール利用を停止",
+      "summary_ja": "BBCによると、米国防総省はAnthropicのAIツールの使用をやめた。同社が安全上の制限の解除を拒んだため、2月に「サプライチェーン上のリスク」に指定していた。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5j9x9pr0240o",
+      "score": 78,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "OpenAI、豪州でのハッキングを謝罪 開示の迅速化を約束",
+      "summary_ja": "OpenAIはオーストラリアで起きたハッキングについて謝罪し、今後はより早く開示すると約束した。同国議会では同社幹部がこの件で質問を受けている。",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure",
+      "score": 75,
+      "commercial_score": 5,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "バイトダンス、飛書と豆包を統合へ",
+      "summary_ja": "財聯社によると、字節跳動（バイトダンス）は業務ツール「飛書」とAIアシスタント「豆包」を統合し、法人向け事業を組み直す。大手各社がAIの業務の入口を争っている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2441092",
+      "score": 74,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Claude Cowork、ローカル実行を廃止しクラウドへ",
+      "summary_ja": "「Claude」のエージェント機能Coworkは、10月6日以降タスクをクラウドで実行するようになった。ユーザーのPCで動かす「このコンピュータのみ」の設定は削除される。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
+      "score": 72,
+      "commercial_score": 25,
+      "product_keywords": [
+        "Claude"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "トランプ氏、AIタスクフォースの長に国家情報長官",
+      "summary_ja": "トランプ米大統領は、AIへの懸念が高まる中で新設するタスクフォースを、国家情報長官に率いさせると表明した。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
+      "score": 72,
       "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "議員ら「英規制当局にAIリスクを止める権限なし」",
-      "summary_ja": "英議員は規制当局にAIリスクを止める権限が不足していると指摘した。AI規制の抜本的強化を求める声が出ている。",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/legislation-regulation/uk-regulators-lack-power-to-stop-ai-risks",
-      "score": 60,
+      "title_ja": "OpenAI、EUでChatGPTの文章に透かし",
+      "summary_ja": "OpenAIはEUのAI法に対応し、ChatGPTとCodexが生成する文章に見えない透かしを入れる。文章を編集すると検出しにくくなるとしている。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "score": 70,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国民の過半数、AIを「悪い力」と認識",
+      "summary_ja": "英国で行われた大規模な世論調査で、回答者の過半数がAIを社会にとって「悪い力」と見ていることが分かった。",
+      "source": "The National Scot",
+      "url": "https://www.thenational.scot/news/26608671.major-poll-reveals-uk-voters-fears-ai-force-bad/",
+      "score": 70,
       "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "香港、AI時代の若手雇用へ4段階の人材育成案",
-      "summary_ja": "香港当局はAIによる入門職の減少に備え、4段階の人材育成の道筋を示した。若手の雇用への打撃を和らげるねらい。",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369751/hong-kong-outlines-four-step-ai-talent-ladder-offset-entry-level-job-shock",
-      "score": 60,
+      "title_ja": "智譜の時価総額3000億超 ゴールドマンが「買い」に",
+      "summary_ja": "ゴールドマン・サックスは智譜の評価を「中立」から「買い」に引き上げた。商業化の道筋が明確になったことなどを理由に挙げ、5日の株価は大きく上昇した。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-05/doc-iniuerix2648460.shtml",
+      "score": 70,
       "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "新浪AI熱点時報 10月4日16時",
-      "summary_ja": "新浪が10月4日16時時点のAI関連トピックをまとめた。ロボットやモデル関連の話題が並ぶ。",
-      "source": "新浪新闻",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908psqi.html",
-      "score": 50,
+      "title_ja": "「電源を抜け」 AI企業への直接行動に出る抗議団体",
+      "summary_ja": "AIの安全性をめぐる警告が相次ぐ中、AI企業に抗議する団体の会員が急増している。一部は直接行動に踏み切っている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "score": 68,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Mistral CEO、新モデルは一部分野で中国勢を上回ると発言",
+      "summary_ja": "仏MistralのCEOは、新しいAIモデルが一部の分野で中国のモデルを上回っていると述べた。",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+      "score": 66,
+      "commercial_score": 15,
+      "product_keywords": [
+        "Mistral"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国で生成AIの利用者数が7億人超",
+      "summary_ja": "AFPBB Newsによると、中国で生成AIを使う人が7億人を超えた。",
+      "source": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/amp/3655288",
+      "score": 65,
       "commercial_score": 10,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ChatGPT広告、効果測定と画像表現を強化",
+      "summary_ja": "OpenAIは広告主の不満に応え、ChatGPT Adsに新しい広告形式と効果測定ツール、ブランドの安全性の検証を加えた。",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "ChatGPT"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "韓国、来年から35億ドルで最先端AIモデル開発へ",
+      "summary_ja": "韓国は来年から35億ドルを投じて、最先端（フロンティア）のAIモデルを開発する計画だ。",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-plans-develop-35-billion-frontier-ai-model-starting-next-year-2026-10-06/",
+      "score": 64,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Suno、有料会員と年間収益が2月時点を大幅に上回る",
+      "summary_ja": "音楽生成AI「Suno」のシュルマンCEOはブルームバーグのインタビューで、2月に公表した有料会員200万人・年間経常収益3億ドルを、現在は「はるかに上回る」と述べた。",
+      "source": "Musicman",
+      "url": "https://www.musicman.co.jp/business/745851",
+      "score": 62,
+      "commercial_score": 30,
+      "product_keywords": [
+        "Suno"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "「米国版DeepSeek」Beam公開、V4.1 Flashには及ばず",
+      "summary_ja": "「米国版DeepSeek」と呼ばれる大規模モデル「Beam」が公開された。驅動之家は、性能は悪くないもののDeepSeek V4.1 Flashには及ばないと評価している。",
+      "source": "驱动之家",
+      "url": "https://news.mydrivers.com/1/1155/1155501.htm",
+      "score": 60,
+      "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
     }

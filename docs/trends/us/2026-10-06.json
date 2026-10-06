@@ -1,0 +1,133 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "trends": [
+    {
+      "keyword": "Prime Big Deal Days",
+      "reason_ja": "Amazonの秋のプライム会員向けセールが始まり、各メディアがお買い得品を紹介している。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Prime Big Deal Days",
+        "portable power station"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "ワイヤレスイヤホン"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "10月のプライムデー、ファッション・美容のお買い得",
+          "summary_ja": "WWDが10月のプライムデーで買うべきファッション・美容品をまとめた。LEDフェイスマスクなどが半額になっている。",
+          "source": "WWD",
+          "url": "https://wwd.com/shop/shop-fashion/amazon-prime-big-deal-days-fashion-beauty-sales-oct-2026-1239312389/"
+        },
+        {
+          "title_ja": "10月のプライムデー、アウトドア用品のお買い得",
+          "summary_ja": "Mashableが10月のプライムデーで安くなるアウトドア用品をまとめた。Jackeryのポータブル電源やIglooのクーラーなどが並ぶ。",
+          "source": "Mashable",
+          "url": "https://mashable.com/life/best-early-october-prime-day-outdoor-deals-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "Starbucks holiday menu",
+      "reason_ja": "スターバックスの2026年ホリデーメニューが発表され、新ドリンクが話題に。",
+      "genre": "food",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Starbucks holiday cup"
+      ],
+      "product_keywords_ja": [
+        "スターバックス タンブラー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "スタバ、2026年のホリデーメニューを発表",
+          "summary_ja": "ティラミスベルベットのシリーズやアップルポメグラネートのリフレッシャーが加わり、定番の復活や新しいフード、グッズも並ぶ。",
+          "source": "Delish",
+          "url": "https://www.delish.com/food-news/a74030611/starbucks-2026-holiday-menu-new-drinks-food-merchandise/"
+        }
+      ]
+    },
+    {
+      "keyword": "flight cancellation and delay",
+      "reason_ja": "全米で945便を超える遅延と37便の欠航が出て、旅行の乱れが広がった。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "travel pillow",
+        "carry-on organizer"
+      ],
+      "product_keywords_ja": [
+        "トラベルピロー",
+        "モバイルバッテリー"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "全米で945便超が遅延、37便が欠航",
+          "summary_ja": "米国各地で航空便の乱れが広がり、945便を超える遅延と37便の欠航が出た。",
+          "source": "NJ.com",
+          "url": "https://www.nj.com/news/2026/10/over-945-flights-delayed-37-canceled-amid-widespread-us-travel-disruptions.html"
+        },
+        {
+          "title_ja": "空港で足止めされたときの機内持ち込み用の備え",
+          "summary_ja": "フライトの遅延や欠航に備え、機内持ち込みの荷物に入れておくべきものを紹介した。",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/jonisweet/2026/09/30/what-to-pack-and-how-to-prepare-for-flight-delays-and-cancellations/"
+        }
+      ]
+    },
+    {
+      "keyword": "ben affleck",
+      "reason_ja": "ベン・アフレックが出演する新作映画『Animals』のプレミアが続いている。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [
+        "Animals movie"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "映画『Animals』のLAプレミア、ベン・アフレックら登場",
+          "summary_ja": "映画『Animals』のロサンゼルスでのプレミアに、ベン・アフレック、マット・デイモン、ケリー・ワシントンらが出席した。",
+          "source": "Page Six",
+          "url": "https://pagesix.com/2026/10/01/photos/animals-la-premiere-red-carpet-ben-affleck-matt-damon-kerry-washington-and-more/"
+        }
+      ]
+    },
+    {
+      "keyword": "naomi osaka",
+      "reason_ja": "中国オープンでの大坂なおみの試合に関心が集まっている。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [
+        "Naomi Osaka"
+      ],
+      "product_keywords_ja": [
+        "テニスラケット"
+      ],
+      "trend_source": "Google Trends US",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "大坂なおみ、世界29位を下し16強",
+          "summary_ja": "大坂なおみが中国オープンで世界29位を破り、ベスト16に進んだ。",
+          "source": "tennis365.net",
+          "url": "https://news.tennis365.net/news/today/202610/159273.html"
+        }
+      ]
+    }
+  ]
+}

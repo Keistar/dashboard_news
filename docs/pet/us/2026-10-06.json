@@ -1,0 +1,40 @@
+{
+  "genre": "pet",
+  "genre_label_ja": "ペット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "キャットフードから重金属、業界団体は研究に反論",
+      "summary_ja": "Clean Label Projectが62ブランド100品のキャットフードを調べ、99%から鉛を検出した。Pet Food Instituteは、結果を解釈するための科学的・規制上の背景が欠けていると反論している。",
+      "source": "PetfoodIndustry",
+      "url": "https://www.petfoodindustry.com/safety-quality/news/15836612/heavy-metals-found-in-cat-foods-pfi-disputes-study",
+      "score": 78,
+      "commercial_score": 40,
+      "product_keywords": [
+        "キャットフード"
+      ]
+    },
+    {
+      "title_ja": "Rover発表、2026年の人気の猫の名前トップ10",
+      "summary_ja": "ペットシッターサービスのRoverによると、2026年の米国で最も人気の猫の名前はLunaだった。食べ物由来のMochiなども上位に入った。",
+      "source": "qz.com",
+      "url": "https://qz.com/popular-cat-names-2026",
+      "score": 60,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "Tractor Supply、多頭飼い向けの犬用2段ベッド",
+      "summary_ja": "Tractor Supplyが、複数の犬が寝られる2段ベッドを売り出した。",
+      "source": "AOL.com",
+      "url": "https://www.aol.com/articles/tractor-supplys-dog-bunk-bed-153300000.html",
+      "score": 55,
+      "commercial_score": 65,
+      "product_keywords": [
+        "犬 ベッド"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "trends": [
+    {
+      "keyword": "Amazon プライム感謝祭",
+      "reason_ja": "Amazonの「プライム感謝祭」に合わせ、家電・ガジェットのメーカー各社がセール対象を発表している。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "プライム感謝祭"
+      ],
+      "product_keywords_ja": [
+        "モバイルバッテリー",
+        "充電器"
+      ],
+      "trend_source": "ニュース（セール告知）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "シャオミ、プライム感謝祭で最大29%オフ",
+          "summary_ja": "シャオミ・ジャパンは10月5日、Amazonの「プライム感謝祭」に合わせたセールを告知した。一部製品は10月6日から値下げする。",
+          "source": "週刊モバイル.com",
+          "url": "https://mobamag.com/sale/xiaomi-prime-kanshasai-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "ブラックベリーヨーグルトフラペチーノ",
+      "reason_ja": "スタバのハロウィン限定フラペチーノが10月9日に発売され、黒猫・白猫のグッズも話題に。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "スターバックス ハロウィン"
+      ],
+      "product_keywords_ja": [
+        "スターバックス ハロウィン",
+        "スターバックス タンブラー"
+      ],
+      "trend_source": "Google トレンド JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "スタバ、ハロウィン限定のブラックベリーヨーグルトフラペチーノ",
+          "summary_ja": "スターバックスは10月9日から、ハロウィン限定の「ブラックベリー ヨーグルト フラペチーノ」黒耳ver.と白耳ver.を発売する。",
+          "source": "スターバックス ストーリーズ",
+          "url": "https://stories.starbucks.co.jp/press/2026/pr-2026-1006-01/"
+        },
+        {
+          "title_ja": "スタバのハロウィンは黒猫と白猫のグッズ",
+          "summary_ja": "スタバの今年のハロウィンでは黒猫と白猫のグッズが登場し、10月8日20時からオンラインストアで先行販売する。",
+          "source": "Yahoo!ニュース（GAME Watch）",
+          "url": "https://news.yahoo.co.jp/articles/762e57768a41a86ceb77e5aeed3e279065222e2d"
+        }
+      ]
+    },
+    {
+      "keyword": "スズキ eスカイ",
+      "reason_ja": "スズキ初の軽乗用EV「eスカイ」が212万円からと発表され、国内の軽EVで最安になった。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "スズキ eスカイ",
+        "軽EV"
+      ],
+      "product_keywords_ja": [
+        "EV 充電ケーブル",
+        "軽自動車 フロアマット"
+      ],
+      "trend_source": "Google トレンド JP（スズキ 軽自動車）",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "スズキの軽EV「eスカイ」、日本最安の212万円",
+          "summary_ja": "スズキは11月に発売する軽EV「eスカイ」の価格を212万円からと発表した。国内の軽EVで最も安く、7月に発売されたBYDの「ラッコ」より安い。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC028R10S6A001C2000000/"
+        },
+        {
+          "title_ja": "200万円が軽EVの生命線 スズキはBYD製電池で最安に",
+          "summary_ja": "スズキは中国BYD製の電池を採用し、軽EVで国内最安の価格を実現した。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC286UR0Y6A920C2000000/"
+        }
+      ]
+    },
+    {
+      "keyword": "庵野秀明 ヤマト",
+      "reason_ja": "庵野秀明が製作総指揮・監督を務める映画『宇宙戦艦ヤマト√2199』の制作が発表された。",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "宇宙戦艦ヤマト"
+      ],
+      "product_keywords_ja": [
+        "宇宙戦艦ヤマト プラモデル",
+        "宇宙戦艦ヤマト Blu-ray"
+      ],
+      "trend_source": "Google トレンド JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "「宇宙戦艦ヤマト√2199」制作決定、庵野秀明が監督",
+          "summary_ja": "庵野秀明が製作総指揮・監督、出渕裕が共同監督を務める『宇宙戦艦ヤマト√2199』の制作が決まった。",
+          "source": "ナタリー",
+          "url": "https://natalie.mu/comic/news/692501"
+        },
+        {
+          "title_ja": "スタジオカラーとProduction I.Gが初の共同制作",
+          "summary_ja": "『宇宙戦艦ヤマト√2199』はスタジオカラーとProduction I.Gが初めて共同で制作する。",
+          "source": "AV Watch",
+          "url": "https://av.watch.impress.co.jp/docs/news/2145873.html"
+        }
+      ]
+    },
+    {
+      "keyword": "デーブ・ロバーツ",
+      "reason_ja": "ドジャースのロバーツ監督が、大谷翔平の打順を下げる可能性を示した。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "大谷翔平"
+      ],
+      "product_keywords_ja": [
+        "大谷翔平 グッズ",
+        "ドジャース キャップ"
+      ],
+      "trend_source": "Google トレンド JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "大谷の打順降格、ロバーツ監督が可能性を示唆",
+          "summary_ja": "第3戦の前日練習で、ロバーツ監督が大谷翔平の打順を下げる可能性を示した。",
+          "source": "ｄメニューニュース（スポーツ報知）",
+          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20261006-OHT1T51056"
+        }
+      ]
+    },
+    {
+      "keyword": "大坂なおみ",
+      "reason_ja": "大坂なおみが中国オープンで16強に進み、4回戦で世界8位と対戦した。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "Naomi Osaka"
+      ],
+      "product_keywords_ja": [
+        "テニスラケット",
+        "テニスウェア"
+      ],
+      "trend_source": "Google トレンド JP",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "大坂なおみ、世界29位を下し16強",
+          "summary_ja": "大坂なおみが中国オープンで世界29位を破り、ベスト16に進んだ。",
+          "source": "tennis365.net",
+          "url": "https://news.tennis365.net/news/today/202610/159273.html"
+        }
+      ]
+    }
+  ]
+}

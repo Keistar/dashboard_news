@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "トランプ氏、AIタスクフォースの長に国家情報長官",
+      "summary_ja": "トランプ米大統領は、AIへの懸念が高まる中で新設するタスクフォースを、国家情報長官に率いさせると表明した。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
+      "score": 72,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "英国民の過半数、AIを「悪い力」と認識",
+      "summary_ja": "英国で行われた大規模な世論調査で、回答者の過半数がAIを社会にとって「悪い力」と見ていることが分かった。",
+      "source": "The National Scot",
+      "url": "https://www.thenational.scot/news/26608671.major-poll-reveals-uk-voters-fears-ai-force-bad/",
+      "score": 70,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "「電源を抜け」 AI企業への直接行動に出る抗議団体",
+      "summary_ja": "AIの安全性をめぐる警告が相次ぐ中、AI企業に抗議する団体の会員が急増している。一部は直接行動に踏み切っている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "score": 68,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "Mistral CEO、新モデルは一部分野で中国勢を上回ると発言",
+      "summary_ja": "仏MistralのCEOは、新しいAIモデルが一部の分野で中国のモデルを上回っていると述べた。",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+      "score": 66,
+      "commercial_score": 15,
+      "product_keywords": [
+        "Mistral"
+      ]
+    },
+    {
+      "title_ja": "韓国、来年から35億ドルで最先端AIモデル開発へ",
+      "summary_ja": "韓国は来年から35億ドルを投じて、最先端（フロンティア）のAIモデルを開発する計画だ。",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-plans-develop-35-billion-frontier-ai-model-starting-next-year-2026-10-06/",
+      "score": 64,
+      "commercial_score": 5
+    }
+  ]
+}
