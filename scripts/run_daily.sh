@@ -118,10 +118,10 @@ git commit -q -m "${DATE}の各国ニュース・トレンドを更新（ロー�
 git push -q -f origin "news/$DATE" || fail "git push"
 url="$(gh pr create --base main --head "news/$DATE" --title "${DATE}の各国ニュース・トレンドを更新" \
   --body "scripts/run_daily.sh による定時更新。更新できなかったジャンル: ${FAILED[*]:-なし}")" || fail "PR を作れない"
-gh pr merge "$url" --merge --delete-branch >/dev/null || fail "PR をマージできない（$url）"
+gh pr merge "$url" --merge --delete-branch >/dev/null || fail "PR をマージできない（${url}）"
 git checkout -q --detach "$BASE" && git branch -q -D "news/$DATE"
 
-echo "=== $(date '+%F %T') 完了: $url（更新できなかったジャンル: ${FAILED[*]:-なし}）"
+echo "=== $(date '+%F %T') 完了: ${url}（更新できなかったジャンル: ${FAILED[*]:-なし}）"
 if [ ${#FAILED[@]} -gt 0 ]; then
   notify "更新しました。できなかったジャンル: ${FAILED[*]}"
 fi

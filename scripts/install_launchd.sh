@@ -18,4 +18,4 @@ fi
 mkdir -p "$ROOT/logs" "$HOME/Library/LaunchAgents"
 sed "s|__RUNNER_DIR__|$ROOT|g" "$ROOT/launchd/$LABEL.plist" > "$DEST"
 launchctl bootstrap "gui/$(id -u)" "$DEST"
-echo "登録しました: $DEST（毎日 15:30。ログは $ROOT/logs/）"
+echo "登録しました: ${DEST}（毎日 15:30。ログは $ROOT/logs/）"
