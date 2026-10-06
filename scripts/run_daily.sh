@@ -119,7 +119,8 @@ git push -q -f origin "news/$DATE" || fail "git push"
 url="$(gh pr create --base main --head "news/$DATE" --title "${DATE}の各国ニュース・トレンドを更新" \
   --body "scripts/run_daily.sh による定時更新。更新できなかったジャンル: ${FAILED[*]:-なし}")" || fail "PR を作れない"
 gh pr merge "$url" --merge --delete-branch >/dev/null || fail "PR をマージできない（${url}）"
-git checkout -q --detach "$BASE" && git branch -q -D "news/$DATE"
+# gh pr merge --delete-branch が手元のブランチも消す。
+git checkout -q --detach "$BASE"; git branch -q -D "news/$DATE" 2>/dev/null || true
 
 echo "=== $(date '+%F %T') 完了: ${url}（更新できなかったジャンル: ${FAILED[*]:-なし}）"
 if [ ${#FAILED[@]} -gt 0 ]; then
