@@ -17,8 +17,8 @@ Usage (Claude-dispatch mode — no API key required):
   python scripts/generate_dashboard.py --genre economy --input stories.json
   python scripts/generate_dashboard.py --genre beauty --input stories.json
 
-  Genres: ai, gadget, kosodate, beauty, food, health, pet, outdoor, bousai
-  Countries (all genres): jp, us, gb, cn
+  Genres: ai, gadget, kaji, beauty, food, health, outdoor, sale, interior
+  Countries: jp, us, gb, cn (sale is jp only)
 
   The --input JSON must follow the schema:
   {
@@ -119,15 +119,15 @@ GENRES = {
             "find the most significant gadget and device news that broke in the last 24-48 hours"
         ),
         "story_types": (
-            "smartphones, wearables, laptops, home appliances, cameras, "
+            "smartphones, wearables, laptops, smart home devices, cameras, "
             "audio gear, gaming hardware, drones, EV and mobility gadgets"
         ),
         "user_message_ja": "ガジェット・家電の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
         "countries": COUNTRIES,
     },
-    "kosodate": {
-        "label_ja": "子育て",
-        "label_en": "PARENTING & CHILDCARE",
+    "kaji": {
+        "label_ja": "時短家電・家事",
+        "label_en": "HOME APPLIANCES & HOUSEWORK",
         "bg": "#060f08",
         "theme": [
             {"line": "#0a2010", "amber": "#2a8042", "signal": "#1a9050"},
@@ -135,15 +135,16 @@ GENRES = {
             {"line": "#123820", "amber": "#58c870", "signal": "#48d880"},
         ],
         "system_prompt_intro": (
-            "You are a global parenting and childcare news curator producing a daily briefing "
-            "for Japanese parents and caregivers. Use the web_search tool to "
-            "find the most significant parenting, childcare, and child education news that broke in the last 24-48 hours"
+            "You are a home appliance and housework news curator producing a daily briefing "
+            "for busy Japanese dual-income households. Use the web_search tool to "
+            "find the most significant home appliance and time-saving housework news that broke in the last 24-48 hours"
         ),
         "story_types": (
-            "childcare policy, education reform, parenting trends, child health and nutrition, "
-            "family-friendly products, school systems, birth rate issues, child development research"
+            "new kitchen and cleaning appliances (rice cookers, robot vacuums, dishwashers, washer-dryers), "
+            "time-saving housework goods, easy-care and washable designs, frozen and meal-prep foods, "
+            "childcare goods that cut chores, appliance recalls and safety notices"
         ),
-        "user_message_ja": "子育て・教育分野の直近ビッグニュースを調べて、指定したJSON形式で返してください。",
+        "user_message_ja": "時短家電・家事分野の直近ニュースを調べて、指定したJSON形式で返してください。",
         "countries": COUNTRIES,
     },
     "beauty": {
@@ -209,27 +210,6 @@ GENRES = {
         "user_message_ja": "健康・フィットネス分野の直近ニュースを調べて、指定したJSON形式で返してください。",
         "countries": COUNTRIES,
     },
-    "pet": {
-        "label_ja": "ペット",
-        "label_en": "PETS",
-        "bg": "#100c06",
-        "theme": [
-            {"line": "#241c10", "amber": "#a08050", "signal": "#b09060"},
-            {"line": "#302414", "amber": "#d0a870", "signal": "#e0b880"},
-            {"line": "#3c2c18", "amber": "#e8c090", "signal": "#f0d0a0"},
-        ],
-        "system_prompt_intro": (
-            "You are a pet news curator producing a daily briefing "
-            "for Japanese dog and cat owners. Use the web_search tool to "
-            "find the most significant pet-related news that broke in the last 24-48 hours"
-        ),
-        "story_types": (
-            "pet food launches and recalls, pet tech and gadgets, veterinary research, "
-            "pet insurance, animal welfare law, pet-friendly services and trends"
-        ),
-        "user_message_ja": "ペット分野の直近ニュースを調べて、指定したJSON形式で返してください。",
-        "countries": COUNTRIES,
-    },
     "outdoor": {
         "label_ja": "アウトドア",
         "label_en": "OUTDOOR & CAMPING",
@@ -251,9 +231,9 @@ GENRES = {
         "user_message_ja": "アウトドア・キャンプ分野の直近ニュースを調べて、指定したJSON形式で返してください。",
         "countries": COUNTRIES,
     },
-    "bousai": {
-        "label_ja": "防災",
-        "label_en": "DISASTER PREPAREDNESS",
+    "sale": {
+        "label_ja": "セール・キャンペーン",
+        "label_en": "SALES & CAMPAIGNS",
         "bg": "#120606",
         "theme": [
             {"line": "#2a0e0e", "amber": "#b04040", "signal": "#c05050"},
@@ -261,15 +241,39 @@ GENRES = {
             {"line": "#421818", "amber": "#f08070", "signal": "#ff9080"},
         ],
         "system_prompt_intro": (
-            "You are a disaster preparedness news curator producing a daily briefing "
-            "for Japanese households. Use the web_search tool to "
-            "find the most significant disaster and preparedness news that broke in the last 24-48 hours"
+            "You are a shopping deals news curator producing a daily briefing "
+            "for Japanese online shoppers who care about the effective price after points. Use the web_search tool to "
+            "find the most significant sale, campaign and point-program news announced in the last 24-48 hours"
         ),
         "story_types": (
-            "earthquakes, typhoons and extreme weather, government preparedness guidance, "
-            "emergency supplies and stockpiling, evacuation and shelter news, disaster tech"
+            "Rakuten / Amazon / Yahoo! Shopping sale events and their dates, point-back campaigns and rule changes, "
+            "cashless payment campaigns, furusato nozei deadlines and rule changes, notable price cuts and price hikes, "
+            "seasonal sales (new year, Black Friday, back-to-school). Skip investment and financial products"
         ),
-        "user_message_ja": "防災分野の直近ニュースを調べて、指定したJSON形式で返してください。",
+        "user_message_ja": "セール・キャンペーン・ポイント施策の直近ニュースを調べて、指定したJSON形式で返してください。",
+        # 楽天などで買う日本の読者向けなので日本だけ。
+        "countries": [COUNTRIES[0]],
+    },
+    "interior": {
+        "label_ja": "収納・インテリア・文具",
+        "label_en": "STORAGE, INTERIOR & STATIONERY",
+        "bg": "#100c06",
+        "theme": [
+            {"line": "#241c10", "amber": "#a08050", "signal": "#b09060"},
+            {"line": "#302414", "amber": "#d0a870", "signal": "#e0b880"},
+            {"line": "#3c2c18", "amber": "#e8c090", "signal": "#f0d0a0"},
+        ],
+        "system_prompt_intro": (
+            "You are a storage, interior and stationery news curator producing a daily briefing "
+            "for Japanese readers who want to own fewer things and use them for a long time. Use the web_search tool to "
+            "find the most significant storage, interior and stationery news that broke in the last 24-48 hours"
+        ),
+        "story_types": (
+            "storage and organizing goods, furniture and interior launches, minimalist living trends, "
+            "repairable and long-lasting products, new pens, notebooks and desk goods, "
+            "design awards and craft makers"
+        ),
+        "user_message_ja": "収納・インテリア・文具分野の直近ニュースを調べて、指定したJSON形式で返してください。",
         "countries": COUNTRIES,
     },
 }

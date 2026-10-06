@@ -32,21 +32,25 @@
 
 ## ジャンル
 
-対象国は全ジャンル共通で **日本・アメリカ・イギリス・中国（jp / us / gb / cn）** です。
+対象国は **日本・アメリカ・イギリス・中国（jp / us / gb / cn）** です。セール・キャンペーンだけは日本のみです。
 
-| コード | ジャンル |
-|---|---|
-| `ai` | AI |
-| `gadget` | ガジェット |
-| `kosodate` | 子育て |
-| `beauty` | 美容・コスメ |
-| `food` | 食品・グルメ |
-| `health` | 健康・フィットネス |
-| `pet` | ペット |
-| `outdoor` | アウトドア |
-| `bousai` | 防災 |
+ジャンルは LogiK2 のキャラの発信テーマに合わせています（2026-10-07。割り当ては logik2-app-central の `docs/design/x-accounts.md` の「発信テーマ」）。
 
-以前の対象国（韓国・ドイツ・台湾など）の過去ページは `docs/` に残っていますが、新しくは生成されません。
+| コード | ジャンル | キャラ |
+|---|---|---|
+| `ai` | AI | レン |
+| `gadget` | ガジェット | レン |
+| `kaji` | 時短家電・家事 | シホ |
+| `beauty` | 美容・コスメ | アイリス |
+| `food` | 食品・グルメ | カオル |
+| `health` | 健康・フィットネス | アイリス |
+| `outdoor` | アウトドア | ゴウ |
+| `sale` | セール・キャンペーン（日本のみ） | ルビー |
+| `interior` | 収納・インテリア・文具 | シオン |
+| `trends`（下の「トレンド枠」） | トレンド | プロト |
+
+2026-10-07 に、子育て（`kosodate`）を時短家電・家事（`kaji`）に替え、ペット（`pet`）と防災（`bousai`）をやめました。
+これらと、以前の対象国（韓国・ドイツ・台湾など）の過去ページは `docs/` に残っていますが、新しくは生成されません。
 
 手動生成: `python scripts/generate_dashboard.py --genre beauty --input stories.json [--date YYYY-MM-DD]`
 
@@ -76,7 +80,7 @@
 
 入力の形式（国コードごとの配列）:
 ```json
-{"jp": [{"keyword": "ポータブル電源", "reason_ja": "台風接近で検索急増", "genre": "bousai",
+{"jp": [{"keyword": "ポータブル電源", "reason_ja": "キャンプ需要で検索急増", "genre": "outdoor",
          "commercial_score": 90, "brand_safe": true,
          "product_keywords": ["ポータブル電源", "ソーラーパネル"],
          "product_keywords_ja": ["ポータブル電源", "ソーラーパネル"], "trend_source": "Google Trends JP",
