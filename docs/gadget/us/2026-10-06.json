@@ -1,0 +1,62 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "Google、Pixel 10aを100ドル値上げ 599ドルに",
+      "summary_ja": "Googleは発売7カ月のPixel 10aを100ドル値上げし、128GBモデルを599ドルとした。普及型スマホで値上げが相次いでいる。",
+      "source": "finance.biggo.com",
+      "url": "https://finance.biggo.com/news/905367eb-8e24-4dcd-ad3c-cac0331714d3",
+      "score": 78,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Pixel 10a"
+      ]
+    },
+    {
+      "title_ja": "Googlebook、多くの機能にARM CPUとAndroid 17が必要",
+      "summary_ja": "Googleは新しいノートPC「Googlebook」の機能を詳しく説明した。Intel CPUの機種や古いスマホと組み合わせると、一部のアプリや機能が使えないと注意している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Many-Googlebook-features-require-ARM-CPU-and-Android-17-smartphone.1416451.0.html",
+      "score": 72,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Googlebook"
+      ]
+    },
+    {
+      "title_ja": "Huawei、三つ折りスマホ「Mate XT 2」の世界発売を確認",
+      "summary_ja": "Huaweiは三つ折りスマホ「Mate XT 2」を中国以外の市場でも発売すると認めた。",
+      "source": "huaweicentral.com",
+      "url": "https://www.huaweicentral.com/huawei-confirms-mate-xt-2-tri-fold-for-global-launch/",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "Huawei Mate XT 2"
+      ]
+    },
+    {
+      "title_ja": "HP、1100nitの有機EL搭載14型ノート「OmniBook 5」",
+      "summary_ja": "HPは最大1100nitの有機ELと120Hz表示を選べる14型ノート「OmniBook 5」を発売した。IntelのWildcat Lakeを積み、メモリは最大32GB。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-with-1-100-nit-OLED-display-and-32-GB-RAM.1416014.0.html",
+      "score": 62,
+      "commercial_score": 70,
+      "product_keywords": [
+        "HP OmniBook 5"
+      ]
+    },
+    {
+      "title_ja": "Google日本、ベルトコンベア式キーボードを公開",
+      "summary_ja": "Google日本法人が、キーを4本のベルトコンベアに載せたキーボードの構想を公開した。手をほとんど動かさずに入力できるが、正確に打つには練習が要りそうだ。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Google-Japan-unveils-keyboard-with-four-conveyor-belts-for-one-handed-typing.1416487.0.html",
+      "score": 58,
+      "commercial_score": 20
+    }
+  ]
+}

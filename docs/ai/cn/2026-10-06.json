@@ -1,0 +1,56 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "DeepSeek、800億元超の資金調達へ 騰訊・CATLが主導",
+      "summary_ja": "ブルームバーグによると、DeepSeekは最新の資金調達で少なくとも800億元（約120億ドル）を確保する見通しで、目標を大きく上回る。2027年初めの上場に道を開く。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8x0BP1e1Hur",
+      "score": 88,
+      "commercial_score": 10,
+      "product_keywords": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title_ja": "快手の動画生成AI「可霊」、香港上場へ 10億ドル調達",
+      "summary_ja": "快手傘下の動画生成AI「可霊（Kling）」は引受銀行を選び、香港での新規株式公開の準備を進めている。少なくとも10億ドルの調達を目指す。",
+      "source": "联合早报",
+      "url": "https://www.zaobao.com.sg/news/china/story20261006-9790693",
+      "score": 80,
+      "commercial_score": 20,
+      "product_keywords": [
+        "Kling AI"
+      ]
+    },
+    {
+      "title_ja": "バイトダンス、飛書と豆包を統合へ",
+      "summary_ja": "財聯社によると、字節跳動（バイトダンス）は業務ツール「飛書」とAIアシスタント「豆包」を統合し、法人向け事業を組み直す。大手各社がAIの業務の入口を争っている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2441092",
+      "score": 74,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "智譜の時価総額3000億超 ゴールドマンが「買い」に",
+      "summary_ja": "ゴールドマン・サックスは智譜の評価を「中立」から「買い」に引き上げた。商業化の道筋が明確になったことなどを理由に挙げ、5日の株価は大きく上昇した。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-05/doc-iniuerix2648460.shtml",
+      "score": 70,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "「米国版DeepSeek」Beam公開、V4.1 Flashには及ばず",
+      "summary_ja": "「米国版DeepSeek」と呼ばれる大規模モデル「Beam」が公開された。驅動之家は、性能は悪くないもののDeepSeek V4.1 Flashには及ばないと評価している。",
+      "source": "驱动之家",
+      "url": "https://news.mydrivers.com/1/1155/1155501.htm",
+      "score": 60,
+      "commercial_score": 5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "マクドナルド、AIによる価格操作を巡り集団訴訟",
+      "summary_ja": "Reutersによると、マクドナルドがAIを使ってメニュー価格を操作したとして集団訴訟を起こされた。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/",
+      "score": 80,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "オプラ出資のTrue Food Kitchenが破産申請",
+      "summary_ja": "True Food Kitchenは破産を申請した日に12店を閉め、14州34店に縮小した。経営陣の交代と戦略の変更が原因だとしている。",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/true-food-kitchen-files-chapter-11-bankruptcy-closes-12-locations-2026-10",
+      "score": 74,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "スタバ、2026年のホリデーメニューを発表",
+      "summary_ja": "スターバックスは2026年のホリデーメニューを発表した。ティラミスベルベットのシリーズやアップルポメグラネートのリフレッシャー、定番の復活に、新しいフードやグッズも並ぶ。",
+      "source": "Delish",
+      "url": "https://www.delish.com/food-news/a74030611/starbucks-2026-holiday-menu-new-drinks-food-merchandise/",
+      "score": 72,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スターバックス タンブラー"
+      ]
+    },
+    {
+      "title_ja": "「全米タコスの日」、タコベルなどが特典",
+      "summary_ja": "「全米タコスの日」に合わせ、Taco BellやChuy'sなどのチェーンが特典や割引を用意した。",
+      "source": "Treasure Coast News",
+      "url": "https://www.tcpalm.com/story/entertainment/dining/2026/10/05/national-taco-day-2026-deals-freebies-taco-bell-duolingo-hot-sauce-collab-florida-taco-restaurants/92104380007/",
+      "score": 55,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "スタバの新ドリンク「エアロカーノ」を試飲",
+      "summary_ja": "Sporkedが、スターバックスの新しいドリンク「Aerocano」を試した。今年のスタバは新作や季節限定を次々に出している。",
+      "source": "Sporked",
+      "url": "https://sporked.com/article/we-tried-the-new-starbucks-aerocano/",
+      "score": 52,
+      "commercial_score": 40
+    }
+  ]
+}

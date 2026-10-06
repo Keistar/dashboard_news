@@ -1,131 +1,190 @@
 {
   "genre": "pet",
   "genre_label_ja": "ペット",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T16:10:37+09:00",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
   "stories": [
     {
-      "title_ja": "米国で初めて子猫を飼う世帯が子犬を上回る",
-      "summary_ja": "Packaged Factsの統計で、米国では初めて子猫を飼う世帯が子犬を飼う世帯を上回った。子犬と子猫の比率は2026年に0.94対1となり、猫飼い主の約半数は業界が猫向けに力を入れていないと感じている。",
-      "source": "Washington Post",
-      "url": "https://washingtonpost.com/opinions/interactive/2026/10/04/what-new-cat-ownership-data-says-about-americans",
-      "score": 82,
-      "commercial_score": 70,
+      "title_ja": "キャットフードから重金属、業界団体は研究に反論",
+      "summary_ja": "Clean Label Projectが62ブランド100品のキャットフードを調べ、99%から鉛を検出した。Pet Food Instituteは、結果を解釈するための科学的・規制上の背景が欠けていると反論している。",
+      "source": "PetfoodIndustry",
+      "url": "https://www.petfoodindustry.com/safety-quality/news/15836612/heavy-metals-found-in-cat-foods-pfi-disputes-study",
+      "score": 78,
+      "commercial_score": 40,
       "product_keywords": [
-        "猫 おもちゃ",
         "キャットフード"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "愛犬愛猫が主人公の絵本『ぺっとっと』発売",
-      "summary_ja": "木村情報技術が10月5日、ペットの写真からそっくりのキャラクターを描き起こす絵本作りサービスを始めた。デジタル版は2,980円(税込)からで、飼い主の思い出も文章に盛り込む。",
-      "source": "koubo.jp",
-      "url": "https://koubo.jp/article/127720",
+      "title_ja": "犬猫の鳴き声をAIで翻訳する首輪「PettiChat」",
+      "summary_ja": "犬や猫の鳴き声をAIで「翻訳」する首輪型デバイス「PettiChat」が、Makuakeで公開から10時間で100万円を超える支援を集めた。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/440/4440075/",
       "score": 72,
-      "commercial_score": 60,
+      "commercial_score": 70,
       "product_keywords": [
-        "ペット 絵本",
-        "ペット グッズ 名入れ"
+        "ペット 首輪",
+        "PettiChat"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "国慶連休でペットの訪問世話が前週比3倍に",
-      "summary_ja": "国慶節の長期休暇で旅行や帰省が増え、家事代行プラットフォームのペット訪問世話の注文が前週比で300%以上増えた。スタッフは1回の訪問で30元を受け取る。",
-      "source": "星島日報",
-      "url": "https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E4%B8%AD%E5%9B%BD/%E5%8D%81%E4%B8%80%E5%9B%BD%E5%BA%86%EF%B8%B1%E8%B6%81%E9%95%BF%E5%81%87%E5%87%BA%E9%97%A8%E6%97%85%E6%B8%B8%E6%8E%A2%E4%BA%B2-%E5%AE%A0%E7%89%A9%E4%B8%8A%E9%97%A8%E5%96%82%E5%85%BB%E5%AE%9A%E5%8D%95",
+      "title_ja": "国慶節のペット出張世話、注文が3倍に",
+      "summary_ja": "国慶節の休みに旅行や帰省で家を空ける人が多く、ペットの出張世話サービスの注文が大きく伸びた。家事サービスの基盤のデータでは3倍になった。",
+      "source": "on.cc東網",
+      "url": "https://hk.on.cc/hk/bkn/cnt/news/20261005/bkn-20261005161512345-1005_00822_001_cn.html?view=d",
+      "score": 72,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ミツカン、愛犬の心と体をケアするドッグフード",
+      "summary_ja": "ミツカンはBIOSIS Lab.やアニマル・ワンと協力し、毎日のごはんで愛犬の心と体をケアするドッグフードブランド「わんこのほんと」を立ち上げた。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19847470?news_ref=20_20",
       "score": 70,
-      "commercial_score": 45,
+      "commercial_score": 80,
       "product_keywords": [
-        "ペット 自動給餌器",
-        "ペット 見守りカメラ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "中国のペット経済が拡大、新たな商機に",
-      "summary_ja": "10月3日付の記事が、中国のペット経済の拡大と新たなビジネス機会を取り上げた。2025年の都市部の犬猫消費市場は3,126億元で、半分超がフード関連とされる。",
-      "source": "China Minutes",
-      "url": "https://chinaminutes.com/2026/10/03/chinas-growing-pet-economy",
-      "score": 68,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ペットフード"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "いなば、2026年秋の犬用フード新商品を発売",
-      "summary_ja": "いなばペットフードが2026年秋の犬用新商品を全国で順次発売している。日々の食事やおやつの時間を彩るラインナップをそろえた。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000427.000058165.html",
-      "score": 66,
-      "commercial_score": 78,
-      "product_keywords": [
-        "犬 おやつ",
         "ドッグフード"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "保護施設の譲渡キャンペーン、956頭が新しい家へ",
-      "summary_ja": "バージニア州のWSLSが連携した12の保護団体で、1か月間の譲渡キャンペーンにより956件の譲渡が成立した。内訳は猫651匹、犬297匹、その他8匹だった。",
-      "source": "WSLS 10",
-      "url": "https://wsls.com/news/local/2026/10/02/clear-the-shelters-recap",
-      "score": 62,
+      "title_ja": "Elanco、猫の慢性腎臓病の新治療薬を発売",
+      "summary_ja": "Elancoが猫の慢性腎臓病（CKD）の新しい治療薬を発売した。王立獣医大学の研究者は「わくわくする革新」と評価した。",
+      "source": "vettimes.com",
+      "url": "https://www.vettimes.com/news/vets/small-animal-vets/elanco-launches-new-feline-ckd-treatment",
+      "score": 70,
       "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "犬猫保護の背景、高齢化や多頭飼育崩壊へ",
-      "summary_ja": "動物愛護週間を前に公開された白書で、保護が必要になる背景が野良の繁殖から飼い主の高齢化や多頭飼育崩壊へ移っていると分かった。全国120団体への調査に基づく。",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000058.000041812.html",
-      "score": 60,
-      "commercial_score": 25,
+      "title_ja": "米国、猫派の国になりつつある？",
+      "summary_ja": "米国では犬のほうが長く人気だったが、初めて子犬より子猫を迎える世帯が多くなった。経済的な理由が大きいとの見方もある。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/05/us-cat-lovers",
+      "score": 68,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "RSPCA、多頭飼育の案件急増で里親を募集",
+      "summary_ja": "RSPCAでは1カ所に10匹以上がいる多頭飼育の案件が月平均410件と、2025年より増えている。受け入れが限界に近く、里親を呼びかけた。",
+      "source": "companionlife.co.uk",
+      "url": "https://www.companionlife.co.uk/capacity-crisis-rspca-overwhelmed-with-multi-animal-cases-issues-urgent-plea/",
+      "score": 66,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "休暇中のペット、「星付きホテル」へ",
+      "summary_ja": "成都では、休みの間にペットを預ける先を探す飼い主が増えている。ペットを家族と考え、出かける前に良い預け先を探すのが休暇の大事な準備になった。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1084449758_355475",
+      "score": 64,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ダイソーの550円からのペット服が人気",
+      "summary_ja": "ダイソーのブランド「Standard Products」の550円からのペット服が、公式通販で売り切れが出るほど人気を集めている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/e45d12f8f5654ddeb05dfce86b4f233da753e7d1",
+      "score": 62,
+      "commercial_score": 70,
+      "product_keywords": [
+        "犬 服"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英国の犬は1300万頭、責任ある飼育の協議開始",
-      "summary_ja": "Dogs TrustとRSPCAが責任ある犬の飼育に関する全国協議を始めた。YouGov調査では飼い主の96%が自分は責任ある飼い主だと考える一方、国民の86%が無責任な飼い主に悩まされた経験がある。",
-      "source": "VetClick",
-      "url": "https://www.vetclick.com/news/dogs-trust-and-rspca-launch-national-consultation-on-responsible-dog-ownership-as-uk-dog-population-reaches-13-million-p11786.php",
-      "score": 58,
-      "commercial_score": 35,
+      "title_ja": "シニアペットケアの需要、首元ケア用品を開発へ",
+      "summary_ja": "犬や猫の長寿化で、シニアペット向けのケアの需要が高まっている。仙台市のりらいぶは、シニア犬・猫向けの首元ケア用品を開発している。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19847131",
+      "score": 60,
+      "commercial_score": 60,
       "product_keywords": [
-        "犬 しつけ",
-        "犬 うんち袋"
+        "シニア犬 介護用品"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Rover発表、2026年の人気の猫の名前トップ10",
+      "summary_ja": "ペットシッターサービスのRoverによると、2026年の米国で最も人気の猫の名前はLunaだった。食べ物由来のMochiなども上位に入った。",
+      "source": "qz.com",
+      "url": "https://qz.com/popular-cat-names-2026",
+      "score": 60,
+      "commercial_score": 20,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "4千億元のペット市場、情緒消費が転換期",
+      "summary_ja": "中秋節と国慶節が続いた長い消費期間に、商業施設ではペット同伴エリアや預かり店への関心が高まった。玩具（潮玩）と並び、ペット経済が情緒消費の柱になっている。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5856390.shtml",
+      "score": 60,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Tractor Supply、多頭飼い向けの犬用2段ベッド",
+      "summary_ja": "Tractor Supplyが、複数の犬が寝られる2段ベッドを売り出した。",
+      "source": "AOL.com",
+      "url": "https://www.aol.com/articles/tractor-supplys-dog-bunk-bed-153300000.html",
+      "score": 55,
+      "commercial_score": 65,
+      "product_keywords": [
+        "犬 ベッド"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "群馬・沼田で犬と飼い主のマナー教室",
+      "summary_ja": "群馬県沼田市で、飼い主が専門家から犬のしつけ方を学ぶ教室が開かれた。公園での散歩のマナーに苦情が寄せられていたことが背景にある。",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54816",
+      "score": 54,
+      "commercial_score": 15,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英ペットサプリ「YuMOVE」、20周年",
+      "summary_ja": "英国でペット用サプリ首位のYuMOVEが20周年を迎え、記念のイベントを開いた。毎年200万頭以上の犬に使われている。",
+      "source": "companionlife.co.uk",
+      "url": "https://www.companionlife.co.uk/yumove-celebrates-20th-anniversary-with-community-celebration/",
+      "score": 52,
+      "commercial_score": 50,
+      "product_keywords": [
+        "犬 サプリ 関節"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "米国で犬が深夜にパトカーを止め、倒れた飼い主を救う",
-      "summary_ja": "カンザス州で、リードを付けた犬が夜の路上でパトカーを止めて吠え続け、ガレージで3時間以上動けなかった飼い主を警官の救助につなげた。中国語圏メディアも報じた。",
-      "source": "星島日報",
-      "url": "https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/%E7%81%B5%E7%8A%AC%E8%A1%97%E5%A4%B4%E6%8B%A6%E8%AD%A6%E8%BD%A6%EF%BD%9C%E9%86%92%E7%9B%AE%E6%B1%AA%E6%98%9F%E4%BA%BA%E6%B7%B1%E5%A4%9C%E7%8B%82%E5%90%A0%E5%BC%95%E8%B7%AF-%E6%95%91%E8%B5%B7%E8%B7%8C",
-      "score": 55,
-      "commercial_score": 10,
+      "title_ja": "テスラのロボタクシー、夜間のペット認識に取り組む",
+      "summary_ja": "テスラのマスクCEOは、オースティンのロボタクシーの夜間営業を23時まで延ばすと明らかにした。夜間のペットの認識の改善に取り組んでいる。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-04/detail-initzrfp7221995.d.html?oid=%E7%9A%87%E5%86%A0%E8%B6%B3%E7%90%83%E7%BD%91%E7%99%BB1%E4%BB%A3%E7%90%86%EF%BD%9B%E7%94%B5%E8%AF%9D16762944448%EF%BD%9D%E7%9A%87%E5%86%A0%E7%AE%A1%E7%90%86%E7%BD%91%E7%99%BB123%E7%B3%BB%E7%BB%9F%E5%87%BA%E7%A7%9F%E2%96%88TG%E5%BE%AE%E4%BF%A1hga1199%E2%96%88%E7%9A%87%E5%86%A0%E8%B6%B3%E7%90%83%E5%B9%B3%E5%8F%B0%E7%99%BB3%E5%87%BA%E7%A7%9F%E2%95%90%E7%94%B5%E8%AF%9D16762944448%E2%95%90TlNU&vt=4&cid=76993&node_id=76993",
+      "score": 52,
+      "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "オレンジ郡の動物保護施設、5日から受け入れ縮小",
-      "summary_ja": "フロリダ州オレンジ郡の動物サービス課は、新施設の建設に伴い10月5日から約1週間、動物の受け入れ手続きを一時的に変更する。飼い主は事前の確認が必要になる。",
-      "source": "Orange County Government",
-      "url": "https://newsroom.ocfl.net/media-advisories/press-releases/2026/09/orange-county-animal-services-adjusts-pet-intake-during-shelter-construction",
-      "score": 45,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ"
     }
   ]
 }

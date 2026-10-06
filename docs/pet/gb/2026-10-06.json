@@ -1,0 +1,45 @@
+{
+  "genre": "pet",
+  "genre_label_ja": "ペット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "Elanco、猫の慢性腎臓病の新治療薬を発売",
+      "summary_ja": "Elancoが猫の慢性腎臓病（CKD）の新しい治療薬を発売した。王立獣医大学の研究者は「わくわくする革新」と評価した。",
+      "source": "vettimes.com",
+      "url": "https://www.vettimes.com/news/vets/small-animal-vets/elanco-launches-new-feline-ckd-treatment",
+      "score": 70,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "米国、猫派の国になりつつある？",
+      "summary_ja": "米国では犬のほうが長く人気だったが、初めて子犬より子猫を迎える世帯が多くなった。経済的な理由が大きいとの見方もある。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/05/us-cat-lovers",
+      "score": 68,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "RSPCA、多頭飼育の案件急増で里親を募集",
+      "summary_ja": "RSPCAでは1カ所に10匹以上がいる多頭飼育の案件が月平均410件と、2025年より増えている。受け入れが限界に近く、里親を呼びかけた。",
+      "source": "companionlife.co.uk",
+      "url": "https://www.companionlife.co.uk/capacity-crisis-rspca-overwhelmed-with-multi-animal-cases-issues-urgent-plea/",
+      "score": 66,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "英ペットサプリ「YuMOVE」、20周年",
+      "summary_ja": "英国でペット用サプリ首位のYuMOVEが20周年を迎え、記念のイベントを開いた。毎年200万頭以上の犬に使われている。",
+      "source": "companionlife.co.uk",
+      "url": "https://www.companionlife.co.uk/yumove-celebrates-20th-anniversary-with-community-celebration/",
+      "score": 52,
+      "commercial_score": 50,
+      "product_keywords": [
+        "犬 サプリ 関節"
+      ]
+    }
+  ]
+}

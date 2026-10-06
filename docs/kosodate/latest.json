@@ -1,261 +1,187 @@
 {
   "genre": "kosodate",
   "genre_label_ja": "子育て",
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T17:39:33+09:00",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
   "stories": [
     {
-      "title_ja": "保守党、年収10万ポンドの保育支援「崖」撤廃を公約",
-      "summary_ja": "保守党のベイドノック党首は、年収10万ポンドを超えると無償保育が打ち切られる仕組みを撤廃すると表明した。公務員削減で財源をまかなうとし、党大会前に各紙が大きく報じた。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo",
-      "score": 90,
-      "commercial_score": 30,
-      "product_keywords": [
-        "無償保育"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "母婴店が1年で約1.5万店減少、閉店ラッシュ",
-      "summary_ja": "過去1年で中国のベビー用品店は約1.47万店純減し、二線都市の閉店率は7.5%に達した。子供王など大手も苦戦し、情報格差に頼った商売が若い親に通じなくなっている。",
-      "source": "捜狐",
-      "url": "https://www.sohu.com/a/1083816272_122219919",
-      "score": 84,
-      "commercial_score": 60,
-      "product_keywords": [
-        "母婴用品",
-        "紙おむつ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "男性の家事・育児力、高知が1位 積水ハウス調査",
-      "summary_ja": "積水ハウスが都道府県別の男性の家事・育児力をまとめた「男性育休白書2026」を発表した。総合1位は高知県で、育休取得日数は三重県が平均27.6日で最長だった。",
-      "source": "朝日新聞",
-      "url": "https://www.asahi.com/articles/ASVB33SF6VB3OXIE014M.html",
-      "score": 82,
-      "commercial_score": 30,
-      "product_keywords": [
-        "男性育休"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "関税でベビー用品が値上がり、大半が中国製",
-      "summary_ja": "業界団体によると、米国で売られるベビー用品の大半は中国製で、輸入関税の影響が価格に表れている。チャイルドシートなどの値上がりが家計を圧迫している。",
-      "source": "The Michigan Independent",
-      "url": "https://michiganindependent.com/economy/tariffs-on-imports-are-raising-the-prices-of-baby-products-for-us-consumers/",
-      "score": 82,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ベビーカー",
-        "チャイルドシート"
-      ],
+      "title_ja": "NYC、低所得の1万人超を無料保育の待機から解消",
+      "summary_ja": "ニューヨーク市は、低所得家庭の子ども1万人以上を無料保育バウチャーの待機リストから外し、利用できるようにすると発表した。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/newyork/news/free-childcare-voucher-waitlist-zohran-mamdani-nyc/",
+      "score": 80,
+      "commercial_score": 5,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "10月から国民年金保険料の育児期間免除が開始",
-      "summary_ja": "10月1日から、1歳未満の子を育てる自営業やフリーランスなど国民年金第1号被保険者の保険料が免除される制度が始まった。父親も対象で、所得制限はない。",
-      "source": "公明党",
-      "url": "https://www.komei.or.jp/km/oishi-noriko-shisui/2026/10/03/10%E6%9C%88%E3%81%8B%E3%82%89%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%BA%E6%96%99%E8%82%B2%E5%85%90%E5%85%8D%E9%99%A4/",
-      "score": 80,
-      "commercial_score": 20,
+      "title_ja": "東京アプリ、子育て・介護の支援情報をプッシュ通知へ",
+      "summary_ja": "東京都は今年度中に、公式アプリ「東京アプリ」で子育てや介護の支援情報を必要な人に直接知らせる。支援の知りそびれや申請忘れを防ぐ。",
+      "source": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00125/",
+      "score": 78,
+      "commercial_score": 5,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "イオン、ベビー用品の「子育て支援自販機」を試験設置",
+      "summary_ja": "イオンは「イオンレイクタウンmori」（埼玉県越谷市）に、赤ちゃんとの外出時に必要なベビー用品を売る「子育て支援自販機」を試験的に置いた。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/babeb97f280dd93302585fd0a557e2b2a9ea366c",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "国民年金 育児免除"
+        "おむつ",
+        "ベビー用品"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "フード付きベビー寝袋の使用中止を呼びかけ",
-      "summary_ja": "10月1日に出た全国的な製品安全警告を受け、フード付きや腕穴のないベビー用スリーパーの購入・使用をやめるよう保護者に呼びかけられている。窒息の危険があるためだ。",
-      "source": "London Daily News",
-      "url": "https://www.londondaily.news/parents-urged-to-stop-using-baby-sleeping-bags-with-hoods-or-no-armholes/",
-      "score": 80,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ベビースリーパー",
-        "ベビー寝袋"
-      ],
+      "title_ja": "保守党、公費保育を高所得世帯に広げると公約",
+      "summary_ja": "英保守党は、公費で受けられる保育の対象を高所得の世帯にも広げると公約した。",
+      "source": "Nursery World",
+      "url": "https://www.nurseryworld.co.uk/content/news/conservatives-pledge-to-expand-funded-childcare-to-high-earners",
+      "score": 75,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "育児の不安につけ込むアルゴリズム、新米ママの消費",
-      "summary_ja": "ネットは「商品を買えば新生児育児の悩みは解決する」と新米ママに訴えかける。夜中の授乳中にスマホで買い物を重ねる母親の実態を伝えている。",
-      "source": "The 19th / Good Men Project",
-      "url": "https://goodmenproject.com/featured-content/youll-do-anything-for-your-baby-the-algorithm-knows-how-to-exploit-that/",
-      "score": 74,
-      "commercial_score": 55,
+      "title_ja": "公立病院が託児に参入、質の高い保育に期待",
+      "summary_ja": "中国で公立病院が託児サービスに乗り出している。専門的な資源を生かし、普通の家庭でも手が届く安心な保育につながると論評した。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084308399_122014422",
+      "score": 70,
+      "commercial_score": 15,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "年収10万ポンドの「保育の罠」に苦しむ家庭",
+      "summary_ja": "イングランドでは親の1人が年収10万ポンドを超えると保育支援を失う。保守党はこの上限の廃止を掲げており、該当する家庭の重い負担を伝えた。",
+      "source": "The i Paper",
+      "url": "https://inews.co.uk/inews-lifestyle/money/were-stuck-in-childcare-trap-4809791",
+      "score": 68,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "アルゴリズムは「赤ちゃんがいる」と知り、消費を促す",
+      "summary_ja": "新米の親はEC広告に囲まれ、ベビー用品にお金を使うよう仕向けられている。Marketplaceは、それが偶然ではないと伝えた。",
+      "source": "marketplace.org",
+      "url": "https://www.marketplace.org/story/2026/10/05/how-the-algorithm-exploits-new-parents",
+      "score": 66,
+      "commercial_score": 40,
       "product_keywords": [
-        "ベビーモニター",
         "ベビー用品"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "病院が乳幼児の保育に参入、3歳未満を預かる",
-      "summary_ja": "広州などで病院が運営に関わる「政医企」型の託児施設が増え、3歳未満の子を預かっている。医療面の安心感から共働き世帯の利用が広がる。",
-      "source": "南方週末 / QQ",
-      "url": "https://news.qq.com/rain/a/20261003A09PAG00?id=20261003A09PAG00&path=a&app=news&redirect_pc=1",
-      "score": 74,
-      "commercial_score": 20,
-      "product_keywords": [
-        "托育"
-      ],
+      "title_ja": "民政部、2025年の婚姻登録データを公表",
+      "summary_ja": "中国民政部が2025年の婚姻登録データを公表し、登録数は前年から増えた。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-10-05/detail-iniuevrz6221245.d.html?vt=4&cid=76729&node_id=76729",
+      "score": 66,
+      "commercial_score": 10,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "保育不足がハイランドの労働力と人口を脅かす",
-      "summary_ja": "スコットランド・ハイランド地方の報告書は、保育の不足が雇用や企業の採用、家族の定住に影響していると警告した。遠隔地ほど深刻だという。",
-      "source": "Inverness Courier",
-      "url": "https://www.inverness-courier.co.uk/news/childcare-shortages-threaten-highland-workforce-and-populati-446523/",
-      "score": 68,
-      "commercial_score": 15,
+      "title_ja": "保育園でのトイレトレーニング支援、20地域に拡大",
+      "summary_ja": "保育園で子どものトイレトレーニングを手伝う試験事業が、イングランドのさらに20地域に広がる。",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/news/40586377/potty-training-nurseries-expands-england-areas/",
+      "score": 64,
+      "commercial_score": 30,
       "product_keywords": [
-        "保育"
+        "トイレトレーニング",
+        "おむつ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "男性育休は分割できる 4回に分けた父親の実例",
-      "summary_ja": "マイナビ子育てが、育休を4回に分けて取った会社員の父親にインタビューした。仕事と趣味を続けながら家族と過ごす時間を確保する工夫を紹介している。",
-      "source": "マイナビ子育て",
-      "url": "https://news.yahoo.co.jp/articles/f56b4b3db059d111835213fdf35ec869a434407f",
-      "score": 66,
-      "commercial_score": 25,
-      "product_keywords": [
-        "男性育休"
-      ],
+      "title_ja": "共働き子育て世帯の「両立葛藤」、支える職場の課題も",
+      "summary_ja": "マイナビキャリアリサーチLabが、共働き子育て世帯の仕事と家庭の両立葛藤を調べた。当事者の工夫に加え、支える上司や同僚の負担にも目を向けている。",
+      "source": "マイナビキャリアリサーチLab",
+      "url": "https://career-research.mynavi.jp/report/20261005_115971/",
+      "score": 62,
+      "commercial_score": 10,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "今年のおもちゃトレンドは「マカロニチーズ」",
-      "summary_ja": "Good Housekeeping研究所の調査で、スクイーズ玩具から家族ゲーム、絵本までマカロニチーズをモチーフにした商品が子どもに人気だとわかった。",
-      "source": "Good Housekeeping",
-      "url": "https://www.yahoo.com/lifestyle/articles/most-unexpected-toy-trend-170000541.html",
-      "score": 66,
-      "commercial_score": 75,
-      "product_keywords": [
-        "スクイーズ おもちゃ",
-        "知育玩具"
-      ],
+      "title_ja": "保育への公的資金は母親の就労を後押しするか",
+      "summary_ja": "Phys.orgが、保育への公的資金を増やすと母親の就労が増えるのかを調べた研究を紹介した。",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-childcare-funding-mothers.html",
+      "score": 60,
+      "commercial_score": 5,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "堂安律の妻、アカチャンホンポのベビー用品を絶賛",
-      "summary_ja": "ドイツ在住の堂安律選手の妻・明松美玖さんが、一時帰国中にアカチャンホンポを訪れ、日本のベビー用品の作り込みに感動したとSNSで紹介した。大量に買い込んだという。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/aadeec20a313662036ecf01c1fb4208a410d017c",
-      "score": 62,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ベビー用品",
-        "アカチャンホンポ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "キンバリー・クラークが中国に根を張る理由",
-      "summary_ja": "1994年に中国に進出したキンバリー・クラークを例に、中国が販売市場から製品開発や製造の拠点に変わっている様子を伝えている。",
-      "source": "澎湃新聞",
-      "url": "https://news.qq.com/rain/a/20261002A09ZSR00",
-      "score": 62,
-      "commercial_score": 50,
-      "product_keywords": [
-        "Huggies",
-        "紙おむつ"
-      ],
+      "title_ja": "日本、沖縄以外の全都道府県で高齢者が子どもを上回る",
+      "summary_ja": "日経アジアによると、日本の最新の国勢調査で、沖縄を除くすべての都道府県で高齢者の数が子どもの数を上回った。",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_06_903312.shtml",
+      "score": 60,
+      "commercial_score": 5,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "新作ファミリーゲーム、食べ物モチーフが続々",
-      "summary_ja": "グミやタピオカを使って遊ぶなど、食べ物をテーマにした新作ファミリーゲームが多く出ている。年末の贈り物候補として紹介された。",
-      "source": "Good Housekeeping",
-      "url": "https://www.msn.com/en-us/news/other/some-of-the-best-new-family-games-are-all-about-playing-with-food/ar-AA2duqUI",
-      "score": 58,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ボードゲーム",
-        "ファミリーゲーム"
-      ],
+      "title_ja": "母子モの伴走型相談支援、広島県大竹市が導入",
+      "summary_ja": "母子モの「伴走型相談支援サービス」を広島県大竹市が導入した。母子健康手帳の交付予約や妊娠届出時のアンケートをアプリで済ませられる。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/1997728",
+      "score": 55,
+      "commercial_score": 10,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "カンザス州知事、保育の改善で全国表彰",
+      "summary_ja": "カンザス州のケリー知事は、保育の改善への取り組みが認められ、Child Care Aware of Americaの会議で表彰を受けた。保育料の高さへの対応は続いている。",
+      "source": "KSNT 27 News",
+      "url": "https://www.ksnt.com/capitol-bureau/kansas-gov-accepts-award-for-childcare-improvement-efforts-as-work-to-fix-high-costs-continue/",
+      "score": 55,
+      "commercial_score": 5,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ジャージー島、保育時間拡大に有資格者が不足",
-      "summary_ja": "英王室属領ジャージー島では、保育時間の拡大に対応できるだけの有資格スタッフがいないと指摘された。制度変更の実施に課題が残る。",
-      "source": "BBC",
-      "url": "https://www.msn.com/en-us/news/other/more-staff-needed-for-increased-childcare-hours/ar-AA2duqYX",
-      "score": 58,
-      "commercial_score": 10,
-      "product_keywords": [
-        "保育士"
-      ],
+      "title_ja": "保育の権限を首長に、地域経済を押し上げる可能性",
+      "summary_ja": "研究者は、保育の責任を広域の首長（メイヤー）当局にもっと持たせれば、地域の経済を押し上げられると指摘した。",
+      "source": "Nursery World",
+      "url": "https://www.nurseryworld.co.uk/content/news/more-childcare-responsibility-for-mayoral-authorities-could-boost-local-economies-researchers-say",
+      "score": 55,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "岡山市、子育て中の人向けに復職相談会",
-      "summary_ja": "岡山市とおかやまマザーズハローワークは10月28日、子育て中の人に仕事を紹介し、復職の悩みに応える出張相談会を開く。申し込みは不要。",
-      "source": "KSB瀬戸内海放送",
-      "url": "https://news.yahoo.co.jp/articles/0b722a74e9dcd937f435e7e740b9e1f11886fcaa",
-      "score": 52,
-      "commercial_score": 15,
-      "product_keywords": [
-        "子育て 両立"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "誰でも利用できる「ベビーバンク」が開設",
-      "summary_ja": "グロスターシャーのニューエントに、子ども服などを無料で配るベビーバンクの新拠点ができた。責任者は「誰にでも開かれている」と話す。",
+      "title_ja": "サウスシールズの保育園閉鎖、労働党が政府に支援要請",
+      "summary_ja": "サウス・タインサイドの一部の保育園の閉鎖を防ぐため、サウスシールズの労働党が政府に支援を求めた。",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?amp;at_campaign=rss",
-      "score": 52,
-      "commercial_score": 25,
-      "product_keywords": [
-        "ベビー服"
-      ],
+      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxxpkjzo",
+      "score": 55,
+      "commercial_score": 5,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "湖南省の託児総合サービスセンターが始動",
-      "summary_ja": "湖南省は9月29日、託児（托育）サービスを支える省の総合センターの運用を始めた。保育人材の育成や施設の質の向上を担う。",
-      "source": "華声在線",
-      "url": "https://news.qq.com/rain/a/20261002A0933O00",
+      "title_ja": "ミネソタの保育事業者、ネブラスカに4施設を開設",
+      "summary_ja": "ミネソタ州の保育グループが今年ネブラスカ州で4施設を開き、さらに2施設を計画している。州の保育不足に対応する。",
+      "source": "Nebraska Public Media",
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/childcare-organization-expands-into-nebraska-with-four-centers-two-more-planned/",
       "score": 52,
-      "commercial_score": 10,
-      "product_keywords": [
-        "托育"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "テキサスの大学、子育て学生の保育支援に200万ドル",
-      "summary_ja": "スティーブン・F・オースティン州立大学が、子育て中の学生の保育を支える米教育省の補助金約200万ドルを獲得した。低所得の学生が学業を続けやすくなる。",
-      "source": "SFA",
-      "url": "https://www.sfasu.edu/about-sfa/newsroom/2026/sfa-awarded-nearly-2m-grant-expand-childcare-access-parenting-students",
-      "score": 50,
-      "commercial_score": 10,
-      "product_keywords": [
-        "保育支援"
-      ],
+      "commercial_score": 5,
       "country": "us",
       "country_label_ja": "アメリカ"
     }

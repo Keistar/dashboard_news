@@ -1,0 +1,37 @@
+{
+  "genre": "bousai",
+  "genre_label_ja": "防災",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "stories": [
+    {
+      "title_ja": "英国の食料不足への備えは「極めて不十分」",
+      "summary_ja": "150人を超える専門家が、英国は食料安全保障の危機に対して油断していると警告した。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-food-shortages-warning-national-security-b3061312.html",
+      "score": 70,
+      "commercial_score": 30,
+      "product_keywords": [
+        "非常食"
+      ]
+    },
+    {
+      "title_ja": "「急な冷え込み」報道、英気象庁が事実を説明",
+      "summary_ja": "「気温が急降下し、雨と雪の壁が来る」との報道について、英気象庁（Met Office）が実際の見通しを説明した。",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/plunging-temperatures-and-wall-of-rain-and-snow-met-office-sets-the-record-straight-13595522",
+      "score": 66,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "浸水したヘレフォードの介護施設跡に住宅計画",
+      "summary_ja": "洪水が起きやすいヘレフォードの介護施設を取り壊し、20戸の住宅を建てる計画が出た。将来の住民を浸水から守る大胆な工夫を盛り込んでいる。",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/plan-demolish-flood-hit-city-040000264.html",
+      "score": 56,
+      "commercial_score": 5
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T18:00:52+09:00",
+  "trends": [
+    {
+      "keyword": "Prime Big Deal Days",
+      "reason_ja": "英国でもAmazonの「Prime Big Deal Days」が10月6〜7日に開かれている。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Prime Big Deal Days"
+      ],
+      "product_keywords_ja": [
+        "ワイヤレスイヤホン",
+        "ロボット掃除機"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Amazon、英国で10月6〜7日にPrime Big Deal Days",
+          "summary_ja": "Amazonはプライム会員向けの2日間のセールを10月6〜7日に開き、ファッション、家電、美容、玩具などで数十万点を値下げする。",
+          "source": "About Amazon UK",
+          "url": "https://www.aboutamazon.co.uk/news/retail/prime-big-deal-days-save-big-on-autumn-and-christmas-shopping-from-october-6-7th"
+        },
+        {
+          "title_ja": "プライムデーのお買い得、GHI認定品が最大60%オフ",
+          "summary_ja": "Good Housekeeping UKが、プライムデーで安くなっている自社認定の商品をまとめた。",
+          "source": "Good Housekeeping",
+          "url": "https://www.goodhousekeeping.com/uk/consumer-advice/g60754486/best-amazon-prime-day-deals-2026-day-1/"
+        }
+      ]
+    },
+    {
+      "keyword": "russell t davies",
+      "reason_ja": "『ドクター・フー』の元ショーランナー、ラッセル・T・デイヴィスが回想録で番組の幕引きを語った。",
+      "genre": "other",
+      "commercial_score": 40,
+      "product_keywords": [
+        "Doctor Who"
+      ],
+      "product_keywords_ja": [
+        "ドクター・フー DVD"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ラッセル・T・デイヴィス、『ドクター・フー』の終わりを語る",
+          "summary_ja": "ラッセル・T・デイヴィスが回想録の抜粋で、『ドクター・フー』の世界の結末を書いたときのことを振り返った。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/media/2026/oct/03/russell-t-davies-memoir-the-queerest-of-folk-extract"
+        },
+        {
+          "title_ja": "デイヴィス氏、ファンの批判と情報流出に答える",
+          "summary_ja": "『ドクター・フー』の元責任者が、ファンからの批判と情報流出への対応を明かした。",
+          "source": "Radio Times",
+          "url": "https://www.radiotimes.com/tv/sci-fi/doctor-who-russell-t-davies-criticism-leaks-newsupdate/"
+        }
+      ]
+    },
+    {
+      "keyword": "cruz beckham",
+      "reason_ja": "クルス・ベッカムが恋人とゴールデンレトリバーの子犬を迎えた。",
+      "genre": "pet",
+      "commercial_score": 35,
+      "product_keywords": [
+        "golden retriever puppy"
+      ],
+      "product_keywords_ja": [
+        "子犬 用品",
+        "犬 ベッド"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "クルス・ベッカム、恋人と子犬を迎える",
+          "summary_ja": "クルス・ベッカムと恋人のジャッキー・アポステルが、新しい家族として子犬を迎えた。",
+          "source": "People.com",
+          "url": "https://people.com/cruz-beckham-gets-new-dog-with-girlfriend-12159563"
+        }
+      ]
+    },
+    {
+      "keyword": "nyt connections answers",
+      "reason_ja": "NYTのワードパズル「Connections」のヒントや答えを探す人が多い。",
+      "genre": "other",
+      "commercial_score": 25,
+      "product_keywords": [
+        "word puzzle book"
+      ],
+      "product_keywords_ja": [
+        "パズル 本"
+      ],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "NYT Connections、10月6日のヒント",
+          "summary_ja": "Mashableが、10月6日のNYT Connectionsの各単語の意味とヒントをまとめた。",
+          "source": "Mashable",
+          "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-6-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "michael sheen house of games",
+      "reason_ja": "BBCのクイズ番組「House of Games」の新しい司会にマイケル・シーンが就き、評価が分かれている。",
+      "genre": "other",
+      "commercial_score": 20,
+      "product_keywords": [
+        "House of Games"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "Google Trends GB",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "マイケル・シーンの「House of Games」、前任に及ばず",
+          "summary_ja": "The Telegraphは、新司会のマイケル・シーンにはリチャード・オスマンほどの存在感がないと評した。",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/tv/0/house-of-games-bbc-two-review/"
+        }
+      ]
+    }
+  ]
+}
