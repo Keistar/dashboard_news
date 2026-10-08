@@ -46,6 +46,10 @@ trap 'rmdir "$LOCK" 2>/dev/null' EXIT
 
 echo "=== $(date '+%F %T') $DATE の更新を始める"
 
+# .pyc を書かせない。書いたファイルで作業ツリーが汚れると、次の日から下の検査で止まる
+# （2026-10-07・10-08 に、git に入っていた scripts/__pycache__ の .pyc が書き換わって止まった）
+export PYTHONDONTWRITEBYTECODE=1
+
 # --- 最新の main から始める（この clone は自動実行専用にする。手で作業する clone とは分ける）
 [ -z "$(git status --porcelain --untracked-files=no)" ] || fail "作業ツリーに変更がある"
 BASE="${NEWS_BASE_REF:-origin/main}"
