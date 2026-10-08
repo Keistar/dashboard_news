@@ -1,0 +1,182 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:32:15+09:00",
+  "trends": [
+    {
+      "keyword": "Prime Day air fryer deals",
+      "reason_ja": "英国のプライムデーで、Ninjaなどのエアフライヤーの値引きが売れ筋として注目されている。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "air fryer",
+        "Ninja air fryer",
+        "Tefal air fryer"
+      ],
+      "product_keywords_ja": [
+        "ノンフライヤー",
+        "Ninja",
+        "ティファール"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライムデーのエアフライヤー特価、実機テスト済み",
+          "summary_ja": "プライムデーで値下げされているエアフライヤーを、試した上で紹介している。Ninja、Tower、Tefalなどが対象。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/shopping/esbest/amazon-prime-day/best-air-fryer-amazon-prime-day-deals-b1299883.html"
+        },
+        {
+          "title_ja": "売れ筋エアフライヤーがプライムデーで品薄に",
+          "summary_ja": "プライムデーで人気のエアフライヤーが売れている。Ninja、Philips、Tefalの高評価モデルが最大100ポンド安くなっている。",
+          "source": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/10/07/bestselling-air-fryers-selling-fast-amazons-prime-day-sale-29689029/"
+        }
+      ]
+    },
+    {
+      "keyword": "Medicube Prime Day",
+      "reason_ja": "SNSで話題のKビューティーブランド「Medicube」が、英国のプライムデーで半額になり注目されている。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Medicube",
+        "K-beauty",
+        "PDRN jelly mask"
+      ],
+      "product_keywords_ja": [
+        "メディキューブ",
+        "韓国コスメ",
+        "ブースタープロ"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Medicubeの人気スキンケアがプライムデーで半額",
+          "summary_ja": "手頃なKビューティー製品をそろえ、SNSで話題になったMedicube。アマゾンのプライムデーで半額になっている。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/shopping/esbest/amazon-prime-day/best-medicube-amazon-prime-day-deals-b1299670.html"
+        },
+        {
+          "title_ja": "Medicubeのバズったスキンケアがプライムデーで値下げ",
+          "summary_ja": "プライムデーでMedicube製品が値下げされている。話題の「ブースタープロX2」やPDRNジェリーマスクなども対象。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/us/medicube-prime-day-deals-2026-b3059160.html"
+        },
+        {
+          "title_ja": "売り切れ前に買いたいプライムデー美容特価12選",
+          "summary_ja": "アマゾンのプライムデーでお得な美容アイテムを紹介している。MedicubeなどのKビューティーから、ghd、CeraVe、La Roche-Posayまで並ぶ。",
+          "source": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/10/07/12-best-amazon-prime-day-beauty-deals-shop-sell-29685643/"
+        }
+      ]
+    },
+    {
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "マイクロソフトがNVIDIAのRTX Sparkを搭載したノートPC「Surface Laptop Ultra」を発表した。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Surface Laptop Ultra",
+        "Surface Laptop"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop"
+      ],
+      "trend_source": "ニュース（新製品）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Surface Laptop Ultraなど秋の発表会まとめ",
+          "summary_ja": "マイクロソフトのSurfaceとWindowsの発表会が終わった。Surface Laptop Ultraや、刷新されたWindowsの検索機能などの詳細をまとめている。",
+          "source": "PCMag UK",
+          "url": "https://uk.pcmag.com/laptops/167696/microsoft-surface-windows-event-2026-live-announcements-and-analysis"
+        },
+        {
+          "title_ja": "Surface Laptop UltraはAI特化、電力に課題",
+          "summary_ja": "Surface Laptop UltraはローカルでのAI処理向けに作られている。一方で消費電力やバッテリー持ちが不明で、実用性に疑問も出ている。",
+          "source": "PCWorld",
+          "url": "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html"
+        },
+        {
+          "title_ja": "Surface Laptop Ultra、充電端子はMagSafeより進化",
+          "summary_ja": "マイクロソフトが「これまでで最もパワフル」としていたSurface Laptop Ultraが登場した。NVIDIA RTX Sparkを搭載し、充電方式もMacBookのMagSafeを上回るとしている。",
+          "source": "Stuff",
+          "url": "https://www.stuff.tv/news/microsoft-surface-ultra-price-specs-release-date-specs-magnetic-connector/"
+        }
+      ]
+    },
+    {
+      "keyword": "gpt-6",
+      "reason_ja": "OpenAIがChatGPTでGPT-6と、図やインタラクティブな表示を加える「Intelligent UI」の提供を始めた。",
+      "genre": "ai",
+      "commercial_score": 70,
+      "product_keywords": [
+        "ChatGPT",
+        "GPT-6"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "OpenAI、GPT-6とIntelligent UIを公開",
+          "summary_ja": "GPT-6がChatGPTで世界的に順次提供されている。Intelligent UIにより、回答が速くなり、図やインタラクティブな要素を直接使えるようになる。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-for-everyone/"
+        },
+        {
+          "title_ja": "ChatGPTが新インターフェースでより視覚的に",
+          "summary_ja": "OpenAIがChatGPTに新しいユーザーインターフェースを導入する。インタラクティブな図などを表示できるようになる。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+        },
+        {
+          "title_ja": "ChatGPTにGPT-6、対話的な回答が可能に",
+          "summary_ja": "OpenAIがChatGPTでGPT-6とIntelligent UIの提供を始めた。回答に図やインタラクティブなツールを加えられ、無料ユーザーなどにも順次届く。",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/"
+        }
+      ]
+    },
+    {
+      "keyword": "uk petrol prices on google maps",
+      "reason_ja": "英国でGoogleマップにガソリンスタンドの最新燃料価格が表示されるようになり、話題になっている。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "car phone holder",
+        "dash cam"
+      ],
+      "product_keywords_ja": [
+        "スマホホルダー 車載"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Googleマップで英国の燃料価格が見られるように",
+          "summary_ja": "英国のドライバーがGoogleマップで給油所の最新燃料価格を確認できるようになった。軽油価格が高騰するなか、価格の透明化と競争促進が期待されている。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing"
+        },
+        {
+          "title_ja": "燃料高騰の中、Googleマップに給油価格を表示",
+          "summary_ja": "Googleマップで給油所を検索すると、その価格が表示されるようになった。政府の「Fuel Finder」の仕組みを使っている。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo"
+        },
+        {
+          "title_ja": "ドライバーに朗報、Googleマップで燃料価格表示",
+          "summary_ja": "Googleマップでガソリンの最新価格が表示されることが発表された。軽油価格が過去最高水準を更新し続けるなかでの動き。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/home-news/google-maps-petrol-prices-fuel-diesel-latest-b3062872.html"
+        }
+      ]
+    }
+  ]
+}

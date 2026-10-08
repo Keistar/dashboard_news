@@ -1,527 +1,698 @@
 {
   "feed": "trends",
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T08:55:42+09:00",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:32:15+09:00",
   "trends": [
     {
-      "keyword": "プライム感謝祭",
-      "reason_ja": "Amazonプライム感謝祭の先行セールを前に、すでに値下げされた商品やメーカーのセール告知が話題になっています。",
-      "genre": "sale",
-      "commercial_score": 95,
-      "product_keywords": [
-        "ヘアアイロン",
-        "Xiaomi",
-        "プライム感謝祭"
-      ],
-      "product_keywords_ja": [
-        "ヘアアイロン",
-        "Xiaomi"
-      ],
-      "trend_source": "ニュース（セール）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "プライム感謝祭より早くセール価格になった愛用品",
-          "summary_ja": "今年のAmazonプライム感謝祭は先行セールが10月13日から、本番が10月16日から19日までです。筆者は10月6日の時点でセール価格になっている愛用品として、ヘアアイロンなどを紹介しています。",
-          "source": "note",
-          "url": "https://note.com/tekeshun/n/n8fb413ac4a55"
-        },
-        {
-          "title_ja": "シャオミがプライム感謝祭のセールを告知、一部は先行",
-          "summary_ja": "シャオミ・ジャパンが公式Xで、Amazonプライム感謝祭に合わせたセールの開催を告知しました。一部の製品は10月6日からお得になっています。",
-          "source": "週刊モバイル.com",
-          "url": "https://mobamag.com/sale/xiaomi-prime-kanshasai-2026/"
-        },
-        {
-          "title_ja": "プライム感謝祭は何が安くなる？売れ筋まとめ",
-          "summary_ja": "10月13日からAmazonプライム感謝祭の先行セールが始まります。1年前のプライム感謝祭で特に売れていた商品をまとめています。",
-          "source": "360LiFE",
-          "url": "https://360life.shinyusha.co.jp/articles/-/56410"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
       "keyword": "Prime Big Deal Days",
-      "reason_ja": "Amazonの10月のプライムデー「Prime Big Deal Days」が開催中で、各メディアがおすすめのセール品を紹介しています。",
+      "reason_ja": "アマゾンの秋のプライムセール「Prime Big Deal Days」が最終日を迎え、駆け込みのお得情報が多数報じられている。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
         "Prime Big Deal Days",
-        "camping gear",
-        "kitchen deals"
+        "Prime Day deals"
       ],
-      "product_keywords_ja": [
-        "キャンプ用品",
-        "キッチン家電"
-      ],
+      "product_keywords_ja": [],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "10月のプライムデー、編集部が選ぶお得な35品",
-          "summary_ja": "Rolling Stoneの編集部が、Amazonの10月のプライムデー「Prime Big Deal Days」で買えるお得な商品を選んでいます。全体の値引きは大きくないものの、この35品はおすすめとしています。",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-amazon-prime-big-deal-days-offers-discounts-2026-1235636858/"
-        },
-        {
-          "title_ja": "ギア編集部が推すプライムデーのセール品6つ",
-          "summary_ja": "Outside Magazineのギア編集部が、Prime Big Deal Daysの中からキャンプ用品やアパレル、テック製品のおすすめ6品を選びました。",
-          "source": "Outside Magazine",
-          "url": "https://www.outsideonline.com/outdoor-gear/gear-news/amazon-prime-big-deal-days-2926/"
-        },
-        {
-          "title_ja": "Prime Big Deal Days開催、注目の150品",
-          "summary_ja": "Amazonが、Prime Big Deal Daysのおすすめ150品を紹介しています。テック、おもちゃ、キッチン、美容などが対象で、新しいセールが1日3回追加されます。",
+          "title_ja": "Prime Big Deal Daysが今夜終了、注目200品",
+          "summary_ja": "アマゾンのPrime Big Deal Daysが今夜で終わる。テック、おもちゃ、キッチン、美容など200のお得な商品をまとめている。",
           "source": "About Amazon",
           "url": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals"
+        },
+        {
+          "title_ja": "プライムデーのテック特価、Apple・Sony・Boseなど",
+          "summary_ja": "プライムデーで実績のあるテック製品の特価を65件以上紹介。Apple、Sony、Boseなどが対象で、最後のチャンスとしている。",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/select/shopping/october-prime-day-2026-tech-deals-rcna600965"
+        },
+        {
+          "title_ja": "Prime Big Deal Daysの大幅値引きが今夜まで",
+          "summary_ja": "10月のプライムデーで見逃せない値引きをまとめた。Laura Geller、KitchenAid、Medicubeなどが対象になっている。",
+          "source": "TODAY.com",
+          "url": "https://www.today.com/shop/october-prime-day-deepest-discounts-2026-rcna600246"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Amazon Prime Day UK",
-      "reason_ja": "英国でもAmazonのPrime Big Deal Daysが始まり、お得に買うコツや目玉商品が話題です。",
-      "genre": "sale",
-      "commercial_score": 95,
-      "product_keywords": [
-        "Prime Big Deal Days",
-        "air fryer",
-        "games console"
-      ],
-      "product_keywords_ja": [
-        "ノンフライヤー",
-        "ゲーム機"
-      ],
-      "trend_source": "ニュース（セール）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Amazon英国、秋とクリスマスの買い物向けのセール",
-          "summary_ja": "AmazonのPrime Big Deal Daysは2日間のセールです。ファッション、家電、美容、おもちゃなど、プライム会員限定のお得な商品が並びます。",
-          "source": "About Amazon UK",
-          "url": "https://www.aboutamazon.co.uk/news/retail/prime-big-deal-days-save-big-on-autumn-and-christmas-shopping-from-october-6-7th"
-        },
-        {
-          "title_ja": "プライムデーのお得な商品を見つける7つのコツ",
-          "summary_ja": "長年プライムデーを取材してきたショッピングの専門家が、10月のセールでお得な商品を見つけるコツを紹介しています。",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/extras/indybest/amazon-prime-day/prime-day-shopping-top-tips-amazon-b3061892.html"
-        },
-        {
-          "title_ja": "Prime Big Deal Daysはいつから？早めのお得情報",
-          "summary_ja": "Prime Big Deal Daysが始まり、ゲーム機からエアフライヤーまで幅広い商品がお得になっています。",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/money/40592970/amazon-prime-big-deal-days-start-early-deals/"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "しまむら ドラクエ",
-      "reason_ja": "しまむらとドラゴンクエストの100種を超える大型コラボ商品が10月7日に全国で発売され、受注販売の実施もSNSで歓迎されています。",
-      "genre": "other",
-      "commercial_score": 90,
-      "product_keywords": [
-        "ドラクエ Tシャツ",
-        "ドラクエ グッズ",
-        "スライム ブランケット"
-      ],
-      "product_keywords_ja": [
-        "ドラクエ Tシャツ",
-        "ドラクエ グッズ",
-        "スライム ブランケット"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "しまむら×ドラクエのコラボ商品が発売、受注販売に歓迎の声",
-          "summary_ja": "しまむらがドラゴンクエストシリーズとのコラボフェアを始め、ファッションやライフアイテムを10月7日から発売します。受注販売の実施に、SNSでは「神対応」と喜ぶ声が出ています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/91b23aa7130a36ecfe1a301d4ad2c7e9cce8cddb"
-        },
-        {
-          "title_ja": "しまむらでドラクエ100種超の大型コラボ、限定ショッパー特典も",
-          "summary_ja": "「ファッションセンタードラクエ」Tシャツセットや宿屋ブランケットなど100種を超える商品が、全国約1,400店舗で発売されます。限定ショッパーの特典や巨大スライムを置く店舗もあります。",
-          "source": "朝日新聞",
-          "url": "https://www.asahi.com/and/m/article/16940906"
-        },
-        {
-          "title_ja": "ドラクエ×しまむらのグッズまとめ、Tシャツや着る毛布も",
-          "summary_ja": "スクウェア・エニックスとしまむらのコラボで、Tシャツや着る毛布など100種を超える商品が全国のしまむらで発売されます。一部の商品は台風の影響で入荷が10月24日以降になります。",
-          "source": "GAME Watch",
-          "url": "https://game.watch.impress.co.jp/docs/news/2145459.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
     },
     {
       "keyword": "楽天お買い物マラソン",
-      "reason_ja": "楽天市場のお買い物マラソンと新セール企画「ジャンル祭」が同時に開催され、各メーカーの値下げが話題です。",
+      "reason_ja": "楽天市場のお買い物マラソンが開催中で、PC周辺機器やポータブル電源などのお得情報が相次いで紹介されている。",
       "genre": "sale",
       "commercial_score": 90,
       "product_keywords": [
-        "ゲーミングヘッドセット",
-        "ゲーミングコントローラー",
-        "お買い物マラソン"
+        "お買い物マラソン",
+        "トラックボール",
+        "ThinkPad"
       ],
       "product_keywords_ja": [
-        "ゲーミングヘッドセット",
-        "ゲーミングコントローラー"
+        "トラックボール",
+        "ThinkPad",
+        "ポータブル電源"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Turtle BeachやVictrixのゲーミング機器が楽天でセール",
-          "summary_ja": "楽天市場で「お買い物マラソン&ジャンル祭り」が期間限定で開催中です。Turtle BeachやVictrixのゲーミングデバイスがセール対象になっています。",
+          "title_ja": "エレコムのトラックボールなどがお買い物マラソンで特価",
+          "summary_ja": "楽天市場で「お買い物マラソン&ジャンル祭り」が期間限定で開かれている。ベアリング採用のトラックボールマウスなど、エレコム製品がお得に買える。",
           "source": "AKIBA PC Hotline!",
-          "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2145707.html"
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2145752.html"
         },
         {
-          "title_ja": "楽天市場、ジャンル別キャンペーンを集めた「ジャンル祭」開始",
-          "summary_ja": "楽天グループが、商品ジャンルごとのキャンペーンを集めた新しいセール企画「ジャンル祭」を楽天市場で始めると発表しました。初回は10月4日から始まります。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/052e9921a61b2fb9e083ad0df786d489c8e8ebf6"
+          "title_ja": "ThinkPadなどLenovo製品がお買い物マラソンでお得",
+          "summary_ja": "楽天市場のお買い物マラソンで、ThinkPadやゲーミングタブレットといったLenovo製品がお買い得になっている。開催は期間限定。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/akibapc_watch/trend/akibapc_watch-2145738"
         },
         {
-          "title_ja": "楽天市場の新セール「ジャンル祭」、マラソンと連動",
-          "summary_ja": "楽天市場が新しいセールイベント「ジャンル祭」を開催しています。お買い物マラソンと連動して還元を受けられる仕組みです。",
-          "source": "コマースピック",
-          "url": "https://www.commercepick.com/archives/104423"
+          "title_ja": "Jackeryのポータブル電源がお買い物マラソンで値引き",
+          "summary_ja": "防災用途でも注目されるJackeryのポータブル電源が、楽天市場のお買い物マラソンで割引価格になっている。期間限定のイベントとして開催中。",
+          "source": "千葉テレビ放送株式会社",
+          "url": "https://www.chiba-tv.com/plus/detail/2026102087257"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "robot vacuum deals",
-      "reason_ja": "プライムデーで、DysonやShark、iRobotなどの掃除機やロボット掃除機の値下げが注目されています。",
-      "genre": "kaji",
+      "keyword": "ポータブル電源",
+      "reason_ja": "防災にも役立つとして、Jackeryのポータブル電源やソーラーパネルのセール・売れ筋情報が報じられている。",
+      "genre": "outdoor",
       "commercial_score": 90,
       "product_keywords": [
-        "robot vacuum",
-        "cordless vacuum",
-        "Shark vacuum"
+        "ポータブル電源",
+        "Jackery",
+        "ソーラーパネル"
       ],
       "product_keywords_ja": [
-        "ロボット掃除機",
-        "コードレス掃除機",
-        "シャーク 掃除機"
+        "ポータブル電源",
+        "Jackery",
+        "ソーラーパネル"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "10月のプライムデー、掃除機のお得な商品",
-          "summary_ja": "NBC Newsが、10月のプライムデーで買える掃除機のお得な商品を紹介しています。Dyson、Shark、Bissellなどが対象です。",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/select/shopping/october-prime-day-vacuum-deals-2026-rcna601735"
+          "title_ja": "Jackeryのポータブル電源が楽天で最大46％オフ",
+          "summary_ja": "防災に役立つJackery製のポータブル電源が、楽天お買い物マラソンで最大46％オフになっている。お買い物マラソンは期間限定で開催中。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/akibapc_watch/trend/akibapc_watch-2145719"
         },
         {
-          "title_ja": "ロボット掃除機がセール、Shark・iRobot・eufyなど",
-          "summary_ja": "USA Todayが、Shark、iRobot、eufyなどのロボット掃除機のセールを紹介しています。",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/shopping/home/vacuums/2026/10/06/best-prime-day-robot-vacuum-deals/92061939007/"
+          "title_ja": "Amazon売れ筋1位のJackeryポータブル電源",
+          "summary_ja": "Amazonのポータブル電源・蓄電池カテゴリでベストセラー1位のJackery「1000 New」を紹介。急速充電に対応し、電子レンジや電気ケトルなどの家電にも使える。",
+          "source": "All About ニュース",
+          "url": "https://news.allabout.co.jp/articles/o/130659/"
+        },
+        {
+          "title_ja": "100WソーラーJackery SolarSaga 100 Primeが特価",
+          "summary_ja": "Jackery Japan楽天市場店で、100Wソーラーパネル「SolarSaga 100 Prime」が40％引きで販売されている。両面発電を採用した車載・据え置き向けのパネル。",
+          "source": "Jetstream",
+          "url": "https://jetstream.blog/2026/10/06/jackery-solarsaga-100-prime-rakuten-sale-20261006/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Ninja Flip air fryer",
+      "reason_ja": "プライムデーの最終盤で、Ninjaのトースター兼エアフライヤー「Flip」の40％オフが相次いで紹介されている。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Ninja Flip",
+        "air fryer",
+        "toaster oven"
+      ],
+      "product_keywords_ja": [
+        "ノンフライヤー",
+        "Ninja",
+        "トースター"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Ninja Flipが100ドル引き、プライムデー終了間近",
+          "summary_ja": "人気のトースターオーブン兼エアフライヤー「Ninja Flip」が、プライムデーで40％オフになっている。セールの終了が迫っている。",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/ninja-flip-toaster-air-fryer-prime-day-deal/"
+        },
+        {
+          "title_ja": "Ninja Flipが40％オフ、プライムデー最終盤",
+          "summary_ja": "Ninjaの8-in-1トースターオーブン兼エアフライヤー「Flip」が、10月のプライムデーの最後の時間帯に40％オフで買える。",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/deals/ninja-flip-air-fryer-amazon-deal"
+        },
+        {
+          "title_ja": "省スペースのエアフライヤーNinja Flipが割引",
+          "summary_ja": "かさばりがちなエアフライヤーの中で、省スペースなNinja Flipが注目されている。10月のプライムデーで40％オフになっている。",
+          "source": "Yahoo",
+          "url": "https://shopping.yahoo.com/deals/article/the-ninja-flip-is-a-total-game-changer-of-an-air-fryer-and-40-off-for-october-prime-day-191058878.html"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "air fryer deals",
-      "reason_ja": "プライムデーで、Ninjaなどのエアフライヤーやキッチン家電の値下げが注目されています。",
+      "keyword": "power station deals",
+      "reason_ja": "プライムデーでJackery、Anker、Bluettiなどのポータブル電源が値下げされ、まとめ記事が出ている。",
+      "genre": "outdoor",
+      "commercial_score": 90,
+      "product_keywords": [
+        "portable power station",
+        "Jackery",
+        "Anker Solix"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "Jackery",
+        "Anker"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライムデーのポータブル電源特価まとめ",
+          "summary_ja": "10月のプライムデーで、ポータブル電源のセールが始まっている。Jackery、Anker、Bluettiなどの製品がお得になっている。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-october-prime-day-power-station-deals-live-2026"
+        },
+        {
+          "title_ja": "Anker製品がプライムデーで最大43％オフ",
+          "summary_ja": "10月のプライムデーで、Ankerのモバイルバッテリー、ヘッドホン、ポータブル電源などがセール中。充電ステーションなども含め、最大43％オフになっている。",
+          "source": "Lifehacker",
+          "url": "https://lifehacker.com/tech/last-minute-anker-deals-october-prime-day-2026"
+        },
+        {
+          "title_ja": "JackeryやBluettiのポータブル電源が新安値",
+          "summary_ja": "Prime Big Deal Daysの2日目で最終日に、JackeryやBluettiのポータブル電源が新たな安値になった。Ankerのセキュリティ機器なども割引されている。",
+          "source": "Electrek",
+          "url": "https://electrek.co/2026/10/07/prime-day-jackery-bluetti-power-stations-anker-security-devices-ecovacs-more/?extended-comments=1"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Prime Day air fryer deals",
+      "reason_ja": "英国のプライムデーで、Ninjaなどのエアフライヤーの値引きが売れ筋として注目されている。",
       "genre": "kaji",
       "commercial_score": 90,
       "product_keywords": [
         "air fryer",
         "Ninja air fryer",
-        "kitchen appliances"
+        "Tefal air fryer"
       ],
       "product_keywords_ja": [
         "ノンフライヤー",
-        "ニンジャ ノンフライヤー",
-        "キッチン家電"
+        "Ninja",
+        "ティファール"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プライムデーのキッチン用品セール49選",
-          "summary_ja": "Bon Appétitが、プライムデーのキッチン用品のお得な商品を紹介しています。All-Clad、Breville、Le Creuset、Ninjaなどが値下げされています。",
-          "source": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
-          "url": "https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2026-10-06"
+          "title_ja": "プライムデーのエアフライヤー特価、実機テスト済み",
+          "summary_ja": "プライムデーで値下げされているエアフライヤーを、試した上で紹介している。Ninja、Tower、Tefalなどが対象。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/shopping/esbest/amazon-prime-day/best-air-fryer-amazon-prime-day-deals-b1299883.html"
         },
         {
-          "title_ja": "試して選んだプライムデーのエアフライヤー",
-          "summary_ja": "プライムデーでは多くのエアフライヤーがセールになっています。Business Insiderが、テストした中で良かった機種から先に買うべき5つを選びました。",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/guides/deals/best-prime-day-air-fryer-deals-2026-10"
+          "title_ja": "売れ筋エアフライヤーがプライムデーで品薄に",
+          "summary_ja": "プライムデーで人気のエアフライヤーが売れている。Ninja、Philips、Tefalの高評価モデルが最大100ポンド安くなっている。",
+          "source": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/10/07/bestselling-air-fryers-selling-fast-amazons-prime-day-sale-29689029/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Medicube Prime Day",
+      "reason_ja": "SNSで話題のKビューティーブランド「Medicube」が、英国のプライムデーで半額になり注目されている。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Medicube",
+        "K-beauty",
+        "PDRN jelly mask"
+      ],
+      "product_keywords_ja": [
+        "メディキューブ",
+        "韓国コスメ",
+        "ブースタープロ"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Medicubeの人気スキンケアがプライムデーで半額",
+          "summary_ja": "手頃なKビューティー製品をそろえ、SNSで話題になったMedicube。アマゾンのプライムデーで半額になっている。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/shopping/esbest/amazon-prime-day/best-medicube-amazon-prime-day-deals-b1299670.html"
+        },
+        {
+          "title_ja": "Medicubeのバズったスキンケアがプライムデーで値下げ",
+          "summary_ja": "プライムデーでMedicube製品が値下げされている。話題の「ブースタープロX2」やPDRNジェリーマスクなども対象。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/us/medicube-prime-day-deals-2026-b3059160.html"
+        },
+        {
+          "title_ja": "売り切れ前に買いたいプライムデー美容特価12選",
+          "summary_ja": "アマゾンのプライムデーでお得な美容アイテムを紹介している。MedicubeなどのKビューティーから、ghd、CeraVe、La Roche-Posayまで並ぶ。",
+          "source": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/10/07/12-best-amazon-prime-day-beauty-deals-shop-sell-29685643/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Samsung Week",
+      "reason_ja": "サムスンがGalaxy製品を最大10％オフにする「Samsung Week」を始め、折りたたみスマホも対象になった。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Galaxy Z Fold8",
+        "Galaxy Tab",
+        "Galaxy Watch"
+      ],
+      "product_keywords_ja": [
+        "Galaxy Z Fold8",
+        "Galaxy Tab",
+        "Galaxy Watch"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "サムスン「Samsung Week」で最大10％割引を開始",
+          "summary_ja": "サムスン電子ジャパンが「Samsung Week」と題した割引キャンペーンを始めた。対象製品が最大10％割引になる。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000994.000030942.html"
+        },
+        {
+          "title_ja": "Galaxy Z Fold8もセール対象に、Samsung Week開始",
+          "summary_ja": "サムスンのGalaxy製品が最大10％オフで買える「Samsung Week」が始まった。折りたたみスマホのGalaxy Z Fold8も対象に含まれる。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1116857"
+        },
+        {
+          "title_ja": "Galaxy製品に10％オフのクーポンコードも発行",
+          "summary_ja": "Samsung Weekでは対象製品が最大10％割引になるのに加え、最大10％オフの専用クーポンコードも用意された。Galaxy Z、S、Tabなどが対象。",
+          "source": "GAPSIS",
+          "url": "https://www.gapsis.jp/2026/10/samsung-week-galaxy-campaign.html"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "VITURE Beast",
+      "reason_ja": "VITUREのセールで、フラッグシップXRグラス「Beast」が初めて値引き対象になると発表された。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "VITURE Beast",
+        "XRグラス"
+      ],
+      "product_keywords_ja": [
+        "VITURE",
+        "XRグラス"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "VITURE「秋の大感謝祭セール」、Beastが初の対象に",
+          "summary_ja": "XRグラスブランドのVITUREが「秋の大感謝祭セール」を開く。フラッグシップのXRグラス「Beast」が初めてセール対象になる。",
+          "source": "PANORA",
+          "url": "https://panora.tokyo/archives/159345"
+        },
+        {
+          "title_ja": "VITUREのXRグラス3機種が最大22％オフに",
+          "summary_ja": "VITUREがXRグラス3機種を最大22％オフにするセールを実施する。フラッグシップの「Beast」も初めて対象に含まれる。",
+          "source": "au Webポータル",
+          "url": "https://article.auone.jp/95d4e177-86d6-46e9-a63a-62d4e6033e5b"
+        },
+        {
+          "title_ja": "XRグラス「Beast」が値下げ、公式や大手ECで",
+          "summary_ja": "VITUREのXRグラス「Beast」がセール価格で販売される。公式サイトのほか、Amazon、楽天市場、Yahoo!ショッピング、家電量販店が対象。",
+          "source": "Excite エキサイト",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-08-122609-17/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "マイクロソフトがNVIDIAのチップを載せたAI向けノートPC「Surface Laptop Ultra」を発表し、予約を始めた。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Surface Laptop Ultra",
+        "Surface Laptop"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop"
+      ],
+      "trend_source": "ニュース（新製品）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "マイクロソフトのSurface発表会まとめ",
+          "summary_ja": "マイクロソフトがサンフランシスコでWindowsとSurfaceの発表会を開いた。新しいSurfaceのハードウェアやWindowsの更新内容が明らかになった。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+        },
+        {
+          "title_ja": "マイクロソフト、最強のSurfaceの予約を開始",
+          "summary_ja": "マイクロソフトが公式ブログで、これまでで最もパワフルとするSurfaceデバイスの予約受付を案内した。クリエイターや開発者を意識した製品としている。",
+          "source": "Windows Blog",
+          "url": "https://blogs.windows.com/devices/2026/10/07/pre-order-our-most-powerful-surface-devices-ever/"
+        },
+        {
+          "title_ja": "Surface Laptop UltraはAI特化、課題は電力",
+          "summary_ja": "新しいSurface Laptop UltraはローカルでのAI処理向けに作られている。一方で消費電力やバッテリー持ちが不明な点に、実用性への疑問も示されている。",
+          "source": "PCWorld",
+          "url": "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Ninja air fryer deal",
-      "reason_ja": "英国のプライムデーで、Ninjaのエアフライヤーなどキッチン家電の値下げが注目されています。",
-      "genre": "kaji",
-      "commercial_score": 90,
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "マイクロソフトがNVIDIAのRTX Sparkを搭載したノートPC「Surface Laptop Ultra」を発表した。",
+      "genre": "gadget",
+      "commercial_score": 80,
       "product_keywords": [
-        "Ninja air fryer",
-        "air fryer"
+        "Surface Laptop Ultra",
+        "Surface Laptop"
       ],
       "product_keywords_ja": [
-        "ニンジャ ノンフライヤー",
-        "ノンフライヤー"
+        "Surface Laptop"
       ],
-      "trend_source": "ニュース（セール）",
+      "trend_source": "ニュース（新製品）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プライムデーでエアフライヤーが最大90ポンド引き",
-          "summary_ja": "Amazonのプライムデーが始まり、エアフライヤーが値下げされています。クリスマスの買い物を早めに始めるのにも向いているとしています。",
-          "source": "HuffPost UK",
-          "url": "https://www.huffingtonpost.co.uk/entry/amazon-prime-day-air-fryer-sale_uk_6ac4e206e4b0613dcc54d062"
+          "title_ja": "Surface Laptop Ultraなど秋の発表会まとめ",
+          "summary_ja": "マイクロソフトのSurfaceとWindowsの発表会が終わった。Surface Laptop Ultraや、刷新されたWindowsの検索機能などの詳細をまとめている。",
+          "source": "PCMag UK",
+          "url": "https://uk.pcmag.com/laptops/167696/microsoft-surface-windows-event-2026-live-announcements-and-analysis"
         },
         {
-          "title_ja": "Dysonやアップルなど、本当にお得なプライムデー46選",
-          "summary_ja": "The Guardianが、AmazonのPrime Big Deal Daysで本当にお得な商品を選んでいます。UggやNinja、KitchenAid、Sharkなどが並びます。",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/thefilter-us/2026/oct/06/best-october-amazon-big-deals-prime-day"
+          "title_ja": "Surface Laptop UltraはAI特化、電力に課題",
+          "summary_ja": "Surface Laptop UltraはローカルでのAI処理向けに作られている。一方で消費電力やバッテリー持ちが不明で、実用性に疑問も出ている。",
+          "source": "PCWorld",
+          "url": "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html"
+        },
+        {
+          "title_ja": "Surface Laptop Ultra、充電端子はMagSafeより進化",
+          "summary_ja": "マイクロソフトが「これまでで最もパワフル」としていたSurface Laptop Ultraが登場した。NVIDIA RTX Sparkを搭載し、充電方式もMacBookのMagSafeを上回るとしている。",
+          "source": "Stuff",
+          "url": "https://www.stuff.tv/news/microsoft-surface-ultra-price-specs-release-date-specs-magnetic-connector/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "华为手机涨价",
-      "reason_ja": "ファーウェイの余承東氏が、メモリ部品の値上がりでスマホを値上げせざるを得ないと話し、注目を集めています。",
+      "keyword": "一加16",
+      "reason_ja": "OnePlusの新フラッグシップスマホ「一加16」の発表会が10月12日に決まり、性能や画面の仕様が注目されている。",
       "genre": "gadget",
       "commercial_score": 80,
       "product_keywords": [
-        "华为Mate90",
-        "华为手机"
-      ],
-      "product_keywords_ja": [],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ファーウェイ余承東氏「スマホは値上げせざるを得ない」",
-          "summary_ja": "余承東氏は、メモリ部品の大幅な値上がりでスマホ1台あたりのコストが200ドル以上増えたと話しました。これまで自社で吸収してきたものの利益率が下がり、今後は値上げせざるを得ないとしています。",
-          "source": "凤凰网",
-          "url": "https://i.ifeng.com/c/8x03b75FEvd"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "孩子打印作业开销",
-      "reason_ja": "子どもの宿題の印刷代が家計の負担になっていると話題になり、家庭用プリンターへの関心が高まっています。",
-      "genre": "gadget",
-      "commercial_score": 80,
-      "product_keywords": [
-        "家用打印机",
-        "连供打印机"
+        "一加16",
+        "OnePlus 16",
+        "游戏手机"
       ],
       "product_keywords_ja": [
-        "家庭用プリンター",
-        "エコタンク プリンター"
+        "OnePlus"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source": "ニュース（新製品）",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プリンターが家庭の「標準装備」に、宿題の印刷代に悲鳴",
-          "summary_ja": "子どもの宿題を印刷する費用が話題になっています。週に何度も印刷が必要で、休みには100ページを超えることもあり、家庭の負担になっています。",
-          "source": "ThePaper.cn",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34206422"
+          "title_ja": "一加16が来週発表、性能重視のフラッグシップ",
+          "summary_ja": "OnePlusの新機種「一加16」の発表会が10月12日に開かれる。ゲーム性能に加え、カメラや画面、電池持ちも全面的に強化するという。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrri4370245.d.html?vt=4&cid=76993&node_id=76993"
         },
         {
-          "title_ja": "インク連続供給式の家庭用プリンターは節約にも",
-          "summary_ja": "普通のインクジェットプリンターでは、しばらく使わないとヘッドが詰まるなどの悩みがあります。HPのインク連続供給式の家庭用プリンターを、印刷がきれいで節約にもなると紹介しています。",
-          "source": "手机搜狐网",
-          "url": "https://m.sohu.com/a/1084412866_114822"
-        },
-        {
-          "title_ja": "家庭用プリンター4大ブランドを比較",
-          "summary_ja": "HP、エプソン、キヤノン、ブラザーの家庭用プリンターを、家庭や子どもの勉強での使い方に合わせて比べています。",
+          "title_ja": "10月は性能スマホが続々、一加16と紅魔12 Pro+",
+          "summary_ja": "一加16、紅魔12 Pro+、Honor WIN2シリーズの発表日が決まった。ほかにも複数の新機種が発表待ちの状態にある。",
           "source": "搜狐网",
-          "url": "https://m.sohu.com/a/1084123335_114822"
+          "url": "https://m.sohu.com/a/1085094069_115831"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "一次性座椅套",
-      "reason_ja": "高速鉄道などで使い捨てのシートカバーを持参する人が増え、10万件以上売れた店もあると話題です。",
-      "genre": "other",
+      "keyword": "P-TOUCH CUBE",
+      "reason_ja": "ブラザーがスマホで操作するラベルライター「P-TOUCH CUBE」の入門機を約10年ぶりに刷新した。",
+      "genre": "gadget",
       "commercial_score": 75,
       "product_keywords": [
-        "一次性座椅套",
-        "高铁座椅套"
+        "P-TOUCH CUBE",
+        "ラベルライター"
       ],
       "product_keywords_ja": [
-        "使い捨て シートカバー",
-        "旅行 シートカバー"
+        "P-TOUCH CUBE",
+        "ラベルライター",
+        "PT-P320BT"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source": "ニュース（新製品）",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "高速鉄道で使い捨てシートカバーは要る？12306が回答",
-          "summary_ja": "高速鉄道に乗るとき使い捨てのシートカバーを使うかどうかが、ネットで議論になっています。座席の清潔さを気にして、座席全体を覆う人もいるといいます。",
-          "source": "Sohu",
-          "url": "https://m.sohu.com/a/1084547536_122014422"
-        },
-        {
-          "title_ja": "使い捨てシートカバーは必要？専門家が解説",
-          "summary_ja": "専門家は、高速鉄道などで感染がうつるリスクは通常ごく小さいと説明しています。座席や小テーブルに足を乗せないなどのマナーも呼びかけています。",
-          "source": "搜狐网",
-          "url": "https://m.sohu.com/a/1084441328_355158"
-        },
-        {
-          "title_ja": "使い捨てシートカバーが売れ行き好調、衛生への不安で",
-          "summary_ja": "行楽シーズンの高速鉄道で、使い捨てシートカバーが10万件以上売れた店もあります。除菌シートや座席カバーを持参する人も増えています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261006/49778918.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "豪车降价",
-      "reason_ja": "国慶節の時期に、ポルシェやアウディなど高級車の大幅値引きが話題になっています。",
-      "genre": "other",
-      "commercial_score": 60,
-      "product_keywords": [
-        "保时捷卡宴",
-        "奥迪A8"
-      ],
-      "product_keywords_ja": [],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "武漢の高級車市場、値引きはあるがネットの価格は鵜呑みにしないで",
-          "summary_ja": "国慶節の期間に記者が武漢の販売店を回ると、ポルシェ、ベンツ、BMW、アウディの多くの車種で大きな値引きがありました。ただし、値引き幅はネットで言われるほど大きくはないといいます。",
-          "source": "Sohu",
-          "url": "https://m.sohu.com/a/1084460927_121443915"
-        },
-        {
-          "title_ja": "高級車が値下がり、ネットの値下げ価格の実態は",
-          "summary_ja": "ポルシェ・カイエンやアウディA8の値下げが話題になっています。販売店を取材し、ネットで広まる価格にどれだけ誇張があるかを確かめています。",
-          "source": "17173",
-          "url": "http://news.17173.com/content/10062026/200519561.shtml"
-        },
-        {
-          "title_ja": "ポルシェやアウディの大幅値引きに注目",
-          "summary_ja": "高級ブランドの大幅値下げは今年何度も話題になっています。国慶節の期間には武漢の販売店でも大きな値引きが見られましたが、ネットの噂ほどではないといいます。",
-          "source": "中华网新闻",
-          "url": "https://news.china.com/socialgd/10000169/20261006/49779375.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "nicola peltz",
-      "reason_ja": "ニコラ・ペルツとブルックリン・ベッカムの、薄手のカーテンを生かしたミニマルな自宅が注目されています。",
-      "genre": "interior",
-      "commercial_score": 55,
-      "product_keywords": [
-        "sheer curtains",
-        "voile curtains"
-      ],
-      "product_keywords_ja": [
-        "レースカーテン",
-        "シアーカーテン"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ニコラ・ペルツ夫妻のミニマルな自宅、主役は薄手のカーテン",
-          "summary_ja": "ニコラ・ペルツとブルックリン・ベッカムの自宅は、目立つ絵や家具がなく、光と空間で落ち着いた雰囲気をつくっています。その鍵となっているのが薄手のカーテンだと紹介しています。",
-          "source": "Grazia",
-          "url": "https://graziamagazine.com/us/articles/inside-nicola-peltz-and-brooklyn-beckhams-ultra-minimalist-home-where-sheer-curtains-do-all-the-talking-25497/"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "老年人睡眠",
-      "reason_ja": "年を取ると早寝早起きになり眠りが細切れになる理由と、その改善法が話題になっています。",
-      "genre": "health",
-      "commercial_score": 50,
-      "product_keywords": [
-        "助眠",
-        "睡眠枕"
-      ],
-      "product_keywords_ja": [
-        "快眠グッズ",
-        "枕"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "早朝に目が覚めるのは睡眠リズムの変化",
-          "summary_ja": "多くの高齢者は早寝早起きになる傾向があると説明しています。起きる時間を固定する、午後に適度な運動をする、昼寝を短くするといった改善法を紹介しています。",
-          "source": "手机新浪网",
-          "url": "https://www.sina.cn/news/detail/5350945195038105.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "宇野千代",
-      "reason_ja": "朝ドラ「ブラッサム」の主人公のモデルとして、作家・宇野千代の自伝や人柄に注目が集まっています。",
-      "genre": "other",
-      "commercial_score": 45,
-      "product_keywords": [
-        "宇野千代 生きて行く私",
-        "宇野千代 本"
-      ],
-      "product_keywords_ja": [
-        "宇野千代 生きて行く私",
-        "宇野千代 本"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "宇野千代が自伝で気づいた父親との共通点",
-          "summary_ja": "朝ドラ「ブラッサム」は主人公が自伝を書く場面から始まります。主人公のモデルである宇野千代の自伝『生きて行く私』から、亡き両親について綴った部分を紹介しています。",
+          "title_ja": "ブラザー、充電池内蔵の「P-TOUCH CUBE」新モデル",
+          "summary_ja": "ブラザー工業がラベルライター「P-TOUCH CUBE」の新モデルを発売する。繰り返し使えるリチウムイオン充電池を内蔵し、スマホアプリからラベルを作れる。",
           "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/c74ad7024ff24c788794b86209b7d8a84f6d5b1c"
+          "url": "https://news.yahoo.co.jp/articles/f725cf3ee866a284704038d58d9920b0b539730e"
         },
         {
-          "title_ja": "宇野千代が語る梶井基次郎の人柄",
-          "summary_ja": "朝ドラ『ブラッサム』の主人公・葉野珠のモデルは作家の宇野千代です。宇野千代が梶井基次郎について「自分のことをちっとも語らない人だった」と振り返った文章を紹介しています。",
-          "source": "ｄメニューニュース",
-          "url": "https://topics.smt.docomo.ne.jp/article/fujinkoron/life/fujinkoron-24151"
+          "title_ja": "P-TOUCH CUBEに10年ぶり入門機、USB-C充電対応",
+          "summary_ja": "スマホアプリでラベルを作って印刷するP-TOUCH CUBEの新製品「PT-P320BT」が登場する。USB-C充電に対応した入門機。",
+          "source": "テクノエッジ TechnoEdge",
+          "url": "https://www.techno-edge.net/article/2026/10/07/5559.html"
         },
         {
-          "title_ja": "「ブラッサム」で注目、山口・岩国の“AI千代”",
-          "summary_ja": "NHKの朝の番組で、「ブラッサム」で注目を集める山口・岩国の“AI千代”をアナウンサーがリポートしました。",
-          "source": "NHK",
-          "url": "https://www.nhk.or.jp/yamaguchi/info/articles/310/070/91/"
+          "title_ja": "PT-P320BT発売へ、エントリー機を約10年ぶり刷新",
+          "summary_ja": "ブラザー販売がP-TOUCH CUBEシリーズの新製品「PT-P320BT」を発表した。ホワイトとラテの2色を用意し、エントリーモデルを約10年ぶりに刷新する。",
+          "source": "AppBank",
+          "url": "https://www.appbank.net/2026/10/08/goods-books/3125090.php"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
+    },
+    {
+      "keyword": "gpt-6",
+      "reason_ja": "OpenAIがChatGPTでGPT-6と、図やインタラクティブな表示を加える「Intelligent UI」の提供を始めた。",
+      "genre": "ai",
+      "commercial_score": 70,
+      "product_keywords": [
+        "ChatGPT",
+        "GPT-6"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "OpenAI、GPT-6とIntelligent UIを公開",
+          "summary_ja": "GPT-6がChatGPTで世界的に順次提供されている。Intelligent UIにより、回答が速くなり、図やインタラクティブな要素を直接使えるようになる。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-for-everyone/"
+        },
+        {
+          "title_ja": "ChatGPTが新インターフェースでより視覚的に",
+          "summary_ja": "OpenAIがChatGPTに新しいユーザーインターフェースを導入する。インタラクティブな図などを表示できるようになる。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+        },
+        {
+          "title_ja": "ChatGPTにGPT-6、対話的な回答が可能に",
+          "summary_ja": "OpenAIがChatGPTでGPT-6とIntelligent UIの提供を始めた。回答に図やインタラクティブなツールを加えられ、無料ユーザーなどにも順次届く。",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "金价大跌水贝掀买金热潮",
+      "reason_ja": "金価格の下落を受け、中国最大の宝飾品集散地・深圳水貝で金の購入ブームが起きている。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "黄金首饰",
+        "金饰",
+        "金条"
+      ],
+      "product_keywords_ja": [
+        "純金 ネックレス",
+        "金 アクセサリー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "金飾品価格が大幅下落、深圳水貝で購入ブーム",
+          "summary_ja": "国際的な金価格の調整を受け、国内の金価格も下がっている。金飾品の値下がりを背景に、水貝で金を買う動きが広がっている。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/2026-10-08/detail-iniunmir3965187.d.html"
+        },
+        {
+          "title_ja": "金価格の調整で水貝に観光客の購入ラッシュ",
+          "summary_ja": "ブランド金飾品の価格が高値から下がり、深圳水貝の金の掲示価格も下落した。祝日の販促も重なり、全国最大の宝飾品集散地に各地から買い物客が訪れている。",
+          "source": "凤凰网",
+          "url": "https://news.ifeng.com/c/8x3RscwhgbW"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "节后机票“大跳水”",
+      "reason_ja": "国慶節の連休明けに航空券が大きく値下がりし、高速鉄道より安い路線も出ていると話題になっている。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "机票",
+        "旅行箱"
+      ],
+      "product_keywords_ja": [
+        "スーツケース"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "連休明けに航空券が急落、高速鉄道より安く",
+          "summary_ja": "国慶節の連休が終わり、航空券の価格が大きく下がっている。多くの路線で高速鉄道より安い航空券が出ている。",
+          "source": "新浪新闻",
+          "url": "https://news.sina.com.cn/c/2026-10-08/doc-iniunrrp3916990.shtml"
+        },
+        {
+          "title_ja": "連休明けの航空券、平均価格が3割以上下落",
+          "summary_ja": "連休明けから国内の多くの路線で航空券が値下がりした。平均価格は連休中より3割以上下がっている。",
+          "source": "中华网财经",
+          "url": "https://finance.china.com/xiaofei/13004691/20261008/49782196.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "寒露节气一个动作把阳气收回来",
+      "reason_ja": "二十四節気の「寒露」を迎え、乾燥や冷えを防ぐ養生法が話題になっている。",
+      "genre": "health",
+      "commercial_score": 50,
+      "product_keywords": [
+        "养生茶",
+        "保温杯"
+      ],
+      "product_keywords_ja": [
+        "薬膳茶",
+        "保温ボトル"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "寒露の養生、乾燥を防ぎ冷えを避ける",
+          "summary_ja": "寒露の時期の養生ガイド。乾燥を潤して陽気を守り、寒さや冷えを避けることを勧めている。生活リズムを整えて心身を静かに養うことも挙げている。",
+          "source": "新华网",
+          "url": "http://www.yn.xinhuanet.com/20261008/2124f970cfc54770ac12f075d4a262e3/c.html"
+        },
+        {
+          "title_ja": "寒露の時期に守りたい4か所と養生の要点",
+          "summary_ja": "寒露の時期に体の4か所を守るよう呼びかけている。あわせて5つの養生のポイントを紹介している。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/life/2026/10-08/10708852.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "保时捷回归燃油车",
+      "reason_ja": "ポルシェが2035年に向けた新戦略で、エンジン車とプラグインハイブリッドを続ける方針を示し話題になっている。",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "保时捷",
+        "保时捷911"
+      ],
+      "product_keywords_ja": [
+        "ポルシェ ミニカー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ポルシェ新戦略、エンジン車路線を継続へ",
+          "summary_ja": "ポルシェが2035年に向けた中期戦略を発表した。組織のスリム化や製品構成の見直しで収益改善を図り、エンジン車とプラグインハイブリッドも引き続き展開する。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/wm/2026-10-08/doc-iniunrrk5213676.shtml"
+        },
+        {
+          "title_ja": "ポルシェが新戦略、燃料車と複数動力を並行",
+          "summary_ja": "ポルシェの中期戦略「Sportwagenschmiede35」が報じられた。複数の動力技術を並行して展開し、経営の収益性を高めるとしている。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrri4407639.d.html?vt=4&cid=76993&node_id=76993"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "uk petrol prices on google maps",
+      "reason_ja": "英国でGoogleマップにガソリンスタンドの最新燃料価格が表示されるようになり、話題になっている。",
+      "genre": "other",
+      "commercial_score": 35,
+      "product_keywords": [
+        "car phone holder",
+        "dash cam"
+      ],
+      "product_keywords_ja": [
+        "スマホホルダー 車載"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Googleマップで英国の燃料価格が見られるように",
+          "summary_ja": "英国のドライバーがGoogleマップで給油所の最新燃料価格を確認できるようになった。軽油価格が高騰するなか、価格の透明化と競争促進が期待されている。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing"
+        },
+        {
+          "title_ja": "燃料高騰の中、Googleマップに給油価格を表示",
+          "summary_ja": "Googleマップで給油所を検索すると、その価格が表示されるようになった。政府の「Fuel Finder」の仕組みを使っている。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo"
+        },
+        {
+          "title_ja": "ドライバーに朗報、Googleマップで燃料価格表示",
+          "summary_ja": "Googleマップでガソリンの最新価格が表示されることが発表された。軽油価格が過去最高水準を更新し続けるなかでの動き。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/home-news/google-maps-petrol-prices-fuel-diesel-latest-b3062872.html"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

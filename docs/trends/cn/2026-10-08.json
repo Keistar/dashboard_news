@@ -1,0 +1,158 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:32:15+09:00",
+  "trends": [
+    {
+      "keyword": "一加16",
+      "reason_ja": "OnePlusの新フラッグシップスマホ「一加16」の発表会が10月12日に決まり、性能や画面の仕様が注目されている。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "一加16",
+        "OnePlus 16",
+        "游戏手机"
+      ],
+      "product_keywords_ja": [
+        "OnePlus"
+      ],
+      "trend_source": "ニュース（新製品）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "一加16が来週発表、性能重視のフラッグシップ",
+          "summary_ja": "OnePlusの新機種「一加16」の発表会が10月12日に開かれる。ゲーム性能に加え、カメラや画面、電池持ちも全面的に強化するという。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrri4370245.d.html?vt=4&cid=76993&node_id=76993"
+        },
+        {
+          "title_ja": "10月は性能スマホが続々、一加16と紅魔12 Pro+",
+          "summary_ja": "一加16、紅魔12 Pro+、Honor WIN2シリーズの発表日が決まった。ほかにも複数の新機種が発表待ちの状態にある。",
+          "source": "搜狐网",
+          "url": "https://m.sohu.com/a/1085094069_115831"
+        }
+      ]
+    },
+    {
+      "keyword": "金价大跌水贝掀买金热潮",
+      "reason_ja": "金価格の下落を受け、中国最大の宝飾品集散地・深圳水貝で金の購入ブームが起きている。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "黄金首饰",
+        "金饰",
+        "金条"
+      ],
+      "product_keywords_ja": [
+        "純金 ネックレス",
+        "金 アクセサリー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "金飾品価格が大幅下落、深圳水貝で購入ブーム",
+          "summary_ja": "国際的な金価格の調整を受け、国内の金価格も下がっている。金飾品の値下がりを背景に、水貝で金を買う動きが広がっている。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/2026-10-08/detail-iniunmir3965187.d.html"
+        },
+        {
+          "title_ja": "金価格の調整で水貝に観光客の購入ラッシュ",
+          "summary_ja": "ブランド金飾品の価格が高値から下がり、深圳水貝の金の掲示価格も下落した。祝日の販促も重なり、全国最大の宝飾品集散地に各地から買い物客が訪れている。",
+          "source": "凤凰网",
+          "url": "https://news.ifeng.com/c/8x3RscwhgbW"
+        }
+      ]
+    },
+    {
+      "keyword": "节后机票“大跳水”",
+      "reason_ja": "国慶節の連休明けに航空券が大きく値下がりし、高速鉄道より安い路線も出ていると話題になっている。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "机票",
+        "旅行箱"
+      ],
+      "product_keywords_ja": [
+        "スーツケース"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "連休明けに航空券が急落、高速鉄道より安く",
+          "summary_ja": "国慶節の連休が終わり、航空券の価格が大きく下がっている。多くの路線で高速鉄道より安い航空券が出ている。",
+          "source": "新浪新闻",
+          "url": "https://news.sina.com.cn/c/2026-10-08/doc-iniunrrp3916990.shtml"
+        },
+        {
+          "title_ja": "連休明けの航空券、平均価格が3割以上下落",
+          "summary_ja": "連休明けから国内の多くの路線で航空券が値下がりした。平均価格は連休中より3割以上下がっている。",
+          "source": "中华网财经",
+          "url": "https://finance.china.com/xiaofei/13004691/20261008/49782196.html"
+        }
+      ]
+    },
+    {
+      "keyword": "寒露节气一个动作把阳气收回来",
+      "reason_ja": "二十四節気の「寒露」を迎え、乾燥や冷えを防ぐ養生法が話題になっている。",
+      "genre": "health",
+      "commercial_score": 50,
+      "product_keywords": [
+        "养生茶",
+        "保温杯"
+      ],
+      "product_keywords_ja": [
+        "薬膳茶",
+        "保温ボトル"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "寒露の養生、乾燥を防ぎ冷えを避ける",
+          "summary_ja": "寒露の時期の養生ガイド。乾燥を潤して陽気を守り、寒さや冷えを避けることを勧めている。生活リズムを整えて心身を静かに養うことも挙げている。",
+          "source": "新华网",
+          "url": "http://www.yn.xinhuanet.com/20261008/2124f970cfc54770ac12f075d4a262e3/c.html"
+        },
+        {
+          "title_ja": "寒露の時期に守りたい4か所と養生の要点",
+          "summary_ja": "寒露の時期に体の4か所を守るよう呼びかけている。あわせて5つの養生のポイントを紹介している。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/life/2026/10-08/10708852.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "保时捷回归燃油车",
+      "reason_ja": "ポルシェが2035年に向けた新戦略で、エンジン車とプラグインハイブリッドを続ける方針を示し話題になっている。",
+      "genre": "other",
+      "commercial_score": 45,
+      "product_keywords": [
+        "保时捷",
+        "保时捷911"
+      ],
+      "product_keywords_ja": [
+        "ポルシェ ミニカー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ポルシェ新戦略、エンジン車路線を継続へ",
+          "summary_ja": "ポルシェが2035年に向けた中期戦略を発表した。組織のスリム化や製品構成の見直しで収益改善を図り、エンジン車とプラグインハイブリッドも引き続き展開する。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/wm/2026-10-08/doc-iniunrrk5213676.shtml"
+        },
+        {
+          "title_ja": "ポルシェが新戦略、燃料車と複数動力を並行",
+          "summary_ja": "ポルシェの中期戦略「Sportwagenschmiede35」が報じられた。複数の動力技術を並行して展開し、経営の収益性を高めるとしている。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrri4407639.d.html?vt=4&cid=76993&node_id=76993"
+        }
+      ]
+    }
+  ]
+}
