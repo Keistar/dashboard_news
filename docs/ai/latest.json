@@ -1,229 +1,226 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T08:42:06+09:00",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:17:13+09:00",
   "stories": [
     {
-      "title_ja": "グーグル、スマホでも動く埋め込みAI「EmbeddingGemma 2」",
-      "summary_ja": "グーグル・ディープマインドが、文章やコード、画像、動画、音声をまとめて同じベクトル空間に変換するオープンな埋め込みモデルを公開した。量子化すればスマートフォン上でも少ないメモリーで動くとしている。",
-      "source": "ビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/187318",
-      "score": 80,
-      "commercial_score": 45,
-      "product_keywords": [
-        "スマートフォン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Anthropic、新興企業にClaude Teamを1年無料提供",
-      "summary_ja": "Anthropicが、スタートアップ向けにClaude Teamを1年間無料にし、1,000ドル分のクレジットを付ける。モデルの上にサービスを作る企業を通じて、AIの恩恵を多くの人に届けたいとしている。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "score": 80,
-      "commercial_score": 50,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "松山市でAIアバターが多言語で観光案内、JTBが実証",
-      "summary_ja": "JTBが松山市と組み、生成AIのアバターを使った観光案内の実証を始めた。松山城のマスコット「よしあきくん」が多言語の音声で観光客に応対する。",
-      "source": "山陽新聞",
-      "url": "https://www.sanyonews.jp/article/1996967",
-      "score": 75,
+      "title_ja": "OpenAI、GPT-6をChatGPTで世界に提供開始",
+      "summary_ja": "OpenAIはChatGPTで新モデル「GPT-6」の世界的な提供を始めた。新機能「インテリジェントUI」により、応答が速くなるとともに、図や操作できる画面で答えを示すようになる。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 95,
       "commercial_score": 60,
       "product_keywords": [
-        "松山 旅行",
-        "道後温泉"
+        "ChatGPT 本"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ChatGPTにGPT-6、回答を画面形式で示す新機能",
+      "summary_ja": "OpenAIは7日、ChatGPTに新モデル「GPT-6」を導入したと発表した。あわせて、回答を文章だけでなく操作できる画面として表示する新機能「インテリジェントUI」の提供も始める。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146609.html",
+      "score": 90,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ChatGPT 本",
+        "生成AI 入門"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ChatGPT、回答の中の広告的な表示を増やす方針",
-      "summary_ja": "OpenAIが、ChatGPTの回答にスポンサー付きの結果をもっと載せる方向に動いていると報じられた。",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/openai-decides-chatgpt-would-be-better-with-more-sponsored-results-2000822440",
-      "score": 75,
+      "title_ja": "Anthropic、低価格の小型AI「Claude Haiku 5.5」",
+      "summary_ja": "Anthropicが小型モデル「Claude Haiku 5.5」を公開した。100万トークンの長い文脈を扱え、処理の手間を調整できるほか、入力100万トークンあたり0.10ドルという低価格で大量の処理に向く。",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "score": 85,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "阶跃のAIスマホ「STEPX Neo」、13日に発表",
+      "summary_ja": "中国の阶跃終端は、大規模言語モデルを前提に作った初のAIエージェント搭載スマートフォン「STEPX Neo」を10月13日に発表すると明らかにした。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrrp3919145.d.html?vt=4&cid=76993&node_id=76993",
+      "score": 85,
       "commercial_score": 70,
       "product_keywords": [
-        "ChatGPT"
+        "AIスマホ",
+        "スマートフォン"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "仏ミストラル、中国勢の一部を上回るAIモデル公開",
-      "summary_ja": "フランスのミストラルAIが新しいAIモデルを発表した。同社は一部の中国製モデルより性能が高いとしている。",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
-      "score": 75,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "騰訊の混元A13B、一部だけ動かして大型並みの性能",
-      "summary_ja": "騰訊（Tencent）の混元チームが、混合専門家構成のHunyuan-A13Bを発表した。全体のパラメータのうち一部だけを動かして、数学やプログラミングで大きなモデルに並ぶという。速く答える方式とじっくり考える方式を切り替えられる。",
-      "source": "科技行者",
-      "url": "https://www.techwalker.com/2026/1006/3201131.shtml",
-      "score": 75,
-      "commercial_score": 25,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ChatGPTの出力に電子透かし、EU限定で標準に",
-      "summary_ja": "OpenAIが、ChatGPTが作った文章などに標準で透かしを入れる。対象はEUのみ。ほかの方法と同じく確実ではなく、簡単にかわせるとの指摘もある。",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "score": 70,
+      "title_ja": "グーグル、AI生成かを調べるツールを一般公開",
+      "summary_ja": "グーグルが、画像や動画、音声が生成AIで作られたかを確かめられるツール「SynthID Detector」を一般公開した。ChatGPTやNVIDIA製のAIで作られたものも検証の対象になる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/fe6eb28d65250145dfa6dee40c2f69f34c497378/images/000",
+      "score": 80,
       "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英政府、医療AIの提言を採用し試験の場を設ける",
-      "summary_ja": "英国政府が、医療でのAI活用に関する提言を受け入れた。開発者や規制当局、医療機関が、AI機器を安全に見守り続ける方法を試せる場を設ける。",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366651579/UK-government-accepts-AI-healthcare-recommendations",
-      "score": 70,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "20代の過半数が住まい探しに生成AIを活用",
-      "summary_ja": "20代の半数以上が、住まい探しに生成AIを使っているという調査結果が出た。金利が上がるなかで、家の購入の考え方がどう変わるかにも触れている。",
-      "source": "ガジェット通信 GetNews",
-      "url": "https://getnews.jp/archives/3747364",
-      "score": 65,
-      "commercial_score": 55,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "OpenAI、新モデルで解いた数学の成果を追加公開",
-      "summary_ja": "OpenAIが、新しいAIモデルで得たとする数学の成果とデータを新たに公開した。長年解かれていなかった問題の多くを解決したと説明している。",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "score": 65,
+      "title_ja": "OpenAIとAnthropic、同じ日に新モデルで別路線",
+      "summary_ja": "OpenAIは7日にGPT-6と新たな操作画面の仕組みを発表し、Anthropicは同じ日に低コストで速いClaude Haiku 5.5を出した。中国メディアは、一方は入口の確保、もう一方は低価格を狙うと両社の違いを伝えている。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610083889375223.html",
+      "score": 75,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "みどりの窓口で生成AIが応対、JR東日本とNECが実証",
+      "summary_ja": "JR東日本とNECが、みどりの窓口で係員に代わって生成AIが利用者と対話するサービスの実証実験を進めている。窓口を使う人と運営する側の双方にとっての新しい価値を探る取り組み。",
+      "source": "NEC",
+      "url": "https://jpn.nec.com/corporateblog/202610/01.html",
+      "score": 70,
+      "commercial_score": 40,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "OpenAI、300超の数学研究問題での成果を公表",
+      "summary_ja": "OpenAIが300を超える数学の研究問題について、AIによる進展を公表した。専門家を驚かせる内容として報じられている。",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/",
+      "score": 70,
       "commercial_score": 10,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米リフレクションAI、初のオープンウェイトモデル発表",
-      "summary_ja": "米リフレクションAIが初のオープンウェイトモデル「Beam」を発表した。混合専門家（MoE）構成で、コーディングやエージェントの業務向けとしている。重みと技術報告書は今月後半に公開予定で、早期アクセスの登録を受け付けている。",
-      "source": "ビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/187314",
-      "score": 60,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Claudeの有料プランはChatGPTよりお得、と調査会社",
-      "summary_ja": "調査会社が、AnthropicのClaudeの有料プランはOpenAIのものより価値が高いとする結果を出した。OpenAIには厳しい評価となった。",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
-      "score": 60,
-      "commercial_score": 55,
+      "title_ja": "LibreOffice、「AIなし」を売りに打ち出す",
+      "summary_ja": "無料のオフィスソフトLibreOfficeが、AI機能を載せていないことを特長として打ち出した。ただし、将来AI機能を加える可能性は完全には否定していない。",
+      "source": "Computerworld",
+      "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html",
+      "score": 70,
+      "commercial_score": 45,
       "product_keywords": [
-        "Claude",
-        "ChatGPT"
+        "オフィスソフト"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "開発者はAIツールに慎重、Stack Overflow調査",
-      "summary_ja": "Stack Overflowの調査で、コーディング用AIが広く使われている一方、開発者の多くがまだ信頼しきれていないことが分かった。大事な判断をAIに任せられる人はごく少数だった。",
-      "source": "IT Brief UK",
-      "url": "https://itbrief.co.uk/story/stack-overflow-survey-finds-developers-wary-of-ai-tools",
-      "score": 60,
+      "title_ja": "AIで症状を自己チェック、適切な受診につながる",
+      "summary_ja": "AIを使った症状の自己評価サービスを利用した後、患者の受診意向や実際の受診がどう変わったかを調べた研究が報告された。利用者の不安が減り、医療資源のより適切な利用につながったという。",
+      "source": "2 Minute Medicine",
+      "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-supported-symptom-self-assessment-led-to-more-appropriate-patient-care-decisions/",
+      "score": 65,
       "commercial_score": 20,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "四川で「AI超市」が出店企業の募集を開始",
-      "summary_ja": "四川省で、AIの機能を商品のように選べる「AI超市」が参加企業の募集を始めた。陝西や北京でも、多くのAIモデルをまとめて手頃に使える場が作られている。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1084542449_355475",
+      "title_ja": "10代のChatGPT利用は1日15分未満とOpenAI",
+      "summary_ja": "OpenAIは、10代のChatGPT利用時間は1日15分に満たないと明らかにした。若者への影響を心配する声が高まるなかでの説明となる。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
       "score": 60,
-      "commercial_score": 30,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "AIの運用コスト低下、アプリ普及加速に期待",
+      "summary_ja": "大規模言語モデルを動かすコストの低下が速まっている。これによりAIを使ったアプリの普及が進むとの見方が出ている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2498897",
+      "score": 60,
+      "commercial_score": 35,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "中小病院向けAI「てますい」、紹介状やFAXを一覧に",
-      "summary_ja": "大阪のHiMaWaSa Syncが、記録や書類の下書きを手伝うAIサービス「てますい」の病院版を始めた。中小規模の病院の地域連携室や病棟、外来向けで、紹介状やFAXを読み取って一覧にする。",
-      "source": "医療テックニュース",
-      "url": "https://medicaltech-news.com/management/13099/",
+      "title_ja": "生成AI利用者、住まい探しでの活用に高い関心",
+      "summary_ja": "クレアスライフが生成AI利用者を対象に用途を調べた結果を公表した。住宅選びでは、物件の探索や比較にAIを使いたいという回答が上位を占めた。",
+      "source": "住宅新報",
+      "url": "https://www.jutaku-s.com/news/id/106065",
       "score": 55,
-      "commercial_score": 25,
+      "commercial_score": 45,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "獣医療の現場でAI利用が2年で2倍超に",
-      "summary_ja": "獣医療の専門職のうちAIを使う人が、この2年で2倍以上に増えたという調査結果が出た。方針や体制を整え、仕事の流れを見直した病院ほど成果が大きいという。",
-      "source": "DVM 360",
-      "url": "https://www.dvm360.com/view/artificial-intelligence-use-among-veterinary-professionals-more-than-doubles-in-2-years",
+      "title_ja": "AIの値下げ競争が激化、OpenAIが追い上げ",
+      "summary_ja": "生成AIサービスの価格をめぐる競争が激しくなっている。この競争のなかで、OpenAIがAnthropicとの差を縮めていると報じられた。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b",
       "score": 55,
       "commercial_score": 35,
-      "product_keywords": [
-        "ペット"
-      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "AIが下水流出を防ぐ、英ニューフォレスト",
+      "summary_ja": "英南部ニューフォレストで、貴重な小川への下水の流出が人工知能によって未然に防がれた。",
+      "source": "Bournemouth Echo",
+      "url": "https://www.bournemouthecho.co.uk/news/26617348.ai-helps-prevent-sewage-spill-new-forest-stream/",
+      "score": 55,
+      "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "字節・騰訊・阿里がAI人材争奪、報酬上昇続く",
-      "summary_ja": "字節跳動（ByteDance）、騰訊、阿里巴巴（Alibaba）がAIの高度人材を取り合っている。そのため報酬が上がり続けている。",
-      "source": "ijiwei.com",
-      "url": "https://ijiwei.com/n/1115522",
+      "title_ja": "軽量AI端末が健康産業を変える可能性",
+      "summary_ja": "端末側で動く軽量なAIが広がり、健康関連の産業を根本から変えつつあると報じられた。新たな機会がある一方で課題もあるという。",
+      "source": "36Kr",
+      "url": "https://www.36kr.com/p/4015566628427393",
       "score": 55,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "済南でAI産業の大会、有力企業300社超が集結",
-      "summary_ja": "山東省済南市で開かれるAI産業の年次大会に、300社を超える有力企業が集まる。",
-      "source": "大众网",
-      "url": "https://jinan.dzwww.com/jrtt/202610/t20261006_18179546.htm",
-      "score": 50,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "アパレルECの商品撮影や原稿作りにAIを活用",
-      "summary_ja": "ECで欠かせない商品の撮影・採寸・原稿作り（ささげ）に、AIを使う方法を取り上げた連載記事。作業を効率化しながら、商品が自然に見えるようにする工夫を紹介している。",
-      "source": "繊研新聞",
-      "url": "https://senken.co.jp/posts/ec-261007",
-      "score": 45,
       "commercial_score": 50,
+      "product_keywords": [
+        "スマートウォッチ",
+        "ウェアラブル"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "さくらインターネット、企業専用の生成AI基盤を開始",
+      "summary_ja": "さくらインターネットは8日、企業が持つ生成AIモデルを専有環境で動かせるサービス「さくらのAI Engine プライベートエディション」の提供を始めた。運用まで任せられるフルマネージド型となる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d62898fd96e76f8236d4c88b6528a759a3af788b",
+      "score": 50,
+      "commercial_score": 25,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "映画「A.I.」25周年の4K Blu-ray",
-      "summary_ja": "映画「A.I.」の公開25周年を記念した4K Blu-rayが取り上げられた。",
-      "source": "Blu-ray.com",
-      "url": "https://www.blu-ray.com/news/?id=39138",
-      "score": 45,
-      "commercial_score": 75,
-      "product_keywords": [
-        "A.I. 4K Blu-ray",
-        "スピルバーグ Blu-ray"
-      ],
+      "title_ja": "自律型AIが皮膚科医の診療を手助け",
+      "summary_ja": "自律的に動くAIを使うことで、皮膚科医が診られる患者の数を増やせる可能性があると報じられた。",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-10-autonomous-ai-clinical-capacity-dermatologists.html",
+      "score": 50,
+      "commercial_score": 15,
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "アリババクラウド、済南の産業大会でAI技術を披露",
+      "summary_ja": "10月14日から済南で開かれる2026人工知能産業大会に、阿里雲（アリババクラウド）が出展する。クラウド基盤から大規模言語モデル「千問」、マルチモーダル製品までをまとめて紹介する。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084944746_121218495",
+      "score": 50,
+      "commercial_score": 25,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "リコージャパン、中小企業向けにDify導入支援",
+      "summary_ja": "リコージャパンは8日、生成AIアプリの開発基盤「Dify」について、中堅・中小企業や部門向けライセンスの導入サービスを始めた。自社でAIアプリを作りたい企業の利用を後押しする。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/804d30f3b7925addb426692eeaf5c6955f170000",
+      "score": 45,
+      "commercial_score": 25,
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

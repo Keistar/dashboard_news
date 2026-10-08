@@ -1,0 +1,62 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:17:13+09:00",
+  "stories": [
+    {
+      "title_ja": "ChatGPTにGPT-6、回答を画面形式で示す新機能",
+      "summary_ja": "OpenAIは7日、ChatGPTに新モデル「GPT-6」を導入したと発表した。あわせて、回答を文章だけでなく操作できる画面として表示する新機能「インテリジェントUI」の提供も始める。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146609.html",
+      "score": 90,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ChatGPT 本",
+        "生成AI 入門"
+      ]
+    },
+    {
+      "title_ja": "グーグル、AI生成かを調べるツールを一般公開",
+      "summary_ja": "グーグルが、画像や動画、音声が生成AIで作られたかを確かめられるツール「SynthID Detector」を一般公開した。ChatGPTやNVIDIA製のAIで作られたものも検証の対象になる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/fe6eb28d65250145dfa6dee40c2f69f34c497378/images/000",
+      "score": 80,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "みどりの窓口で生成AIが応対、JR東日本とNECが実証",
+      "summary_ja": "JR東日本とNECが、みどりの窓口で係員に代わって生成AIが利用者と対話するサービスの実証実験を進めている。窓口を使う人と運営する側の双方にとっての新しい価値を探る取り組み。",
+      "source": "NEC",
+      "url": "https://jpn.nec.com/corporateblog/202610/01.html",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "生成AI利用者、住まい探しでの活用に高い関心",
+      "summary_ja": "クレアスライフが生成AI利用者を対象に用途を調べた結果を公表した。住宅選びでは、物件の探索や比較にAIを使いたいという回答が上位を占めた。",
+      "source": "住宅新報",
+      "url": "https://www.jutaku-s.com/news/id/106065",
+      "score": 55,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "さくらインターネット、企業専用の生成AI基盤を開始",
+      "summary_ja": "さくらインターネットは8日、企業が持つ生成AIモデルを専有環境で動かせるサービス「さくらのAI Engine プライベートエディション」の提供を始めた。運用まで任せられるフルマネージド型となる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d62898fd96e76f8236d4c88b6528a759a3af788b",
+      "score": 50,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "リコージャパン、中小企業向けにDify導入支援",
+      "summary_ja": "リコージャパンは8日、生成AIアプリの開発基盤「Dify」について、中堅・中小企業や部門向けライセンスの導入サービスを始めた。自社でAIアプリを作りたい企業の利用を後押しする。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/804d30f3b7925addb426692eeaf5c6955f170000",
+      "score": 45,
+      "commercial_score": 25
+    }
+  ]
+}

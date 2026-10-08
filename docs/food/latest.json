@@ -1,234 +1,210 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T08:46:51+09:00",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:22:38+09:00",
   "stories": [
     {
-      "title_ja": "ファミチキ発売20周年、大人向けの限定3種を順次発売",
-      "summary_ja": "ファミリーマートが「ファミチキ」の発売20周年を記念し、「オトナ★ファミチキ」をコンセプトにした限定商品3種を順次発売する。新しい味で支持を広げる狙い。「おうちでファミチキセット」も再販される。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/a17d61ded95240625ff41020403b8c0b61b35889",
-      "score": 85,
-      "commercial_score": 75,
+      "title_ja": "マクドナルド、定番メニューにチキン新商品を10月21日投入",
+      "summary_ja": "マクドナルドが10月21日から、レギュラーメニューとしてチキンを使った新商品を売り出す。バーガー3種とサイドメニュー1種の計4品がそろう。",
+      "source": "オリコンニュース",
+      "url": "https://www.oricon.co.jp/news/2485161/full/",
+      "score": 90,
+      "commercial_score": 60,
       "product_keywords": [
-        "ファミチキ",
-        "フライドチキン 冷凍"
+        "マクドナルド",
+        "チキンバーガー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米スタバのホリデーメニュー、ティラミスなど新作",
-      "summary_ja": "米スターバックスのホリデーメニューが11月5日に登場する。ティラミスやザクロのドリンクが加わり、新しいフード3品も用意。ペパーミントモカなどの定番も戻ってくる。",
-      "source": "qz.com",
-      "url": "https://qz.com/starbucks-2026-holiday-menu-tiramisu-pomegranate-100626",
-      "score": 85,
-      "commercial_score": 55,
-      "product_keywords": [
-        "スターバックス",
-        "ペパーミントモカ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "セブンの中華まんに明太子・もち・チーズの新作",
-      "summary_ja": "セブン‐イレブンが10月6日から、新しい中華まん「明太もちゅチーズまん」を全国で順次発売している。明太子ともち、チーズを3層に重ねた仕立てで、価格は190.08円。",
+      "title_ja": "キリン「生茶 熟成」発売、寝かせ仕込みの茶葉を使用",
+      "summary_ja": "キリンビバレッジは寝かせて仕込んだ茶葉による「キリン 生茶 熟成」を10月13日に全国で発売する。希望小売価格は238円。同じ日に「ほうじ煎茶」の刷新と「カフェインフリー」の新発売も行う。",
       "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/article/20261006-5083025/",
-      "score": 75,
+      "url": "https://news.mynavi.jp/article/20261007-5090143/",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "生茶 熟成",
+        "キリン 生茶",
+        "生茶 カフェインフリー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英アルディ、2026年クリスマス向け食品を発表",
+      "summary_ja": "英国のアルディがクリスマス向けの食品ラインアップを公開した。肉料理やベジタリアン向け、付け合わせ、スナック、飲み物、デザートまでそろえ、25ポンドのメイン料理も含まれる。",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/aldi-full-2026-christmas-food-34730826.amp",
+      "score": 85,
       "commercial_score": 60,
       "product_keywords": [
-        "中華まん",
-        "明太もちチーズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ダンキン、「アベンジャーズ」新作と組んだ限定メニュー",
-      "summary_ja": "米ダンキンが11月4日から、映画「アベンジャーズ／ドゥームズデイ」とのコラボで、キャラクターをイメージしたドリンクやドーナツ、限定グッズを全米の参加店で売り出す。11月初めにはさらに発表があるという。",
-      "source": "Dunkin' Donuts",
-      "url": "https://news.dunkindonuts.com/news/dunkin-and-marvel-studios-avengers-doomsday-team-up-2026",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "アベンジャーズ グッズ",
-        "ダンキンドーナツ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英人気シェフのリック・スタイン、ウェイトローズと提携",
-      "summary_ja": "英国の有名シェフ、リック・スタインが英スーパーのウェイトローズと独占契約を結び、新たな提携を始める。",
-      "source": "Oxford Mail",
-      "url": "https://www.oxfordmail.co.uk/news/26612681.rick-stein-signs-exclusive-deal-uk-supermarket-chain/",
-      "score": 75,
-      "commercial_score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "Uber、企業向け食事手配のezCaterを23億ドルで買収",
-      "summary_ja": "Uberが米国で会議や社員の食事などを手配するezCaterを23億ドルの現金で買収すると発表した。ezCaterは14万を超える飲食店とつながる。Uber Eatsなどと組み合わせ、単価の高い団体注文を広げる狙い。",
-      "source": "FX168财经",
-      "url": "https://www.fx168news.com/article/Uber-1099879",
-      "score": 75,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ヤッホーのセブン限定ビール、白ブドウが香る新作",
-      "summary_ja": "セブン‐イレブンが10月13日から、ヤッホーブルーイングのクラフトビール「限定改造 有頂天エイリアンズ New World Hop」を順次発売する。白ブドウのような香りが特徴の新作。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/440/4440423/",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ヤッホーブルーイング",
-        "クラフトビール"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英モリソンズ、生鮮・冷凍食品をロッカーで受け取り可能に",
-      "summary_ja": "英スーパーのモリソンズで、注文した生鮮食品や冷凍食品をロッカーで受け取れるようになった。英国のスーパーでは初の取り組みで、受け取りの行列を避けられる。",
-      "source": "GB News",
-      "url": "https://www.gbnews.com/lifestyle/food/morrisons-click-and-collect-groceries-supermarket-first",
-      "score": 70,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "サンマルクカフェ、生バナナ入りの新作チョコクロ",
-      "summary_ja": "サンマルクカフェが10月9日、「プレミアムチョコクロ生バナナ&カスタード」を一部店舗を除く全国の店で期間限定で売り出す。カスタード風味のチョコと生バナナを組み合わせた新作で、価格は340円。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_705621/",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "チョコクロ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ポーティロズ、オレオのデザート3品を全米で発売",
-      "summary_ja": "米ホットドッグチェーンのポーティロズがオレオと組み、期間限定のデザート3品を全米で売り出した。オレオのシェイクとケーキ、ケーキを混ぜたシェイクがそろう。",
-      "source": "CW33.com",
-      "url": "https://cw33.com/a-taste-of-north-texas/food-and-drink/portillos-debuts-new-oreo-desserts-nationwide/amp/",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "オレオ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英ピザエクスプレス、温かい持ち帰り商品を開始",
-      "summary_ja": "英ピザエクスプレスが、温かい料理を持ち帰りで売る新しい商品群を始めた。まずテーマパーク「ソープパーク」の夜のイベントで、1人用の手のばしピザなどを出す。店の味をより多くの場所に届ける計画の一環。",
-      "source": "restaurantonline.co.uk",
-      "url": "https://www.restaurantonline.co.uk/Article/2026/10/06/pizza-express-launches-hot-food-to-go-range/",
-      "score": 60,
-      "commercial_score": 45,
-      "product_keywords": [
-        "冷凍ピザ"
+        "クリスマス オードブル"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "鎌倉山、和牛モモのローストビーフ2本セットを発売",
-      "summary_ja": "ローストビーフの店 鎌倉山が今秋、「和牛モモ ローストビーフ ツインパック 400g」を発売した。200gのかたまりが2本入りで、価格は送料込み1万2960円。",
-      "source": "RBB TODAY",
-      "url": "https://www.rbbtoday.com/article/2026/10/06/254059.html",
-      "score": 55,
-      "commercial_score": 85,
-      "product_keywords": [
-        "鎌倉山 ローストビーフ",
-        "和牛 ローストビーフ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米マクドナルドで「モノポリー」キャンペーンが復活",
-      "summary_ja": "米マクドナルドで、ボードゲーム「モノポリー」を使ったキャンペーンが再び始まった。USA Todayが遊び方を紹介している。",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/money/food/2026/10/06/monopoly-game-back-mcdonalds/92104544007/",
-      "score": 55,
-      "commercial_score": 40,
-      "product_keywords": [
-        "モノポリー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英スーパーの8割、オーガニック食品の品ぞろえを縮小",
-      "summary_ja": "英国のスーパーの8割がオーガニック食品の品ぞろえを減らしたと業界誌が伝えた。売り場に並ぶ食品のうちオーガニックは5.4%にとどまる。",
-      "source": "The Grocer",
-      "url": "https://www.thegrocer.co.uk/news/80-of-supermarkets-cut-organic-food-ranges/724450.article",
-      "score": 55,
-      "commercial_score": 45,
-      "product_keywords": [
-        "オーガニック 食品"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ケーキをラスクにした「2Snack」新作3種",
-      "summary_ja": "フードブランド「2foods」が、罪悪感なく楽しめるスナック「2Snack」から新しいタイプの「2Snack CAKE RUSK」3種を発売した。ケーキをそのままラスクにした、ご褒美向けのお菓子。",
-      "source": "マイナビウーマン",
-      "url": "https://woman.mynavi.jp/article/261006-2_1160320-3/",
-      "score": 50,
-      "commercial_score": 75,
-      "product_keywords": [
-        "2foods",
-        "ケーキラスク"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "シェイクシャック、ロンドン・パディントン駅横に出店へ",
-      "summary_ja": "シェイクシャックが今冬、ロンドンのパディントン駅そばに英国22店目を開く。通勤客や観光客、近隣住民を見込む。開店日はまだ決まっていない。",
-      "source": "The Upcoming",
-      "url": "https://www.theupcoming.co.uk/2026/10/06/shake-shack-to-open-22nd-uk-restaurant-beside-paddington-station-this-winter/",
-      "score": 50,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "上海のテニス大会、選手用レストランの料理と厨房",
-      "summary_ja": "上海で10月5日に始まったテニスの上海マスターズ予選に合わせ、会場の選手用レストランが動き出した。パプリカと豚肉の炒め物や小籠包、海鮮焼売、牛ヒレのローストなどが並ぶ。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/2026-10-06/detail-iniuhuic5566346.d.html?vt=4&cid=76675&node_id=76675",
-      "score": 50,
-      "commercial_score": 20,
-      "product_keywords": [
-        "小籠包 冷凍"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ホールフーズ、フロリダ州に新店を11月5日開業",
-      "summary_ja": "米ホールフーズ・マーケットが11月5日、フロリダ州ブレーデントンに約4万2000平方フィートの新店を開く。マナティー郡では初、フロリダ州では40店目となる。",
+      "title_ja": "ホールフーズ、LAに旗艦店を11月11日開業",
+      "summary_ja": "ホールフーズ・マーケットがロサンゼルスの3番街とフェアファックスの交差点近くに、約6万3000平方フィートの旗艦店を11月11日に開く。隣にあった元のフェアファックス店を移転する形となる。",
       "source": "WebWire",
-      "url": "http://webwire.com/ViewPressRel.asp?SESSIONID=&aId=361503",
-      "score": 45,
-      "commercial_score": 30,
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362580",
+      "score": 80,
+      "commercial_score": 50,
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "サブウェイ、欧州・中東・アフリカで新店舗様式を導入",
+      "summary_ja": "サブウェイが新しい店舗・ブランドの形「Blueprint」を発表した。2027年1月1日から欧州・中東・アフリカの新店と改装店で標準となり、デジタル注文や朝食、持ち帰り商品、夜のメニューを取り入れる。",
+      "source": "Hospitality & Catering News",
+      "url": "https://www.hospitalityandcateringnews.com/2026/10/subway-unveils-blueprint-restaurant-concept-across-emea/",
+      "score": 80,
+      "commercial_score": 35,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の国慶節連休、外食需要が伸び各社が新商品を急ぐ",
+      "summary_ja": "中国の国慶節の大型連休中、外食の消費が盛り上がり、大人数での食事の需要が高まった。北京の商業施設ではピーク時間外でも店の前に順番待ちの客が並んだ。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-08/detail-iniunrrp3896494.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 80,
+      "commercial_score": 35,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "セブン、レンジで温める麺を刷新 牛肉うどんなど新顔も",
+      "summary_ja": "セブン-イレブン・ジャパンが電子レンジで温める麺類を10月14日から順にリニューアルする。牛肉うどんやもやし醤油ラーメンが新たに加わる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/485fc0d63297e544c83649d86a87066b6797ba47",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "牛肉うどん",
+        "もやし醤油ラーメン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ギラデリ、クッキー売り場に参入 新商品2品",
+      "summary_ja": "チョコレートブランドのギラデリ（Ghirardelli）が、クッキーの新商品2品を投入し、クッキー売り場に進出した。",
+      "source": "Snack Food & Wholesale Bakery",
+      "url": "https://www.snackandbakery.com/articles/116452-ghirardelli-breaks-into-the-cookie-aisle-with-two-new-treats",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ギラデリ",
+        "ギラデリ チョコレート"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "料理家リック・スタイン、ウェイトローズと独占提携",
+      "summary_ja": "英国の人気料理家リック・スタインが、スーパーのウェイトローズと新たに独占契約を結んだ。",
+      "source": "Falmouth Packet",
+      "url": "https://www.falmouthpacket.co.uk/news/26615971.rick-stein-signs-exclusive-deal-uk-supermarket-chain/",
+      "score": 75,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "すき家に期間限定「ローストポーク丼」 10月14日から",
+      "summary_ja": "牛丼チェーンのすき家が新商品「ローストポーク丼」を10月14日午前9時から期間限定で売り出す。フライドにんにくや温泉卵をのせたメニューも用意する。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/4ced6522c19734f905e7454182cba29aff902d2f",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ローストポーク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米Datassential、2027年の食と飲料のトレンド予測を公表",
+      "summary_ja": "米調査会社Datassentialが、2027年に向けた食品・味・飲料のトレンド予測を発表した。消費者の75%が新しいトレンドを楽しみにしていると答えている。",
+      "source": "www.bluebookservices.com",
+      "url": "https://www.bluebookservices.com/datassential-releases-food-flavor-and-beverage-trend-predictions-for-2027/",
+      "score": 70,
+      "commercial_score": 35,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "日中韓の食品企業、東南アジア市場で競争が激化",
+      "summary_ja": "人口約7億人の東南アジア市場で、日中韓の食品企業が展開を強めている。早くから進出した日本企業は知名度が高く、韓国は政府と企業、現地の大手小売が連携し、中国企業も現地の販売網への参入を急ぐ。",
+      "source": "新浪军事",
+      "url": "https://mil.news.sina.com.cn/2026-10-08/doc-iniunrrf7621967.shtml",
+      "score": 70,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ファミマ、8年ぶり刷新のホイップでスイーツ6品",
+      "summary_ja": "ファミリーマートが8年ぶりにホイップクリームを新しくし、それを使ったスイーツ6品を発売する。「ファミマの無限クリーム、誕生!」キャンペーンとして10月13日から展開する。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/ssnp/business/ssnp-20261007-706113",
+      "score": 68,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ホイップクリーム"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "バーガーキング、ピクルス11枚の限定バーガーを発売",
+      "summary_ja": "ビーケー・ジャパンが10月9日から、ピクルスを11枚使いディルの効いたクリーミーソースで仕上げた「ピックルボールバーガー」を期間・数量限定で売り出す。チキン版も同時に登場する。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2cf1cf43afcb0df1ed316a3c12897f36e6e77138",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ピクルス"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "HoneyBaked、高たんぱくのスナックカップを発売",
+      "summary_ja": "米HoneyBakedが、たんぱく質を多く含むスナックカップを新たに売り出した。1個あたり最大38グラムのたんぱく質を含むという。",
+      "source": "Parade Magazine",
+      "url": "https://parade.com/food/honeybaked-launches-new-protein-packed-snack-cups-with-up-to-38-grams-each",
+      "score": 60,
+      "commercial_score": 65,
+      "product_keywords": [
+        "高たんぱく スナック"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "話題のDave's Hot Chicken、英メトロセンターに出店",
+      "summary_ja": "人気のチキンチェーンDave's Hot Chickenと、アジアン系の麺バーが英国のメトロセンターに新たに店を開く。",
+      "source": "The Northern Echo",
+      "url": "https://www.thenorthernecho.co.uk/news/26616313.viral-chain-daves-hot-chicken-opening-metrocentre/",
+      "score": 60,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "成都の食品メーカー、連休需要で生産ラインがフル稼働",
+      "summary_ja": "中秋節と国慶節の連休に向けて、成都の食品メーカーが注文対応に追われている。新しい拠点では太陽光発電と新型の加工設備を使い、生産力の拡大と海外市場の開拓を狙う。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084805665_355475",
+      "score": 60,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

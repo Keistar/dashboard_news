@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:55:42+09:00",
+  "generated_at": "2026-10-08T16:27:18+09:00",
   "trends": [
     {
       "keyword": "プライム感謝祭",
@@ -539,322 +539,290 @@
   ],
   "stories": [
     {
-      "title_ja": "グーグル、スマホでも動く埋め込みAI「EmbeddingGemma 2」",
-      "summary_ja": "グーグル・ディープマインドが、文章やコード、画像、動画、音声をまとめて同じベクトル空間に変換するオープンな埋め込みモデルを公開した。量子化すればスマートフォン上でも少ないメモリーで動くとしている。",
-      "source": "ビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/187318",
-      "score": 80,
-      "commercial_score": 45,
-      "product_keywords": [
-        "スマートフォン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "Anthropic、新興企業にClaude Teamを1年無料提供",
-      "summary_ja": "Anthropicが、スタートアップ向けにClaude Teamを1年間無料にし、1,000ドル分のクレジットを付ける。モデルの上にサービスを作る企業を通じて、AIの恩恵を多くの人に届けたいとしている。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "score": 80,
-      "commercial_score": 50,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "松山市でAIアバターが多言語で観光案内、JTBが実証",
-      "summary_ja": "JTBが松山市と組み、生成AIのアバターを使った観光案内の実証を始めた。松山城のマスコット「よしあきくん」が多言語の音声で観光客に応対する。",
-      "source": "山陽新聞",
-      "url": "https://www.sanyonews.jp/article/1996967",
-      "score": 75,
+      "title_ja": "OpenAI、GPT-6をChatGPTで世界に提供開始",
+      "summary_ja": "OpenAIはChatGPTで新モデル「GPT-6」の世界的な提供を始めた。新機能「インテリジェントUI」により、応答が速くなるとともに、図や操作できる画面で答えを示すようになる。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 95,
       "commercial_score": 60,
       "product_keywords": [
-        "松山 旅行",
-        "道後温泉"
+        "ChatGPT 本"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ChatGPTにGPT-6、回答を画面形式で示す新機能",
+      "summary_ja": "OpenAIは7日、ChatGPTに新モデル「GPT-6」を導入したと発表した。あわせて、回答を文章だけでなく操作できる画面として表示する新機能「インテリジェントUI」の提供も始める。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146609.html",
+      "score": 90,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ChatGPT 本",
+        "生成AI 入門"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ChatGPT、回答の中の広告的な表示を増やす方針",
-      "summary_ja": "OpenAIが、ChatGPTの回答にスポンサー付きの結果をもっと載せる方向に動いていると報じられた。",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/openai-decides-chatgpt-would-be-better-with-more-sponsored-results-2000822440",
-      "score": 75,
+      "title_ja": "Anthropic、低価格の小型AI「Claude Haiku 5.5」",
+      "summary_ja": "Anthropicが小型モデル「Claude Haiku 5.5」を公開した。100万トークンの長い文脈を扱え、処理の手間を調整できるほか、入力100万トークンあたり0.10ドルという低価格で大量の処理に向く。",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "score": 85,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "阶跃のAIスマホ「STEPX Neo」、13日に発表",
+      "summary_ja": "中国の阶跃終端は、大規模言語モデルを前提に作った初のAIエージェント搭載スマートフォン「STEPX Neo」を10月13日に発表すると明らかにした。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrrp3919145.d.html?vt=4&cid=76993&node_id=76993",
+      "score": 85,
       "commercial_score": 70,
       "product_keywords": [
-        "ChatGPT"
+        "AIスマホ",
+        "スマートフォン"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "仏ミストラル、中国勢の一部を上回るAIモデル公開",
-      "summary_ja": "フランスのミストラルAIが新しいAIモデルを発表した。同社は一部の中国製モデルより性能が高いとしている。",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
-      "score": 75,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "騰訊の混元A13B、一部だけ動かして大型並みの性能",
-      "summary_ja": "騰訊（Tencent）の混元チームが、混合専門家構成のHunyuan-A13Bを発表した。全体のパラメータのうち一部だけを動かして、数学やプログラミングで大きなモデルに並ぶという。速く答える方式とじっくり考える方式を切り替えられる。",
-      "source": "科技行者",
-      "url": "https://www.techwalker.com/2026/1006/3201131.shtml",
-      "score": 75,
-      "commercial_score": 25,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ChatGPTの出力に電子透かし、EU限定で標準に",
-      "summary_ja": "OpenAIが、ChatGPTが作った文章などに標準で透かしを入れる。対象はEUのみ。ほかの方法と同じく確実ではなく、簡単にかわせるとの指摘もある。",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "score": 70,
+      "title_ja": "グーグル、AI生成かを調べるツールを一般公開",
+      "summary_ja": "グーグルが、画像や動画、音声が生成AIで作られたかを確かめられるツール「SynthID Detector」を一般公開した。ChatGPTやNVIDIA製のAIで作られたものも検証の対象になる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/fe6eb28d65250145dfa6dee40c2f69f34c497378/images/000",
+      "score": 80,
       "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英政府、医療AIの提言を採用し試験の場を設ける",
-      "summary_ja": "英国政府が、医療でのAI活用に関する提言を受け入れた。開発者や規制当局、医療機関が、AI機器を安全に見守り続ける方法を試せる場を設ける。",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366651579/UK-government-accepts-AI-healthcare-recommendations",
-      "score": 70,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "20代の過半数が住まい探しに生成AIを活用",
-      "summary_ja": "20代の半数以上が、住まい探しに生成AIを使っているという調査結果が出た。金利が上がるなかで、家の購入の考え方がどう変わるかにも触れている。",
-      "source": "ガジェット通信 GetNews",
-      "url": "https://getnews.jp/archives/3747364",
-      "score": 65,
-      "commercial_score": 55,
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "OpenAI、新モデルで解いた数学の成果を追加公開",
-      "summary_ja": "OpenAIが、新しいAIモデルで得たとする数学の成果とデータを新たに公開した。長年解かれていなかった問題の多くを解決したと説明している。",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "score": 65,
+      "title_ja": "OpenAIとAnthropic、同じ日に新モデルで別路線",
+      "summary_ja": "OpenAIは7日にGPT-6と新たな操作画面の仕組みを発表し、Anthropicは同じ日に低コストで速いClaude Haiku 5.5を出した。中国メディアは、一方は入口の確保、もう一方は低価格を狙うと両社の違いを伝えている。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610083889375223.html",
+      "score": 75,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "みどりの窓口で生成AIが応対、JR東日本とNECが実証",
+      "summary_ja": "JR東日本とNECが、みどりの窓口で係員に代わって生成AIが利用者と対話するサービスの実証実験を進めている。窓口を使う人と運営する側の双方にとっての新しい価値を探る取り組み。",
+      "source": "NEC",
+      "url": "https://jpn.nec.com/corporateblog/202610/01.html",
+      "score": 70,
+      "commercial_score": 40,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "OpenAI、300超の数学研究問題での成果を公表",
+      "summary_ja": "OpenAIが300を超える数学の研究問題について、AIによる進展を公表した。専門家を驚かせる内容として報じられている。",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/",
+      "score": 70,
       "commercial_score": 10,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "米リフレクションAI、初のオープンウェイトモデル発表",
-      "summary_ja": "米リフレクションAIが初のオープンウェイトモデル「Beam」を発表した。混合専門家（MoE）構成で、コーディングやエージェントの業務向けとしている。重みと技術報告書は今月後半に公開予定で、早期アクセスの登録を受け付けている。",
-      "source": "ビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/187314",
-      "score": 60,
-      "commercial_score": 20,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "Claudeの有料プランはChatGPTよりお得、と調査会社",
-      "summary_ja": "調査会社が、AnthropicのClaudeの有料プランはOpenAIのものより価値が高いとする結果を出した。OpenAIには厳しい評価となった。",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
-      "score": 60,
-      "commercial_score": 55,
+      "title_ja": "LibreOffice、「AIなし」を売りに打ち出す",
+      "summary_ja": "無料のオフィスソフトLibreOfficeが、AI機能を載せていないことを特長として打ち出した。ただし、将来AI機能を加える可能性は完全には否定していない。",
+      "source": "Computerworld",
+      "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html",
+      "score": 70,
+      "commercial_score": 45,
       "product_keywords": [
-        "Claude",
-        "ChatGPT"
+        "オフィスソフト"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
+      "country": "gb",
+      "country_label_ja": "イギリス",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "開発者はAIツールに慎重、Stack Overflow調査",
-      "summary_ja": "Stack Overflowの調査で、コーディング用AIが広く使われている一方、開発者の多くがまだ信頼しきれていないことが分かった。大事な判断をAIに任せられる人はごく少数だった。",
-      "source": "IT Brief UK",
-      "url": "https://itbrief.co.uk/story/stack-overflow-survey-finds-developers-wary-of-ai-tools",
-      "score": 60,
+      "title_ja": "AIで症状を自己チェック、適切な受診につながる",
+      "summary_ja": "AIを使った症状の自己評価サービスを利用した後、患者の受診意向や実際の受診がどう変わったかを調べた研究が報告された。利用者の不安が減り、医療資源のより適切な利用につながったという。",
+      "source": "2 Minute Medicine",
+      "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-supported-symptom-self-assessment-led-to-more-appropriate-patient-care-decisions/",
+      "score": 65,
       "commercial_score": 20,
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "四川で「AI超市」が出店企業の募集を開始",
-      "summary_ja": "四川省で、AIの機能を商品のように選べる「AI超市」が参加企業の募集を始めた。陝西や北京でも、多くのAIモデルをまとめて手頃に使える場が作られている。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1084542449_355475",
+      "title_ja": "10代のChatGPT利用は1日15分未満とOpenAI",
+      "summary_ja": "OpenAIは、10代のChatGPT利用時間は1日15分に満たないと明らかにした。若者への影響を心配する声が高まるなかでの説明となる。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
       "score": 60,
-      "commercial_score": 30,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "AIの運用コスト低下、アプリ普及加速に期待",
+      "summary_ja": "大規模言語モデルを動かすコストの低下が速まっている。これによりAIを使ったアプリの普及が進むとの見方が出ている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2498897",
+      "score": 60,
+      "commercial_score": 35,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "中小病院向けAI「てますい」、紹介状やFAXを一覧に",
-      "summary_ja": "大阪のHiMaWaSa Syncが、記録や書類の下書きを手伝うAIサービス「てますい」の病院版を始めた。中小規模の病院の地域連携室や病棟、外来向けで、紹介状やFAXを読み取って一覧にする。",
-      "source": "医療テックニュース",
-      "url": "https://medicaltech-news.com/management/13099/",
+      "title_ja": "生成AI利用者、住まい探しでの活用に高い関心",
+      "summary_ja": "クレアスライフが生成AI利用者を対象に用途を調べた結果を公表した。住宅選びでは、物件の探索や比較にAIを使いたいという回答が上位を占めた。",
+      "source": "住宅新報",
+      "url": "https://www.jutaku-s.com/news/id/106065",
       "score": 55,
-      "commercial_score": 25,
+      "commercial_score": 45,
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "獣医療の現場でAI利用が2年で2倍超に",
-      "summary_ja": "獣医療の専門職のうちAIを使う人が、この2年で2倍以上に増えたという調査結果が出た。方針や体制を整え、仕事の流れを見直した病院ほど成果が大きいという。",
-      "source": "DVM 360",
-      "url": "https://www.dvm360.com/view/artificial-intelligence-use-among-veterinary-professionals-more-than-doubles-in-2-years",
+      "title_ja": "AIの値下げ競争が激化、OpenAIが追い上げ",
+      "summary_ja": "生成AIサービスの価格をめぐる競争が激しくなっている。この競争のなかで、OpenAIがAnthropicとの差を縮めていると報じられた。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b",
       "score": 55,
       "commercial_score": 35,
-      "product_keywords": [
-        "ペット"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
+      "country": "us",
+      "country_label_ja": "アメリカ",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "字節・騰訊・阿里がAI人材争奪、報酬上昇続く",
-      "summary_ja": "字節跳動（ByteDance）、騰訊、阿里巴巴（Alibaba）がAIの高度人材を取り合っている。そのため報酬が上がり続けている。",
-      "source": "ijiwei.com",
-      "url": "https://ijiwei.com/n/1115522",
+      "title_ja": "AIが下水流出を防ぐ、英ニューフォレスト",
+      "summary_ja": "英南部ニューフォレストで、貴重な小川への下水の流出が人工知能によって未然に防がれた。",
+      "source": "Bournemouth Echo",
+      "url": "https://www.bournemouthecho.co.uk/news/26617348.ai-helps-prevent-sewage-spill-new-forest-stream/",
       "score": 55,
       "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "済南でAI産業の大会、有力企業300社超が集結",
-      "summary_ja": "山東省済南市で開かれるAI産業の年次大会に、300社を超える有力企業が集まる。",
-      "source": "大众网",
-      "url": "https://jinan.dzwww.com/jrtt/202610/t20261006_18179546.htm",
-      "score": 50,
-      "commercial_score": 20,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "アパレルECの商品撮影や原稿作りにAIを活用",
-      "summary_ja": "ECで欠かせない商品の撮影・採寸・原稿作り（ささげ）に、AIを使う方法を取り上げた連載記事。作業を効率化しながら、商品が自然に見えるようにする工夫を紹介している。",
-      "source": "繊研新聞",
-      "url": "https://senken.co.jp/posts/ec-261007",
-      "score": 45,
-      "commercial_score": 50,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "ai",
-      "genre_label_ja": "AI",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "映画「A.I.」25周年の4K Blu-ray",
-      "summary_ja": "映画「A.I.」の公開25周年を記念した4K Blu-rayが取り上げられた。",
-      "source": "Blu-ray.com",
-      "url": "https://www.blu-ray.com/news/?id=39138",
-      "score": 45,
-      "commercial_score": 75,
-      "product_keywords": [
-        "A.I. 4K Blu-ray",
-        "スピルバーグ Blu-ray"
-      ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "ai",
       "genre_label_ja": "AI",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "華為（Huawei）、「Mate 90」シリーズを発表",
-      "summary_ja": "華為（Huawei）が新しいスマートフォン「Mate 90」シリーズを発表しました。全モデルにフラッグシップ向けの「韜」チップを搭載しています。",
-      "source": "中青在线",
-      "url": "http://news.cyol.com/gb/keji/articles/2026-10/06/content_MbBgGxcNga.html",
-      "score": 90,
+      "title_ja": "軽量AI端末が健康産業を変える可能性",
+      "summary_ja": "端末側で動く軽量なAIが広がり、健康関連の産業を根本から変えつつあると報じられた。新たな機会がある一方で課題もあるという。",
+      "source": "36Kr",
+      "url": "https://www.36kr.com/p/4015566628427393",
+      "score": 55,
       "commercial_score": 50,
+      "product_keywords": [
+        "スマートウォッチ",
+        "ウェアラブル"
+      ],
       "country": "cn",
       "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ソニー新型Xperia、カードをかざして推し仕様に",
-      "summary_ja": "ソニーの「Xperia 10 VIII」は、カードをかざすと壁紙や充電音を好きな作品の仕様に切り替えられる新サービス「Fan Sync」に対応しました。第1弾は「鬼滅の刃」やハローキティとのコラボです。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/440/4440419/",
-      "score": 85,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Xperia 10 VIII"
-      ],
+      "title_ja": "さくらインターネット、企業専用の生成AI基盤を開始",
+      "summary_ja": "さくらインターネットは8日、企業が持つ生成AIモデルを専有環境で動かせるサービス「さくらのAI Engine プライベートエディション」の提供を始めた。運用まで任せられるフルマネージド型となる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d62898fd96e76f8236d4c88b6528a759a3af788b",
+      "score": 50,
+      "commercial_score": 25,
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "Surface Laptop Ultra、10月7日発表へ 仕様判明",
-      "summary_ja": "マイクロソフトが10月7日に「Surface Laptop Ultra」を正式に発表する予定です。発表を前に、最大128GBのメモリーと20コアのRTX Sparkを積むことなど、詳しい情報が複数の情報源から伝わっています。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-Surface-Laptop-Ultra-release-details-revealed-with-up-to-128-GB-RAM-and-20-core-RTX-Spark.1416963.0.html",
-      "score": 85,
-      "commercial_score": 65,
+      "title_ja": "自律型AIが皮膚科医の診療を手助け",
+      "summary_ja": "自律的に動くAIを使うことで、皮膚科医が診られる患者の数を増やせる可能性があると報じられた。",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-10-autonomous-ai-clinical-capacity-dermatologists.html",
+      "score": 50,
+      "commercial_score": 15,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "アリババクラウド、済南の産業大会でAI技術を披露",
+      "summary_ja": "10月14日から済南で開かれる2026人工知能産業大会に、阿里雲（アリババクラウド）が出展する。クラウド基盤から大規模言語モデル「千問」、マルチモーダル製品までをまとめて紹介する。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084944746_121218495",
+      "score": 50,
+      "commercial_score": 25,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "リコージャパン、中小企業向けにDify導入支援",
+      "summary_ja": "リコージャパンは8日、生成AIアプリの開発基盤「Dify」について、中堅・中小企業や部門向けライセンスの導入サービスを始めた。自社でAIアプリを作りたい企業の利用を後押しする。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/804d30f3b7925addb426692eeaf5c6955f170000",
+      "score": 45,
+      "commercial_score": 25,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "ai",
+      "genre_label_ja": "AI",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "Surface Laptop Ultra、価格と発売日が決定",
+      "summary_ja": "マイクロソフトが「Surface Laptop Ultra」の価格と発売日を明らかにし、注文受付を始めました。出荷は10月16日からの予定です。外れるタイプのUSB-Cポートを世界で初めて採用したとしています。",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date",
+      "score": 95,
+      "commercial_score": 80,
       "product_keywords": [
         "Surface Laptop"
       ],
@@ -862,377 +830,355 @@
       "country_label_ja": "アメリカ",
       "genre": "gadget",
       "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "アップル、10月にMac中心の2回目の発表会か",
-      "summary_ja": "アップルが10月に、M6チップを積んだMacを中心とする2回目の発表会を開くと報じられています。まだ正式な発表はなく、Macの購入を考えている人は時期を見極めたいところです。",
-      "source": "Gadget Review",
-      "url": "https://www.gadgetreview.com/apple-reportedly-planning-a-second-october-event-focused-on-macs",
+      "title_ja": "華為Mate 90シリーズ、初回販売で27万台超か",
+      "summary_ja": "華為の新スマホ「Mate 90」シリーズが、初回販売期間に27万台を超えたと中国の情報発信者が伝えました。上位モデルの売れ行きが全体の約4割を占めたといいます。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084797199_114760",
+      "score": 85,
+      "commercial_score": 55,
+      "product_keywords": [
+        "HUAWEI Mate"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "Pixel Watchに新機能「Health Guardian」が登場",
+      "summary_ja": "Googleがウェアラブル向けの新機能「Health Guardian」をPixel Watch 3、4、5で提供し始めました。血圧の傾向やインスリン抵抗性を記録して日々の体調を振り返れる機能で、無料と有料の条件があります。",
+      "source": "ライフハッカー",
+      "url": "https://www.lifehacker.jp/article/2610-pixel-watches-new-health-features/",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Pixel Watch"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "華為（Huawei）、スマートテレビ「MateTV 2」を発表",
+      "summary_ja": "華為がMate 90シリーズなどの新製品発表会で、スマートスクリーン「MateTV 2」を発表しました。独自OSの鴻蒙（HarmonyOS）の仕組みを生かし、家族みんなで使える大画面として売り出します。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/sx/2026-10-08/detail-iniunmin5256156.shtml",
       "score": 80,
       "commercial_score": 60,
       "product_keywords": [
-        "MacBook"
+        "Huawei",
+        "スマートテレビ"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
+      "country": "cn",
+      "country_label_ja": "中国",
       "genre": "gadget",
       "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "サムスン「Galaxy S26 FE」が海外で発売",
-      "summary_ja": "サムスン電子が秋の新モデル「Galaxy S26 FE」を海外で発売しました。FEシリーズは高性能ながら価格を抑えたモデルで、最新のAI機能を手軽に使えるのが特徴です。",
-      "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/article/20261006-galaxy_s26_fe/",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Galaxy S26 FE"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ガーミン「Enduro 4」、最大320時間の長持ち電池",
-      "summary_ja": "ガーミンの新しいスマートウォッチ「Enduro 4」は、最大320時間のバッテリー駆動をうたいます。「Fenix 9 Pro」と同じ健康管理やフィットネスの機能も使えます。",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/garmin-enduro-4-smartwatch-2000822419",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Garmin Enduro"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "華為（Huawei）、三つ折りスマホ「Mate XT 2」を世界展開",
-      "summary_ja": "華為（Huawei）が、三つ折りスマートフォン「Mate XT 2」を中国以外の国でも発売することを明らかにしました。",
-      "source": "Huawei Central",
-      "url": "https://www.huaweicentral.com/huawei-confirms-mate-xt-2-tri-fold-for-global-launch/",
-      "score": 70,
-      "commercial_score": 45,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "テクニクス、新ワイヤレスヘッドホン「EAH-A1000」",
-      "summary_ja": "テクニクスが、2022年の「EAH-A800」の後継となるワイヤレスヘッドホン「EAH-A1000」を発表しました。新しい40mmの磁性流体ドライバーとカーボンファイバーの振動板を採用し、価格は449.99ドル、10月15日までに出荷されます。",
-      "source": "We Rave You",
-      "url": "https://weraveyou.com/2026/10/technics-eah-a1000-wireless-headphones/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Technics EAH-A1000",
-        "テクニクス ヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "アクア、冷凍室が中段の5ドア冷蔵庫を発売へ",
-      "summary_ja": "アクアが5ドア冷凍冷蔵庫「AQR-S45B」を10月8日に発売します。幅60cmのスリムな本体に453Lを収め、冷凍室を中段に置いて使いやすくしました。実売予想価格は21万8900円（税込）です。",
+      "title_ja": "サムスン「Samsung Week」開始、Galaxy製品が最大10％オフ",
+      "summary_ja": "サムスンがGalaxy製品を割引する「Samsung Week」を始めました。折りたたみスマホ「Galaxy Z Fold8」も対象で、最大10％オフで購入できます。",
       "source": "GetNavi web",
-      "url": "https://getnavi.jp/appliances/1116625/",
-      "score": 65,
-      "commercial_score": 85,
+      "url": "https://getnavi.jp/gadgets/1116857/",
+      "score": 75,
+      "commercial_score": 90,
       "product_keywords": [
-        "AQUA 冷蔵庫 AQR-S45B"
+        "Galaxy Z Fold8",
+        "Galaxy"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "gadget",
       "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "デル、13型「XPS Googlebook」を米国で値下げ",
-      "summary_ja": "デルが、最大32GBのメモリーと120Hzの可変リフレッシュレート画面を備えた13インチノートPC「XPS Googlebook」の新モデルを出しました。米国では9月の発売時より大きく安くなっています。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Dell-releases-new-13-inch-laptop-with-cheaper-pricing-and-up-to-32-GB-RAM.1416964.0.html",
-      "score": 65,
-      "commercial_score": 60,
+      "title_ja": "デル、RTX Spark搭載「XPS 16 Creator Edition」発表",
+      "summary_ja": "デルがNVIDIAの「RTX Spark」を搭載した新しいノートPC「XPS 16 Creator Edition」を発表しました。クリエイター向けのモデルです。",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/113975/dell-unveils-its-new-xps-16-creator-edition-laptop-powered-by-rtx-spark/index.html",
+      "score": 75,
+      "commercial_score": 65,
       "product_keywords": [
         "Dell XPS"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
+      "country": "gb",
+      "country_label_ja": "イギリス",
       "genre": "gadget",
       "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "華為（Huawei）「Watch 6 Pro」、腕時計らしい見た目",
-      "summary_ja": "華為（Huawei）の新しいスマートウォッチ「Watch 6 Pro」は、普通の腕時計に近い見た目で、電池も数日もちます。体の状態についても多くの情報を知らせてくれます。",
-      "source": "Esquire",
-      "url": "https://www.esquire.com/uk/watches/a74005663/huaweis-new-watch-6-pro-might-be-the-smartwatch-for-people-who-dont-like-smartwatches/",
-      "score": 65,
+      "title_ja": "OnePlus 16、10月12日に発表会",
+      "summary_ja": "OnePlusの新スマホ「OnePlus 16」の発表会が10月12日に開かれることが分かりました。告知画像では複数の本体色とカメラのデザインが示され、性能の向上をうたっています。",
+      "source": "手机新浪网",
+      "url": "https://www.sina.cn/news/detail/5351676160772144.html",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "OnePlus"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ブラザー、P-TOUCH CUBEに約10年ぶりの入門機",
+      "summary_ja": "ブラザーがスマホアプリでラベルを作って印刷するラベルライター「P-TOUCH CUBE」の新製品「PT-P320BT」を10月下旬に発売します。入門機として約10年ぶりの新モデルで、USB-Cでの充電に対応しました。",
+      "source": "テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/07/5559.html",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "P-TOUCH CUBE",
+        "PT-P320BT",
+        "ラベルライター"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "HPのRTX Spark搭載ノート、米ストアで価格が判明",
+      "summary_ja": "HPがNVIDIAの新チップ「RTX Spark」を積んだ「OmniBook Ultra 16」と「OmniBook X 14」を発売する準備を進めています。発売前に米国の公式ストアに一時掲載され、予想より高い価格が明らかになりました。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Nvidia-RTX-Spark-for-2-999-99-HP-leak-reveals-RTX-Spark-laptop-pricing-ahead-of-launch.1417872.0.html",
+      "score": 70,
       "commercial_score": 65,
       "product_keywords": [
-        "HUAWEI WATCH"
+        "HP OmniBook"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "華為（Huawei）、大画面テレビ「MateTV 2」",
-      "summary_ja": "華為（Huawei）が「Mate 90」シリーズなどの発表会で、スマートスクリーン「MateTV 2」を発表しました。家族みんなで使える大きなスマホのようなテレビとして、鴻蒙（HarmonyOS）の製品群を広げます。",
-      "source": "TGBUS",
-      "url": "https://android.tgbus.com/news/245293",
-      "score": 65,
-      "commercial_score": 45,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "MATECH、USB-C一体型の小型モバイルバッテリー",
-      "summary_ja": "MATECHが、スマホに直接挿して使えるUSB-C一体型モバイルバッテリー「PowerNano 5000」と、Apple Watchにも対応する「PowerNano Watch 5000」を発売しました。最大22.5Wの急速充電とパススルー充電に対応しています。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/440/4440152/",
-      "score": 60,
-      "commercial_score": 85,
-      "product_keywords": [
-        "MATECH PowerNano",
-        "モバイルバッテリー USB-C一体型"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "vivo、1万mAh電池の防水スマホ「S2 FE」",
-      "summary_ja": "vivoが、10,000mAhの大容量バッテリーとIP69の防水防塵性能を備えた中価格帯のスマートフォン「S2 FE」を発表しました。明るい有機ELの画面と、ソニー製センサーの5000万画素メインカメラを載せています。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Vivo-unveils-smartphone-with-10-000-mAh-battery-and-IP69-rating-for-the-equivalent-of-399.1417003.0.html",
-      "score": 60,
-      "commercial_score": 45,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "gadget",
       "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ソニー、INZONEのヘッドセットとイヤホンに新色",
-      "summary_ja": "ソニーが、ゲーミング向けヘッドセット「INZONE H9 II」とインイヤーヘッドホン「INZONE E9」に新しい色を追加しました。",
-      "source": "Sony UK",
-      "url": "https://www.sony.eu/presscentre/sony-introduces-new-colour-to-inzone-h9-ii-headset-and-inzone-e9-in-ear-headphones",
-      "score": 60,
-      "commercial_score": 75,
-      "product_keywords": [
-        "INZONE H9 II",
-        "INZONE E9"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ゲーミングスマホ「紅魔12 Pro+」10月15日発表へ",
-      "summary_ja": "ゲーミングスマートフォン「紅魔（REDMAGIC）12 Pro+」の予約受付が始まりました。10月15日に正式に発表されます。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniuhyrf5524031.shtml",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "REDMAGIC"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "駐車位置も探せるカーチャージャーなど5製品",
-      "summary_ja": "ハックが、位置検索機能に対応したカーチャージャーやスマホホルダーなど、車で使えるスマホ関連の5製品を2026年9月から順次発売します。充電しながら、車を停めた場所を探すのにも役立ちます。",
-      "source": "ベストカーWeb",
-      "url": "https://bestcarweb.jp/news/1641687",
-      "score": 55,
-      "commercial_score": 75,
-      "product_keywords": [
-        "カーチャージャー",
-        "スマホホルダー 車"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "OPPO、8000mAh電池の中価格スマホ「F35 5G」",
-      "summary_ja": "OPPOが中価格帯の5Gスマートフォン「F35 5G」をインドで発売しました。8,000mAhの大容量バッテリーと80Wの急速充電に対応し、120Hzの有機EL画面と5000万画素の自撮りカメラを備えます。",
-      "source": "Notebookcheck CN",
-      "url": "https://www.notebookcheck-cn.com/Oppo-8-000mAh-80W.1416678.0.html",
-      "score": 55,
-      "commercial_score": 45,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "スリコ、透けるデザインのイヤホンや充電器",
-      "summary_ja": "3COINSが10月9日に、シースルーデザインの有線イヤホンやUSBケーブル、USB充電器など7製品を発売します。パープルやホワイトなどのパステルカラーで、そろえて買うのも楽しめます。",
-      "source": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/32505832/",
-      "score": 50,
-      "commercial_score": 70,
-      "product_keywords": [
-        "有線イヤホン",
-        "USB充電器"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "サムスン、折りたたみ「W27」を10月29日発表か",
-      "summary_ja": "サムスンの正規販売店が、折りたたみスマホ「心系天下 W27」の発表会を10月29日に開くと予告しました。店頭ではすでに予約を受け付けています。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-05/detail-iniueriz4272353.d.html?oid=%E7%BA%AA%E6%A2%B5%E5%B8%8C%E7%B2%BE%E4%BB%BF%E3%80%88%E5%BE%AE%E4%BF%A1198099199%E3%80%89%E9%AB%98%E4%BB%BF%E7%9A%AE%E5%B8%A6%E6%89%8B%E8%A1%A8%E2%86%96%E5%BE%AE%E4%BF%A1198099199%E2%86%97%E9%AB%98%E4%BB%BFCELINE%E5%8C%85%E5%8C%85%E5%93%AA%E9%87%8C%E6%9C%89%E5%8D%96%E2%97%86%E5%BE%AE%E4%BF%A1198099199%E2%97%86goMl&vt=4&cid=76993&node_id=76993",
-      "score": 50,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "gadget",
-      "genre_label_ja": "ガジェット",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "パナソニック、ナノケアに史上最小ドライヤー",
-      "summary_ja": "パナソニックはヘアケアシリーズ「ナノケア」から、シリーズで最も小さいドライヤー「EH-NB70」を11月上旬に発売する。市場想定価格は4万1000円前後で、ストレートアイロン2機種も同時に投入し、ヘアケア領域を強化する。",
-      "source": "WWDJAPAN",
-      "url": "https://www.wwdjapan.com/articles/2517568",
-      "score": 90,
+      "title_ja": "Boseのノイキャンヘッドホン、44％引きに",
+      "summary_ja": "Boseのノイズキャンセリングヘッドホン「QuietComfort SC」が44％引きで販売されています。ほぼ半額で買える値下げです。",
+      "source": "T3",
+      "url": "https://www.t3.com/tech/headphones/boses-incredible-noise-cancelling-headphones-are-now-almost-half-price",
+      "score": 70,
       "commercial_score": 90,
       "product_keywords": [
-        "ナノケア ドライヤー",
-        "EH-NB70",
-        "パナソニック ストレートアイロン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英国で最も使う調理家電はエアフライヤーに",
-      "summary_ja": "英国でいちばん使われている調理家電がエアフライヤーになった。コンロや電子レンジ、オーブンを抜いて首位に立ったという。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40594121/cooking-appliance-microwave-oven-air-fryer/",
-      "score": 85,
-      "commercial_score": 70,
-      "product_keywords": [
-        "エアフライヤー"
+        "Bose QuietComfort",
+        "ノイズキャンセリングヘッドホン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "Lefant、高さ85mmの自動洗浄モップ付きロボ掃除機",
-      "summary_ja": "Lefantの新型ロボット掃除機「M210 OMNI」は、自動で洗えるローラーモップと2万Paのブラシレス吸引を備える。本体は幅280mm・高さ85mmと薄く、紙パック不要の800mlダストボックスを積む。",
-      "source": "Technobezz",
-      "url": "https://www.technobezz.com/news/lefant-m210-omni-roller-mop-robot-vacuum",
-      "score": 80,
-      "commercial_score": 80,
+      "title_ja": "階躍のAIエージェントスマホ「STEPX Neo」13日発表",
+      "summary_ja": "中国の階躍終端が、大規模言語モデルを土台にしたAIエージェント搭載スマホ「STEPX Neo」を10月13日に発表すると明らかにしました。同社にとって初めてのスマホです。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrri4395249.d.html?vt=4&cid=76993&node_id=76993",
+      "score": 70,
+      "commercial_score": 45,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "アップルの折りたたみiPhone、当初は供給が限られる見通し",
+      "summary_ja": "アップル初の折りたたみスマホは生産が難しく、発売当初の供給が限られると伝えられています。米国向けのみになる可能性や、価格設定の難しさも指摘されています。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2454260",
+      "score": 70,
+      "commercial_score": 50,
       "product_keywords": [
-        "Lefant ロボット掃除機",
-        "水拭き ロボット掃除機"
+        "iPhone"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ゲーミングスマホ「REDMAGIC 12 Pro+」が中国で予約開始",
+      "summary_ja": "nubia傘下のREDMAGICが、新型ゲーミングスマホ「12 Pro+」の予約受付を中国の公式サイトで始めました。最新のSnapdragonを搭載し、発表会は10月15日に開かれます。",
+      "source": "デイリーガジェット",
+      "url": "https://daily-gadget.net/smartphone_tablet/121384/",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "REDMAGIC",
+        "ゲーミングスマホ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "MSI、RTX Spark搭載の2in1ノートを発表",
+      "summary_ja": "MSIがNVIDIAの「RTX Spark」を搭載した新しいノートPC「Prestige N16 Flip AI+」を発表しました。ノートとしてもタブレットのようにも使える2in1タイプです。",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/113982/msis-new-prestige-n16-flip-ai-plus-is-a-two-in-one-rtx-spark-laptop/index.html",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "MSI Prestige"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "英Argos、1時間53ペンスで使える暖房器具が話題",
+      "summary_ja": "英Argosが販売する暖房器具が、1時間あたり53ペンスの電気代で部屋を暖められるとして注目されています。セントラルヒーティングに頼らず、寒い日に使えるとしています。",
+      "source": "Daily Record",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/argos-53p-hour-gadget-keeps-37744104",
+      "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "電気ヒーター"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "インテルCore 2000HX、24コアでDDR4に対応",
+      "summary_ja": "インテルのノート向けチップ「Core 2000HX」は、24コアを備えつつDDR4メモリーに引き続き対応します。メモリー価格が上がる中での判断で、2027年のゲーミングノートの価格にも関わりそうです。",
+      "source": "https://tech-insider.org/",
+      "url": "https://tech-insider.org/intel-core-2000hx-ddr4-laptop-strategy-2026/",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ゲーミングノートPC"
       ],
       "country": "us",
       "country_label_ja": "アメリカ",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "Our Place、大型化した「Wonder Oven Pro」",
-      "summary_ja": "調理器具ブランドのOur Placeが、エアフライヤー機能付きオーブン「Wonder Oven」の大型版「Wonder Oven Pro」を発売した。前モデルより大きくなり、スチーム機能で残り物をおいしく温め直せるという。",
-      "source": "T3",
-      "url": "https://www.t3.com/home-living/air-fryers/our-place-launches-new-supersized-wonder-oven-air-fryer-and-its-steam-function-makes-leftovers-taste-better",
-      "score": 80,
-      "commercial_score": 75,
+      "title_ja": "京東の新製品月、スマホケースの売上が前年の3倍超",
+      "summary_ja": "中国の通販大手・京東（JD.com）の新製品キャンペーンで、スマホケースなどの周辺機器が伸び、ケースの新製品の売上が前年同期比220％増となりました。ミラノのファッションウィークでは新機種とケースの組み合わせを見せ、おしゃれ小物としての魅力を打ち出しました。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8x20sclyQ1t",
+      "score": 55,
+      "commercial_score": 70,
       "product_keywords": [
-        "Our Place Wonder Oven",
-        "スチーム ノンフライヤー"
+        "スマホケース"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "gadget",
+      "genre_label_ja": "ガジェット",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ティファール、4合のマイコン炊飯器「ザ・ポップ」",
-      "summary_ja": "ティファールから4合炊きのマイコン式炊飯器「ザ・ポップ」が発売された。かわいらしい見た目に加え、ほったらかし調理にも対応する。執筆時点ではAmazonで割引価格になっている。",
-      "source": "イザ！",
-      "url": "https://www.iza.ne.jp/article/20261006-UDQ4UU5BNVBXVMS7C2NWVGJCTU/?outputType=theme_osusume",
-      "score": 75,
+      "title_ja": "アラジン、部屋干し向け衣類乾燥サーキュレーター発売",
+      "summary_ja": "アラジンがブランド初となるサーキュレーター「ドライサーキュレーター」を発売した。暖房機の開発で培った技術を生かし、1台で3役をこなす衣類乾燥に特化したモデルで、部屋干しの悩みに応えるという。",
+      "source": "神戸新聞",
+      "url": "https://www.kobe-np.co.jp/info/prtimes/202610/c15006_r197.shtml",
+      "score": 85,
       "commercial_score": 85,
       "product_keywords": [
-        "ティファール 炊飯器",
-        "ザ・ポップ 炊飯器"
+        "アラジン サーキュレーター",
+        "衣類乾燥 サーキュレーター"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "kaji",
       "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "Ninja、電子レンジとエアフライヤーの一体機",
-      "summary_ja": "Ninjaの電子レンジとエアフライヤーを兼ねたハイブリッド機を英誌がレビューした。カリッとした仕上がりとキッチンの省スペースにつながる点を確かめている。",
-      "source": "Woman & Home",
-      "url": "https://www.womanandhome.com/homes/kitchen/ninja-crispi-microwave-air-fryer-and-oven-review/",
-      "score": 75,
+      "title_ja": "ティファール70周年、衣類スチーマーなど新製品を発表",
+      "summary_ja": "グループセブ ジャパンがティファール70周年の新商品発表会を開いた。森泉さんが衣類スチーマー「エアロスチームS」を実演したほか、マイコン式炊飯器などもアピールした。",
+      "source": "マイライフニュース",
+      "url": "https://www.mylifenews.net/home-living/130209/",
+      "score": 80,
       "commercial_score": 80,
       "product_keywords": [
-        "Ninja エアフライヤー",
-        "電子レンジ エアフライヤー"
+        "ティファール 衣類スチーマー",
+        "ティファール 炊飯器"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "海爾、独身の日に向け天猫店と実店舗を一体化",
+      "summary_ja": "海爾（Haier）は今年の「双11」に向け、天猫の公式旗艦店を実店舗とつなぐ拠点に格上げした。新製品は店頭で体験でき、ネットと店舗で品ぞろえ・価格・特典をそろえる。",
+      "source": "中国家电网",
+      "url": "https://news.cheaa.com/2026/1008/659609.shtml",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ハイアール 家電"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ニンジャ、英国で縦型ワッフルメーカーを発売",
+      "summary_ja": "ニンジャ（Ninja）が英国で縦置き型のワッフルメーカーを発表した。生地がこぼれにくい構造で四角いベルギーワッフルが焼け、焼き色は5段階で調整できる。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/small-appliances/ive-seen-vertical-waffle-irons-before-but-ninjas-new-mess-free-design-is-the-first-to-make-authentic-square-belgian-waffles",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ワッフルメーカー",
+        "ニンジャ キッチン家電"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "kaji",
       "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "タイガーの土鍋ごはん体験、今週末は東京で",
-      "summary_ja": "タイガー魔法瓶は土鍋炊飯器の20周年企画として、全国7都市を巡る「幻の土鍋料亭 タイガー」を開いている。料亭のような空間で炊きたての土鍋ごはんを味わえる催しで、初回の仙台会場には2日間で930人が訪れた。",
-      "source": "毎日キレイ",
-      "url": "https://mainichikirei.jp/prtimes/article/20261005prt00m100000595a.html",
+      "title_ja": "拼多多と美的、地方向け家電の買い替え週間",
+      "summary_ja": "拼多多（Pinduoduo）が美的（Midea）と組み、「家電下郷焕新周」を始めた。専用商品は年平均で1000万人の新たな購入者を集めているという。",
+      "source": "中国经济网",
+      "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202610/t20261008_3249557.shtml",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "美的 家電"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "タイガー、土鍋ごはんの日に全国25店とコラボ",
+      "summary_ja": "タイガー魔法瓶は10月7日の「土鍋ごはんの日」に合わせ、全国25の飲食名店とのコラボを行う。同社は2006年に本物の土鍋を内なべに使った炊飯器を業界で初めて発売し、今年で20周年を迎える。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/kaden_watch/trend/kaden_watch-2146430",
       "score": 70,
       "commercial_score": 65,
       "product_keywords": [
@@ -1242,224 +1188,253 @@
       "country_label_ja": "日本",
       "genre": "kaji",
       "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "Narwal「Freo 20」がプライムデーで250ドル引き",
-      "summary_ja": "米アマゾンのプライムデーで、Narwalのロボット掃除機「Freo 20」が250ドル値引きされている。強い吸引力が売りで、ロボット掃除機を探している人に向く買い時だとCNETは伝える。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/narwal-freo-20-robot-vacuum-and-mop-deal/",
-      "score": 70,
-      "commercial_score": 85,
+      "title_ja": "ニンジャのガラス製エアフライヤーが今年最安に",
+      "summary_ja": "話題のニンジャのガラス製エアフライヤー「Crispi」が、10月のプライムデーで今年の最安値になった。ニューヨーク・ポストが実際に試したうえで紹介している。",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/07/shopping/shop-the-ninja-crispis-best-price-of-the-year-during-prime-day/",
+      "score": 65,
+      "commercial_score": 80,
       "product_keywords": [
-        "Narwal ロボット掃除機",
-        "Narwal Freo"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "南昌で消費券、家電店の客足と売上が伸びる",
-      "summary_ja": "中国・南昌市が700万元分の消費券を配り、家電量販店の客足と売上がともに伸びた。京東（JD）の店舗では、スマートフォンとロボット掃除機が最も売れ、問い合わせも多いという。",
-      "source": "凤凰网",
-      "url": "https://jx.ifeng.com/c/8wz855p0lkF",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ロボット掃除機"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "Typhur「Dome 2」、自動洗浄で煙探知機が反応",
-      "summary_ja": "デザイン性の高いエアフライヤー「Typhur Dome 2」を英誌が試した。見た目も中身も工夫されている一方、自動クリーニング機能を使ったところ煙探知機が鳴ったという。",
-      "source": "Expert Reviews",
-      "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/air-fryers/typhur-dome-2-air-fryer-review",
-      "score": 60,
-      "commercial_score": 65,
-      "product_keywords": [
-        "Typhur エアフライヤー"
+        "ニンジャ エアフライヤー",
+        "ガラス エアフライヤー"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "kaji",
       "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "広州、補助拡大と新製品で家電消費が活発に",
-      "summary_ja": "中国・広州市で、補助の対象拡大と新製品の相次ぐ投入により、家電やデジタル製品の消費が活発になっている。",
-      "source": "广州市人民政府",
-      "url": "https://www.gz.gov.cn/ysgz/xwdt/ysdt/content/post_11030080.html",
+      "title_ja": "美的、北米で冷蔵庫・洗濯機の生産能力倍増へ",
+      "summary_ja": "美的（Midea）の北米での合弁会社3社が動き出した。冷蔵庫と洗濯機の生産能力を倍に増やす目標を掲げている。",
+      "source": "亿邦动力",
+      "url": "https://www.ebrun.com/20261008/712852.shtml",
+      "score": 65,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "サーモスの食洗機対応スープジャーに好評の声",
+      "summary_ja": "サーモスの「真空断熱スープジャー JED-400」は本体もフタも食洗機で洗えるのが特長。お弁当に温かいスープを添えつつ洗い物の手間を抑えたい人に支持されている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/50cb591245e3284b1fc99cccfdb914151ccea8e1",
       "score": 60,
+      "commercial_score": 80,
+      "product_keywords": [
+        "サーモス スープジャー JED-400"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "韓国のロボット掃除機市場、国産勢が中国勢に迫る",
+      "summary_ja": "中国ブランドが中心だった韓国国内のロボット掃除機市場で、韓国ブランドのシェアが急速に伸びている。中国勢に対して韓国勢が存在感を高めつつある。",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278423",
+      "score": 60,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ロボット掃除機"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "省スペースなエアフライヤー「Ninja Flip」が4割引",
+      "summary_ja": "ニンジャのエアフライヤー「Ninja Flip」が10月のプライムデーで40％オフになった。かさばりがちなエアフライヤーの中で、場所を取らない設計が注目されている。",
+      "source": "Yahoo",
+      "url": "https://shopping.yahoo.com/deals/article/the-ninja-flip-is-a-total-game-changer-of-an-air-fryer-and-40-off-for-october-prime-day-191058878.html",
+      "score": 60,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ニンジャ エアフライヤー",
+        "オーブントースター エアフライヤー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "女性起業家の空気清浄機、米国で売上首位に",
+      "summary_ja": "修士号を持つ女性が手がけた空気清浄機がヒットし、年間の売上は29億に達した。米国で首位に立ったと紹介されている。",
+      "source": "电商派",
+      "url": "https://www.pai.com.cn/p/01m4cq136bxd0wseev5y2xkn31",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "空気清浄機"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "冷蔵庫選びは「省スペース」と「鮮度保持」が鍵に",
+      "summary_ja": "調理家電＆調理雑貨大賞2026で、冷蔵庫選びのキーワードとして省スペースと鮮度維持が挙げられた。スリム型や大容量の冷凍室、野菜を長く新鮮に保つ機能など、暮らし方に合わせた進化が進んでいる。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/goodspress_749153/",
+      "score": 55,
+      "commercial_score": 70,
+      "product_keywords": [
+        "冷蔵庫 スリム",
+        "冷蔵庫 大容量冷凍室"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "kaji",
+      "genre_label_ja": "時短家電・家事",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "陝西省銅川市、家電などの買い替え補助を開始",
+      "summary_ja": "銅川市は2026年の消費財買い替え補助で、市独自の対象品目への支援を9月29日に始めた。期間は12月31日まで。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-08/detail-iniumytr4548805.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 50,
       "commercial_score": 45,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "kaji",
       "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "MOVA、AIロボット芝刈り機を農業WEEKで実演",
-      "summary_ja": "スマートライフブランド「MOVA」を展開するスペースウォーカーテクノロジージャパンが、農業WEEK2026でAI搭載のロボット芝刈り機の実演デモを行う。",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/response_417471/",
-      "score": 55,
-      "commercial_score": 50,
+      "title_ja": "水の動きを眺められるスチーム式加湿器が登場",
+      "summary_ja": "インテリアとしても楽しめる、水の動きが見えるスチーム式加湿器が紹介された。発売元は公式Instagramでフォロー&プレゼントキャンペーンを行っている。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/441/4441205/",
+      "score": 45,
+      "commercial_score": 65,
       "product_keywords": [
-        "ロボット芝刈り機"
+        "スチーム式加湿器"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "kaji",
       "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "エアフライヤーが英国の台所を変えつつある",
-      "summary_ja": "英国の調査で、エアフライヤーが壊れたらすぐ買い替えるという人や、バスケットに合わせて献立を考える人がいることが分かった。オーブンを使う機会が減るなど、家庭の台所にすっかり根付いている様子がうかがえる。",
-      "source": "NationalWorld",
-      "url": "https://www.nationalworld.com/business/consumer/air-fryer-air-fryer-survey-cooking-appliances-appliance-running-costs-utilita-power-price-list-9267172",
-      "score": 55,
-      "commercial_score": 55,
+      "title_ja": "ディオールが26年クリスマスコフレ、香水入りオルゴールも",
+      "summary_ja": "ディオールの2026年クリスマスコフレとして、限定オルゴール「ジャドール ミュージック ボックス」が登場する。10月14日から一部店舗・数量限定で先行発売され、16日から展開が広がる。",
+      "source": "ファッションプレス",
+      "url": "https://www.fashion-press.net/news/151823",
+      "score": 85,
+      "commercial_score": 85,
       "product_keywords": [
-        "エアフライヤー"
+        "ディオール クリスマスコフレ",
+        "ジャドール"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "kaji",
-      "genre_label_ja": "時短家電・家事",
-      "date": "2026-10-07"
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ダイソーとTGCのコラボコスメに110円のリップグロス",
-      "summary_ja": "ダイソーと東京ガールズコレクション（TGC）のコラボコスメが9月19日から順次発売されています。記事では110円の新作リップグロスを実際に購入して使った感想を紹介しています。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/ftnews/trend/ftnews-ad49921a69cb7c0b10929af5220e035f9a60495f",
+      "title_ja": "SK-Ⅱが限定コフレを10月20日に発売",
+      "summary_ja": "SK-Ⅱが定番アイテムをそろえた限定コフレを10月20日に発売する。冬のスキンケア向けのホリデー限定セットとなる。",
+      "source": "CanCam.jp",
+      "url": "https://cancam.jp/archives/1764354",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "ダイソー TGC リップグロス"
+        "SK-II コフレ",
+        "SK-II 限定"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "e.l.f.が香水とボディケアに参入、新ライン「e.l.f. POP」",
-      "summary_ja": "米コスメブランドのe.l.f.が新ライン「e.l.f. POP」で香水とボディケアの分野に進出します。第1弾として、ノルウェーのトロムソに着想を得たホリデー限定コレクションを出します。",
-      "source": "e.l.f. Beauty",
-      "url": "https://www.elfbeauty.com/articles/e-l-f-expands-into-fragrance-and-body-care-categories-with-launch-of-e-l-f-pop-debuting-limited-edition-holiday-spicy-bundt-nice-collection-inspired-by-tromso-norway",
+      "title_ja": "日本の免税制度が11月から変更、旅行者向けに解説",
+      "summary_ja": "日本では2026年11月1日から免税の仕組みが変わり、買い物時はいったん税込みで支払い、出国時の確認後に払い戻す方式になる。同じ購入記録の中で一品でも持ち出さないと、ほかの商品も還付を受けられない場合があると中国語メディアが注意を促している。",
+      "source": "世界新聞網",
+      "url": "https://www.worldjournal.com/wj/story/121617/9800948?from=wj_breaknews_index&zh-cn",
       "score": 80,
-      "commercial_score": 70,
-      "product_keywords": [
-        "e.l.f. コスメ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "バーバリー ビューティ、ホリデー限定コレクションを11月4日発売",
-      "summary_ja": "バーバリー ビューティが11月4日、数量限定の「フェスティブ コレクション」を発売します。限定色のアイシャドウパレットとブラッシュに加え、フレグランスのホリデー限定ギフトセット3種もそろえます。",
-      "source": "WWDJAPAN",
-      "url": "https://www.wwdjapan.com/articles/2518034",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "バーバリー ビューティ アイシャドウ",
-        "バーバリー 香水 ギフトセット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ラネージュ、BTSのジンと組んだ初のアイパッチ",
-      "summary_ja": "ラネージュ（LANEIGE）がBTSのジンを迎えたコレクションで、ブランド初のアイパッチを発売しました。同じコレクションの他の商品は、Amazonのセールで最大30%引きになっています。",
-      "source": "E! News",
-      "url": "https://www.eonline.com/news/1436752/jin-from-bts-is-the-face-of-laneige-bouncy-firm-eye-patches",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ラネージュ アイパッチ",
-        "LANEIGE"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "LOOKFANTASTICが初の韓国コスメのアドベントカレンダー",
-      "summary_ja": "英通販のLOOKFANTASTICが、初めての韓国コスメのアドベントカレンダーを出しました。12の扉にラネージュ、Anua、メディキューブなどの13品が入っています。",
-      "source": "365 Retail",
-      "url": "https://365retail.co.uk/lookfantastic-launches-first-k-beauty-advent-calendar/",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "韓国コスメ アドベントカレンダー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "COSRXが中国で実店舗の販路を広げる",
-      "summary_ja": "韓国のスキンケアブランドCOSRXが杭州で発表会を開き、中国の実店舗への展開を速めると打ち出しました。人気の拭き取りパッドなどを軸に、大手コスメチェーンを含む各地の店に入る計画です。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1084533374_104421",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "COSRX"
-      ],
+      "commercial_score": 55,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "クレ・ド・ポー ボーテが26年クリスマスコスメを発表",
-      "summary_ja": "クレ・ド・ポー ボーテの2026年クリスマスコスメは、流れ星をイメージした4色アイパレットやリップなどです。10月14日に阪急うめだ本店などで先行発売し、10月21日に全国で発売されます。",
+      "title_ja": "ケイトが「NANA」とコラボ、限定マスカラを発売",
+      "summary_ja": "ケイトが矢沢あいの漫画「NANA」とコラボした冬の限定マスカラ「ケイト ラッシュバースト(NA)」を出す。主人公のナナとハチから着想したデザインで、10月24日から数量限定で発売される。",
       "source": "ファッションプレス",
-      "url": "https://www.fashion-press.net/news/150345",
-      "score": 70,
+      "url": "https://www.fashion-press.net/news/151810",
+      "score": 78,
       "commercial_score": 80,
       "product_keywords": [
-        "クレドポーボーテ クリスマスコフレ 2026",
-        "クレドポー アイパレット"
+        "ケイト ラッシュバースト",
+        "ケイト マスカラ"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "メアリーケイ、韓国製スキンケアを40の市場で限定発売",
-      "summary_ja": "米化粧品のメアリーケイが限定コレクション「K-Beauty Texture Edit」を40の市場で発売しました。韓国で作った3つのスキンケア製品で、若い層を狙います。",
-      "source": "Global Cosmetics News",
-      "url": "https://www.globalcosmeticsnews.com/mary-kay-launches-k-beauty-skincare-collection-across-40-markets/",
-      "score": 70,
-      "commercial_score": 55,
+      "title_ja": "マーク ジェイコブス ビューティーが5年ぶりに復活",
+      "summary_ja": "マーク ジェイコブスのコスメが5年ぶりに戻り、遊び心のあるメイクコレクションを出した。英紙が新作を試し、おすすめの品を紹介している。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/extras/indybest/fashion-beauty/make-up/best-marc-jacobs-beauty-products-b3061590.html",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "マークジェイコブス コスメ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ゲランのクリスマスコフレ、デザイナーとの協業メイクも",
+      "summary_ja": "ゲランの2026年クリスマスコフレに、ファッションデザイナーのケヴィン・ジェルマニエ氏と組んだメイクコレクションが登場する。新作フレグランス「ルール ブルー」など代表的な香りを楽しめるコフレもあり、10月15日に全国発売。",
+      "source": "VOCE",
+      "url": "https://i-voce.jp/feed/5183629/",
+      "score": 72,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ゲラン クリスマスコフレ",
+        "ゲラン ルール ブルー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "メアリーケイが韓国製スキンケア3品の限定コレクション",
+      "summary_ja": "米化粧品大手メアリーケイが、韓国のスキンケアの流行に着想した限定コレクション「K-Beauty Texture Edit」を発表した。韓国で作られた3つの製品で構成し、若い世代の関心を狙う。",
+      "source": "Direct Selling News",
+      "url": "https://www.directsellingnews.com/2026/10/07/mary-kay-launches-k-beauty-texture-edit/",
+      "score": 72,
+      "commercial_score": 60,
       "product_keywords": [
         "メアリーケイ"
       ],
@@ -1467,1406 +1442,1499 @@
       "country_label_ja": "アメリカ",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "メディキューブの人気スキンケアがAmazonで半額",
-      "summary_ja": "手頃な価格の韓国コスメで人気のメディキューブの製品が、英国のAmazonプライムデーで半額になっています。",
-      "source": "London Evening Standard",
-      "url": "https://www.standard.co.uk/shopping/esbest/amazon-prime-day/best-medicube-amazon-prime-day-deals-b1299670.html",
+      "title_ja": "イソップがハンドバーム3種のホリデー限定キット",
+      "summary_ja": "イソップが、3種類の香りのハンドバームを詰め合わせたホリデー限定キットを出す。10月26日に先行発売し、30日から全国で販売する。",
+      "source": "VOCE",
+      "url": "https://i-voce.jp/feed/5196590/",
       "score": 70,
       "commercial_score": 80,
       "product_keywords": [
-        "メディキューブ"
+        "イソップ ハンドバーム",
+        "イソップ キット"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
+      "country": "jp",
+      "country_label_ja": "日本",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "独身の日セールが始まり、ライブ配信で美容品の値引き",
-      "summary_ja": "中国の「双11（独身の日）」セールが始まり、淘宝（タオバオ）のライブ配信ではエスティローダーやドゥ・ラ・メール、OLAYなどの美容品の値引きを予告しています。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1084459754_121119501",
+      "title_ja": "センサイが高級ヘアケアに再参入、5製品を投入",
+      "summary_ja": "美容ブランドの「センサイ（SENSAI）」が、5製品のラインアップでプレミアムヘアケア分野に戻る。スキンケアで培った知見を新たな分野に広げる狙い。",
+      "source": "TRBusiness",
+      "url": "https://www.trbusiness.com/regional-news/international/sensai-returns-to-premium-haircare-with-five-product-launch/284197",
       "score": 70,
       "commercial_score": 65,
       "product_keywords": [
-        "エスティローダー",
-        "ドゥラメール"
+        "SENSAI",
+        "センサイ ヘアケア"
       ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "フェンティ・ビューティのギフトセットがBootsで人気",
-      "summary_ja": "英ドラッグストアのBootsで、フェンティ・ビューティのホリデー向けギフトセット「Star Gift」が売れています。価格は33ポンドで、中身の価値は79ポンド相当とされます。",
-      "source": "Manchester Evening News",
-      "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/boots-shoppers-rush-buy-glitzy-34720051.amp",
-      "score": 65,
-      "commercial_score": 70,
-      "product_keywords": [
-        "フェンティビューティ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ハーパー・ベッカムのスキンケアにヴィクトリアが出資",
-      "summary_ja": "ヴィクトリア・ベッカムが、娘ハーパーが立ち上げるスキンケアブランド「Harlo by Harper」に300万ドル超を出資していたことが届出書類からわかりました。",
-      "source": "WWD",
-      "url": "https://wwd.com/beauty-industry-news/skin-care/victoria-beckham-harper-beckham-skin-care-brand-harlo-1239315318/",
-      "score": 60,
-      "commercial_score": 30,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "CPBのクリスマス用カウントダウンカレンダーが香港で先行発売",
-      "summary_ja": "香港の美容ニュースで、クレ・ド・ポー ボーテのクリスマス向けカウントダウンカレンダーが香港で先に発売されたと伝えています。10月の美容のキーワードは保湿とバリアケアだとしています。",
-      "source": "香港01",
-      "url": "https://global.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%90/60396581/10%E6%9C%88%E7%BE%8E%E5%A6%86%E5%BF%AB%E8%AE%AF-%E8%81%9A%E7%84%A6%E7%A7%8B%E6%97%A5%E6%8A%A4%E8%82%A4%E5%BD%A9%E5%A6%86-cpb%E5%9C%A3%E8%AF%9E%E5%80%92%E6%95%B0%E6%9C%88%E5%8E%86%E9%A6%99%E6%B8%AF%E7%8E%87%E5%85%88%E5%8F%91%E5%94%AE",
-      "score": 60,
-      "commercial_score": 65,
+      "title_ja": "メディキューブがメキシコの高級百貨店に常設店",
+      "summary_ja": "韓国コスメのメディキューブが、メキシコの高級百貨店「パラシオ・デ・イエロ」に常設店を開く。現地の大型小売店で販路を広げてきたなかで、百貨店への出店は初めて。",
+      "source": "亚洲日报",
+      "url": "https://www.ajudaily.com/view/20261007170870704",
+      "score": 70,
+      "commercial_score": 60,
       "product_keywords": [
-        "クレドポーボーテ アドベントカレンダー"
+        "メディキューブ"
       ],
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "Pinterestが美容のAIガイドを公開",
-      "summary_ja": "Pinterestが、気に入った画像をもとにサロンで伝える内容をまとめるAI機能「BeautyGuides」を始めました。最初は髪型、髪色、爪の形、ネイルデザインの4つに対応します。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1084596292_122094388",
+      "title_ja": "G-DRAGONのブランドがコスメに進出へ",
+      "summary_ja": "G-DRAGON（クォン・ジヨン）のブランド「ピースマイナスワン」が韓国企業グッダイと組み、コスメブランドを立ち上げる。2027年に韓国で発売し、海外展開も視野に入れる。",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-retail/2026/10/08/HO57VQRSI5D5LD36LH63TUSDJM/",
+      "score": 68,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ピースマイナスワン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "韓国AMUSEが姉妹ブランド「RAWDEW」を開始",
+      "summary_ja": "韓国コスメのAMUSE（アミューズ）が初の姉妹ブランド「RAWDEW」を立ち上げた。日常で手軽に使える実用的な製品に、遊び心を加えた品ぞろえを目指す。",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/cn/business/12171178",
+      "score": 68,
+      "commercial_score": 60,
+      "product_keywords": [
+        "AMUSE コスメ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "スーパードラッグが英国最大の店舗を開業",
+      "summary_ja": "英ドラッグストアチェーンのスーパードラッグが、ウェスト・ミッドランズのメリーヒルにある店舗を改装・拡張し、英国最大の店として再開した。",
+      "source": "Trending Now Infrastructure",
+      "url": "https://www.infrastructure-now.co.uk/article/493970/superdrug-unveils-largest-uk-store-following-major-merry-hill-expansion",
+      "score": 65,
+      "commercial_score": 45,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "仏イナースキンがロンドンに初の海外クリニック",
+      "summary_ja": "フランスのスキンケア・美容施術ブランドのイナースキンが、フランス国外で初となるクリニックをロンドンのノッティングヒルに開いた。",
+      "source": "TheIndustry.beauty",
+      "url": "https://theindustry.beauty/innerskin-opens-first-international-skin-clinic-in-notting-hill/",
+      "score": 62,
+      "commercial_score": 35,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "コーチがチェリーモチーフの新作香水を発売",
+      "summary_ja": "コーチから、ブランドを象徴するチェリーのモチーフをあしらった新作香水「コーチ チェリー パルファム」が登場した。レトロで遊び心のあるデザインが特徴だ。",
+      "source": "美ST ONLINE",
+      "url": "https://be-story.jp/prtimes/290593/",
       "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "コーチ 香水",
+        "コーチ チェリー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ヴィクトリア・ベッカムが娘の美容ブランドに出資",
+      "summary_ja": "ヴィクトリア・ベッカムが、娘ハーパーさんの美容ブランド「Harlo」に300万ドル超を出資した。商標の出願内容から、扱う商品の範囲も見えてきている。",
+      "source": "TheIndustry.beauty",
+      "url": "https://theindustry.beauty/victoria-beckham-harlo-beauty-investment/",
+      "score": 60,
+      "commercial_score": 35,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ロッテ百貨店がロサンゼルスで韓国コスメの期間限定店",
+      "summary_ja": "韓国のロッテ百貨店が、ロサンゼルスの韓国文化院で韓国コスメとファッションのポップアップストアを開く。韓国の新興ブランドの海外進出を後押しする狙いだ。",
+      "source": "아시아경제",
+      "url": "https://view.asiae.co.kr/cn/article/2026100716455393657",
+      "score": 60,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ローラ・ゲラーが香水分野に参入",
+      "summary_ja": "米コスメブランドのローラ・ゲラー・ビューティーが、フレグランスの分野に参入した。香りの商品にも品ぞろえを広げる。",
+      "source": "Beauty Packaging",
+      "url": "https://www.beautypackaging.com/breaking-news/laura-geller-beauty-enters-fragrance/",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ローラゲラー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "英誌スタイリストのアドベントカレンダーが登場",
+      "summary_ja": "英誌スタイリストとLatest in Beautyのアドベントカレンダーが発売された。ドランクエレファントやジスー、リチュアルズなどの製品が入っている。",
+      "source": "Stylist UK",
+      "url": "https://www.stylist.co.uk/beauty/stylist-latest-in-beauty-advent-calendar-2026/1117663",
+      "score": 55,
+      "commercial_score": 65,
+      "product_keywords": [
+        "コスメ アドベントカレンダー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "中国でコスメのミニサイズ専門売り場に変化",
+      "summary_ja": "中国でコスメのサンプルサイズを売る独立した小売の形が広がったが、伸びしろには限りが見え始めているという。業界では、販売よりも新規客の獲得に生かす使い方に可能性があるとみられている。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084870168_163278",
+      "score": 55,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "SHEGLAMが「フレンズ」テーマのコレクション",
+      "summary_ja": "コスメブランドのSHEGLAMが、ドラマ「フレンズ」をテーマにしたコレクションを発表した。",
+      "source": "Beauty Packaging",
+      "url": "https://www.beautypackaging.com/breaking-news/sheglam-debuts-friends-themed-collection/",
+      "score": 50,
+      "commercial_score": 55,
+      "product_keywords": [
+        "SHEGLAM"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "beauty",
+      "genre_label_ja": "美容・コスメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "エスティローダーが中国輸入博の出展テーマを発表",
+      "summary_ja": "エスティローダー グループが、第9回中国国際輸入博覧会への出展テーマを発表した。CEOが初めて出席する予定だ。",
+      "source": "欢迎访问ConCall",
+      "url": "https://cn.concall.com/article/detail/article_id/6193",
+      "score": 50,
       "commercial_score": 35,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "beauty",
       "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "スキンケアのASUNEが原宿で7日間のポップアップ",
-      "summary_ja": "スキンケアブランドASUNE（アスネ）のポップアップストアが、10月16日から22日まで原宿に出店します。会場では新作のリップとミストを先行販売します。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/cocotte/trend/cocotte-634335?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-      "score": 55,
-      "commercial_score": 65,
+      "title_ja": "マクドナルド、定番メニューにチキン新商品を10月21日投入",
+      "summary_ja": "マクドナルドが10月21日から、レギュラーメニューとしてチキンを使った新商品を売り出す。バーガー3種とサイドメニュー1種の計4品がそろう。",
+      "source": "オリコンニュース",
+      "url": "https://www.oricon.co.jp/news/2485161/full/",
+      "score": 90,
+      "commercial_score": 60,
       "product_keywords": [
-        "ASUNE アスネ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "資生堂中国の研究が国際化粧品科学会議で賞",
-      "summary_ja": "第36回の国際化粧品技術者会連盟（IFSCC）の大会で、資生堂中国の研究開発センターの成果が評価されました。研究は肌の老化や敏感肌などをテーマにしています。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1084448107_380891",
-      "score": 55,
-      "commercial_score": 30,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "シャネルがルチア・ピエローニをメイクの責任者に",
-      "summary_ja": "シャネルが、メイクアップアーティストのルチア・ピエローニをメイクアップのクリエイティブディレクターに任命しました。",
-      "source": "时尚商业网",
-      "url": "https://www.fashionnetwork.cn/share/6381.html",
-      "score": 55,
-      "commercial_score": 30,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "LoNLyのジュレティントに秋の新色2色",
-      "summary_ja": "日韓コスメブランドLoNLyのリップ「キャンドルライトジュレティント」に秋の新色が出ました。ヌードベージュとピンクベージュの2色です。",
-      "source": "LASISA",
-      "url": "https://lasisa.net/post/163092",
-      "score": 50,
-      "commercial_score": 70,
-      "product_keywords": [
-        "LoNLy キャンドルライトジュレティント"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "パリス・ヒルトンが新しい香水「Iconic Queen」",
-      "summary_ja": "パリス・ヒルトンが新しいフレグランス「Iconic Queen」を発表しました。",
-      "source": "Beauty Packaging",
-      "url": "https://www.beautypackaging.com/breaking-news/paris-hilton-debuts-iconic-queen-fragrance/",
-      "score": 50,
-      "commercial_score": 55,
-      "product_keywords": [
-        "パリスヒルトン 香水"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "プロフェッショナル・ビューティ・ロンドンに約2万2千人",
-      "summary_ja": "美容の業界見本市「Professional Beauty London 2026」がロンドンのExcelで2日間開かれ、22,378人が訪れました。新しい技術や教育、商談の場になりました。",
-      "source": "Professional Beauty",
-      "url": "https://professionalbeauty.co.uk/professional-beauty-london-2026-highlights",
-      "score": 50,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "Ciroaがバニラがテーマの1日限定ポップアップ",
-      "summary_ja": "ボディケアのCiroaが、ロンドン・ソーホーのカフェEL&Nでバニラがテーマのポップアップを1日だけ開きます。ラテかケーキを買った先着100人に、ボディケア製品の現品を贈ります。",
-      "source": "TheIndustry.beauty",
-      "url": "https://theindustry.beauty/ciroa-eln-vanilla-soho-popup/",
-      "score": 45,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "beauty",
-      "genre_label_ja": "美容・コスメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ファミチキ発売20周年、大人向けの限定3種を順次発売",
-      "summary_ja": "ファミリーマートが「ファミチキ」の発売20周年を記念し、「オトナ★ファミチキ」をコンセプトにした限定商品3種を順次発売する。新しい味で支持を広げる狙い。「おうちでファミチキセット」も再販される。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/a17d61ded95240625ff41020403b8c0b61b35889",
-      "score": 85,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ファミチキ",
-        "フライドチキン 冷凍"
+        "マクドナルド",
+        "チキンバーガー"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "food",
       "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "米スタバのホリデーメニュー、ティラミスなど新作",
-      "summary_ja": "米スターバックスのホリデーメニューが11月5日に登場する。ティラミスやザクロのドリンクが加わり、新しいフード3品も用意。ペパーミントモカなどの定番も戻ってくる。",
-      "source": "qz.com",
-      "url": "https://qz.com/starbucks-2026-holiday-menu-tiramisu-pomegranate-100626",
-      "score": 85,
-      "commercial_score": 55,
-      "product_keywords": [
-        "スターバックス",
-        "ペパーミントモカ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "セブンの中華まんに明太子・もち・チーズの新作",
-      "summary_ja": "セブン‐イレブンが10月6日から、新しい中華まん「明太もちゅチーズまん」を全国で順次発売している。明太子ともち、チーズを3層に重ねた仕立てで、価格は190.08円。",
+      "title_ja": "キリン「生茶 熟成」発売、寝かせ仕込みの茶葉を使用",
+      "summary_ja": "キリンビバレッジは寝かせて仕込んだ茶葉による「キリン 生茶 熟成」を10月13日に全国で発売する。希望小売価格は238円。同じ日に「ほうじ煎茶」の刷新と「カフェインフリー」の新発売も行う。",
       "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/article/20261006-5083025/",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "中華まん",
-        "明太もちチーズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "米ダンキン、「アベンジャーズ」新作と組んだ限定メニュー",
-      "summary_ja": "米ダンキンが11月4日から、映画「アベンジャーズ／ドゥームズデイ」とのコラボで、キャラクターをイメージしたドリンクやドーナツ、限定グッズを全米の参加店で売り出す。11月初めにはさらに発表があるという。",
-      "source": "Dunkin' Donuts",
-      "url": "https://news.dunkindonuts.com/news/dunkin-and-marvel-studios-avengers-doomsday-team-up-2026",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "アベンジャーズ グッズ",
-        "ダンキンドーナツ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英人気シェフのリック・スタイン、ウェイトローズと提携",
-      "summary_ja": "英国の有名シェフ、リック・スタインが英スーパーのウェイトローズと独占契約を結び、新たな提携を始める。",
-      "source": "Oxford Mail",
-      "url": "https://www.oxfordmail.co.uk/news/26612681.rick-stein-signs-exclusive-deal-uk-supermarket-chain/",
-      "score": 75,
-      "commercial_score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "Uber、企業向け食事手配のezCaterを23億ドルで買収",
-      "summary_ja": "Uberが米国で会議や社員の食事などを手配するezCaterを23億ドルの現金で買収すると発表した。ezCaterは14万を超える飲食店とつながる。Uber Eatsなどと組み合わせ、単価の高い団体注文を広げる狙い。",
-      "source": "FX168财经",
-      "url": "https://www.fx168news.com/article/Uber-1099879",
-      "score": 75,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ヤッホーのセブン限定ビール、白ブドウが香る新作",
-      "summary_ja": "セブン‐イレブンが10月13日から、ヤッホーブルーイングのクラフトビール「限定改造 有頂天エイリアンズ New World Hop」を順次発売する。白ブドウのような香りが特徴の新作。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/440/4440423/",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ヤッホーブルーイング",
-        "クラフトビール"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英モリソンズ、生鮮・冷凍食品をロッカーで受け取り可能に",
-      "summary_ja": "英スーパーのモリソンズで、注文した生鮮食品や冷凍食品をロッカーで受け取れるようになった。英国のスーパーでは初の取り組みで、受け取りの行列を避けられる。",
-      "source": "GB News",
-      "url": "https://www.gbnews.com/lifestyle/food/morrisons-click-and-collect-groceries-supermarket-first",
-      "score": 70,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "サンマルクカフェ、生バナナ入りの新作チョコクロ",
-      "summary_ja": "サンマルクカフェが10月9日、「プレミアムチョコクロ生バナナ&カスタード」を一部店舗を除く全国の店で期間限定で売り出す。カスタード風味のチョコと生バナナを組み合わせた新作で、価格は340円。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_705621/",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "チョコクロ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "米ポーティロズ、オレオのデザート3品を全米で発売",
-      "summary_ja": "米ホットドッグチェーンのポーティロズがオレオと組み、期間限定のデザート3品を全米で売り出した。オレオのシェイクとケーキ、ケーキを混ぜたシェイクがそろう。",
-      "source": "CW33.com",
-      "url": "https://cw33.com/a-taste-of-north-texas/food-and-drink/portillos-debuts-new-oreo-desserts-nationwide/amp/",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "オレオ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英ピザエクスプレス、温かい持ち帰り商品を開始",
-      "summary_ja": "英ピザエクスプレスが、温かい料理を持ち帰りで売る新しい商品群を始めた。まずテーマパーク「ソープパーク」の夜のイベントで、1人用の手のばしピザなどを出す。店の味をより多くの場所に届ける計画の一環。",
-      "source": "restaurantonline.co.uk",
-      "url": "https://www.restaurantonline.co.uk/Article/2026/10/06/pizza-express-launches-hot-food-to-go-range/",
-      "score": 60,
-      "commercial_score": 45,
-      "product_keywords": [
-        "冷凍ピザ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "鎌倉山、和牛モモのローストビーフ2本セットを発売",
-      "summary_ja": "ローストビーフの店 鎌倉山が今秋、「和牛モモ ローストビーフ ツインパック 400g」を発売した。200gのかたまりが2本入りで、価格は送料込み1万2960円。",
-      "source": "RBB TODAY",
-      "url": "https://www.rbbtoday.com/article/2026/10/06/254059.html",
-      "score": 55,
-      "commercial_score": 85,
-      "product_keywords": [
-        "鎌倉山 ローストビーフ",
-        "和牛 ローストビーフ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "米マクドナルドで「モノポリー」キャンペーンが復活",
-      "summary_ja": "米マクドナルドで、ボードゲーム「モノポリー」を使ったキャンペーンが再び始まった。USA Todayが遊び方を紹介している。",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/money/food/2026/10/06/monopoly-game-back-mcdonalds/92104544007/",
-      "score": 55,
-      "commercial_score": 40,
-      "product_keywords": [
-        "モノポリー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英スーパーの8割、オーガニック食品の品ぞろえを縮小",
-      "summary_ja": "英国のスーパーの8割がオーガニック食品の品ぞろえを減らしたと業界誌が伝えた。売り場に並ぶ食品のうちオーガニックは5.4%にとどまる。",
-      "source": "The Grocer",
-      "url": "https://www.thegrocer.co.uk/news/80-of-supermarkets-cut-organic-food-ranges/724450.article",
-      "score": 55,
-      "commercial_score": 45,
-      "product_keywords": [
-        "オーガニック 食品"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ケーキをラスクにした「2Snack」新作3種",
-      "summary_ja": "フードブランド「2foods」が、罪悪感なく楽しめるスナック「2Snack」から新しいタイプの「2Snack CAKE RUSK」3種を発売した。ケーキをそのままラスクにした、ご褒美向けのお菓子。",
-      "source": "マイナビウーマン",
-      "url": "https://woman.mynavi.jp/article/261006-2_1160320-3/",
-      "score": 50,
-      "commercial_score": 75,
-      "product_keywords": [
-        "2foods",
-        "ケーキラスク"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "シェイクシャック、ロンドン・パディントン駅横に出店へ",
-      "summary_ja": "シェイクシャックが今冬、ロンドンのパディントン駅そばに英国22店目を開く。通勤客や観光客、近隣住民を見込む。開店日はまだ決まっていない。",
-      "source": "The Upcoming",
-      "url": "https://www.theupcoming.co.uk/2026/10/06/shake-shack-to-open-22nd-uk-restaurant-beside-paddington-station-this-winter/",
-      "score": 50,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "上海のテニス大会、選手用レストランの料理と厨房",
-      "summary_ja": "上海で10月5日に始まったテニスの上海マスターズ予選に合わせ、会場の選手用レストランが動き出した。パプリカと豚肉の炒め物や小籠包、海鮮焼売、牛ヒレのローストなどが並ぶ。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/2026-10-06/detail-iniuhuic5566346.d.html?vt=4&cid=76675&node_id=76675",
-      "score": 50,
-      "commercial_score": 20,
-      "product_keywords": [
-        "小籠包 冷凍"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ホールフーズ、フロリダ州に新店を11月5日開業",
-      "summary_ja": "米ホールフーズ・マーケットが11月5日、フロリダ州ブレーデントンに約4万2000平方フィートの新店を開く。マナティー郡では初、フロリダ州では40店目となる。",
-      "source": "WebWire",
-      "url": "http://webwire.com/ViewPressRel.asp?SESSIONID=&aId=361503",
-      "score": 45,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "food",
-      "genre_label_ja": "食品・グルメ",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "日本医師会、健康食品をセルフケアの手段と位置づけ",
-      "summary_ja": "日本医師会が公表した健康食品安全対策委員会の報告書に、健康食品は適切に使えばセルフケアを支える手段になりうるとの記述が盛り込まれました。これまで医療と対立的に見てきた健康食品への姿勢を見直した形で、その背景が解説されています。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/da598878815c5db1022d4bb91375df9d858d2dfd",
+      "url": "https://news.mynavi.jp/article/20261007-5090143/",
       "score": 85,
-      "commercial_score": 75,
-      "product_keywords": [
-        "健康食品",
-        "サプリメント"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "米アマゾンのセールで家庭用ジム用品が最大50%引き",
-      "summary_ja": "米メンズヘルス誌の編集者が、アマゾンの「Prime Big Deal Days」で値下げされているフィットネス用品を紹介しています。家庭用ジム機器が最大50%引きになっているとしています。",
-      "source": "Men's Health",
-      "url": "https://www.menshealth.com/fitness/a70626969/best-fitness-deals-2026/",
-      "score": 80,
       "commercial_score": 90,
       "product_keywords": [
-        "ダンベル",
-        "トレーニングベンチ",
-        "ルームランナー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "眠りの質を競う90分の「睡眠レース」が開催",
-      "summary_ja": "寝るだけで優勝賞金222万円という、眠りを競うレースが5日に行われました。勝敗はどれだけ質の高い眠りを取れたかで決まり、90分間の様子が伝えられています。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/1b04a1e97eae5d9d28e49ced98b582ef87e1c820",
-      "score": 75,
-      "commercial_score": 50,
-      "product_keywords": [
-        "睡眠グッズ",
-        "アイマスク"
+        "生茶 熟成",
+        "キリン 生茶",
+        "生茶 カフェインフリー"
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "短時間の「運動スナック」、運動不足の大人に効果の可能性",
-      "summary_ja": "運動不足の大人994人を含む22件の研究をまとめた分析で、短い運動をこまめに行う「エクササイズスナック」が、最大酸素摂取量や血糖値、中性脂肪の改善と関連していたと報告されました。",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20261006/Short-bursts-of-exercise-may-improve-fitness-and-blood-sugar-in-sedentary-adults.aspx",
-      "score": 75,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ステッパー",
-        "踏み台昇降"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "暑さ・明るさ・騒音と睡眠の関係を若者372人で調査",
-      "summary_ja": "平均22歳の若者372人を14日間調べ、寝室が暑い、明るい、うるさいといった環境で睡眠時間と質がどう違うかを分析した調査結果です。寝室環境を見直すきっかけになりそうです。",
-      "source": "SmartNews",
-      "url": "https://www.smartnews.com/news/article/4998227202005799444-%E5%AF%9D%E5%AE%A4%E3%81%8C%E3%80%8C%E6%9A%91%E3%81%84%E3%83%BB%E6%98%8E%E3%82%8B%E3%81%84%E3%83%BB%E3%81%86%E3%82%8B%E3%81%95%E3%81%84%E3%80%8D%E3%81%A8%E7%9D%A1%E7%9C%A0%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%EF%BC%9F%20%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "遮光カーテン",
-        "耳栓",
-        "アイマスク"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英ブリストル、前立腺がん患者向け運動プログラム",
-      "summary_ja": "英国で、がん患者向けの運動プログラムに参加した前立腺がんの男性が体力を取り戻しつつあると紹介されています。参加者は、弱って落ち込んだ気持ちがなくなったと話しています。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2d3y813ywo",
-      "score": 70,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "中国で医療レベルの健康記録と長時間電池のスマートウォッチ比較",
-      "summary_ja": "心拍や血中酸素、心電図の傾向を日常的に確認したい人に向けて、健康の記録とバッテリーの持ちを両立したスマートウォッチの選び方を紹介しています。",
-      "source": "中关村在线手机",
-      "url": "https://mobile.zol.com.cn/1257/12571166.html",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "スマートウォッチ 心電図",
-        "スマートウォッチ 血中酸素"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "睡眠学者・柳沢正史氏「寝だめはできない」",
-      "summary_ja": "睡眠学の第一人者である柳沢正史教授が、休日に長く眠れてしまうのは寝不足の表れだとして、寝だめはできない理由を説明しています。著書『世界最高の睡眠学が教える 睡眠の正解』の内容から紹介された記事です。",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/-/400099",
-      "score": 65,
-      "commercial_score": 45,
-      "product_keywords": [
-        "睡眠の正解 柳沢正史"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "女性の健康研究の拠点、英バーミンガムに第1号",
-      "summary_ja": "女性の健康に関する格差を縮めることを目指すNHSの研究拠点6か所のうち、最初の1か所がバーミンガムに決まりました。運営する臨床研究会社は、今後3年で最大30人を雇用する計画です。",
-      "source": "Trending Now Infrastructure",
-      "url": "https://www.infrastructure-now.co.uk/article/493677/birmingham-lands-first-of-six-nhs-research-sites-aimed-at-closing-womens-health-gap?utm_source=civilengineering&utm_medium=newsfeed&utm_campaign=civilengineering-articleId-493677",
-      "score": 65,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "中国の車で「健康座舱」が競争の焦点に",
-      "summary_ja": "中国の自動車メーカーの間で、車内の空気浄化や酸素供給、健康状態の見守りといった機能が差別化の舞台になっています。華為（Huawei）系の鴻蒙智行や小鵬などの取り組みと、3つの技術の流れが解説されています。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_7880068201_1d5b04c6906802jdss.html?from=auto",
-      "score": 65,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "インドで雑穀ミレットの栽培と市場が拡大",
-      "summary_ja": "インドでヒエやアワ、キビなどの雑穀「ミレット」が注目され、政府も普及を後押ししています。干ばつや高温に強く、健康志向の高まりを背景に市場規模も広がっています。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB056PZ0V01C26A0000000/",
-      "score": 60,
+      "title_ja": "英アルディ、2026年クリスマス向け食品を発表",
+      "summary_ja": "英国のアルディがクリスマス向けの食品ラインアップを公開した。肉料理やベジタリアン向け、付け合わせ、スナック、飲み物、デザートまでそろえ、25ポンドのメイン料理も含まれる。",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/aldi-full-2026-christmas-food-34730826.amp",
+      "score": 85,
       "commercial_score": 60,
       "product_keywords": [
-        "雑穀",
-        "ミレット",
-        "キビ"
+        "クリスマス オードブル"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ホールフーズ、LAに旗艦店を11月11日開業",
+      "summary_ja": "ホールフーズ・マーケットがロサンゼルスの3番街とフェアファックスの交差点近くに、約6万3000平方フィートの旗艦店を11月11日に開く。隣にあった元のフェアファックス店を移転する形となる。",
+      "source": "WebWire",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362580",
+      "score": 80,
+      "commercial_score": 50,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "サブウェイ、欧州・中東・アフリカで新店舗様式を導入",
+      "summary_ja": "サブウェイが新しい店舗・ブランドの形「Blueprint」を発表した。2027年1月1日から欧州・中東・アフリカの新店と改装店で標準となり、デジタル注文や朝食、持ち帰り商品、夜のメニューを取り入れる。",
+      "source": "Hospitality & Catering News",
+      "url": "https://www.hospitalityandcateringnews.com/2026/10/subway-unveils-blueprint-restaurant-concept-across-emea/",
+      "score": 80,
+      "commercial_score": 35,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "中国の国慶節連休、外食需要が伸び各社が新商品を急ぐ",
+      "summary_ja": "中国の国慶節の大型連休中、外食の消費が盛り上がり、大人数での食事の需要が高まった。北京の商業施設ではピーク時間外でも店の前に順番待ちの客が並んだ。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-08/detail-iniunrrp3896494.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 80,
+      "commercial_score": 35,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "セブン、レンジで温める麺を刷新 牛肉うどんなど新顔も",
+      "summary_ja": "セブン-イレブン・ジャパンが電子レンジで温める麺類を10月14日から順にリニューアルする。牛肉うどんやもやし醤油ラーメンが新たに加わる。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/485fc0d63297e544c83649d86a87066b6797ba47",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "牛肉うどん",
+        "もやし醤油ラーメン"
       ],
       "country": "jp",
       "country_label_ja": "日本",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "運動をやめると体はどう変わる？専門家が時系列で解説",
-      "summary_ja": "運動の専門家や医師が、トレーニングをやめてから数週間から数か月の間に、体の主な機能に何が起きるかを解説しています。",
-      "source": "Outside Magazine",
-      "url": "https://www.outsideonline.com/health/training-performance/timeline-stop-working-out-weeks-months/",
-      "score": 60,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "NHS型の糖尿病予防プログラム、費用対効果ありと試算",
-      "summary_ja": "糖尿病予備群の大人を対象に、英NHSイングランドの方式にならった生活習慣改善プログラムを行った場合を試算した研究です。費用対効果があり、医療費の節約にもつながる可能性が高いとしています。",
-      "source": "Drug Topics",
-      "url": "https://www.drugtopics.com/view/model-finds-nhs-england-style-diabetes-prevention-program-cost-effective",
-      "score": 60,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "health",
-      "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "女性向けスマートウォッチ、サイズ・色・健康機能で選ぶ",
-      "summary_ja": "女性がスマートウォッチを選ぶときのポイントとして、手首の太さに合うサイズ、服装に合う色、健康機能の3点を挙げて解説しています。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_1747383115_6826f34b02003l8bk.html?from=digit",
-      "score": 60,
+      "title_ja": "ギラデリ、クッキー売り場に参入 新商品2品",
+      "summary_ja": "チョコレートブランドのギラデリ（Ghirardelli）が、クッキーの新商品2品を投入し、クッキー売り場に進出した。",
+      "source": "Snack Food & Wholesale Bakery",
+      "url": "https://www.snackandbakery.com/articles/116452-ghirardelli-breaks-into-the-cookie-aisle-with-two-new-treats",
+      "score": 75,
       "commercial_score": 80,
       "product_keywords": [
-        "スマートウォッチ レディース"
+        "ギラデリ",
+        "ギラデリ チョコレート"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "料理家リック・スタイン、ウェイトローズと独占提携",
+      "summary_ja": "英国の人気料理家リック・スタインが、スーパーのウェイトローズと新たに独占契約を結んだ。",
+      "source": "Falmouth Packet",
+      "url": "https://www.falmouthpacket.co.uk/news/26615971.rick-stein-signs-exclusive-deal-uk-supermarket-chain/",
+      "score": 75,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "すき家に期間限定「ローストポーク丼」 10月14日から",
+      "summary_ja": "牛丼チェーンのすき家が新商品「ローストポーク丼」を10月14日午前9時から期間限定で売り出す。フライドにんにくや温泉卵をのせたメニューも用意する。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/4ced6522c19734f905e7454182cba29aff902d2f",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ローストポーク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "米Datassential、2027年の食と飲料のトレンド予測を公表",
+      "summary_ja": "米調査会社Datassentialが、2027年に向けた食品・味・飲料のトレンド予測を発表した。消費者の75%が新しいトレンドを楽しみにしていると答えている。",
+      "source": "www.bluebookservices.com",
+      "url": "https://www.bluebookservices.com/datassential-releases-food-flavor-and-beverage-trend-predictions-for-2027/",
+      "score": 70,
+      "commercial_score": 35,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "日中韓の食品企業、東南アジア市場で競争が激化",
+      "summary_ja": "人口約7億人の東南アジア市場で、日中韓の食品企業が展開を強めている。早くから進出した日本企業は知名度が高く、韓国は政府と企業、現地の大手小売が連携し、中国企業も現地の販売網への参入を急ぐ。",
+      "source": "新浪军事",
+      "url": "https://mil.news.sina.com.cn/2026-10-08/doc-iniunrrf7621967.shtml",
+      "score": 70,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ファミマ、8年ぶり刷新のホイップでスイーツ6品",
+      "summary_ja": "ファミリーマートが8年ぶりにホイップクリームを新しくし、それを使ったスイーツ6品を発売する。「ファミマの無限クリーム、誕生!」キャンペーンとして10月13日から展開する。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/ssnp/business/ssnp-20261007-706113",
+      "score": 68,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ホイップクリーム"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "バーガーキング、ピクルス11枚の限定バーガーを発売",
+      "summary_ja": "ビーケー・ジャパンが10月9日から、ピクルスを11枚使いディルの効いたクリーミーソースで仕上げた「ピックルボールバーガー」を期間・数量限定で売り出す。チキン版も同時に登場する。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2cf1cf43afcb0df1ed316a3c12897f36e6e77138",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ピクルス"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "HoneyBaked、高たんぱくのスナックカップを発売",
+      "summary_ja": "米HoneyBakedが、たんぱく質を多く含むスナックカップを新たに売り出した。1個あたり最大38グラムのたんぱく質を含むという。",
+      "source": "Parade Magazine",
+      "url": "https://parade.com/food/honeybaked-launches-new-protein-packed-snack-cups-with-up-to-38-grams-each",
+      "score": 60,
+      "commercial_score": 65,
+      "product_keywords": [
+        "高たんぱく スナック"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "話題のDave's Hot Chicken、英メトロセンターに出店",
+      "summary_ja": "人気のチキンチェーンDave's Hot Chickenと、アジアン系の麺バーが英国のメトロセンターに新たに店を開く。",
+      "source": "The Northern Echo",
+      "url": "https://www.thenorthernecho.co.uk/news/26616313.viral-chain-daves-hot-chicken-opening-metrocentre/",
+      "score": 60,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "成都の食品メーカー、連休需要で生産ラインがフル稼働",
+      "summary_ja": "中秋節と国慶節の連休に向けて、成都の食品メーカーが注文対応に追われている。新しい拠点では太陽光発電と新型の加工設備を使い、生産力の拡大と海外市場の開拓を狙う。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084805665_355475",
+      "score": 60,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "food",
+      "genre_label_ja": "食品・グルメ",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "華為（Huawei）、血圧を測れるWATCH D3を発表",
+      "summary_ja": "華為（Huawei）がMate90シリーズなどの発表会で、手首で血圧を記録できるHUAWEI WATCH D3を発表しました。薄く軽いデザインで、さまざまな場面での血圧測定のほか、心臓や気分、睡眠などのデータも記録できます。血圧測定機能は中国本土で医療機器の登録を受け、EUのCE MDR認証も取得しています。",
+      "source": "集微网",
+      "url": "http://laoyaoba.com/n/1115054",
+      "score": 90,
+      "commercial_score": 90,
+      "product_keywords": [
+        "HUAWEI WATCH D3",
+        "血圧計 腕時計型",
+        "スマートウォッチ 血圧"
       ],
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "タマディック、サウナ付きの新オフィスを豊田に開設",
-      "summary_ja": "タマディックがトヨタの近くに「豊田オフィス Mobius Park」を新設しました。エンジニアが技術力を発揮しながら健康に働くことをコンセプトに掲げ、サウナも備えています。",
-      "source": "日経クロステック（xTECH）",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092400005/?ST=singleview",
-      "score": 55,
+      "title_ja": "ナルコレプシー治療薬オーゼイフル、保険適用へ",
+      "summary_ja": "日中に強い眠気に襲われる睡眠障害ナルコレプシーの治療薬「オーゼイフル」について、中央社会保険医療協議会が公的医療保険の対象とすることを了承しました。14日から保険適用となり、発症の原因に作用する薬としては国内で初めてです。",
+      "source": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/yomidr/article/20261007-GYT1T00383/?site-view=pc",
+      "score": 85,
       "commercial_score": 30,
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "運動中の脇腹の痛み、原因と対処法を専門家が解説",
-      "summary_ja": "運動中に起きる脇腹の痛みについて、医師が原因や予防のコツ、痛みが出たときの対処法を説明しています。医療機関を受診すべき目安にも触れています。",
-      "source": "Prevention",
-      "url": "https://www.prevention.com/fitness/fitness-tips/a70341850/side-stitch-causes/",
-      "score": 55,
-      "commercial_score": 25,
+      "title_ja": "10月のプライムデー、活動量計・スマートウォッチがセールに",
+      "summary_ja": "米アマゾンの10月のプライムデーで、フィットネストラッカーやスマートウォッチのセールが行われています。Fitbit Charge 6やサムスンのGalaxy Watch 8、Apple Watchなどが対象として紹介されています。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-october-prime-day-fitness-trackers-deals-live-2026",
+      "score": 80,
+      "commercial_score": 95,
+      "product_keywords": [
+        "Fitbit Charge 6",
+        "Galaxy Watch",
+        "Apple Watch"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "英ウォーターサイドに無料の健康チェックバス",
-      "summary_ja": "英国のウォーターサイド地域で、NHSのサービスを無料で地域に届ける移動式の健康ユニットが運行を始めました。健康チェックや心身のサポートを受けられます。",
-      "source": "Daily Echo",
-      "url": "https://www.dailyecho.co.uk/news/26606342.waterside-health-bus-brings-free-nhs-services-community/",
-      "score": 55,
+      "title_ja": "英NHSで初、がん経験者に人工の舌を移植",
+      "summary_ja": "26歳で頭頸部がんの一種である扁平上皮がんと診断されたイモジェン・ブルックス医師が、NHSで初めてとなる人工の舌を受けました。",
+      "source": "London Evening Standard",
+      "url": "https://www.standard.co.uk/news/health/nhs-london-newham-michael-brown-hospital-b1299960.html",
+      "score": 80,
       "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ダンベル型の水筒が中国で話題に",
-      "summary_ja": "中国の女優・李一桐さんが使うダンベルの形をした水筒が話題になっています。見た目はトレーニング器具ながら、実際は水を飲むためのボトルです。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_5910074034_m1604492b203301cq12.html",
-      "score": 55,
-      "commercial_score": 75,
+      "title_ja": "睡眠学者・柳沢正史教授が語る睡眠を削らない働き方",
+      "summary_ja": "ラスカー賞を受賞した睡眠学者の柳沢正史教授が、著書『世界最高の睡眠学が教える 睡眠の正解』をもとに睡眠の常識や思い込みを解説しています。忙しいときこそ睡眠を削らず、ほかに何を削るべきかを考える内容です。",
+      "source": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/-/400100",
+      "score": 70,
+      "commercial_score": 55,
       "product_keywords": [
-        "ダンベル 水筒",
-        "ダンベルボトル"
+        "睡眠の正解 柳沢正史",
+        "枕",
+        "マットレス"
       ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "イングランドで新生児のSMAスクリーニングが始動",
+      "summary_ja": "NHSが、イングランドで新生児を対象とした脊髄性筋萎縮症（SMA）スクリーニングの初期段階を始めました。",
+      "source": "SMA News Today",
+      "url": "https://smanewstoday.com/news/nhs-rolls-new-sma-newborn-screening-england/",
+      "score": 70,
+      "commercial_score": 5,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "医療の話題を発信する健康インフルエンサー、多くは医療従事者",
+      "summary_ja": "米ピュー・リサーチ・センターが、健康・ウェルネス系インフルエンサーの投稿内容を分析しました。医療従事者を名乗るインフルエンサーは、病気やメンタルヘルス、医師の管理が必要な治療などの話題を多く投稿する傾向がありました。",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/data-labs/2026/10/07/which-health-and-wellness-influencers-talk-about-medical-topics-mostly-healthcare-professionals/",
+      "score": 65,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "中国の格安24時間ジム、低価格経営の持続性に疑問",
+      "summary_ja": "少ない投資と月払い制で急拡大する中国の24時間セルフ式ジムについて、虎嗅網が課題を指摘しています。設備の質やサービス、保守を犠牲にしており、長く経営を続けられない恐れがあるとしています。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4895824.html",
+      "score": 65,
+      "commercial_score": 40,
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "新華網、国慶節向けの室内トレーニングを紹介",
-      "summary_ja": "新華網の連載「科学健身周周練」が国慶節の特集として、室内で続けられるトレーニングを取り上げています。",
-      "source": "新华网",
-      "url": "https://www.news.cn/sports/20261006/e020d5e096cb46f795a67334b8dc6675/c.html",
-      "score": 45,
+      "title_ja": "若者のエナジードリンク飲用、実態をニッセイ基礎研が調査",
+      "summary_ja": "ニッセイ基礎研究所が、若年層のエナジードリンクの摂取実態についてのレポート前編を公開しました。飲用経験や頻度、健康への影響を中心にまとめています。",
+      "source": "ニッセイ基礎研究所",
+      "url": "https://www.nli-research.co.jp/report/detail/id=86987?mobileapp=1&site=nli",
+      "score": 60,
+      "commercial_score": 50,
+      "product_keywords": [
+        "エナジードリンク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "194歳のゾウガメ「ジョナサン」から長寿の手がかり",
+      "summary_ja": "国際共同研究チームが、194歳とされるゾウガメ「ジョナサン」を調べ、極端な長寿の秘密の一端を明らかにしたと米ヴァンダービルト大学が伝えています。長く健康に生きるためのヒントになる可能性があるとしています。",
+      "source": "Vanderbilt Health News",
+      "url": "https://news.vumc.org/2026/10/07/an-extremely-old-giant-tortoise-named-jonathan-may-hold-the-secret-to-a-long-healthy-life-study/",
+      "score": 60,
+      "commercial_score": 10,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "10月8日は「糖をはかる日」、血糖測定から健康づくりを",
+      "summary_ja": "10月8日の「糖をはかる日」にあわせ、糖尿病ネットワークが糖をはかることから始まる健康づくりを呼びかけています。日ごろから血糖を意識することの大切さを伝える内容です。",
+      "source": "糖尿病ネットワーク",
+      "url": "https://dm-net.co.jp/calendar/2026/042256.php?utm_content=side_news5",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "血糖値測定器",
+        "尿糖試験紙"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "米ミシガンのジム、更年期の女性向けトレーニングを開始",
+      "summary_ja": "米ミシガン州ジャクソンのMilestone Fitness Centerが、更年期や閉経前後の女性に向けた専用トレーニングを提供しています。症状とうまく付き合えるよう手助けすることが目的です。",
+      "source": "WILX",
+      "url": "https://www.wilx.com/video/2026/10/08/jackson-fitness-center-offers-specialized-training-women-menopause-2/?outputType=amp",
+      "score": 55,
+      "commercial_score": 40,
+      "product_keywords": [
+        "更年期 サプリ",
+        "ヨガマット"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "脂肪肝が骨折リスクを高める可能性、米VCU研究",
+      "summary_ja": "米バージニア・コモンウェルス大学（VCU）が主導した研究で、脂肪肝の病気が骨折のリスクを高める可能性が示されました。",
+      "source": "VCU Health",
+      "url": "https://www.vcuhealth.org/news/vcu-led-study-suggests-fatty-liver-disease-may-increase-bone-fracture-risk/",
+      "score": 55,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "長沙の地域スマートジム、月25元で通える運動拠点に",
+      "summary_ja": "湖南省長沙市の地域向けスマート健身センターでは、月額25元で好きなときに運動でき、自宅の近くで手軽に通えると利用者が話しています。スポーツと医療を組み合わせる取り組みのあり方を取り上げた記事です。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/zx/gj/2026-10-08/doc-iniunrrp3903874.shtml",
+      "score": 55,
       "commercial_score": 35,
       "product_keywords": [
-        "ヨガマット",
-        "トレーニングマット"
+        "ルームランナー"
       ],
       "country": "cn",
       "country_label_ja": "中国",
       "genre": "health",
       "genre_label_ja": "健康・フィットネス",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "スノーピークが赤城山頂に新拠点を開業",
-      "summary_ja": "群馬県・赤城山の山頂エリアに「スノーピーク ランドステーション 赤城」が9月19日にオープンした。観光案内の機能を備え、併設のキャンプフィールドとあわせて山での遊びを楽しめる拠点になる。",
-      "source": "ウォーカープラス",
-      "url": "https://www.walkerplus.com/article/1443613/",
-      "score": 85,
+      "title_ja": "金龍魚の益海嘉里、健康ブランド「豊益堂」を展開",
+      "summary_ja": "食用油大手の益海嘉里金龍魚が、慢性疾患の予防は食の源から取り組むべきだとして、健康ブランド「金龍魚豊益堂」を打ち出しています。天然の食材から機能性のある栄養成分を大規模に抽出する取り組みです。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1085020864_120157034",
+      "score": 55,
+      "commercial_score": 50,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "スポーツ観戦と抑うつの関係、筑波大が先天性心疾患患者で調査",
+      "summary_ja": "筑波大学の研究で、先天性心疾患の患者ではスポーツ観戦の頻度が抑うつ症状と関連する可能性が示されました。現地観戦やテレビなどでの定期的な観戦が、抑うつ症状の少なさと関連していたといいます。",
+      "source": "筑波大学",
+      "url": "https://www.tsukuba.ac.jp/journal/medicine-health/20261008140000.html",
+      "score": 50,
+      "commercial_score": 15,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "心血管の健康状態とALSリスクの関連を大規模研究が分析",
+      "summary_ja": "大規模な研究で、心血管の健康状態が良い人ほどALS（筋萎縮性側索硬化症）のリスクが低いという関連が見られたと報じられています。",
+      "source": "ALS News Today",
+      "url": "https://alsnewstoday.com/news/disease-history-cardiovascular-health-linked-als-risk-study/",
+      "score": 50,
+      "commercial_score": 10,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "上海市、地域の心の健康相談室110か所を公表",
+      "summary_ja": "上海市が、不眠や不安、気分の落ち込みなどに対応する地域の心の健康診療室110か所の一覧を公表しました。",
+      "source": "上海市人民政府",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261008/4c658cfd549f430b84b44db913ce49a4.html",
+      "score": 50,
+      "commercial_score": 5,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "英ポーツマスのプール併設の健康拠点、主要工事を終える",
+      "summary_ja": "英建設会社ウィルモット・ディクソンが、ポーツマスで進める地域の健康・レジャー拠点でプールの主要な構造工事を終えました。施設には新しい診療所も入る予定です。",
+      "source": "Building Better Healthcare",
+      "url": "https://www.buildingbetterhealthcare.com/willmott-dixon-reaches-milestone-for-portsmouth-neighbourhood-health",
+      "score": 45,
+      "commercial_score": 15,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "三河湾健康マラソンの参加賞が新デザインに",
+      "summary_ja": "愛知県蒲郡市の「三河湾健康マラソン大会」で、参加賞のデザインが新しくなり、市長に贈られました。市内の繊維会社のデザイナーが担当し、「繊維のまち」を再び盛り上げるねらいです。",
+      "source": "東愛知新聞社",
+      "url": "https://higashiaichi.jp/news/detail.php?id=28031",
+      "score": 40,
+      "commercial_score": 25,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "NHSでデジタル問診の設計が成果",
+      "summary_ja": "英国の公共ITメディアUKAuthorityが、NHSで導入されたデジタルのクイズ形式の設計がうまくいった事例として取り上げています。",
+      "source": "UKAuthority",
+      "url": "https://www.ukauthority.com/articles/digital-quiz-proves-an-nhs-success",
+      "score": 40,
+      "commercial_score": 10,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "三亜で健康ランニングイベント、約千人が参加",
+      "summary_ja": "海南省三亜市で全民健身の健康ランイベントが開かれ、千人近いランナーが川沿いの緑道を走りました。国慶節の休暇にあわせ、観光とスポーツを組み合わせた催しの一つです。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1085026725_362042",
+      "score": 40,
+      "commercial_score": 20,
+      "product_keywords": [
+        "ランニングシューズ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "health",
+      "genre_label_ja": "健康・フィットネス",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ホグロフスの渋谷店、キャットストリートへ移転開業",
+      "summary_ja": "スウェーデン発のアウトドアブランド「ホグロフス」の直営店が、原宿から渋谷・キャットストリートへ移った。新店は10月8日にオープンし、運営は日本の総代理店が担う。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/5adfce5df1e2382b5aaadbcbc7a77c9c4f3c8f2e",
+      "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "スノーピーク",
-        "スノーピーク テント"
+        "ホグロフス",
+        "ホグロフス ジャケット"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ミニ・クロスオーバー「アンテイムド」、車上テント付きで登場",
-      "summary_ja": "2027年型のミニ・クロスオーバー（Countryman）に、車高を上げ、ルーフテントやキャンプ用品を備えた「Untamed」が加わる。ガソリン車とEVの両方で選べ、小型SUVの使い道を広げるモデルになる。",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2276173/2027-mini-countryman-untamed-edition-rugged-crossover-details/",
+      "title_ja": "米老舗誌「Outdoor Life」、投資会社が買収",
+      "summary_ja": "創刊130年の米アウトドア誌「Outdoor Life」を、投資ファンドのeFormed VenturesがRecurrent Venturesから買い取った。AIを使って道具選びから購入までを変える計画だという。",
+      "source": "GearJunkie",
+      "url": "https://gearjunkie.com/outdoor/outdoor-life-acquired-eformed-ventures-ai-marketplace",
       "score": 80,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ルーフテント",
-        "ルーフキャリア"
-      ],
+      "commercial_score": 50,
       "country": "us",
       "country_label_ja": "アメリカ",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "中国でキャンピングカー需要が拡大、借りるから買うへ",
-      "summary_ja": "国慶節の連休は道路での移動が9割を超える見通しで、自家用車での旅が中心になっている。都市をまたぐ長旅が増え、「家ごと旅する」キャンピングカーを選ぶ人も増え、関連産業やキャンプ場の客足が伸びている。",
-      "source": "央视网",
-      "url": "https://news.cctv.com/2026/10/06/ARTIqndHc4Rzq7PRSkWpaDln261006.shtml",
-      "score": 80,
-      "commercial_score": 55,
+      "title_ja": "Jackery、難病の子のキャンプ場に電源を寄贈",
+      "summary_ja": "ポータブル電源のJackeryの日本法人が、北海道滝川市の「そらぷちキッズキャンプ」にポータブル電源やソーラーパネルなど計10台を贈った。難病の子ども向けの医療ケア付きキャンプ場で、クマ対策や施設運営に使われる。",
+      "source": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=000000368.000039188&g=prt",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
-        "キャンピングカー",
-        "車中泊 マット"
+        "Jackery ポータブル電源",
+        "ソーラーパネル"
       ],
-      "country": "cn",
-      "country_label_ja": "中国",
+      "country": "jp",
+      "country_label_ja": "日本",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "THULEのルーフテント「アプローチ」は大人4人就寝",
-      "summary_ja": "車の上で広げるだけでサイトを作れるルーフテントが、初心者からベテランまで支持を集めている。THULEの「アプローチ」がなぜ大人4人で寝られるのかを、最新事情とともに紹介している。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/79b400042e0497be3eea49172248c05fcf286e33",
+      "title_ja": "ナイキACG、超軽量の登山ジャケットを投入",
+      "summary_ja": "ナイキのアウトドアライン「ACG」が、新しい超軽量ジャケット「Lava Flow Ultralight」を出した。パタゴニアやアークテリクス、マウンテンハードウェアが強い山岳ウェアの分野で存在感を高める狙い。",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/outdoors/nike-acg-lava-flow-ultralight-jacket/",
       "score": 75,
       "commercial_score": 80,
       "product_keywords": [
-        "THULE ルーフテント",
-        "ルーフテント"
+        "ナイキ ACG ジャケット",
+        "超軽量 ジャケット 登山"
       ],
-      "country": "jp",
-      "country_label_ja": "日本",
+      "country": "us",
+      "country_label_ja": "アメリカ",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "悪路向けミニ「アンテイムド」、欧州はEVのみ",
-      "summary_ja": "車高を上げて未舗装路に対応したミニ・クロスオーバーの「Untamed」について、英Top Gearが紹介した。ただし欧州で選べるのは電気自動車だけになる。",
-      "source": "Top Gear",
-      "url": "https://www.topgear.com/car-news/first-look/untamed-road-ready-mini-countryman-a-catch",
+      "title_ja": "3歳児、湖水地方の214峰を最年少で踏破",
+      "summary_ja": "英国湖水地方にある214の山すべてを、3歳の子どもが歩いて登り切った。これまでで最も若い達成者になった。",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/news/2026/10/07/three-year-old-youngest-child-to-hike-lake-district-peaks/",
       "score": 75,
-      "commercial_score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "SUBUとマナスタッシュ、冬向けサンダルで7年目の協業",
-      "summary_ja": "リラックスサンダルのSUBUが、シアトル生まれのアウトドアブランド「Manastash（マナスタッシュ）」との7年連続となるコラボを発表した。ブランドの原点であるアウトドアの雰囲気を伝えるルックブックもあわせて公開している。",
-      "source": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=000000057.000150214&g=prt",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "SUBU サンダル",
-        "マナスタッシュ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "伸びるデニムで山歩き、米誌がアウトドア向けジーンズを試す",
-      "summary_ja": "普通のデニムは硬くて山道に向かないとして、米アウトドア誌がRiptonやDUERなどの動きやすいデニムを試した。ハイキングやクライミング、旅行での使い心地を比べている。",
-      "source": "Outside Magazine",
-      "url": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/performance-denim-jeans-jorts/",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ストレッチデニム",
-        "DUER デニム"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "Obozの「Bozeman II」、街でも使える軽登山靴を評価",
-      "summary_ja": "英クライミング情報サイトが、Obozの「Bozeman II」をレビューした。スエードのスニーカーのような見た目に、ちょっとした悪路を歩ける性能を組み合わせ、通勤から山道まで使える一足としている。",
-      "source": "UKClimbing",
-      "url": "https://www.ukclimbing.com/gear/footwear/oboz_bozeman_ii_-_fashion_meets_function-17051",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Oboz",
-        "スエード トレッキングシューズ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "相模原の上大島キャンプ場、12月まで営業延長",
-      "summary_ja": "相模原市は市営の上大島キャンプ場の開設期間を、11月までから12月までに延ばす。猛暑の時期を避けてキャンプしたい人が増えているとみて、今年度は試験的に実施する。",
-      "source": "カナロコ",
-      "url": "https://www.kanaloco.jp/news/government/article-1310240.html",
-      "score": 60,
-      "commercial_score": 40,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "EF Adventuresと用品店Backcountry、ハイキング旅を共同企画",
-      "summary_ja": "体験型旅行のEF Adventuresとアウトドア用品のBackcountryが組み、3つの大陸でハイキングなどを楽しむ新しいツアーをそろえた。旅行と用品の専門家が協力して企画している。",
-      "source": "themountaineer.com",
-      "url": "https://www.themountaineer.com/two-trusted-experts-in-active-travel-and-outdoor-gear-ef-adventures-and-backcountry-launch-collection/article_90dd603f-33f5-51e7-baed-93de0f4e7700.html",
-      "score": 60,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "六甲山牧場で動物のお世話ができる1泊2日キャンプ",
-      "summary_ja": "六甲山牧場と神戸市立自然の家による「ファームキャンプ」が11月14〜15日に開かれ、申し込みを受け付けている。動物の世話やふれあいのほか、乗馬体験やピザづくりも予定されている。",
-      "source": "神戸ジャーナル",
-      "url": "https://kobe-journal.com/archives/4233666882.html",
-      "score": 55,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "信州の精肉店が営むキャンプ場、2000円の肉セットが好評",
-      "summary_ja": "肉屋が運営する信州のキャンプ場を訪ねたレポート。2000円の精肉セットを炭火で焼き、スーパーの肉とは違うおいしさに驚いたと伝えている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/377c68c59f5299980c0f760ae92efc3b5fdc2b5b",
-      "score": 50,
-      "commercial_score": 45,
-      "product_keywords": [
-        "キャンプ 肉 セット",
-        "バーベキュー 肉"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "発明家が外遊びの悩みを解く新ギア2点を披露",
-      "summary_ja": "ネルソンを拠点とする発明家カイ・ガイア氏が、KORE Outdoors Summitで特許出願中のギア「FlōPole」と「FlōFoot」を発表した。どちらもアウトドアスポーツでよくある困りごとを解消するために作られた。",
-      "source": "Outdoor Sportswire",
-      "url": "https://www.outdoorsportswire.com/?p=212695",
-      "score": 50,
-      "commercial_score": 50,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "上海・嘉定のキャンプ場、国慶節の連休に人気",
-      "summary_ja": "上海の地元紙が、国慶節の連休に向けて嘉定区のキャンプ場を紹介した。芝生や湖畔、星空を楽しめる場所として、気軽に出かけられる先を案内している。",
-      "source": "上观新闻",
-      "url": "https://www.jfdaily.com/sgh/detail?id=4069746",
-      "score": 50,
-      "commercial_score": 30,
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "デボンのハルドン森林公園、ハーフターム休みに手頃な外遊び",
-      "summary_ja": "英国の学校のハーフターム休みに合わせ、デボン州のハルドン森林公園がお金をかけずに楽しめる一日の過ごし方を案内している。",
-      "source": "We Are South Devon",
-      "url": "https://wearesouthdevon.com/half-term-fun-at-haldon-forest-park-without-breaking-the-bank-3/",
-      "score": 45,
       "commercial_score": 25,
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "outdoor",
       "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "米ペンシルベニア州メディアにアウトドア衣料店が開店",
-      "summary_ja": "ペンシルベニア州メディアに、アウトドアのギアと衣料を扱う新しい店が開いた。厳選した品ぞろえを打ち出している。",
-      "source": "Patch",
-      "url": "https://patch.com/pennsylvania/media/outdoor-apparel-store-opens-media",
-      "score": 35,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ウェールズのキャラバン場、季節契約の区画を継続",
-      "summary_ja": "ウェールズ・ラドチャーチのキャラバン場「Little Kings Park」が、シーズン単位で借りられる区画を続けることになった。",
-      "source": "Tenby Observer",
-      "url": "https://www.tenby-today.co.uk/news/planning/ludchurch-caravan-site-keeps-seasonal-pitches-960505",
-      "score": 30,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "outdoor",
-      "genre_label_ja": "アウトドア",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "シャオミ（Xiaomi）のスマホやタブレットが楽天で割引",
-      "summary_ja": "楽天市場の「お買い物マラソン＆ジャンル祭り」に合わせ、シャオミのスマートフォンやタブレットなどが最大36%オフになっています。期間は10月4日20時から9日1時59分までの限定です。",
-      "source": "AKIBA PC Hotline!",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2145722.html",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Xiaomi スマートフォン",
-        "Xiaomi タブレット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "sale",
-      "genre_label_ja": "セール・キャンペーン",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "JBLが楽天でセール、サウンドバーやイヤホンも対象",
-      "summary_ja": "音響ブランドのJBLが楽天でセールを開いています。サウンドバーやイヤホン、ワイヤレススピーカーなどが最大66%オフで買えます。",
-      "source": "PHILE WEB",
-      "url": "https://www.phileweb.com/news/hobby/202610/06/8589.html",
-      "score": 78,
-      "commercial_score": 90,
-      "product_keywords": [
-        "JBL イヤホン",
-        "JBL サウンドバー",
-        "JBL スピーカー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "sale",
-      "genre_label_ja": "セール・キャンペーン",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "HISが「九州ふっこう応援割」の詳細を公表",
-      "summary_ja": "HISは旅行支援「九州ふっこう応援割」の詳細を特設サイトで発表しました。熊本のWeb予約は10月7日に始まり、航空券とホテルのセットや宿泊付きバスツアーが最大60%オフになります。",
-      "source": "トラベル Watch",
-      "url": "https://travel.watch.impress.co.jp/docs/news/2146102.html",
-      "score": 75,
-      "commercial_score": 60,
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "sale",
-      "genre_label_ja": "セール・キャンペーン",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ジャクリの100Wソーラーパネルが楽天で4割引",
-      "summary_ja": "Jackery Japan楽天市場店で、ソーラーパネル「SolarSaga 100 Prime」が税込み34,800円から40%引きの20,880円になっています。両面発電などで変換効率25%をうたう、車載や据え置き向けの定格100Wモデルです。",
-      "source": "Jetstream",
-      "url": "https://jetstream.blog/2026/10/06/jackery-solarsaga-100-prime-rakuten-sale-20261006/",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Jackery SolarSaga 100 Prime",
-        "ソーラーパネル 100W"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "sale",
-      "genre_label_ja": "セール・キャンペーン",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "リンツの楽天公式店でチョコが半額のセール",
-      "summary_ja": "スイスのチョコレートブランド、リンツの楽天市場公式ショップで、環境と家計に配慮したセール「リンツテナブル」が開かれています。大容量のリンドールセットなどが半額になっています。",
-      "source": "イザ！",
-      "url": "https://www.iza.ne.jp/article/20261005-OX4GKKALQ5ACTLHGC6CZ2Q5OBM/?outputType=theme_osusume",
-      "score": 68,
-      "commercial_score": 85,
-      "product_keywords": [
-        "リンツ リンドール"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "sale",
-      "genre_label_ja": "セール・キャンペーン",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "MOTTERUがお買い物マラソンで100点を値下げ",
-      "summary_ja": "MOTTERUは楽天お買い物マラソンに合わせ、人気製品など100点を最大約50%オフで販売すると発表しました。セールは10月4日20時から9日14時までです。",
-      "source": "AppBank",
-      "url": "https://www.appbank.net/2026/10/05/goods-books/3122606.php",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "MOTTERU"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "sale",
-      "genre_label_ja": "セール・キャンペーン",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "スタバのハロウィングッズは猫が主役、9日発売",
-      "summary_ja": "スターバックスがハロウィン向けの「Halloween 2026」グッズを9日に発売する。こうもりの羽を付けた黒猫や白猫を描いたアイテムがそろう。飲み物の温度で色が変わるものや、暗い場所で光るものもある。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19850067?news_ref=top_newComments",
-      "score": 85,
-      "commercial_score": 85,
-      "product_keywords": [
-        "スターバックス ハロウィン",
-        "スタバ タンブラー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "アップル、LGとスマートドアロックなどを共同開発",
-      "summary_ja": "アップルが出すスマートホーム製品に、LGエレクトロニクスと共同開発したドアベルやサーモスタット、ドアロック、防犯カメラなどが含まれる。これらはLGブランドで売られ、店頭に並ぶまで数か月かかる見込み。アップル自身の新しいHomePod miniなどは10月13日に発表される予定。",
-      "source": "东方财富",
-      "url": "https://emwap.eastmoney.com/a/202610073888831870.html",
-      "score": 85,
-      "commercial_score": 70,
-      "product_keywords": [
-        "スマートロック",
-        "スマートドアベル",
-        "HomePod mini"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "デンマークのソファ会社Omhu、手の届く価格で世界へ",
-      "summary_ja": "デンマークの家具ブランドOmhuは、友人2人が4年前に立ち上げ、これまでにソファを4万台以上売った。CEOは、HayやVitraのような高価格帯ではない世界的な家具ブランドを目指すと話している。",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+      "title_ja": "青島の公園、手ぶらでキャンプできる仕組みを導入",
+      "summary_ja": "中国・青島の世博園で、移動式の蓄電、キャンプ用品のスマートレンタル、無人の自動配送を一つの芝生広場にまとめた取り組みが始まった。来園者は手ぶらで入っても野外料理を楽しめる。園内には18か所のキャンプ区画が設けられた。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1085052716_355158",
       "score": 75,
       "commercial_score": 60,
       "product_keywords": [
-        "ソファ 北欧"
+        "ポータブル電源",
+        "キャンプ用品"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ぺんてるの替芯「Pentel Ain」に白いケース",
-      "summary_ja": "ぺんてるが、なめらかな書き味をうたうシャープペンシル替芯「Pentel Ain」に、新色として白のケースを加える。シンプルな見た目のケースで、10月から展開する。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19852088?news_ref=watch_20_nw19783201",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ぺんてる アイン 替芯",
-        "シャープペンシル 替芯"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "博多阪急で文房具の博覧会が開幕",
-      "summary_ja": "全国の個性的な文房具を集めたイベントが博多阪急で始まり、朝から多くの客が訪れた。会場ではオリジナルのグッズを作ることもできる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d4e2542f231789e448aae13866bd2f08e02313e3",
-      "score": 65,
-      "commercial_score": 55,
-      "product_keywords": [
-        "文房具"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英Sofa Club、エディンバラに新店",
-      "summary_ja": "英国の家具ブランドSofa Clubが、エディンバラのフォート・キナード・リテールパークに新しい店を開いた。同社にとって新たな地域への出店となる。",
-      "source": "Big Furniture Group",
-      "url": "https://www.bigfurnituregroup.com/sofa-club-opens-new-edinburgh-store/",
-      "score": 65,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ソファ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "セリアにサンリオ柄のファスナーケース",
-      "summary_ja": "100円ショップのセリアで、ハローキティやハンギョドンなどサンリオのキャラクターを描いたファスナーケースが出ている。手帳やペンのほか、身の回りの小物の整理にも使える。デザインは全10種類。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/expert/articles/43ec5dda1c271a8f4506f27696a75868eaf5f6db",
-      "score": 60,
-      "commercial_score": 70,
-      "product_keywords": [
-        "サンリオ ファスナーケース",
-        "ペンケース サンリオ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "パオラ・レンティの編みシェーズロングが屋外向けに",
-      "summary_ja": "イタリアの家具ブランド、パオラ・レンティのシェーズロング「Lazy Chair」に屋外用が加わった。しなやかに編んだフレームが、柔らかく気取らないクッションを支える作り。",
-      "source": "Archiproducts",
-      "url": "https://www.archiproducts.com/en/news/chaise-longue-by-paola-lenti-goes-outdoors_112124",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ガーデンチェア",
-        "屋外 リクライニングチェア"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "手頃でおしゃれな英ソファブランド「Dusk」",
-      "summary_ja": "英国のソファブランドDuskが、価格の手頃さと見た目の良さで紹介されている。購入者の評価も高く、記事ではおすすめのソファを挙げている。",
-      "source": "Grazia Daily UK",
-      "url": "https://graziadaily.co.uk/interiors/homeware/best-dusk-sofas/",
-      "score": 60,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ソファ おしゃれ",
-        "2人掛けソファ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "長沙の家具売り場、古い家具の下取りで値引き",
-      "summary_ja": "湖南省長沙市の家具売り場で、古い家具を下取りに出すと代金から差し引く買い替え支援が行われ、差し引きは最大1000元。売り場もベッドやソファを並べるだけでなく、暮らしの場面に合わせた見せ方に変わってきている。",
-      "source": "红网",
-      "url": "https://economy.rednet.cn/content/646054/98/16346034.html",
-      "score": 60,
-      "commercial_score": 50,
       "country": "cn",
       "country_label_ja": "中国",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "「LC by LOWERCASE」から軽量リュックなど新作",
-      "summary_ja": "バッグブランド「LC by LOWERCASE」の新作を、スタイリストが紹介している。840Dのバリスティックナイロンを使い、丈夫さと軽さを両立したリュックなどがそろう。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/monomax/trend/monomax-365253",
-      "score": 55,
-      "commercial_score": 70,
-      "product_keywords": [
-        "LOWERCASE リュック",
-        "バリスティックナイロン リュック"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
+      "title_ja": "北京でキャンピングカー博覧会、10月16日開幕",
+      "summary_ja": "第45回北京キャンピングカー・キャンプ博覧会が10月16日に通州区で始まり、新しいキャンプ場もお披露目される。国がキャンピングカーの消費を後押しする方針を示したことを受けた開催。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084976679_121925623",
+      "score": 70,
+      "commercial_score": 55,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "米家具大手Ashley、歌手テディ・スウィムズを起用",
-      "summary_ja": "米家具大手のAshleyが、グラミー賞候補の歌手テディ・スウィムズを初の「チーフ・ムード・オフィサー」に迎えた。上位ライン「Ashley Luxe」を広めるための宣伝の提携となる。",
-      "source": "citybiz",
-      "url": "https://www.citybiz.co/article/914632/ashley-names-teddy-swims-chief-mood-officer-for-ashley-luxe-campaign/",
-      "score": 55,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "英家具NaughtOne、地元ヨークシャーに新工場",
-      "summary_ja": "英国の家具ブランドNaughtOneが、本拠地のヨークシャーに新しい工場を開いた。同社は製造面での大きな節目と位置付けている。",
-      "source": "Big Furniture Group",
-      "url": "https://www.bigfurnituregroup.com/furniture-brand-opens-new-factory-in-yorkshire/",
-      "score": 55,
+      "title_ja": "英ファインシェイド・ウッドのキャンプ場、11月末まで延長",
+      "summary_ja": "英ノーサンプトンシャーのファインシェイド・ウッドのキャンプ場が、営業期間を2026年11月末まで延ばした。4月に英国森林局の施設として再開し、最初のシーズンが好調だったという。紅葉の森を長く楽しめる。",
+      "source": "CaravanTimes",
+      "url": "https://www.caravantimes.co.uk/news/fineshade-wood-campsite-extends-its-season-until-the-end-of-november/",
+      "score": 65,
       "commercial_score": 35,
       "country": "gb",
       "country_label_ja": "イギリス",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "中国・傲基のドライバー、動画1本で大ヒット",
-      "summary_ja": "中国のEC企業、傲基（Aukey）のドライバーが欧米で人気を集めている。1本の動画をきっかけに3000万の売り上げにつながったという。",
-      "source": "电商派",
-      "url": "https://www.pai.com.cn/p/01m3p7d9jtfcq87fjnj4jvjzmb",
+      "title_ja": "中国の老舗紳士服各社、アウトドアに相次ぎ参入",
+      "summary_ja": "中国の老舗紳士服メーカーが、相次いでアウトドア事業に乗り出している。報喜鸟は米ウールリッチの欧州以外での商標権を取得し、比音勒芬はスノーピークの中国での事業権を得た。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1085088356_122014422",
+      "score": 65,
+      "commercial_score": 55,
+      "product_keywords": [
+        "スノーピーク",
+        "ウールリッチ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "深川「まあぶオートキャンプ場」、温泉付きで家族向け",
+      "summary_ja": "札幌から車で約1時間半の北海道深川市にある「まあぶオートキャンプ場」と「アグリ工房まあぶ」を紹介する記事。眺めの良いサイトや電源付きカーサイト、コテージ、天然温泉がそろい、初心者や家族連れにも使いやすい。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article/1385229",
+      "score": 60,
+      "commercial_score": 45,
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "YETIのタンブラーやクーラー、プライムデーで値下げ",
+      "summary_ja": "米アマゾンのプライムデーで、YETIのクーラーボックスや「ランブラー」タンブラーが最大40%引きになった。セールは記事公開日の夜で終わる。",
+      "source": "New York Post",
+      "url": "https://nypost.com/shopping/amazon-prime-big-deal-days-yeti-deals-october-2026/",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "YETI ランブラー",
+        "YETI クーラーボックス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "英国でJackeryのポータブル電源が大幅値引き",
+      "summary_ja": "キャンプや停電時に役立つJackeryのポータブル電源が、英国で1,000ポンド以上安く買えるセールになっている。",
+      "source": "Daily Express",
+      "url": "https://www.express.co.uk/life-style/science-technology/2255142/jackery-camping-power-stations-autumn-sale/amp",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Jackery ポータブル電源"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ネパール発の登山用品「Makalu Outfit」が世界へ",
+      "summary_ja": "コロナ禍で観光と登山シーズンが止まった時期に、ネパールの登山家たちが立ち上げたブランド「Makalu Outfit」。ヒマラヤ育ちの小さな会社が、世界の大手アウトドアブランドに挑んでいる。",
+      "source": "The Tourism Times",
+      "url": "https://thetourismtimes.com/news/climbing/born-in-the-himalayas-makalu-outfit-takes-on-the-worlds-outdoor-gear-giants",
       "score": 55,
+      "commercial_score": 45,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ロンドンにVRでエベレスト登頂を体験できる施設",
+      "summary_ja": "ロンドンに、エベレスト登頂をVRで疑似体験できる施設が登場した。手間や体力、費用をかけずに、世界最高峰の頂上の気分を味わえる。",
+      "source": "Live for the Outdoors",
+      "url": "https://www.livefortheoutdoors.com/hiking/news/you-can-now-climb-everest-from-london/",
+      "score": 55,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "中国アウトドア産業大会、10月15日から北京で",
+      "summary_ja": "2026年の中国アウトドアスポーツ産業大会が、10月15日から18日まで北京市昌平区で開かれる。アウトドアが都市の暮らしにも広がる流れを受けた催し。",
+      "source": "中华网",
+      "url": "https://mtz.china.com/touzi/2026/1008/266599.html",
+      "score": 55,
+      "commercial_score": 35,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "仁木町のキャンプ場で軍幕ファンの集い、10月17日",
+      "summary_ja": "北海道仁木町の「ノチウアウトドアPARK」で、軍幕テント好きが集まる「蝦夷軍幕会」が10月17日に開かれる。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article/1385471/?rct=od_info",
+      "score": 50,
+      "commercial_score": 50,
+      "product_keywords": [
+        "軍幕 テント"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "MINIクロスオーバーに軽アウトドア向け特別仕様",
+      "summary_ja": "MINIのカントリーマン（クロスオーバー）に特別仕様車「UNTAMED EDITION」が中国で発表された。気軽なアウトドアへの外出を意識したモデル。",
+      "source": "汽车之家",
+      "url": "https://chejiahao.autohome.com.cn/info/26613087",
+      "score": 50,
+      "commercial_score": 45,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "洗って使えるスコッティのペーパータオルを試す",
+      "summary_ja": "料理からキャンプまで幅広く使える「スコッティ ファイン 洗って使えるペーパータオル」を実際に使ってみた記事。1枚で何役もこなせる点を取り上げている。",
+      "source": "ガジェット通信 GetNews",
+      "url": "https://getnews.jp/archives/3747377",
+      "score": 45,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スコッティ ファイン 洗って使えるペーパータオル"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "包頭に初の車・バイクがテーマの無料キャンプ場",
+      "summary_ja": "内モンゴル・包頭で、車とバイクをテーマにした初めてのキャンプ場が使えるようになり、無料で開放されている。隣接する広場の工事も進め、一体で運営する計画。",
+      "source": "包头新闻网",
+      "url": "http://www.baotounews.com.cn/445807/445799/2026/10/45197885.html",
+      "score": 40,
+      "commercial_score": 25,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "outdoor",
+      "genre_label_ja": "アウトドア",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "楽天お買い物マラソンでJackeryのポータブル電源が値下げ",
+      "summary_ja": "楽天市場で開催中の「お買い物マラソン&ジャンル祭り」で、Jackery製のポータブル電源が最大46%オフになっている。期間は10月9日1時59分まで。防災用の備えとして注目される製品だ。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/akibapc_watch/trend/akibapc_watch-2145719",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Jackery ポータブル電源"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "sale",
+      "genre_label_ja": "セール・キャンペーン",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "サムスンが最大10%オフの「Samsung Week」を開催",
+      "summary_ja": "サムスン電子ジャパンが、公式ECサイトや旗艦店で対象製品を割引する「Samsung Week」を始めた。Galaxy Z Fold8 UltraやGalaxy Watch8 Classicなど、折りたたみスマホやタブレットが最大10%オフになる。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/k_tai/trend/k_tai-2146661",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Galaxy Z Fold8 Ultra",
+        "Galaxy Watch8 Classic"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "sale",
+      "genre_label_ja": "セール・キャンペーン",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "オーディオテクニカの完全ワイヤレスイヤホン2機種が半額に",
+      "summary_ja": "楽天市場のセールで、オーディオテクニカの完全ワイヤレスイヤホン2機種がクーポン利用で半額になっている。",
+      "source": "PHILE WEB",
+      "url": "https://www.phileweb.com/news/hobby/202610/07/8592.html",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "オーディオテクニカ 完全ワイヤレスイヤホン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "sale",
+      "genre_label_ja": "セール・キャンペーン",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "AtermのWi-Fiルーター3機種に楽天で30%ポイント還元",
+      "summary_ja": "楽天市場の「楽天スーパーDEAL」で、NECプラットフォームズの無線LANルーター「Aterm」3機種が30%ポイント還元の対象になっている。期間は10月13日9時59分まで。",
+      "source": "24Wireless",
+      "url": "https://24wireless.info/aterm-wifi-router-rakuten-super-deal-202610",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Aterm Wi-Fiルーター"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "sale",
+      "genre_label_ja": "セール・キャンペーン",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "VITUREが秋のセール、XRグラス「Beast」も初めて対象に",
+      "summary_ja": "XRグラスのVITUREが、10月13日から19日まで「秋の大感謝祭セール」を開く。フラッグシップのXRグラス「Beast」が初めてセールの対象になる。",
+      "source": "PANORA",
+      "url": "https://panora.tokyo/archives/159345",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "VITURE XRグラス"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "sale",
+      "genre_label_ja": "セール・キャンペーン",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ノースフェイスのハイドレナウィンドジャケットが36%オフ",
+      "summary_ja": "Amazonのタイムセールで、THE NORTH FACE（ザ・ノース・フェイス）の「ハイドレナウィンドジャケット」が36%オフになっている。機能性と着心地のよさが特長のジャケットだ。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1116759",
+      "score": 60,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ノースフェイス ハイドレナウィンドジャケット"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "sale",
+      "genre_label_ja": "セール・キャンペーン",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "イケア、英国とアイルランドで中古家具の売買サイト開設",
+      "summary_ja": "イケア（IKEA）が英国とアイルランドで、自社製品の中古品を売り買いできるオンラインマーケットを始めた。新品の同等品より6割ほど安い価格で出品されているという。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/07/ikea-uk-ireland-marketplace-buy-sell-second-hand-furniture/amp/",
+      "score": 85,
       "commercial_score": 65,
       "product_keywords": [
-        "ドライバー セット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "ギンガムチェックの子ども家具「Posie and Penn」",
-      "summary_ja": "英ハンプシャーの創業者ジェナ・ティリット＝ドレイク氏が手がける子ども家具ブランド「Posie and Penn」を紹介。ギンガムチェックのベッドなど、家族の住まいに合うかわいらしいインテリアをつくっている。",
-      "source": "Great British Life",
-      "url": "https://www.greatbritishlife.co.uk/magazines/hampshire/26545067.jenna-tyrwhitt-drake-posie-penn-childrens-furniture/",
-      "score": 50,
-      "commercial_score": 55,
-      "product_keywords": [
-        "子供用ベッド",
-        "ギンガムチェック"
+        "IKEA 家具"
       ],
       "country": "gb",
       "country_label_ja": "イギリス",
       "genre": "interior",
       "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "title_ja": "ポリフォルム、ロンドンのショールームを改装",
-      "summary_ja": "イタリアの家具ブランド、ポリフォルムがロンドン・ウィグモア通りのショールームを改装した。マリルボーン地区の雰囲気を取り入れ、2フロアを住まいのように組み立てている。",
-      "source": "Wallpaper*",
-      "url": "https://www.wallpaper.com/design-interiors/poliform-wigmore-street-showroom-london",
-      "score": 50,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "モンチッチのキーホルダーや寝具がアベイルで発売",
-      "summary_ja": "モンチッチのキーホルダーや寝具などのグッズが、10月10日からアベイルで売り出される。",
-      "source": "コラボカフェ",
-      "url": "https://collabo-cafe.com/zh-hans/events/collabo/monchhichi-avail-1010-2026/?amp=1",
-      "score": 45,
-      "commercial_score": 60,
-      "product_keywords": [
-        "モンチッチ キーホルダー",
-        "モンチッチ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国",
-      "genre": "interior",
-      "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
-    },
-    {
-      "title_ja": "「オニすけ」のアパレルとトートが通販に登場",
-      "summary_ja": "グッズ通販サイト「ANIGA-TER」が、人間社会を懸命に生きるキャラクター「オニすけ」のグッズを10月6日から売り出した。アパレルやトートバッグがそろう。",
+      "title_ja": "不二貿易、幅17〜20cmのすき間収納ワゴン2種を発売",
+      "summary_ja": "家具・インテリア雑貨の不二貿易が、家の中のすき間を収納に使えるスリムなワゴン「Sutto（スット）」と「Flat（フラット）」を発売した。幅は17〜20cmで、キッチンなどの狭い場所での使用を想定している。",
       "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19851669?news_ref=watch_70_nw19787917",
-      "score": 40,
-      "commercial_score": 55,
+      "url": "https://news.nicovideo.jp/watch/nw19856635?news_ref=watch_20_nw18970014",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "オニすけ"
+        "すき間収納ワゴン",
+        "スリムワゴン",
+        "キッチン すき間収納"
       ],
       "country": "jp",
       "country_label_ja": "日本",
       "genre": "interior",
       "genre_label_ja": "収納・インテリア・文具",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "アップルとLGのスマートホーム新製品の情報が浮上",
+      "summary_ja": "アップルとLGによるスマートホーム新製品の情報が新たに伝わった。ドアホンや室内・屋外向けの製品があり、LGの投光器付きカメラは左右にライトを備え、赤外線LEDやマイク、スピーカーを搭載するという。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8x32TpYJ45J",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スマートドアホン",
+        "屋外 防犯カメラ ライト付き"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "サリュから360度回転する収納ラック、3960円",
+      "summary_ja": "雑貨店サリュの新作として、360度回して物を取り出せる回転式ラックが3960円で登場した。省スペースで収納でき、飾り棚としても使えるクラシカルなデザインだという。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/34a9e20d88a4fe9565c78b2707b5b55be6c9482f/images/000",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "回転式ラック",
+        "回転 収納ラック"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "Omhuのモジュール式ソファ、販売4万台超",
+      "summary_ja": "家具ブランドOmhuのコーデュロイ素材のモジュール式ソファが4万台以上売れた。手頃な価格と組み替えられる設計で、家具市場に変化をもたらす存在として注目されている。",
+      "source": "freeyork",
+      "url": "https://freeyork.org/design/omhu-modular-corduroy-sofa-omhus-success-modular/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "モジュールソファ",
+        "コーデュロイ ソファ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "無印良品の縦型収納ケースが590円に値下げ中",
+      "summary_ja": "無印良品の「自由に組み合わせられる収納ケース・長方形・縦型」が通常990円から400円引きの590円で販売されている。ポーチとして使えるほか、別売りストラップでショルダーバッグにもなる2WAY仕様。合成皮革を使った上品な見た目で、公式サイトのレビューではモバイルバッテリーやスマホの収納例も紹介されている。",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "url": "https://limo.media/articles/-/141024",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "無印良品 収納ケース 縦型",
+        "ショルダーポーチ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "キッチンの足元を収納に、Santosの台輪引き出し",
+      "summary_ja": "デザインスタジオのEbaが、多くのキッチン設計でSantos社の台輪部分に付ける引き出しユニットを採用している。床すれすれのすき間まで収納に使えるのが特長だという。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "キッチン 足元 収納",
+        "台輪 引き出し"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "芝華仕（CHEERS）、Bose音響を組み込んだソファ発表",
+      "summary_ja": "家具ブランドの芝華仕が上海で新製品発表会を開き、Boseの音響技術「SoundbyBose」を搭載した機能ソファ「巴赫Pro」を発表した。家具と音響を組み合わせ、リビングでのくつろぎ方を広げる狙いだ。",
+      "source": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810766.html",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "電動リクライニングソファ",
+        "スピーカー内蔵 ソファ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "子どもの困りごとに応える新しい消しゴム3種",
+      "summary_ja": "「折れにくい」「なくしづらい」「持ちやすい」をうたう消しゴム3種類が発売された。力加減がうまくできず消しゴムをすぐボロボロにしてしまう低学年の子ども向けに作られたという。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c6e91f85617402e4fb6cc1891d7ce0229cb925c1?page=3",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "消しゴム 折れにくい",
+        "消しゴム 小学生"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "コッツウォルド・カンパニー、ナショナル・トラストと家具",
+      "summary_ja": "英国の家具ブランド、コッツウォルド・カンパニーがナショナル・トラストと組んだ新コレクションを出した。コッツウォルズ地方の歴史的建物の意匠に着想を得た木製家具で、責任ある調達の木材を使い、すっきりした現代的な形に仕上げている。",
+      "source": "House & Garden",
+      "url": "https://www.houseandgarden.co.uk/article/new-furniture-collection-the-cotswold-company-and-the-national-trust",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "無垢材 家具",
+        "カントリー 家具"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "「文具女子博2026」12月に横浜で開催、10回目",
+      "summary_ja": "日販セグモが、文具を見て触れて買えるイベント「文具女子博」を12月16日から20日までパシフィコ横浜で開く。今回で10回目となり、入場チケットの発売日も決まった。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19858975?news_ref=20_20",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "文具女子博"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "コセンティーノ、米国でショールームを拡大",
+      "summary_ja": "石材メーカーのコセンティーノ（Cosentino）が米国で新しいショールームを開き、「Studio」という新たな店舗形態も打ち出した。米国での存在感を高める狙いだ。",
+      "source": "InteriorDaily",
+      "url": "https://www.interiordaily.com/article/9880276/cosentino-expands-u-s-presence-with-new-showrooms-and-studio-concept/",
+      "score": 60,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ザラホームに1万1600ポンドのソファ",
+      "summary_ja": "ザラホーム（Zara Home）で、1万1600ポンドのソファが登場した。英タイムズ紙が、この価格で買う人がいるのかを問いかけている。",
+      "source": "The Times",
+      "url": "https://www.thetimes.com/life-style/property-home/article/zara-home-luca-guadagnino-homeware-furniture-s6x59vgzk",
+      "score": 60,
+      "commercial_score": 50,
+      "product_keywords": [
+        "Zara Home"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "中国製の家具・寝具、アマゾンで人気に",
+      "summary_ja": "中国のインテリア製品がアマゾンで売れ、海外の寝室にも入り込んでいる。寧波の事業者の中には月に5000万を売り上げる例もあると伝えている。",
+      "source": "电商派",
+      "url": "https://www.pai.com.cn/p/01m39bqhkc3ba9ewcqkkbcacgp",
+      "score": 60,
+      "commercial_score": 50,
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "名古屋タカシマヤで文具イベント、食べ物モチーフが人気",
+      "summary_ja": "ジェイアール名古屋タカシマヤで10月7日から文房具を1万点以上集めたイベントが始まった。食べ物をテーマにした雑貨が人気で、エビフライ型の小物入れなどが注目を集めている。会期は10月12日まで。",
+      "source": "愛知のニュース",
+      "url": "https://news.tv-aichi.co.jp/single.php?id=10355",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "エビフライ 小物入れ",
+        "食品サンプル 文具"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "M・アナスタシアデスの照明、Flosで展開続く",
+      "summary_ja": "デザイナーのマイケル・アナスタシアデスが手がける照明が、照明ブランドFlosから引き続き展開されることになった。",
+      "source": "Wallpaper*",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/michael-anastassiades-flos-new-partnership-announced",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "Flos 照明"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "インテリア見本市Decorex、10月11日開幕",
+      "summary_ja": "インテリアの見本市「Decorex 2026」が10月11日から14日まで開かれる。出展が多く見どころも幅広いため、注目すべき展示を絞って紹介している。",
+      "source": "Yahoo Life UK",
+      "url": "https://uk.style.yahoo.com/decorex-2026-look-highlights-152200753.html",
+      "score": 55,
+      "commercial_score": 40,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ハーマンミラー、上海で期間限定ポップアップ",
+      "summary_ja": "家具ブランドのハーマンミラー（Herman Miller）が、中国の家具販売会社と組んで上海・西岸の商業施設に期間限定のポップアップ空間を設けた。",
+      "source": "欢迎访问ConCall",
+      "url": "https://cn.concall.com/article/detail/article_id/6188",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ハーマンミラー チェア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "ベルリンの若手デザイナー展、折りたたみシンクなど",
+      "summary_ja": "ベルリンで開かれた若手デザイナーの展示会「Find Attached」で、少ない資源で多くを実現する作品が並んだ。折りたためるシンクや、自然の力で室内を涼しくする間仕切りなどが出展された。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/07/find-attached-exhibition-berlin-currents/amp/",
+      "score": 50,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
+    },
+    {
+      "title_ja": "阪急うめだ本店で香りと織物の合同ポップアップ",
+      "summary_ja": "yaso、BOLOCO、PHAPHICの3ブランドが10月7日から13日まで、阪急うめだ本店で合同のポップアップ店「森と織」を開く。森の香りの試香や週末の香り作り、手織りのワークショップ、限定の体験セットを用意する。",
+      "source": "www.haveagood-holiday.com",
+      "url": "https://www.haveagood-holiday.com/zh-CN/articles/mori-to-ori-popup-hankyu-umeda",
+      "score": 50,
+      "commercial_score": 55,
+      "product_keywords": [
+        "森 香り ルームフレグランス"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国",
+      "genre": "interior",
+      "genre_label_ja": "収納・インテリア・文具",
+      "date": "2026-10-08"
     }
   ]
 }

@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-08 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #060f08;
+    --line: #123820;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #58c870;
+    --signal: #48d880;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; HOME APPLIANCES & HOUSEWORK &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-08 &middot; 16:19 JST &middot; 6 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">アラジン、部屋干し向け衣類乾燥サーキュレーター発売</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">アラジンがブランド初となるサーキュレーター「ドライサーキュレーター」を発売した。暖房機の開発で培った技術を生かし、1台で3役をこなす衣類乾燥に特化したモデルで、部屋干しの悩みに応えるという。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.kobe-np.co.jp/info/prtimes/202610/c15006_r197.shtml" target="_blank" rel="noopener noreferrer">
+                神戸新聞 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ティファール70周年、衣類スチーマーなど新製品を発表</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">グループセブ ジャパンがティファール70周年の新商品発表会を開いた。森泉さんが衣類スチーマー「エアロスチームS」を実演したほか、マイコン式炊飯器などもアピールした。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.mylifenews.net/home-living/130209/" target="_blank" rel="noopener noreferrer">
+                マイライフニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">タイガー、土鍋ごはんの日に全国25店とコラボ</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">タイガー魔法瓶は10月7日の「土鍋ごはんの日」に合わせ、全国25の飲食名店とのコラボを行う。同社は2006年に本物の土鍋を内なべに使った炊飯器を業界で初めて発売し、今年で20周年を迎える。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://topics.smt.docomo.ne.jp/amp/article/kaden_watch/trend/kaden_watch-2146430" target="_blank" rel="noopener noreferrer">
+                ｄメニューニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">サーモスの食洗機対応スープジャーに好評の声</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">60<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">サーモスの「真空断熱スープジャー JED-400」は本体もフタも食洗機で洗えるのが特長。お弁当に温かいスープを添えつつ洗い物の手間を抑えたい人に支持されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.yahoo.co.jp/articles/50cb591245e3284b1fc99cccfdb914151ccea8e1" target="_blank" rel="noopener noreferrer">
+                Yahoo!ニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">冷蔵庫選びは「省スペース」と「鮮度保持」が鍵に</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">55<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">調理家電＆調理雑貨大賞2026で、冷蔵庫選びのキーワードとして省スペースと鮮度維持が挙げられた。スリム型や大容量の冷凍室、野菜を長く新鮮に保つ機能など、暮らし方に合わせた進化が進んでいる。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.infoseek.co.jp/article/goodspress_749153/" target="_blank" rel="noopener noreferrer">
+                Infoseek <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">06</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">水の動きを眺められるスチーム式加湿器が登場</h2>
+              <span class="entry-score" style="background:#181808;color:#c8b830">45<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">インテリアとしても楽しめる、水の動きが見えるスチーム式加湿器が紹介された。発売元は公式Instagramでフォロー&amp;プレゼントキャンペーンを行っている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://ascii.jp/elem/000/004/441/4441205/" target="_blank" rel="noopener noreferrer">
+                ASCII.jp <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>
+  </div>
+</body>
+</html>

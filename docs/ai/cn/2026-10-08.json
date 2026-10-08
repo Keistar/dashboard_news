@@ -1,0 +1,58 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:17:13+09:00",
+  "stories": [
+    {
+      "title_ja": "阶跃のAIスマホ「STEPX Neo」、13日に発表",
+      "summary_ja": "中国の阶跃終端は、大規模言語モデルを前提に作った初のAIエージェント搭載スマートフォン「STEPX Neo」を10月13日に発表すると明らかにした。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrrp3919145.d.html?vt=4&cid=76993&node_id=76993",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "AIスマホ",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "OpenAIとAnthropic、同じ日に新モデルで別路線",
+      "summary_ja": "OpenAIは7日にGPT-6と新たな操作画面の仕組みを発表し、Anthropicは同じ日に低コストで速いClaude Haiku 5.5を出した。中国メディアは、一方は入口の確保、もう一方は低価格を狙うと両社の違いを伝えている。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610083889375223.html",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "AIの運用コスト低下、アプリ普及加速に期待",
+      "summary_ja": "大規模言語モデルを動かすコストの低下が速まっている。これによりAIを使ったアプリの普及が進むとの見方が出ている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2498897",
+      "score": 60,
+      "commercial_score": 35
+    },
+    {
+      "title_ja": "軽量AI端末が健康産業を変える可能性",
+      "summary_ja": "端末側で動く軽量なAIが広がり、健康関連の産業を根本から変えつつあると報じられた。新たな機会がある一方で課題もあるという。",
+      "source": "36Kr",
+      "url": "https://www.36kr.com/p/4015566628427393",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "スマートウォッチ",
+        "ウェアラブル"
+      ]
+    },
+    {
+      "title_ja": "アリババクラウド、済南の産業大会でAI技術を披露",
+      "summary_ja": "10月14日から済南で開かれる2026人工知能産業大会に、阿里雲（アリババクラウド）が出展する。クラウド基盤から大規模言語モデル「千問」、マルチモーダル製品までをまとめて紹介する。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1084944746_121218495",
+      "score": 50,
+      "commercial_score": 25
+    }
+  ]
+}

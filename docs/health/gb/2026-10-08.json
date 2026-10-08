@@ -1,0 +1,42 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:24:02+09:00",
+  "stories": [
+    {
+      "title_ja": "英NHSで初、がん経験者に人工の舌を移植",
+      "summary_ja": "26歳で頭頸部がんの一種である扁平上皮がんと診断されたイモジェン・ブルックス医師が、NHSで初めてとなる人工の舌を受けました。",
+      "source": "London Evening Standard",
+      "url": "https://www.standard.co.uk/news/health/nhs-london-newham-michael-brown-hospital-b1299960.html",
+      "score": 80,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "イングランドで新生児のSMAスクリーニングが始動",
+      "summary_ja": "NHSが、イングランドで新生児を対象とした脊髄性筋萎縮症（SMA）スクリーニングの初期段階を始めました。",
+      "source": "SMA News Today",
+      "url": "https://smanewstoday.com/news/nhs-rolls-new-sma-newborn-screening-england/",
+      "score": 70,
+      "commercial_score": 5
+    },
+    {
+      "title_ja": "英ポーツマスのプール併設の健康拠点、主要工事を終える",
+      "summary_ja": "英建設会社ウィルモット・ディクソンが、ポーツマスで進める地域の健康・レジャー拠点でプールの主要な構造工事を終えました。施設には新しい診療所も入る予定です。",
+      "source": "Building Better Healthcare",
+      "url": "https://www.buildingbetterhealthcare.com/willmott-dixon-reaches-milestone-for-portsmouth-neighbourhood-health",
+      "score": 45,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "NHSでデジタル問診の設計が成果",
+      "summary_ja": "英国の公共ITメディアUKAuthorityが、NHSで導入されたデジタルのクイズ形式の設計がうまくいった事例として取り上げています。",
+      "source": "UKAuthority",
+      "url": "https://www.ukauthority.com/articles/digital-quiz-proves-an-nhs-success",
+      "score": 40,
+      "commercial_score": 10
+    }
+  ]
+}

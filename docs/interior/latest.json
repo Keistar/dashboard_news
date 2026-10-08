@@ -1,240 +1,267 @@
 {
   "genre": "interior",
   "genre_label_ja": "収納・インテリア・文具",
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T08:51:09+09:00",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:27:18+09:00",
   "stories": [
     {
-      "title_ja": "スタバのハロウィングッズは猫が主役、9日発売",
-      "summary_ja": "スターバックスがハロウィン向けの「Halloween 2026」グッズを9日に発売する。こうもりの羽を付けた黒猫や白猫を描いたアイテムがそろう。飲み物の温度で色が変わるものや、暗い場所で光るものもある。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19850067?news_ref=top_newComments",
+      "title_ja": "イケア、英国とアイルランドで中古家具の売買サイト開設",
+      "summary_ja": "イケア（IKEA）が英国とアイルランドで、自社製品の中古品を売り買いできるオンラインマーケットを始めた。新品の同等品より6割ほど安い価格で出品されているという。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/07/ikea-uk-ireland-marketplace-buy-sell-second-hand-furniture/amp/",
       "score": 85,
+      "commercial_score": 65,
+      "product_keywords": [
+        "IKEA 家具"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "不二貿易、幅17〜20cmのすき間収納ワゴン2種を発売",
+      "summary_ja": "家具・インテリア雑貨の不二貿易が、家の中のすき間を収納に使えるスリムなワゴン「Sutto（スット）」と「Flat（フラット）」を発売した。幅は17〜20cmで、キッチンなどの狭い場所での使用を想定している。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19856635?news_ref=watch_20_nw18970014",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "スターバックス ハロウィン",
-        "スタバ タンブラー"
+        "すき間収納ワゴン",
+        "スリムワゴン",
+        "キッチン すき間収納"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "アップル、LGとスマートドアロックなどを共同開発",
-      "summary_ja": "アップルが出すスマートホーム製品に、LGエレクトロニクスと共同開発したドアベルやサーモスタット、ドアロック、防犯カメラなどが含まれる。これらはLGブランドで売られ、店頭に並ぶまで数か月かかる見込み。アップル自身の新しいHomePod miniなどは10月13日に発表される予定。",
-      "source": "东方财富",
-      "url": "https://emwap.eastmoney.com/a/202610073888831870.html",
-      "score": 85,
+      "title_ja": "アップルとLGのスマートホーム新製品の情報が浮上",
+      "summary_ja": "アップルとLGによるスマートホーム新製品の情報が新たに伝わった。ドアホンや室内・屋外向けの製品があり、LGの投光器付きカメラは左右にライトを備え、赤外線LEDやマイク、スピーカーを搭載するという。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8x32TpYJ45J",
+      "score": 80,
       "commercial_score": 70,
       "product_keywords": [
-        "スマートロック",
-        "スマートドアベル",
-        "HomePod mini"
+        "スマートドアホン",
+        "屋外 防犯カメラ ライト付き"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "デンマークのソファ会社Omhu、手の届く価格で世界へ",
-      "summary_ja": "デンマークの家具ブランドOmhuは、友人2人が4年前に立ち上げ、これまでにソファを4万台以上売った。CEOは、HayやVitraのような高価格帯ではない世界的な家具ブランドを目指すと話している。",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+      "title_ja": "サリュから360度回転する収納ラック、3960円",
+      "summary_ja": "雑貨店サリュの新作として、360度回して物を取り出せる回転式ラックが3960円で登場した。省スペースで収納でき、飾り棚としても使えるクラシカルなデザインだという。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/34a9e20d88a4fe9565c78b2707b5b55be6c9482f/images/000",
       "score": 75,
-      "commercial_score": 60,
+      "commercial_score": 80,
       "product_keywords": [
-        "ソファ 北欧"
+        "回転式ラック",
+        "回転 収納ラック"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Omhuのモジュール式ソファ、販売4万台超",
+      "summary_ja": "家具ブランドOmhuのコーデュロイ素材のモジュール式ソファが4万台以上売れた。手頃な価格と組み替えられる設計で、家具市場に変化をもたらす存在として注目されている。",
+      "source": "freeyork",
+      "url": "https://freeyork.org/design/omhu-modular-corduroy-sofa-omhus-success-modular/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "モジュールソファ",
+        "コーデュロイ ソファ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ぺんてるの替芯「Pentel Ain」に白いケース",
-      "summary_ja": "ぺんてるが、なめらかな書き味をうたうシャープペンシル替芯「Pentel Ain」に、新色として白のケースを加える。シンプルな見た目のケースで、10月から展開する。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19852088?news_ref=watch_20_nw19783201",
+      "title_ja": "無印良品の縦型収納ケースが590円に値下げ中",
+      "summary_ja": "無印良品の「自由に組み合わせられる収納ケース・長方形・縦型」が通常990円から400円引きの590円で販売されている。ポーチとして使えるほか、別売りストラップでショルダーバッグにもなる2WAY仕様。合成皮革を使った上品な見た目で、公式サイトのレビューではモバイルバッテリーやスマホの収納例も紹介されている。",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "url": "https://limo.media/articles/-/141024",
       "score": 70,
-      "commercial_score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "ぺんてる アイン 替芯",
-        "シャープペンシル 替芯"
+        "無印良品 収納ケース 縦型",
+        "ショルダーポーチ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "博多阪急で文房具の博覧会が開幕",
-      "summary_ja": "全国の個性的な文房具を集めたイベントが博多阪急で始まり、朝から多くの客が訪れた。会場ではオリジナルのグッズを作ることもできる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d4e2542f231789e448aae13866bd2f08e02313e3",
-      "score": 65,
+      "title_ja": "キッチンの足元を収納に、Santosの台輪引き出し",
+      "summary_ja": "デザインスタジオのEbaが、多くのキッチン設計でSantos社の台輪部分に付ける引き出しユニットを採用している。床すれすれのすき間まで収納に使えるのが特長だという。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
+      "score": 70,
       "commercial_score": 55,
       "product_keywords": [
-        "文房具"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英Sofa Club、エディンバラに新店",
-      "summary_ja": "英国の家具ブランドSofa Clubが、エディンバラのフォート・キナード・リテールパークに新しい店を開いた。同社にとって新たな地域への出店となる。",
-      "source": "Big Furniture Group",
-      "url": "https://www.bigfurnituregroup.com/sofa-club-opens-new-edinburgh-store/",
-      "score": 65,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ソファ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "セリアにサンリオ柄のファスナーケース",
-      "summary_ja": "100円ショップのセリアで、ハローキティやハンギョドンなどサンリオのキャラクターを描いたファスナーケースが出ている。手帳やペンのほか、身の回りの小物の整理にも使える。デザインは全10種類。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/expert/articles/43ec5dda1c271a8f4506f27696a75868eaf5f6db",
-      "score": 60,
-      "commercial_score": 70,
-      "product_keywords": [
-        "サンリオ ファスナーケース",
-        "ペンケース サンリオ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "パオラ・レンティの編みシェーズロングが屋外向けに",
-      "summary_ja": "イタリアの家具ブランド、パオラ・レンティのシェーズロング「Lazy Chair」に屋外用が加わった。しなやかに編んだフレームが、柔らかく気取らないクッションを支える作り。",
-      "source": "Archiproducts",
-      "url": "https://www.archiproducts.com/en/news/chaise-longue-by-paola-lenti-goes-outdoors_112124",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ガーデンチェア",
-        "屋外 リクライニングチェア"
+        "キッチン 足元 収納",
+        "台輪 引き出し"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "手頃でおしゃれな英ソファブランド「Dusk」",
-      "summary_ja": "英国のソファブランドDuskが、価格の手頃さと見た目の良さで紹介されている。購入者の評価も高く、記事ではおすすめのソファを挙げている。",
-      "source": "Grazia Daily UK",
-      "url": "https://graziadaily.co.uk/interiors/homeware/best-dusk-sofas/",
-      "score": 60,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ソファ おしゃれ",
-        "2人掛けソファ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "長沙の家具売り場、古い家具の下取りで値引き",
-      "summary_ja": "湖南省長沙市の家具売り場で、古い家具を下取りに出すと代金から差し引く買い替え支援が行われ、差し引きは最大1000元。売り場もベッドやソファを並べるだけでなく、暮らしの場面に合わせた見せ方に変わってきている。",
-      "source": "红网",
-      "url": "https://economy.rednet.cn/content/646054/98/16346034.html",
-      "score": 60,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "「LC by LOWERCASE」から軽量リュックなど新作",
-      "summary_ja": "バッグブランド「LC by LOWERCASE」の新作を、スタイリストが紹介している。840Dのバリスティックナイロンを使い、丈夫さと軽さを両立したリュックなどがそろう。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/monomax/trend/monomax-365253",
-      "score": 55,
-      "commercial_score": 70,
-      "product_keywords": [
-        "LOWERCASE リュック",
-        "バリスティックナイロン リュック"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米家具大手Ashley、歌手テディ・スウィムズを起用",
-      "summary_ja": "米家具大手のAshleyが、グラミー賞候補の歌手テディ・スウィムズを初の「チーフ・ムード・オフィサー」に迎えた。上位ライン「Ashley Luxe」を広めるための宣伝の提携となる。",
-      "source": "citybiz",
-      "url": "https://www.citybiz.co/article/914632/ashley-names-teddy-swims-chief-mood-officer-for-ashley-luxe-campaign/",
-      "score": 55,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英家具NaughtOne、地元ヨークシャーに新工場",
-      "summary_ja": "英国の家具ブランドNaughtOneが、本拠地のヨークシャーに新しい工場を開いた。同社は製造面での大きな節目と位置付けている。",
-      "source": "Big Furniture Group",
-      "url": "https://www.bigfurnituregroup.com/furniture-brand-opens-new-factory-in-yorkshire/",
-      "score": 55,
-      "commercial_score": 35,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国・傲基のドライバー、動画1本で大ヒット",
-      "summary_ja": "中国のEC企業、傲基（Aukey）のドライバーが欧米で人気を集めている。1本の動画をきっかけに3000万の売り上げにつながったという。",
-      "source": "电商派",
-      "url": "https://www.pai.com.cn/p/01m3p7d9jtfcq87fjnj4jvjzmb",
-      "score": 55,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ドライバー セット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ギンガムチェックの子ども家具「Posie and Penn」",
-      "summary_ja": "英ハンプシャーの創業者ジェナ・ティリット＝ドレイク氏が手がける子ども家具ブランド「Posie and Penn」を紹介。ギンガムチェックのベッドなど、家族の住まいに合うかわいらしいインテリアをつくっている。",
-      "source": "Great British Life",
-      "url": "https://www.greatbritishlife.co.uk/magazines/hampshire/26545067.jenna-tyrwhitt-drake-posie-penn-childrens-furniture/",
-      "score": 50,
-      "commercial_score": 55,
-      "product_keywords": [
-        "子供用ベッド",
-        "ギンガムチェック"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ポリフォルム、ロンドンのショールームを改装",
-      "summary_ja": "イタリアの家具ブランド、ポリフォルムがロンドン・ウィグモア通りのショールームを改装した。マリルボーン地区の雰囲気を取り入れ、2フロアを住まいのように組み立てている。",
-      "source": "Wallpaper*",
-      "url": "https://www.wallpaper.com/design-interiors/poliform-wigmore-street-showroom-london",
-      "score": 50,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "モンチッチのキーホルダーや寝具がアベイルで発売",
-      "summary_ja": "モンチッチのキーホルダーや寝具などのグッズが、10月10日からアベイルで売り出される。",
-      "source": "コラボカフェ",
-      "url": "https://collabo-cafe.com/zh-hans/events/collabo/monchhichi-avail-1010-2026/?amp=1",
-      "score": 45,
+      "title_ja": "芝華仕（CHEERS）、Bose音響を組み込んだソファ発表",
+      "summary_ja": "家具ブランドの芝華仕が上海で新製品発表会を開き、Boseの音響技術「SoundbyBose」を搭載した機能ソファ「巴赫Pro」を発表した。家具と音響を組み合わせ、リビングでのくつろぎ方を広げる狙いだ。",
+      "source": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810766.html",
+      "score": 70,
       "commercial_score": 60,
       "product_keywords": [
-        "モンチッチ キーホルダー",
-        "モンチッチ"
+        "電動リクライニングソファ",
+        "スピーカー内蔵 ソファ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "「オニすけ」のアパレルとトートが通販に登場",
-      "summary_ja": "グッズ通販サイト「ANIGA-TER」が、人間社会を懸命に生きるキャラクター「オニすけ」のグッズを10月6日から売り出した。アパレルやトートバッグがそろう。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19851669?news_ref=watch_70_nw19787917",
-      "score": 40,
-      "commercial_score": 55,
+      "title_ja": "子どもの困りごとに応える新しい消しゴム3種",
+      "summary_ja": "「折れにくい」「なくしづらい」「持ちやすい」をうたう消しゴム3種類が発売された。力加減がうまくできず消しゴムをすぐボロボロにしてしまう低学年の子ども向けに作られたという。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c6e91f85617402e4fb6cc1891d7ce0229cb925c1?page=3",
+      "score": 65,
+      "commercial_score": 70,
       "product_keywords": [
-        "オニすけ"
+        "消しゴム 折れにくい",
+        "消しゴム 小学生"
       ],
       "country": "jp",
       "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "コッツウォルド・カンパニー、ナショナル・トラストと家具",
+      "summary_ja": "英国の家具ブランド、コッツウォルド・カンパニーがナショナル・トラストと組んだ新コレクションを出した。コッツウォルズ地方の歴史的建物の意匠に着想を得た木製家具で、責任ある調達の木材を使い、すっきりした現代的な形に仕上げている。",
+      "source": "House & Garden",
+      "url": "https://www.houseandgarden.co.uk/article/new-furniture-collection-the-cotswold-company-and-the-national-trust",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "無垢材 家具",
+        "カントリー 家具"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "「文具女子博2026」12月に横浜で開催、10回目",
+      "summary_ja": "日販セグモが、文具を見て触れて買えるイベント「文具女子博」を12月16日から20日までパシフィコ横浜で開く。今回で10回目となり、入場チケットの発売日も決まった。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19858975?news_ref=20_20",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "文具女子博"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "コセンティーノ、米国でショールームを拡大",
+      "summary_ja": "石材メーカーのコセンティーノ（Cosentino）が米国で新しいショールームを開き、「Studio」という新たな店舗形態も打ち出した。米国での存在感を高める狙いだ。",
+      "source": "InteriorDaily",
+      "url": "https://www.interiordaily.com/article/9880276/cosentino-expands-u-s-presence-with-new-showrooms-and-studio-concept/",
+      "score": 60,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ザラホームに1万1600ポンドのソファ",
+      "summary_ja": "ザラホーム（Zara Home）で、1万1600ポンドのソファが登場した。英タイムズ紙が、この価格で買う人がいるのかを問いかけている。",
+      "source": "The Times",
+      "url": "https://www.thetimes.com/life-style/property-home/article/zara-home-luca-guadagnino-homeware-furniture-s6x59vgzk",
+      "score": 60,
+      "commercial_score": 50,
+      "product_keywords": [
+        "Zara Home"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国製の家具・寝具、アマゾンで人気に",
+      "summary_ja": "中国のインテリア製品がアマゾンで売れ、海外の寝室にも入り込んでいる。寧波の事業者の中には月に5000万を売り上げる例もあると伝えている。",
+      "source": "电商派",
+      "url": "https://www.pai.com.cn/p/01m39bqhkc3ba9ewcqkkbcacgp",
+      "score": 60,
+      "commercial_score": 50,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "名古屋タカシマヤで文具イベント、食べ物モチーフが人気",
+      "summary_ja": "ジェイアール名古屋タカシマヤで10月7日から文房具を1万点以上集めたイベントが始まった。食べ物をテーマにした雑貨が人気で、エビフライ型の小物入れなどが注目を集めている。会期は10月12日まで。",
+      "source": "愛知のニュース",
+      "url": "https://news.tv-aichi.co.jp/single.php?id=10355",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "エビフライ 小物入れ",
+        "食品サンプル 文具"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "M・アナスタシアデスの照明、Flosで展開続く",
+      "summary_ja": "デザイナーのマイケル・アナスタシアデスが手がける照明が、照明ブランドFlosから引き続き展開されることになった。",
+      "source": "Wallpaper*",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/michael-anastassiades-flos-new-partnership-announced",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "Flos 照明"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "インテリア見本市Decorex、10月11日開幕",
+      "summary_ja": "インテリアの見本市「Decorex 2026」が10月11日から14日まで開かれる。出展が多く見どころも幅広いため、注目すべき展示を絞って紹介している。",
+      "source": "Yahoo Life UK",
+      "url": "https://uk.style.yahoo.com/decorex-2026-look-highlights-152200753.html",
+      "score": 55,
+      "commercial_score": 40,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ハーマンミラー、上海で期間限定ポップアップ",
+      "summary_ja": "家具ブランドのハーマンミラー（Herman Miller）が、中国の家具販売会社と組んで上海・西岸の商業施設に期間限定のポップアップ空間を設けた。",
+      "source": "欢迎访问ConCall",
+      "url": "https://cn.concall.com/article/detail/article_id/6188",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ハーマンミラー チェア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ベルリンの若手デザイナー展、折りたたみシンクなど",
+      "summary_ja": "ベルリンで開かれた若手デザイナーの展示会「Find Attached」で、少ない資源で多くを実現する作品が並んだ。折りたためるシンクや、自然の力で室内を涼しくする間仕切りなどが出展された。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/07/find-attached-exhibition-berlin-currents/amp/",
+      "score": 50,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "阪急うめだ本店で香りと織物の合同ポップアップ",
+      "summary_ja": "yaso、BOLOCO、PHAPHICの3ブランドが10月7日から13日まで、阪急うめだ本店で合同のポップアップ店「森と織」を開く。森の香りの試香や週末の香り作り、手織りのワークショップ、限定の体験セットを用意する。",
+      "source": "www.haveagood-holiday.com",
+      "url": "https://www.haveagood-holiday.com/zh-CN/articles/mori-to-ori-popup-hankyu-umeda",
+      "score": 50,
+      "commercial_score": 55,
+      "product_keywords": [
+        "森 香り ルームフレグランス"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

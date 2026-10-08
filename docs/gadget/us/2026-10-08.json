@@ -1,0 +1,43 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:18:43+09:00",
+  "stories": [
+    {
+      "title_ja": "Surface Laptop Ultra、価格と発売日が決定",
+      "summary_ja": "マイクロソフトが「Surface Laptop Ultra」の価格と発売日を明らかにし、注文受付を始めました。出荷は10月16日からの予定です。外れるタイプのUSB-Cポートを世界で初めて採用したとしています。",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date",
+      "score": 95,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Surface Laptop"
+      ]
+    },
+    {
+      "title_ja": "HPのRTX Spark搭載ノート、米ストアで価格が判明",
+      "summary_ja": "HPがNVIDIAの新チップ「RTX Spark」を積んだ「OmniBook Ultra 16」と「OmniBook X 14」を発売する準備を進めています。発売前に米国の公式ストアに一時掲載され、予想より高い価格が明らかになりました。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Nvidia-RTX-Spark-for-2-999-99-HP-leak-reveals-RTX-Spark-laptop-pricing-ahead-of-launch.1417872.0.html",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "HP OmniBook"
+      ]
+    },
+    {
+      "title_ja": "インテルCore 2000HX、24コアでDDR4に対応",
+      "summary_ja": "インテルのノート向けチップ「Core 2000HX」は、24コアを備えつつDDR4メモリーに引き続き対応します。メモリー価格が上がる中での判断で、2027年のゲーミングノートの価格にも関わりそうです。",
+      "source": "https://tech-insider.org/",
+      "url": "https://tech-insider.org/intel-core-2000hx-ddr4-laptop-strategy-2026/",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ゲーミングノートPC"
+      ]
+    }
+  ]
+}
