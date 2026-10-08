@@ -1,0 +1,55 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:18:43+09:00",
+  "stories": [
+    {
+      "title_ja": "デル、RTX Spark搭載「XPS 16 Creator Edition」発表",
+      "summary_ja": "デルがNVIDIAの「RTX Spark」を搭載した新しいノートPC「XPS 16 Creator Edition」を発表しました。クリエイター向けのモデルです。",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/113975/dell-unveils-its-new-xps-16-creator-edition-laptop-powered-by-rtx-spark/index.html",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Dell XPS"
+      ]
+    },
+    {
+      "title_ja": "Boseのノイキャンヘッドホン、44％引きに",
+      "summary_ja": "Boseのノイズキャンセリングヘッドホン「QuietComfort SC」が44％引きで販売されています。ほぼ半額で買える値下げです。",
+      "source": "T3",
+      "url": "https://www.t3.com/tech/headphones/boses-incredible-noise-cancelling-headphones-are-now-almost-half-price",
+      "score": 70,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Bose QuietComfort",
+        "ノイズキャンセリングヘッドホン"
+      ]
+    },
+    {
+      "title_ja": "MSI、RTX Spark搭載の2in1ノートを発表",
+      "summary_ja": "MSIがNVIDIAの「RTX Spark」を搭載した新しいノートPC「Prestige N16 Flip AI+」を発表しました。ノートとしてもタブレットのようにも使える2in1タイプです。",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/113982/msis-new-prestige-n16-flip-ai-plus-is-a-two-in-one-rtx-spark-laptop/index.html",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "MSI Prestige"
+      ]
+    },
+    {
+      "title_ja": "英Argos、1時間53ペンスで使える暖房器具が話題",
+      "summary_ja": "英Argosが販売する暖房器具が、1時間あたり53ペンスの電気代で部屋を暖められるとして注目されています。セントラルヒーティングに頼らず、寒い日に使えるとしています。",
+      "source": "Daily Record",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/argos-53p-hour-gadget-keeps-37744104",
+      "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "電気ヒーター"
+      ]
+    }
+  ]
+}

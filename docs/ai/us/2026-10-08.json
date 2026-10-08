@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:17:13+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAI、GPT-6をChatGPTで世界に提供開始",
+      "summary_ja": "OpenAIはChatGPTで新モデル「GPT-6」の世界的な提供を始めた。新機能「インテリジェントUI」により、応答が速くなるとともに、図や操作できる画面で答えを示すようになる。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 95,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ChatGPT 本"
+      ]
+    },
+    {
+      "title_ja": "Anthropic、低価格の小型AI「Claude Haiku 5.5」",
+      "summary_ja": "Anthropicが小型モデル「Claude Haiku 5.5」を公開した。100万トークンの長い文脈を扱え、処理の手間を調整できるほか、入力100万トークンあたり0.10ドルという低価格で大量の処理に向く。",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "score": 85,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "OpenAI、300超の数学研究問題での成果を公表",
+      "summary_ja": "OpenAIが300を超える数学の研究問題について、AIによる進展を公表した。専門家を驚かせる内容として報じられている。",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/",
+      "score": 70,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "10代のChatGPT利用は1日15分未満とOpenAI",
+      "summary_ja": "OpenAIは、10代のChatGPT利用時間は1日15分に満たないと明らかにした。若者への影響を心配する声が高まるなかでの説明となる。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
+      "score": 60,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "AIの値下げ競争が激化、OpenAIが追い上げ",
+      "summary_ja": "生成AIサービスの価格をめぐる競争が激しくなっている。この競争のなかで、OpenAIがAnthropicとの差を縮めていると報じられた。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b",
+      "score": 55,
+      "commercial_score": 35
+    }
+  ]
+}

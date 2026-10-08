@@ -1,0 +1,49 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:22:38+09:00",
+  "stories": [
+    {
+      "title_ja": "ホールフーズ、LAに旗艦店を11月11日開業",
+      "summary_ja": "ホールフーズ・マーケットがロサンゼルスの3番街とフェアファックスの交差点近くに、約6万3000平方フィートの旗艦店を11月11日に開く。隣にあった元のフェアファックス店を移転する形となる。",
+      "source": "WebWire",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362580",
+      "score": 80,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "ギラデリ、クッキー売り場に参入 新商品2品",
+      "summary_ja": "チョコレートブランドのギラデリ（Ghirardelli）が、クッキーの新商品2品を投入し、クッキー売り場に進出した。",
+      "source": "Snack Food & Wholesale Bakery",
+      "url": "https://www.snackandbakery.com/articles/116452-ghirardelli-breaks-into-the-cookie-aisle-with-two-new-treats",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ギラデリ",
+        "ギラデリ チョコレート"
+      ]
+    },
+    {
+      "title_ja": "米Datassential、2027年の食と飲料のトレンド予測を公表",
+      "summary_ja": "米調査会社Datassentialが、2027年に向けた食品・味・飲料のトレンド予測を発表した。消費者の75%が新しいトレンドを楽しみにしていると答えている。",
+      "source": "www.bluebookservices.com",
+      "url": "https://www.bluebookservices.com/datassential-releases-food-flavor-and-beverage-trend-predictions-for-2027/",
+      "score": 70,
+      "commercial_score": 35
+    },
+    {
+      "title_ja": "HoneyBaked、高たんぱくのスナックカップを発売",
+      "summary_ja": "米HoneyBakedが、たんぱく質を多く含むスナックカップを新たに売り出した。1個あたり最大38グラムのたんぱく質を含むという。",
+      "source": "Parade Magazine",
+      "url": "https://parade.com/food/honeybaked-launches-new-protein-packed-snack-cups-with-up-to-38-grams-each",
+      "score": 60,
+      "commercial_score": 65,
+      "product_keywords": [
+        "高たんぱく スナック"
+      ]
+    }
+  ]
+}

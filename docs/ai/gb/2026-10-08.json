@@ -1,0 +1,45 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T16:17:13+09:00",
+  "stories": [
+    {
+      "title_ja": "LibreOffice、「AIなし」を売りに打ち出す",
+      "summary_ja": "無料のオフィスソフトLibreOfficeが、AI機能を載せていないことを特長として打ち出した。ただし、将来AI機能を加える可能性は完全には否定していない。",
+      "source": "Computerworld",
+      "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "オフィスソフト"
+      ]
+    },
+    {
+      "title_ja": "AIで症状を自己チェック、適切な受診につながる",
+      "summary_ja": "AIを使った症状の自己評価サービスを利用した後、患者の受診意向や実際の受診がどう変わったかを調べた研究が報告された。利用者の不安が減り、医療資源のより適切な利用につながったという。",
+      "source": "2 Minute Medicine",
+      "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-supported-symptom-self-assessment-led-to-more-appropriate-patient-care-decisions/",
+      "score": 65,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "AIが下水流出を防ぐ、英ニューフォレスト",
+      "summary_ja": "英南部ニューフォレストで、貴重な小川への下水の流出が人工知能によって未然に防がれた。",
+      "source": "Bournemouth Echo",
+      "url": "https://www.bournemouthecho.co.uk/news/26617348.ai-helps-prevent-sewage-spill-new-forest-stream/",
+      "score": 55,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "自律型AIが皮膚科医の診療を手助け",
+      "summary_ja": "自律的に動くAIを使うことで、皮膚科医が診られる患者の数を増やせる可能性があると報じられた。",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-10-autonomous-ai-clinical-capacity-dermatologists.html",
+      "score": 50,
+      "commercial_score": 15
+    }
+  ]
+}
