@@ -11,6 +11,8 @@
 #
 # 使い方: scripts/run_daily.sh [YYYY-MM-DD] [ジャンル ...]
 #   日付を省くと今日（日本時間）。ジャンルを省くと全ジャンル＋トレンド。
+#   NEWS_ENGINE=agy なら Antigravity の CLI（agy。Google AI Pro の枠）で書かせる（既定は claude。Claude のサブスクの枠）。
+#   NEWS_AGY_MODEL は agy の --model（既定 claude-sonnet-5-5-medium）。agy の許可は README「agy で動かす」。
 #   NEWS_MODEL を入れると claude の --model に渡す。NEWS_NO_PUBLISH=1 なら PR を作らない（試すとき）。
 #   NEWS_BASE_REF で始めるコミットを変えられる（既定 origin/main。ブランチで試すとき）。
 set -uo pipefail
@@ -85,6 +87,17 @@ for g in "${GENRES[@]}"; do
 
   echo "--- $(date '+%T') $g"
   rm -f "work/$DATE/input/$g.json"
+  if [ "${NEWS_ENGINE:-claude}" = "agy" ]; then
+    # 許可は ~/.gemini/antigravity-cli/settings.json（README「agy で動かす」）: 走らせてよいのは resolve と build だけ、
+    # 書き込みは work/ だけ（docs/・scripts/・prompts/ は拒否）。Web の取得は使わない（取ってくるのはスクリプト）。
+    "$HOME/.local/bin/agy" -p "$prompt
+
+# 道具について
+- コマンドは、上の 2 つ（resolve と build）を、書いてあるとおりの形で、このフォルダ（${ROOT}）から実行する。cd や別のコマンド（cat・ls など）は使えない
+- ファイルを読むときと書くときは、ファイルの読み書きの道具を使う" \
+      --model "${NEWS_AGY_MODEL:-claude-sonnet-5-5-medium}" --print-timeout 1500s 2>>"$LOG" \
+    | tail -5
+  else
   # 1 ジャンル 25 分で打ち切る（macOS には timeout が無いので perl の alarm）。
   perl -e 'alarm shift; exec @ARGV' 1500 \
     claude -p "$prompt" ${MODEL_ARGS[@]+"${MODEL_ARGS[@]}"} \
@@ -97,6 +110,7 @@ for g in "${GENRES[@]}"; do
         "Bash(python3 scripts/news_pipeline.py resolve --date $DATE --genre $g)" \
         "Bash(python3 scripts/news_pipeline.py build --date $DATE --genre $g)" \
     | tail -5
+  fi
 
   if [ -s "work/$DATE/input/$g.json" ]; then
     python3 scripts/generate_dashboard.py --genre "$g" --input "work/$DATE/input/$g.json" --date "$DATE" | tail -1 || FAILED+=("$g")
