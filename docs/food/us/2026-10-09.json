@@ -1,0 +1,34 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:34:17+09:00",
+  "stories": [
+    {
+      "title_ja": "KFC、カップホルダーに入る4ドル未満の新セット",
+      "summary_ja": "KFCが、車のカップホルダーに収まる「Go Buckets」を始める。ナゲット、テンダー、ウイングから選べ、シークレットレシピのフライかポテトウェッジが付く。",
+      "source": "Allrecipes",
+      "url": "https://www.allrecipes.com/kfc-launches-go-buckets-12160159",
+      "score": 70,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "サブウェイ、夜向け「After Dark」メニューを試験",
+      "summary_ja": "サブウェイが、深夜帯向けの新コンセプト「Subway After Dark」を試している。フットロングのピザなどを加えた拡大メニューで展開する。",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/food/subway-testing-after-dark-menu-with-mac-and-cheese-footlong-pizzas-more-3416709/",
+      "score": 60,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "チェスターズ・チキン、フライヤー不要の新業態",
+      "summary_ja": "米チキンチェーンのチェスターズ・チキンが、高速オーブンで調理済みのチキンを提供するテイクアウト型の新形態を始める。厨房が狭い事業者でも導入しやすいという。",
+      "source": "WATTPoultry.com",
+      "url": "https://www.wattagnet.com/poultry-future/consumer-trends/news/15836950/chesters-chicken-launches-fryerfree-express-format",
+      "score": 45,
+      "commercial_score": 20
+    }
+  ]
+}

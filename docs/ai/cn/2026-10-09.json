@@ -1,0 +1,41 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:31:20+09:00",
+  "stories": [
+    {
+      "title_ja": "レノボ、NVIDIA新チップ搭載のAI PCを中国で予約開始",
+      "summary_ja": "聯想（Lenovo）が8日、NVIDIAのRTX Spark N1Xチップを世界で初めて載せたAI PC新製品を発表した。中国で予約販売が始まった。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_1496814565_593793e5020026p8k.html?from=news&subch=onews",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Lenovo ノートPC",
+        "AI PC"
+      ]
+    },
+    {
+      "title_ja": "AIに「発想の飛躍」を教える研究、独創性が向上",
+      "summary_ja": "研究者らが、強化学習で言語モデルの創造性を調整する枠組みを提案した。研究案の独創性や予想される引用への影響が、元のモデルや単純に温度を上げる方法より高まったという。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1008/3201312.shtml",
+      "score": 45,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "蘇州企業、感情大模型を使うAI癒やしぬいぐるみ",
+      "summary_ja": "蘇州の鼎級数字が、自社の感情大モデルを実体化し、触れて対話できるAI人形を作っている。伝統的な文化創作との組み合わせを探る取り組みだ。",
+      "source": "苏州工业园区管理委员会",
+      "url": "https://www.sipac.gov.cn/kjhxxhj/gzdt/202610/d640829172af42669c1447b409c42e2a.shtml",
+      "score": 40,
+      "commercial_score": 60,
+      "product_keywords": [
+        "AI ぬいぐるみ"
+      ]
+    }
+  ]
+}

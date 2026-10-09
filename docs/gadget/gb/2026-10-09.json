@@ -1,0 +1,67 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:32:16+09:00",
+  "stories": [
+    {
+      "title_ja": "Surface Laptop Ultraの価格が判明、最大128GBメモリ",
+      "summary_ja": "マイクロソフトのSurface Laptop Ultraは、Nvidiaの新チップRTX Sparkを積み、最大128GBのメモリを選べる。価格はパワーユーザー向けの設定になった。",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "Surface Laptop"
+      ]
+    },
+    {
+      "title_ja": "アマゾン、12インチのAlexaタブレットを3モデルで発売",
+      "summary_ja": "アマゾンがAlexaタブレットを3モデルで投入した。上位の12 Proは499.99ドルからで、反射を抑えるNanomatte画面も選べる。Google Playにも対応する。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/amazons-alexa-tablets-arrive-with-a-12-inch-anti-glare-screen",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Alexa タブレット",
+        "Fire タブレット"
+      ]
+    },
+    {
+      "title_ja": "アップル初の折りたたみ「iPhone Duo」、予約開始が近い",
+      "summary_ja": "アップル初の折りたたみ式スマホ「iPhone Duo」の予約が近く始まると報じられた。購入前に知っておきたい点と、見つかったお得な情報がまとめられている。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/phones-accessories/iphone-duo-release-date-pre-order-b3063358.html",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "折りたたみスマホ",
+        "iPhone"
+      ]
+    },
+    {
+      "title_ja": "Surfaceに磁石で付くUSB-C充電端子が登場",
+      "summary_ja": "マイクロソフトが、MagSafeに似た磁石式の充電端子を新Surfaceに採用した。通常のUSB-Cポートとしても使える。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra-magnetic-usb-c-port",
+      "score": 55,
+      "commercial_score": 45,
+      "product_keywords": [
+        "USB-C 充電ケーブル マグネット"
+      ]
+    },
+    {
+      "title_ja": "Bose QuietComfort 第2世代が初の値下げ",
+      "summary_ja": "ボーズのヘッドホンQuietComfort 第2世代が、Amazonで40ドル引きになった。値下げは今回が初めてだという。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/sept-29-bose-quietcomfort-2nd-gen-headphones-deal",
+      "score": 40,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Bose QuietComfort"
+      ]
+    }
+  ]
+}

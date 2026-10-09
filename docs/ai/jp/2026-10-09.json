@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:31:20+09:00",
+  "stories": [
+    {
+      "title_ja": "アマゾン、アレクサ+搭載の新型タブレット3機種",
+      "summary_ja": "米アマゾンが8日、生成AIの音声サービス「アレクサ・プラス」を組み込んだタブレット3機種を発表した。グーグルのアプリ配信サービスに対応し、動画などの数百万のアプリを使える。",
+      "source": "産経ニュース",
+      "url": "https://www.sankei.com/article/20261009-ZXC3TAJVGNNK5CBPUM2ZLVQ42U/",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Fire タブレット",
+        "Amazon タブレット"
+      ]
+    },
+    {
+      "title_ja": "グーグル、AI生成物の透かしを調べる検出ツール公開",
+      "summary_ja": "グーグルが、AIで作ったり編集したりした画像や動画を見分けるツールを自社サイトで公開した。ファイルをアップロードすると、人の目には見えない透かしが入っているかを確認できる。",
+      "source": "ITmedia エグゼクティブ",
+      "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/09/2000002151/",
+      "score": 70,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "Z世代の生成AI利用は約6割、買い物の最後はSNS",
+      "summary_ja": "MERYがZ世代の意識を調べた結果が公表された。日用品やコスメ選びで生成AIを使う人がいる一方、最終的な判断ではSNSの口コミを重く見る傾向があるという。",
+      "source": "コマースピック",
+      "url": "https://www.commercepick.com/archives/104810",
+      "score": 55,
+      "commercial_score": 70,
+      "product_keywords": [
+        "コスメ",
+        "日用品"
+      ]
+    }
+  ]
+}
