@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:31:20+09:00",
+  "stories": [
+    {
+      "title_ja": "MITとMecalux、物流幹部向けAI講座を開始",
+      "summary_ja": "MITとMecaluxが、サプライチェーンを担う経営層向けの2日間のAI講座を始めた。倉庫管理から需要予測まで、AIの試みを実際のプロジェクトにつなげることを目指す。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/mit-mecalux-launch-ai-course-for-supply-chain-leaders",
+      "score": 50,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "地図サービスGIS Cloud、AI機能で利用者が倍増",
+      "summary_ja": "地図プラットフォームのGIS Cloudは、AIツールの追加が追い風となり、利用者が60カ国で22万人を超えた。毎日の新規登録も100件を上回っている。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/gis-cloud-doubles-user-growth-as-ai-tools-drive-uptake",
+      "score": 45,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "MIT研究者、AI時代の大学のあり方を論じる",
+      "summary_ja": "MITのラクリン氏が、AIが数学や統計、工学などの学術分野をどう変えるかを論じたエッセイを公表した。学部や大学が考えるべき問いと、AIとの付き合い方を示している。",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+      "score": 40,
+      "commercial_score": 10
+    }
+  ]
+}

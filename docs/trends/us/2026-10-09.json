@@ -1,0 +1,111 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:48:03+09:00",
+  "trends": [
+    {
+      "keyword": "Prime Big Deal Days",
+      "reason_ja": "10月のプライムデーは終わったが、まだ続いている割引商品が紹介されているため。",
+      "genre": "sale",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Prime Big Deal Days deals"
+      ],
+      "product_keywords_ja": [],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "10月プライムデーの割引、まだ続く商品も",
+          "summary_ja": "10月のプライムデーは終わりましたが、一部の割引はまだ続いています。テック、ホーム、ビューティーなどの商品が紹介されています。",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-still-live-2026-rcna602286"
+        },
+        {
+          "title_ja": "Prime Big Deal Days の大幅割引がまだ残る",
+          "summary_ja": "プライムデーの深い割引の一部が、まだ購入できると伝えられています。Samsonite や JBL などが例に挙がっています。",
+          "source": "TODAY.com",
+          "url": "https://www.today.com/shop/october-prime-day-deepest-discounts-2026-rcna600246"
+        },
+        {
+          "title_ja": "プライムデー終了後も残るセール品",
+          "summary_ja": "Hanes、Carhartt、Apple などの商品で、まだ続いているセールが紹介されています。長くは続かないとされています。",
+          "source": "Yahoo",
+          "url": "https://shopping.yahoo.com/deals/breaking-news/article/october-prime-day-is-over-but-these-deals-are-still-live-score-last-chance-savings-from-hanes-carhartt-apple-and-more-200938679.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Alexa+ tablet",
+      "reason_ja": "Amazonが Alexa+ 内蔵の Android タブレットを発表したため。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Amazon Alexa Tablet",
+        "Android tablet"
+      ],
+      "product_keywords_ja": [
+        "Androidタブレット"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Alexa+ 内蔵の新型 Amazon Alexa Tablets",
+          "summary_ja": "Amazonが、Alexa+ を内蔵した新しいタブレットを発表しました。高品質なハードウェアと Google Play が使える点、長時間の読書が可能な点が特徴です。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
+        },
+        {
+          "title_ja": "Fire タブレットから Alexa 搭載 Android へ",
+          "summary_ja": "Amazonは Fire タブレットを段階的にやめ、Android 搭載の Alexa Tablet に置き換えます。Google Play に対応し、ハードも改良され、Alexa+ が中心になります。",
+          "source": "WeRSM",
+          "url": "https://wersm.com/amazon-phasing-out-fire-tablets-alexa-android-tablets/"
+        },
+        {
+          "title_ja": "Alexa Tablets は 229.99 ドルから、12 Pro は低反射画面",
+          "summary_ja": "Alexa Tablets は米国で229.99ドルから販売されます。12 Pro には Nanomatte 画面のモデルも加わります。",
+          "source": "Tech My Money",
+          "url": "https://techmymoney.com/2026/10/09/amazon-alexa-tablets-12-pro-nanomatte-prices-ship-dates/"
+        }
+      ]
+    },
+    {
+      "keyword": "Call of Duty Modern Warfare 4",
+      "reason_ja": "新作の DMZ 紹介やキャンペーン先行アクセスの情報が相次いでいるため。",
+      "genre": "gadget",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Modern Warfare 4",
+        "gaming headset"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングヘッドセット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "DMZ 詳細ガイド第1回：Hajin の環境と脅威",
+          "summary_ja": "DMZ の舞台となる Hajin と立入禁止区域を詳しく紹介するガイドです。HUDや戦術マップの情報、敵勢力、乗り物、主要な地点などを扱っています。",
+          "source": "Call of Duty® | Best-Selling Video Game Franchise",
+          "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-deep-dive-hajin"
+        },
+        {
+          "title_ja": "MW4 のキャンペーン先行アクセスと DLSS 4.5 対応",
+          "summary_ja": "NVIDIAが、Modern Warfare 4 のキャンペーン先行アクセスの開始と DLSS 4.5 への対応を伝えています。他の新作ゲームの配信状況も紹介されています。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/"
+        },
+        {
+          "title_ja": "MW4 の DMZ ストーリーミッション公式トレーラー",
+          "summary_ja": "IGNが、Modern Warfare 4 の DMZ ストーリーミッションのトレーラーを公開しました。物語のあるミッションで情報を集め、課題を乗り越える内容です。",
+          "source": "IGN",
+          "url": "https://www.ign.com/videos/call-of-duty-modern-warfare-4-official-dmz-story-missions-trailer"
+        }
+      ]
+    }
+  ]
+}

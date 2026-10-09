@@ -1,0 +1,97 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:48:03+09:00",
+  "trends": [
+    {
+      "keyword": "Amazon Alexa tablets",
+      "reason_ja": "Amazonが Fire ブランドをやめた新しい Alexa Tablets を発表したため。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Amazon Alexa Tablet",
+        "Android tablet"
+      ],
+      "product_keywords_ja": [
+        "Androidタブレット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Alexa+ 内蔵の新型 Amazon Alexa Tablets",
+          "summary_ja": "Amazonが、Alexa+ を内蔵した新しいタブレットを発表しました。高品質なハードウェアと Google Play が使える点、長時間の読書が可能な点が特徴です。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
+        },
+        {
+          "title_ja": "Fire の名を外し、より Android らしく",
+          "summary_ja": "Amazonは自社のアプリストアをやめ、Google Play を使うことにしました。新しい Alexa Tablets は Fire の名前を外しています。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/"
+        }
+      ]
+    },
+    {
+      "keyword": "Met Office winter forecast",
+      "reason_ja": "エルニーニョの影響で今冬の英国の天候がどうなるかが注目されているため。",
+      "genre": "other",
+      "commercial_score": 50,
+      "product_keywords": [
+        "winter coat",
+        "heater"
+      ],
+      "product_keywords_ja": [
+        "防寒着",
+        "電気毛布"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "エルニーニョと極渦で英国に雪は降るか",
+          "summary_ja": "発達中のエルニーニョは英国の秋から冬の天候に影響するかもしれませんが、寒さが確実とは限らないとBBCは伝えています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o"
+        },
+        {
+          "title_ja": "強いエルニーニョ、ロンドン市民が知るべき旅行への影響",
+          "summary_ja": "クリスマスや冬の旅行を計画しているロンドン市民に向けて、強いエルニーニョが旅行計画に与える影響を今のうちに確認するよう伝えています。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/news/london/uk-foreign-office-godzilla-el-nino-travel-warning-london-b1299915.html"
+        }
+      ]
+    },
+    {
+      "keyword": "clocks go back",
+      "reason_ja": "夏時間の終わりが近づき、時計を戻す日への関心が高まっているため。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "alarm clock",
+        "wake up light"
+      ],
+      "product_keywords_ja": [
+        "目覚まし時計"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "夏時間の終了、時計を戻すのはいつか",
+          "summary_ja": "夏時間を恒久化する議会の動きは止まっており、大半の米国人は1か月以内に時計を戻す見通しだと伝えています。",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508"
+        },
+        {
+          "title_ja": "夏時間はハロウィーンの週末に終わる",
+          "summary_ja": "時計を戻す時期が近づく中、夏時間を恒久化すべきかどうかの議論が続いていると伝えています。",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/07/metro/when-change-clocks-2026-daylight-saving-time/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:32:16+09:00",
+  "stories": [
+    {
+      "title_ja": "Nvidia搭載のRTX Sparkノート、10月16日発売で2600ドルから",
+      "summary_ja": "NvidiaのRTX Spark搭載ノートPCは2,600ドルからで、10月16日に発売される。マイクロソフトのSurface Laptop Ultraのほか、複数のメーカーが同時に投入する。",
+      "source": "ExtremeTech",
+      "url": "https://www.extremetech.com/computing/nvidia-rtx-spark-laptops-will-start-at-2600-launch-october-16",
+      "score": 85,
+      "commercial_score": 65,
+      "product_keywords": [
+        "RTX Spark ノートPC"
+      ]
+    },
+    {
+      "title_ja": "マイクロソフト、2599ドルのSurface Laptop Ultra予約開始",
+      "summary_ja": "マイクロソフトがNvidiaのチップを積んだAI向けの新Surfaceの予約受付を始めた。価格は2,599ドル。同社がハードウェアに力を入れる姿勢を示す製品だ。",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai/articles/microsoft-opens-preorders-for-2-599-surface-laptop-ultra",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Surface Laptop"
+      ]
+    },
+    {
+      "title_ja": "アップル、タッチ対応OLED MacBook Proを10月27日ごろ発表か",
+      "summary_ja": "ブルームバーグによると、アップルは10月27日前後にタッチ操作対応の有機EL MacBook Proと有機EL搭載のiPad miniを発表する。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "MacBook Pro",
+        "iPad mini"
+      ]
+    },
+    {
+      "title_ja": "OPPO Find X10シリーズ、10月21日に世界発売",
+      "summary_ja": "OPPOの最新フラッグシップスマホ、Find X10シリーズが10月21日に世界向けに発表される。",
+      "source": "GadgetMatch",
+      "url": "https://www.gadgetmatch.com/oppo-find-x10-series-launches-globally-october-21/",
+      "score": 55,
+      "commercial_score": 60,
+      "product_keywords": [
+        "OPPO Find X10"
+      ]
+    },
+    {
+      "title_ja": "RedMagic 12 Pro+の画像公開、画面下カメラと液冷を採用",
+      "summary_ja": "Nubiaが発売の数日前に、新型ゲーミングスマホRedMagic 12 Pro+の画像を初めて公開した。ノッチもパンチホールもなく、RGBライト付きの液冷機構を備える。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/RedMagic-12-Pro-appears-with-under-display-camera-and-liquid-cooling-days-before-launch.1419131.0.html",
+      "score": 50,
+      "commercial_score": 55,
+      "product_keywords": [
+        "RedMagic 12 Pro+"
+      ]
+    },
+    {
+      "title_ja": "レノボの低価格ノートに120Hz画面モデル、電池持ちも向上",
+      "summary_ja": "レノボがIdeaPad Slim 3x 15Q7X11を投入した。120Hz表示を選べ、公式テストの電池持続は33時間。前モデルより45%以上長く、電池容量が大きかった旧型を上回るという。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-budget-laptop-with-120-Hz-display-and-over-45-longer-battery-life-than-older-model.1419184.0.html",
+      "score": 45,
+      "commercial_score": 70,
+      "product_keywords": [
+        "レノボ IdeaPad Slim 3"
+      ]
+    }
+  ]
+}

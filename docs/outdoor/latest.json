@@ -1,229 +1,194 @@
 {
   "genre": "outdoor",
   "genre_label_ja": "アウトドア",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T16:25:15+09:00",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:44:46+09:00",
   "stories": [
     {
-      "title_ja": "ホグロフスの渋谷店、キャットストリートへ移転開業",
-      "summary_ja": "スウェーデン発のアウトドアブランド「ホグロフス」の直営店が、原宿から渋谷・キャットストリートへ移った。新店は10月8日にオープンし、運営は日本の総代理店が担う。",
+      "title_ja": "スノーピーク×メレル、コラボ靴第4弾が16日発売",
+      "summary_ja": "スノーピークと米ブランドのメレルが、コラボ第4弾のシューズ「AGILITY PEAK 6 BOA SP」を16日に発売します。メンズとウィメンズがあり、キャンプから日常まで使える一足です。",
+      "source": "kenoh.com",
+      "url": "https://www.kenoh.com/news/100527/",
+      "score": 65,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スノーピーク メレル",
+        "メレル シューズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "コールマンのリクライニングチェアがSNSで好評",
+      "summary_ja": "背もたれとフットレストが連動し、好みの角度で固定できるコールマンのチェアが話題です。自宅でもキャンプでも使え、ソファ代わりにしているという声が出ています。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/5adfce5df1e2382b5aaadbcbc7a77c9c4f3c8f2e",
-      "score": 80,
-      "commercial_score": 75,
+      "url": "https://news.yahoo.co.jp/articles/1ff4b522ac14c7716d5cbfcaa5350ccea33ae2b3",
+      "score": 60,
+      "commercial_score": 85,
       "product_keywords": [
-        "ホグロフス",
-        "ホグロフス ジャケット"
+        "コールマン リクライニングチェア",
+        "アウトドアチェア"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米老舗誌「Outdoor Life」、投資会社が買収",
-      "summary_ja": "創刊130年の米アウトドア誌「Outdoor Life」を、投資ファンドのeFormed VenturesがRecurrent Venturesから買い取った。AIを使って道具選びから購入までを変える計画だという。",
-      "source": "GearJunkie",
-      "url": "https://gearjunkie.com/outdoor/outdoor-life-acquired-eformed-ventures-ai-marketplace",
-      "score": 80,
-      "commercial_score": 50,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Jackery、難病の子のキャンプ場に電源を寄贈",
-      "summary_ja": "ポータブル電源のJackeryの日本法人が、北海道滝川市の「そらぷちキッズキャンプ」にポータブル電源やソーラーパネルなど計10台を贈った。難病の子ども向けの医療ケア付きキャンプ場で、クマ対策や施設運営に使われる。",
-      "source": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=000000368.000039188&g=prt",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Jackery ポータブル電源",
-        "ソーラーパネル"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ナイキACG、超軽量の登山ジャケットを投入",
-      "summary_ja": "ナイキのアウトドアライン「ACG」が、新しい超軽量ジャケット「Lava Flow Ultralight」を出した。パタゴニアやアークテリクス、マウンテンハードウェアが強い山岳ウェアの分野で存在感を高める狙い。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/outdoors/nike-acg-lava-flow-ultralight-jacket/",
-      "score": 75,
+      "title_ja": "防災グッズ大賞2026、アウトドア部門の受賞品が決定",
+      "summary_ja": "「防災グッズ大賞2026」のアウトドア用品部門の受賞品が発表されました。大賞はビクトリノックスのLEDライト付きマルチツールで、優秀賞にはホイッスル付きミニウォレットなどが選ばれています。",
+      "source": "MonoMax web",
+      "url": "https://monomax.jp/archives/366313/",
+      "score": 60,
       "commercial_score": 80,
       "product_keywords": [
-        "ナイキ ACG ジャケット",
-        "超軽量 ジャケット 登山"
+        "ビクトリノックス マルチツール",
+        "防災グッズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "パタゴニアの新作ジャケット「ヘイズピーク」",
+      "summary_ja": "パタゴニアが断熱素材で新しい展開として、日常使いしやすいデザインのコレクションを出しました。その中の「ヘイズピーク ジャケット」が、秋の旅行やアウトドア向けに紹介されています。",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/outdoors/patagonia-heyes-peak/",
+      "score": 60,
+      "commercial_score": 80,
+      "product_keywords": [
+        "パタゴニア ジャケット",
+        "ナノパフ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "3歳児、湖水地方の214峰を最年少で踏破",
-      "summary_ja": "英国湖水地方にある214の山すべてを、3歳の子どもが歩いて登り切った。これまでで最も若い達成者になった。",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/news/2026/10/07/three-year-old-youngest-child-to-hike-lake-district-peaks/",
-      "score": 75,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "title_ja": "MIGRATRAILが犬連れキャンプ向けギア4種を発売",
+      "summary_ja": "MIGRATRAILが、愛犬と過ごすキャンプ向けの新作ギアを4種発売しました。サイトでの繋ぎ方やリードの絡まり、散歩中に両手がふさがるといった悩みに応える製品群です。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3d4401e69fa893a6bf2e43ecd4c02fbe30f22bef",
+      "score": 55,
+      "commercial_score": 80,
+      "product_keywords": [
+        "MIGRATRAIL",
+        "犬 キャンプ リード"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "青島の公園、手ぶらでキャンプできる仕組みを導入",
-      "summary_ja": "中国・青島の世博園で、移動式の蓄電、キャンプ用品のスマートレンタル、無人の自動配送を一つの芝生広場にまとめた取り組みが始まった。来園者は手ぶらで入っても野外料理を楽しめる。園内には18か所のキャンプ区画が設けられた。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1085052716_355158",
-      "score": 75,
+      "title_ja": "予約待ちが出るフリースパーカー、Melanzanaの舞台裏",
+      "summary_ja": "コロラド州リードビルのMelanzanaは、定番のマイクログリッドフリースで人気のブランドです。元従業員や地元の人、ファンの声から、その知られざる経緯を探った記事です。",
+      "source": "Outside Magazine",
+      "url": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/melanzana-oral-history/",
+      "score": 55,
       "commercial_score": 60,
       "product_keywords": [
-        "ポータブル電源",
-        "キャンプ用品"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "北京でキャンピングカー博覧会、10月16日開幕",
-      "summary_ja": "第45回北京キャンピングカー・キャンプ博覧会が10月16日に通州区で始まり、新しいキャンプ場もお披露目される。国がキャンピングカーの消費を後押しする方針を示したことを受けた開催。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1084976679_121925623",
-      "score": 70,
-      "commercial_score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英ファインシェイド・ウッドのキャンプ場、11月末まで延長",
-      "summary_ja": "英ノーサンプトンシャーのファインシェイド・ウッドのキャンプ場が、営業期間を2026年11月末まで延ばした。4月に英国森林局の施設として再開し、最初のシーズンが好調だったという。紅葉の森を長く楽しめる。",
-      "source": "CaravanTimes",
-      "url": "https://www.caravantimes.co.uk/news/fineshade-wood-campsite-extends-its-season-until-the-end-of-november/",
-      "score": 65,
-      "commercial_score": 35,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国の老舗紳士服各社、アウトドアに相次ぎ参入",
-      "summary_ja": "中国の老舗紳士服メーカーが、相次いでアウトドア事業に乗り出している。報喜鸟は米ウールリッチの欧州以外での商標権を取得し、比音勒芬はスノーピークの中国での事業権を得た。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1085088356_122014422",
-      "score": 65,
-      "commercial_score": 55,
-      "product_keywords": [
-        "スノーピーク",
-        "ウールリッチ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "深川「まあぶオートキャンプ場」、温泉付きで家族向け",
-      "summary_ja": "札幌から車で約1時間半の北海道深川市にある「まあぶオートキャンプ場」と「アグリ工房まあぶ」を紹介する記事。眺めの良いサイトや電源付きカーサイト、コテージ、天然温泉がそろい、初心者や家族連れにも使いやすい。",
-      "source": "北海道新聞デジタル",
-      "url": "https://www.hokkaido-np.co.jp/article/1385229",
-      "score": 60,
-      "commercial_score": 45,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "YETIのタンブラーやクーラー、プライムデーで値下げ",
-      "summary_ja": "米アマゾンのプライムデーで、YETIのクーラーボックスや「ランブラー」タンブラーが最大40%引きになった。セールは記事公開日の夜で終わる。",
-      "source": "New York Post",
-      "url": "https://nypost.com/shopping/amazon-prime-big-deal-days-yeti-deals-october-2026/",
-      "score": 60,
-      "commercial_score": 85,
-      "product_keywords": [
-        "YETI ランブラー",
-        "YETI クーラーボックス"
+        "フリース パーカー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国でJackeryのポータブル電源が大幅値引き",
-      "summary_ja": "キャンプや停電時に役立つJackeryのポータブル電源が、英国で1,000ポンド以上安く買えるセールになっている。",
-      "source": "Daily Express",
-      "url": "https://www.express.co.uk/life-style/science-technology/2255142/jackery-camping-power-stations-autumn-sale/amp",
-      "score": 60,
-      "commercial_score": 85,
+      "title_ja": "火おこし道具ファイアピストンが新型に刷新",
+      "summary_ja": "Aerohart Aviatorの「Ember」は、火口と空気、手で叩く動作だけで火を起こす道具です。今回、設計が全面的に見直され、使い勝手が高まったと伝えられています。",
+      "source": "New Atlas",
+      "url": "https://newatlas.com/outdoor-gear/aerohart-fire-piston/",
+      "score": 50,
+      "commercial_score": 60,
       "product_keywords": [
-        "Jackery ポータブル電源"
+        "ファイアピストン",
+        "火おこし"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ネパール発の登山用品「Makalu Outfit」が世界へ",
-      "summary_ja": "コロナ禍で観光と登山シーズンが止まった時期に、ネパールの登山家たちが立ち上げたブランド「Makalu Outfit」。ヒマラヤ育ちの小さな会社が、世界の大手アウトドアブランドに挑んでいる。",
-      "source": "The Tourism Times",
-      "url": "https://thetourismtimes.com/news/climbing/born-in-the-himalayas-makalu-outfit-takes-on-the-worlds-outdoor-gear-giants",
-      "score": 55,
-      "commercial_score": 45,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ロンドンにVRでエベレスト登頂を体験できる施設",
-      "summary_ja": "ロンドンに、エベレスト登頂をVRで疑似体験できる施設が登場した。手間や体力、費用をかけずに、世界最高峰の頂上の気分を味わえる。",
-      "source": "Live for the Outdoors",
-      "url": "https://www.livefortheoutdoors.com/hiking/news/you-can-now-climb-everest-from-london/",
-      "score": 55,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国アウトドア産業大会、10月15日から北京で",
-      "summary_ja": "2026年の中国アウトドアスポーツ産業大会が、10月15日から18日まで北京市昌平区で開かれる。アウトドアが都市の暮らしにも広がる流れを受けた催し。",
-      "source": "中华网",
-      "url": "https://mtz.china.com/touzi/2026/1008/266599.html",
-      "score": 55,
-      "commercial_score": 35,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "仁木町のキャンプ場で軍幕ファンの集い、10月17日",
-      "summary_ja": "北海道仁木町の「ノチウアウトドアPARK」で、軍幕テント好きが集まる「蝦夷軍幕会」が10月17日に開かれる。",
-      "source": "北海道新聞デジタル",
-      "url": "https://www.hokkaido-np.co.jp/article/1385471/?rct=od_info",
+      "title_ja": "折りたたみ式ベッド、AI活用で米TikTokの首位に",
+      "summary_ja": "頑丈な折りたたみベッドが、米国のTikTokでAIを使った販売手法により売れ行きランキングの1位になったと伝えられています。中国発のキャンプ用品の海外展開の例です。",
+      "source": "白鲸出海",
+      "url": "https://www.baijing.cn/article/56930",
       "score": 50,
-      "commercial_score": 50,
+      "commercial_score": 65,
       "product_keywords": [
-        "軍幕 テント"
+        "折りたたみベッド キャンプ",
+        "コット"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "MINIクロスオーバーに軽アウトドア向け特別仕様",
-      "summary_ja": "MINIのカントリーマン（クロスオーバー）に特別仕様車「UNTAMED EDITION」が中国で発表された。気軽なアウトドアへの外出を意識したモデル。",
-      "source": "汽车之家",
-      "url": "https://chejiahao.autohome.com.cn/info/26613087",
-      "score": 50,
-      "commercial_score": 45,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "洗って使えるスコッティのペーパータオルを試す",
-      "summary_ja": "料理からキャンプまで幅広く使える「スコッティ ファイン 洗って使えるペーパータオル」を実際に使ってみた記事。1枚で何役もこなせる点を取り上げている。",
-      "source": "ガジェット通信 GetNews",
-      "url": "https://getnews.jp/archives/3747377",
+      "title_ja": "山崎実業のスタンドを13年愛用、キャンプでも活躍",
+      "summary_ja": "山崎実業の「キッチンエコスタンド タワー」を13年使い続けた体験を紹介する記事です。キッチンだけでなくキャンプでも現役で、耐久性や使い勝手の良さが語られています。",
+      "source": "ROOMIE（ルーミー）",
+      "url": "https://www.roomie.jp/2026/10/1899530/",
       "score": 45,
       "commercial_score": 70,
       "product_keywords": [
-        "スコッティ ファイン 洗って使えるペーパータオル"
+        "山崎実業 キッチンエコスタンド タワー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "包頭に初の車・バイクがテーマの無料キャンプ場",
-      "summary_ja": "内モンゴル・包頭で、車とバイクをテーマにした初めてのキャンプ場が使えるようになり、無料で開放されている。隣接する広場の工事も進め、一体で運営する計画。",
-      "source": "包头新闻网",
-      "url": "http://www.baotounews.com.cn/445807/445799/2026/10/45197885.html",
+      "title_ja": "コストコでビッグアグネスの人気テントが割安に",
+      "summary_ja": "ビッグアグネスのライト付き2人用テント「Copper Spur HV UL2 mtnGLO」が、米コストコの会員向けに安く売られています。Amazonでもほぼ同じ水準の値引きがあるそうです。",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/deals/big-agnes-copper-spur-hv-ul2-mtnglo-tent-deal-costco-amazon/",
+      "score": 45,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ビッグアグネス テント",
+        "コッパースパー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "山西省万栄県で初のキャンピングカー巡遊イベント",
+      "summary_ja": "山西省の万栄県で、初めてのキャンピングカー巡遊イベントが始まりました。今後も文化と観光を結びつける取り組みを進め、より多くの観光客を呼び込む考えです。",
+      "source": "央广网",
+      "url": "https://www.cnr.cn/sx/dslb/20261009/t20261009_527836937.shtml",
+      "score": 45,
+      "commercial_score": 45,
+      "product_keywords": [
+        "キャンピングカー"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "INIU、ハイキング向けの頑丈な45Wモバイルバッテリー",
+      "summary_ja": "INIU Outdoorが、日帰りハイキングや軽いアウトドアに向く小型の45Wモバイルバッテリー「Rugged 10000」を発表しました。タフさをうたう製品です。",
+      "source": "MacSources",
+      "url": "https://macsources.com/iniu-outdoor-launches-rugged-10000/?amp=1",
       "score": 40,
-      "commercial_score": 25,
+      "commercial_score": 75,
+      "product_keywords": [
+        "INIU モバイルバッテリー",
+        "45W モバイルバッテリー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "クライミング用品DMMの工場、設計から岩場まで",
+      "summary_ja": "英ウェールズ北部ラナベリスにあるDMMの工場を訪ねる動画です。若いデザイナーを案内役に、クライミング用品がアイデアから岩場で信頼される道具になるまでを追います。",
+      "source": "UKClimbing",
+      "url": "https://www.ukclimbing.com/videos/categories/product_videos/inside_dmm_-_how_climbing_goes_from_factory_to_crag-6695?playlist=76",
+      "score": 40,
+      "commercial_score": 40,
+      "product_keywords": [
+        "DMM クライミング"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "チベットでアウトドア・ハイキング大会を開催",
+      "summary_ja": "2026年のチベット・アウトドア（キャンプ）ハイキング大会が開かれ、参加者が秋の山野で高原の自然を楽しむ内容と伝えられています。",
+      "source": "中国西藏网",
+      "url": "http://m.tibet.cn/cn/in/xzzz/202610/t20261009_8056609.html",
+      "score": 35,
+      "commercial_score": 30,
       "country": "cn",
       "country_label_ja": "中国"
     }

@@ -1,0 +1,109 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:48:03+09:00",
+  "trends": [
+    {
+      "keyword": "プライム感謝祭",
+      "reason_ja": "先行セールと本セールを前に、各社がセール対象商品を公開し始めているため。",
+      "genre": "sale",
+      "commercial_score": 90,
+      "product_keywords": [
+        "プライム感謝祭 おすすめ"
+      ],
+      "product_keywords_ja": [
+        "プライム感謝祭 おすすめ",
+        "Anker 充電器"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Anker、プライム感謝祭のセール品を事前公開",
+          "summary_ja": "Ankerが、Amazonのプライム感謝祭先行セールと本セールに出す製品の情報を事前に公開しました。最新・人気製品も対象で、最大53%オフとされています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/6ce4e4b240a6e0c46dd41e49f0bb97271deda6fc"
+        },
+        {
+          "title_ja": "Pixio、ゲーミングアクセサリーを最大40%OFF",
+          "summary_ja": "Hameeの「Pixio」が、Amazonプライム感謝祭の先行セールからゲーミングアクセサリー製品を最大40%OFFで販売します。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000001707.000009971.html"
+        },
+        {
+          "title_ja": "プライム感謝祭のおすすめ28選と日程まとめ",
+          "summary_ja": "Vogue Japanが、プライム感謝祭で買うべきおすすめ商品と日程、準備方法をまとめています。内容は随時更新されています。",
+          "source": "Vogue Japan",
+          "url": "https://www.vogue.co.jp/article/amazon-prime-big-deal-days-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "Google Play対応 Amazon タブレット",
+      "reason_ja": "Amazonが Fire タブレットをやめ、Google Play に対応した Alexa Tablet とキッズタブレットを発表したため。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Amazon キッズ タブレット",
+        "Androidタブレット"
+      ],
+      "product_keywords_ja": [
+        "Amazon キッズ タブレット",
+        "Androidタブレット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Fire を廃止、Google Play 対応の Alexa Tablet 発表",
+          "summary_ja": "Amazonは長く続いた Fire タブレットを廃止し、新シリーズの Alexa Tablet に置き換えると発表しました。OSは Android に切り替わり、Google Play のアプリをそのまま使えます。AIアシスタントの Alexa+ も全機種に入ります。",
+          "source": "CNET Japan",
+          "url": "https://japan.cnet.com/article/35253390/"
+        },
+        {
+          "title_ja": "Google Play 対応の Amazon キッズ タブレット登場",
+          "summary_ja": "アマゾン・ジャパンが、Google Play に対応した子供向け Android タブレットのシリーズを発表しました。ちいかわやパウ・パトロールの専用カバーモデルも展開されます。",
+          "source": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2147083.html"
+        },
+        {
+          "title_ja": "Android 搭載の Alexa タブレット、Fire ブランド終了",
+          "summary_ja": "Amazonが Alexa+ を内蔵した Android 搭載のタブレットシリーズを発表しました。新しいキッズタブレットも同じく Android を搭載しています。",
+          "source": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261009-alexa-tablets/"
+        }
+      ]
+    },
+    {
+      "keyword": "ポータブル電源",
+      "reason_ja": "防災向けのポータブル電源が、楽天のセールなどで割引され話題になっているため。",
+      "genre": "outdoor",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ポータブル電源"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "ソーラーパネル"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "防災向けJackeryのポータブル電源が最大46%オフ",
+          "summary_ja": "楽天市場のお買い物マラソンで、防災に役立つJackery製ポータブル電源が最大46%オフになっています。期間限定の開催です。",
+          "source": "千葉テレビ放送株式会社",
+          "url": "https://www.chiba-tv.com/plus/detail/2026102087257"
+        },
+        {
+          "title_ja": "Jackery、ポータブル電源とソーラーパネルを寄贈",
+          "summary_ja": "Jackery Japanが、北海道滝川市の公益財団法人そらぷちキッズキャンプにポータブル電源とソーラーパネルを寄贈しました。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000368.000039188.html"
+        }
+      ]
+    }
+  ]
+}

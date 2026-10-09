@@ -1,226 +1,143 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T16:17:13+09:00",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:31:20+09:00",
   "stories": [
     {
-      "title_ja": "OpenAI、GPT-6をChatGPTで世界に提供開始",
-      "summary_ja": "OpenAIはChatGPTで新モデル「GPT-6」の世界的な提供を始めた。新機能「インテリジェントUI」により、応答が速くなるとともに、図や操作できる画面で答えを示すようになる。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "score": 95,
-      "commercial_score": 60,
+      "title_ja": "アマゾン、アレクサ+搭載の新型タブレット3機種",
+      "summary_ja": "米アマゾンが8日、生成AIの音声サービス「アレクサ・プラス」を組み込んだタブレット3機種を発表した。グーグルのアプリ配信サービスに対応し、動画などの数百万のアプリを使える。",
+      "source": "産経ニュース",
+      "url": "https://www.sankei.com/article/20261009-ZXC3TAJVGNNK5CBPUM2ZLVQ42U/",
+      "score": 85,
+      "commercial_score": 90,
       "product_keywords": [
-        "ChatGPT 本"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ChatGPTにGPT-6、回答を画面形式で示す新機能",
-      "summary_ja": "OpenAIは7日、ChatGPTに新モデル「GPT-6」を導入したと発表した。あわせて、回答を文章だけでなく操作できる画面として表示する新機能「インテリジェントUI」の提供も始める。",
-      "source": "Impress Watch",
-      "url": "https://www.watch.impress.co.jp/docs/news/2146609.html",
-      "score": 90,
-      "commercial_score": 60,
-      "product_keywords": [
-        "ChatGPT 本",
-        "生成AI 入門"
+        "Fire タブレット",
+        "Amazon タブレット"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Anthropic、低価格の小型AI「Claude Haiku 5.5」",
-      "summary_ja": "Anthropicが小型モデル「Claude Haiku 5.5」を公開した。100万トークンの長い文脈を扱え、処理の手間を調整できるほか、入力100万トークンあたり0.10ドルという低価格で大量の処理に向く。",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
-      "score": 85,
-      "commercial_score": 40,
+      "title_ja": "Anthropic、Claudeへの虐待的な言動を利用規約で禁止",
+      "summary_ja": "Anthropicが利用ポリシーを更新し、Claudeに対する虐待的・残酷なふるまいを禁じた。あわせてプロパガンダ活動、監視、兵器開発に関する規則も加わった。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "score": 75,
+      "commercial_score": 25,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "阶跃のAIスマホ「STEPX Neo」、13日に発表",
-      "summary_ja": "中国の阶跃終端は、大規模言語モデルを前提に作った初のAIエージェント搭載スマートフォン「STEPX Neo」を10月13日に発表すると明らかにした。",
-      "source": "finance.sina.com.cn",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-08/detail-iniunrrp3919145.d.html?vt=4&cid=76993&node_id=76993",
-      "score": 85,
+      "title_ja": "グーグル、AI生成物の透かしを調べる検出ツール公開",
+      "summary_ja": "グーグルが、AIで作ったり編集したりした画像や動画を見分けるツールを自社サイトで公開した。ファイルをアップロードすると、人の目には見えない透かしが入っているかを確認できる。",
+      "source": "ITmedia エグゼクティブ",
+      "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/09/2000002151/",
+      "score": 70,
+      "commercial_score": 20,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "レノボ、NVIDIA新チップ搭載のAI PCを中国で予約開始",
+      "summary_ja": "聯想（Lenovo）が8日、NVIDIAのRTX Spark N1Xチップを世界で初めて載せたAI PC新製品を発表した。中国で予約販売が始まった。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_1496814565_593793e5020026p8k.html?from=news&subch=onews",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Lenovo ノートPC",
+        "AI PC"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Claude Science、紫外線で見る全天地図づくりに貢献",
+      "summary_ja": "Anthropicは、同社のClaude Scienceが紫外線で見た空の初めての完全な地図の作成に役立ったと紹介した。AIが科学研究に使われる例の一つだ。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+      "score": 60,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Z世代の生成AI利用は約6割、買い物の最後はSNS",
+      "summary_ja": "MERYがZ世代の意識を調べた結果が公表された。日用品やコスメ選びで生成AIを使う人がいる一方、最終的な判断ではSNSの口コミを重く見る傾向があるという。",
+      "source": "コマースピック",
+      "url": "https://www.commercepick.com/archives/104810",
+      "score": 55,
       "commercial_score": 70,
       "product_keywords": [
-        "AIスマホ",
-        "スマートフォン"
+        "コスメ",
+        "日用品"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "グーグル、AI生成かを調べるツールを一般公開",
-      "summary_ja": "グーグルが、画像や動画、音声が生成AIで作られたかを確かめられるツール「SynthID Detector」を一般公開した。ChatGPTやNVIDIA製のAIで作られたものも検証の対象になる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/fe6eb28d65250145dfa6dee40c2f69f34c497378/images/000",
-      "score": 80,
+      "title_ja": "Anthropic、重要インフラを守る新たな取り組みを計画",
+      "summary_ja": "Axiosによると、Anthropicは防御側にモデルを使わせるだけにとどまらない、重要インフラ保護の新計画を進めている。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+      "score": 55,
+      "commercial_score": 15,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "MITとMecalux、物流幹部向けAI講座を開始",
+      "summary_ja": "MITとMecaluxが、サプライチェーンを担う経営層向けの2日間のAI講座を始めた。倉庫管理から需要予測まで、AIの試みを実際のプロジェクトにつなげることを目指す。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/mit-mecalux-launch-ai-course-for-supply-chain-leaders",
+      "score": 50,
       "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "OpenAIとAnthropic、同じ日に新モデルで別路線",
-      "summary_ja": "OpenAIは7日にGPT-6と新たな操作画面の仕組みを発表し、Anthropicは同じ日に低コストで速いClaude Haiku 5.5を出した。中国メディアは、一方は入口の確保、もう一方は低価格を狙うと両社の違いを伝えている。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202610083889375223.html",
-      "score": 75,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "みどりの窓口で生成AIが応対、JR東日本とNECが実証",
-      "summary_ja": "JR東日本とNECが、みどりの窓口で係員に代わって生成AIが利用者と対話するサービスの実証実験を進めている。窓口を使う人と運営する側の双方にとっての新しい価値を探る取り組み。",
-      "source": "NEC",
-      "url": "https://jpn.nec.com/corporateblog/202610/01.html",
-      "score": 70,
-      "commercial_score": 40,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "OpenAI、300超の数学研究問題での成果を公表",
-      "summary_ja": "OpenAIが300を超える数学の研究問題について、AIによる進展を公表した。専門家を驚かせる内容として報じられている。",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/",
-      "score": 70,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "LibreOffice、「AIなし」を売りに打ち出す",
-      "summary_ja": "無料のオフィスソフトLibreOfficeが、AI機能を載せていないことを特長として打ち出した。ただし、将来AI機能を加える可能性は完全には否定していない。",
-      "source": "Computerworld",
-      "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html",
-      "score": 70,
-      "commercial_score": 45,
-      "product_keywords": [
-        "オフィスソフト"
-      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "AIで症状を自己チェック、適切な受診につながる",
-      "summary_ja": "AIを使った症状の自己評価サービスを利用した後、患者の受診意向や実際の受診がどう変わったかを調べた研究が報告された。利用者の不安が減り、医療資源のより適切な利用につながったという。",
-      "source": "2 Minute Medicine",
-      "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-supported-symptom-self-assessment-led-to-more-appropriate-patient-care-decisions/",
-      "score": 65,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "10代のChatGPT利用は1日15分未満とOpenAI",
-      "summary_ja": "OpenAIは、10代のChatGPT利用時間は1日15分に満たないと明らかにした。若者への影響を心配する声が高まるなかでの説明となる。",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
-      "score": 60,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AIの運用コスト低下、アプリ普及加速に期待",
-      "summary_ja": "大規模言語モデルを動かすコストの低下が速まっている。これによりAIを使ったアプリの普及が進むとの見方が出ている。",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2498897",
-      "score": 60,
-      "commercial_score": 35,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "生成AI利用者、住まい探しでの活用に高い関心",
-      "summary_ja": "クレアスライフが生成AI利用者を対象に用途を調べた結果を公表した。住宅選びでは、物件の探索や比較にAIを使いたいという回答が上位を占めた。",
-      "source": "住宅新報",
-      "url": "https://www.jutaku-s.com/news/id/106065",
-      "score": 55,
-      "commercial_score": 45,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "AIの値下げ競争が激化、OpenAIが追い上げ",
-      "summary_ja": "生成AIサービスの価格をめぐる競争が激しくなっている。この競争のなかで、OpenAIがAnthropicとの差を縮めていると報じられた。",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b",
-      "score": 55,
-      "commercial_score": 35,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AIが下水流出を防ぐ、英ニューフォレスト",
-      "summary_ja": "英南部ニューフォレストで、貴重な小川への下水の流出が人工知能によって未然に防がれた。",
-      "source": "Bournemouth Echo",
-      "url": "https://www.bournemouthecho.co.uk/news/26617348.ai-helps-prevent-sewage-spill-new-forest-stream/",
-      "score": 55,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "軽量AI端末が健康産業を変える可能性",
-      "summary_ja": "端末側で動く軽量なAIが広がり、健康関連の産業を根本から変えつつあると報じられた。新たな機会がある一方で課題もあるという。",
-      "source": "36Kr",
-      "url": "https://www.36kr.com/p/4015566628427393",
-      "score": 55,
-      "commercial_score": 50,
-      "product_keywords": [
-        "スマートウォッチ",
-        "ウェアラブル"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "さくらインターネット、企業専用の生成AI基盤を開始",
-      "summary_ja": "さくらインターネットは8日、企業が持つ生成AIモデルを専有環境で動かせるサービス「さくらのAI Engine プライベートエディション」の提供を始めた。運用まで任せられるフルマネージド型となる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d62898fd96e76f8236d4c88b6528a759a3af788b",
-      "score": 50,
-      "commercial_score": 25,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "自律型AIが皮膚科医の診療を手助け",
-      "summary_ja": "自律的に動くAIを使うことで、皮膚科医が診られる患者の数を増やせる可能性があると報じられた。",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-10-autonomous-ai-clinical-capacity-dermatologists.html",
-      "score": 50,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "アリババクラウド、済南の産業大会でAI技術を披露",
-      "summary_ja": "10月14日から済南で開かれる2026人工知能産業大会に、阿里雲（アリババクラウド）が出展する。クラウド基盤から大規模言語モデル「千問」、マルチモーダル製品までをまとめて紹介する。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1084944746_121218495",
-      "score": 50,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "リコージャパン、中小企業向けにDify導入支援",
-      "summary_ja": "リコージャパンは8日、生成AIアプリの開発基盤「Dify」について、中堅・中小企業や部門向けライセンスの導入サービスを始めた。自社でAIアプリを作りたい企業の利用を後押しする。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/804d30f3b7925addb426692eeaf5c6955f170000",
+      "title_ja": "地図サービスGIS Cloud、AI機能で利用者が倍増",
+      "summary_ja": "地図プラットフォームのGIS Cloudは、AIツールの追加が追い風となり、利用者が60カ国で22万人を超えた。毎日の新規登録も100件を上回っている。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/gis-cloud-doubles-user-growth-as-ai-tools-drive-uptake",
       "score": 45,
       "commercial_score": 25,
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "AIに「発想の飛躍」を教える研究、独創性が向上",
+      "summary_ja": "研究者らが、強化学習で言語モデルの創造性を調整する枠組みを提案した。研究案の独創性や予想される引用への影響が、元のモデルや単純に温度を上げる方法より高まったという。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1008/3201312.shtml",
+      "score": 45,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "MIT研究者、AI時代の大学のあり方を論じる",
+      "summary_ja": "MITのラクリン氏が、AIが数学や統計、工学などの学術分野をどう変えるかを論じたエッセイを公表した。学部や大学が考えるべき問いと、AIとの付き合い方を示している。",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+      "score": 40,
+      "commercial_score": 10,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "蘇州企業、感情大模型を使うAI癒やしぬいぐるみ",
+      "summary_ja": "蘇州の鼎級数字が、自社の感情大モデルを実体化し、触れて対話できるAI人形を作っている。伝統的な文化創作との組み合わせを探る取り組みだ。",
+      "source": "苏州工业园区管理委员会",
+      "url": "https://www.sipac.gov.cn/kjhxxhj/gzdt/202610/d640829172af42669c1447b409c42e2a.shtml",
+      "score": 40,
+      "commercial_score": 60,
+      "product_keywords": [
+        "AI ぬいぐるみ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

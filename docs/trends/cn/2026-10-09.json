@@ -1,0 +1,74 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:48:03+09:00",
+  "trends": [
+    {
+      "keyword": "华为小米手机涨价",
+      "reason_ja": "華為とシャオミが一部機種の価格を引き上げたと報じられたため。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "华为手机",
+        "小米手机"
+      ],
+      "product_keywords_ja": [
+        "スマートフォン SIMフリー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "小米17 Ultra 全モデル値上げ、客服が事実と回答",
+          "summary_ja": "小米17 Ultra が全モデルで値上げされたかどうかについて、カスタマーサービスが事実だと答えたと報じられています。",
+          "source": "证券时报网",
+          "url": "https://www.stcn.com/article/detail/4209553.html"
+        },
+        {
+          "title_ja": "華為・小米のスマホが値上がり",
+          "summary_ja": "華為と小米のスマートフォンが、再び値上がりしたと伝えられています。",
+          "source": "证券之星",
+          "url": "https://hk.stockstar.com/IG2026100900017187.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "床车旅行",
+      "reason_ja": "国慶節の連休後、車中泊旅行の安さがSNSで話題になっているため。",
+      "genre": "outdoor",
+      "commercial_score": 75,
+      "product_keywords": [
+        "车载床垫",
+        "露营"
+      ],
+      "product_keywords_ja": [
+        "車中泊 マット",
+        "車中泊グッズ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "「床車」旅行の人気は節約術か資源のただ乗りか",
+          "summary_ja": "後部座席を倒してマットを敷けば、普通の家庭用車が移動寝室になります。連休後、旅行の費用をSNSに投稿する人が相次いでいます。",
+          "source": "finance.sina.com.cn",
+          "url": "http://finance.sina.cn/2026-10-09/detail-iniuqywm3014117.d.html?cre=tianyi&mod=wlocal&loc=15&r=0&rfunc=89&tj=cxvertical_wlocal&tr=1047&pos=69"
+        },
+        {
+          "title_ja": "床車旅行が人気、低コストの自家用車旅",
+          "summary_ja": "四川の女性は連休に甘南へ車で出かけ、サービスエリアや正規のキャンプ場に停めて夜を過ごしました。宿泊費を大きく節約できたと伝えられています。",
+          "source": "搜狐网",
+          "url": "https://m.sohu.com/a/1085525634_99990677"
+        },
+        {
+          "title_ja": "床車旅行が大人気、節約と手軽さが話題",
+          "summary_ja": "連休が終わり、「床車」で旅をした費用をSNSに載せる人が増えています。車中泊を選ぶ旅行者が増え、宿泊費を節約しています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261009/49784458.html"
+        }
+      ]
+    }
+  ]
+}

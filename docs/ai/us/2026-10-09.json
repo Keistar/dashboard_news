@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:31:20+09:00",
+  "stories": [
+    {
+      "title_ja": "Anthropic、Claudeへの虐待的な言動を利用規約で禁止",
+      "summary_ja": "Anthropicが利用ポリシーを更新し、Claudeに対する虐待的・残酷なふるまいを禁じた。あわせてプロパガンダ活動、監視、兵器開発に関する規則も加わった。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "score": 75,
+      "commercial_score": 25
+    },
+    {
+      "title_ja": "Claude Science、紫外線で見る全天地図づくりに貢献",
+      "summary_ja": "Anthropicは、同社のClaude Scienceが紫外線で見た空の初めての完全な地図の作成に役立ったと紹介した。AIが科学研究に使われる例の一つだ。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+      "score": 60,
+      "commercial_score": 15
+    },
+    {
+      "title_ja": "Anthropic、重要インフラを守る新たな取り組みを計画",
+      "summary_ja": "Axiosによると、Anthropicは防御側にモデルを使わせるだけにとどまらない、重要インフラ保護の新計画を進めている。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+      "score": 55,
+      "commercial_score": 15
+    }
+  ]
+}
