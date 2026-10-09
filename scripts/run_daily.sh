@@ -90,7 +90,8 @@ for g in "${GENRES[@]}"; do
   if [ "${NEWS_ENGINE:-claude}" = "agy" ]; then
     # 許可は ~/.gemini/antigravity-cli/settings.json（README「agy で動かす」）: 走らせてよいのは resolve と build だけ、
     # 書き込みは work/ だけ（docs/・scripts/・prompts/ は拒否）。Web の取得は使わない（取ってくるのはスクリプト）。
-    "$HOME/.local/bin/agy" -p "$prompt
+    # agy 自身の --print-timeout に加えて、claude と同じく perl の alarm でも 25 分で打ち切る（固まったときのため）。
+    perl -e 'alarm shift; exec @ARGV' 1560 "$HOME/.local/bin/agy" -p "$prompt
 
 # 道具について
 - コマンドは、上の 2 つ（resolve と build）を、書いてあるとおりの形で、このフォルダ（${ROOT}）から実行する。cd や別のコマンド（cat・ls など）は使えない
