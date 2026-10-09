@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:48:03+09:00",
+  "generated_at": "2026-10-09T15:52:16+09:00",
   "trends": {
     "code": "trends",
     "label_ja": "トレンド",
@@ -247,14 +247,15 @@
       "code": "kaji",
       "label_ja": "時短家電・家事",
       "label_en": "HOME APPLIANCES & HOUSEWORK",
-      "latest_date": "2026-10-08",
-      "latest_story_count": 15,
+      "latest_date": "2026-10-09",
+      "latest_story_count": 16,
       "latest_path": "kaji/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07"
           ]
@@ -263,6 +264,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07"
           ]
@@ -271,6 +273,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07"
           ]
@@ -279,6 +282,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07"
           ]
@@ -445,14 +449,15 @@
       "code": "health",
       "label_ja": "健康・フィットネス",
       "label_en": "HEALTH & FITNESS",
-      "latest_date": "2026-10-08",
-      "latest_story_count": 22,
+      "latest_date": "2026-10-09",
+      "latest_story_count": 14,
       "latest_path": "health/latest.json",
       "countries": [
         {
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07",
             "2026-10-06",
@@ -470,6 +475,7 @@
           "code": "us",
           "label_ja": "アメリカ",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07",
             "2026-10-06",
@@ -487,6 +493,7 @@
           "code": "gb",
           "label_ja": "イギリス",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07",
             "2026-10-06",
@@ -504,6 +511,7 @@
           "code": "cn",
           "label_ja": "中国",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07",
             "2026-10-06",
@@ -599,7 +607,7 @@
       "code": "sale",
       "label_ja": "セール・キャンペーン",
       "label_en": "SALES & CAMPAIGNS",
-      "latest_date": "2026-10-08",
+      "latest_date": "2026-10-09",
       "latest_story_count": 6,
       "latest_path": "sale/latest.json",
       "countries": [
@@ -607,6 +615,7 @@
           "code": "jp",
           "label_ja": "日本",
           "dates": [
+            "2026-10-09",
             "2026-10-08",
             "2026-10-07"
           ]
