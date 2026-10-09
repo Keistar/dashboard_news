@@ -13,10 +13,13 @@
   </array>
   <key>WorkingDirectory</key>
   <string>__RUNNER_DIR__</string>
-  <!-- モデルは Sonnet（2026-10-09〜）。既定の Opus だと Claude のサブスクの枠を多く使い、日中の作業が上限に当たりやすかった。
+  <!-- 2026-10-09〜: agy（Google AI Pro の枠）で書かせる（NEWS_ENGINE=agy。戻すなら消す）。claude で動かすときのモデルは Sonnet
+       （ただし claude の Sonnet は許可したコマンドの形を外して 3 ジャンル失敗した。claude に戻すなら NEWS_MODEL も消して Opus に）。既定の Opus だと Claude のサブスクの枠を多く使い、日中の作業が上限に当たりやすかった。
        Sonnet で書かせた下書き・ニュースの質を見て決めた。戻すなら値を消す（既定のモデルになる）。 -->
   <key>EnvironmentVariables</key>
   <dict>
+    <key>NEWS_ENGINE</key>
+    <string>agy</string>
     <key>NEWS_MODEL</key>
     <string>sonnet</string>
   </dict>
