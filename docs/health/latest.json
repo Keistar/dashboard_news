@@ -1,260 +1,176 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T16:24:02+09:00",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:51:44+09:00",
   "stories": [
     {
-      "title_ja": "華為（Huawei）、血圧を測れるWATCH D3を発表",
-      "summary_ja": "華為（Huawei）がMate90シリーズなどの発表会で、手首で血圧を記録できるHUAWEI WATCH D3を発表しました。薄く軽いデザインで、さまざまな場面での血圧測定のほか、心臓や気分、睡眠などのデータも記録できます。血圧測定機能は中国本土で医療機器の登録を受け、EUのCE MDR認証も取得しています。",
-      "source": "集微网",
-      "url": "http://laoyaoba.com/n/1115054",
-      "score": 90,
-      "commercial_score": 90,
+      "title_ja": "握力の左右差が大きいと死亡リスク上昇と研究",
+      "summary_ja": "国立長寿医療研究センターの研究グループが、握力の左右差と死亡リスクの関係を調べた。左右差が20％を超える人は、10％以下の人より死亡リスクが30％高かったという。",
+      "source": "時事メディカル",
+      "url": "https://medical.jiji.com/topics/4375",
+      "score": 60,
+      "commercial_score": 35,
       "product_keywords": [
-        "HUAWEI WATCH D3",
-        "血圧計 腕時計型",
-        "スマートウォッチ 血圧"
+        "握力計"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ナルコレプシー治療薬オーゼイフル、保険適用へ",
-      "summary_ja": "日中に強い眠気に襲われる睡眠障害ナルコレプシーの治療薬「オーゼイフル」について、中央社会保険医療協議会が公的医療保険の対象とすることを了承しました。14日から保険適用となり、発症の原因に作用する薬としては国内で初めてです。",
-      "source": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/yomidr/article/20261007-GYT1T00383/?site-view=pc",
-      "score": 85,
-      "commercial_score": 30,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "10月のプライムデー、活動量計・スマートウォッチがセールに",
-      "summary_ja": "米アマゾンの10月のプライムデーで、フィットネストラッカーやスマートウォッチのセールが行われています。Fitbit Charge 6やサムスンのGalaxy Watch 8、Apple Watchなどが対象として紹介されています。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-october-prime-day-fitness-trackers-deals-live-2026",
-      "score": 80,
-      "commercial_score": 95,
+      "title_ja": "寝酒は寝つきを助けても睡眠の質を損なう",
+      "summary_ja": "睡眠学者の柳沢正史氏が、お酒を飲むとすぐ眠れる感覚の裏にある問題を語った。焦点は寝つきの早さではなく、睡眠の質への影響だ。",
+      "source": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/amp/400291",
+      "score": 55,
+      "commercial_score": 40,
       "product_keywords": [
-        "Fitbit Charge 6",
-        "Galaxy Watch",
-        "Apple Watch"
+        "睡眠 サポート"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "健康系インフルエンサー投稿の約4割が宣伝",
+      "summary_ja": "米ピュー研究所の調査で、健康インフルエンサーの投稿の38％が商品やサービス、定額課金を宣伝していた。サプリや市販薬の話題では約3分の2に宣伝が含まれた。",
+      "source": "Scripps News",
+      "url": "https://www.scrippsnews.com/health/getting-health-advice-online-a-study-suggests-you-may-be-getting-a-sales-pitch",
+      "score": 55,
+      "commercial_score": 60,
+      "product_keywords": [
+        "サプリメント"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英NHSで初、がん経験者に人工の舌を移植",
-      "summary_ja": "26歳で頭頸部がんの一種である扁平上皮がんと診断されたイモジェン・ブルックス医師が、NHSで初めてとなる人工の舌を受けました。",
-      "source": "London Evening Standard",
-      "url": "https://www.standard.co.uk/news/health/nhs-london-newham-michael-brown-hospital-b1299960.html",
-      "score": 80,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "睡眠学者・柳沢正史教授が語る睡眠を削らない働き方",
-      "summary_ja": "ラスカー賞を受賞した睡眠学者の柳沢正史教授が、著書『世界最高の睡眠学が教える 睡眠の正解』をもとに睡眠の常識や思い込みを解説しています。忙しいときこそ睡眠を削らず、ほかに何を削るべきかを考える内容です。",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/-/400100",
-      "score": 70,
+      "title_ja": "シカゴマラソン前に健康・フィットネス博が開幕",
+      "summary_ja": "シカゴマラソンの週末にあわせ、マコーミック・プレイスでアボット主催のヘルス＆フィットネスEXPOが始まった。大会前の参加者向けイベントとして注目される。",
+      "source": "NBC 5 Chicago",
+      "url": "https://www.nbcchicago.com/video/news/local/abbott-health-fitness-expo-kicks-off-chicago-marathon-weekend/3999816/",
+      "score": 50,
       "commercial_score": 55,
       "product_keywords": [
-        "睡眠の正解 柳沢正史",
-        "枕",
-        "マットレス"
+        "ランニングシューズ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "東北大の瀧教授が語る、脳を健やかに保つ習慣",
+      "summary_ja": "東北大学の瀧教授へのインタビュー前編。社会生活を充実して送れる状態を「健康脳」と呼び、維持の要点として運動と睡眠を挙げている。",
+      "source": "マネクリ",
+      "url": "https://media.monex.co.jp/articles/amp/30264",
+      "score": 45,
+      "commercial_score": 35,
+      "product_keywords": [
+        "ウォーキングシューズ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "イングランドで新生児のSMAスクリーニングが始動",
-      "summary_ja": "NHSが、イングランドで新生児を対象とした脊髄性筋萎縮症（SMA）スクリーニングの初期段階を始めました。",
-      "source": "SMA News Today",
-      "url": "https://smanewstoday.com/news/nhs-rolls-new-sma-newborn-screening-england/",
-      "score": 70,
-      "commercial_score": 5,
+      "title_ja": "ジェシカ・ビール、44歳の全身筋トレ6種目",
+      "summary_ja": "女優ジェシカ・ビールが、44歳の体づくりに取り入れる全身トレーニングを紹介した。45分で行う6種目で、筋力や柔軟性、持久力を意識した内容だ。",
+      "source": "Women's Health",
+      "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a71779319/jessica-biel-full-body-workout/",
+      "score": 40,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ダンベル",
+        "トレーニングマット"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英NHS、職場で献血を促す取り組みを開始",
+      "summary_ja": "英国のNHSが、黒人系コミュニティの人々に献血を呼びかける新たな取り組みを始めた。献血チームが職場を訪れ、鎌状赤血球症の患者を支える献血者を増やす狙いだ。",
+      "source": "Health Tech World",
+      "url": "https://htworld.co.uk/news/digital-health/nhs-partners-with-digital-health-app-to-boost-black-blood-donors-fem26/",
+      "score": 40,
+      "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "医療の話題を発信する健康インフルエンサー、多くは医療従事者",
-      "summary_ja": "米ピュー・リサーチ・センターが、健康・ウェルネス系インフルエンサーの投稿内容を分析しました。医療従事者を名乗るインフルエンサーは、病気やメンタルヘルス、医師の管理が必要な治療などの話題を多く投稿する傾向がありました。",
-      "source": "Pew Research Center",
-      "url": "https://www.pewresearch.org/data-labs/2026/10/07/which-health-and-wellness-influencers-talk-about-medical-topics-mostly-healthcare-professionals/",
-      "score": 65,
-      "commercial_score": 15,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国の格安24時間ジム、低価格経営の持続性に疑問",
-      "summary_ja": "少ない投資と月払い制で急拡大する中国の24時間セルフ式ジムについて、虎嗅網が課題を指摘しています。設備の質やサービス、保守を犠牲にしており、長く経営を続けられない恐れがあるとしています。",
-      "source": "虎嗅网",
-      "url": "https://www.huxiu.com/article/4895824.html",
-      "score": 65,
-      "commercial_score": 40,
+      "title_ja": "山東省、身近な場所に小規模な健身スペースを整備へ",
+      "summary_ja": "山東省が、都市の空き地や隙間を活用した「小さくて美しい」組み込み型の健身スペースを整備する方針を示した。住民が気軽に運動できる環境づくりを進める。",
+      "source": "齐鲁网",
+      "url": "https://news.iqilu.com/shandong/yuanchuang/2026/1009/5950647.shtml",
+      "score": 40,
+      "commercial_score": 25,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "若者のエナジードリンク飲用、実態をニッセイ基礎研が調査",
-      "summary_ja": "ニッセイ基礎研究所が、若年層のエナジードリンクの摂取実態についてのレポート前編を公開しました。飲用経験や頻度、健康への影響を中心にまとめています。",
-      "source": "ニッセイ基礎研究所",
-      "url": "https://www.nli-research.co.jp/report/detail/id=86987?mobileapp=1&site=nli",
-      "score": 60,
+      "title_ja": "微泰医療が血糖測定の巡回イベントを深圳で完了",
+      "summary_ja": "血糖ケアを掲げる微泰（Microtech Medical）の測糖車が、青島から15都市21か所を回り、深圳で終着した。約1か月にわたる巡回イベントだった。",
+      "source": "凤凰网",
+      "url": "https://hainan.ifeng.com/c/8x3aWnwDT8j",
+      "score": 40,
       "commercial_score": 50,
       "product_keywords": [
-        "エナジードリンク"
+        "血糖測定器"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "194歳のゾウガメ「ジョナサン」から長寿の手がかり",
-      "summary_ja": "国際共同研究チームが、194歳とされるゾウガメ「ジョナサン」を調べ、極端な長寿の秘密の一端を明らかにしたと米ヴァンダービルト大学が伝えています。長く健康に生きるためのヒントになる可能性があるとしています。",
-      "source": "Vanderbilt Health News",
-      "url": "https://news.vumc.org/2026/10/07/an-extremely-old-giant-tortoise-named-jonathan-may-hold-the-secret-to-a-long-healthy-life-study/",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "10月8日は「糖をはかる日」、血糖測定から健康づくりを",
-      "summary_ja": "10月8日の「糖をはかる日」にあわせ、糖尿病ネットワークが糖をはかることから始まる健康づくりを呼びかけています。日ごろから血糖を意識することの大切さを伝える内容です。",
-      "source": "糖尿病ネットワーク",
-      "url": "https://dm-net.co.jp/calendar/2026/042256.php?utm_content=side_news5",
-      "score": 55,
+      "title_ja": "逆立ちが新たなフィットネスの流行に",
+      "summary_ja": "英紙The Timesが、逆立ちがフィットネス愛好家の間で新しい見せ場として広がっていると伝えた。トレーニング動向の一つとして紹介している。",
+      "source": "The Times",
+      "url": "https://www.thetimes.com/life-style/health-fitness/article/handstands-latest-fitness-flex-ddxpck05z",
+      "score": 35,
       "commercial_score": 45,
       "product_keywords": [
-        "血糖値測定器",
-        "尿糖試験紙"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ミシガンのジム、更年期の女性向けトレーニングを開始",
-      "summary_ja": "米ミシガン州ジャクソンのMilestone Fitness Centerが、更年期や閉経前後の女性に向けた専用トレーニングを提供しています。症状とうまく付き合えるよう手助けすることが目的です。",
-      "source": "WILX",
-      "url": "https://www.wilx.com/video/2026/10/08/jackson-fitness-center-offers-specialized-training-women-menopause-2/?outputType=amp",
-      "score": 55,
-      "commercial_score": 40,
-      "product_keywords": [
-        "更年期 サプリ",
         "ヨガマット"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "脂肪肝が骨折リスクを高める可能性、米VCU研究",
-      "summary_ja": "米バージニア・コモンウェルス大学（VCU）が主導した研究で、脂肪肝の病気が骨折のリスクを高める可能性が示されました。",
-      "source": "VCU Health",
-      "url": "https://www.vcuhealth.org/news/vcu-led-study-suggests-fatty-liver-disease-may-increase-bone-fracture-risk/",
-      "score": 55,
-      "commercial_score": 15,
+      "title_ja": "幼少期の子育てが思春期の喜びの感じ方と関連",
+      "summary_ja": "ノートルダム大の研究で、未就学期の子育て方法が、その子が思春期を通じて喜びや満足を感じる度合いと関わると分かった。思春期は心の不調のリスクが高い時期とされる。",
+      "source": "Notre Dame News",
+      "url": "https://news.nd.edu/news/study-finds-positive-parenting-teaches-children-how-to-experience-joyand-could-lead-to-better-mental-health/",
+      "score": 35,
+      "commercial_score": 20,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "長沙の地域スマートジム、月25元で通える運動拠点に",
-      "summary_ja": "湖南省長沙市の地域向けスマート健身センターでは、月額25元で好きなときに運動でき、自宅の近くで手軽に通えると利用者が話しています。スポーツと医療を組み合わせる取り組みのあり方を取り上げた記事です。",
+      "title_ja": "天津でハーフマラソン、製薬会社が4年連続で冠名",
+      "summary_ja": "天津の寶坻で潮白湿地ハーフマラソンが開かれた。地元の製薬会社が4年連続で冠名スポンサーを務め、全民の健康意識向上に向けた取り組みを後押ししている。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1085504201_118081",
+      "score": 35,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ランニングウェア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "長沙の健身センター、月25元で運動と医療を連携",
+      "summary_ja": "長沙のスマートコミュニティ健身センターを例に、運動と医療を結びつける取り組みの課題が報じられた。月額25元の会員制で、利用者が近所で気軽に運動できる。",
       "source": "新浪新闻",
       "url": "https://news.sina.com.cn/zx/gj/2026-10-08/doc-iniunrrp3903874.shtml",
-      "score": 55,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ルームランナー"
-      ],
+      "score": 35,
+      "commercial_score": 30,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "金龍魚の益海嘉里、健康ブランド「豊益堂」を展開",
-      "summary_ja": "食用油大手の益海嘉里金龍魚が、慢性疾患の予防は食の源から取り組むべきだとして、健康ブランド「金龍魚豊益堂」を打ち出しています。天然の食材から機能性のある栄養成分を大規模に抽出する取り組みです。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1085020864_120157034",
-      "score": 55,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "スポーツ観戦と抑うつの関係、筑波大が先天性心疾患患者で調査",
-      "summary_ja": "筑波大学の研究で、先天性心疾患の患者ではスポーツ観戦の頻度が抑うつ症状と関連する可能性が示されました。現地観戦やテレビなどでの定期的な観戦が、抑うつ症状の少なさと関連していたといいます。",
-      "source": "筑波大学",
-      "url": "https://www.tsukuba.ac.jp/journal/medicine-health/20261008140000.html",
-      "score": 50,
-      "commercial_score": 15,
+      "title_ja": "安田美沙子さん、若さを保つ健康習慣を語る",
+      "summary_ja": "タレントの安田美沙子さんが、自身の若々しさの秘訣を明かした。健康オタクぶりが夫との衝突につながった過去にも触れている。",
+      "source": "オリコンニュース",
+      "url": "https://www.oricon.co.jp/news/2485510/full/",
+      "score": 30,
+      "commercial_score": 30,
       "country": "jp",
       "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "心血管の健康状態とALSリスクの関連を大規模研究が分析",
-      "summary_ja": "大規模な研究で、心血管の健康状態が良い人ほどALS（筋萎縮性側索硬化症）のリスクが低いという関連が見られたと報じられています。",
-      "source": "ALS News Today",
-      "url": "https://alsnewstoday.com/news/disease-history-cardiovascular-health-linked-als-risk-study/",
-      "score": 50,
-      "commercial_score": 10,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "上海市、地域の心の健康相談室110か所を公表",
-      "summary_ja": "上海市が、不眠や不安、気分の落ち込みなどに対応する地域の心の健康診療室110か所の一覧を公表しました。",
-      "source": "上海市人民政府",
-      "url": "https://www.shanghai.gov.cn/nw17239/20261008/4c658cfd549f430b84b44db913ce49a4.html",
-      "score": 50,
-      "commercial_score": 5,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英ポーツマスのプール併設の健康拠点、主要工事を終える",
-      "summary_ja": "英建設会社ウィルモット・ディクソンが、ポーツマスで進める地域の健康・レジャー拠点でプールの主要な構造工事を終えました。施設には新しい診療所も入る予定です。",
-      "source": "Building Better Healthcare",
-      "url": "https://www.buildingbetterhealthcare.com/willmott-dixon-reaches-milestone-for-portsmouth-neighbourhood-health",
-      "score": 45,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "三河湾健康マラソンの参加賞が新デザインに",
-      "summary_ja": "愛知県蒲郡市の「三河湾健康マラソン大会」で、参加賞のデザインが新しくなり、市長に贈られました。市内の繊維会社のデザイナーが担当し、「繊維のまち」を再び盛り上げるねらいです。",
-      "source": "東愛知新聞社",
-      "url": "https://higashiaichi.jp/news/detail.php?id=28031",
-      "score": 40,
-      "commercial_score": 25,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "NHSでデジタル問診の設計が成果",
-      "summary_ja": "英国の公共ITメディアUKAuthorityが、NHSで導入されたデジタルのクイズ形式の設計がうまくいった事例として取り上げています。",
-      "source": "UKAuthority",
-      "url": "https://www.ukauthority.com/articles/digital-quiz-proves-an-nhs-success",
-      "score": 40,
-      "commercial_score": 10,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "三亜で健康ランニングイベント、約千人が参加",
-      "summary_ja": "海南省三亜市で全民健身の健康ランイベントが開かれ、千人近いランナーが川沿いの緑道を走りました。国慶節の休暇にあわせ、観光とスポーツを組み合わせた催しの一つです。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1085026725_362042",
-      "score": 40,
-      "commercial_score": 20,
-      "product_keywords": [
-        "ランニングシューズ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
     }
   ]
 }
