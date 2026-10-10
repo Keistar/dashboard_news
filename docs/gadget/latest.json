@@ -1,297 +1,341 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T15:32:16+09:00",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:34:46+09:00",
   "stories": [
     {
-      "title_ja": "アップル、10月13日に新製品イベント開催",
-      "summary_ja": "アップルが日本時間10月13日午後10時から「Welcome Home.」というイベントを開くと明らかにした。同社初のスマートディスプレイや新型Apple TVの登場が取り沙汰されている。",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/10/09/5568.html",
-      "score": 85,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Apple TV",
-        "HomePod"
-      ],
+      "title_ja": "Appleが10月13日に新イベントを開催",
+      "summary_ja": "Appleが「Welcome home」と題した新しいイベントの招待状を公開しました。創業初期の虹色リンゴロゴが布地に刺繍されていく動画が添えられています。",
+      "source": "shiritomo",
+      "url": "https://hashout.jp/gadget/12330/",
+      "score": 90,
+      "commercial_score": 50,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Nvidia搭載のRTX Sparkノート、10月16日発売で2600ドルから",
-      "summary_ja": "NvidiaのRTX Spark搭載ノートPCは2,600ドルからで、10月16日に発売される。マイクロソフトのSurface Laptop Ultraのほか、複数のメーカーが同時に投入する。",
-      "source": "ExtremeTech",
-      "url": "https://www.extremetech.com/computing/nvidia-rtx-spark-laptops-will-start-at-2600-launch-october-16",
-      "score": 85,
-      "commercial_score": 65,
-      "product_keywords": [
-        "RTX Spark ノートPC"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "マイクロソフト、2599ドルのSurface Laptop Ultra予約開始",
-      "summary_ja": "マイクロソフトがNvidiaのチップを積んだAI向けの新Surfaceの予約受付を始めた。価格は2,599ドル。同社がハードウェアに力を入れる姿勢を示す製品だ。",
-      "source": "The Tech Buzz",
-      "url": "https://www.techbuzz.ai/articles/microsoft-opens-preorders-for-2-599-surface-laptop-ultra",
-      "score": 80,
-      "commercial_score": 65,
-      "product_keywords": [
-        "Surface Laptop"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アップル、タッチ対応OLED MacBook Proを10月27日ごろ発表か",
-      "summary_ja": "ブルームバーグによると、アップルは10月27日前後にタッチ操作対応の有機EL MacBook Proと有機EL搭載のiPad miniを発表する。",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
-      "score": 78,
-      "commercial_score": 75,
-      "product_keywords": [
-        "MacBook Pro",
-        "iPad mini"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ソニーのXperia 10 VIII発売、NFCで見た目を一括変更",
-      "summary_ja": "新型ミドル機のXperia 10 VIIIが発売された。SIMフリー版は9万9000円で、10万円未満に収まっている。NFCカードをかざして画面や音をまとめて変える新機能「FunSync」を備え、キティや鬼滅の刃とのコラボも用意される。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/441/4441032/",
-      "score": 75,
+      "title_ja": "マイクロソフト、AI搭載の新型Surfaceを発表",
+      "summary_ja": "マイクロソフトがこれまでで最も強力なデバイスとする「Surface Laptop Ultra」を発表しました。AIスーパーコンピューターを搭載したノートパソコンと位置づけられています。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra",
+      "score": 90,
       "commercial_score": 85,
       "product_keywords": [
-        "Xperia 10 VIII"
+        "Surface Laptop Ultra",
+        "マイクロソフト"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Surface Laptop Ultraの価格が判明、最大128GBメモリ",
-      "summary_ja": "マイクロソフトのSurface Laptop Ultraは、Nvidiaの新チップRTX Sparkを積み、最大128GBのメモリを選べる。価格はパワーユーザー向けの設定になった。",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "Surface Laptop"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "OnePlus 16は10月12日発表、185fps表示のゲームに対応",
-      "summary_ja": "一加（OnePlus）が新機種「一加16」を10月12日19時に発表する。第6世代のSnapdragon 8を搭載し、人気ゲーム『デルタフォース』で185fpsの描画に最初に対応するという。",
-      "source": "CNMO",
-      "url": "https://m.cnmo.com/news/819813.html",
-      "score": 75,
-      "commercial_score": 65,
-      "product_keywords": [
-        "OnePlus 16"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "アマゾン、12インチのAlexaタブレットを3モデルで発売",
-      "summary_ja": "アマゾンがAlexaタブレットを3モデルで投入した。上位の12 Proは499.99ドルからで、反射を抑えるNanomatte画面も選べる。Google Playにも対応する。",
-      "source": "Gadget Review",
-      "url": "https://www.gadgetreview.com/amazons-alexa-tablets-arrive-with-a-12-inch-anti-glare-screen",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Alexa タブレット",
-        "Fire タブレット"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "アップル初の折りたたみ「iPhone Duo」、予約開始が近い",
-      "summary_ja": "アップル初の折りたたみ式スマホ「iPhone Duo」の予約が近く始まると報じられた。購入前に知っておきたい点と、見つかったお得な情報がまとめられている。",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/phones-accessories/iphone-duo-release-date-pre-order-b3063358.html",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "折りたたみスマホ",
-        "iPhone"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "アップルが10月13日に新製品発表、サムスンはスマホ減産か",
-      "summary_ja": "中国のIT系メディアの朝刊まとめによると、アップルが10月13日の新製品発表を決めた。サムスンのスマホ事業は生産を30％減らす可能性があるとも伝えている。",
-      "source": "爱范儿",
-      "url": "https://www.ifanr.com/1683244",
-      "score": 70,
-      "commercial_score": 50,
-      "product_keywords": [
-        "Apple 新製品"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "サムスン、10〜12月のスマホ生産を最大3割減らすか",
-      "summary_ja": "サムスンが2026年第4四半期のスマホ生産を最大30％減らす可能性があると報じられた。AI需要でメモリ価格が上がっていることが背景にある。スマホの価格や供給への影響が気になるところだ。",
-      "source": "スマホダイジェスト",
-      "url": "https://sumahodigest.com/?p=73230",
-      "score": 65,
-      "commercial_score": 40,
-      "product_keywords": [
-        "Galaxy スマホ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "エプソン、4K対応の家庭用プロジェクターを10月29日発売",
-      "summary_ja": "エプソンが高輝度で4K表示ができる家庭向けプロジェクター「EH-LS7000」を発表した。発売は10月29日。明るいリビングでも見やすい画質をうたう。",
-      "source": "GetNavi web",
-      "url": "https://getnavi.jp/gadgets/1116927/",
-      "score": 60,
+      "title_ja": "華為「Mate 90」シリーズ発表、Pro Maxに新機能集中",
+      "summary_ja": "華為（Huawei）が新型スマートフォン「Mate 90」シリーズを発表しました。上位モデルには高性能チップや端末内AI、放送局レベルの配信機能が搭載されています。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1085877135_121761735",
+      "score": 90,
       "commercial_score": 85,
       "product_keywords": [
-        "エプソン EH-LS7000",
-        "4Kプロジェクター"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "OPPOのColorOS 17、10月13日に世界向け発表会",
-      "summary_ja": "OPPOが10月13日にColorOS 17の世界向け発表会を開く。Find X10シリーズは10月21日にスペインで発表される予定だ。",
-      "source": "CNMO",
-      "url": "https://m.cnmo.com/news/819837.html",
-      "score": 60,
-      "commercial_score": 50,
-      "product_keywords": [
-        "OPPO Find X10"
+        "Huawei Mate 90",
+        "ファーウェイ スマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ソニーのワイヤレスヘッドホンWH-CH530が7000円に",
-      "summary_ja": "9月に出たソニーのWH-CH530がAmazonで7,000円になっている。重さは約147gで、最大約55時間の音楽再生に対応する。3分の充電で約1.5時間使えるクイック充電も付く。",
+      "title_ja": "ブラザー、6600円のラベルライター新モデル",
+      "summary_ja": "ブラザー販売がスマホ連携ラベルライター「P-TOUCH CUBE PT-P320BT」を発表しました。約10年ぶりのエントリーモデル刷新で、充電式になりながら価格を6600円に維持しています。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/pcuser/amp/2610/09/news072_3.html",
+      "score": 85,
+      "commercial_score": 95,
+      "product_keywords": [
+        "P-TOUCH CUBE",
+        "PT-P320BT",
+        "ラベルライター"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "7000mAh大容量バッテリー搭載の新型スマホ予約開始",
+      "summary_ja": "モトローラの新型スマートフォン「edge 70 fusion」がAmazonで予約受付を開始しました。7000mAhの大容量バッテリーを搭載しながらも、薄型軽量ボディと144Hz対応の有機ELディスプレイを実現しています。",
       "source": "週刊アスキー",
-      "url": "https://weekly.ascii.jp/elem/000/004/441/4441027/",
-      "score": 55,
+      "url": "https://weekly.ascii.jp/elem/000/004/441/4441251/",
+      "score": 85,
       "commercial_score": 90,
       "product_keywords": [
-        "ソニー WH-CH530",
-        "ワイヤレスヘッドホン"
+        "edge 70 fusion",
+        "モトローラ スマホ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "OPPO Find X10シリーズ、10月21日に世界発売",
-      "summary_ja": "OPPOの最新フラッグシップスマホ、Find X10シリーズが10月21日に世界向けに発表される。",
-      "source": "GadgetMatch",
-      "url": "https://www.gadgetmatch.com/oppo-find-x10-series-launches-globally-october-21/",
-      "score": 55,
-      "commercial_score": 60,
+      "title_ja": "タッチ画面搭載の「MacBook Pro」が10月に発表か",
+      "summary_ja": "Appleが有機ELディスプレイを搭載したタッチ操作対応のMacBook Proを10月27日に発表する可能性があります。ダイナミックアイランドや新デザインの採用も噂されています。",
+      "source": "UkrMedia News",
+      "url": "https://ukrmedia.news/en/science-tech/apple-macbook-pro-oled-2026/",
+      "score": 85,
+      "commercial_score": 70,
       "product_keywords": [
-        "OPPO Find X10"
+        "MacBook Pro",
+        "Apple"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Surfaceに磁石で付くUSB-C充電端子が登場",
-      "summary_ja": "マイクロソフトが、MagSafeに似た磁石式の充電端子を新Surfaceに採用した。通常のUSB-Cポートとしても使える。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra-magnetic-usb-c-port",
-      "score": 55,
-      "commercial_score": 45,
+      "title_ja": "ローラーを自動洗浄するダイソン「W1」ドック",
+      "summary_ja": "ダイソンが充電中にローラーを自動で洗浄する掃除機用ドック「W1 PencilWash Dok」を発表しました。約349.99ドルで販売され、隙間の狭い硬い床に適しています。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/dyson-w1-pencilwash-dok-self-cleans-its-roller-for-349-99",
+      "score": 85,
+      "commercial_score": 85,
       "product_keywords": [
-        "USB-C 充電ケーブル マグネット"
+        "ダイソン W1",
+        "PencilWash Dok",
+        "ダイソン 掃除機"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "紅魔（RedMagic）12 Pro+、氷青の透明モデルを公開",
-      "summary_ja": "紅魔のゲーミングスマホ12 Pro+に、新色「氘鋒透明・冰藍」が加わる。公式が外観の画像を公開した。新機種は10月15日に発表される。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/tech/2026-10-08/detail-iniuphpf3674848.d.html?vt=4",
-      "score": 55,
-      "commercial_score": 55,
+      "title_ja": "Appleの折りたたみスマホは米国限定で供給制限か",
+      "summary_ja": "Appleが開発中の折りたたみスマートフォンについて、初期の販売が米国に限定される可能性が報じられています。生産の難しさから供給量が限られ、価格設定も困難だとみられています。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2454260",
+      "score": 85,
+      "commercial_score": 50,
       "product_keywords": [
-        "RedMagic 12 Pro+"
+        "Apple 折りたたみスマホ",
+        "iPhone"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "階躍（StepFun）が初のAIエージェント搭載スマホを13日発表",
-      "summary_ja": "階躍の端末部門が10月13日に上海で発表会を開き、初のスマホ「STEPX Neo」を披露する。大規模言語モデルを核にしたAIエージェント型のスマホとうたう。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1085092192_115088",
-      "score": 55,
-      "commercial_score": 40,
+      "title_ja": "スマホに挿すだけの360度録音マイク「ECM-AX10」",
+      "summary_ja": "ソニーがスマートフォン用のスティック状マイク「ECM-AX10」を発表しました。手のひらに収まる小型軽量ボディの先端に、360度録音が可能なマイクモジュールを備えています。",
+      "source": "shiritomo",
+      "url": "https://hashout.jp/gadget/12301/",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
+        "ECM-AX10",
+        "ソニー マイク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "レノボ、120Hz駆動の14インチノートPCを発売",
+      "summary_ja": "レノボが新しい14インチノートPC「IdeaPad Slim 5 Ultra 14IWC11」の販売を世界中で開始しました。120Hzのディスプレイを備え、新しいインテル製アーキテクチャによりバッテリー駆動時間が大幅に伸びています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-14-inch-laptop-internationally-with-120-Hz-display-and-over-50-longer-battery-life-than-older-model.1420175.0.html",
+      "score": 80,
+      "commercial_score": 80,
+      "product_keywords": [
+        "IdeaPad Slim 5 Ultra",
+        "レノボ ノートPC"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "HP、明るい有機EL搭載の14インチノートPCを発売",
+      "summary_ja": "HPが最大128GBのメモリと高輝度な有機ELディスプレイを備えた14インチノートPC「OmniBook X」を発売しました。NvidiaのRTX Sparkプラットフォームを採用した初期モデルの一つです。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-with-1-100-nit-OLED-display-and-128-GB-RAM.1420441.0.html",
+      "score": 80,
+      "commercial_score": 80,
+      "product_keywords": [
+        "OmniBook X",
+        "HP ノートPC"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "暖房費を節約できるDunelmの防寒ガジェットが話題",
+      "summary_ja": "冬の暖房費節約に役立つDunelmの防寒アイテムが消費者の間で話題になっています。1時間あたりの電気代が非常に安く、手放せないという声が寄せられています。",
+      "source": "Daily Record",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/money/dunelm-shoppers-claim-cant-live-37753937",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Dunelm",
+        "防寒グッズ",
+        "暖房器具"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "深い低音を楽しめるFiiOの平面駆動型ヘッドホン「JT9」",
+      "summary_ja": "160ドルで販売されるFiiOの平面駆動型ヘッドホン「JadeAudio JT9」のレビューが公開されました。深い低音と広がりのある音響が特徴ですが、高音域の明るさに好みが分かれるとされています。",
+      "source": "eCoustics",
+      "url": "https://www.ecoustics.com/reviews/fiio-jadeaudio-jt9-planar-headphones/",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "FiiO JT9",
+        "JadeAudio",
+        "ヘッドホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "大規模モデル内蔵のAIスマホ「STEPX Neo」が10月に発表",
+      "summary_ja": "階躍端末が初のAIネイティブスマートフォン「STEPX Neo」を上海のイベントで発表します。大規模な言語モデルを組み込んだ新しい端末として注目されています。",
+      "source": "智东西",
+      "url": "https://m.zhidx.com/news/43242.html",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "STEPX Neo",
         "AIスマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "RedMagic 12 Pro+の画像公開、画面下カメラと液冷を採用",
-      "summary_ja": "Nubiaが発売の数日前に、新型ゲーミングスマホRedMagic 12 Pro+の画像を初めて公開した。ノッチもパンチホールもなく、RGBライト付きの液冷機構を備える。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/RedMagic-12-Pro-appears-with-under-display-camera-and-liquid-cooling-days-before-launch.1419131.0.html",
-      "score": 50,
-      "commercial_score": 55,
+      "title_ja": "シャオミ「REDMI K200」シリーズに7インチ大画面モデルか",
+      "summary_ja": "シャオミのサブブランド向けに、7インチの高精細なフラットディスプレイを搭載した新機種が開発されていると報じられています。「REDMI K200」シリーズの一つになる予定です。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-09/detail-iniurfei6934121.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+      "score": 80,
+      "commercial_score": 75,
       "product_keywords": [
-        "RedMagic 12 Pro+"
+        "REDMI K200",
+        "シャオミ スマホ",
+        "Xiaomi"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "ゲーミングスマホRedMagic 12 Pro+、透明モデルは3色",
-      "summary_ja": "NubiaのRedMagic 12 Pro+について新情報が出た。透明デザインの「Deuterium Transparent」は3色展開になる。内部の液冷システムも前世代から強化されるという。",
-      "source": "スマホダイジェスト",
-      "url": "https://sumahodigest.com/?p=73193",
-      "score": 45,
-      "commercial_score": 55,
+      "title_ja": "スマホの容量不足を解消できるUGREENのNAS",
+      "summary_ja": "スマホやカメラで撮影した写真や動画をまとめて保存できるNAS「DXP4800 GT」が注目されています。家族全員のデータを一括管理できるため、デバイスのストレージ不足解消に役立ちます。",
+      "source": "マイナビニュース",
+      "url": "https://news.mynavi.jp/article/20261009-5095813/",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "RedMagic ゲーミングスマホ"
+        "UGREEN NAS",
+        "DXP4800 GT"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "レノボの低価格ノートに120Hz画面モデル、電池持ちも向上",
-      "summary_ja": "レノボがIdeaPad Slim 3x 15Q7X11を投入した。120Hz表示を選べ、公式テストの電池持続は33時間。前モデルより45%以上長く、電池容量が大きかった旧型を上回るという。",
+      "title_ja": "Vivo、10200mAhバッテリー搭載のスマホを発表",
+      "summary_ja": "Vivoが中国市場向けに超大容量の10200mAhバッテリーを搭載した5Gスマートフォン「Y600s Pro」を発売しました。120Hzの有機ELディスプレイや5000万画素のメインカメラを備えています。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Lenovo-releases-new-budget-laptop-with-120-Hz-display-and-over-45-longer-battery-life-than-older-model.1419184.0.html",
-      "score": 45,
-      "commercial_score": 70,
+      "url": "https://www.notebookcheck.net/Vivo-releases-new-midrange-smartphone-with-massive-10-200-mAh-battery.1420023.0.html",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "レノボ IdeaPad Slim 3"
+        "Vivo スマホ",
+        "Y600s Pro"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "Bose QuietComfort 第2世代が初の値下げ",
-      "summary_ja": "ボーズのヘッドホンQuietComfort 第2世代が、Amazonで40ドル引きになった。値下げは今回が初めてだという。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/sept-29-bose-quietcomfort-2nd-gen-headphones-deal",
-      "score": 40,
-      "commercial_score": 85,
+      "title_ja": "汗から成分を測定できるウェアラブルセンサー",
+      "summary_ja": "日本の研究チームが汗からナトリウムとカリウムの反応を無線で追跡できるウェアラブルセンサーを開発しました。スマートウォッチ型で実地試験が行われています。",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/innovation/sweat-sensing-smartwatch-sodium-potassium-field-test",
+      "score": 75,
+      "commercial_score": 40,
       "product_keywords": [
-        "Bose QuietComfort"
+        "スマートウォッチ",
+        "ウェアラブルセンサー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "レノボ、AI開発者向けの15.3インチノートPCを発売",
+      "summary_ja": "レノボがNvidiaの「RTX Spark N1X」を搭載したノートPC「Pro 9n Multi-Touch Laptop」を発表しました。AI分野で最先端を目指すクリエイターや開発者に向けた高性能モデルです。",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/lenovo-15-3-pro-9n-multi-touch-laptop",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Lenovo Pro 9n",
+        "レノボ ノートPC"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "BOEとOnePlus、第4世代「東方屏」ディスプレイを発表",
+      "summary_ja": "ディスプレイ大手のBOE（京东方）とOnePlusが共同で、第4世代となるディスプレイ「東方屏」を発表しました。動的な鮮明さを向上させる技術を量産化した初のディスプレイとなります。",
+      "source": "上观新闻",
+      "url": "https://www.shobserver.cn/news/detail?id=1191275",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "OnePlus スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Honorの新作スマホ「WIN 2」シリーズが今月発表の噂",
+      "summary_ja": "Honor（オナー）の新型スマートフォン「WIN 2」シリーズと小型タブレットが今月発表されるとの情報がSNSで共有されています。前世代の製品構成を引き継ぐ見込みです。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-09/detail-iniurmnf2887299.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Honor WIN 2",
+        "オナー スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "iPhone用フラッシュ「Godox A2」が登場",
+      "summary_ja": "スマートフォンに装着できるキセノンフラッシュ「Godox A2」が発表されました。手のひらサイズのスピーカーのような丸い本体に、光を反射する拡散板を備えています。",
+      "source": "shiritomo",
+      "url": "https://hashout.jp/gadget/12332/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Godox A2",
+        "iPhone用フラッシュ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "「OnePlus 16」のディスプレイ仕様が発表前に確定",
+      "summary_ja": "OnePlusが次期フラッグシップスマートフォン「OnePlus 16」の画面仕様を明らかにしました。非常に高いリフレッシュレートを備えた有機ELパネルを搭載する予定です。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/OnePlus-16-flagship-smartphone-display-specs-confirmed-ahead-of-launch.1420183.0.html",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "OnePlus 16",
+        "スマートフォン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "振動で没入感を高める「Woojer Vest 4」レビュー",
+      "summary_ja": "コンテンツへの没入感を高めるための振動ベスト「Woojer Vest 4」のレビューが公開されました。長時間使用すると、没入感よりも少し疲労を感じる可能性があると指摘されています。",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/technology/consumer-tech/review/2026/10/10/woojer-vest-4-review-this-vibrating-vest-might-be-the-weirdest-gadget-ive-ever-reviewed/",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "Woojer Vest 4",
+        "振動ベスト"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"

@@ -1,176 +1,183 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T15:51:44+09:00",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:41:58+09:00",
   "stories": [
     {
-      "title_ja": "握力の左右差が大きいと死亡リスク上昇と研究",
-      "summary_ja": "国立長寿医療研究センターの研究グループが、握力の左右差と死亡リスクの関係を調べた。左右差が20％を超える人は、10％以下の人より死亡リスクが30％高かったという。",
-      "source": "時事メディカル",
-      "url": "https://medical.jiji.com/topics/4375",
-      "score": 60,
-      "commercial_score": 35,
-      "product_keywords": [
-        "握力計"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "寝酒は寝つきを助けても睡眠の質を損なう",
-      "summary_ja": "睡眠学者の柳沢正史氏が、お酒を飲むとすぐ眠れる感覚の裏にある問題を語った。焦点は寝つきの早さではなく、睡眠の質への影響だ。",
+      "title_ja": "睡眠学者が教える質の高い睡眠とお酒の関係",
+      "summary_ja": "世界的権威である柳沢正史教授が、睡眠の質を守りながらお酒を楽しむ方法を解説しています。巷にあふれる睡眠の常識の真偽を検証し、寝ても疲れがとれないといった悩みの解消法を提案します。",
       "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/amp/400291",
-      "score": 55,
-      "commercial_score": 40,
+      "url": "https://diamond.jp/articles/-/400292",
+      "score": 70,
+      "commercial_score": 50,
       "product_keywords": [
-        "睡眠 サポート"
+        "睡眠",
+        "本"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "健康系インフルエンサー投稿の約4割が宣伝",
-      "summary_ja": "米ピュー研究所の調査で、健康インフルエンサーの投稿の38％が商品やサービス、定額課金を宣伝していた。サプリや市販薬の話題では約3分の2に宣伝が含まれた。",
-      "source": "Scripps News",
-      "url": "https://www.scrippsnews.com/health/getting-health-advice-online-a-study-suggests-you-may-be-getting-a-sales-pitch",
-      "score": 55,
+      "title_ja": "Googleの健康アプリでAI機能をオフにする方法",
+      "summary_ja": "フィットビット（Fitbit）やピクセルウォッチ（Pixel Watch）で利用する健康アプリには、AIコーチ機能が搭載されています。必要のないユーザー向けに、この機能からの通知をオフにする隠し設定が紹介されています。",
+      "source": "Lifehacker",
+      "url": "https://lifehacker.com/health/how-to-turn-off-the-ai-coach-in-the-google-health-app",
+      "score": 70,
       "commercial_score": 60,
       "product_keywords": [
-        "サプリメント"
+        "スマートウォッチ",
+        "Fitbit",
+        "Pixel Watch"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "シカゴマラソン前に健康・フィットネス博が開幕",
-      "summary_ja": "シカゴマラソンの週末にあわせ、マコーミック・プレイスでアボット主催のヘルス＆フィットネスEXPOが始まった。大会前の参加者向けイベントとして注目される。",
-      "source": "NBC 5 Chicago",
-      "url": "https://www.nbcchicago.com/video/news/local/abbott-health-fitness-expo-kicks-off-chicago-marathon-weekend/3999816/",
-      "score": 50,
-      "commercial_score": 55,
+      "title_ja": "処方箋の準備完了をスマートウォッチに通知",
+      "summary_ja": "イギリスの国民保健サービス（NHS）が提供するアプリの機能がさらに便利になりました。薬局で処方された薬の準備が整うと、スマートウォッチやスマートフォンで通知を受け取れるようになります。",
+      "source": "Med-Tech Insights",
+      "url": "https://med-techinsights.com/2026/10/09/nhs-expands-prescription-ready-service-to-smartwatches-and-mobiles/",
+      "score": 70,
+      "commercial_score": 60,
       "product_keywords": [
-        "ランニングシューズ"
+        "スマートウォッチ"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "東北大の瀧教授が語る、脳を健やかに保つ習慣",
-      "summary_ja": "東北大学の瀧教授へのインタビュー前編。社会生活を充実して送れる状態を「健康脳」と呼び、維持の要点として運動と睡眠を挙げている。",
-      "source": "マネクリ",
-      "url": "https://media.monex.co.jp/articles/amp/30264",
-      "score": 45,
-      "commercial_score": 35,
-      "product_keywords": [
-        "ウォーキングシューズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ジェシカ・ビール、44歳の全身筋トレ6種目",
-      "summary_ja": "女優ジェシカ・ビールが、44歳の体づくりに取り入れる全身トレーニングを紹介した。45分で行う6種目で、筋力や柔軟性、持久力を意識した内容だ。",
-      "source": "Women's Health",
-      "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a71779319/jessica-biel-full-body-workout/",
-      "score": 40,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ダンベル",
-        "トレーニングマット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英NHS、職場で献血を促す取り組みを開始",
-      "summary_ja": "英国のNHSが、黒人系コミュニティの人々に献血を呼びかける新たな取り組みを始めた。献血チームが職場を訪れ、鎌状赤血球症の患者を支える献血者を増やす狙いだ。",
-      "source": "Health Tech World",
-      "url": "https://htworld.co.uk/news/digital-health/nhs-partners-with-digital-health-app-to-boost-black-blood-donors-fem26/",
-      "score": 40,
-      "commercial_score": 10,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "山東省、身近な場所に小規模な健身スペースを整備へ",
-      "summary_ja": "山東省が、都市の空き地や隙間を活用した「小さくて美しい」組み込み型の健身スペースを整備する方針を示した。住民が気軽に運動できる環境づくりを進める。",
-      "source": "齐鲁网",
-      "url": "https://news.iqilu.com/shandong/yuanchuang/2026/1009/5950647.shtml",
-      "score": 40,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "微泰医療が血糖測定の巡回イベントを深圳で完了",
-      "summary_ja": "血糖ケアを掲げる微泰（Microtech Medical）の測糖車が、青島から15都市21か所を回り、深圳で終着した。約1か月にわたる巡回イベントだった。",
-      "source": "凤凰网",
-      "url": "https://hainan.ifeng.com/c/8x3aWnwDT8j",
-      "score": 40,
+      "title_ja": "健康をテーマにした体験型スーパーが人気",
+      "summary_ja": "広州市に、健康をテーマにした新たなスーパーマーケットがオープンし、多くの住民が訪れています。焼き立てのパンや新鮮なフルーツなど、さまざまな健康的な売り場が展開されています。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1085940033_120988533",
+      "score": 70,
       "commercial_score": 50,
-      "product_keywords": [
-        "血糖測定器"
-      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "逆立ちが新たなフィットネスの流行に",
-      "summary_ja": "英紙The Timesが、逆立ちがフィットネス愛好家の間で新しい見せ場として広がっていると伝えた。トレーニング動向の一つとして紹介している。",
-      "source": "The Times",
-      "url": "https://www.thetimes.com/life-style/health-fitness/article/handstands-latest-fitness-flex-ddxpck05z",
-      "score": 35,
-      "commercial_score": 45,
+      "title_ja": "血糖値や睡眠の向上をうたうヨーグルト飲料",
+      "summary_ja": "血糖値の管理や睡眠の質向上、脂肪燃焼をサポートする成分を配合したヨーグルト飲料が多数登場しています。スプーンを使わずに手軽に飲めるため、毎日の習慣として続けやすいのが特徴です。",
+      "source": "毎日新聞",
+      "url": "https://mainichi.jp/articles/20261010/ddl/k09/040/118000c",
+      "score": 60,
+      "commercial_score": 90,
       "product_keywords": [
-        "ヨガマット"
+        "ヨーグルト飲料",
+        "機能性表示食品"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "幼少期の子育てが思春期の喜びの感じ方と関連",
-      "summary_ja": "ノートルダム大の研究で、未就学期の子育て方法が、その子が思春期を通じて喜びや満足を感じる度合いと関わると分かった。思春期は心の不調のリスクが高い時期とされる。",
-      "source": "Notre Dame News",
-      "url": "https://news.nd.edu/news/study-finds-positive-parenting-teaches-children-how-to-experience-joyand-could-lead-to-better-mental-health/",
-      "score": 35,
+      "title_ja": "夜食が脂肪肝などの肝疾患リスクを高める可能性",
+      "summary_ja": "新たな研究によると、夜遅くの食事が脂肪肝のリスクを36％、肝硬変のリスクを28％高めることが判明しました。",
+      "source": "Everyday Health",
+      "url": "https://www.everydayhealth.com/liver-disease/late-night-snacking-may-increase-liver-disease-risk/",
+      "score": 60,
       "commercial_score": 20,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "天津でハーフマラソン、製薬会社が4年連続で冠名",
-      "summary_ja": "天津の寶坻で潮白湿地ハーフマラソンが開かれた。地元の製薬会社が4年連続で冠名スポンサーを務め、全民の健康意識向上に向けた取り組みを後押ししている。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1085504201_118081",
-      "score": 35,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ランニングウェア"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "長沙の健身センター、月25元で運動と医療を連携",
-      "summary_ja": "長沙のスマートコミュニティ健身センターを例に、運動と医療を結びつける取り組みの課題が報じられた。月額25元の会員制で、利用者が近所で気軽に運動できる。",
-      "source": "新浪新闻",
-      "url": "https://news.sina.com.cn/zx/gj/2026-10-08/doc-iniunrrp3903874.shtml",
-      "score": 35,
+      "title_ja": "加糖飲料を控えることが子どもの肥満防止に",
+      "summary_ja": "米国では学齢期の子どもの約5人に1人が肥満となっており、高い水準が続いています。砂糖を加えた飲み物の摂取を減らすことが、子どもの肥満を減らす助けになることが研究で示されました。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261009/Cutting-sugary-drinks-helps-reduce-childhood-obesity-study-finds.aspx",
+      "score": 60,
       "commercial_score": 30,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "歯科治療の遅れ解消へ、デジタル技術に期待",
+      "summary_ja": "デジタル技術を活用した患者の紹介システムにより、歯科治療の待ち時間を解消できる可能性が報告されました。医療現場の事務作業を減らし、治療の状況をわかりやすくする効果が期待されています。",
+      "source": "FemTech World",
+      "url": "https://www.femtechworld.co.uk/news-topics/care-services/report-calls-for-digital-referral-technology-to-tackle-nhs-dentistry-delays-nec26/",
+      "score": 60,
+      "commercial_score": 10,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "公園のスポーツ施設を簡単に探せるマップ機能",
+      "summary_ja": "重慶市で、公園内の運動施設を検索できる便利なマップ機能が更新されました。屋外のフィットネス器具や球技場など、数多くの運動ができる場所を簡単に調べることができます。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/zx/gj/2026-10-10/doc-iniutcvq0590103.shtml",
+      "score": 60,
+      "commercial_score": 10,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "安田美沙子さん、若さを保つ健康習慣を語る",
-      "summary_ja": "タレントの安田美沙子さんが、自身の若々しさの秘訣を明かした。健康オタクぶりが夫との衝突につながった過去にも触れている。",
-      "source": "オリコンニュース",
-      "url": "https://www.oricon.co.jp/news/2485510/full/",
-      "score": 30,
+      "title_ja": "生物医学のAIモデルで健康寿命の延長を模索",
+      "summary_ja": "スタンフォード大学の研究者が、あらゆる健康データを取り込んだAIモデルの構築を目指しています。寿命を大幅に延ばすための技術的なアプローチについて議論が行われています。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1085916291_354973",
+      "score": 60,
+      "commercial_score": 10,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "運動前のカフェイン摂取が瞬発力を向上",
+      "summary_ja": "運動前にカフェインを摂取すると、ダッシュなどの瞬発力が約3.5時間にわたって高まることがわかりました。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/nazology/world/nazology-201020",
+      "score": 50,
+      "commercial_score": 70,
+      "product_keywords": [
+        "カフェイン",
+        "コーヒー",
+        "サプリメント"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "健康的な食事への過度な執着に注意",
+      "summary_ja": "健康的な食事に不健全なほど執着してしまう「オルトレキシア」という状態の人が増えています。流行のダイエットや高タンパク質食品への関心の高まりが、その背景にあると見られています。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/huffingtonpost/life/huffingtonpost-6ac8973ee4b0e825de140a8f",
+      "score": 50,
       "commercial_score": 30,
       "country": "jp",
       "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "筋力トレーニングで有酸素運動の効果も得る方法",
+      "summary_ja": "筋力トレーニングを有酸素運動としても役立てるための条件について専門家が解説しています。一つの運動で両方の利点を得る方法や、目的に合わせて分けて行うべきケースが紹介されています。",
+      "source": "Women's Health",
+      "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a74062863/can-strength-training-count-as-cardio/",
+      "score": 50,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ダンベル",
+        "トレーニングチューブ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "科学的な医療と介護で高齢化の課題に挑む",
+      "summary_ja": "高齢化社会における課題を解決するため、科学的な医療と介護を組み合わせた取り組みが進められています。健康づくりと高齢者ケアを統合した、新たな形が模索されています。",
+      "source": "中国经济网",
+      "url": "http://www.ce.cn/xwzx/shgj/gdxw/202610/t20261010_3253075.shtml",
+      "score": 50,
+      "commercial_score": 20,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "商品・サービス・保険を統合した新たな健康事業",
+      "summary_ja": "湖南省の健康テクノロジー企業が提供する商品に、保険会社のサービスが適用されるようになりました。健康産業において、製品とサービス、そして保険を組み合わせたモデルが広がっています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_6419731877_17ea555a500101bm2o.html?from=health",
+      "score": 50,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

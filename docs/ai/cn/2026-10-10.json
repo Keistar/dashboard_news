@@ -1,0 +1,46 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:32:23+09:00",
+  "stories": [
+    {
+      "title_ja": "中国のAI大手2社が同日に新製品を発表",
+      "summary_ja": "中国の大手AIモデル開発企業2社が、同日に新たな製品を発表しました。業界の競争は、基本モデルそのものから、エージェント機能や商業化の仕組みへと焦点が移りつつあります。",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103385653.html",
+      "score": 80,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "WPSがオフィスAIの新標準策定を主導",
+      "summary_ja": "オフィスソフトのWPSが中心となり、オフィス向けAIツールの新たな業界標準が定められました。AIには単なる対話だけでなく、画像や複雑な表データを読み解き、そのまま実務で使える資料を作成する能力が求められます。",
+      "source": "凤凰网",
+      "url": "https://hainan.ifeng.com/c/8x6JH8cnFGC",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "WPS Office",
+        "オフィスソフト"
+      ]
+    },
+    {
+      "title_ja": "AIによる短編ドラマ制作が難しい理由",
+      "summary_ja": "AIによる動画生成は進歩していますが、短編ドラマの制作は依然として困難です。映像を「生成できる」ことと、安定して「生産できる」ことの間には大きな壁があります。",
+      "source": "InfoQ-CN",
+      "url": "https://www.infoq.cn/article/8g9tlaqJFUPrb4oGO00A",
+      "score": 70,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "広東省のAI応用連携大会に小智AIが登場",
+      "summary_ja": "広東省広州市で第2回人工知能応用連携大会が開催されました。このイベントには国産のオープンソースAIなどが多数出展しており、さまざまな業界へのAI活用がテーマとなっています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102z6t0.html?from=tech&subch=otech",
+      "score": 60,
+      "commercial_score": 10
+    }
+  ]
+}

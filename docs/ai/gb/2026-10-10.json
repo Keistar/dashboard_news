@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:32:23+09:00",
+  "stories": [
+    {
+      "title_ja": "AIを健康相談に使ってはいけない理由",
+      "summary_ja": "ChatGPTなどの人工知能システムを健康相談に使うと、誤ったアドバイスを受ける危険性があります。さらに、実際の医療従事者が患者を助けるのを困難にする可能性があると科学者が警告しています。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tech/ai-health-chatgpt-claude-artificial-intelligence-b3064281.html",
+      "score": 80,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "AIへの拷問実験が専門家の間で議論に",
+      "summary_ja": "アンソロピックがAIに対する残酷な扱いを禁止した一方で、AIが痛みを感じるかどうかについて専門家の意見が分かれています。AIに道徳的な地位を与えることは人類の脅威になり得ると警告する研究者もいます。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tech/ai-pain-ethics-artificial-intelligence-b3063005.html",
+      "score": 75,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "AIの脅威を描く新作映画が公開へ",
+      "summary_ja": "OpenAIとその共同創設者であるサム・アルトマン氏らを題材にした新作映画が、人類の未来について強い警告を発しています。最近のニュースと相まって、刺激的なタイミングでの公開となります。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/culture/article/20261008-ai-fears-are-growing-and-unsettling-new-film-artificial-puts-them-and-the-future-of-humanity-centre-stage",
+      "score": 70,
+      "commercial_score": 30
+    }
+  ]
+}

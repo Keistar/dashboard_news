@@ -1,0 +1,82 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:34:46+09:00",
+  "stories": [
+    {
+      "title_ja": "マイクロソフト、AI搭載の新型Surfaceを発表",
+      "summary_ja": "マイクロソフトがこれまでで最も強力なデバイスとする「Surface Laptop Ultra」を発表しました。AIスーパーコンピューターを搭載したノートパソコンと位置づけられています。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra",
+      "score": 90,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Surface Laptop Ultra",
+        "マイクロソフト"
+      ]
+    },
+    {
+      "title_ja": "タッチ画面搭載の「MacBook Pro」が10月に発表か",
+      "summary_ja": "Appleが有機ELディスプレイを搭載したタッチ操作対応のMacBook Proを10月27日に発表する可能性があります。ダイナミックアイランドや新デザインの採用も噂されています。",
+      "source": "UkrMedia News",
+      "url": "https://ukrmedia.news/en/science-tech/apple-macbook-pro-oled-2026/",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "MacBook Pro",
+        "Apple"
+      ]
+    },
+    {
+      "title_ja": "レノボ、120Hz駆動の14インチノートPCを発売",
+      "summary_ja": "レノボが新しい14インチノートPC「IdeaPad Slim 5 Ultra 14IWC11」の販売を世界中で開始しました。120Hzのディスプレイを備え、新しいインテル製アーキテクチャによりバッテリー駆動時間が大幅に伸びています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-14-inch-laptop-internationally-with-120-Hz-display-and-over-50-longer-battery-life-than-older-model.1420175.0.html",
+      "score": 80,
+      "commercial_score": 80,
+      "product_keywords": [
+        "IdeaPad Slim 5 Ultra",
+        "レノボ ノートPC"
+      ]
+    },
+    {
+      "title_ja": "HP、明るい有機EL搭載の14インチノートPCを発売",
+      "summary_ja": "HPが最大128GBのメモリと高輝度な有機ELディスプレイを備えた14インチノートPC「OmniBook X」を発売しました。NvidiaのRTX Sparkプラットフォームを採用した初期モデルの一つです。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-with-1-100-nit-OLED-display-and-128-GB-RAM.1420441.0.html",
+      "score": 80,
+      "commercial_score": 80,
+      "product_keywords": [
+        "OmniBook X",
+        "HP ノートPC"
+      ]
+    },
+    {
+      "title_ja": "Vivo、10200mAhバッテリー搭載のスマホを発表",
+      "summary_ja": "Vivoが中国市場向けに超大容量の10200mAhバッテリーを搭載した5Gスマートフォン「Y600s Pro」を発売しました。120Hzの有機ELディスプレイや5000万画素のメインカメラを備えています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Vivo-releases-new-midrange-smartphone-with-massive-10-200-mAh-battery.1420023.0.html",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "Vivo スマホ",
+        "Y600s Pro"
+      ]
+    },
+    {
+      "title_ja": "「OnePlus 16」のディスプレイ仕様が発表前に確定",
+      "summary_ja": "OnePlusが次期フラッグシップスマートフォン「OnePlus 16」の画面仕様を明らかにしました。非常に高いリフレッシュレートを備えた有機ELパネルを搭載する予定です。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/OnePlus-16-flagship-smartphone-display-specs-confirmed-ahead-of-launch.1420183.0.html",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "OnePlus 16",
+        "スマートフォン"
+      ]
+    }
+  ]
+}

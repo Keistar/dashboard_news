@@ -1,0 +1,103 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:49:16+09:00",
+  "trends": [
+    {
+      "keyword": "Dyson W1",
+      "reason_ja": "Dysonが自動洗浄機能を備えた新しい床掃除用デバイスを発売しました。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Dyson W1 PencilWash",
+        "vacuum"
+      ],
+      "product_keywords_ja": [
+        "ダイソン",
+        "掃除機"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "自動洗浄機能付きの床掃除用クリーナーが発売",
+          "summary_ja": "有名家電メーカーから新しい床用の清掃機器が登場しました。専用の充電ドックを使用することで、ローラーの自動洗浄機能を利用できます。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy"
+        }
+      ]
+    },
+    {
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "Microsoftが新型の高性能AIノートパソコンを発表しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Surface Laptop Ultra"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop Ultra",
+        "Microsoft"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Microsoftが新型ノートPCを発表",
+          "summary_ja": "Microsoftは同社で最もパワフルとされる新しい端末を発表しました。高度なAI処理能力を備えた設計となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+        }
+      ]
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "最新のチップを搭載した高性能ノートパソコンの予約受け付けが始まりました。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "RTX Spark",
+        "laptop"
+      ],
+      "product_keywords_ja": [
+        "RTX Spark",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "高性能なチップ搭載のノートPCの予約が開始",
+          "summary_ja": "大容量メモリを搭載した新しいノートパソコンが各社から発表され、予約受け付けが始まりました。まもなく出荷が開始される予定です。",
+          "source": "RedShark News",
+          "url": "https://www.redsharknews.com/asus-proart-p16-p14-rtx-spark-price-availability"
+        }
+      ]
+    },
+    {
+      "keyword": "Nikon AI contest",
+      "reason_ja": "NikonのコンテストでAI生成画像が受賞した後に失格となり議論を呼びました。",
+      "genre": "gadget",
+      "commercial_score": 60,
+      "product_keywords": [
+        "Nikon camera"
+      ],
+      "product_keywords_ja": [
+        "Nikon",
+        "カメラ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "写真コンテストでAI画像の受賞が取り消しに",
+          "summary_ja": "カメラメーカーが開催した動画コンテストで、受賞作品にAI技術が使われていたことが判明し失格となりました。これを受け、同社は今後の審査規則を見直すと述べています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo"
+        }
+      ]
+    }
+  ]
+}

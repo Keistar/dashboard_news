@@ -1,0 +1,29 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:41:58+09:00",
+  "stories": [
+    {
+      "title_ja": "処方箋の準備完了をスマートウォッチに通知",
+      "summary_ja": "イギリスの国民保健サービス（NHS）が提供するアプリの機能がさらに便利になりました。薬局で処方された薬の準備が整うと、スマートウォッチやスマートフォンで通知を受け取れるようになります。",
+      "source": "Med-Tech Insights",
+      "url": "https://med-techinsights.com/2026/10/09/nhs-expands-prescription-ready-service-to-smartwatches-and-mobiles/",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "スマートウォッチ"
+      ]
+    },
+    {
+      "title_ja": "歯科治療の遅れ解消へ、デジタル技術に期待",
+      "summary_ja": "デジタル技術を活用した患者の紹介システムにより、歯科治療の待ち時間を解消できる可能性が報告されました。医療現場の事務作業を減らし、治療の状況をわかりやすくする効果が期待されています。",
+      "source": "FemTech World",
+      "url": "https://www.femtechworld.co.uk/news-topics/care-services/report-calls-for-digital-referral-technology-to-tackle-nhs-dentistry-delays-nec26/",
+      "score": 60,
+      "commercial_score": 10
+    }
+  ]
+}
