@@ -1,0 +1,48 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:40:01+09:00",
+  "stories": [
+    {
+      "title_ja": "サブウェイが英国で事業を刷新、店舗数の倍増や夜間メニューの導入を計画",
+      "summary_ja": "サブウェイは、イギリス国内の店舗にデジタル注文端末や夜間メニューを導入し、大規模な刷新を図ります。さらに、新しい店舗を全国で数百店規模で出店し、店舗数を倍増させる計画を発表しました。",
+      "source": "Wandsworth Times",
+      "url": "https://www.wandsworthguardian.co.uk/news/national/uk-today/26622822.subway-potential-plans-hundreds-new-shops-across-uk/",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "サブウェイ"
+      ]
+    },
+    {
+      "title_ja": "英国マクドナルド、今年のクリスマスも大々的な映像広告の制作を見送り",
+      "summary_ja": "イギリスのマクドナルドは、昨年に引き続きクリスマス向けの主力となる映像広告を見送ることを決定しました。今後のクリスマスキャンペーンでも、これまでと同様の方針を維持する予定です。",
+      "source": "PRWeek",
+      "url": "http://www.prweek.com/article/1972100/mcdonalds-uk-skips-christmas-hero-film-second-year",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "英国最大規模となるイタリアンレストラン「ジュノ」がロンドンに開業へ",
+      "summary_ja": "イギリス最大級となる新しいイタリアンレストラン「ジュノ」が、来週ロンドンにオープンする予定です。多くの客を収容できる大規模な店舗として注目を集めています。",
+      "source": "London Now",
+      "url": "https://www.thisislocallondon.co.uk/news/26612254.uks-biggest-italian-restaurant-juno-open-west-london/",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "英慈善団体フェリックス、食品ロス削減に向けた限定スムージーを発表",
+      "summary_ja": "イギリスの食品慈善団体フェリックスが、飲料メーカーのイノセント・ドリンクスと新たに提携しました。この協力に合わせて、余剰食品を活用した限定のスムージーを展開し、食品廃棄問題の解決に取り組みます。",
+      "source": "Fruitnet",
+      "url": "https://www.fruitnet.com/fresh-produce-journal/felix-turns-to-smoothies-to-tackle-food-waste/272937.article",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "スムージー"
+      ]
+    }
+  ]
+}

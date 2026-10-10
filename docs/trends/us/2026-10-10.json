@@ -1,0 +1,102 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:49:16+09:00",
+  "trends": [
+    {
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "Microsoftが強力なAI処理能力を備えた新型ノートパソコンを発表しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Surface Laptop Ultra"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop Ultra",
+        "Microsoft"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Microsoftが新型ノートPCを発表",
+          "summary_ja": "Microsoftは同社で最もパワフルとされる新しい端末を発表しました。高度なAI処理能力を備えた設計となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+        }
+      ]
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "NVIDIAの新型チップを搭載した高性能ノートパソコンの予約が始まりました。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "RTX Spark",
+        "laptop"
+      ],
+      "product_keywords_ja": [
+        "RTX Spark",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "高性能なチップ搭載のノートPCの予約開始",
+          "summary_ja": "新しい処理チップを搭載したノートパソコンが各社から発表され、予約受け付けが始まりました。ビジネスや専門的な作業向けに推奨されるモデルも紹介されています。",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business"
+        }
+      ]
+    },
+    {
+      "keyword": "iQOO 16",
+      "reason_ja": "次世代の高性能チップを搭載するスマートフォンの仕様が明らかになりました。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "iQOO 16",
+        "smartphone"
+      ],
+      "product_keywords_ja": [
+        "iQOO 16",
+        "スマートフォン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "次期スマートフォンの仕様が判明",
+          "summary_ja": "発売予定の次世代スマートフォンのスペック情報が関係者から共有されました。旗艦級のプロセッサや滑らかに表示できるディスプレイを備える予定です。",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/iQOO-s-upcoming-Snapdragon-powered-phone-pairs-2K-resolution-with-a-185Hz-refresh-rate-for-the-first-time.1420877.0.html"
+        }
+      ]
+    },
+    {
+      "keyword": "mrbeast",
+      "reason_ja": "有名動画クリエイターがイベントで参加者に多額の賞金を提供し話題になりました。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "MrBeast"
+      ],
+      "product_keywords_ja": [
+        "MrBeast"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "有名クリエイターが参加者に高額賞金を贈呈",
+          "summary_ja": "世界的に有名な動画クリエイターが開催したイベントで、参加者に多額の現金が贈られました。会場では多くの人が幸運を手にしました。",
+          "source": "Zamin.uz",
+          "url": "https://zamin.uz/en/culture/224089-3-lucky-participants-win-100-million-uzs-each-in-mrbeasts-show-video.html"
+        }
+      ]
+    }
+  ]
+}

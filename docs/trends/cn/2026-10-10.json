@@ -1,0 +1,103 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:49:16+09:00",
+  "trends": [
+    {
+      "keyword": "大闸蟹",
+      "reason_ja": "上海蟹の豊作により市場価格が下落していることが注目されています。",
+      "genre": "food",
+      "commercial_score": 75,
+      "product_keywords": [
+        "大闸蟹",
+        "螃蟹"
+      ],
+      "product_keywords_ja": [
+        "上海蟹",
+        "カニ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "上海蟹が豊作で市場価格が下落傾向に",
+          "summary_ja": "秋の味覚である上海蟹が市場に多く出回っており、連休明けとともに価格が落ち着きを見せています。種類によって価格は様々ですが、全体的に値下がりの傾向にあります。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261010/49786427.html"
+        }
+      ]
+    },
+    {
+      "keyword": "手作面包",
+      "reason_ja": "高価な手作りパンの店舗が次々と閉店しており話題になっています。",
+      "genre": "food",
+      "commercial_score": 60,
+      "product_keywords": [
+        "手作面包"
+      ],
+      "product_keywords_ja": [
+        "パン"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "高価格帯の手作りパン店が相次ぎ閉店",
+          "summary_ja": "かつて若者の間で流行していた高価なパンですが、価格の高さから敬遠されるようになっています。その結果、行列ができていた人気店でも全国的に閉店の動きが見られます。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261010/49786731.html"
+        }
+      ]
+    },
+    {
+      "keyword": "床车旅行",
+      "reason_ja": "自家用車を宿泊用に改造して旅行するスタイルが節約志向から人気を集めています。",
+      "genre": "outdoor",
+      "commercial_score": 60,
+      "product_keywords": [
+        "床车垫",
+        "车载床",
+        "露营装备"
+      ],
+      "product_keywords_ja": [
+        "車中泊マット",
+        "キャンプ用品"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "車中泊で楽しむ旅行スタイルが流行",
+          "summary_ja": "自家用車の後部座席にベッドを設置し、車を宿泊施設代わりに利用する旅行スタイルが注目を集めています。手軽に寝泊まりできる空間を作れることから、多くの人が休日の旅行に取り入れています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniustfv7494360.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "AI短剧",
+      "reason_ja": "若者の間でAIが生成したショートドラマへの依存を断ち切ろうとする動きが見られます。",
+      "genre": "ai",
+      "commercial_score": 40,
+      "product_keywords": [
+        "电子书",
+        "阅读器"
+      ],
+      "product_keywords_ja": [
+        "電子書籍リーダー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "若者の間でAI短編動画依存の脱却が話題に",
+          "summary_ja": "AIで作成された短いドラマに夢中になる若者が増える一方で、視聴をやめようと試みる人も多くいます。勉強や仕事に集中するため、アプリを消したり読書端末を購入したりして対策しています。",
+          "source": "虎嗅网",
+          "url": "https://www.huxiu.com/article/4896306.html"
+        }
+      ]
+    }
+  ]
+}

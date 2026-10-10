@@ -1,0 +1,26 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:32:23+09:00",
+  "stories": [
+    {
+      "title_ja": "ChatGPTの視覚・音声機能の活用法",
+      "summary_ja": "チームでの作業において、ChatGPTの視覚機能および音声機能がどのように役立つかを紹介しています。多様な入力方法を活用することで、より自然なコミュニケーションが可能になります。",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt/",
+      "score": 85,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "クロードに対する「残酷な行動」を禁止",
+      "summary_ja": "アンソロピック（Anthropic）は、同社のAIモデル「クロード（Claude）」に対する残酷な扱いを禁止すると発表しました。明確な目的なくAIに対して意地悪な行動を繰り返す極端なケースに適用されます。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/anthropic-bans-abusive-behavior-claude/",
+      "score": 80,
+      "commercial_score": 10
+    }
+  ]
+}

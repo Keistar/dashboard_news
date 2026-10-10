@@ -1,0 +1,55 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:32:23+09:00",
+  "stories": [
+    {
+      "title_ja": "米アマゾンが生成AI搭載タブレットを発表",
+      "summary_ja": "米国のアマゾンが、生成AIを搭載した新しいタブレット端末3機種を発表しました。AI機能を取り入れた新製品となります。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article/1387558/",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Amazonタブレット",
+        "Fireタブレット",
+        "タブレットPC"
+      ]
+    },
+    {
+      "title_ja": "AI生成画像を見破る6つのポイント",
+      "summary_ja": "AIによって生成された質の低い画像がインターネット上にあふれ、本物との区別が難しくなっています。この記事では、AI生成画像かどうかを見分けるための6つの隠れた兆候を紹介しています。",
+      "source": "ZDNET Japan",
+      "url": "https://japan.zdnet.com/article/35253244/",
+      "score": 80,
+      "commercial_score": 10
+    },
+    {
+      "title_ja": "小中学校での生成AI活用の模索",
+      "summary_ja": "学校の授業で生成AIを活用する試みが始まっています。4年後に実施される新しい学習指導要領でも、小中学校の教育内容にAIの活用が盛り込まれる予定です。",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56472",
+      "score": 75,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "ベネチア映画祭で全編AIの映画が上映",
+      "summary_ja": "ベネチア国際映画祭において、全編を生成AIで制作した映画が初めて公式上映されました。この作品はドキュメンタリー映画として作られており、その制作手法に注目が集まっています。",
+      "source": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2995798?page=4",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "音声と映像を同時生成するAIモデル公開",
+      "summary_ja": "ロシアのKandinsky Labが、音声と映像を同時に生成できる動画基盤モデル「Kandinsky 6.0 Video」を公開しました。5秒の動画に音声とリップシンクを付けることができ、超解像モデルでフルHDにも対応しています。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187393",
+      "score": 65,
+      "commercial_score": 30
+    }
+  ]
+}

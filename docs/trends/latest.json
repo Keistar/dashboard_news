@@ -1,242 +1,336 @@
 {
   "feed": "trends",
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T15:48:03+09:00",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:49:16+09:00",
   "trends": [
     {
-      "keyword": "プライム感謝祭",
-      "reason_ja": "先行セールと本セールを前に、各社がセール対象商品を公開し始めているため。",
-      "genre": "sale",
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "Microsoftが強力なAI処理能力を備えた新型ノートパソコンを発表しました。",
+      "genre": "gadget",
       "commercial_score": 90,
       "product_keywords": [
-        "プライム感謝祭 おすすめ"
+        "Surface Laptop Ultra"
       ],
       "product_keywords_ja": [
-        "プライム感謝祭 おすすめ",
-        "Anker 充電器"
-      ],
-      "trend_source": "ニュース（セール）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Anker、プライム感謝祭のセール品を事前公開",
-          "summary_ja": "Ankerが、Amazonのプライム感謝祭先行セールと本セールに出す製品の情報を事前に公開しました。最新・人気製品も対象で、最大53%オフとされています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/6ce4e4b240a6e0c46dd41e49f0bb97271deda6fc"
-        },
-        {
-          "title_ja": "Pixio、ゲーミングアクセサリーを最大40%OFF",
-          "summary_ja": "Hameeの「Pixio」が、Amazonプライム感謝祭の先行セールからゲーミングアクセサリー製品を最大40%OFFで販売します。",
-          "source": "PR TIMES",
-          "url": "https://prtimes.jp/main/html/rd/p/000001707.000009971.html"
-        },
-        {
-          "title_ja": "プライム感謝祭のおすすめ28選と日程まとめ",
-          "summary_ja": "Vogue Japanが、プライム感謝祭で買うべきおすすめ商品と日程、準備方法をまとめています。内容は随時更新されています。",
-          "source": "Vogue Japan",
-          "url": "https://www.vogue.co.jp/article/amazon-prime-big-deal-days-2026"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Prime Big Deal Days",
-      "reason_ja": "10月のプライムデーは終わったが、まだ続いている割引商品が紹介されているため。",
-      "genre": "sale",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Prime Big Deal Days deals"
-      ],
-      "product_keywords_ja": [],
-      "trend_source": "ニュース（セール）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "10月プライムデーの割引、まだ続く商品も",
-          "summary_ja": "10月のプライムデーは終わりましたが、一部の割引はまだ続いています。テック、ホーム、ビューティーなどの商品が紹介されています。",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-still-live-2026-rcna602286"
-        },
-        {
-          "title_ja": "Prime Big Deal Days の大幅割引がまだ残る",
-          "summary_ja": "プライムデーの深い割引の一部が、まだ購入できると伝えられています。Samsonite や JBL などが例に挙がっています。",
-          "source": "TODAY.com",
-          "url": "https://www.today.com/shop/october-prime-day-deepest-discounts-2026-rcna600246"
-        },
-        {
-          "title_ja": "プライムデー終了後も残るセール品",
-          "summary_ja": "Hanes、Carhartt、Apple などの商品で、まだ続いているセールが紹介されています。長くは続かないとされています。",
-          "source": "Yahoo",
-          "url": "https://shopping.yahoo.com/deals/breaking-news/article/october-prime-day-is-over-but-these-deals-are-still-live-score-last-chance-savings-from-hanes-carhartt-apple-and-more-200938679.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Google Play対応 Amazon タブレット",
-      "reason_ja": "Amazonが Fire タブレットをやめ、Google Play に対応した Alexa Tablet とキッズタブレットを発表したため。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "Amazon キッズ タブレット",
-        "Androidタブレット"
-      ],
-      "product_keywords_ja": [
-        "Amazon キッズ タブレット",
-        "Androidタブレット"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "Fire を廃止、Google Play 対応の Alexa Tablet 発表",
-          "summary_ja": "Amazonは長く続いた Fire タブレットを廃止し、新シリーズの Alexa Tablet に置き換えると発表しました。OSは Android に切り替わり、Google Play のアプリをそのまま使えます。AIアシスタントの Alexa+ も全機種に入ります。",
-          "source": "CNET Japan",
-          "url": "https://japan.cnet.com/article/35253390/"
-        },
-        {
-          "title_ja": "Google Play 対応の Amazon キッズ タブレット登場",
-          "summary_ja": "アマゾン・ジャパンが、Google Play に対応した子供向け Android タブレットのシリーズを発表しました。ちいかわやパウ・パトロールの専用カバーモデルも展開されます。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2147083.html"
-        },
-        {
-          "title_ja": "Android 搭載の Alexa タブレット、Fire ブランド終了",
-          "summary_ja": "Amazonが Alexa+ を内蔵した Android 搭載のタブレットシリーズを発表しました。新しいキッズタブレットも同じく Android を搭載しています。",
-          "source": "GIGAZINE",
-          "url": "https://gigazine.net/news/20261009-alexa-tablets/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "ポータブル電源",
-      "reason_ja": "防災向けのポータブル電源が、楽天のセールなどで割引され話題になっているため。",
-      "genre": "outdoor",
-      "commercial_score": 85,
-      "product_keywords": [
-        "ポータブル電源"
-      ],
-      "product_keywords_ja": [
-        "ポータブル電源",
-        "ソーラーパネル"
-      ],
-      "trend_source": "ニュース（セール）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "防災向けJackeryのポータブル電源が最大46%オフ",
-          "summary_ja": "楽天市場のお買い物マラソンで、防災に役立つJackery製ポータブル電源が最大46%オフになっています。期間限定の開催です。",
-          "source": "千葉テレビ放送株式会社",
-          "url": "https://www.chiba-tv.com/plus/detail/2026102087257"
-        },
-        {
-          "title_ja": "Jackery、ポータブル電源とソーラーパネルを寄贈",
-          "summary_ja": "Jackery Japanが、北海道滝川市の公益財団法人そらぷちキッズキャンプにポータブル電源とソーラーパネルを寄贈しました。",
-          "source": "PR TIMES",
-          "url": "https://prtimes.jp/main/html/rd/p/000000368.000039188.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Alexa+ tablet",
-      "reason_ja": "Amazonが Alexa+ 内蔵の Android タブレットを発表したため。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "Amazon Alexa Tablet",
-        "Android tablet"
-      ],
-      "product_keywords_ja": [
-        "Androidタブレット"
+        "Surface Laptop Ultra",
+        "Microsoft"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Alexa+ 内蔵の新型 Amazon Alexa Tablets",
-          "summary_ja": "Amazonが、Alexa+ を内蔵した新しいタブレットを発表しました。高品質なハードウェアと Google Play が使える点、長時間の読書が可能な点が特徴です。",
-          "source": "About Amazon",
-          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
-        },
-        {
-          "title_ja": "Fire タブレットから Alexa 搭載 Android へ",
-          "summary_ja": "Amazonは Fire タブレットを段階的にやめ、Android 搭載の Alexa Tablet に置き換えます。Google Play に対応し、ハードも改良され、Alexa+ が中心になります。",
-          "source": "WeRSM",
-          "url": "https://wersm.com/amazon-phasing-out-fire-tablets-alexa-android-tablets/"
-        },
-        {
-          "title_ja": "Alexa Tablets は 229.99 ドルから、12 Pro は低反射画面",
-          "summary_ja": "Alexa Tablets は米国で229.99ドルから販売されます。12 Pro には Nanomatte 画面のモデルも加わります。",
-          "source": "Tech My Money",
-          "url": "https://techmymoney.com/2026/10/09/amazon-alexa-tablets-12-pro-nanomatte-prices-ship-dates/"
+          "title_ja": "Microsoftが新型ノートPCを発表",
+          "summary_ja": "Microsoftは同社で最もパワフルとされる新しい端末を発表しました。高度なAI処理能力を備えた設計となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Amazon Alexa tablets",
-      "reason_ja": "Amazonが Fire ブランドをやめた新しい Alexa Tablets を発表したため。",
-      "genre": "gadget",
-      "commercial_score": 85,
+      "keyword": "Dyson W1",
+      "reason_ja": "Dysonが自動洗浄機能を備えた新しい床掃除用デバイスを発売しました。",
+      "genre": "kaji",
+      "commercial_score": 90,
       "product_keywords": [
-        "Amazon Alexa Tablet",
-        "Android tablet"
+        "Dyson W1 PencilWash",
+        "vacuum"
       ],
       "product_keywords_ja": [
-        "Androidタブレット"
+        "ダイソン",
+        "掃除機"
       ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Alexa+ 内蔵の新型 Amazon Alexa Tablets",
-          "summary_ja": "Amazonが、Alexa+ を内蔵した新しいタブレットを発表しました。高品質なハードウェアと Google Play が使える点、長時間の読書が可能な点が特徴です。",
-          "source": "About Amazon",
-          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
-        },
-        {
-          "title_ja": "Fire の名を外し、より Android らしく",
-          "summary_ja": "Amazonは自社のアプリストアをやめ、Google Play を使うことにしました。新しい Alexa Tablets は Fire の名前を外しています。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/"
+          "title_ja": "自動洗浄機能付きの床掃除用クリーナーが発売",
+          "summary_ja": "有名家電メーカーから新しい床用の清掃機器が登場しました。専用の充電ドックを使用することで、ローラーの自動洗浄機能を利用できます。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "华为小米手机涨价",
-      "reason_ja": "華為とシャオミが一部機種の価格を引き上げたと報じられたため。",
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "Microsoftが新型の高性能AIノートパソコンを発表しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Surface Laptop Ultra"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop Ultra",
+        "Microsoft"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Microsoftが新型ノートPCを発表",
+          "summary_ja": "Microsoftは同社で最もパワフルとされる新しい端末を発表しました。高度なAI処理能力を備えた設計となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "WINBOT MINI",
+      "reason_ja": "エコバックスの薄型自動窓拭きロボットがセール価格で販売され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "WINBOT MINI",
+        "Ecovacs"
+      ],
+      "product_keywords_ja": [
+        "WINBOT",
+        "エコバックス",
+        "窓拭きロボット"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "狭い窓にも対応する窓拭きロボットの実力",
+          "summary_ja": "エコバックスの小型窓拭きロボットは薄型設計と強力な吸着力が特徴です。窓枠のぎりぎりまで届くブラシを備えており、日本の住宅環境にも適しています。",
+          "source": "ITmedia",
+          "url": "https://www.itmedia.co.jp/pcuser/amp/2610/09/news054_2.html"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "NVIDIAの新型チップを搭載した高性能ノートパソコンの予約が始まりました。",
       "genre": "gadget",
       "commercial_score": 85,
       "product_keywords": [
-        "华为手机",
-        "小米手机"
+        "RTX Spark",
+        "laptop"
       ],
       "product_keywords_ja": [
-        "スマートフォン SIMフリー"
+        "RTX Spark",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "高性能なチップ搭載のノートPCの予約開始",
+          "summary_ja": "新しい処理チップを搭載したノートパソコンが各社から発表され、予約受け付けが始まりました。ビジネスや専門的な作業向けに推奨されるモデルも紹介されています。",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "最新のチップを搭載した高性能ノートパソコンの予約受け付けが始まりました。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "RTX Spark",
+        "laptop"
+      ],
+      "product_keywords_ja": [
+        "RTX Spark",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "高性能なチップ搭載のノートPCの予約が開始",
+          "summary_ja": "大容量メモリを搭載した新しいノートパソコンが各社から発表され、予約受け付けが始まりました。まもなく出荷が開始される予定です。",
+          "source": "RedShark News",
+          "url": "https://www.redsharknews.com/asus-proart-p16-p14-rtx-spark-price-availability"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Plaud",
+      "reason_ja": "AIボイスレコーダーがセール対象となり注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Plaud",
+        "voice recorder"
+      ],
+      "product_keywords_ja": [
+        "Plaud",
+        "ボイスレコーダー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "AIボイスレコーダーがセールに登場",
+          "summary_ja": "高性能なAIボイスレコーダーが大手通販サイトのセールに参加し割引価格で提供されています。公式ストアや各種オンラインショップでも主力製品を対象としたセールが開催されています。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000024.000161544.html"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Pixel 10a",
+      "reason_ja": "通信事業者で端末価格が値上げされたことが話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Pixel 10a"
+      ],
+      "product_keywords_ja": [
+        "Pixel 10a",
+        "スマートフォン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "通信事業者で対象スマートフォンの価格変更",
+          "summary_ja": "大手通信事業者はオンラインショップにおける一部機種の販売価格を変更しました。これにより該当スマートフォンの価格が引き上げられています。",
+          "source": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2147215.html"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Apple イベント",
+      "reason_ja": "Appleがスマートホーム関連とみられる新イベントの開催を発表しました。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Apple",
+        "smart home"
+      ],
+      "product_keywords_ja": [
+        "Apple",
+        "スマートホーム"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Appleが新イベントの開催を発表",
+          "summary_ja": "Appleが新しい体験イベントを開催することが分かりました。新たなAI機能を搭載したスマートホーム関連の新製品が発表されると期待されています。",
+          "source": "ITmedia",
+          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002146/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "iQOO 16",
+      "reason_ja": "次世代の高性能チップを搭載するスマートフォンの仕様が明らかになりました。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "iQOO 16",
+        "smartphone"
+      ],
+      "product_keywords_ja": [
+        "iQOO 16",
+        "スマートフォン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "次期スマートフォンの仕様が判明",
+          "summary_ja": "発売予定の次世代スマートフォンのスペック情報が関係者から共有されました。旗艦級のプロセッサや滑らかに表示できるディスプレイを備える予定です。",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/iQOO-s-upcoming-Snapdragon-powered-phone-pairs-2K-resolution-with-a-185Hz-refresh-rate-for-the-first-time.1420877.0.html"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "大闸蟹",
+      "reason_ja": "上海蟹の豊作により市場価格が下落していることが注目されています。",
+      "genre": "food",
+      "commercial_score": 75,
+      "product_keywords": [
+        "大闸蟹",
+        "螃蟹"
+      ],
+      "product_keywords_ja": [
+        "上海蟹",
+        "カニ"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "小米17 Ultra 全モデル値上げ、客服が事実と回答",
-          "summary_ja": "小米17 Ultra が全モデルで値上げされたかどうかについて、カスタマーサービスが事実だと答えたと報じられています。",
-          "source": "证券时报网",
-          "url": "https://www.stcn.com/article/detail/4209553.html"
-        },
+          "title_ja": "上海蟹が豊作で市場価格が下落傾向に",
+          "summary_ja": "秋の味覚である上海蟹が市場に多く出回っており、連休明けとともに価格が落ち着きを見せています。種類によって価格は様々ですが、全体的に値下がりの傾向にあります。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261010/49786427.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "Nikon AI contest",
+      "reason_ja": "NikonのコンテストでAI生成画像が受賞した後に失格となり議論を呼びました。",
+      "genre": "gadget",
+      "commercial_score": 60,
+      "product_keywords": [
+        "Nikon camera"
+      ],
+      "product_keywords_ja": [
+        "Nikon",
+        "カメラ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
         {
-          "title_ja": "華為・小米のスマホが値上がり",
-          "summary_ja": "華為と小米のスマートフォンが、再び値上がりしたと伝えられています。",
-          "source": "证券之星",
-          "url": "https://hk.stockstar.com/IG2026100900017187.shtml"
+          "title_ja": "写真コンテストでAI画像の受賞が取り消しに",
+          "summary_ja": "カメラメーカーが開催した動画コンテストで、受賞作品にAI技術が使われていたことが判明し失格となりました。これを受け、同社は今後の審査規則を見直すと述べています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "手作面包",
+      "reason_ja": "高価な手作りパンの店舗が次々と閉店しており話題になっています。",
+      "genre": "food",
+      "commercial_score": 60,
+      "product_keywords": [
+        "手作面包"
+      ],
+      "product_keywords_ja": [
+        "パン"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "高価格帯の手作りパン店が相次ぎ閉店",
+          "summary_ja": "かつて若者の間で流行していた高価なパンですが、価格の高さから敬遠されるようになっています。その結果、行列ができていた人気店でも全国的に閉店の動きが見られます。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261010/49786731.html"
         }
       ],
       "country": "cn",
@@ -244,141 +338,79 @@
     },
     {
       "keyword": "床车旅行",
-      "reason_ja": "国慶節の連休後、車中泊旅行の安さがSNSで話題になっているため。",
+      "reason_ja": "自家用車を宿泊用に改造して旅行するスタイルが節約志向から人気を集めています。",
       "genre": "outdoor",
-      "commercial_score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "车载床垫",
-        "露营"
+        "床车垫",
+        "车载床",
+        "露营装备"
       ],
       "product_keywords_ja": [
-        "車中泊 マット",
-        "車中泊グッズ"
+        "車中泊マット",
+        "キャンプ用品"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "「床車」旅行の人気は節約術か資源のただ乗りか",
-          "summary_ja": "後部座席を倒してマットを敷けば、普通の家庭用車が移動寝室になります。連休後、旅行の費用をSNSに投稿する人が相次いでいます。",
-          "source": "finance.sina.com.cn",
-          "url": "http://finance.sina.cn/2026-10-09/detail-iniuqywm3014117.d.html?cre=tianyi&mod=wlocal&loc=15&r=0&rfunc=89&tj=cxvertical_wlocal&tr=1047&pos=69"
-        },
-        {
-          "title_ja": "床車旅行が人気、低コストの自家用車旅",
-          "summary_ja": "四川の女性は連休に甘南へ車で出かけ、サービスエリアや正規のキャンプ場に停めて夜を過ごしました。宿泊費を大きく節約できたと伝えられています。",
-          "source": "搜狐网",
-          "url": "https://m.sohu.com/a/1085525634_99990677"
-        },
-        {
-          "title_ja": "床車旅行が大人気、節約と手軽さが話題",
-          "summary_ja": "連休が終わり、「床車」で旅をした費用をSNSに載せる人が増えています。車中泊を選ぶ旅行者が増え、宿泊費を節約しています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261009/49784458.html"
+          "title_ja": "車中泊で楽しむ旅行スタイルが流行",
+          "summary_ja": "自家用車の後部座席にベッドを設置し、車を宿泊施設代わりに利用する旅行スタイルが注目を集めています。手軽に寝泊まりできる空間を作れることから、多くの人が休日の旅行に取り入れています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniustfv7494360.shtml"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "Call of Duty Modern Warfare 4",
-      "reason_ja": "新作の DMZ 紹介やキャンペーン先行アクセスの情報が相次いでいるため。",
-      "genre": "gadget",
-      "commercial_score": 70,
+      "keyword": "AI短剧",
+      "reason_ja": "若者の間でAIが生成したショートドラマへの依存を断ち切ろうとする動きが見られます。",
+      "genre": "ai",
+      "commercial_score": 40,
       "product_keywords": [
-        "Modern Warfare 4",
-        "gaming headset"
+        "电子书",
+        "阅读器"
       ],
       "product_keywords_ja": [
-        "ゲーミングヘッドセット"
+        "電子書籍リーダー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "若者の間でAI短編動画依存の脱却が話題に",
+          "summary_ja": "AIで作成された短いドラマに夢中になる若者が増える一方で、視聴をやめようと試みる人も多くいます。勉強や仕事に集中するため、アプリを消したり読書端末を購入したりして対策しています。",
+          "source": "虎嗅网",
+          "url": "https://www.huxiu.com/article/4896306.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "mrbeast",
+      "reason_ja": "有名動画クリエイターがイベントで参加者に多額の賞金を提供し話題になりました。",
+      "genre": "other",
+      "commercial_score": 30,
+      "product_keywords": [
+        "MrBeast"
+      ],
+      "product_keywords_ja": [
+        "MrBeast"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "DMZ 詳細ガイド第1回：Hajin の環境と脅威",
-          "summary_ja": "DMZ の舞台となる Hajin と立入禁止区域を詳しく紹介するガイドです。HUDや戦術マップの情報、敵勢力、乗り物、主要な地点などを扱っています。",
-          "source": "Call of Duty® | Best-Selling Video Game Franchise",
-          "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-deep-dive-hajin"
-        },
-        {
-          "title_ja": "MW4 のキャンペーン先行アクセスと DLSS 4.5 対応",
-          "summary_ja": "NVIDIAが、Modern Warfare 4 のキャンペーン先行アクセスの開始と DLSS 4.5 への対応を伝えています。他の新作ゲームの配信状況も紹介されています。",
-          "source": "NVIDIA",
-          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/"
-        },
-        {
-          "title_ja": "MW4 の DMZ ストーリーミッション公式トレーラー",
-          "summary_ja": "IGNが、Modern Warfare 4 の DMZ ストーリーミッションのトレーラーを公開しました。物語のあるミッションで情報を集め、課題を乗り越える内容です。",
-          "source": "IGN",
-          "url": "https://www.ign.com/videos/call-of-duty-modern-warfare-4-official-dmz-story-missions-trailer"
+          "title_ja": "有名クリエイターが参加者に高額賞金を贈呈",
+          "summary_ja": "世界的に有名な動画クリエイターが開催したイベントで、参加者に多額の現金が贈られました。会場では多くの人が幸運を手にしました。",
+          "source": "Zamin.uz",
+          "url": "https://zamin.uz/en/culture/224089-3-lucky-participants-win-100-million-uzs-each-in-mrbeasts-show-video.html"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Met Office winter forecast",
-      "reason_ja": "エルニーニョの影響で今冬の英国の天候がどうなるかが注目されているため。",
-      "genre": "other",
-      "commercial_score": 50,
-      "product_keywords": [
-        "winter coat",
-        "heater"
-      ],
-      "product_keywords_ja": [
-        "防寒着",
-        "電気毛布"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "エルニーニョと極渦で英国に雪は降るか",
-          "summary_ja": "発達中のエルニーニョは英国の秋から冬の天候に影響するかもしれませんが、寒さが確実とは限らないとBBCは伝えています。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o"
-        },
-        {
-          "title_ja": "強いエルニーニョ、ロンドン市民が知るべき旅行への影響",
-          "summary_ja": "クリスマスや冬の旅行を計画しているロンドン市民に向けて、強いエルニーニョが旅行計画に与える影響を今のうちに確認するよう伝えています。",
-          "source": "London Evening Standard",
-          "url": "https://www.standard.co.uk/news/london/uk-foreign-office-godzilla-el-nino-travel-warning-london-b1299915.html"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "clocks go back",
-      "reason_ja": "夏時間の終わりが近づき、時計を戻す日への関心が高まっているため。",
-      "genre": "other",
-      "commercial_score": 30,
-      "product_keywords": [
-        "alarm clock",
-        "wake up light"
-      ],
-      "product_keywords_ja": [
-        "目覚まし時計"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "夏時間の終了、時計を戻すのはいつか",
-          "summary_ja": "夏時間を恒久化する議会の動きは止まっており、大半の米国人は1か月以内に時計を戻す見通しだと伝えています。",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508"
-        },
-        {
-          "title_ja": "夏時間はハロウィーンの週末に終わる",
-          "summary_ja": "時計を戻す時期が近づく中、夏時間を恒久化すべきかどうかの議論が続いていると伝えています。",
-          "source": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/10/07/metro/when-change-clocks-2026-daylight-saving-time/"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
     }
   ]
 }

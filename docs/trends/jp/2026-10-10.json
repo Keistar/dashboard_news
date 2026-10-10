@@ -1,0 +1,105 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:49:16+09:00",
+  "trends": [
+    {
+      "keyword": "WINBOT MINI",
+      "reason_ja": "エコバックスの薄型自動窓拭きロボットがセール価格で販売され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "WINBOT MINI",
+        "Ecovacs"
+      ],
+      "product_keywords_ja": [
+        "WINBOT",
+        "エコバックス",
+        "窓拭きロボット"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "狭い窓にも対応する窓拭きロボットの実力",
+          "summary_ja": "エコバックスの小型窓拭きロボットは薄型設計と強力な吸着力が特徴です。窓枠のぎりぎりまで届くブラシを備えており、日本の住宅環境にも適しています。",
+          "source": "ITmedia",
+          "url": "https://www.itmedia.co.jp/pcuser/amp/2610/09/news054_2.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Plaud",
+      "reason_ja": "AIボイスレコーダーがセール対象となり注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Plaud",
+        "voice recorder"
+      ],
+      "product_keywords_ja": [
+        "Plaud",
+        "ボイスレコーダー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "AIボイスレコーダーがセールに登場",
+          "summary_ja": "高性能なAIボイスレコーダーが大手通販サイトのセールに参加し割引価格で提供されています。公式ストアや各種オンラインショップでも主力製品を対象としたセールが開催されています。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000024.000161544.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Pixel 10a",
+      "reason_ja": "通信事業者で端末価格が値上げされたことが話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Pixel 10a"
+      ],
+      "product_keywords_ja": [
+        "Pixel 10a",
+        "スマートフォン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "通信事業者で対象スマートフォンの価格変更",
+          "summary_ja": "大手通信事業者はオンラインショップにおける一部機種の販売価格を変更しました。これにより該当スマートフォンの価格が引き上げられています。",
+          "source": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2147215.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Apple イベント",
+      "reason_ja": "Appleがスマートホーム関連とみられる新イベントの開催を発表しました。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Apple",
+        "smart home"
+      ],
+      "product_keywords_ja": [
+        "Apple",
+        "スマートホーム"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Appleが新イベントの開催を発表",
+          "summary_ja": "Appleが新しい体験イベントを開催することが分かりました。新たなAI機能を搭載したスマートホーム関連の新製品が発表されると期待されています。",
+          "source": "ITmedia",
+          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002146/"
+        }
+      ]
+    }
+  ]
+}
