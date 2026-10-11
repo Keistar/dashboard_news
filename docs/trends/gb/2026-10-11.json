@@ -1,0 +1,117 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:16:25+09:00",
+  "trends": [
+    {
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "ボーズの高性能ノイズキャンセリングヘッドホンが過去最安値水準となり人気です。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Bose QuietComfort Ultra",
+        "Bose headphones"
+      ],
+      "product_keywords_ja": [
+        "Bose",
+        "ノイズキャンセリングヘッドホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "高機能ヘッドホンが大型セールで最安値に",
+          "summary_ja": "人気オーディオブランドの高性能ヘッドホンがセールに合わせて大幅に値下げされました。過去最安値の水準で手に入る機会として購入者の関心を集めています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/oct-7-october-prime-day-bose-quietcomfort-ultra-headphones-deal"
+        }
+      ]
+    },
+    {
+      "keyword": "Air Fryer",
+      "reason_ja": "電気代削減につながるノンフライヤーの活用法がメディアで紹介され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "air fryer UK",
+        "air fryer"
+      ],
+      "product_keywords_ja": [
+        "ノンフライヤー",
+        "エアフライヤー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "調理家電の効率性と電気代に関する助言",
+          "summary_ja": "他の調理設備と比べて小型の加熱調理器具が非常に効率的であると紹介されています。誤った思い込みを見直し賢く使いこなすための助言が話題を呼んでいます。",
+          "source": "Cambridge News",
+          "url": "https://www.cambridge-news.co.uk/news/cost-of-living/martin-lewis-encourages-home-appliance-34742265"
+        },
+        {
+          "title_ja": "より安価に使える調理家電の誤解を解説",
+          "summary_ja": "家庭用調理器具のコストパフォーマンスについて専門家が解説を行いました。従来の方法よりも大幅にエネルギー効率を高められる点が強調されています。",
+          "source": "The Mirror",
+          "url": "https://www.mirror.co.uk/money/household-bills/martin-lewis-exposes-misnomer-kitchen-37754548"
+        }
+      ]
+    },
+    {
+      "keyword": "peppa pig",
+      "reason_ja": "人気子ども向けアニメの特別放送スケジュールが話題になっています。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "Peppa Pig toys",
+        "Peppa Pig"
+      ],
+      "product_keywords_ja": [
+        "ペッパピッグ",
+        "知育玩具"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気アニメのフェスティバル回が放送",
+          "summary_ja": "子ども向け専門チャンネルで人気アニメの放送予定が案内されています。おじいちゃんやおばあちゃんと一緒にフェスティバルに出かけるお話が放映されます。",
+          "source": "TVGuide.co.uk",
+          "url": "https://www.tvguide.co.uk/schedule/66415bd4-2649-5e75-a4e8-87c1f1d2461c/peppa-pig"
+        }
+      ]
+    },
+    {
+      "keyword": "winter",
+      "reason_ja": "エルニーニョや極渦による寒波と降雪の予報が英国で注目されています。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "winter jacket",
+        "heater UK"
+      ],
+      "product_keywords_ja": [
+        "防寒着",
+        "ヒーター"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "エルニーニョ発達で英国に降雪の可能性",
+          "summary_ja": "太平洋で発達するエルニーニョ現象が秋冬の英国の気象に影響を与える可能性が指摘されています。ただし厳しい寒さが訪れるかはまだ確定していないと説明されています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o"
+        },
+        {
+          "title_ja": "海水温上昇に伴う厳しい冬への警戒感",
+          "summary_ja": "海水温の急上昇に伴い冬の厳しい気象現象への警戒が呼びかけられています。異常気象の発生頻度が高まる可能性に注目が集まっています。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/news/london/el-nino-weather-winter-polar-vortex-b1300155.html"
+        }
+      ]
+    }
+  ]
+}

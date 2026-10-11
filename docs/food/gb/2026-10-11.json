@@ -1,0 +1,50 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T15:52:27+09:00",
+  "stories": [
+    {
+      "title_ja": "英サブウェイが店舗数倍増へ デジタル端末や夜メニュー導入",
+      "summary_ja": "サンドイッチチェーンのサブウェイ（Subway）が英国で店舗数を倍増させる拡大計画を打ち出した。デジタルキオスク端末の設置や夜間メニューの導入など、店舗の刷新も進められる。",
+      "source": "The Northern Echo",
+      "url": "https://www.thenorthernecho.co.uk/news/26624941.subway-potential-plans-hundreds-new-shops-across-uk/",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "サブウェイ",
+        "サンドイッチ"
+      ]
+    },
+    {
+      "title_ja": "英外食大手の旧57店舗が再オープンへ 700人超の雇用創出",
+      "summary_ja": "英外食大手の旧ビーフィーター（Beefeater）など57店舗を新興のコモン・テーブル・グループが買収し、営業を再開する見通しとなった。この再編により700人以上の新規雇用が生み出される見込みとなっている。",
+      "source": "Daily Echo",
+      "url": "https://www.dailyecho.co.uk/news/26625487.57-beefeater-brewers-fayre-cookhouse-sites-rebranded/",
+      "score": 80,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "英ベストバーガー受賞店がケンブリッジに新店舗を開店へ",
+      "summary_ja": "2023年に英国のベストバーガー賞に輝いたバーガー店「ザ・ビーフィー・ボーイズ（The Beefy Boys）」が、ケンブリッジに新店舗を開く。評価の高い人気店の味が新たな地域に広がる。",
+      "source": "The Hunts Post",
+      "url": "https://www.huntspost.co.uk/news/26615671.new-beefy-boys-restaurant-set-open-cambridge/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ハンバーガー",
+        "パティ"
+      ]
+    },
+    {
+      "title_ja": "英ウェールズの人気レストランが地域住民の力で営業再開",
+      "summary_ja": "かつてウェールズの最優秀ローカルレストランに選ばれた「ザ・ウォーレン（The Warren）」が営業を再開した。昨年一度閉店したものの、再開を願う地域コミュニティの熱意と支援によって復活を遂げた。",
+      "source": "Wales Online",
+      "url": "https://www.walesonline.co.uk/whats-on/restaurants-bars/how-community-helped-bring-restaurant-34738996",
+      "score": 70,
+      "commercial_score": 55
+    }
+  ]
+}

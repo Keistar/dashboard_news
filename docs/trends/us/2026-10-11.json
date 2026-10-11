@@ -1,0 +1,117 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:16:25+09:00",
+  "trends": [
+    {
+      "keyword": "Dyson W1",
+      "reason_ja": "ダイソンが自動洗浄ドックを備えた新型水拭き掃除機を発表し話題です。",
+      "genre": "kaji",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Dyson W1 PencilWash",
+        "Dyson floor cleaner"
+      ],
+      "product_keywords_ja": [
+        "ダイソン",
+        "水拭き掃除機"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ダイソンから自動洗浄ドック付き水拭き機",
+          "summary_ja": "大手家電メーカーから高性能な水拭き床用クリーナーが発売されました。マグネット充電ドックとブラシの自動セルフクリーニング機能を備えています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy"
+        }
+      ]
+    },
+    {
+      "keyword": "mw4 release date",
+      "reason_ja": "新作ゲームの発売日や先行アクセスの詳細が発表され話題を呼んでいます。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Call of Duty MW4",
+        "Modern Warfare 4"
+      ],
+      "product_keywords_ja": [
+        "コール オブ デューティ",
+        "ゲームソフト"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気FPS新作の基地システム解説",
+          "summary_ja": "人気シューティングゲームの新作モードにおける司令拠点の詳細が明かされました。先行アクセスの開始に向けて装備の強化や拠点拡張の仕組みが案内されています。",
+          "source": "Call of Duty® | Best-Selling Video Game Franchise",
+          "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-how-to-play-forward-operating-base-guide"
+        },
+        {
+          "title_ja": "新作ゲームの先行アクセスと最新画像技術",
+          "summary_ja": "人気作のキャンペーンモードにて先行アクセスが開始されることが明らかになりました。最新のフレーム生成技術や超解像技術に対応した滑らかな描写が実現されます。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/"
+        }
+      ]
+    },
+    {
+      "keyword": "CMF Speaker",
+      "reason_ja": "Nothing傘下のブランドから牛乳パック風の新型スピーカーが登場すると噂されています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "CMF Speaker",
+        "Nothing CMF"
+      ],
+      "product_keywords_ja": [
+        "CMF スピーカー",
+        "ワイヤレススピーカー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "小型の牛乳パック風スピーカーが発売へ",
+          "summary_ja": "新興ブランドからポータブル仕様の新型Bluetoothスピーカーが発売される見込みです。手頃な価格帯の2種類のモデルが準備されています。",
+          "source": "Gagadget.com",
+          "url": "https://gagadget.com/en/729538-cmfs-milk-carton-speakers-launch-october-12-reportedly-for-80-120/"
+        }
+      ]
+    },
+    {
+      "keyword": "ai games",
+      "reason_ja": "プロンプトからゲームを自動生成できる新プラットフォームが登場し話題です。",
+      "genre": "ai",
+      "commercial_score": 75,
+      "product_keywords": [
+        "AI game",
+        "Google Playground"
+      ],
+      "product_keywords_ja": [
+        "AI ゲーム",
+        "ゲーム制作"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "簡単な文章から自作ゲームを生成可能に",
+          "summary_ja": "簡単な文章を入力するだけで独自のゲームを作成して遊べる新しい環境が公開されました。プログラミングの知識がなくても手軽に制作を楽しめる仕組みとなっています。",
+          "source": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+        },
+        {
+          "title_ja": "ブラウザ上で3Dゲームを作るAI機能",
+          "summary_ja": "ブラウザ上で手軽に3Dゲームを構築できる新しいAI技術が発表されました。利用量に応じたクレジット方式の料金体系が導入されています。",
+          "source": "ExtremeTech",
+          "url": "https://www.extremetech.com/gaming/unitys-new-in-browser-ai-tool-generates-3d-games"
+        }
+      ]
+    }
+  ]
+}
