@@ -1,0 +1,114 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:16:25+09:00",
+  "trends": [
+    {
+      "keyword": "プライム感謝祭",
+      "reason_ja": "大手通販サイトの大型セール開催が近づき注目を集めています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "プライム感謝祭",
+        "セール"
+      ],
+      "product_keywords_ja": [
+        "セール",
+        "ポイント還元"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライム感謝祭の開催情報や目玉商品",
+          "summary_ja": "大型セールに向けて開催日程や目玉商品の情報がまとめられています。ポイント還元キャンペーンやお得な利用方法などが詳しく紹介されています。",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/amazon-prime-big-deal-days-2026-start-date/blt7ffb3aac3b784046"
+        },
+        {
+          "title_ja": "感謝祭セールで注目のおすすめ商品",
+          "summary_ja": "先行セールの開始を前に、おすすめの注目アイテムが選定されています。過去のセールで実際に人気を集めた製品を中心におすすめが紹介されています。",
+          "source": "360LiFE",
+          "url": "https://360life.shinyusha.co.jp/articles/-/56412"
+        }
+      ]
+    },
+    {
+      "keyword": "ポータブル電源",
+      "reason_ja": "ポータブル電源用の走行充電器が大幅な割引価格となり話題になっています。",
+      "genre": "outdoor",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ポータブル電源",
+        "EcoFlow"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "走行充電器",
+        "EcoFlow"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ポータブル電源用の高性能走行充電器",
+          "summary_ja": "大手ポータブル電源ブランドの高性能な走行充電器がタイムセールの対象となっています。車からの急速走行充電に対応した製品が大幅な割引価格で提供されています。",
+          "source": "Jetstream",
+          "url": "https://jetstream.blog/2026/10/11/ecoflow-alternator-charger-600-amazon-timesale-20261011/"
+        }
+      ]
+    },
+    {
+      "keyword": "土鍋炊飯器",
+      "reason_ja": "土鍋炊飯器の誕生20周年を記念した飲食イベントが開始され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "土鍋炊飯器",
+        "タイガー"
+      ],
+      "product_keywords_ja": [
+        "土鍋炊飯器",
+        "炊飯器",
+        "タイガー魔法瓶"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "土鍋炊飯器20周年記念の名店コラボ",
+          "summary_ja": "土鍋炊飯器の誕生を記念し、全国の名店と連携した店舗企画が始まりました。土鍋ごはんの美味しさを広く体験できる機会が提供されています。",
+          "source": "山陽新聞",
+          "url": "https://www.sanyonews.jp/article/2001014"
+        }
+      ]
+    },
+    {
+      "keyword": "保温マグカップ",
+      "reason_ja": "温かい飲み物の需要が高まる季節となり保温マグカップが売れ筋となっています。",
+      "genre": "kaji",
+      "commercial_score": 80,
+      "product_keywords": [
+        "保温マグカップ",
+        "サーモス"
+      ],
+      "product_keywords_ja": [
+        "保温マグカップ",
+        "サーモス",
+        "蓋付きマグカップ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "秋冬に人気の保温マグカップの選び方",
+          "summary_ja": "温かい飲み物を楽しむのに役立つ保温マグカップの人気製品がまとめられています。保温力や容量に加え、日々の洗いやすさや蓋の有無を重視した製品が支持を集めています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/36995520308f2beea90b3079e5849be8be8b4d12"
+        }
+      ]
+    }
+  ]
+}

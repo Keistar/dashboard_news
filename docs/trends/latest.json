@@ -1,416 +1,495 @@
 {
   "feed": "trends",
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T15:49:16+09:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:16:25+09:00",
   "trends": [
     {
-      "keyword": "Surface Laptop Ultra",
-      "reason_ja": "Microsoftが強力なAI処理能力を備えた新型ノートパソコンを発表しました。",
-      "genre": "gadget",
-      "commercial_score": 90,
+      "keyword": "プライム感謝祭",
+      "reason_ja": "大手通販サイトの大型セール開催が近づき注目を集めています。",
+      "genre": "sale",
+      "commercial_score": 95,
       "product_keywords": [
-        "Surface Laptop Ultra"
+        "プライム感謝祭",
+        "セール"
       ],
       "product_keywords_ja": [
-        "Surface Laptop Ultra",
-        "Microsoft"
+        "セール",
+        "ポイント還元"
       ],
-      "trend_source": "ニュース",
+      "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Microsoftが新型ノートPCを発表",
-          "summary_ja": "Microsoftは同社で最もパワフルとされる新しい端末を発表しました。高度なAI処理能力を備えた設計となっています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+          "title_ja": "プライム感謝祭の開催情報や目玉商品",
+          "summary_ja": "大型セールに向けて開催日程や目玉商品の情報がまとめられています。ポイント還元キャンペーンやお得な利用方法などが詳しく紹介されています。",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/amazon-prime-big-deal-days-2026-start-date/blt7ffb3aac3b784046"
+        },
+        {
+          "title_ja": "感謝祭セールで注目のおすすめ商品",
+          "summary_ja": "先行セールの開始を前に、おすすめの注目アイテムが選定されています。過去のセールで実際に人気を集めた製品を中心におすすめが紹介されています。",
+          "source": "360LiFE",
+          "url": "https://360life.shinyusha.co.jp/articles/-/56412"
         }
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
       "keyword": "Dyson W1",
-      "reason_ja": "Dysonが自動洗浄機能を備えた新しい床掃除用デバイスを発売しました。",
+      "reason_ja": "ダイソンが自動洗浄ドックを備えた新型水拭き掃除機を発表し話題です。",
       "genre": "kaji",
       "commercial_score": 90,
       "product_keywords": [
         "Dyson W1 PencilWash",
-        "vacuum"
+        "Dyson floor cleaner"
       ],
       "product_keywords_ja": [
         "ダイソン",
-        "掃除機"
+        "水拭き掃除機"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "自動洗浄機能付きの床掃除用クリーナーが発売",
-          "summary_ja": "有名家電メーカーから新しい床用の清掃機器が登場しました。専用の充電ドックを使用することで、ローラーの自動洗浄機能を利用できます。",
+          "title_ja": "ダイソンから自動洗浄ドック付き水拭き機",
+          "summary_ja": "大手家電メーカーから高性能な水拭き床用クリーナーが発売されました。マグネット充電ドックとブラシの自動セルフクリーニング機能を備えています。",
           "source": "Mashable",
           "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Surface Laptop Ultra",
-      "reason_ja": "Microsoftが新型の高性能AIノートパソコンを発表しました。",
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "ボーズの高性能ノイズキャンセリングヘッドホンが過去最安値水準となり人気です。",
       "genre": "gadget",
       "commercial_score": 90,
       "product_keywords": [
-        "Surface Laptop Ultra"
+        "Bose QuietComfort Ultra",
+        "Bose headphones"
       ],
       "product_keywords_ja": [
-        "Surface Laptop Ultra",
-        "Microsoft"
+        "Bose",
+        "ノイズキャンセリングヘッドホン"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Microsoftが新型ノートPCを発表",
-          "summary_ja": "Microsoftは同社で最もパワフルとされる新しい端末を発表しました。高度なAI処理能力を備えた設計となっています。",
+          "title_ja": "高機能ヘッドホンが大型セールで最安値に",
+          "summary_ja": "人気オーディオブランドの高性能ヘッドホンがセールに合わせて大幅に値下げされました。過去最安値の水準で手に入る機会として購入者の関心を集めています。",
           "source": "Mashable",
-          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+          "url": "https://mashable.com/tech/oct-7-october-prime-day-bose-quietcomfort-ultra-headphones-deal"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "WINBOT MINI",
-      "reason_ja": "エコバックスの薄型自動窓拭きロボットがセール価格で販売され注目されています。",
-      "genre": "kaji",
-      "commercial_score": 85,
-      "product_keywords": [
-        "WINBOT MINI",
-        "Ecovacs"
-      ],
-      "product_keywords_ja": [
-        "WINBOT",
-        "エコバックス",
-        "窓拭きロボット"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "狭い窓にも対応する窓拭きロボットの実力",
-          "summary_ja": "エコバックスの小型窓拭きロボットは薄型設計と強力な吸着力が特徴です。窓枠のぎりぎりまで届くブラシを備えており、日本の住宅環境にも適しています。",
-          "source": "ITmedia",
-          "url": "https://www.itmedia.co.jp/pcuser/amp/2610/09/news054_2.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "RTX Spark",
-      "reason_ja": "NVIDIAの新型チップを搭載した高性能ノートパソコンの予約が始まりました。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "RTX Spark",
-        "laptop"
-      ],
-      "product_keywords_ja": [
-        "RTX Spark",
-        "ノートパソコン"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "高性能なチップ搭載のノートPCの予約開始",
-          "summary_ja": "新しい処理チップを搭載したノートパソコンが各社から発表され、予約受け付けが始まりました。ビジネスや専門的な作業向けに推奨されるモデルも紹介されています。",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "RTX Spark",
-      "reason_ja": "最新のチップを搭載した高性能ノートパソコンの予約受け付けが始まりました。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "RTX Spark",
-        "laptop"
-      ],
-      "product_keywords_ja": [
-        "RTX Spark",
-        "ノートパソコン"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "高性能なチップ搭載のノートPCの予約が開始",
-          "summary_ja": "大容量メモリを搭載した新しいノートパソコンが各社から発表され、予約受け付けが始まりました。まもなく出荷が開始される予定です。",
-          "source": "RedShark News",
-          "url": "https://www.redsharknews.com/asus-proart-p16-p14-rtx-spark-price-availability"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Plaud",
-      "reason_ja": "AIボイスレコーダーがセール対象となり注目を集めています。",
-      "genre": "gadget",
-      "commercial_score": 80,
-      "product_keywords": [
-        "Plaud",
-        "voice recorder"
-      ],
-      "product_keywords_ja": [
-        "Plaud",
-        "ボイスレコーダー"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "AIボイスレコーダーがセールに登場",
-          "summary_ja": "高性能なAIボイスレコーダーが大手通販サイトのセールに参加し割引価格で提供されています。公式ストアや各種オンラインショップでも主力製品を対象としたセールが開催されています。",
-          "source": "PR TIMES",
-          "url": "https://prtimes.jp/main/html/rd/p/000000024.000161544.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Pixel 10a",
-      "reason_ja": "通信事業者で端末価格が値上げされたことが話題になっています。",
-      "genre": "gadget",
-      "commercial_score": 80,
-      "product_keywords": [
-        "Pixel 10a"
-      ],
-      "product_keywords_ja": [
-        "Pixel 10a",
-        "スマートフォン"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "通信事業者で対象スマートフォンの価格変更",
-          "summary_ja": "大手通信事業者はオンラインショップにおける一部機種の販売価格を変更しました。これにより該当スマートフォンの価格が引き上げられています。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2147215.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Apple イベント",
-      "reason_ja": "Appleがスマートホーム関連とみられる新イベントの開催を発表しました。",
-      "genre": "gadget",
-      "commercial_score": 80,
-      "product_keywords": [
-        "Apple",
-        "smart home"
-      ],
-      "product_keywords_ja": [
-        "Apple",
-        "スマートホーム"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Appleが新イベントの開催を発表",
-          "summary_ja": "Appleが新しい体験イベントを開催することが分かりました。新たなAI機能を搭載したスマートホーム関連の新製品が発表されると期待されています。",
-          "source": "ITmedia",
-          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002146/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "iQOO 16",
-      "reason_ja": "次世代の高性能チップを搭載するスマートフォンの仕様が明らかになりました。",
-      "genre": "gadget",
-      "commercial_score": 80,
-      "product_keywords": [
-        "iQOO 16",
-        "smartphone"
-      ],
-      "product_keywords_ja": [
-        "iQOO 16",
-        "スマートフォン"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "次期スマートフォンの仕様が判明",
-          "summary_ja": "発売予定の次世代スマートフォンのスペック情報が関係者から共有されました。旗艦級のプロセッサや滑らかに表示できるディスプレイを備える予定です。",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/iQOO-s-upcoming-Snapdragon-powered-phone-pairs-2K-resolution-with-a-185Hz-refresh-rate-for-the-first-time.1420877.0.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
     },
     {
       "keyword": "大闸蟹",
-      "reason_ja": "上海蟹の豊作により市場価格が下落していることが注目されています。",
+      "reason_ja": "秋の上海蟹が豊作と天候要因により価格が大幅下落し話題です。",
       "genre": "food",
-      "commercial_score": 75,
+      "commercial_score": 90,
       "product_keywords": [
         "大闸蟹",
-        "螃蟹"
+        "阳澄湖大闸蟹"
       ],
       "product_keywords_ja": [
         "上海蟹",
-        "カニ"
+        "大閘蟹"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "上海蟹が豊作で市場価格が下落傾向に",
-          "summary_ja": "秋の味覚である上海蟹が市場に多く出回っており、連休明けとともに価格が落ち着きを見せています。種類によって価格は様々ですが、全体的に値下がりの傾向にあります。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261010/49786427.html"
+          "title_ja": "連休明けに上海蟹の取引価格が大幅下落",
+          "summary_ja": "主産地での天候に恵まれ雨水が十分だったことから上海蟹の生産量が増加しました。出荷量の急増に伴い市場価格が半値近くまで下落しています。",
+          "source": "凤凰网",
+          "url": "https://news.ifeng.com/c/8x8RU6upui2"
+        },
+        {
+          "title_ja": "秋の味覚である上海蟹が市場で値下がり",
+          "summary_ja": "秋の旬を迎えて上海蟹が店頭に並び始めたものの、販売価格の下落傾向が続いています。例年にない価格の低迷に生産者からも戸惑いの声が上がっています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-10/detail-iniutyze0668511.d.html?from=wap"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "Nikon AI contest",
-      "reason_ja": "NikonのコンテストでAI生成画像が受賞した後に失格となり議論を呼びました。",
-      "genre": "gadget",
-      "commercial_score": 60,
+      "keyword": "ポータブル電源",
+      "reason_ja": "ポータブル電源用の走行充電器が大幅な割引価格となり話題になっています。",
+      "genre": "outdoor",
+      "commercial_score": 85,
       "product_keywords": [
-        "Nikon camera"
+        "ポータブル電源",
+        "EcoFlow"
       ],
       "product_keywords_ja": [
-        "Nikon",
-        "カメラ"
+        "ポータブル電源",
+        "走行充電器",
+        "EcoFlow"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ポータブル電源用の高性能走行充電器",
+          "summary_ja": "大手ポータブル電源ブランドの高性能な走行充電器がタイムセールの対象となっています。車からの急速走行充電に対応した製品が大幅な割引価格で提供されています。",
+          "source": "Jetstream",
+          "url": "https://jetstream.blog/2026/10/11/ecoflow-alternator-charger-600-amazon-timesale-20261011/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "土鍋炊飯器",
+      "reason_ja": "土鍋炊飯器の誕生20周年を記念した飲食イベントが開始され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "土鍋炊飯器",
+        "タイガー"
+      ],
+      "product_keywords_ja": [
+        "土鍋炊飯器",
+        "炊飯器",
+        "タイガー魔法瓶"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "土鍋炊飯器20周年記念の名店コラボ",
+          "summary_ja": "土鍋炊飯器の誕生を記念し、全国の名店と連携した店舗企画が始まりました。土鍋ごはんの美味しさを広く体験できる機会が提供されています。",
+          "source": "山陽新聞",
+          "url": "https://www.sanyonews.jp/article/2001014"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "mw4 release date",
+      "reason_ja": "新作ゲームの発売日や先行アクセスの詳細が発表され話題を呼んでいます。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Call of Duty MW4",
+        "Modern Warfare 4"
+      ],
+      "product_keywords_ja": [
+        "コール オブ デューティ",
+        "ゲームソフト"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "写真コンテストでAI画像の受賞が取り消しに",
-          "summary_ja": "カメラメーカーが開催した動画コンテストで、受賞作品にAI技術が使われていたことが判明し失格となりました。これを受け、同社は今後の審査規則を見直すと述べています。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo"
+          "title_ja": "人気FPS新作の基地システム解説",
+          "summary_ja": "人気シューティングゲームの新作モードにおける司令拠点の詳細が明かされました。先行アクセスの開始に向けて装備の強化や拠点拡張の仕組みが案内されています。",
+          "source": "Call of Duty® | Best-Selling Video Game Franchise",
+          "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-how-to-play-forward-operating-base-guide"
+        },
+        {
+          "title_ja": "新作ゲームの先行アクセスと最新画像技術",
+          "summary_ja": "人気作のキャンペーンモードにて先行アクセスが開始されることが明らかになりました。最新のフレーム生成技術や超解像技術に対応した滑らかな描写が実現されます。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "CMF Speaker",
+      "reason_ja": "Nothing傘下のブランドから牛乳パック風の新型スピーカーが登場すると噂されています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "CMF Speaker",
+        "Nothing CMF"
+      ],
+      "product_keywords_ja": [
+        "CMF スピーカー",
+        "ワイヤレススピーカー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "小型の牛乳パック風スピーカーが発売へ",
+          "summary_ja": "新興ブランドからポータブル仕様の新型Bluetoothスピーカーが発売される見込みです。手頃な価格帯の2種類のモデルが準備されています。",
+          "source": "Gagadget.com",
+          "url": "https://gagadget.com/en/729538-cmfs-milk-carton-speakers-launch-october-12-reportedly-for-80-120/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Air Fryer",
+      "reason_ja": "電気代削減につながるノンフライヤーの活用法がメディアで紹介され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "air fryer UK",
+        "air fryer"
+      ],
+      "product_keywords_ja": [
+        "ノンフライヤー",
+        "エアフライヤー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "調理家電の効率性と電気代に関する助言",
+          "summary_ja": "他の調理設備と比べて小型の加熱調理器具が非常に効率的であると紹介されています。誤った思い込みを見直し賢く使いこなすための助言が話題を呼んでいます。",
+          "source": "Cambridge News",
+          "url": "https://www.cambridge-news.co.uk/news/cost-of-living/martin-lewis-encourages-home-appliance-34742265"
+        },
+        {
+          "title_ja": "より安価に使える調理家電の誤解を解説",
+          "summary_ja": "家庭用調理器具のコストパフォーマンスについて専門家が解説を行いました。従来の方法よりも大幅にエネルギー効率を高められる点が強調されています。",
+          "source": "The Mirror",
+          "url": "https://www.mirror.co.uk/money/household-bills/martin-lewis-exposes-misnomer-kitchen-37754548"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "手作面包",
-      "reason_ja": "高価な手作りパンの店舗が次々と閉店しており話題になっています。",
-      "genre": "food",
-      "commercial_score": 60,
+      "keyword": "低钠盐",
+      "reason_ja": "血圧対策としてカリウム配合の減塩食塩への切り替えが推奨され関心を集めています。",
+      "genre": "health",
+      "commercial_score": 85,
       "product_keywords": [
-        "手作面包"
+        "低钠盐",
+        "食用盐"
       ],
       "product_keywords_ja": [
-        "パン"
+        "減塩 塩",
+        "低ナトリウム塩",
+        "やさしお"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "高価格帯の手作りパン店が相次ぎ閉店",
-          "summary_ja": "かつて若者の間で流行していた高価なパンですが、価格の高さから敬遠されるようになっています。その結果、行列ができていた人気店でも全国的に閉店の動きが見られます。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261010/49786731.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "床车旅行",
-      "reason_ja": "自家用車を宿泊用に改造して旅行するスタイルが節約志向から人気を集めています。",
-      "genre": "outdoor",
-      "commercial_score": 60,
-      "product_keywords": [
-        "床车垫",
-        "车载床",
-        "露营装备"
-      ],
-      "product_keywords_ja": [
-        "車中泊マット",
-        "キャンプ用品"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "車中泊で楽しむ旅行スタイルが流行",
-          "summary_ja": "自家用車の後部座席にベッドを設置し、車を宿泊施設代わりに利用する旅行スタイルが注目を集めています。手軽に寝泊まりできる空間を作れることから、多くの人が休日の旅行に取り入れています。",
+          "title_ja": "血圧管理のために家庭の食塩見直しを推奨",
+          "summary_ja": "年齢とともに濃い味付けを好む傾向があるなかで、血圧管理のために食塩の見直しが呼びかけられています。家庭での塩分摂取を抑える工夫が紹介されています。",
           "source": "新浪财经",
-          "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniustfv7494360.shtml"
+          "url": "https://finance.sina.cn/2026-10-10/detail-iniutyyz5948100.d.html?oid=SEO%20do%20Google(TG:e10838).xes&vt=4"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "AI短剧",
-      "reason_ja": "若者の間でAIが生成したショートドラマへの依存を断ち切ろうとする動きが見られます。",
-      "genre": "ai",
-      "commercial_score": 40,
+      "keyword": "保温マグカップ",
+      "reason_ja": "温かい飲み物の需要が高まる季節となり保温マグカップが売れ筋となっています。",
+      "genre": "kaji",
+      "commercial_score": 80,
       "product_keywords": [
-        "电子书",
-        "阅读器"
+        "保温マグカップ",
+        "サーモス"
       ],
       "product_keywords_ja": [
-        "電子書籍リーダー"
+        "保温マグカップ",
+        "サーモス",
+        "蓋付きマグカップ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "秋冬に人気の保温マグカップの選び方",
+          "summary_ja": "温かい飲み物を楽しむのに役立つ保温マグカップの人気製品がまとめられています。保温力や容量に加え、日々の洗いやすさや蓋の有無を重視した製品が支持を集めています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/36995520308f2beea90b3079e5849be8be8b4d12"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "膝关节保护",
+      "reason_ja": "連休中の長距離歩行による膝の不調やサポーター等のケアに関心が高まっています。",
+      "genre": "health",
+      "commercial_score": 80,
+      "product_keywords": [
+        "护膝",
+        "氨糖"
+      ],
+      "product_keywords_ja": [
+        "膝サポーター",
+        "グルコサミン"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "若者の間でAI短編動画依存の脱却が話題に",
-          "summary_ja": "AIで作成された短いドラマに夢中になる若者が増える一方で、視聴をやめようと試みる人も多くいます。勉強や仕事に集中するため、アプリを消したり読書端末を購入したりして対策しています。",
-          "source": "虎嗅网",
-          "url": "https://www.huxiu.com/article/4896306.html"
+          "title_ja": "連休の過度な徒歩観光で膝の痛みが急増",
+          "summary_ja": "大型連休中に長距離を歩き続けたことで、膝の痛みや足の不調を訴えて受診する人が相次いでいます。無理な歩行による関節への負担が浮き彫りになっています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-09/detail-iniuqywm3033283.d.html?vt=4"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "mrbeast",
-      "reason_ja": "有名動画クリエイターがイベントで参加者に多額の賞金を提供し話題になりました。",
-      "genre": "other",
-      "commercial_score": 30,
+      "keyword": "ai games",
+      "reason_ja": "プロンプトからゲームを自動生成できる新プラットフォームが登場し話題です。",
+      "genre": "ai",
+      "commercial_score": 75,
       "product_keywords": [
-        "MrBeast"
+        "AI game",
+        "Google Playground"
       ],
       "product_keywords_ja": [
-        "MrBeast"
+        "AI ゲーム",
+        "ゲーム制作"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "有名クリエイターが参加者に高額賞金を贈呈",
-          "summary_ja": "世界的に有名な動画クリエイターが開催したイベントで、参加者に多額の現金が贈られました。会場では多くの人が幸運を手にしました。",
-          "source": "Zamin.uz",
-          "url": "https://zamin.uz/en/culture/224089-3-lucky-participants-win-100-million-uzs-each-in-mrbeasts-show-video.html"
+          "title_ja": "簡単な文章から自作ゲームを生成可能に",
+          "summary_ja": "簡単な文章を入力するだけで独自のゲームを作成して遊べる新しい環境が公開されました。プログラミングの知識がなくても手軽に制作を楽しめる仕組みとなっています。",
+          "source": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+        },
+        {
+          "title_ja": "ブラウザ上で3Dゲームを作るAI機能",
+          "summary_ja": "ブラウザ上で手軽に3Dゲームを構築できる新しいAI技術が発表されました。利用量に応じたクレジット方式の料金体系が導入されています。",
+          "source": "ExtremeTech",
+          "url": "https://www.extremetech.com/gaming/unitys-new-in-browser-ai-tool-generates-3d-games"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "次抛衣",
+      "reason_ja": "使い捨て感覚の安価な服が流行する一方、肌トラブルなどのリスクが指摘されています。",
+      "genre": "beauty",
+      "commercial_score": 75,
+      "product_keywords": [
+        "一次性衣物",
+        "次抛衣服"
+      ],
+      "product_keywords_ja": [
+        "使い捨て 下着",
+        "トラベルウェア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "一度着て捨てる安価な服で肌トラブル発生",
+          "summary_ja": "旅行や出張で一度だけ着用して捨てる安価な衣類が人気を集める一方、皮膚の不調を訴える人が出ています。品質や衛生面の潜在的な危険性について医師が注意を呼びかけています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvhur7328570.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "西西弗书店",
+      "reason_ja": "書店業界が苦境に立つ中、カフェや文具を組み合わせた複合モデルが注目されています。",
+      "genre": "interior",
+      "commercial_score": 70,
+      "product_keywords": [
+        "西西弗书店 文创",
+        "西西弗"
+      ],
+      "product_keywords_ja": [
+        "ブックカフェ",
+        "文房具"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "書店チェーンの多角化による収益構造",
+          "summary_ja": "実店舗の書店が相次いで閉店する厳しい環境の中、独自の経営手法を維持する書店チェーンが注目されています。書籍販売にとどまらない多角的な収益モデルが分析されています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/wm/2026-10-11/doc-iniuvhuq0661891.shtml"
+        },
+        {
+          "title_ja": "カフェ併設で読書空間を提供する書店空間",
+          "summary_ja": "併設カフェと書棚を組み合わせ、居心地の良い滞在空間を作り出す書店が話題になっています。買い物の合間にくつろげる環境を提供することで幅広い客層を集めています。",
+          "source": "搜狐网",
+          "url": "https://m.sohu.com/a/1085888006_120914498"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "peppa pig",
+      "reason_ja": "人気子ども向けアニメの特別放送スケジュールが話題になっています。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "Peppa Pig toys",
+        "Peppa Pig"
+      ],
+      "product_keywords_ja": [
+        "ペッパピッグ",
+        "知育玩具"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気アニメのフェスティバル回が放送",
+          "summary_ja": "子ども向け専門チャンネルで人気アニメの放送予定が案内されています。おじいちゃんやおばあちゃんと一緒にフェスティバルに出かけるお話が放映されます。",
+          "source": "TVGuide.co.uk",
+          "url": "https://www.tvguide.co.uk/schedule/66415bd4-2649-5e75-a4e8-87c1f1d2461c/peppa-pig"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "winter",
+      "reason_ja": "エルニーニョや極渦による寒波と降雪の予報が英国で注目されています。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "winter jacket",
+        "heater UK"
+      ],
+      "product_keywords_ja": [
+        "防寒着",
+        "ヒーター"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "エルニーニョ発達で英国に降雪の可能性",
+          "summary_ja": "太平洋で発達するエルニーニョ現象が秋冬の英国の気象に影響を与える可能性が指摘されています。ただし厳しい寒さが訪れるかはまだ確定していないと説明されています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o"
+        },
+        {
+          "title_ja": "海水温上昇に伴う厳しい冬への警戒感",
+          "summary_ja": "海水温の急上昇に伴い冬の厳しい気象現象への警戒が呼びかけられています。異常気象の発生頻度が高まる可能性に注目が集まっています。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/news/london/el-nino-weather-winter-polar-vortex-b1300155.html"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

@@ -1,183 +1,259 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T15:41:58+09:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T15:56:17+09:00",
   "stories": [
     {
-      "title_ja": "睡眠学者が教える質の高い睡眠とお酒の関係",
-      "summary_ja": "世界的権威である柳沢正史教授が、睡眠の質を守りながらお酒を楽しむ方法を解説しています。巷にあふれる睡眠の常識の真偽を検証し、寝ても疲れがとれないといった悩みの解消法を提案します。",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/-/400292",
-      "score": 70,
-      "commercial_score": 50,
-      "product_keywords": [
-        "睡眠",
-        "本"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Googleの健康アプリでAI機能をオフにする方法",
-      "summary_ja": "フィットビット（Fitbit）やピクセルウォッチ（Pixel Watch）で利用する健康アプリには、AIコーチ機能が搭載されています。必要のないユーザー向けに、この機能からの通知をオフにする隠し設定が紹介されています。",
-      "source": "Lifehacker",
-      "url": "https://lifehacker.com/health/how-to-turn-off-the-ai-coach-in-the-google-health-app",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "スマートウォッチ",
-        "Fitbit",
-        "Pixel Watch"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "処方箋の準備完了をスマートウォッチに通知",
-      "summary_ja": "イギリスの国民保健サービス（NHS）が提供するアプリの機能がさらに便利になりました。薬局で処方された薬の準備が整うと、スマートウォッチやスマートフォンで通知を受け取れるようになります。",
-      "source": "Med-Tech Insights",
-      "url": "https://med-techinsights.com/2026/10/09/nhs-expands-prescription-ready-service-to-smartwatches-and-mobiles/",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "スマートウォッチ"
-      ],
+      "title_ja": "英NHS南東部の全18組織でAI皮膚がんトリアージを導入へ",
+      "summary_ja": "イギリスの国民保健サービス（NHS）南東部の全18トラストにおいて、皮膚がん紹介患者をトリアージする自律型医療AIの導入が進められています。NHSの歴史上最大規模の自律型医療AI導入事例になるとされています。",
+      "source": "Andover Advertiser",
+      "url": "https://www.andoveradvertiser.co.uk/news/26616071.ai-skin-cancer-triage-roll-across-18-nhs-trusts/",
+      "score": 86,
+      "commercial_score": 25,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "健康をテーマにした体験型スーパーが人気",
-      "summary_ja": "広州市に、健康をテーマにした新たなスーパーマーケットがオープンし、多くの住民が訪れています。焼き立てのパンや新鮮なフルーツなど、さまざまな健康的な売り場が展開されています。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1085940033_120988533",
-      "score": 70,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
+      "title_ja": "東大など、マウスでアルツハイマー病原因物質の抑制に成功",
+      "summary_ja": "東京大学などの研究グループが、脳の老廃物排出機能を薬で高めることで、アルツハイマー病の原因とされるたんぱく質の蓄積を抑えるマウス実験に成功したと発表しました。新たな治療法の開発につながる成果として期待されています。",
+      "source": "NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57813",
+      "score": 85,
+      "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "血糖値や睡眠の向上をうたうヨーグルト飲料",
-      "summary_ja": "血糖値の管理や睡眠の質向上、脂肪燃焼をサポートする成分を配合したヨーグルト飲料が多数登場しています。スプーンを使わずに手軽に飲めるため、毎日の習慣として続けやすいのが特徴です。",
-      "source": "毎日新聞",
-      "url": "https://mainichi.jp/articles/20261010/ddl/k09/040/118000c",
-      "score": 60,
+      "title_ja": "スマホとスマートウォッチの異OS間連携と選び方を検証",
+      "summary_ja": "華為（ファーウェイ）やvivo、OPPOなどがOSの垣根を越えた連携を進め、スマートフォンと腕時計の組み合わせが広がりを見せています。互換性や健康管理データの同期精度などの視点から、ユーザーの利用環境に応じた選び方が検証されています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_7879923190_1d5ae15f6068018n0w.html",
+      "score": 85,
       "commercial_score": 90,
       "product_keywords": [
-        "ヨーグルト飲料",
-        "機能性表示食品"
+        "Apple Watch",
+        "OPPO Watch",
+        "スマートウォッチ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "夜食が脂肪肝などの肝疾患リスクを高める可能性",
-      "summary_ja": "新たな研究によると、夜遅くの食事が脂肪肝のリスクを36％、肝硬変のリスクを28％高めることが判明しました。",
-      "source": "Everyday Health",
-      "url": "https://www.everydayhealth.com/liver-disease/late-night-snacking-may-increase-liver-disease-risk/",
-      "score": 60,
-      "commercial_score": 20,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "加糖飲料を控えることが子どもの肥満防止に",
-      "summary_ja": "米国では学齢期の子どもの約5人に1人が肥満となっており、高い水準が続いています。砂糖を加えた飲み物の摂取を減らすことが、子どもの肥満を減らす助けになることが研究で示されました。",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20261009/Cutting-sugary-drinks-helps-reduce-childhood-obesity-study-finds.aspx",
-      "score": 60,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "歯科治療の遅れ解消へ、デジタル技術に期待",
-      "summary_ja": "デジタル技術を活用した患者の紹介システムにより、歯科治療の待ち時間を解消できる可能性が報告されました。医療現場の事務作業を減らし、治療の状況をわかりやすくする効果が期待されています。",
-      "source": "FemTech World",
-      "url": "https://www.femtechworld.co.uk/news-topics/care-services/report-calls-for-digital-referral-technology-to-tackle-nhs-dentistry-delays-nec26/",
-      "score": 60,
-      "commercial_score": 10,
+      "title_ja": "英NHS初、がんサバイバーの女性へ人工舌の再建手術を実施",
+      "summary_ja": "頭頸部のがんを患った26歳の女性に対し、イギリスの国民保健サービス（NHS）として初となる人工舌の再建治療が行われました。がん治療後の患者の生活の質を高める先進的な医療技術として注目されています。",
+      "source": "London Evening Standard",
+      "url": "https://www.standard.co.uk/news/health/nhs-london-newham-michael-brown-press-b1299960.html",
+      "score": 84,
+      "commercial_score": 15,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "公園のスポーツ施設を簡単に探せるマップ機能",
-      "summary_ja": "重慶市で、公園内の運動施設を検索できる便利なマップ機能が更新されました。屋外のフィットネス器具や球技場など、数多くの運動ができる場所を簡単に調べることができます。",
-      "source": "新浪新闻",
-      "url": "https://news.sina.com.cn/zx/gj/2026-10-10/doc-iniutcvq0590103.shtml",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "生物医学のAIモデルで健康寿命の延長を模索",
-      "summary_ja": "スタンフォード大学の研究者が、あらゆる健康データを取り込んだAIモデルの構築を目指しています。寿命を大幅に延ばすための技術的なアプローチについて議論が行われています。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1085916291_354973",
-      "score": 60,
-      "commercial_score": 10,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "運動前のカフェイン摂取が瞬発力を向上",
-      "summary_ja": "運動前にカフェインを摂取すると、ダッシュなどの瞬発力が約3.5時間にわたって高まることがわかりました。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/nazology/world/nazology-201020",
-      "score": 50,
-      "commercial_score": 70,
+      "title_ja": "ダイエット炭酸飲料でも水と同等の減量効果と米研究",
+      "summary_ja": "2年間にわたる調査の結果、ダイエット炭酸水を飲む人は水を飲む人とほぼ同程度の体重減少を達成したことが示されました。体重の減少に加え、その他の健康指標でも改善が見られたと報告されています。",
+      "source": "NewsNation",
+      "url": "https://www.newsnationnow.com/health/study-no-difference-diet-soda-water-losing-weight/",
+      "score": 82,
+      "commercial_score": 80,
       "product_keywords": [
-        "カフェイン",
-        "コーヒー",
-        "サプリメント"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "健康的な食事への過度な執着に注意",
-      "summary_ja": "健康的な食事に不健全なほど執着してしまう「オルトレキシア」という状態の人が増えています。流行のダイエットや高タンパク質食品への関心の高まりが、その背景にあると見られています。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/huffingtonpost/life/huffingtonpost-6ac8973ee4b0e825de140a8f",
-      "score": 50,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "筋力トレーニングで有酸素運動の効果も得る方法",
-      "summary_ja": "筋力トレーニングを有酸素運動としても役立てるための条件について専門家が解説しています。一つの運動で両方の利点を得る方法や、目的に合わせて分けて行うべきケースが紹介されています。",
-      "source": "Women's Health",
-      "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a74062863/can-strength-training-count-as-cardio/",
-      "score": 50,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ダンベル",
-        "トレーニングチューブ"
+        "ダイエットソーダ",
+        "炭酸水 ゼロカロリー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "科学的な医療と介護で高齢化の課題に挑む",
-      "summary_ja": "高齢化社会における課題を解決するため、科学的な医療と介護を組み合わせた取り組みが進められています。健康づくりと高齢者ケアを統合した、新たな形が模索されています。",
-      "source": "中国经济网",
-      "url": "http://www.ce.cn/xwzx/shgj/gdxw/202610/t20261010_3253075.shtml",
-      "score": 50,
-      "commercial_score": 20,
+      "title_ja": "中国当局が日常食品の安全基準50項目を策定し管理を強化",
+      "summary_ja": "中国の国家衛生健康委員会と市場監督管理総局が、パンや菓子、乳たんぱく飲料など日常消費食品に関する食品安全国家基準50項目を公表しました。身近な食品の安全管理と品質基準を強化し、市民の健康的な食生活を支える狙いがあります。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-10-11/detail-iniuuwer5860360.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 82,
+      "commercial_score": 60,
+      "product_keywords": [
+        "プロテインドリンク",
+        "低糖質パン"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "商品・サービス・保険を統合した新たな健康事業",
-      "summary_ja": "湖南省の健康テクノロジー企業が提供する商品に、保険会社のサービスが適用されるようになりました。健康産業において、製品とサービス、そして保険を組み合わせたモデルが広がっています。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_6419731877_17ea555a500101bm2o.html?from=health",
-      "score": 50,
-      "commercial_score": 30,
+      "title_ja": "心拍や睡眠を記録できる角型G-SHOCKが人気に",
+      "summary_ja": "カシオのG-SHOCK「G-SQUAD DW-H5600-1JR」が、タフな定番角型デザインと心拍・睡眠計測機能を兼ね備えているとして注目されています。ソーラー充電対応や日常使いしやすいサイズ感で、運動と普段使いを両立したい層から支持を集めています。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c25183ffafa9625a88ce8a9fcb898fe9b8918c33",
+      "score": 80,
+      "commercial_score": 95,
+      "product_keywords": [
+        "DW-H5600",
+        "G-SHOCK スマートウォッチ",
+        "G-SQUAD"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "MIND食が脳の老化と灰白質の減少を緩やかにする傾向",
+      "summary_ja": "地中海食などを組み合わせたMIND食が、脳の灰白質の減少を抑えて脳の老化を緩やかにすることに関連しているという研究結果が示されました。どのような食品が脳の健康維持に寄与するのか、関心が高まっています。",
+      "source": "Yahoo Creators",
+      "url": "https://creators.yahoo.com/lifestyle/story/what-is-the-mind-diet-a-study-links-it-to-slower-brain-aging-225628105.html",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "オリーブオイル",
+        "ナッツ 無塩",
+        "MIND食"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "トランス脂肪酸による血管損傷の危険と日常食品の注意喚起",
+      "summary_ja": "中国の健康啓発情報において、トランス脂肪酸が悪玉コレステロールを増やし善玉コレステロールを減らすことで血管に二重の悪影響を与えるとして注意が促されています。心血管疾患のリスクを高める要因として、日頃の食品選びへの警戒が呼びかけられています。",
+      "source": "新浪新闻_手机新浪网",
+      "url": "https://news.sina.cn/2026-10-11/detail-iniuuwer1884627.d.html?vt=4&cid=56261&node_id=56261",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "トランス脂肪酸フリー",
+        "無添加食品"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "英監視機関、ADHDや自閉症の民間診断クリニックを検査へ",
+      "summary_ja": "イギリスの医療監視機関であるケア・クオリティ・コミッション（CQC）が、ADHDや自閉症の診断評価を提供する規制外クリニックの立ち入り検査を計画しています。診断を待つ多くの人々の受診環境の適正化を図る動きとして注目されています。",
+      "source": "LADbible",
+      "url": "https://www.ladbible.com/news/uk-news/nhs-adhd-autism-appointments-291237-20261010",
+      "score": 79,
+      "commercial_score": 20,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "睡眠学者・柳沢教授が睡眠の誤解や悩み解消法を解説",
+      "summary_ja": "睡眠学者の柳沢正史教授が、最新研究に基づき睡眠に関する思い込みや悩みの解消法を解説した著書が注目を集めています。眠れないことや疲れが取れないといった日常の悩みに向け、科学的な視点から睡眠のヒントを示しています。",
+      "source": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/-/400293",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "柳沢正史 睡眠の正解",
+        "睡眠本",
+        "快眠グッズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "気分を高めるのに必要な運動量はわずかでよいとする研究結果",
+      "summary_ja": "現代人の多くが一日の82%を動かずに過ごしているなか、気分を上向かせるために必要な運動量は驚くほど少量で足りるという研究結果が示されました。日常の小さな動作の変化がメンタルヘルスに良い影響をもたらすとされています。",
+      "source": "Yahoo Health",
+      "url": "https://health.yahoo.com/wellness/fitness/exercise/articles/study-reveals-surprisingly-small-amount-173000277.html",
+      "score": 78,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ステッパー",
+        "ウォーキングマシン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "重慶市が公園フィットネス地図を更新、3900超の施設を検索可能に",
+      "summary_ja": "重慶市都市管理局が公園のスポーツ・フィットネスマップを更新し、849カ所の会場と3933組の屋外運動器具を簡単に検索できるようになりました。市民が近所で球技や運動器具を利用しやすくし、健康づくりの習慣化を後押ししています。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/zx/gj/2026-10-10/doc-iniutcvq0590103.shtml",
+      "score": 78,
+      "commercial_score": 50,
+      "product_keywords": [
+        "スポーツウェア",
+        "ランニングポーチ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "腸内細菌の代謝物が認知症の変性を促す可能性を発見",
+      "summary_ja": "最新の研究により、腸内細菌が作り出す特定の代謝物が脳を保護するバリアを弱め、認知症に関連する神経変性を促す恐れがあることが明らかになりました。腸内環境とアルツハイマー病の関連を示す新たな知見として注目されています。",
+      "source": "WIRED.jp",
+      "url": "https://wired.jp/article/vinculo-entre-las-bacterias-del-intestino-y-el-alzheimer/",
+      "score": 77,
+      "commercial_score": 55,
+      "product_keywords": [
+        "腸内環境 サプリ",
+        "プロバイオティクス"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ワークマンが運動と雨の日に兼用できる防水靴を発売",
+      "summary_ja": "ワークマンから、ランニングやウォーキングなどの夜間運動と普段の雨天兼用で使える防水シューズが登場しました。3300円とお手頃で、天候を選ばず運動を続けたい人の足元を支えます。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3c843d31e4ad83c198c16418ecca5793cce11b0f",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ワークマン 防水シューズ",
+        "ランニングシューズ 防水",
+        "ウォーキングシューズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Google HealthアプリでAIコーチ機能を無効化可能に",
+      "summary_ja": "FitbitやPixel Watchで利用されるGoogle Healthアプリには有料版向けのAIコーチ機能が含まれますが、これをオフにする設定が紹介されています。不要な助言通知を受け取りたくないユーザーに向けて手順が解説されています。",
+      "source": "Lifehacker",
+      "url": "https://lifehacker.com/health/how-to-turn-off-the-ai-coach-in-the-google-health-app",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Pixel Watch",
+        "Fitbit"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英NHSトラストが心の支援を受けやすくする新サイトを開設",
+      "summary_ja": "イギリスのハンバー・ティーチングNHSトラストが、メンタルヘルス支援サービスへのアクセスを容易にする新しいウェブサイトを立ち上げました。支援を求める利用者が適切な窓口を見つけやすくすることを目指しています。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyvj82xq4jo",
+      "score": 75,
+      "commercial_score": 20,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "フィットネス専門家が高強度インターバル運動の頻度を解説",
+      "summary_ja": "フィットネスの専門家らが、短時間で負荷をかける高強度インターバルトレーニング（HIIT）の適切な頻度や必要性について解説しています。過度な運動による負担を避けつつ、日常の運動へ無理なく取り入れる方法が提案されています。",
+      "source": "Health.com",
+      "url": "https://www.health.com/do-you-really-need-hiit-12060420",
+      "score": 73,
+      "commercial_score": 60,
+      "product_keywords": [
+        "トレーニングマット",
+        "フィットネストラッカー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "福岡の医師らが小中学生の睡眠と生活改善を調査",
+      "summary_ja": "福岡県の研究者や医師のチームが、太宰府市内の小中学生を対象に睡眠状況の調査を行っています。子どもの睡眠リズムを把握・分析し、生活習慣の改善につなげる「眠育」の取り組みが進められています。",
+      "source": "西日本新聞me",
+      "url": "https://www.nishinippon.co.jp/item/1547829/",
+      "score": 72,
+      "commercial_score": 40,
+      "product_keywords": [
+        "目覚まし時計",
+        "快眠枕 ジュニア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

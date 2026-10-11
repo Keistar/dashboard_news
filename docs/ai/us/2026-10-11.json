@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T15:33:57+09:00",
+  "stories": [
+    {
+      "title_ja": "オープンAIの新エージェントを業務検証　作業自動化と社内ITの課題",
+      "summary_ja": "オープンAI（OpenAI）の新たなAIエージェント「Dots」を職場で試用したところ、ウェブサイトの構築や長時間の業務自動化が実現した。一方で、企業のIT管理をめぐる複雑な課題が生じ、現場導入における懸念点も浮き彫りとなっている。",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/openai-dots-ai-agent-corporate-it-workplace-test-2026-10",
+      "score": 82,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "米アンソロピック、AI誤作動防止のため社内テストのネット接続を遮断",
+      "summary_ja": "AI開発の米アンソロピック（Anthropic）は、AIエージェントの社内評価テストにおいてインターネット接続を遮断する措置をとった。AIによる予期せぬ行動を防ぐ体制が整うまで、テスト中はモデルをオフライン環境に維持する方針を示している。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "score": 78,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "オープンAIが722件の数学解答草稿を公開　検証状況と利用者への影響",
+      "summary_ja": "オープンAI（OpenAI）は、AIが作成した722件に及ぶ数学の草稿を公開した。検証済みの内容と不確かな部分が混在しており、これが今後のChatGPT利用者にどのような影響を与えるかが注目されている。",
+      "source": "Online Tech Tips",
+      "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "米アンソロピック元社員、AI「クロード」でユーモアを解明したと主張",
+      "summary_ja": "米アンソロピック（Anthropic）の元従業員によると、同社の研究者らは自社AI「Claude」を用いてユーモアの仕組みを解明できたと主張していたという。AIモデルを活用して笑いの構造を解き明かそうとする同社開発陣の試みが明かされた。",
+      "source": "Futurism",
+      "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor",
+      "score": 70,
+      "commercial_score": 25
+    }
+  ]
+}

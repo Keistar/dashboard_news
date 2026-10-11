@@ -1,0 +1,142 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:16:25+09:00",
+  "trends": [
+    {
+      "keyword": "大闸蟹",
+      "reason_ja": "秋の上海蟹が豊作と天候要因により価格が大幅下落し話題です。",
+      "genre": "food",
+      "commercial_score": 90,
+      "product_keywords": [
+        "大闸蟹",
+        "阳澄湖大闸蟹"
+      ],
+      "product_keywords_ja": [
+        "上海蟹",
+        "大閘蟹"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "連休明けに上海蟹の取引価格が大幅下落",
+          "summary_ja": "主産地での天候に恵まれ雨水が十分だったことから上海蟹の生産量が増加しました。出荷量の急増に伴い市場価格が半値近くまで下落しています。",
+          "source": "凤凰网",
+          "url": "https://news.ifeng.com/c/8x8RU6upui2"
+        },
+        {
+          "title_ja": "秋の味覚である上海蟹が市場で値下がり",
+          "summary_ja": "秋の旬を迎えて上海蟹が店頭に並び始めたものの、販売価格の下落傾向が続いています。例年にない価格の低迷に生産者からも戸惑いの声が上がっています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-10/detail-iniutyze0668511.d.html?from=wap"
+        }
+      ]
+    },
+    {
+      "keyword": "低钠盐",
+      "reason_ja": "血圧対策としてカリウム配合の減塩食塩への切り替えが推奨され関心を集めています。",
+      "genre": "health",
+      "commercial_score": 85,
+      "product_keywords": [
+        "低钠盐",
+        "食用盐"
+      ],
+      "product_keywords_ja": [
+        "減塩 塩",
+        "低ナトリウム塩",
+        "やさしお"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "血圧管理のために家庭の食塩見直しを推奨",
+          "summary_ja": "年齢とともに濃い味付けを好む傾向があるなかで、血圧管理のために食塩の見直しが呼びかけられています。家庭での塩分摂取を抑える工夫が紹介されています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-10/detail-iniutyyz5948100.d.html?oid=SEO%20do%20Google(TG:e10838).xes&vt=4"
+        }
+      ]
+    },
+    {
+      "keyword": "膝关节保护",
+      "reason_ja": "連休中の長距離歩行による膝の不調やサポーター等のケアに関心が高まっています。",
+      "genre": "health",
+      "commercial_score": 80,
+      "product_keywords": [
+        "护膝",
+        "氨糖"
+      ],
+      "product_keywords_ja": [
+        "膝サポーター",
+        "グルコサミン"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "連休の過度な徒歩観光で膝の痛みが急増",
+          "summary_ja": "大型連休中に長距離を歩き続けたことで、膝の痛みや足の不調を訴えて受診する人が相次いでいます。無理な歩行による関節への負担が浮き彫りになっています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-09/detail-iniuqywm3033283.d.html?vt=4"
+        }
+      ]
+    },
+    {
+      "keyword": "次抛衣",
+      "reason_ja": "使い捨て感覚の安価な服が流行する一方、肌トラブルなどのリスクが指摘されています。",
+      "genre": "beauty",
+      "commercial_score": 75,
+      "product_keywords": [
+        "一次性衣物",
+        "次抛衣服"
+      ],
+      "product_keywords_ja": [
+        "使い捨て 下着",
+        "トラベルウェア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "一度着て捨てる安価な服で肌トラブル発生",
+          "summary_ja": "旅行や出張で一度だけ着用して捨てる安価な衣類が人気を集める一方、皮膚の不調を訴える人が出ています。品質や衛生面の潜在的な危険性について医師が注意を呼びかけています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvhur7328570.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "西西弗书店",
+      "reason_ja": "書店業界が苦境に立つ中、カフェや文具を組み合わせた複合モデルが注目されています。",
+      "genre": "interior",
+      "commercial_score": 70,
+      "product_keywords": [
+        "西西弗书店 文创",
+        "西西弗"
+      ],
+      "product_keywords_ja": [
+        "ブックカフェ",
+        "文房具"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "書店チェーンの多角化による収益構造",
+          "summary_ja": "実店舗の書店が相次いで閉店する厳しい環境の中、独自の経営手法を維持する書店チェーンが注目されています。書籍販売にとどまらない多角的な収益モデルが分析されています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/wm/2026-10-11/doc-iniuvhuq0661891.shtml"
+        },
+        {
+          "title_ja": "カフェ併設で読書空間を提供する書店空間",
+          "summary_ja": "併設カフェと書棚を組み合わせ、居心地の良い滞在空間を作り出す書店が話題になっています。買い物の合間にくつろげる環境を提供することで幅広い客層を集めています。",
+          "source": "搜狐网",
+          "url": "https://m.sohu.com/a/1085888006_120914498"
+        }
+      ]
+    }
+  ]
+}
