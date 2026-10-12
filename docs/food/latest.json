@@ -1,182 +1,177 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T15:52:27+09:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T15:56:45+09:00",
   "stories": [
     {
-      "title_ja": "米スタバがホリデーメニュー発表 定番復刻や新作ティラミス",
-      "summary_ja": "米スターバックス（Starbucks）がホリデーシーズン向けのメニューを発表した。11月5日より定番の季節限定ドリンク4種が復刻するほか、新作ティラミス飲料や限定フードなどが登場する。",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/lifestyle/articles/starbucks-just-revealed-holiday-menu-183607491.html",
-      "score": 90,
+      "title_ja": "中国茶スタンドの覇王茶姫、テニス選手の優勝を祝し全品1杯無料企画",
+      "summary_ja": "中国の人気ティードリンクブランド「覇王茶姫（CHAGEE）」が、全商品を対象とした1杯購入で1杯無料となるキャンペーンを発表した。10月11日の中国オープン女子シングルスで鄭欽文選手が優勝したことを祝して企画された。10月12日に限定で実施され、祝福とともにドリンクを提供する。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxrzn0418530.shtml",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ミルクティー",
+        "中国茶",
+        "茶葉"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "米マクドナルドとネトフリが提携、アニメ着想の限定メニュー発表",
+      "summary_ja": "米マクドナルドとネットフリックス（Netflix）が提携を発表した。「KPop Demon Hunters」の世界観に着想を得た新たな特別メニューを展開する。両社のコラボレーションによる限定の食事メニューとして提供される。",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/GMA/Food/mcdonalds-netflix-team-new-kpop-demon-hunters-inspired-meals/story?id=131368879",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "マクドナルド",
+        "コラボグッズ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英最大手テスコが会員カードに新機能、今週から全英店舗で順次導入",
+      "summary_ja": "英国最大のスーパーマーケットであるテスコ（Tesco）が、「クラブカード」に関する大型の機能変更を発表した。買い物客を支援するための新たな機能を、今週から英国内の店舗で順次導入していく。会員向けサービスの利便性向上を図る取り組みとなっている。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/tesco-makes-major-clubcard-change-37759618",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "テスコ",
+        "エコバッグ",
+        "ポイントカード"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "喜茶や蜜雪氷城など中国茶飲料チェーン、持ち帰り用商品を高速鉄道へ",
+      "summary_ja": "中国の大手ティードリンクである喜茶（HEYTEA）や蜜雪氷城が、持ち帰り向け商品の展開を強化している。店舗だけでなく高速鉄道の車内などで楽しめるよう、ドライフルーツや果汁ジュースなどを提供している。移動時の手軽な飲食物として「テイクアウト」需要の獲得を進めている。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/cj/2026-10-12/detail-iniuxmtr7180728.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "スターバックス",
-        "コーヒー",
-        "タンブラー"
+        "中国茶",
+        "ドライフルーツ",
+        "果汁ジュース"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "ハーゲンダッツ新シリーズが登場 夜の余韻を楽しむショコラ味",
-      "summary_ja": "ハーゲンダッツから夜に心地よい余韻を楽しめる新シリーズ「Classy Night」が登場する。2026年10月20日より「香るショコラ マール・ド・シャンパーニュ」などが発売される。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/cocotte/trend/cocotte-632567",
-      "score": 85,
-      "commercial_score": 95,
-      "product_keywords": [
-        "ハーゲンダッツ",
-        "アイスクリーム",
-        "ショコラ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英サブウェイが店舗数倍増へ デジタル端末や夜メニュー導入",
-      "summary_ja": "サンドイッチチェーンのサブウェイ（Subway）が英国で店舗数を倍増させる拡大計画を打ち出した。デジタルキオスク端末の設置や夜間メニューの導入など、店舗の刷新も進められる。",
-      "source": "The Northern Echo",
-      "url": "https://www.thenorthernecho.co.uk/news/26624941.subway-potential-plans-hundreds-new-shops-across-uk/",
-      "score": 85,
-      "commercial_score": 80,
-      "product_keywords": [
-        "サブウェイ",
-        "サンドイッチ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "楽天が代々木公園で食いしんぼう祭 リアル会場とECを連動",
-      "summary_ja": "楽天グループは東京の代々木公園イベント広場で「楽天食いしんぼう祭」を開催している。楽天市場に出店するグルメ関連店舗の商品をリアルな会場で販売し、オンラインでの購入にもつなげる。",
+      "title_ja": "帝国ホテル大阪がクリスマスケーキ発表、1人用ケーキも充実",
+      "summary_ja": "帝国ホテル 大阪が2026年のクリスマスケーキの予約受付を10月1日に開始した。華やかなアントルメや焼菓子のほか、1名用のプティガトーとして定番のショートケーキやモンブランの新製品などを揃える。おひとり様でも楽しめる多彩なラインナップが用意されている。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/ac6afb4b731a38d8e914d3473a82cf9185ebd140",
-      "score": 80,
-      "commercial_score": 90,
+      "url": "https://news.yahoo.co.jp/expert/articles/d3c6749214d993130db1bfed7a4a7d44a9e78221",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "お取り寄せグルメ",
-        "ご当地グルメ"
+        "クリスマスケーキ",
+        "帝国ホテル",
+        "モンブラン"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "日清がカップヌードル辛豚を発売 旨辛な豚骨スープが特徴",
-      "summary_ja": "発売55周年を迎える日清食品のカップヌードルブランドから「カップヌードル辛豚」が登場した。旨辛な豚骨スープを味わえるピリ辛な仕上がりとなっている。",
-      "source": "TRILL",
-      "url": "https://trilltrill.jp/articles/5014213",
-      "score": 80,
-      "commercial_score": 90,
+      "title_ja": "米ジャンバが秋限定でパンプキン味に注力、外食各社も展開加速",
+      "summary_ja": "米スムージーチェーンのジャンバ（Jamba）が、この秋パンプキン風味のメニューに注力している。10月中旬を迎えて秋のパンプキンシーズンが最盛期となっている。カフェやベーカリー、スーパーなどの各店舗でも関連商品の展開が活発化している。",
+      "source": "Sporked",
+      "url": "https://sporked.com/article/jamba-is-going-all-in-on-one-flavor-this-fall/",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
-        "カップヌードル",
-        "日清食品",
-        "カップ麺"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米バーガーキングがハロウィン限定のスプライトを発売",
-      "summary_ja": "米バーガーキング（Burger King）がハロウィン向けの期間限定ドリンクを発表した。「ヴァンパイアズ・バイト」と名付けられたイチゴ風味のスプライトで、酸味を効かせた味わいに仕上がっている。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/burger-king-vampires-bite-strawberry-sprite-12163971",
-      "score": 80,
-      "commercial_score": 80,
-      "product_keywords": [
-        "バーガーキング",
-        "スプライト"
+        "パンプキン",
+        "スムージー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英外食大手の旧57店舗が再オープンへ 700人超の雇用創出",
-      "summary_ja": "英外食大手の旧ビーフィーター（Beefeater）など57店舗を新興のコモン・テーブル・グループが買収し、営業を再開する見通しとなった。この再編により700人以上の新規雇用が生み出される見込みとなっている。",
-      "source": "Daily Echo",
-      "url": "https://www.dailyecho.co.uk/news/26625487.57-beefeater-brewers-fayre-cookhouse-sites-rebranded/",
-      "score": 80,
-      "commercial_score": 65,
+      "title_ja": "英サブウェイが店舗倍増を計画、夜間メニューや注文端末を導入へ",
+      "summary_ja": "英サブウェイが、国内の店舗数を倍増させる計画の一環として数百店舗の新規出店方針を発表した。店内にはデジタル注文端末を導入し、夜間向けメニューの拡充など店舗の大幅な刷新を進める。英国全土で店舗網の拡大とサービス向上を狙う。",
+      "source": "Somerset County Gazette",
+      "url": "http://www.thisisthewestcountry.co.uk/news/26624682.subway-potential-plans-hundreds-new-shops-across-uk/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "サンドイッチ",
+        "サブウェイ"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "冷食とアイスが食べ放題のイベント 滋賀・長浜で初開催へ",
-      "summary_ja": "滋賀県長浜市のアル・プラザ長浜で「チン！するレストラン」が開催される。2026年10月30日から11月1日までの期間限定で、店内の冷凍食品とアイスクリームが90分間食べ放題で楽しめる。",
-      "source": "PrettyOnline",
-      "url": "https://www.pretty-online.jp/news/10018/",
+      "title_ja": "英スーパーのアイスランドが買い物体験を変更、200店舗へ拡大予定",
+      "summary_ja": "英スーパーチェーンのアイスランド（Iceland）が、利用客向けに今週から30分に関する新たなサービスを導入する。まず17店舗で運用を開始し、クリスマス前までに200店舗へ対象を拡大する計画となっている。買い物客の利便性向上を目的とした施策となっている。",
+      "source": "Birmingham Live",
+      "url": "https://www.birminghammail.co.uk/whats-on/shopping/iceland-confirms-30-minute-change-34718194.amp",
       "score": 75,
       "commercial_score": 70,
       "product_keywords": [
         "冷凍食品",
-        "アイスクリーム"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "CJ第一製糖の韓国伝統酒ブランド 米国市場へ進出",
-      "summary_ja": "韓国のCJ第一製糖（CJ CheilJedang）が展開する高級蒸留酒ブランド「jari」が、ニューヨークとロサンゼルスで米国展開を開始した。ミシュラン星付きレストランなどで韓国料理とのペアリングが提供される。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/cj-cheiljedang-jari-k-spirits-us-debut-new-york-los-angeles-7e9c5087a2",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "韓国焼酎",
-        "蒸留酒"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英ベストバーガー受賞店がケンブリッジに新店舗を開店へ",
-      "summary_ja": "2023年に英国のベストバーガー賞に輝いたバーガー店「ザ・ビーフィー・ボーイズ（The Beefy Boys）」が、ケンブリッジに新店舗を開く。評価の高い人気店の味が新たな地域に広がる。",
-      "source": "The Hunts Post",
-      "url": "https://www.huntspost.co.uk/news/26615671.new-beefy-boys-restaurant-set-open-cambridge/",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ハンバーガー",
-        "パティ"
+        "輸入スーパー"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "コストコでボブムースのフルーツシャーベットが500円引き",
-      "summary_ja": "コストコの食品セールでボブムースのフルーツシャーベットが500円引きとなっている。お得に購入できる注目のスイーツとして話題を集めている。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/entabe/trend/entabe-61649?page=1",
+      "title_ja": "徳島県つるぎ町が楽天ふるさと納税で半田そうめんなどの受付を開始",
+      "summary_ja": "徳島県つるぎ町が、楽天ふるさと納税やふるさとチョイスにおいて特産品の寄附受付を開始した。特産品の半田そうめんなどの返礼品を全国に向けて提供する。自治体の魅力を発信するため、EC支援を行うLR株式会社が協力している。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/1977702",
       "score": 70,
       "commercial_score": 90,
       "product_keywords": [
-        "コストコ",
-        "シャーベット"
+        "ふるさと納税",
+        "半田そうめん",
+        "つるぎ町"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米チキンサラダチェーンがNYなど東海岸へ出店拡大",
-      "summary_ja": "米国南部で人気のチキンチェーン「チキン・サラダ・チック（Chicken Salad Chick）」が、ニューヨークなどの東海岸エリアへの進出を計画している。同ブランドにとって最北端となる地域への店舗展開が進められる。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/chicken-salad-chick-new-york-expansion-12165351",
+      "title_ja": "米スーパーで惣菜のセットメニューが人気、手軽さとお得感を両立",
+      "summary_ja": "米国のスーパーマーケットで、惣菜などを組み合わせたコンボミール（セットメニュー）の人気が高まっている。レストラン品質の美味しさや分かりやすいお得感、食事の手間を減らす手軽さが評価されている。安定した品揃えと利便性により、消費者の支持を集めている。",
+      "source": "Supermarket Perimeter",
+      "url": "https://www.supermarketperimeter.com/articles/14632-match-made-delicious-why-combo-meals-are-having-a-moment",
       "score": 70,
       "commercial_score": 65,
       "product_keywords": [
-        "チキンサラダ"
+        "セットミール",
+        "ミールキット",
+        "冷凍惣菜"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英ウェールズの人気レストランが地域住民の力で営業再開",
-      "summary_ja": "かつてウェールズの最優秀ローカルレストランに選ばれた「ザ・ウォーレン（The Warren）」が営業を再開した。昨年一度閉店したものの、再開を願う地域コミュニティの熱意と支援によって復活を遂げた。",
-      "source": "Wales Online",
-      "url": "https://www.walesonline.co.uk/whats-on/restaurants-bars/how-community-helped-bring-restaurant-34738996",
+      "title_ja": "英の若手兄弟が家庭発のソースブランドを拡大、大手スーパーに納入",
+      "summary_ja": "英国の兄弟が母親の台所から立ち上げたソースブランドが、大手スーパーのアルディ（Aldi）との大型取引を獲得した。銀行からの融資支援を断られながらも、食品事業を大きく成長させた。若手起業家によるスーパー向け調味料ブランドとして注目を集めている。",
+      "source": "AOL.co.uk",
+      "url": "https://www.aol.co.uk/articles/built-supermarket-sauce-brand-mums-072215000.html",
       "score": 70,
-      "commercial_score": 55,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ソース",
+        "調味料",
+        "輸入調味料"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英レストランチェーンの旧110店舗が再開へ、新グループが買収",
+      "summary_ja": "英国でビーフィーター（Beefeater）など100店舗以上の旧レストラン拠点が再オープンすることが明らかになった。クイーンズウェイ・インズ（Queensway Inns）とコモン・テーブル・グループによる買収に伴い営業が再開される。各地の飲食拠点が新たな体制で再び営業を開始する。",
+      "source": "The Herald",
+      "url": "https://www.heraldscotland.com/news/national/uk-today/26626223.110-beefeater-brewers-fayre-cookhouse-sites-reopening/",
+      "score": 65,
+      "commercial_score": 60,
       "country": "gb",
       "country_label_ja": "イギリス"
     }

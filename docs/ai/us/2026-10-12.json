@@ -1,0 +1,58 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T15:36:32+09:00",
+  "stories": [
+    {
+      "title_ja": "ChatGPTに対話型の視覚UIを生成する新機能が追加",
+      "summary_ja": "オープンAI（OpenAI）は「ChatGPT」に新機能「インテリジェントUI（Intelligent UI）」を追加したと発表した。この機能により、ユーザーと対話しながら操作可能な視覚的インターフェースを直接画面上に作成できるようになる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/openai-chatgpt-intelligent-ui-interactive-visual-graphics",
+      "score": 90,
+      "commercial_score": 75,
+      "product_keywords": [
+        "液晶モニター",
+        "ワイヤレスマウス"
+      ]
+    },
+    {
+      "title_ja": "グーグルの生成AI「Gemini」で無料ユーザーの利用モデルが制限へ",
+      "summary_ja": "グーグル（Google）がAIアシスタント「Gemini」の利用条件を変更し、無料版の提供範囲を見直すことが明らかになった。有料プランに加入していないユーザーは、これまで利用可能だった複数のAIモデルにアクセスできなくなる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/google-gemini-free-access-models-changing",
+      "score": 85,
+      "commercial_score": 65,
+      "product_keywords": [
+        "Google Pixel",
+        "Chromebook"
+      ]
+    },
+    {
+      "title_ja": "オープンAIの「Dot」とメタの「Muse」AIエージェントを比較",
+      "summary_ja": "オープンAI（OpenAI）の「Dot」とメタ（Meta）の「Muse」について、日常生活を支援する自律型AIエージェントとしての機能が比較された。両モデルは電子メールやログイン情報、予定表にアクセスでき、スマートフォンの通知を連携させる機能も備えている。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スマートウォッチ",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "オープンAIがEU向けのChatGPT文章に不可視の透かしを導入へ",
+      "summary_ja": "オープンAI（OpenAI）は、欧州連合（EU）圏内で生成された「ChatGPT」の文章に目に見えない電子透かしを埋め込む方針を固めた。AIが作成した文章の識別を目的としており、マレーシアなど地域によって適用基準が分かれる見通しとなっている。",
+      "source": "Yahoo",
+      "url": "https://malaysia.news.yahoo.com/openai-put-invisible-watermark-chatgpt-044038517.html",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "セキュリティソフト",
+        "外付けSSD"
+      ]
+    }
+  ]
+}
