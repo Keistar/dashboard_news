@@ -1,0 +1,123 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:24:03+09:00",
+  "trends": [
+    {
+      "keyword": "sony playstation",
+      "reason_ja": "PlayStation 5の価格動向や上位モデルの品薄状況が注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "PS5 console",
+        "PlayStation 5 Pro"
+      ],
+      "product_keywords_ja": [
+        "PlayStation 5",
+        "PS5 本体"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "プレイステーション５の価格推移が話題に",
+          "summary_ja": "発売当初と現在の価格比較が行われ様々な要因による価格上昇が分析されています。ゲーム機市場における値動きに関心が集まっています。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/"
+        },
+        {
+          "title_ja": "ＰＳ５プロの品薄状態の動向を検証",
+          "summary_ja": "上位モデルの品薄傾向が続く中ソニーによる供給改善の取り組みが注目されています。主要販売店での在庫状況について報じられています。",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2278502/playstation-5-pro-shortage-how-long/"
+        }
+      ]
+    },
+    {
+      "keyword": "Dyson OnTrac",
+      "reason_ja": "ダイソンのノイズキャンセリングヘッドホンが大幅セールとなり話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Dyson OnTrac headphones",
+        "noise cancelling headphones"
+      ],
+      "product_keywords_ja": [
+        "ダイソン ヘッドホン",
+        "ノイズキャンセリング ヘッドホン"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ダイソンのノイキャンヘッドホンが大幅割引",
+          "summary_ja": "デザイン性の高いダイソンの高級ヘッドホンが大幅な割引価格で販売されています。優れた音響機能と目を引くスタイルが注目されています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/july-28-dyson-ontrac-headphones-deal"
+        },
+        {
+          "title_ja": "大手ブランドのノイキャンヘッドホンがセールに",
+          "summary_ja": "大手メーカーの人気ノイズキャンセリングヘッドホンのセール情報が紹介されています。各社の注目モデルがお買い得価格で並んでいます。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-early-prime-day-noise-cancelling-headphones-deals-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "Radiator Booster",
+      "reason_ja": "光熱費の上昇を受けて暖房効率を高めて節約できる暖房器具用ガジェットが注目されています。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "radiator fan booster",
+        "energy saving heater"
+      ],
+      "product_keywords_ja": [
+        "暖房ファン",
+        "省エネ 暖房補助器具"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "暖房効率を高めて光熱費を抑える小型ファンが話題",
+          "summary_ja": "ラジエーターヒーターに取り付けて暖房効果を高めるアイデア商品が注目を集めています。光熱費を削減できる冬の節電対策として関心が高まっています。",
+          "source": "Wales Online",
+          "url": "https://www.walesonline.co.uk/whats-on/shopping/radiator-fans-cut-energy-costs-34737707"
+        }
+      ]
+    },
+    {
+      "keyword": "the popinjay cavalier",
+      "reason_ja": "タランティーノ監督のウエストエンド新作舞台にサシャ・バロン・コーエンが出演することが発表されました。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "West End tickets",
+        "theatre tickets London"
+      ],
+      "product_keywords_ja": [
+        "ロンドン 観劇 チケット",
+        "演劇 チケット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "タランティーノ監督の舞台にコーエン氏が出演へ",
+          "summary_ja": "著名映画監督が手掛けるロンドン・ウエストエンドの新作舞台に主演することが発表されました。豪華なタッグによる舞台制作に大きな期待が寄せられています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo"
+        },
+        {
+          "title_ja": "サシャ・バロン・コーエンが新作舞台に出演決定",
+          "summary_ja": "ウエストエンドの劇場へ出演することが明らかになりました。演劇ファンの間で早くもチケットや公演への関心が高まっています。",
+          "source": "WhatsOnStage",
+          "url": "https://www.whatsonstage.com/news/quentin-tarantinos-the-popinjay-cavalier-announces-west-end-plans-and-initial-star-casting_1734816/"
+        }
+      ]
+    }
+  ]
+}

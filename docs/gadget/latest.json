@@ -1,319 +1,328 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T15:37:14+09:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T15:41:01+09:00",
   "stories": [
     {
-      "title_ja": "オッポがFind X10を発表へ、2億画素の3眼カメラを搭載",
-      "summary_ja": "オッポ（OPPO）はフラッグシップスマートフォン「Find X10」シリーズを10月21日に発表する。上位モデルにはハッセルブラッド監修の2億画素カメラを3基備えるほか、8000mAhの大容量バッテリーを内蔵する。",
-      "source": "Tech Observer Magazine",
-      "url": "https://techobserver.in/news/gadget/oppo-find-x10-series-launch-triple-200mp-cameras-329877/?amp",
-      "score": 80,
+      "title_ja": "Appleの家庭用ハブ「HomeView」、A18搭載で11月出荷か",
+      "summary_ja": "アップルが開発を進めているスマートホームハブの名称が「HomeView」になると報じられた。A18チップを搭載し、壁掛けに対応したモデルも用意される見通しだ。10月13日の発表会で披露され、11月に出荷が始まるとみられている。",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/news/20261012-apple-smart-home-homeview/",
+      "score": 88,
       "commercial_score": 80,
       "product_keywords": [
-        "OPPO",
-        "Find",
-        "スマートフォン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ゼンハイザーが4年ぶりの最上位ワイヤレスヘッドホンを発売",
-      "summary_ja": "ゼンハイザー（Sennheiser）の高級ワイヤレスヘッドホン「MOMENTUM 5 Wireless」が登場した。音質や装着性に加え、長距離移動でも役立つ強力なノイズキャンセリング性能を備えている。",
-      "source": "The AU Review",
-      "url": "https://www.theaureview.com/technology/sennheiser-momentum-5-wireless-review-four-years-later-was-the-wait-worth-it/",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ゼンハイザー",
-        "MOMENTUM",
-        "ワイヤレスヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "華為がスマホの操作感を取り入れた大型スマートテレビを発表",
-      "summary_ja": "中国の華為（Huawei）は、最新のスマートテレビ「MateTV 2」シリーズを発表した。巨大スクリーンスマホというコンセプトを受け継いでおり、最新OSの「HarmonyOS 7」を搭載している。",
-      "source": "www.baixingjd.com",
-      "url": "https://www.baixingjd.com/2026/1010/10_116674.html",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Huawei",
-        "スマートテレビ",
-        "液晶テレビ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "OnePlusが最新プロセッサを積んだフラッグシップ機を発表へ",
-      "summary_ja": "一加（OnePlus）は、新型スマートフォン「OnePlus 16」を10月12日に発表する。最新のSnapdragonプロセッサをいち早く搭載し、ゲーム処理性能を強化した専用エンジンを備える。",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8x7DPwesp6v",
-      "score": 80,
-      "commercial_score": 80,
-      "product_keywords": [
-        "OnePlus",
-        "Snapdragon",
-        "スマートフォン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "アマゾンがちいかわ版を含む新型キッズタブレットを国内発売",
-      "summary_ja": "アマゾンは日本国内向けに新しいキッズ向けタブレットを発売した。Google Playに対応するほか、人気キャラクター「ちいかわ」とコラボレーションしたモデルもラインナップされている。",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/10/10/5572.html",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Amazon",
-        "キッズタブレット",
-        "ちいかわ"
+        "Apple スマートホーム",
+        "HomeView"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "小米が巻き取り式ケーブルを備えた大容量モバイルバッテリーを発売",
-      "summary_ja": "中国の小米（Xiaomi）は、巻き取り式USB-Cケーブルを内蔵した容量1万mAhのモバイルバッテリーを発表した。最大55Wの急速充電や3台同時給電に対応し、バッテリー事故を防ぐ安全保護性能も高められている。",
+      "title_ja": "アンカーが超大型電源を発売、5kWh容量で99分フル充電",
+      "summary_ja": "アンカー（Anker）が大容量ポータブル電源「SOLIX S5000」を発表した。容量約5kWhのリン酸鉄リチウムイオン電池を備え、わずか99分で満充電できる。定格出力は4500Wで、別売バッテリーにより最大30kWhまで拡張できる。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Xiaomi-launches-safer-10-000mAh-power-bank-with-55W-fast-charging-and-retractable-cable.1421018.0.html",
-      "score": 75,
-      "commercial_score": 90,
+      "url": "https://www.notebookcheck.net/Anker-launches-SOLIX-S5000-power-station-with-a-5kWh-battery-that-fully-recharges-in-99-minutes.1421629.0.html",
+      "score": 84,
+      "commercial_score": 95,
       "product_keywords": [
-        "Xiaomi",
-        "モバイルバッテリー",
-        "急速充電"
+        "Anker ポータブル電源",
+        "SOLIX",
+        "アンカー 電源"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "アップルが廉価版MacBook Proを刷新する見通し",
-      "summary_ja": "米アップル（Apple）が次世代の「M7」チップを搭載するエントリー向けMacBook Proのデザイン刷新を計画している。報道によると、従来想定されていたよりも早い時期に新設計へ移行する可能性がある。",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/",
-      "score": 75,
-      "commercial_score": 75,
+      "title_ja": "初の折りたたみ「iPhone Duo」、展示は多数も在庫は品薄か",
+      "summary_ja": "アップル初の折りたたみ型となる「iPhone Duo」の展示機が直営店などに大量に配備される。一方で生産の遅れから初期の在庫は厳しく、発売後もしばらく品薄が続くとみられる。店頭で体験してからすぐに入手するのは難しい可能性がある。",
+      "source": "ゴリミー",
+      "url": "https://gori.me/apple/apple-news/171160",
+      "score": 82,
+      "commercial_score": 85,
       "product_keywords": [
-        "Apple",
-        "MacBook Pro",
-        "MacBook"
+        "iPhone Duo",
+        "折りたたみ iPhone"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "京東方とOnePlusが共同開発の第4世代ディスプレーを発表",
-      "summary_ja": "ディスプレー大手の京東方（BOE）と一加（OnePlus）は、共同開発した「第4世代東方スクリーン」を発表した。動きの滑らかさを高める技術を量産化し、今後のスマートフォンなどに採用される見込みだ。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-09/detail-iniurrui7837751.d.html?oid=%E9%A6%99%E6%B8%AF%E5%A4%AA%E5%AD%90%E7%BA%A6%E7%82%AEf68k69%E7%A7%81%E5%AF%86%E6%80%A7%E5%A5%BD&vt=4&cid=76993&node_id=76993",
-      "score": 75,
+      "title_ja": "ソニー、空間音響規格に対応したスマホ用マイクを発表",
+      "summary_ja": "ソニーがスマートフォン向け外付けマイク「ECM-AX10」を発表した。スマホ用として世界で初めて「Eclipsa Audio」規格の認証を取得している。4基の無指向性マイクを内蔵し、臨場感のある多方向からの集音に対応する。",
+      "source": "GadgetMatch",
+      "url": "https://www.gadgetmatch.com/sony-unveils-worlds-1st-eclipsa-audio-certified-microphone-for-smartphones/",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ソニー マイク",
+        "ECM-AX10",
+        "スマホ用 外付けマイク"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Appleが今週の新製品発表を予告、iPhone以外の新領域か",
+      "summary_ja": "アップルが今週中に新製品の発表イベントを開催することを公式に認めた。今回の発表は主力のiPhoneシリーズとは異なる新たな製品分野になると予想されている。完全に新しいラインアップが登場する見通しで注目されている。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/tech/apple-home-event-launch-date-37755802.amp",
+      "score": 82,
       "commercial_score": 70,
       "product_keywords": [
-        "OnePlus",
-        "BOE",
-        "スマートフォン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "紅魔が水冷冷却機構とLEDを備えたゲーム特化スマホを発表へ",
-      "summary_ja": "ゲーミングブランドの紅魔（REDMAGIC）は、最新スマートフォン「紅魔12 Pro+」を10月15日に発表する。業界初となるRGB LED付きの水冷冷却システムを搭載し、高い放熱性能を実現している。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/tech/2026-10-10/detail-iniutqmf2094721.d.html?vt=4&wm=4007,4007,4007,4007////?vt",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "REDMAGIC",
-        "ゲーミングスマホ",
-        "水冷"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "MSIがRTX Spark搭載のAIノートPCの予約受付を開始",
-      "summary_ja": "MSIは1ペタフロップスのAI性能をうたうノートPC「Prestige N16 Flip AI+」の予約受付を開始した。米NVIDIAのRTX Spark N1Xや128GBメモリを搭載し、価格は3299ドルとなっている。",
-      "source": "https://tech-insider.org/",
-      "url": "https://tech-insider.org/msi-prestige-n16-flip-ai-rtx-spark-launch-2026/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "MSI",
-        "Prestige",
-        "RTX"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "CMFが牛乳パック風デザインの携帯スピーカーを10月12日に投入へ",
-      "summary_ja": "CMFはポータブルBluetoothスピーカー2機種を10月12日に発売する見込みだ。牛乳パックを連想させる独特なデザインが特徴で、販売価格は80ドルから120ドル程度になると伝えられている。",
-      "source": "Gagadget.com",
-      "url": "https://gagadget.com/en/729538-cmfs-milk-carton-speakers-launch-october-12-reportedly-for-80-120/",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "CMF",
-        "Bluetoothスピーカー",
-        "ポータブルスピーカー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "iQOOの小型ゲーミングタブレットの仕様が判明、冷却ファンを内蔵",
-      "summary_ja": "iQOOの新型ゲーミングタブレット「iQOO Pad Pro」の仕様が明らかになった。8.8インチ画面と重さ298グラムの小型ボディに冷却ファンや専用チップを搭載し、66Wの急速充電に対応する。",
-      "source": "cambuy.tw",
-      "url": "https://www.cambuy.tw/1709/iqoo-pad-pro-design-revealed-with-8-8-inch-display-snapdragon-8-elite-gen-5/",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "iQOO",
-        "ゲーミングタブレット",
-        "タブレット"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "水月雨がUSB-C接続にも対応した有線イヤホン新製品を発売",
-      "summary_ja": "オーディオブランドの水月雨（Moondrop）が新作イヤホン「Starfield 3」を約150ドルで発売した。ウッドドーム採用ドライバーなどの2基構成で、3.5mmや4.4mmに加えてUSB-Cプラグにも対応する。",
-      "source": "MyChooz.com",
-      "url": "https://mychooz.com/en/news/new-moondrop-starfield-3-193723",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "水月雨",
-        "Moondrop",
-        "有線イヤホン"
+        "Apple 新製品"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "アップルがiPhone 11 Proを公式のヴィンテージ製品に追加",
-      "summary_ja": "米アップル（Apple）は、「iPhone 11 Pro」および「iPhone 11 Pro Max」を公式サイトのヴィンテージ製品リストに加えた。発売から一定期間が経過した旧機種としてサポート方針が変更される。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-10/detail-iniutyze0587508.d.html?vt=4&cid=76993&node_id=76993",
-      "score": 70,
-      "commercial_score": 65,
+      "title_ja": "華為の新ブランド「星芒」、第1弾スマホが10月末登場か",
+      "summary_ja": "華為（Huawei）が新たなスマートフォン向けブランド「星芒」を投入するとの情報が広がっている。中低価格帯の高コストパフォーマンス市場を狙い、10月末にも最初の機種が登場する可能性があるとされる。上位モデルには独自のKirin 9系チップが搭載される見込みだ。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1086551558_115831",
+      "score": 82,
+      "commercial_score": 80,
       "product_keywords": [
-        "Apple",
-        "iPhone 11 Pro",
-        "iPhone"
+        "Huawei スマホ",
+        "ファーウェイ スマートフォン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "栄耀が新型スマホや小型タブレットを今月中に発表する見通し",
-      "summary_ja": "中国の栄耀（Honor）が、新シリーズのスマートフォン「WIN 2」や小型タブレットを今月中に発表すると伝えられている。従来機の製品設計を受け継ぎ、性能を向上させたモデルになる見通しだ。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-09/detail-iniurmnf2887299.d.html?vt=4&cid=76993&node_id=76993",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Honor",
-        "栄耀",
-        "タブレット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "慶洋エンジニアリングがスマホ転送対応の低価格デジカメを発売",
-      "summary_ja": "慶洋エンジニアリングは、チルト式液晶やWi-Fi機能を備えたデジタルカメラ「AN-DC006」を発売した。スマートフォンへの画像転送に対応しており、1万円台前半の手頃な実売価格で購入できる。",
-      "source": "GetNavi web",
-      "url": "https://getnavi.jp/gadgets/1117226/",
-      "score": 65,
+      "title_ja": "サムスン、薄型化したGalaxy Z Fold8など最新折りたたみ機",
+      "summary_ja": "サムスンの折りたたみスマートフォン最新世代となる「Galaxy Z Fold8」シリーズの外観が公開された。横折りの通常版と上位モデル「Ultra」、縦折りの「Flip8」の3機種が揃う。薄型化されたボディにシリーズ8世代分の改良が凝縮されている。",
+      "source": "au Webポータル",
+      "url": "https://article.auone.jp/1e991c0b-dc8a-4556-82be-cd7ef1e1d6a9",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "AN-DC006",
-        "デジタルカメラ",
-        "慶洋エンジニアリング"
+        "Galaxy Z Fold8",
+        "Galaxy Z Flip8",
+        "サムスン 折りたたみ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "FiiOが手頃な平面磁界駆動型ヘッドホンJT9を投入",
-      "summary_ja": "FiiOの「JadeAudio JT9」は、160ドルという手頃な価格帯の平面磁界駆動型ヘッドホンだ。豊かな低音と広い音場を実現しており、コストパフォーマンスの高い選択肢として評価されている。",
-      "source": "eCoustics",
-      "url": "https://www.ecoustics.com/reviews/fiio-jadeaudio-jt9-planar-headphones/",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "FiiO",
-        "JadeAudio",
-        "平面磁界ヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ASUSがAndroid親和性を高めた新ノートPCを投入",
-      "summary_ja": "ASUSの「Googlebook 14」は、新しいChromebook OSを搭載した14インチノートPCだ。Android端末との高い親和性を備えており、日常的な連携を重視するユーザー向けの設計となっている。",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2283081/asus-googlebook-14-review/",
-      "score": 65,
+      "title_ja": "AIエージェント特化の新型スマホ「STEPX Neo」発表へ",
+      "summary_ja": "大規模AIモデルをネイティブ統合したスマートフォン「STEPX Neo」が10月13日に発表される。上海で開催されるイベントで初披露される予定だ。端末内でAIエージェントが動作する新たな形態のデバイスとして関心を集めている。",
+      "source": "智东西",
+      "url": "https://m.zhidx.com/news/43242.html",
+      "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "ASUS",
-        "ノートパソコン",
-        "Chromebook"
+        "AI スマホ",
+        "スマート端末"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "HPが高性能CPUを積んだ14型ビジネスノートを発表",
-      "summary_ja": "米HPの「EliteBook X G2i」は、強力なCPUを搭載した14インチのビジネス向けノートPCだ。高い処理性能に加えてキーボードの使いやすさが評価されており、専門業務を行うプロ向けに設計されている。",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/hp-elitebook-x-g2i-14-inch-business-laptop-review",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "HP",
-        "EliteBook",
-        "ビジネスノートPC"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "秋葉原でアスキー主催のゲーミングPC体験イベントが開催",
-      "summary_ja": "アスキー主催の体験型イベント「TOKYO Gaming-PC STREET 9」が秋葉原で開催された。会場には最新のゲーミングガジェットが揃い、機器について学べるミニステージなども行われた。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/441/4441766/",
-      "score": 60,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ゲーミングPC",
-        "ゲーミングデバイス"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "セアボルのAIノイズキャンセリング集音器が秋の割引セールを実施",
-      "summary_ja": "ヒアラブルブランドのセアボルが、AIノイズキャンセリング機能を搭載した集音器シリーズの特別セールを開催する。イヤーカフ型などを対象に、10月13日から10月19日まで最大48%オフで販売される。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19867684?news_ref=search_search",
-      "score": 60,
+      "title_ja": "HPが約700ドルの有機ELノートPC発表、42時間駆動",
+      "summary_ja": "米HPが新型ノートPC「OmniBook 5」を699ドルで発表した。2.5Kの有機ELタッチディスプレイとインテルのCore 7プロセッサを搭載する。最大42時間の長時間バッテリー駆動を実現した点が大きな特徴だ。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/hp-omnibook-5-launch-price-where-to-buy",
+      "score": 78,
       "commercial_score": 90,
       "product_keywords": [
-        "セアボル",
-        "集音器",
-        "イヤーカフ"
+        "HP OmniBook",
+        "HP 有機EL ノートPC"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "レイザー、シナモロール仕様の耳付きワイヤレスヘッドセット",
+      "summary_ja": "ゲーミング機器のレイザー（Razer）がサンリオのシナモロールとコラボしたワイヤレスヘッドセットを発売した。モデル名は「Kraken Kitty V2 BT Cinnamoroll Edition」で、垂れ耳デザインとRGBライティングを特徴とする。Bluetooth接続に対応し、柔らかなぬいぐるみ風の質感に仕上がっている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/razer-cinnamoroll-headset-sanrio-collaboration",
+      "score": 78,
+      "commercial_score": 95,
+      "product_keywords": [
+        "Razer ヘッドセット",
+        "Kraken Kitty",
+        "シナモロール ヘッドホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "オナー、冷却ファン搭載の新型スマホとタブレット予告",
+      "summary_ja": "オナー（Honor）が「WIN2」シリーズのスマートフォンとタブレットを10月21日に発表すると告知した。公開された画像では、背面にRGBライトと冷却ファンを備えた設計が確認できる。タブレット側にも同様に冷却ファンが搭載されている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1086539880_114760",
+      "score": 78,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Honor スマホ",
+        "オナー タブレット"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "iQOOが9000mAh大容量バッテリー搭載スマホを予告",
+      "summary_ja": "中国ブランドのiQOOが新型スマートフォン「iQOO Neo 12」の投入を公表した。前モデルより2割大きい9000mAhの大容量バッテリーを内蔵する。高性能なSnapdragon 8シリーズと185Hz駆動の高速ディスプレイを組み合わせている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/iQOO-officially-confirms-9-000mAh-phone-with-high-end-Snapdragon-chipset.1421438.0.html",
+      "score": 76,
+      "commercial_score": 80,
+      "product_keywords": [
+        "iQOO スマホ",
+        "iQOO Neo"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Googleの画面付き新型Fitbit、外観写真が相次ぎ流出",
+      "summary_ja": "グーグル傘下のFitbitが準備している次世代デバイスの実機写真が再び流出した。従来のスマートウォッチらしい四角いディスプレイを備えていることが確認されている。新モデルの投入が近いとみられ関心が高まっている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/google-fitbit-edge-leaked-photos",
+      "score": 76,
+      "commercial_score": 78,
+      "product_keywords": [
+        "Fitbit スマートウォッチ",
+        "グーグル Fitbit"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ソニーの新型ミドルレンジ「Xperia 10 VIII」の実機を検証",
+      "summary_ja": "ソニーの新しいミドルレンジスマートフォン「Xperia 10 VIII」の実機が登場した。手に取って確かめたサイズ感や使い心地などの印象が報告されている。定番の普及価格帯モデルとして注目を集めている。",
+      "source": "週刊モバイル.com",
+      "url": "https://mobamag.com/phone/xperia-10-viii-first-impression/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Xperia 10 VIII",
+        "ソニー スマホ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "MSI、RTX Sparkと128GBメモリ搭載の16型PC公開",
+      "summary_ja": "エムエスアイ（MSI）がNvidiaの「RTX Spark」を搭載した16インチの高性能ノートPCを公開した。最大128GBという大容量メモリを搭載したモンスターマシンとなっている。マイクロソフトに続き各社がAI対応ハイエンド機の展開を加速させている。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
+      "score": 74,
+      "commercial_score": 85,
+      "product_keywords": [
+        "MSI ゲーミングノート",
+        "MSI ノートPC"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Appleがスマホ写真のAI補正に対抗、暗号署名機能を用意",
+      "summary_ja": "スマートフォンのカメラ写真に対する過度なAI補正への懸念を受け、アップルが暗号署名による新機能を用意している。月を撮影した際に実物以上の詳細がAIで補完される事例などが念頭に置かれている。撮影された写真の証拠能力や信憑性を担保する狙いがある。",
+      "source": "shiritomo",
+      "url": "https://hashout.jp/gadget/12453/",
+      "score": 72,
+      "commercial_score": 35,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エイスース、Core 7搭載のVivobook新モデルを発表",
+      "summary_ja": "エイスース（ASUS）がノートPC「Vivobook S14」および「S16」の新構成を発売した。インテルのCore 7 350プロセッサと16GBメモリ、512GBのストレージを搭載する。16インチモデルには144Hz駆動の画面を備え、最大20時間の駆動が可能となっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Asus-releases-14-and-16-inch-laptops-with-Core-7-350-144Hz-display-and-20-hour-battery.1421436.0.html",
+      "score": 72,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ASUS Vivobook",
+        "Vivobook S14",
+        "Vivobook S16"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "レノボのGooglebook 15実機、有機ELとAI連携を高評価",
+      "summary_ja": "レノボの新型ノートPC「Googlebook 15」の実機レビューが公開された。鮮やかな15.3インチの有機ELディスプレイやAI支援ツール、Androidとの連携機能が評価されている。グーグルの新プラットフォームを生かした使い勝手が特徴とされている。",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/laptops/lenovo-googlebook-15-review",
+      "score": 72,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Lenovo ノートPC",
+        "レノボ ノートパソコン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "華為が6インチ小型スマホを開発中か、画面形態の多様化",
+      "summary_ja": "華為（Huawei）が6インチ画面のコンパクトなスマートフォンを計画していると報じられている。同社はこれまで3つ折り端末など画面形態の開拓を進めてきた。大画面化が進む市場において、小型モデルの新たな選択肢として注目されている。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5970362599_163dc80e701901uozo.html?from=tech",
+      "score": 72,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Huawei 小型スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ベースアス、画面付き10-in-1ドッキングステーション発売",
+      "summary_ja": "周辺機器ブランドのベースアス（Baseus）が新型ドック「Spacemate RD1」を発売した。状態を確認できる小型ディスプレイを備え、最大100Wの急速充電に対応する。2台の4Kモニター出力や6基のUSB端子を備える多機能仕様となっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Baseus-launching-new-10-in-1-dock-with-display-and-dual-4K-monitor-support-to-rival-Anker.1421772.0.html",
+      "score": 70,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Baseus ドッキングステーション",
+        "10-in-1 ドック",
+        "Baseus USBハブ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英で暖房費を22%抑えるラジエーター用小型ファンが注目",
+      "summary_ja": "英国の光熱費上限引き上げを受け、42ポンドのラジエーター用ファンが関心を集めている。温水暖房の熱効率を高めて暖房能力を倍増させるとうたう製品だ。冬のガス代を最大22パーセント抑える節電効果が期待されている。",
+      "source": "Wales Online",
+      "url": "https://www.walesonline.co.uk/whats-on/shopping/radiator-fans-cut-energy-costs-34737707",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ラジエーター ファン",
+        "暖房 節電 グッズ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "サムスン、Galaxy A23 5Gのソフト更新を3年で終了",
+      "summary_ja": "サムスンが2022年発売のミドルレンジ機「Galaxy A23 5G」のソフトウェアサポート終了を発表した。今後のシステム更新やセキュリティパッチの配信が行われなくなる。約3年でのサポート終了に対してユーザーの間で議論が起きている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1086612036_100085330",
+      "score": 68,
+      "commercial_score": 50,
+      "product_keywords": [
+        "Galaxy A23 5G",
+        "サムスン Galaxy"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "セアボルのAI集音器が最大48%引き、イヤーカフ型など全4種",
+      "summary_ja": "スマートヒアラブルブランドのセアボルが、AIノイズキャンセリングを搭載した集音器の秋のセールを実施する。最新のイヤーカフ型「Liberte」など全4モデルが対象となり、最大48パーセント引きとなる。騒がしい環境でも人の声をクリアに届ける音響技術で、シニアの外出や会話を後押しする。",
+      "source": "朝日新聞",
+      "url": "https://www.asahi.com/and/pressrelease/16956486",
+      "score": 62,
+      "commercial_score": 90,
+      "product_keywords": [
+        "セアボル 集音器",
+        "AI 集音器",
+        "イヤーカフ 集音器"
       ],
       "country": "jp",
       "country_label_ja": "日本"

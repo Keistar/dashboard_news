@@ -1,159 +1,246 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T15:43:19+09:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T15:44:04+09:00",
   "stories": [
     {
-      "title_ja": "ダイソンが水拭き掃除機「W1 PencilWash」を米国で発売",
-      "summary_ja": "ダイソン（Dyson）が水拭き掃除機の新モデル「W1 PencilWash + Dok」を349.99ドルで発売した。8万4000本の極細繊維ローラーやマグネット式充電ドックを備え、自動セルフクリーニング機能も搭載している。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy",
-      "score": 85,
+      "title_ja": "シャークが軽量掃除機や初の空気清浄機など新製品を発売",
+      "summary_ja": "アメリカ発の家電ブランドであるシャークから新商品が相次いで登場した。軽さと吸引力を両立させた新作クリーナーに加え、ブランド初となる空気清浄機も展開されている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/walkerplus/life/walkerplus-1437461?page=8",
+      "score": 80,
       "commercial_score": 90,
       "product_keywords": [
-        "ダイソン 水拭き",
-        "Dyson 掃除機"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "マクスゼンが沸騰を確認できるスチーム式加湿器を発売",
-      "summary_ja": "家電ブランドのマクスゼン（MAXZEN）が、水の沸騰を確認できる「スチーム式加湿器 MKS-QD201-GY」を発売した。公式インスタグラムでは発売を記念した抽選キャンペーンが開催されている。",
-      "source": "日本ネット経済新聞",
-      "url": "https://netkeizai.com/articles/detail/20151",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "MAXZEN 加湿器",
-        "スチーム式加湿器"
+        "Shark 掃除機",
+        "Shark 空気清浄機"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英消防責任者がオーブン以上に普及するエアフライヤーの危険を警告",
-      "summary_ja": "英国ではエアフライヤーがオーブンを上回り、キッチンで3番目に広く使われる調理家電となっている。利用が広がる一方で、火災リスクを伴う使い方について消防責任者が警告を発している。",
-      "source": "Belfast Live",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/fire-chief-warns-its-not-34722372",
-      "score": 75,
-      "commercial_score": 55,
+      "title_ja": "ニンジャがエアフライヤーとレンジを融合した多機能調理家電を発表",
+      "summary_ja": "キッチン家電ブランドのニンジャ（Ninja）から「Crispi Microwave」が登場した。エアフライや電子レンジ機能に加えて、ベイクやグリル、温め直しなど多彩な調理に対応する複合モデルとなっている。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/air-fryers/ninja-crispi-microwave-review",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "エアフライヤー",
+        "Ninja 調理家電",
+        "エアフライヤー 電子レンジ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "蘇寧易購が双11商戦を始動しAI家電など千点以上を最大7割引で提供",
+      "summary_ja": "中国の大手家電量販店である蘇寧易購（Suning）が「双11」セールを本格的に開始した。100以上の有力ブランドと連携し、1000点を超えるAI家電新商品などを最大7割引で販売するほか、1年間の新品交換保証や最大100日間の価格保証などを打ち出している。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1086655314_222256",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スマート家電",
+        "AI家電"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "タイガーと象印の2万円台炊飯器を家電プロが徹底比較",
+      "summary_ja": "手頃なモデルから高級機まで揃う炊飯器市場で、タイガー魔法瓶と象印マホービンの2万円台の売れ筋機種が検証された。家電プロレビュアーが白米や玄米の炊き上がりのほか、保温や冷凍時の仕上がりまで食べ比べている。",
+      "source": "PRESIDENT Online（プレジデントオンライン）",
+      "url": "https://president.jp/articles/photo/119681",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "タイガー 炊飯器",
+        "象印 炊飯器"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "シャオミが端まで届く3本のアームを備えた水拭きロボット掃除機を発表",
+      "summary_ja": "シャオミ（Xiaomi）がロボット掃除機「Mijia Robot Vacuum and Mop 7 Max」を発表した。壁際や端の清掃に適した3本のアームと4万5000Paの吸引力を備え、従来モデルの6 Maxよりも手頃な価格設定となっている。",
+      "source": "Gizmochina",
+      "url": "https://www.gizmochina.com/2026/10/12/xiaomi-mijia-robot-vacuum-mop-7-max-launch-specs-price-china/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Xiaomi ロボット掃除機",
+        "ロボット掃除機 水拭き"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "コソリが狭いキッチンや一人暮らし向けの小型エアフライヤーを展開",
+      "summary_ja": "調理家電メーカーのコソリ（Cosori）が、2.1クォート容量の「Cosori Lite」エアフライヤーを展開している。省スペース設計でありながら食材をパリッと仕上げられ、一人暮らしや学生などのコンパクトな台所に適している。",
+      "source": "The Inventory",
+      "url": "https://theinventory.com/cosori-lite-2-1-qt-small-air-fryer-max-400-f-4-in-1-97-less-oil-gray-ideal-for-d-85b4fbae",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "COSORI ノンフライヤー",
+        "コソリ エアフライヤー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "生活家電のVOARがAI湿度調節機能を備えた加熱式加湿器の新機種を発表",
+      "summary_ja": "生活家電ブランドのVOAR（ボアール）が、秋冬シーズンに向けて加熱式加湿器の新型モデル「ダグラスPRO」を発表した。従来機の特徴を継承しつつ人工知能による湿度調節機能を備えており、発売直後に40分で1200台を販売した実績を持つ人気シリーズの強化を図る。",
+      "source": "아시아경제",
+      "url": "https://www.asiae.co.kr/cn/article/2026100814473771330",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "加熱式加湿器",
+        "スチーム式加湿器"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ハイアールが京東でブランド日を開催しAI家電9大新作などを最大半額に",
+      "summary_ja": "大手家電メーカーのハイアール（海爾）が中国ECサイトの京東でスーパーブランドデーを開始した。9つの新しいAI家電製品を揃えるとともに、人気家電を最大5割引で提供し、住宅全体のスマート家電刷新を後押ししている。",
+      "source": "中宏网",
+      "url": "https://www.zhonghongwang.com/show-140-474573-1.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ハイアール 家電",
+        "スマート家電"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "エコバックスのロボット掃除機が政府補助金で値下がり購入機運が高まる",
+      "summary_ja": "エコバックス（科沃斯）のロボット掃除機が、中国の政府補助金や下取り支援によって年間最安値水準に達している。水回り自動給排水対応の「T80S PRO」や「T90 PRO」など、一人暮らしから上位モデルまで用途に応じた機種の選び方が解説されている。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_7879849690_1d5acf6da06801j89a.html?from=digit",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ECOVACS ロボット掃除機",
+        "エコバックス"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "電子レンジや食洗機にも使える無印良品の美濃焼どんぶりが好評",
+      "summary_ja": "無印良品の1490円の「美濃焼 麺鉢」が、使い勝手とおしゃれな見た目で人気を集めている。ラーメンや蕎麦、うどんを盛り付けやすく、電子レンジや食器洗い乾燥機に対応している点も支持されている。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/research/articles/4041562/amp/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "無印良品 麺鉢",
+        "美濃焼 どんぶり"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "パッキンを外さず洗える象印のステンレスマグがお手入れ簡単と好評",
+      "summary_ja": "象印マホービンの水筒「ステンレスマグ SM-VB60」が手入れのしやすさで好評を得ている。パッキンを外さずに洗える構造になっており、優れた保冷力とお手入れの負担軽減を両立している。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19869062?news_ref=search_search",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "象印 シームレスせん",
+        "象印 SM-VB60"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "乾燥機を使わず除湿機で洗濯物を2時間で乾かす部屋干し法が話題に",
+      "summary_ja": "気温が下がる季節に向けて、乾燥機を使わずに室内で洗濯物を手早く乾かす方法が提案されている。除湿機を活用した工夫により、わずか2時間ほどで洗濯物を乾かすことができるという。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/lifestyle/dry-clothes-indoors-just-2-37759661",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "除湿機 衣類乾燥",
+        "部屋干し 除湿機"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "卓上調理家電を使って10分でサーモンをにおいなく仕上げる時短調理法",
+      "summary_ja": "キッチンを汚さずに美味しいサーモンを仕上げる10分間の調理方法が紹介されている。卓上調理家電をうまく使うことで、気になる魚のにおいを抑えつつ手軽に調理できる。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/kitchen-and-household/this-10-minute-method-takes-the-stink-out-of-salmon/",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "エアフライヤー 卓上",
         "ノンフライヤー"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国の美菱が生活シーン重視の冷蔵庫「大白鯨」で買い替え需要を開拓",
-      "summary_ja": "中国の美菱（Meiling）が発売した「大白鯨」冷蔵庫が、買い替え中心の市場でヒットしている。スペック競争から生活シーン重視へとニーズが移る中、実際の利用場面に寄り添った設計が支持を集めている。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1086048667_111100",
-      "score": 75,
+      "title_ja": "デロンギの全自動コーヒーマシン「Rivelia Start」が注目",
+      "summary_ja": "デロンギ（De'Longhi）の全自動コーヒーマシン「Rivelia Start」の使い心地が紹介されている。手軽かつスピーディに本格的なコーヒーを淹れられる全自動マシンとして関心を集めている。",
+      "source": "Ideal Home",
+      "url": "https://www.idealhome.co.uk/all-rooms/coffee/delonghi-rivelia-start-bean-to-cup-coffee-machine-review",
+      "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "冷蔵庫",
-        "大型冷蔵庫"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ビッセルが布製品洗浄機でコードレス対応の新作3機種を発表",
-      "summary_ja": "清掃機器大手のビッセル（BISSELL）が、布製品向けクリーナーのコードレス新製品3機種を同時に発表した。工業デザインの刷新とワイヤレス化を組み合わせ、家庭内の布製品掃除の自由度向上を訴求している。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/2026-10-10/detail-iniutcvr7457165.d.html?vt=4&wm=4007,4007,4007,4007////?vt",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "リンサークリーナー",
-        "ビッセル 掃除機",
-        "BISSELL"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "タイガー魔法瓶が土鍋炊飯器20周年の体験料亭イベントを東京で開催",
-      "summary_ja": "タイガー魔法瓶が土鍋炊飯器の発売20周年を記念し、全国7都市を巡る体験イベントを東京で開催する。初回の仙台会場に続く企画で、炊きたての土鍋ごはんを料亭のような空間で味わえる。",
-      "source": "山陽新聞",
-      "url": "https://www.sanyonews.jp/article/1999861",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "タイガー 土鍋炊飯器",
-        "土鍋炊飯器"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "マーナのコーヒードリッパーがフィルターの折り不要で手軽と好評",
-      "summary_ja": "マーナの「ドリッパー（1〜2杯用）」が、忙しい朝でも手軽にコーヒーを淹れられる道具として支持を集めている。紙フィルターを折らずにセットでき、小窓から抽出の進行を確認できる設計が評価されている。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19868431?news_ref=search_search",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "マーナ ドリッパー",
-        "コーヒードリッパー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英専門家が調理家電の電気代巡る誤解を指摘し効率的な活用を助言",
-      "summary_ja": "英マネー専門家のマーティン・ルイス氏が、調理機器の使用コストを巡る一般的な誤解について指摘した。特定の調理家電は他の選択肢よりも効率的で安く済む場合があると説明している。",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/money/household-bills/martin-lewis-exposes-misnomer-kitchen-37754548",
-      "score": 65,
-      "commercial_score": 45,
-      "product_keywords": [
-        "調理家電",
-        "省エネ家電"
+        "デロンギ 全自動コーヒーマシン",
+        "デロンギ コーヒーメーカー"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "京東が家電新製品の競争変化に対応し「三端融合」で成長支援を強化",
-      "summary_ja": "中国の家電・家具業界が買い替え中心の段階に入り、新製品競争の焦点が初動の注目度集めからオムニチャネルの運営効率へと変化している。京東（JD）は「三端融合」を打ち出し、各ブランドの新製品育成を支援している。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-10/detail-iniututh0582709.d.html?oid=800&vt=4&cid=76993&node_id=76993",
-      "score": 65,
-      "commercial_score": 50,
+      "title_ja": "キッチン家電大手ROBAMのレンジフード27Aシリーズの作動音を実測",
+      "summary_ja": "中国の厨房家電大手ROBAM（老板電器）のレンジフード「27A」シリーズについて、ファンの作動音が検証された。低出力時と中出力時は48デシベル程度と公称通り静かである一方、強火力モードでは公称より13〜18デシベル高い66〜72デシベルに達することが測定されている。",
+      "source": "手机新浪网",
+      "url": "https://www.sina.cn/gc/article/niututc6040633.html",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "レンジフード",
+        "換気扇 掃除"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "スターバックスの黒いロゴマグカップが使いやすさとデザインで人気",
-      "summary_ja": "スターバックスの「ロゴマグブラック355ml」が、シックなデザインと使いやすさで好評を得ている。コーヒーやスープがたっぷり入る容量に加え、持ちやすさや洗いやすさも支持されている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4047053/",
-      "score": 60,
-      "commercial_score": 80,
+      "title_ja": "サーモスの180ミリリットル水筒がちょっとした外出に便利と好評",
+      "summary_ja": "サーモスが展開する小容量の水筒「真空断熱ポケットマグ JOJ-181」が注目されている。容量180ミリリットルと手頃なサイズで、散歩や近所への外出時に少しだけ飲み物を持ち運ぶ用途で使いやすいと評価されている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19869450?news_ref=search_search",
+      "score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "スターバックス マグカップ",
-        "スタバ マグカップ"
+        "サーモス ポケットマグ",
+        "サーモス 180ml"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ハリオの耐熱ガラス製香りマグカップが洗いやすさと形状で好評",
-      "summary_ja": "ハリオ（HARIO）の耐熱ガラス製「香りマグカップ HKM-1T」が、贈り物や普段使いとして人気を集めている。丸みのある形状で香りを楽しみやすく、洗いやすさやデザインの良さが高く評価されている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4049112/amp/",
-      "score": 60,
-      "commercial_score": 80,
+      "title_ja": "米アマゾンでロボット掃除機シャークMatrix Plusがセール",
+      "summary_ja": "米アマゾンでロボット掃除機の「Shark Matrix Plus」が25%割引となるセールが行われている。通常価格から79.80ドル値下げされ、お得に購入できる機会として注目されている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/oct-9-shark-matrix-robot-vacuum-deal",
+      "score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "HARIO 香りマグカップ",
-        "ハリオ 耐熱ガラス"
+        "Shark ロボット掃除機",
+        "Shark Matrix"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

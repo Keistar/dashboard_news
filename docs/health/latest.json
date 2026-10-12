@@ -1,256 +1,239 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T15:56:17+09:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:04:44+09:00",
   "stories": [
     {
-      "title_ja": "英NHS南東部の全18組織でAI皮膚がんトリアージを導入へ",
-      "summary_ja": "イギリスの国民保健サービス（NHS）南東部の全18トラストにおいて、皮膚がん紹介患者をトリアージする自律型医療AIの導入が進められています。NHSの歴史上最大規模の自律型医療AI導入事例になるとされています。",
-      "source": "Andover Advertiser",
-      "url": "https://www.andoveradvertiser.co.uk/news/26616071.ai-skin-cancer-triage-roll-across-18-nhs-trusts/",
-      "score": 86,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "東大など、マウスでアルツハイマー病原因物質の抑制に成功",
-      "summary_ja": "東京大学などの研究グループが、脳の老廃物排出機能を薬で高めることで、アルツハイマー病の原因とされるたんぱく質の蓄積を抑えるマウス実験に成功したと発表しました。新たな治療法の開発につながる成果として期待されています。",
-      "source": "NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57813",
+      "title_ja": "働き盛り世代の体力低下傾向が国の調査で判明",
+      "summary_ja": "国の調査により、子育て世代や働き盛りの男女で体力が低下傾向にあることが分かった。2001年度と比較して30代や40代女性の体力が長期的に低下しており、40代男性も低下がみられる。運動機会の減少などが要因とみられている。",
+      "source": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1131067",
       "score": 85,
-      "commercial_score": 30,
+      "commercial_score": 75,
+      "product_keywords": [
+        "フィットネス器具",
+        "ヨガマット",
+        "ダンベル"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "スマホとスマートウォッチの異OS間連携と選び方を検証",
-      "summary_ja": "華為（ファーウェイ）やvivo、OPPOなどがOSの垣根を越えた連携を進め、スマートフォンと腕時計の組み合わせが広がりを見せています。互換性や健康管理データの同期精度などの視点から、ユーザーの利用環境に応じた選び方が検証されています。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_7879923190_1d5ae15f6068018n0w.html",
+      "title_ja": "グーグルが新型端末Fitbit Edgeを発表へ",
+      "summary_ja": "米グーグル（Google）が新型フィットネストラッカー「Fitbit Edge」の投入を予告した。これまで噂されていた新端末で、10月12日の発表が見込まれている。健康管理や運動記録を行うウェアラブル端末として注目されている。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
       "score": 85,
       "commercial_score": 90,
       "product_keywords": [
-        "Apple Watch",
-        "OPPO Watch",
-        "スマートウォッチ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英NHS初、がんサバイバーの女性へ人工舌の再建手術を実施",
-      "summary_ja": "頭頸部のがんを患った26歳の女性に対し、イギリスの国民保健サービス（NHS）として初となる人工舌の再建治療が行われました。がん治療後の患者の生活の質を高める先進的な医療技術として注目されています。",
-      "source": "London Evening Standard",
-      "url": "https://www.standard.co.uk/news/health/nhs-london-newham-michael-brown-press-b1299960.html",
-      "score": 84,
-      "commercial_score": 15,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ダイエット炭酸飲料でも水と同等の減量効果と米研究",
-      "summary_ja": "2年間にわたる調査の結果、ダイエット炭酸水を飲む人は水を飲む人とほぼ同程度の体重減少を達成したことが示されました。体重の減少に加え、その他の健康指標でも改善が見られたと報告されています。",
-      "source": "NewsNation",
-      "url": "https://www.newsnationnow.com/health/study-no-difference-diet-soda-water-losing-weight/",
-      "score": 82,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ダイエットソーダ",
-        "炭酸水 ゼロカロリー"
+        "スマートウォッチ",
+        "Fitbit",
+        "活動量計"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国当局が日常食品の安全基準50項目を策定し管理を強化",
-      "summary_ja": "中国の国家衛生健康委員会と市場監督管理総局が、パンや菓子、乳たんぱく飲料など日常消費食品に関する食品安全国家基準50項目を公表しました。身近な食品の安全管理と品質基準を強化し、市民の健康的な食生活を支える狙いがあります。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/2026-10-11/detail-iniuuwer5860360.d.html?vt=4&cid=76675&node_id=76675",
+      "title_ja": "認知症予防の期待から帯状疱疹ワクチン需要増",
+      "summary_ja": "英国で帯状疱疹ワクチンの需要が急激に高まっている。発疹を防ぐためのワクチンが高齢期の脳を保護する可能性について、確定的ではないものの有望な兆候が示されたことが背景にある。認知症を防ぎたいと考える人々の関心を集めている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "score": 85,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英NHSが処方箋通知をスマートウォッチに配信",
+      "summary_ja": "英国の国民保健サービス（NHS）が、調剤完了を知らせる通知をスマートフォンやスマートウォッチへ届ける新機能を導入した。薬局で処方箋の受け取りが可能になったタイミングを即座に把握できる。患者の利便性向上につながる施策として歓迎されている。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/news/health/nhs-prescriptions-phone-applewatch-37759597",
       "score": 82,
-      "commercial_score": 60,
-      "product_keywords": [
-        "プロテインドリンク",
-        "低糖質パン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "心拍や睡眠を記録できる角型G-SHOCKが人気に",
-      "summary_ja": "カシオのG-SHOCK「G-SQUAD DW-H5600-1JR」が、タフな定番角型デザインと心拍・睡眠計測機能を兼ね備えているとして注目されています。ソーラー充電対応や日常使いしやすいサイズ感で、運動と普段使いを両立したい層から支持を集めています。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/c25183ffafa9625a88ce8a9fcb898fe9b8918c33",
-      "score": 80,
-      "commercial_score": 95,
-      "product_keywords": [
-        "DW-H5600",
-        "G-SHOCK スマートウォッチ",
-        "G-SQUAD"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "MIND食が脳の老化と灰白質の減少を緩やかにする傾向",
-      "summary_ja": "地中海食などを組み合わせたMIND食が、脳の灰白質の減少を抑えて脳の老化を緩やかにすることに関連しているという研究結果が示されました。どのような食品が脳の健康維持に寄与するのか、関心が高まっています。",
-      "source": "Yahoo Creators",
-      "url": "https://creators.yahoo.com/lifestyle/story/what-is-the-mind-diet-a-study-links-it-to-slower-brain-aging-225628105.html",
-      "score": 80,
       "commercial_score": 70,
       "product_keywords": [
-        "オリーブオイル",
-        "ナッツ 無塩",
-        "MIND食"
+        "スマートウォッチ",
+        "Apple Watch バンド"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "愛犬の睡眠不足は飼い主が原因とする研究結果",
+      "summary_ja": "人間25人と犬38匹に活動量計を取り付けた調査により、夜間の同調した動きは人間側が発端となっていることが多いと分かった。ペットが睡眠を妨げているという飼い主側の不満を覆す結果となっている。愛犬と飼い主双方の睡眠環境を考える研究として関心を集めている。",
+      "source": "VICE",
+      "url": "https://www.vice.com/en/article/your-dog-may-be-losing-sleep-because-of-you-new-study-suggests/",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "犬用ベッド",
+        "ペット用活動量計"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "トランス脂肪酸による血管損傷の危険と日常食品の注意喚起",
-      "summary_ja": "中国の健康啓発情報において、トランス脂肪酸が悪玉コレステロールを増やし善玉コレステロールを減らすことで血管に二重の悪影響を与えるとして注意が促されています。心血管疾患のリスクを高める要因として、日頃の食品選びへの警戒が呼びかけられています。",
+      "title_ja": "上海で科学的体重管理を促す運動イベント開催",
+      "summary_ja": "製薬大手ファイザーの中国法人とフィットネスブランド「24/7 Fitness」が、上海で運動健康イベントを開催した。科学的な体重管理の普及を掲げ、体験型のフィットネスプログラムが展開された。無理なく健康的に体を絞る生活習慣が呼びかけられている。",
       "source": "新浪新闻_手机新浪网",
-      "url": "https://news.sina.cn/2026-10-11/detail-iniuuwer1884627.d.html?vt=4&cid=56261&node_id=56261",
+      "url": "https://news.sina.com.cn/sx/2026-10-12/detail-iniuxmtt8599151.shtml",
       "score": 80,
-      "commercial_score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "トランス脂肪酸フリー",
-        "無添加食品"
+        "トレーニングウェア",
+        "プロテイン",
+        "フィットネスグローブ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "英監視機関、ADHDや自閉症の民間診断クリニックを検査へ",
-      "summary_ja": "イギリスの医療監視機関であるケア・クオリティ・コミッション（CQC）が、ADHDや自閉症の診断評価を提供する規制外クリニックの立ち入り検査を計画しています。診断を待つ多くの人々の受診環境の適正化を図る動きとして注目されています。",
-      "source": "LADbible",
-      "url": "https://www.ladbible.com/news/uk-news/nhs-adhd-autism-appointments-291237-20261010",
-      "score": 79,
-      "commercial_score": 20,
+      "title_ja": "心臓の健康には糖質制限よりも食事の質が重要",
+      "summary_ja": "心臓の健康を守るためには、炭水化物や脂質の制限ではなく食事全体の質が重要であるとする大規模研究が発表された。低糖質か低脂質かという対立よりも、食品の質に配慮することが予防につながると指摘されている。心臓病予防に向けた適切な食べ方が解説されている。",
+      "source": "Verywell Health",
+      "url": "https://www.verywellhealth.com/key-to-heart-health-11990306",
+      "score": 78,
+      "commercial_score": 65,
+      "product_keywords": [
+        "オリーブオイル",
+        "全粒粉",
+        "健康食品"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "AI作成の苦情が英総合診療医の負担を増大",
+      "summary_ja": "患者から寄せられるAI生成の苦情が増加し、英国の総合診療医の負担を限界まで追い詰めていると医療保護協会が警告した。多忙を極める医療現場において、苦情への対応業務が圧迫要因となっている。生成技術の普及が医療現場の負荷につながる事例として懸念されている。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/health/nhs-gp-complaints-ai-procedure-b3064879.html",
+      "score": 78,
+      "commercial_score": 30,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "睡眠学者・柳沢教授が睡眠の誤解や悩み解消法を解説",
-      "summary_ja": "睡眠学者の柳沢正史教授が、最新研究に基づき睡眠に関する思い込みや悩みの解消法を解説した著書が注目を集めています。眠れないことや疲れが取れないといった日常の悩みに向け、科学的な視点から睡眠のヒントを示しています。",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/-/400293",
-      "score": 78,
-      "commercial_score": 75,
+      "title_ja": "筋肉を維持し脂肪燃焼を促す有酸素運動の研究",
+      "summary_ja": "筋肉量を保ちながら脂肪を燃やす有酸素運動に関する新たな研究結果が示された。特定のワークアウトが高齢者の筋力維持と体脂肪減少の両立に役立つ可能性が指摘されている。効果的な運動方法とその意義について分析されている。",
+      "source": "Verywell Health",
+      "url": "https://www.verywellhealth.com/top-cardio-for-burning-fat-without-losing-muscle-12011011",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
-        "柳沢正史 睡眠の正解",
-        "睡眠本",
-        "快眠グッズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "気分を高めるのに必要な運動量はわずかでよいとする研究結果",
-      "summary_ja": "現代人の多くが一日の82%を動かずに過ごしているなか、気分を上向かせるために必要な運動量は驚くほど少量で足りるという研究結果が示されました。日常の小さな動作の変化がメンタルヘルスに良い影響をもたらすとされています。",
-      "source": "Yahoo Health",
-      "url": "https://health.yahoo.com/wellness/fitness/exercise/articles/study-reveals-surprisingly-small-amount-173000277.html",
-      "score": 78,
-      "commercial_score": 55,
-      "product_keywords": [
-        "ステッパー",
+        "エアロバイク",
         "ウォーキングマシン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "重慶市が公園フィットネス地図を更新、3900超の施設を検索可能に",
-      "summary_ja": "重慶市都市管理局が公園のスポーツ・フィットネスマップを更新し、849カ所の会場と3933組の屋外運動器具を簡単に検索できるようになりました。市民が近所で球技や運動器具を利用しやすくし、健康づくりの習慣化を後押ししています。",
-      "source": "新浪新闻",
-      "url": "https://news.sina.com.cn/zx/gj/2026-10-10/doc-iniutcvq0590103.shtml",
-      "score": 78,
-      "commercial_score": 50,
+      "title_ja": "重慶市が身近な運動場849か所の検索機能提供",
+      "summary_ja": "重慶市で都市公園の運動施設を検索できるデジタルマップが整備され、849か所の運動場を一括で調べられるようになった。新たに33か所の運動広場と191基の運動器具が追加されている。市民が自宅の近くで手軽に運動へ親しめる環境づくりが進められている。",
+      "source": "新华网重庆",
+      "url": "https://cq.news.cn/20261012/04fe46e81f554e3886686c4786c6617f/c.html",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "スポーツウェア",
-        "ランニングポーチ"
+        "ランニングシューズ",
+        "スポーツタオル"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "腸内細菌の代謝物が認知症の変性を促す可能性を発見",
-      "summary_ja": "最新の研究により、腸内細菌が作り出す特定の代謝物が脳を保護するバリアを弱め、認知症に関連する神経変性を促す恐れがあることが明らかになりました。腸内環境とアルツハイマー病の関連を示す新たな知見として注目されています。",
-      "source": "WIRED.jp",
-      "url": "https://wired.jp/article/vinculo-entre-las-bacterias-del-intestino-y-el-alzheimer/",
-      "score": 77,
+      "title_ja": "夜遅い食事が肝臓の健康に及ぼす影響を解明",
+      "summary_ja": "米オレゴン健康科学大学の研究チームが、夜遅い時間帯の食事が肝臓の健康に悪影響を及ぼす可能性があることを明らかにした。食事をとるタイミングが生体リズムや臓器に与える影響が示されている。日常の食生活を見直す知見として注目されている。",
+      "source": "KOIN.com",
+      "url": "https://www.koin.com/news/oregon/ohsu-study-finds-late-night-eating-could-impact-liver-health/",
+      "score": 72,
       "commercial_score": 55,
       "product_keywords": [
-        "腸内環境 サプリ",
-        "プロバイオティクス"
+        "夜食",
+        "低カロリー食品"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ワークマンが運動と雨の日に兼用できる防水靴を発売",
-      "summary_ja": "ワークマンから、ランニングやウォーキングなどの夜間運動と普段の雨天兼用で使える防水シューズが登場しました。3300円とお手頃で、天候を選ばず運動を続けたい人の足元を支えます。",
+      "title_ja": "エスカレーター歩行の理由と安全性への意識",
+      "summary_ja": "混雑したエスカレーターで片側を歩く人々の理由として、急用や混雑回避のほか健康目的などが挙げられている。一方で、片側に立つ人が長蛇の列になる状況や、歩行による危険性も指摘されている。利用者の体験談をもとに実態がまとめられている。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/3c843d31e4ad83c198c16418ecca5793cce11b0f",
-      "score": 75,
-      "commercial_score": 90,
+      "url": "https://news.yahoo.co.jp/articles/8048096064aa9036949c0b684e42afd5d350a492",
+      "score": 70,
+      "commercial_score": 40,
       "product_keywords": [
-        "ワークマン 防水シューズ",
-        "ランニングシューズ 防水",
         "ウォーキングシューズ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Google HealthアプリでAIコーチ機能を無効化可能に",
-      "summary_ja": "FitbitやPixel Watchで利用されるGoogle Healthアプリには有料版向けのAIコーチ機能が含まれますが、これをオフにする設定が紹介されています。不要な助言通知を受け取りたくないユーザーに向けて手順が解説されています。",
-      "source": "Lifehacker",
-      "url": "https://lifehacker.com/health/how-to-turn-off-the-ai-coach-in-the-google-health-app",
-      "score": 75,
-      "commercial_score": 65,
+      "title_ja": "英国の40代で健康診断の未受診が懸念される",
+      "summary_ja": "インペリアル・カレッジ・ロンドンの研究チームが、健康診断の対象となる約92万人の記録を調査した。その結果、40代における受診率の低さが懸念材料として浮き彫りになった。生活習慣病などの早期発見に向け、受診機会の確保が課題とされている。",
+      "source": "Pharmafile",
+      "url": "https://pharmafile.com/features/fortysomethings-non-attendance-at-nhs-health-checks-raises-concerns-says-study/",
+      "score": 70,
+      "commercial_score": 45,
       "product_keywords": [
-        "Pixel Watch",
-        "Fitbit"
+        "血圧計",
+        "体重体組成計"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英NHSトラストが心の支援を受けやすくする新サイトを開設",
-      "summary_ja": "イギリスのハンバー・ティーチングNHSトラストが、メンタルヘルス支援サービスへのアクセスを容易にする新しいウェブサイトを立ち上げました。支援を求める利用者が適切な窓口を見つけやすくすることを目指しています。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyvj82xq4jo",
-      "score": 75,
-      "commercial_score": 20,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "フィットネス専門家が高強度インターバル運動の頻度を解説",
-      "summary_ja": "フィットネスの専門家らが、短時間で負荷をかける高強度インターバルトレーニング（HIIT）の適切な頻度や必要性について解説しています。過度な運動による負担を避けつつ、日常の運動へ無理なく取り入れる方法が提案されています。",
-      "source": "Health.com",
-      "url": "https://www.health.com/do-you-really-need-hiit-12060420",
-      "score": 73,
-      "commercial_score": 60,
+      "title_ja": "商業施設で睡眠や心の健康を相談できる催し",
+      "summary_ja": "商業施設内に特設ブースを設置し、心の健康をサポートする体験型イベントが開かれた。複数の病院や地域医療機関から医師が参加し、市民の睡眠障害や健康上の悩みに無料で対応した。買い物のついでに気軽に健康相談ができる試みとして実施された。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1086681122_121443915",
+      "score": 70,
+      "commercial_score": 65,
       "product_keywords": [
-        "トレーニングマット",
-        "フィットネストラッカー"
+        "安眠枕",
+        "アロマディフューザー",
+        "アイマスク"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "福岡の医師らが小中学生の睡眠と生活改善を調査",
-      "summary_ja": "福岡県の研究者や医師のチームが、太宰府市内の小中学生を対象に睡眠状況の調査を行っています。子どもの睡眠リズムを把握・分析し、生活習慣の改善につなげる「眠育」の取り組みが進められています。",
-      "source": "西日本新聞me",
-      "url": "https://www.nishinippon.co.jp/item/1547829/",
-      "score": 72,
-      "commercial_score": 40,
+      "title_ja": "湘江新区で74チームが参加する市民運動会",
+      "summary_ja": "湖南省の洋湖体育公園で全民フィットネス運動会が開幕し、74チームが参加した。地域コミュニティの健康増進を目的として開催されている。住民が気軽に参加して体を動かすスポーツイベントとして親しまれている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1086612190_392415",
+      "score": 68,
+      "commercial_score": 55,
       "product_keywords": [
-        "目覚まし時計",
-        "快眠枕 ジュニア"
+        "縄跳び",
+        "スポーツボトル"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "運動会でロボットが園児と一緒に準備運動",
+      "summary_ja": "山梨県南アルプス市の公園で保育園の運動会が開催された。会場ではロボットのまーちゃんが登場し、園児たちと一緒に準備運動を行った。子どもたちが大喜びしながら体を動かす様子が報じられている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/ce5c28a7a0c02bdb0ae3bedfaf0a68713e5e183d",
+      "score": 65,
+      "commercial_score": 50,
+      "product_keywords": [
+        "子ども スニーカー",
+        "体操服"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "広島市でパルクールや鬼ごっこの運動体験",
+      "summary_ja": "スポーツの日に合わせ、広島市の県立総合体育館で家族向けの運動イベントが開催された。体を動かす楽しさを知ってもらう目的で、パルクールや鬼ごっこなどのプログラムが実施された。多くの家族連れが集まり汗を流した。",
+      "source": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3005463?page=2",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "スポーツウェア",
+        "キッズスニーカー"
       ],
       "country": "jp",
       "country_label_ja": "日本"

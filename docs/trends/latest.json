@@ -1,95 +1,325 @@
 {
   "feed": "trends",
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T16:16:25+09:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:24:03+09:00",
   "trends": [
     {
       "keyword": "プライム感謝祭",
-      "reason_ja": "大手通販サイトの大型セール開催が近づき注目を集めています。",
+      "reason_ja": "Amazonがプライム会員向けの大規模セール開催を発表し話題になっています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
         "プライム感謝祭",
-        "セール"
+        "Amazon"
       ],
       "product_keywords_ja": [
-        "セール",
-        "ポイント還元"
+        "Amazon",
+        "セール"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プライム感謝祭の開催情報や目玉商品",
-          "summary_ja": "大型セールに向けて開催日程や目玉商品の情報がまとめられています。ポイント還元キャンペーンやお得な利用方法などが詳しく紹介されています。",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/amazon-prime-big-deal-days-2026-start-date/blt7ffb3aac3b784046"
+          "title_ja": "Amazonプライム感謝祭の攻略法と目玉商品",
+          "summary_ja": "プライム会員向けの大規模セールであるプライム感謝祭の開催が近づき注目を集めています。目玉商品のカテゴリーや損をしないための攻略法が紹介されています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/expert/articles/c6c390f0b233e3c6d9518dcf9725671207fe58af"
         },
         {
-          "title_ja": "感謝祭セールで注目のおすすめ商品",
-          "summary_ja": "先行セールの開始を前に、おすすめの注目アイテムが選定されています。過去のセールで実際に人気を集めた製品を中心におすすめが紹介されています。",
-          "source": "360LiFE",
-          "url": "https://360life.shinyusha.co.jp/articles/-/56412"
+          "title_ja": "プライム感謝祭に備える還元策や支払特典",
+          "summary_ja": "大規模セールに向けてポイント還元や支払い特典の準備が呼びかけられています。人気ブランドや話題の商品など多数のアイテムがお買い得価格で提供されます。",
+          "source": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2147030.html"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Dyson W1",
-      "reason_ja": "ダイソンが自動洗浄ドックを備えた新型水拭き掃除機を発表し話題です。",
-      "genre": "kaji",
-      "commercial_score": 90,
+      "keyword": "リップモンスター",
+      "reason_ja": "ケイトの人気リップシリーズから高保湿タイプの新作が登場し注目を集めています。",
+      "genre": "beauty",
+      "commercial_score": 95,
       "product_keywords": [
-        "Dyson W1 PencilWash",
-        "Dyson floor cleaner"
+        "リップモンスター",
+        "ケイト"
       ],
       "product_keywords_ja": [
-        "ダイソン",
-        "水拭き掃除機"
+        "リップモンスター",
+        "KATE 口紅"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "ダイソンから自動洗浄ドック付き水拭き機",
-          "summary_ja": "大手家電メーカーから高性能な水拭き床用クリーナーが発売されました。マグネット充電ドックとブラシの自動セルフクリーニング機能を備えています。",
+          "title_ja": "リップモンスターに高保湿な新シリーズが登場",
+          "summary_ja": "人気口紅シリーズから高保湿タイプの新作が発売されます。色持ちの良さに加えてクリーミーな質感とうるおい感が追求されています。",
+          "source": "WWDJAPAN",
+          "url": "https://www.wwdjapan.com/articles/2524652"
+        },
+        {
+          "title_ja": "高保湿なリップモンスターQが順次展開へ",
+          "summary_ja": "落ちにくさと美しい発色を維持しながらしっとり感が続く新リップが登場します。店頭とウェブでの展開開始に向けて注目が集まっています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/b418f4b34a1ad66da8d84c5a5bbfb353325ff033?source=rss"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Prime Day Deals",
+      "reason_ja": "秋のプライムデーセールでアウトドア用品や手頃なガジェットがお買い得となっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Prime Day deals",
+        "camping gear sale"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "アウトドア セール"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライムデーのアウトドア用品セールが活況",
+          "summary_ja": "セールにてポータブル電源やクーラーボックスなどのアウトドア用品が特価で販売されています。注目のブランド製品が大幅割引となっています。",
           "source": "Mashable",
-          "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy"
+          "url": "https://mashable.com/life/best-october-prime-day-outdoor-deals-live-2026"
+        },
+        {
+          "title_ja": "手頃な価格帯のイヤホンやギアが人気に",
+          "summary_ja": "予算を抑えて購入できる端末やワイヤレスイヤホン、美容グッズなどが特集されています。手軽に買えるお買い得品に多くの関心が集まっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-october-prime-day-under-50-live-deals-2026"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Bose QuietComfort",
-      "reason_ja": "ボーズの高性能ノイズキャンセリングヘッドホンが過去最安値水準となり人気です。",
+      "keyword": "霸王茶姬",
+      "reason_ja": "人気ミルクティーチェーンの買一送一キャンペーンに注文が殺到しアプリがダウンしました。",
+      "genre": "food",
+      "commercial_score": 95,
+      "product_keywords": [
+        "霸王茶姬",
+        "奶茶"
+      ],
+      "product_keywords_ja": [
+        "中国茶",
+        "ミルクティー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "霸王茶姫の注文殺到でアプリが一時ダウン",
+          "summary_ja": "人気ティースタンドの買一送一キャンペーンに注文が殺到しシステム障害が発生しました。店頭での注文停止や待ち行列ができるほどの過熱ぶりとなりました。",
+          "source": "东方财富",
+          "url": "https://finance.eastmoney.com/a/202610123892574154.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "ポータブル電源",
+      "reason_ja": "車中泊人気やセールの開催に伴いポータブル電源や車載充電機器への関心が高まっています。",
       "genre": "gadget",
       "commercial_score": 90,
       "product_keywords": [
-        "Bose QuietComfort Ultra",
-        "Bose headphones"
+        "ポータブル電源",
+        "走行充電器"
       ],
       "product_keywords_ja": [
-        "Bose",
-        "ノイズキャンセリングヘッドホン"
+        "ポータブル電源",
+        "車中泊"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "高機能ヘッドホンが大型セールで最安値に",
-          "summary_ja": "人気オーディオブランドの高性能ヘッドホンがセールに合わせて大幅に値下げされました。過去最安値の水準で手に入る機会として購入者の関心を集めています。",
+          "title_ja": "EcoFlowの走行充電器がタイムセールで特価",
+          "summary_ja": "ポータブル電源ブランドの高性能走行充電器がタイムセールに登場しました。自動車の走行中に急速充電できる専用機器として関心を集めています。",
+          "source": "Jetstream",
+          "url": "https://jetstream.blog/2026/10/12/ecoflow-alternator-charger-600-amazon-timesale-20261012/"
+        },
+        {
+          "title_ja": "車中泊での小容量ポータブル電源の注意点",
+          "summary_ja": "軽自動車での車中泊生活における電源確保の体験談が公開されています。限られた車内空間で快適に過ごすための電源選びのポイントが語られています。",
+          "source": "www.motomegane.com",
+          "url": "https://www.motomegane.com/car_news/play-with-cars/sleeping/dr_over19month-vanlife-item_20261012"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "ヒートテック",
+      "reason_ja": "肌寒くなる季節に合わせてユニクロが最新のヒートテックや防寒アイテムを展開しています。",
+      "genre": "other",
+      "commercial_score": 90,
+      "product_keywords": [
+        "ヒートテック",
+        "ユニクロ"
+      ],
+      "product_keywords_ja": [
+        "ヒートテック",
+        "防寒インナー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ユニクロが暖かさを進化させたヒートテック新作",
+          "summary_ja": "機能性インナーが暖かさとおしゃれさを高めた最新コレクションを展開しています。新CMの放映開始とともに秋冬の防寒対策として関心が高まっています。",
+          "source": "@DIME アットダイム",
+          "url": "https://dime.jp/genre/2160809/"
+        },
+        {
+          "title_ja": "ユニクロの冬小物で着こなしを新鮮に更新",
+          "summary_ja": "コートを買い替えずに冬の装いを一新するスタイリング術が提案されています。展示会から手軽に取り入れられる小物が紹介されています。",
+          "source": "mi-mollet（ミモレ）",
+          "url": "https://mi-mollet.com/articles/image/61586?utm_source=headlines.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Anker SOLIX",
+      "reason_ja": "アンカーが大容量かつ急速充電に対応した新型ポータブル電源を発表しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker SOLIX",
+        "portable power station"
+      ],
+      "product_keywords_ja": [
+        "Anker ポータブル電源",
+        "大容量バッテリー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アンカーが車輪付きの大出力ポータブル電源発表",
+          "summary_ja": "車輪付きで持ち運べる大容量の電源装置が発表されました。デュアル電圧出力に対応し待機電力を抑えた設計が特徴となっています。",
+          "source": "pv magazine Global",
+          "url": "https://www.pv-magazine.com/2026/10/12/anker-solix-announces-wheeled-power-station-with-4-5-kw-output/"
+        },
+        {
+          "title_ja": "急速充電対応の大容量電源SOLIXが登場",
+          "summary_ja": "急速満充電が可能な大容量リン酸鉄リチウムポータブル電源が登場しました。追加バッテリーによる拡張性も備えており予約販売が開始されます。",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Anker-launches-SOLIX-S5000-power-station-with-a-5kWh-battery-that-fully-recharges-in-99-minutes.1421629.0.html"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "MacBook Pro OLED",
+      "reason_ja": "有機ELディスプレイやタッチ操作に対応した新型MacBookの発表観測が浮上しています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "MacBook Pro OLED",
+        "Apple laptop"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "有機EL ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "タッチ画面搭載の有機ELマックブックの噂",
+          "summary_ja": "タッチ操作に対応した有機ELディスプレイ搭載ノートPCのリーク情報が話題を呼んでいます。新モデルの仕様に関する期待が急速に高まっています。",
           "source": "Mashable",
-          "url": "https://mashable.com/tech/oct-7-october-prime-day-bose-quietcomfort-ultra-headphones-deal"
+          "url": "https://mashable.com/tech/apple-macbook-pro-ultra-oled-touchscreen-latest-rumors"
+        },
+        {
+          "title_ja": "アップルのノートPC刷新の観測が浮上",
+          "summary_ja": "新型ディスプレイやタッチ操作を採用したプロ向けノートPCの発表が噂されています。秋の新製品展開の一環として大きな注目を集めています。",
+          "source": "Yahoo Tech",
+          "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-change-macbook-pro-touchscreen-180013839.html"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "sony playstation",
+      "reason_ja": "PlayStation 5の価格動向や上位モデルの品薄状況が注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "PS5 console",
+        "PlayStation 5 Pro"
+      ],
+      "product_keywords_ja": [
+        "PlayStation 5",
+        "PS5 本体"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "プレイステーション５の価格推移が話題に",
+          "summary_ja": "発売当初と現在の価格比較が行われ様々な要因による価格上昇が分析されています。ゲーム機市場における値動きに関心が集まっています。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/"
+        },
+        {
+          "title_ja": "ＰＳ５プロの品薄状態の動向を検証",
+          "summary_ja": "上位モデルの品薄傾向が続く中ソニーによる供給改善の取り組みが注目されています。主要販売店での在庫状況について報じられています。",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2278502/playstation-5-pro-shortage-how-long/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
+      "keyword": "内存与手机涨价",
+      "reason_ja": "AI向け需要によるメモリ部品の急騰を受けスマートフォン新機種の一斉値上げが話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "智能手机",
+        "内存条"
+      ],
+      "product_keywords_ja": [
+        "スマートフォン",
+        "メモリモジュール"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ＡＩ需要によるメモリ高騰でスマホ各社が値上げ",
+          "summary_ja": "データセンターの需要拡大に伴いメモリ部品の調達コストが急騰しています。各社が主力スマートフォンの価格を引き上げざるを得ない状況が報じられています。",
+          "source": "虎嗅网",
+          "url": "https://www.huxiu.com/article/4896685.html"
+        },
+        {
+          "title_ja": "記憶素子の原価上昇が新機種の価格設定に波及",
+          "summary_ja": "記憶媒体の価格が高騰を続け新型スマートフォンへのコスト転嫁が進んでいます。部品仕様の変更などメーカー側の苦心した対応が伝えられています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261012/49789455.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
       "keyword": "大闸蟹",
-      "reason_ja": "秋の上海蟹が豊作と天候要因により価格が大幅下落し話題です。",
+      "reason_ja": "秋の旬を迎えた上海蟹が豊作により手頃な価格帯で出回り消費者の関心を集めています。",
       "genre": "food",
       "commercial_score": 90,
       "product_keywords": [
@@ -98,398 +328,270 @@
       ],
       "product_keywords_ja": [
         "上海蟹",
-        "大閘蟹"
+        "生鮮 カニ"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "連休明けに上海蟹の取引価格が大幅下落",
-          "summary_ja": "主産地での天候に恵まれ雨水が十分だったことから上海蟹の生産量が増加しました。出荷量の急増に伴い市場価格が半値近くまで下落しています。",
-          "source": "凤凰网",
-          "url": "https://news.ifeng.com/c/8x8RU6upui2"
-        },
-        {
-          "title_ja": "秋の味覚である上海蟹が市場で値下がり",
-          "summary_ja": "秋の旬を迎えて上海蟹が店頭に並び始めたものの、販売価格の下落傾向が続いています。例年にない価格の低迷に生産者からも戸惑いの声が上がっています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.cn/2026-10-10/detail-iniutyze0668511.d.html?from=wap"
+          "title_ja": "上海蟹が豊作で価格下落し手頃な価格帯に",
+          "summary_ja": "今季の上海蟹は豊作となり十分な供給量により全体的な価格が落ち着いています。スーパー各社では手頃なサイズを中心にお買い得な価格で店頭に並んでいます。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1086670772_161795"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "ポータブル電源",
-      "reason_ja": "ポータブル電源用の走行充電器が大幅な割引価格となり話題になっています。",
-      "genre": "outdoor",
+      "keyword": "Dyson OnTrac",
+      "reason_ja": "ダイソンのノイズキャンセリングヘッドホンが大幅セールとなり話題になっています。",
+      "genre": "gadget",
       "commercial_score": 85,
       "product_keywords": [
-        "ポータブル電源",
-        "EcoFlow"
+        "Dyson OnTrac headphones",
+        "noise cancelling headphones"
       ],
       "product_keywords_ja": [
-        "ポータブル電源",
-        "走行充電器",
-        "EcoFlow"
+        "ダイソン ヘッドホン",
+        "ノイズキャンセリング ヘッドホン"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "ポータブル電源用の高性能走行充電器",
-          "summary_ja": "大手ポータブル電源ブランドの高性能な走行充電器がタイムセールの対象となっています。車からの急速走行充電に対応した製品が大幅な割引価格で提供されています。",
-          "source": "Jetstream",
-          "url": "https://jetstream.blog/2026/10/11/ecoflow-alternator-charger-600-amazon-timesale-20261011/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "土鍋炊飯器",
-      "reason_ja": "土鍋炊飯器の誕生20周年を記念した飲食イベントが開始され注目されています。",
-      "genre": "kaji",
-      "commercial_score": 85,
-      "product_keywords": [
-        "土鍋炊飯器",
-        "タイガー"
-      ],
-      "product_keywords_ja": [
-        "土鍋炊飯器",
-        "炊飯器",
-        "タイガー魔法瓶"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "土鍋炊飯器20周年記念の名店コラボ",
-          "summary_ja": "土鍋炊飯器の誕生を記念し、全国の名店と連携した店舗企画が始まりました。土鍋ごはんの美味しさを広く体験できる機会が提供されています。",
-          "source": "山陽新聞",
-          "url": "https://www.sanyonews.jp/article/2001014"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "mw4 release date",
-      "reason_ja": "新作ゲームの発売日や先行アクセスの詳細が発表され話題を呼んでいます。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "Call of Duty MW4",
-        "Modern Warfare 4"
-      ],
-      "product_keywords_ja": [
-        "コール オブ デューティ",
-        "ゲームソフト"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "人気FPS新作の基地システム解説",
-          "summary_ja": "人気シューティングゲームの新作モードにおける司令拠点の詳細が明かされました。先行アクセスの開始に向けて装備の強化や拠点拡張の仕組みが案内されています。",
-          "source": "Call of Duty® | Best-Selling Video Game Franchise",
-          "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-how-to-play-forward-operating-base-guide"
+          "title_ja": "ダイソンのノイキャンヘッドホンが大幅割引",
+          "summary_ja": "デザイン性の高いダイソンの高級ヘッドホンが大幅な割引価格で販売されています。優れた音響機能と目を引くスタイルが注目されています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/july-28-dyson-ontrac-headphones-deal"
         },
         {
-          "title_ja": "新作ゲームの先行アクセスと最新画像技術",
-          "summary_ja": "人気作のキャンペーンモードにて先行アクセスが開始されることが明らかになりました。最新のフレーム生成技術や超解像技術に対応した滑らかな描写が実現されます。",
-          "source": "NVIDIA",
-          "url": "https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-dlss-4-5-available-october-16/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "CMF Speaker",
-      "reason_ja": "Nothing傘下のブランドから牛乳パック風の新型スピーカーが登場すると噂されています。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "CMF Speaker",
-        "Nothing CMF"
-      ],
-      "product_keywords_ja": [
-        "CMF スピーカー",
-        "ワイヤレススピーカー"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "小型の牛乳パック風スピーカーが発売へ",
-          "summary_ja": "新興ブランドからポータブル仕様の新型Bluetoothスピーカーが発売される見込みです。手頃な価格帯の2種類のモデルが準備されています。",
-          "source": "Gagadget.com",
-          "url": "https://gagadget.com/en/729538-cmfs-milk-carton-speakers-launch-october-12-reportedly-for-80-120/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Air Fryer",
-      "reason_ja": "電気代削減につながるノンフライヤーの活用法がメディアで紹介され注目されています。",
-      "genre": "kaji",
-      "commercial_score": 85,
-      "product_keywords": [
-        "air fryer UK",
-        "air fryer"
-      ],
-      "product_keywords_ja": [
-        "ノンフライヤー",
-        "エアフライヤー"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "調理家電の効率性と電気代に関する助言",
-          "summary_ja": "他の調理設備と比べて小型の加熱調理器具が非常に効率的であると紹介されています。誤った思い込みを見直し賢く使いこなすための助言が話題を呼んでいます。",
-          "source": "Cambridge News",
-          "url": "https://www.cambridge-news.co.uk/news/cost-of-living/martin-lewis-encourages-home-appliance-34742265"
-        },
-        {
-          "title_ja": "より安価に使える調理家電の誤解を解説",
-          "summary_ja": "家庭用調理器具のコストパフォーマンスについて専門家が解説を行いました。従来の方法よりも大幅にエネルギー効率を高められる点が強調されています。",
-          "source": "The Mirror",
-          "url": "https://www.mirror.co.uk/money/household-bills/martin-lewis-exposes-misnomer-kitchen-37754548"
+          "title_ja": "大手ブランドのノイキャンヘッドホンがセールに",
+          "summary_ja": "大手メーカーの人気ノイズキャンセリングヘッドホンのセール情報が紹介されています。各社の注目モデルがお買い得価格で並んでいます。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-early-prime-day-noise-cancelling-headphones-deals-2026"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "低钠盐",
-      "reason_ja": "血圧対策としてカリウム配合の減塩食塩への切り替えが推奨され関心を集めています。",
-      "genre": "health",
+      "keyword": "Radiator Booster",
+      "reason_ja": "光熱費の上昇を受けて暖房効率を高めて節約できる暖房器具用ガジェットが注目されています。",
+      "genre": "kaji",
       "commercial_score": 85,
       "product_keywords": [
-        "低钠盐",
-        "食用盐"
+        "radiator fan booster",
+        "energy saving heater"
       ],
       "product_keywords_ja": [
-        "減塩 塩",
-        "低ナトリウム塩",
-        "やさしお"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "血圧管理のために家庭の食塩見直しを推奨",
-          "summary_ja": "年齢とともに濃い味付けを好む傾向があるなかで、血圧管理のために食塩の見直しが呼びかけられています。家庭での塩分摂取を抑える工夫が紹介されています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.cn/2026-10-10/detail-iniutyyz5948100.d.html?oid=SEO%20do%20Google(TG:e10838).xes&vt=4"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "保温マグカップ",
-      "reason_ja": "温かい飲み物の需要が高まる季節となり保温マグカップが売れ筋となっています。",
-      "genre": "kaji",
-      "commercial_score": 80,
-      "product_keywords": [
-        "保温マグカップ",
-        "サーモス"
-      ],
-      "product_keywords_ja": [
-        "保温マグカップ",
-        "サーモス",
-        "蓋付きマグカップ"
+        "暖房ファン",
+        "省エネ 暖房補助器具"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "秋冬に人気の保温マグカップの選び方",
-          "summary_ja": "温かい飲み物を楽しむのに役立つ保温マグカップの人気製品がまとめられています。保温力や容量に加え、日々の洗いやすさや蓋の有無を重視した製品が支持を集めています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/36995520308f2beea90b3079e5849be8be8b4d12"
+          "title_ja": "暖房効率を高めて光熱費を抑える小型ファンが話題",
+          "summary_ja": "ラジエーターヒーターに取り付けて暖房効果を高めるアイデア商品が注目を集めています。光熱費を削減できる冬の節電対策として関心が高まっています。",
+          "source": "Wales Online",
+          "url": "https://www.walesonline.co.uk/whats-on/shopping/radiator-fans-cut-energy-costs-34737707"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "keyword": "膝关节保护",
-      "reason_ja": "連休中の長距離歩行による膝の不調やサポーター等のケアに関心が高まっています。",
-      "genre": "health",
-      "commercial_score": 80,
+      "keyword": "汉堡王丑椒大皇堡",
+      "reason_ja": "バーガーキングの新作バーガーのタレント起用を巡るネットの反響が大きな話題となっています。",
+      "genre": "food",
+      "commercial_score": 85,
       "product_keywords": [
-        "护膝",
-        "氨糖"
+        "汉堡王",
+        "皇堡"
       ],
       "product_keywords_ja": [
-        "膝サポーター",
-        "グルコサミン"
+        "バーガーキング",
+        "ハンバーガー"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "連休の過度な徒歩観光で膝の痛みが急増",
-          "summary_ja": "大型連休中に長距離を歩き続けたことで、膝の痛みや足の不調を訴えて受診する人が相次いでいます。無理な歩行による関節への負担が浮き彫りになっています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.cn/2026-10-09/detail-iniuqywm3033283.d.html?vt=4"
+          "title_ja": "バーガーキングの新商品起用がネットで話題",
+          "summary_ja": "ファストフード大手による新ハンバーガーの宣伝に起用されたタレントの容姿を巡る反響が広がっています。商品の魅力よりも出演者の話題が先行する珍事となっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261012/49789546.html"
+        },
+        {
+          "title_ja": "飲食チェーンのタレント起用手法に議論広がる",
+          "summary_ja": "新商品プロモーションで話題を集めたものの商品の魅力が伝わりにくかった事例として分析されています。食欲を刺激する本来の訴求手法の重要性が指摘されています。",
+          "source": "虎嗅网",
+          "url": "https://www.huxiu.com/article/4896576.html"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "ai games",
-      "reason_ja": "プロンプトからゲームを自動生成できる新プラットフォームが登場し話題です。",
+      "keyword": "具身智能机器人",
+      "reason_ja": "宇樹科技の創業者がAIモデルの進化と人型ロボットの実用化への見通しを語り反響を呼んでいます。",
       "genre": "ai",
-      "commercial_score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "AI game",
-        "Google Playground"
+        "人型机器人",
+        "四足机器人"
       ],
       "product_keywords_ja": [
-        "AI ゲーム",
-        "ゲーム制作"
+        "人型ロボット",
+        "AIロボット"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人型ロボットの技術転換点が間近と予測",
+          "summary_ja": "ロボット企業の創業者が産業現場での人型ロボット実用化の時期について見解を示しました。先端技術の進展により早期の現場導入が期待されています。",
+          "source": "证券之星",
+          "url": "https://wap.stockstar.com/detail/IG2026101200014067"
+        },
+        {
+          "title_ja": "宇樹科技の創業者がＡＩ進化とロボットを語る",
+          "summary_ja": "工業博覧会にて最新の大規模モデルをロボットに組み込んだ検証結果が明かされました。人工知能の発展を確信し開発を加速させる姿勢が注目を集めています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/stock/t/2026-10-12/doc-iniuxrzn0555597.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "robert downey jr",
+      "reason_ja": "新作映画アベンジャーズのドクター・ドゥーム関連グッズが公開され話題を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Doctor Doom action figure",
+        "Avengers Doomsday merchandise"
+      ],
+      "product_keywords_ja": [
+        "アベンジャーズ フィギュア",
+        "マーベル グッズ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "簡単な文章から自作ゲームを生成可能に",
-          "summary_ja": "簡単な文章を入力するだけで独自のゲームを作成して遊べる新しい環境が公開されました。プログラミングの知識がなくても手軽に制作を楽しめる仕組みとなっています。",
-          "source": "blog.google",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+          "title_ja": "ドゥーム関連グッズが映画館や周辺機器に展開",
+          "summary_ja": "次回作に向けてドクター・ドゥームなどの新グッズコレクションが公開されました。映画館の売店やゲーム周辺機器など幅広い展開が予定されています。",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/doctor-doom-thing-bring-must-235049149.html"
         },
         {
-          "title_ja": "ブラウザ上で3Dゲームを作るAI機能",
-          "summary_ja": "ブラウザ上で手軽に3Dゲームを構築できる新しいAI技術が発表されました。利用量に応じたクレジット方式の料金体系が導入されています。",
-          "source": "ExtremeTech",
-          "url": "https://www.extremetech.com/gaming/unitys-new-in-browser-ai-tool-generates-3d-games"
+          "title_ja": "関連グッズでドクター・ドゥームの呼称判明",
+          "summary_ja": "映画関連グッズ上でキャラクターの新たな別名が明かされました。映画の公開に先駆けてファンの間で注目を集めています。",
+          "source": "The Direct",
+          "url": "https://thedirect.com/article/marvel-robert-downey-jr-doctor-doom-avengers-doomsday-merchandise"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "次抛衣",
-      "reason_ja": "使い捨て感覚の安価な服が流行する一方、肌トラブルなどのリスクが指摘されています。",
-      "genre": "beauty",
-      "commercial_score": 75,
-      "product_keywords": [
-        "一次性衣物",
-        "次抛衣服"
-      ],
-      "product_keywords_ja": [
-        "使い捨て 下着",
-        "トラベルウェア"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "一度着て捨てる安価な服で肌トラブル発生",
-          "summary_ja": "旅行や出張で一度だけ着用して捨てる安価な衣類が人気を集める一方、皮膚の不調を訴える人が出ています。品質や衛生面の潜在的な危険性について医師が注意を呼びかけています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvhur7328570.shtml"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "西西弗书店",
-      "reason_ja": "書店業界が苦境に立つ中、カフェや文具を組み合わせた複合モデルが注目されています。",
-      "genre": "interior",
-      "commercial_score": 70,
-      "product_keywords": [
-        "西西弗书店 文创",
-        "西西弗"
-      ],
-      "product_keywords_ja": [
-        "ブックカフェ",
-        "文房具"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "書店チェーンの多角化による収益構造",
-          "summary_ja": "実店舗の書店が相次いで閉店する厳しい環境の中、独自の経営手法を維持する書店チェーンが注目されています。書籍販売にとどまらない多角的な収益モデルが分析されています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.com.cn/wm/2026-10-11/doc-iniuvhuq0661891.shtml"
-        },
-        {
-          "title_ja": "カフェ併設で読書空間を提供する書店空間",
-          "summary_ja": "併設カフェと書棚を組み合わせ、居心地の良い滞在空間を作り出す書店が話題になっています。買い物の合間にくつろげる環境を提供することで幅広い客層を集めています。",
-          "source": "搜狐网",
-          "url": "https://m.sohu.com/a/1085888006_120914498"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "peppa pig",
-      "reason_ja": "人気子ども向けアニメの特別放送スケジュールが話題になっています。",
+      "keyword": "the popinjay cavalier",
+      "reason_ja": "タランティーノ監督のウエストエンド新作舞台にサシャ・バロン・コーエンが出演することが発表されました。",
       "genre": "other",
       "commercial_score": 65,
       "product_keywords": [
-        "Peppa Pig toys",
-        "Peppa Pig"
+        "West End tickets",
+        "theatre tickets London"
       ],
       "product_keywords_ja": [
-        "ペッパピッグ",
-        "知育玩具"
+        "ロンドン 観劇 チケット",
+        "演劇 チケット"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "人気アニメのフェスティバル回が放送",
-          "summary_ja": "子ども向け専門チャンネルで人気アニメの放送予定が案内されています。おじいちゃんやおばあちゃんと一緒にフェスティバルに出かけるお話が放映されます。",
-          "source": "TVGuide.co.uk",
-          "url": "https://www.tvguide.co.uk/schedule/66415bd4-2649-5e75-a4e8-87c1f1d2461c/peppa-pig"
+          "title_ja": "タランティーノ監督の舞台にコーエン氏が出演へ",
+          "summary_ja": "著名映画監督が手掛けるロンドン・ウエストエンドの新作舞台に主演することが発表されました。豪華なタッグによる舞台制作に大きな期待が寄せられています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo"
+        },
+        {
+          "title_ja": "サシャ・バロン・コーエンが新作舞台に出演決定",
+          "summary_ja": "ウエストエンドの劇場へ出演することが明らかになりました。演劇ファンの間で早くもチケットや公演への関心が高まっています。",
+          "source": "WhatsOnStage",
+          "url": "https://www.whatsonstage.com/news/quentin-tarantinos-the-popinjay-cavalier-announces-west-end-plans-and-initial-star-casting_1734816/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "winter",
-      "reason_ja": "エルニーニョや極渦による寒波と降雪の予報が英国で注目されています。",
-      "genre": "other",
-      "commercial_score": 55,
+      "keyword": "ゴルフ・トーナメント",
+      "reason_ja": "国内女子プロゴルフトーナメントの熱戦や次戦の開幕が話題を集めています。",
+      "genre": "outdoor",
+      "commercial_score": 60,
       "product_keywords": [
-        "winter jacket",
-        "heater UK"
+        "ゴルフ用品",
+        "ゴルフクラブ"
       ],
       "product_keywords_ja": [
-        "防寒着",
-        "ヒーター"
+        "ゴルフクラブ",
+        "ゴルフウェア"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "エルニーニョ発達で英国に降雪の可能性",
-          "summary_ja": "太平洋で発達するエルニーニョ現象が秋冬の英国の気象に影響を与える可能性が指摘されています。ただし厳しい寒さが訪れるかはまだ確定していないと説明されています。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o"
+          "title_ja": "女子プロゴルフのECCレディスが開幕へ",
+          "summary_ja": "国内女子プロゴルフツアーの新たな大会が開幕を迎えようとしています。出場する選手たちの熱戦に期待が寄せられています。",
+          "source": "スポーツナビ",
+          "url": "https://sports.yahoo.co.jp/official/detail/2026101200020-spnaviow"
         },
         {
-          "title_ja": "海水温上昇に伴う厳しい冬への警戒感",
-          "summary_ja": "海水温の急上昇に伴い冬の厳しい気象現象への警戒が呼びかけられています。異常気象の発生頻度が高まる可能性に注目が集まっています。",
-          "source": "London Evening Standard",
-          "url": "https://www.standard.co.uk/news/london/el-nino-weather-winter-polar-vortex-b1300155.html"
+          "title_ja": "女子プロゴルフで岩井明愛が大会新記録で優勝",
+          "summary_ja": "トーナメントの最終日に接戦を制して見事に優勝を果たしました。涙の勝利とともに大会記録を更新した熱戦が報じられています。",
+          "source": "GDOゴルフニュース",
+          "url": "https://news.golfdigest.co.jp/news/jlpga/article/195947/1/"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "taylor fritz",
+      "reason_ja": "上海マスターズでの勝利と使用球に対する率直なコメントが注目を集めています。",
+      "genre": "outdoor",
+      "commercial_score": 55,
+      "product_keywords": [
+        "tennis racket",
+        "tennis balls"
+      ],
+      "product_keywords_ja": [
+        "テニスラケット",
+        "テニスボール"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テニスのフリッツ選手が上海マスターズで勝利",
+          "summary_ja": "上海マスターズで初戦を白星で飾ったものの試合球の扱いに苦戦する様子が報じられました。大会を勝ち進む中で奮闘を続けています。",
+          "source": "Tennis365",
+          "url": "https://www.tennis365.com/atp-tour/taylor-fritz-getting-cooked-tokyo-miserable-shanghai-masters"
+        },
+        {
+          "title_ja": "大会の使用球に対する選手の不満が話題に",
+          "summary_ja": "試合で使用される公式球の品質について選手が率直な意見を述べて注目を集めています。ボールの摩耗による状態変化への指摘が波紋を呼んでいます。",
+          "source": "Tennis World USA",
+          "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/170455/taylor-fritz-rips-shanghai-balls-as-miserable-once-they-get-worn-out-/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

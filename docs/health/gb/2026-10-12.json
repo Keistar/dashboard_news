@@ -1,0 +1,50 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:04:44+09:00",
+  "stories": [
+    {
+      "title_ja": "認知症予防の期待から帯状疱疹ワクチン需要増",
+      "summary_ja": "英国で帯状疱疹ワクチンの需要が急激に高まっている。発疹を防ぐためのワクチンが高齢期の脳を保護する可能性について、確定的ではないものの有望な兆候が示されたことが背景にある。認知症を防ぎたいと考える人々の関心を集めている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "score": 85,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "英NHSが処方箋通知をスマートウォッチに配信",
+      "summary_ja": "英国の国民保健サービス（NHS）が、調剤完了を知らせる通知をスマートフォンやスマートウォッチへ届ける新機能を導入した。薬局で処方箋の受け取りが可能になったタイミングを即座に把握できる。患者の利便性向上につながる施策として歓迎されている。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/news/health/nhs-prescriptions-phone-applewatch-37759597",
+      "score": 82,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スマートウォッチ",
+        "Apple Watch バンド"
+      ]
+    },
+    {
+      "title_ja": "AI作成の苦情が英総合診療医の負担を増大",
+      "summary_ja": "患者から寄せられるAI生成の苦情が増加し、英国の総合診療医の負担を限界まで追い詰めていると医療保護協会が警告した。多忙を極める医療現場において、苦情への対応業務が圧迫要因となっている。生成技術の普及が医療現場の負荷につながる事例として懸念されている。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/health/nhs-gp-complaints-ai-procedure-b3064879.html",
+      "score": 78,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "英国の40代で健康診断の未受診が懸念される",
+      "summary_ja": "インペリアル・カレッジ・ロンドンの研究チームが、健康診断の対象となる約92万人の記録を調査した。その結果、40代における受診率の低さが懸念材料として浮き彫りになった。生活習慣病などの早期発見に向け、受診機会の確保が課題とされている。",
+      "source": "Pharmafile",
+      "url": "https://pharmafile.com/features/fortysomethings-non-attendance-at-nhs-health-checks-raises-concerns-says-study/",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "血圧計",
+        "体重体組成計"
+      ]
+    }
+  ]
+}

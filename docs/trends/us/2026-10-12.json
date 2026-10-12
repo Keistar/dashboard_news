@@ -1,0 +1,159 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:24:03+09:00",
+  "trends": [
+    {
+      "keyword": "Prime Day Deals",
+      "reason_ja": "秋のプライムデーセールでアウトドア用品や手頃なガジェットがお買い得となっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Prime Day deals",
+        "camping gear sale"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "アウトドア セール"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライムデーのアウトドア用品セールが活況",
+          "summary_ja": "セールにてポータブル電源やクーラーボックスなどのアウトドア用品が特価で販売されています。注目のブランド製品が大幅割引となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/life/best-october-prime-day-outdoor-deals-live-2026"
+        },
+        {
+          "title_ja": "手頃な価格帯のイヤホンやギアが人気に",
+          "summary_ja": "予算を抑えて購入できる端末やワイヤレスイヤホン、美容グッズなどが特集されています。手軽に買えるお買い得品に多くの関心が集まっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-october-prime-day-under-50-live-deals-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "Anker SOLIX",
+      "reason_ja": "アンカーが大容量かつ急速充電に対応した新型ポータブル電源を発表しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker SOLIX",
+        "portable power station"
+      ],
+      "product_keywords_ja": [
+        "Anker ポータブル電源",
+        "大容量バッテリー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アンカーが車輪付きの大出力ポータブル電源発表",
+          "summary_ja": "車輪付きで持ち運べる大容量の電源装置が発表されました。デュアル電圧出力に対応し待機電力を抑えた設計が特徴となっています。",
+          "source": "pv magazine Global",
+          "url": "https://www.pv-magazine.com/2026/10/12/anker-solix-announces-wheeled-power-station-with-4-5-kw-output/"
+        },
+        {
+          "title_ja": "急速充電対応の大容量電源SOLIXが登場",
+          "summary_ja": "急速満充電が可能な大容量リン酸鉄リチウムポータブル電源が登場しました。追加バッテリーによる拡張性も備えており予約販売が開始されます。",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Anker-launches-SOLIX-S5000-power-station-with-a-5kWh-battery-that-fully-recharges-in-99-minutes.1421629.0.html"
+        }
+      ]
+    },
+    {
+      "keyword": "MacBook Pro OLED",
+      "reason_ja": "有機ELディスプレイやタッチ操作に対応した新型MacBookの発表観測が浮上しています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "MacBook Pro OLED",
+        "Apple laptop"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "有機EL ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "タッチ画面搭載の有機ELマックブックの噂",
+          "summary_ja": "タッチ操作に対応した有機ELディスプレイ搭載ノートPCのリーク情報が話題を呼んでいます。新モデルの仕様に関する期待が急速に高まっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-macbook-pro-ultra-oled-touchscreen-latest-rumors"
+        },
+        {
+          "title_ja": "アップルのノートPC刷新の観測が浮上",
+          "summary_ja": "新型ディスプレイやタッチ操作を採用したプロ向けノートPCの発表が噂されています。秋の新製品展開の一環として大きな注目を集めています。",
+          "source": "Yahoo Tech",
+          "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-change-macbook-pro-touchscreen-180013839.html"
+        }
+      ]
+    },
+    {
+      "keyword": "robert downey jr",
+      "reason_ja": "新作映画アベンジャーズのドクター・ドゥーム関連グッズが公開され話題を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Doctor Doom action figure",
+        "Avengers Doomsday merchandise"
+      ],
+      "product_keywords_ja": [
+        "アベンジャーズ フィギュア",
+        "マーベル グッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ドゥーム関連グッズが映画館や周辺機器に展開",
+          "summary_ja": "次回作に向けてドクター・ドゥームなどの新グッズコレクションが公開されました。映画館の売店やゲーム周辺機器など幅広い展開が予定されています。",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/doctor-doom-thing-bring-must-235049149.html"
+        },
+        {
+          "title_ja": "関連グッズでドクター・ドゥームの呼称判明",
+          "summary_ja": "映画関連グッズ上でキャラクターの新たな別名が明かされました。映画の公開に先駆けてファンの間で注目を集めています。",
+          "source": "The Direct",
+          "url": "https://thedirect.com/article/marvel-robert-downey-jr-doctor-doom-avengers-doomsday-merchandise"
+        }
+      ]
+    },
+    {
+      "keyword": "taylor fritz",
+      "reason_ja": "上海マスターズでの勝利と使用球に対する率直なコメントが注目を集めています。",
+      "genre": "outdoor",
+      "commercial_score": 55,
+      "product_keywords": [
+        "tennis racket",
+        "tennis balls"
+      ],
+      "product_keywords_ja": [
+        "テニスラケット",
+        "テニスボール"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テニスのフリッツ選手が上海マスターズで勝利",
+          "summary_ja": "上海マスターズで初戦を白星で飾ったものの試合球の扱いに苦戦する様子が報じられました。大会を勝ち進む中で奮闘を続けています。",
+          "source": "Tennis365",
+          "url": "https://www.tennis365.com/atp-tour/taylor-fritz-getting-cooked-tokyo-miserable-shanghai-masters"
+        },
+        {
+          "title_ja": "大会の使用球に対する選手の不満が話題に",
+          "summary_ja": "試合で使用される公式球の品質について選手が率直な意見を述べて注目を集めています。ボールの摩耗による状態変化への指摘が波紋を呼んでいます。",
+          "source": "Tennis World USA",
+          "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/170455/taylor-fritz-rips-shanghai-balls-as-miserable-once-they-get-worn-out-/"
+        }
+      ]
+    }
+  ]
+}
