@@ -13,7 +13,9 @@
   </array>
   <key>WorkingDirectory</key>
   <string>__RUNNER_DIR__</string>
-  <!-- 2026-10-09〜: agy の Gemini 3.1 Pro（Google AI Pro の枠）で書かせる（NEWS_ENGINE=agy。戻すなら消す）。
+  <!-- 2026-10-09〜: agy の Gemini（Google AI Pro の枠）で書かせる（NEWS_ENGINE=agy。戻すなら消す）。
+       2026-10-13 に agy の一覧から gemini-3.1-pro-* が消えたので、gemini-3.8-flash-high に替えた（agy は 1.3.3 のまま。Google の側の入れ替え）。
+       agy が「invalid model selection」で失敗したら、agy models で今の名前を確かめて NEWS_AGY_MODEL を直し、scripts/install_launchd.sh を流し直す。
        agy の Claude のモデルは枠が小さく（数回で 5 時間の枠がほぼ尽きた）、1 日 10 回は回らない。Gemini の質はニュースの選別と要約なら足りた。claude で動かすときのモデルは Sonnet
        （ただし claude の Sonnet は許可したコマンドの形を外して 3 ジャンル失敗した。claude に戻すなら NEWS_MODEL も消して Opus に）。既定の Opus だと Claude のサブスクの枠を多く使い、日中の作業が上限に当たりやすかった。
        Sonnet で書かせた下書き・ニュースの質を見て決めた。戻すなら値を消す（既定のモデルになる）。 -->
@@ -22,7 +24,7 @@
     <key>NEWS_ENGINE</key>
     <string>agy</string>
     <key>NEWS_AGY_MODEL</key>
-    <string>gemini-3.1-pro-high</string>
+    <string>gemini-3.8-flash-high</string>
     <key>NEWS_MODEL</key>
     <string>sonnet</string>
   </dict>
