@@ -1,0 +1,78 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:34:11+09:00",
+  "stories": [
+    {
+      "title_ja": "AIの回答のみでの買い物は若年女性の2割以下",
+      "summary_ja": "15歳から30歳の女性を対象とした調査で、身近な商品選びに半数以上が生成AIを利用した経験があると分かりました。一方でAIの回答だけを頼りに日用品やコスメを購入する人は全体の1割から2割にとどまっています。",
+      "source": "通販通信ECMO",
+      "url": "https://www.tsuhannews.jp/news/detail/75996",
+      "score": 85,
+      "commercial_score": 95,
+      "product_keywords": [
+        "コスメ",
+        "日用品"
+      ]
+    },
+    {
+      "title_ja": "日本HPが次世代AI PCと働き方の未来を提示",
+      "summary_ja": "日本HPは年次イベントを開催し、次世代のAIパソコンや働き方の将来像を提示しました。生成AIが普及するなかで企業が直面する課題についての講演が行われ、1000人以上が参加しました。",
+      "source": "ZDNET Japan",
+      "url": "https://japan.zdnet.com/article/35253456/",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "HP ノートパソコン",
+        "AI PC"
+      ]
+    },
+    {
+      "title_ja": "子どものAI利用で方針分かれる",
+      "summary_ja": "小学校での生成AI利用を原則認めないノルウェーに対し、日本は次期学習指導要領で使いこなす力を育成する方針をとっています。基礎学力が定着するまでの利用のあり方を巡り議論が続いています。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/14a039ab0b8fe1be8fec60166639afca614f3251",
+      "score": 75,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "JTBと松山市がAIアバターで観光案内実証へ",
+      "summary_ja": "JTBと愛媛県松山市は、生成AIアバターを活用した観光案内の実証実験を始めました。松山城のマスコットキャラクターが多言語音声で観光客の案内を担当します。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/1996967",
+      "score": 72,
+      "commercial_score": 60,
+      "product_keywords": [
+        "愛媛 旅行",
+        "松山"
+      ]
+    },
+    {
+      "title_ja": "エピックゲームズがゲーム開発で生成AIを全面活用へ",
+      "summary_ja": "アンリアルエンジンを手がける米エピックゲームズ（Epic Games）のCEOが、ゲーム開発での生成AI活用を加速させる方針を明らかにしました。プログラムコードやアート制作など、幅広い工程でAIの導入を進める構えです。",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261013-473138/",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ゲーミングPC",
+        "ゲーム"
+      ]
+    },
+    {
+      "title_ja": "Z世代就活生の約7割が生成AIを活用",
+      "summary_ja": "18歳から26歳の求職者を対象とした調査で、7割以上の人が就職活動に生成AIを活用していることが分かりました。最も多い利用用途は履歴書やエントリーシートの作成でした。",
+      "source": "こどもとIT",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2147452.html",
+      "score": 68,
+      "commercial_score": 40,
+      "product_keywords": [
+        "就活 本",
+        "履歴書"
+      ]
+    }
+  ]
+}

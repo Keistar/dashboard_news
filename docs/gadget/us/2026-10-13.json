@@ -1,0 +1,49 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:38:01+09:00",
+  "stories": [
+    {
+      "title_ja": "モトローラ、ドコモからタフ仕様スマホ「moto g37」発売へ",
+      "summary_ja": "モトローラ・モビリティ・ジャパンが、NTTドコモを通じて新スマートフォン「Moto G37 M-51G」を10月22日に発売します。120Hz駆動の6.7インチ画面や5,200mAhバッテリーを備え、軍用規格の高耐久性と防塵防水にも対応しています。",
+      "source": "Telecompaper",
+      "url": "https://www.telecompaper.com/news/motorola-to-launch-moto-g37-smartphone-through-ntt-docomo-in-japan--1585427",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "モトローラ",
+        "スマートフォン",
+        "moto g"
+      ]
+    },
+    {
+      "title_ja": "HP、最新インテル基盤を載せたビジネス向け16型ノートPC発売",
+      "summary_ja": "HPがビジネス向けシリーズに新型16インチノートPC「HP 200 G2Ri 16」を追加しました。インテルのWildcat Lakeを採用し、最大24GBのメモリとCore 7 350を選択できます。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-16-inch-laptop-with-Intel-Wildcat-Lake-and-up-to-24-GB-RAM.1422252.0.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "HP",
+        "ノートPC",
+        "インテル"
+      ]
+    },
+    {
+      "title_ja": "レノボ、24時間超駆動の14型2in1ノートPCを展開拡大",
+      "summary_ja": "レノボが手頃な14インチの2in1ノートPC「IdeaPad 5 2-in-1 14IWC11」の展開地域を広げました。専用スタイラスに対応し、公式テストで24時間を超えるバッテリー持続時間を実現しています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-budget-14-inch-laptop-in-more-countries-with-Intel-Wildcat-Lake.1422012.0.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "レノボ",
+        "IdeaPad",
+        "ノートPC"
+      ]
+    }
+  ]
+}
