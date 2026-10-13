@@ -1,0 +1,63 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:34:11+09:00",
+  "stories": [
+    {
+      "title_ja": "智譜AIが契約審査などに特化した法務AIを発表",
+      "summary_ja": "中国の智譜AI（Zhipu AI）が法律実務に特化した大規模モデル「GLM-Legal」を発表しました。GLM-5.3-Flashの基盤を活用し、契約書の審査や証拠分析、コンプライアンス確認などの業務に対応します。",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/article/20261013/612277.html",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "契約書"
+      ]
+    },
+    {
+      "title_ja": "科大訊飛のAI星火が多言語翻訳や音声複製に対応",
+      "summary_ja": "中国の科大訊飛（iFlytek）が手がけるAIモデル「訊飛星火」は、30以上の言語をカバーする音声機能を備えています。多言語翻訳や音声クローンに対応し、自動音声案内やコンテンツ生成などに幅広く活用されています。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1087145857_120491808",
+      "score": 76,
+      "commercial_score": 75,
+      "product_keywords": [
+        "翻訳機",
+        "ボイスレコーダー"
+      ]
+    },
+    {
+      "title_ja": "ハイアール傘下工場で産業AIが生産ラインを支援",
+      "summary_ja": "中国・山東省青島市の海爾（ハイアール）傘下の工場に、産業向けAIモデルが導入されました。表面実装の生産ラインなどで自動化を支え、工場の効率的な稼働に貢献しています。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/zx/gj/2026-10-12/doc-iniuyarm8506996.shtml",
+      "score": 72,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ハイアール 家電"
+      ]
+    },
+    {
+      "title_ja": "中国の気象AI新興が独自観測衛星網を構築",
+      "summary_ja": "気象特化型AIを開発する中国の天序智能が、独自の衛星観測ネットワーク「凝空星座」を整備しました。宇宙からの観測データと気象AIモデルを組み合わせ、電力産業などへの予測情報提供を進めています。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1087046494_114778",
+      "score": 68,
+      "commercial_score": 45,
+      "product_keywords": [
+        "気象計"
+      ]
+    },
+    {
+      "title_ja": "中国でAIエージェントの安全基準策定が始動",
+      "summary_ja": "中国の工業情報化部が、人工知能の安全管理に関する業界標準の策定に向けた手続きを進めています。AIモデル単体の安全性だけでなく、インターフェースプロトコルを含めた安全基準の整備を目指します。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704zmma.html?from=tech",
+      "score": 64,
+      "commercial_score": 30
+    }
+  ]
+}

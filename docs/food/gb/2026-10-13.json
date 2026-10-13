@@ -1,0 +1,56 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:49:35+09:00",
+  "stories": [
+    {
+      "title_ja": "英サブウェイが店舗倍増計画を発表、注文端末導入や夜間メニュー拡充へ",
+      "summary_ja": "サンドイッチチェーンのサブウェイは、英国内で店舗数を2倍に増やす拡大計画を明らかにした。店舗網の拡大に加え、タッチパネル式の注文端末の導入や夜向けメニューの強化など大幅なリニューアルを進める。",
+      "source": "Colchester Gazette",
+      "url": "https://www.gazette-news.co.uk/news/26628030.subway-potential-plans-hundreds-new-shops-across-uk/",
+      "score": 75,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "英スーパー大手アズダが2026年のヴィーガン向けクリスマス食品を発表",
+      "summary_ja": "英大手スーパーのアズダは、2026年のクリスマスシーズンに向けたヴィーガン向け食品の新シリーズを発表した。ヴィーガン協会の認証を受けた品を含む、多彩なホリデー向けメニューを取りそろえている。",
+      "source": "Vegan Food & Living",
+      "url": "https://www.veganfoodandliving.com/features/asda-vegan-christmas-range/",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ヴィーガン"
+      ]
+    },
+    {
+      "title_ja": "英アルディが手頃な価格の2026年クリスマス向けごちそう商品を公開",
+      "summary_ja": "ディスカウントスーパーのアルディは、2026年のクリスマス向け食品ラインナップを発表した。贅沢なデザートやこだわりチーズ、本格的なメイン料理を抑えた価格で提供し、ホリデーの食卓を支援する。",
+      "source": "Verge Magazine",
+      "url": "https://vergemagazine.co.uk/christmas-food-2026-the-aldi-edit/",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "チーズ"
+      ]
+    },
+    {
+      "title_ja": "英パブレストラン「ビーフィーター」などの店舗が新体制で営業再開へ",
+      "summary_ja": "英国内のレストラン・パブチェーン「ビーフィーター」と「ブルワーズ・フェイア」の旧店舗が営業を再開する見通しとなった。新たな経営陣のもとで事業再生が図られ、地域での営業が再び始まる。",
+      "source": "Wales Online",
+      "url": "https://www.walesonline.co.uk/whats-on/food-drink-news/brewers-fayre-beefeater-restaurants-reopening-34750579",
+      "score": 65,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "ロンドン・ウィンブルドンに人気寿司店がオープン、無料提供も実施",
+      "summary_ja": "ロンドンのウィンブルドン地区に、人気寿司チェーンの新たな店舗が出店した。開店を祝うキャンペーンとして、無料の食事提供や半額セールのイベントが実施されている。",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/popular-sushi-chain-opening-london-040000751.html",
+      "score": 60,
+      "commercial_score": 50
+    }
+  ]
+}

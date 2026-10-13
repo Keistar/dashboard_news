@@ -1,0 +1,38 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:54:34+09:00",
+  "stories": [
+    {
+      "title_ja": "英NHSが処方箋の通知を時計やスマホに提供",
+      "summary_ja": "英国民保健サービス（NHS）は、薬の受け取り準備が整ったことを知らせる通知機能を携帯電話やスマートウォッチ向けに開始した。イングランドの何百万人もの利用者が、手元の端末で手軽に状況を確認できるようになる。",
+      "source": "Open Access Government",
+      "url": "https://www.openaccessgovernment.org/the-nhs-has-launched-prescription-ready-alerts-for-mobiles-and-smartwatches/215313/",
+      "score": 85,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スマートウォッチ",
+        "ヘルスケア"
+      ]
+    },
+    {
+      "title_ja": "認知症介護者を支えるオンライン心理支援",
+      "summary_ja": "英国で、認知症患者を介護する家族を対象としたオンラインの心理支援プログラムが注目されている。デジタル技術を通じてサポートを提供し、介護者の精神的な健康や幸福感の向上を目指している。",
+      "source": "Oxford Health NHS Foundation Trust",
+      "url": "https://oxfordhealth.nhs.uk/news/digital-support-programme-shows-promise-for-dementia-carers/",
+      "score": 72,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "人生の転機を支える心の健康サイトが開設",
+      "summary_ja": "英国のハル地域で、人生の転機や困難に直面する人々を支えるメンタルヘルス支援サイトが開設された。利用可能な各種相談窓口やサービスを案内し、課題を抱える市民が必要な支援につながるよう後押しする。",
+      "source": "Hull Live",
+      "url": "https://www.hulldailymail.co.uk/news/health/mental-health-support-website-launches-11194272",
+      "score": 68,
+      "commercial_score": 30
+    }
+  ]
+}

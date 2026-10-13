@@ -1,0 +1,54 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:34:11+09:00",
+  "stories": [
+    {
+      "title_ja": "アップルが新スマート家電ハブの投入を準備",
+      "summary_ja": "米アップル（Apple）が新たなスマートホームハブ端末「HomeView」の発表を準備しています。新型のApple TV 4KやHomePod miniの登場も控えていると伝えられています。",
+      "source": "Fox 10 News",
+      "url": "https://www.fox10tv.com/2026/10/13/apple-readies-homeview-hub-anthropic-tightens-claude-rules/",
+      "score": 88,
+      "commercial_score": 95,
+      "product_keywords": [
+        "Apple TV 4K",
+        "HomePod mini",
+        "スマートホーム"
+      ]
+    },
+    {
+      "title_ja": "メタが最新AIモデル群Muse Wonderを公開",
+      "summary_ja": "米メタ（Meta）が新たなAIモデル群「Muse Wonder」をリリースしました。外部の性能ランキングにおいて既存の主要モデルを上回るスコアを記録しています。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/meta-launches-muse-wonder-ai-model-family",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "VRゴーグル",
+        "Meta Quest"
+      ]
+    },
+    {
+      "title_ja": "オープンAIが動画生成Soraの外部提供を協議",
+      "summary_ja": "米オープンAI（OpenAI）が、動画生成AI「Sora」へのアクセス権を映画制作者向けソフト開発企業に提供する協議を行っています。クリエイター向けソフトウェアとしての商用展開が模索されています。",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-video-model-sora-could-get-a-second-act/",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "動画編集ソフト"
+      ]
+    },
+    {
+      "title_ja": "NTTデータがアンソロピック向け施設を西日本に建設へ",
+      "summary_ja": "NTTデータグループが、米AI企業のアンソロピック（Anthropic）向けに日本初となるデータセンターを西日本に建設する方向で最終調整に入りました。複数の関係筋が明らかにしました。",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan",
+      "score": 75,
+      "commercial_score": 50
+    }
+  ]
+}

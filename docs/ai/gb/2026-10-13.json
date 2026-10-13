@@ -1,0 +1,45 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:34:11+09:00",
+  "stories": [
+    {
+      "title_ja": "飲食店のAI生成画像メニューに懸念の声",
+      "summary_ja": "飲食店が料理やドリンクの宣伝にAI生成画像を活用する動きが広がっています。実物と異なる表現になりかねないとして、安易な使用に再考を促す声が上がっています。",
+      "source": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/ai-slop-necessary-evil-rise-34754332",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "お取り寄せ グルメ"
+      ]
+    },
+    {
+      "title_ja": "英企業でAI導入が進むも投資回収に課題",
+      "summary_ja": "英国企業においてAI技術の採用が急速に進む一方、支出に見合う成果への転換に苦戦していることが分かりました。技術への信頼と実際の投資対効果の間に依然としてギャップが存在しています。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/uk-leads-ai-adoption-as-returns-lag-behind-investment",
+      "score": 72,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "欧州専門家が心のケアへのAI活用指針を発表",
+      "summary_ja": "メンタルヘルス分野でのAI活用を導く欧州規模の専門家作業部会が発足しました。精神医学や脳神経科学におけるAIの可能性や課題、今後の方向性について議論が行われます。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261012/Experts-launch-Europe-wide-framework-to-guide-AI-use-in-mental-health.aspx",
+      "score": 68,
+      "commercial_score": 35
+    },
+    {
+      "title_ja": "ロンドンの大手住宅組織が初のAI責任者を起用",
+      "summary_ja": "ロンドンの大手住宅協会ピーボディが、組織初となる人工知能担当の責任者を任命しました。住宅管理や住民向けサービスの現場でAI技術の導入を進める狙いです。",
+      "source": "Inside Housing",
+      "url": "https://www.insidehousing.co.uk/home/first-head-of-ai-appointed-by-major-london-landlord-99100",
+      "score": 65,
+      "commercial_score": 40
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T16:10:37+09:00",
+  "trends": [
+    {
+      "keyword": "Beauty Advent Calendar",
+      "reason_ja": "クリスマスに向けたコスメ入りアドベントカレンダーが人気を集め、各店で早くも品薄となっています。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "beauty advent calendar",
+        "skincare gift set"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー コスメ",
+        "ホリデー スキンケア"
+      ],
+      "trend_source": "ニュース（コスメ）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気百貨店の美容アドベントカレンダーを詳しくレビュー",
+          "summary_ja": "多数のフルサイズ商品や注目ブランドが詰まった美容アドベントカレンダーが紹介されています。美容編集者による詳細なレビューが掲載されています。",
+          "source": "Marie Claire UK",
+          "url": "https://www.marieclaire.co.uk/beauty/liberty-beauty-advent-calendar-2026-review"
+        },
+        {
+          "title_ja": "人気ブランドが勢揃いしたアドベントカレンダーが完売間近",
+          "summary_ja": "人気ブランドのアイテムを詰め込んだアドベントカレンダーが好評を博しています。利用者の評価も高く、早くも売り切れが近づいていると伝えられています。",
+          "source": "AOL.co.uk",
+          "url": "https://www.aol.co.uk/articles/reviewers-amazon-beauty-advent-calendar-200716000.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "マイクロソフト史上最も高性能とされる新ノートPCが発表され、事前予約で一部モデルが品切れとなっています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Surface Laptop Ultra",
+        "Microsoft Surface"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop",
+        "マイクロソフト"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "マイクロソフトが過去最高性能を誇るノートPCを発表",
+          "summary_ja": "マイクロソフトが新たなフラッグシップ端末を発売しました。同社シリーズの中で最もパワフルな製品として位置付けられています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+        },
+        {
+          "title_ja": "高性能グラフィックスを搭載した新ノートPCと競合機の比較",
+          "summary_ja": "グラフィックス性能を高めた新端末と他社ハイエンド機との性能比較が行われています。作業性を重視するユーザーに向けて特徴の違いが解説されています。",
+          "source": "AppleInsider",
+          "url": "https://appleinsider.com/inside/14-inch-macbook-pro/vs/m5-pro-macbook-pro-vs-microsoft-surface-laptop-ultra-compared"
+        }
+      ]
+    },
+    {
+      "keyword": "poundland",
+      "reason_ja": "英国の大手ディスカウントストアの経営危機が報じられ、雇用や店舗網の行方に注目が集まっています。",
+      "genre": "sale",
+      "commercial_score": 80,
+      "product_keywords": [
+        "discount store",
+        "budget household goods"
+      ],
+      "product_keywords_ja": [
+        "ディスカウントストア 日用品"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "格安チェーンの経営破綻を懸念し労働組合が協議を要請",
+          "summary_ja": "大手ディスカウントチェーンの経営破綻手続きへの移行が危惧され、労働組合が懸念を強めています。関係者との対話を求めているものの進展が得られていない状況が報じられています。",
+          "source": "The Grocer",
+          "url": "https://www.thegrocer.co.uk/news/union-deeply-concerned-poundland-is-being-pushed-into-administration/724709.article"
+        }
+      ]
+    },
+    {
+      "keyword": "heating oil prices",
+      "reason_ja": "気温低下に伴い家庭用暖房油の価格が高騰しており、家計支援や業界規制を求める声が高まっています。",
+      "genre": "kaji",
+      "commercial_score": 75,
+      "product_keywords": [
+        "heating oil",
+        "electric heater"
+      ],
+      "product_keywords_ja": [
+        "電気ヒーター",
+        "省エネ暖房"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "暖房油の高騰に直面する家庭へ政府が規制見直しを約束",
+          "summary_ja": "光熱費の高騰に直面する暖房油の利用者に対し、政府から業界規制を強化する方針が示されました。冬を控えて家計への負担増が懸念されています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o"
+        },
+        {
+          "title_ja": "気温低下とともに暖房油価格が上昇し地方コミュニティに影響",
+          "summary_ja": "寒さが増す中で暖房用燃料の価格が上がり、地方のコミュニティに影響が出ています。燃料代の負担を受けやすい地域での苦境が伝えられています。",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqgm09xvlvjeo"
+        }
+      ]
+    }
+  ]
+}
