@@ -1,0 +1,38 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:55:27+09:00",
+  "stories": [
+    {
+      "title_ja": "英元看護師、女性専用の筋力トレーニング施設を開設",
+      "summary_ja": "英国の元看護師が、女性が安心してウエイトリフティングに取り組める女性専用フィットネススタジオを開設した。筋力トレーニングを通じて多くの女性が自信を持てる環境づくりを後押ししている。",
+      "source": "SussexWorld",
+      "url": "https://www.worthingherald.co.uk/business/consumer/former-nhs-nurse-opens-women-only-strength-studio-in-horsham-9276960",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "トレーニング器具",
+        "フィットネスウェア"
+      ]
+    },
+    {
+      "title_ja": "英地域で予約不要のがん検診バスが巡回、無料提供",
+      "summary_ja": "英サルフォードにて、25歳から64歳を対象に子宮頸がん検診を無料で提供する巡回バスが運行されている。事前予約なしで受診できる仕組みを整え、住民の健康管理を促進している。",
+      "source": "Salford Now",
+      "url": "https://www.salfordnow.co.uk/2026/10/13/nhs-mobile-bus-offers-free-cervical-screenings-in-salford/",
+      "score": 68,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "英イングランド、成人向けADHD支援を迅速化へ",
+      "summary_ja": "イングランドの複数地域で、成人ADHD患者が身近な地域で迅速に支援を受けられるようにする新たなプログラムの検証が進められている。医療支援をタイムリーに届ける体制の強化を目指している。",
+      "source": "Wired Gov",
+      "url": "https://www.wired-gov.net/wg/news.nsf/articles/Innovation+delivers+boost+to+adult+ADHD+services+13102026091000?open",
+      "score": 65,
+      "commercial_score": 25
+    }
+  ]
+}

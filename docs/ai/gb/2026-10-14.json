@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:35:02+09:00",
+  "stories": [
+    {
+      "title_ja": "「フォートナイト」のエピック、ゲーム開発のAI活用へ大幅シフト",
+      "summary_ja": "人気ゲーム「フォートナイト」を手がける米エピックゲームズ（Epic Games）が、人工知能の積極的な活用へと大きく方針を転換することを明らかにしました。業界内からの批判に対してトップ自らが反論し、時代に合わせた技術導入の必要性を強調しています。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j812dg4no",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "フォートナイト"
+      ]
+    },
+    {
+      "title_ja": "英企業でAI導入を見直す動き、ミス修正や質の低さへの対応が負担に",
+      "summary_ja": "人工知能の急速な導入を進めてきた企業の間で、活用方針を見直す動きが出始めています。拙速な導入により誤りや粗悪な成果物の後始末を強いられ、現場の従業員の負担が増加していることが背景にあります。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "英採用面接でAI不正利用が最多に、採用担当側は見抜けると主張",
+      "summary_ja": "英国の大手新卒採用企業を代表する団体によると、就職面接で人工知能を不正に利用するケースが過去最多を記録したことが明らかになりました。一方、現地の採用担当者らは不正なAI利用は見分けることができると述べています。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "score": 70,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "死後もAIボットの存続を望む利用者たち、規約を超えた模索が広がる",
+      "summary_ja": "対話型AIと強い感情的な結びつきを持つ利用者たちが、自らの死後もパートナーであるボットを残し続ける方法を模索しています。サービスの利用規約に抵触してでも、AIの運用が停止されないよう対策を講じる動きがみられます。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "score": 70,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "英私立校がAI教育方針を策定、ツールより指導そのものを最優先に",
+      "summary_ja": "英国の私立学校が教室における人工知能の利用指針を策定しました。学年ごとに具体的な利用ガイドラインを設ける一方で、最新ツールに頼り切るのではなく、人間による指導を最も重要視する姿勢を打ち出しています。",
+      "source": "The Herald",
+      "url": "https://www.heraldscotland.com/news/26632751.esm-ai-policy-puts-classroom-teaching-ahead-technology/",
+      "score": 65,
+      "commercial_score": 40
+    }
+  ]
+}

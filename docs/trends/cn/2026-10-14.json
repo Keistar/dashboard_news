@@ -1,0 +1,116 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T16:11:23+09:00",
+  "trends": [
+    {
+      "keyword": "中产“新玩具”杀进商场一楼",
+      "reason_ja": "宇樹や智元などのロボットブランドが都市部ショッピングモールの好立地に続々出店し、新たな消費の目玉として人気を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "机器人",
+        "机器狗",
+        "宇树科技"
+      ],
+      "product_keywords_ja": [
+        "ロボット犬",
+        "家庭用ロボット"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ロボットブランドが商業施設の一等地に続々進出",
+          "summary_ja": "商業施設の一等地にロボットブランドが相次いで出店しています。エスカレーター脇など目立つ場所で展示され、来訪者を引きつける新たな存在となっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261014/49793786.html"
+        },
+        {
+          "title_ja": "行楽地の商圏でロボットが人気を集める",
+          "summary_ja": "人型ロボットや四足歩行ロボットが観光地や商業施設に登場しています。来訪者との交流やパフォーマンスで注目を集める一方、安全基準の整備も求められています。",
+          "source": "京报网",
+          "url": "https://news.bjd.com.cn/2026/10/14/11994281.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "网传“禁止教师用AI备课”系误读",
+      "reason_ja": "教員のAI教材作成禁止というネット上の誤解に対し、各地でAI教育利用のガイドライン策定や推進が進んでいることが明らかになりました。",
+      "genre": "ai",
+      "commercial_score": 78,
+      "product_keywords": [
+        "AI教育",
+        "人工智能教学"
+      ],
+      "product_keywords_ja": [
+        "AI 教育 ツール"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "教員のAI活用指針を巡る解説が公開",
+          "summary_ja": "教育現場でのAI活用について各地で指針や行動計画が定められています。教員向けの活用基準を明確にし、授業支援としての適切な利用を促す取り組みが進められています。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1087607867_121443915"
+        }
+      ]
+    },
+    {
+      "keyword": "腾讯打算拿什么撬动红果近2亿日活",
+      "reason_ja": "テンセントが無料の短尺ドラマサービスを新たに開始し、急成長するショートドラマ市場での利用獲得競争が注目されています。",
+      "genre": "other",
+      "commercial_score": 76,
+      "product_keywords": [
+        "微短剧",
+        "微信小程序"
+      ],
+      "product_keywords_ja": [
+        "ショートドラマ アプリ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テンセントが無料のショートドラマを開始",
+          "summary_ja": "手軽に楽しめる無料ドラマを配信する新サービスが立ち上がりました。アプリのインストール不要で手軽に視聴できる利便性を打ち出しています。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/2026-10-14/detail-inivcxxr7875516.d.html"
+        }
+      ]
+    },
+    {
+      "keyword": "小甜水要涨价了吗",
+      "reason_ja": "含糖飲料税の導入議論が各国で進む中、清涼飲料水の値上げや飲料業界の糖分・人工甘味料対策に関心が高まっています。",
+      "genre": "food",
+      "commercial_score": 75,
+      "product_keywords": [
+        "无糖饮料",
+        "低糖饮料"
+      ],
+      "product_keywords_ja": [
+        "無糖飲料",
+        "トクホ 飲料"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "甘い飲料の値上げ議論と糖税の動向",
+          "summary_ja": "清涼飲料に対する課税の議論が世界各地で広がっています。人工甘味料を用いた飲料も対象に含める動きがあり、飲料業界にとって大きな転換点となっています。",
+          "source": "凤凰网",
+          "url": "https://finance.ifeng.com/c/8xDJpxcuVZK"
+        },
+        {
+          "title_ja": "世界各国で広がる含糖飲料への課税方針",
+          "summary_ja": "健康への配慮から甘い飲料に税を課す制度を導入する国が増えています。欧州などでも導入計画が進められており、各国の政策動向が注目されています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261014/49793966.html"
+        }
+      ]
+    }
+  ]
+}

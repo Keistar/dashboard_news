@@ -1,0 +1,36 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:40:09+09:00",
+  "stories": [
+    {
+      "title_ja": "アップルが住宅管理端末「Apple HomeView」を発表",
+      "summary_ja": "米アップルは家庭の中心となって住宅設備などを一元管理できる新端末「Apple HomeView」を発表した。エンターテインメントや家族間のつながり、住まいの管理を一体で楽しめる設計となっている。",
+      "source": "Apple",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Apple",
+        "スマートホーム",
+        "スマートディスプレイ"
+      ]
+    },
+    {
+      "title_ja": "ガーミンが高級スマートウォッチ「MARQ第3世代」を発表",
+      "summary_ja": "ガーミンは高級スマートウォッチシリーズの第3世代となる「MARQ Gen 3」を発表した。チタン素材のケースに大型ディスプレイを備え、単独でのLTE通信機能や音声操作機能を搭載している。",
+      "source": "Wareable",
+      "url": "https://www.wareable.com/garmin/garmin-marq-gen-3-collection-announcement-diver-adventurer-athlete-aviator-commander-golfer",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "GARMIN",
+        "ガーミン",
+        "スマートウォッチ"
+      ]
+    }
+  ]
+}

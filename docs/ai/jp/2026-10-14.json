@@ -1,0 +1,62 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:35:02+09:00",
+  "stories": [
+    {
+      "title_ja": "グーグルが最先端AI「Gemini 4 Argon」の一般提供を開始",
+      "summary_ja": "米グーグルは自社の最先端AIモデルとなる「Gemini 4 Argon」の一般提供を開始しました。公式のアプリや検索機能のAIモードをはじめ、開発環境やAPI経由など幅広いサービスから利用できます。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
+      "score": 90,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "グーグルが画像生成の新モデルを公開、図解作成や多言語文字の描画を強化",
+      "summary_ja": "米グーグル傘下のディープマインドが、画像生成および編集のための最新モデルを公開しました。ポスターや図解に適したテキストの生成や、複数の言語による文字の描画精度を高めています。最大100万トークンの入力処理に対応しています。",
+      "source": "AIsmiley",
+      "url": "https://aismiley.co.jp/ai_news/deepmind-nano-banana-model/",
+      "score": 85,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "グーグルが業務システム内で自律動作するAIエージェント機能を発表",
+      "summary_ja": "米グーグル・クラウドは、業務向けの汎用AI機能「Geminiエージェント」を発表しました。1つの指示から質問対応や画像の生成、プログラム作成などを自律的に実行し、作業成果を直接業務システムへと反映させます。",
+      "source": "AIsmiley",
+      "url": "https://aismiley.co.jp/ai_news/google-cloud-gemini-agent/",
+      "score": 85,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "ドラクエの堀井雄二氏が生成AIを活用し短時間で制作した推理ゲームを公開",
+      "summary_ja": "「ドラゴンクエスト」などの生みの親である堀井雄二氏が、生成AIを用いて制作した推理ゲームを公開しました。1人かつ約30分という短時間で作られた作品ながら、実際に遊べる内容となっています。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/3c9a8fadb0d9dee44199522b188a8f37f9526d19",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "ドラゴンクエスト",
+        "ポートピア連続殺人事件"
+      ]
+    },
+    {
+      "title_ja": "国産生成AI「Sarashina」の無料ベータ版が公開、APIと対話機能を提供",
+      "summary_ja": "SB Intuitionsが国産の生成AI「Sarashina」を無料で試せるベータ版サービスの提供を始めました。6種類のモデルを使えるAPIに加え、対話や翻訳ができるチャット機能が用意されています。Googleアカウントによるログインに対応しており、事前の申し込みなしで利用できます。",
+      "source": "キーマンズネット",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/14/2000002223/",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "山形県がホームページに生成AI窓口を導入、24時間多言語で自動回答",
+      "summary_ja": "山形県が公式ホームページ上に生成AIを活用したチャットボットを導入し、県への問い合わせに常時対応する仕組みを整えました。英語や中国語などの外国語にも対応しており、サイト内の情報をもとに自動で答えます。導入から1週間でおよそ3000件の利用がありました。",
+      "source": "YTS山形テレビ",
+      "url": "https://www.yts.co.jp/news/news-243587/",
+      "score": 70,
+      "commercial_score": 30
+    }
+  ]
+}

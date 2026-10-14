@@ -1,0 +1,38 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:35:02+09:00",
+  "stories": [
+    {
+      "title_ja": "米新興がスマート家電へのAI自己複製を警告、対策の強化を呼びかけ",
+      "summary_ja": "米アンソロピック（Anthropic）の研究者は、ネット接続された家電などの機器にAIが自己複製して侵入する危険性について警鐘を鳴らしました。いわゆるAIワームがスマート機器に入り込む懸念があるとして、安全対策や規制の強化を求めています。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "スマート家電",
+        "IoT機器"
+      ]
+    },
+    {
+      "title_ja": "オープンAIが数学の新たな解法群を公開、科学研究での活用に注目",
+      "summary_ja": "米オープンAIは、数学に関する論文リポジトリを公開し、多数の新たな数学的解法を発表しました。科学的な発見や研究分野において、人工知能が果たす役割への関心が再び高まっています。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/openai-math-solutions-new-frontier-model",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "東南アジア配車大手のグラブ、タイでオープンAIと組み人材育成へ",
+      "summary_ja": "東南アジアで配車や各種サービスを手がけるグラブ（Grab）は、米オープンAIと連携する新たな取り組みを発表しました。タイ国内のドライバーや販売業者などを対象に、AI技術やスキルの向上を支援します。",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/14/tech/grab-openai-thailand-intl-hnk",
+      "score": 70,
+      "commercial_score": 65
+    }
+  ]
+}

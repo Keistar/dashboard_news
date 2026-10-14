@@ -1,184 +1,243 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T15:49:35+09:00",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:51:26+09:00",
   "stories": [
     {
-      "title_ja": "米スタバがティラミス風味の新作を含むホリデーメニューを11月展開",
-      "summary_ja": "米スターバックスは、2026年11月5日より恒例のホリデーメニューを提供すると発表した。新作のティラミスヴェルヴェットシリーズに加え、過去に好評だった定番メニューも復活する。",
-      "source": "Socalthrills",
-      "url": "https://socalthrills.com/starbucks-holiday-menu-2026-november-5/",
+      "title_ja": "ロッテ、しっとり食感の「生サブレ」を全国発売",
+      "summary_ja": "ロッテはホイップクリームを挟んだ「生サブレ」を全国で発売した。バターの香りと柔らかな食感が特徴で、先行販売では計画の3倍の出荷を記録している。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_706837/",
+      "score": 85,
+      "commercial_score": 95,
+      "product_keywords": [
+        "ロッテ 生サブレ",
+        "サブレ",
+        "クッキー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "トップバリュ、大盛りの冷凍グラタンとドリア発売",
+      "summary_ja": "イオンは「トップバリュベストプライス」から冷凍のグラタンとドリアを発売する。1食280グラムと食べ応えのある設計で、全国のグループ約3200店舗で順次取り扱う。",
+      "source": "アットエス",
+      "url": "https://www.at-s.com/feed/article/pr_times/2076119.html",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
+        "冷凍グラタン",
+        "冷凍ドリア",
+        "トップバリュ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "スタバ、ハロウィン向け「ねこ耳フラペチーノ」2種発売",
+      "summary_ja": "スターバックスはハロウィン限定ドリンクとして、白と黒の「ねこ耳フラペチーノ」を発売した。ブラックベリーとヨーグルトを組み合わせた味わいで、関連スイーツやグッズも登場している。",
+      "source": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/32561976/",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "スターバックス グッズ",
+        "フラペチーノ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中国カフェチェーン、大学キャンパスへの出店競争が激化",
+      "summary_ja": "瑞幸珈琲（ラッキンコーヒー）や蜜雪氷城などの飲食チェーンが中国各地の大学内への出店を加速させている。調査によるとキャンパス内の店舗は1日約800杯を売り上げ、全国平均を大きく上回る賑わいを見せている。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4897329.html",
       "score": 80,
       "commercial_score": 70,
       "product_keywords": [
-        "スターバックス コーヒー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英サブウェイが店舗倍増計画を発表、注文端末導入や夜間メニュー拡充へ",
-      "summary_ja": "サンドイッチチェーンのサブウェイは、英国内で店舗数を2倍に増やす拡大計画を明らかにした。店舗網の拡大に加え、タッチパネル式の注文端末の導入や夜向けメニューの強化など大幅なリニューアルを進める。",
-      "source": "Colchester Gazette",
-      "url": "https://www.gazette-news.co.uk/news/26628030.subway-potential-plans-hundreds-new-shops-across-uk/",
-      "score": 75,
-      "commercial_score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国茶スタンドの覇王茶姫で1杯無料企画にアクセス殺到、システム障害",
-      "summary_ja": "中国の人気ティードリンクブランド「覇王茶姫（CHAGEE）」が、スポンサー選手の優勝を記念して全品対象の1杯無料キャンペーンを実施した。開始直後にアクセスが殺到して注文アプリに不具合が発生し、運営が復旧対応に追われる事態となった。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_1496814565_m593793e5033026tny.html?from=tech",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "中国茶",
-        "ミルクティー"
+        "ラッキンコーヒー",
+        "中国茶"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "吉野家が秋の期間限定新メニュー「牛さんま定食」を発売",
-      "summary_ja": "吉野家が秋の季節限定メニューとして「牛さんま定食」の提供を開始した。定番の牛肉と旬の秋刀魚を組み合わせた定食で、ご飯のおかわりが無料で利用できる。",
-      "source": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/32548429/",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "吉野家"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英スーパー大手アズダが2026年のヴィーガン向けクリスマス食品を発表",
-      "summary_ja": "英大手スーパーのアズダは、2026年のクリスマスシーズンに向けたヴィーガン向け食品の新シリーズを発表した。ヴィーガン協会の認証を受けた品を含む、多彩なホリデー向けメニューを取りそろえている。",
-      "source": "Vegan Food & Living",
-      "url": "https://www.veganfoodandliving.com/features/asda-vegan-christmas-range/",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ヴィーガン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英アルディが手頃な価格の2026年クリスマス向けごちそう商品を公開",
-      "summary_ja": "ディスカウントスーパーのアルディは、2026年のクリスマス向け食品ラインナップを発表した。贅沢なデザートやこだわりチーズ、本格的なメイン料理を抑えた価格で提供し、ホリデーの食卓を支援する。",
-      "source": "Verge Magazine",
-      "url": "https://vergemagazine.co.uk/christmas-food-2026-the-aldi-edit/",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "チーズ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "いなばペットフードが「ちゅ～るテリーヌ」大容量54本入りを発売",
-      "summary_ja": "いなばペットフードは、こぼれにくく食べやすい「ちゅ～るテリーヌ」の新商品として54本入りの大容量パックを発売した。1つの箱で3種類の味を楽しめるアソート形式となっている。",
-      "source": "アットエス",
-      "url": "https://www.at-s.com/feed/article/pr_times/2075249.html",
-      "score": 65,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ちゅーる テリーヌ",
-        "いなば"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "オレアイダが厚め衣の新食感冷凍ポテト「サクサククランチ」を発売",
-      "summary_ja": "冷凍ポテトブランドのオレアイダから、新作ポテト「サクサククランチ」が登場した。米粉を用いた厚い衣とやや太めのカットを採用し、サクサクとした香ばしい食感に仕上げている。",
-      "source": "ヨムーノ",
-      "url": "https://yomuno.jp/posts/142722",
-      "score": 65,
+      "title_ja": "セブン、ぶた型マシュマロ「むにむにマシュ」先行発売",
+      "summary_ja": "セブン‐イレブンはぶたの顔をかたどったいちご風味の菓子「むにむにマシュ」を全国で順次発売した。おもちゃのスクイーズのような弾力とふわふわした食感を兼ね備えている。",
+      "source": "マイナビニュース",
+      "url": "https://news.mynavi.jp/article/20261014-5127079/",
+      "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "オレアイダ",
-        "冷凍ポテト"
+        "マシュマロ",
+        "いちご菓子"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "コスタコーヒーが名作チョコ風味の新作ラテを限定発売",
-      "summary_ja": "コスタコーヒーが、人気チョコレートのフェレロ・ロシェの味を再現した新作ラテを発表した。チョコレートの濃厚な味わいを楽しめる期間限定ビバレッジとなっている。",
-      "source": "Good Housekeeping",
-      "url": "https://www.goodhousekeeping.com/uk/food/a74092374/costa-ferrero-rocher-latte/",
+      "title_ja": "米コストコ、秋限定のアップルパイ風サンデーを提供開始",
+      "summary_ja": "米国のコストコはフードコートで秋の季節に合わせた新作サンデーの提供を始めた。アップルパイとアイスクリームを組み合わせたような味わいに仕上げられている。",
+      "source": "Southern Living",
+      "url": "https://www.southernliving.com/costco-food-court-vanilla-apple-pie-sundae-12171862",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "コストコ",
+        "アップルパイ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英M&S、期間限定食品で英消費者から最高評価を獲得",
+      "summary_ja": "英小売大手のマークス＆スペンサーが、期間限定の食品や飲料において英国の消費者から最も高い評価を受けた。独自性のある限定商品の展開が支持を集めている。",
+      "source": "Food Manufacture",
+      "url": "https://www.foodmanufacture.co.uk/Article/2026/10/13/ms-has-been-rated-the-best-supermarket-for-limited-edition-items-by-the-uk-public/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "マークス&スペンサー",
+        "Marks and Spencer"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "チックフィレイ、スコットランドに英初のドライブスルー開店",
+      "summary_ja": "米チキンチェーンのチックフィレイ（Chick-fil-A）は、スコットランドのハミルトンに10月29日新店舗を開業する。同社として英国初となるドライブスルー設備を備えている。",
+      "source": "L’Express Franchise",
+      "url": "https://lexpress-franchise.com/en/news/chick-fil-a-hamilton-first-scottish-restaurant/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Chick-fil-A",
+        "フライドチキン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "韓ロッテ、人気アイドルらとコラボした限定ポッキー発売",
+      "summary_ja": "ロッテ食品は記念日商戦に向け、人気グループ「Stray Kids」やサンリオなどのキャラクターを配した限定パッケージ10種を発表した。コラボレーション商品は全7種類を展開する。",
+      "source": "아시아경제",
+      "url": "https://www.asiae.co.kr/cn/article/2026101408452072049",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ペペロ",
+        "ポッキー",
+        "Stray Kids"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ビッグボーイ、甘栗のモンブランサンデーなど秋限定発売",
+      "summary_ja": "ビッグボーイとヴィクトリアステーションは栗を味わうデザート各種を期間限定で販売する。「甘栗のモンブランファッジサンデー」など、栗を楽しめるメニューを展開する。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_706884/",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "モンブラン",
+        "甘栗"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ウィングストップ、人気グミを使った新チキンソース発売",
+      "summary_ja": "米国の手羽先チェーン「ウィングストップ」が人気グミ菓子「サワーパッチキッズ」と連携した。本物のグミを使った甘酸っぱい新作ウィングソースを投入している。",
+      "source": "Allrecipes",
+      "url": "https://www.allrecipes.com/new-wingstop-sour-patch-kids-wicked-punch-12172089",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "サワーパッチキッズ",
+        "チキンソース"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英大手スーパー、クリスマス向けの配送予約受付を開始",
+      "summary_ja": "英国の人気スーパーがクリスマス期間の宅配予約枠を一部顧客向けに開放した。年末の繁忙期に向け、利用者が配達枠を確保できるよう順次手続きを受け付ける。",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/money/40665999/supermarket-opens-christmas-delivery-slots/",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "クリスマス 予約",
+        "イギリス スーパー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英食料品インフレ率が2.5%に上昇、特売での購入が増加",
+      "summary_ja": "英国の食料品インフレ率が2.5%に達したことが最新の統計で分かった。価格上昇に伴い、消費者が特売や割引キャンペーンを活用して買い物をする傾向が強まっている。",
+      "source": "Grocery Trade News",
+      "url": "https://www.grocerytradenews.com/uk-grocery-inflation-october-2026/",
+      "score": 70,
+      "commercial_score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英冷凍食品PACK’D、有機野菜の新商品4種を投入",
+      "summary_ja": "英国のオーガニック冷凍食品メーカーPACK'Dが、冷凍野菜やフルーツの新製品4種を発表した。地中海風のグリル野菜など手軽に使えるラインアップを拡充している。",
+      "source": "Grocery Trader",
+      "url": "https://grocerytrader.co.uk/packd-launches-four-new-products-to-bolster-frozen-fruit-veg-range/",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "冷凍野菜",
+        "オーガニック 冷凍食品"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の地方都市でカフェの出店が急増、日常消費に定着",
+      "summary_ja": "中国の地方都市においてカフェの出店が相次ぎ、コーヒーが特別な嗜好品から身近な飲み物へと定着しつつある。国慶節の休暇中も住宅街や学校周辺で新しい店舗が広がりを見せている。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_3488849805_cff39f8d00101ycpo.html?from=travel",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "中国 珈琲",
+        "中国茶"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ジョリビー、甘口ソースを使った新作メニュー2種を投入",
+      "summary_ja": "ファストフードチェーンのジョリビーはカナダ各地で今月下旬に2種類の新メニューを投入する。甘みとコクのある特製ソースを用いた料理を提供する。",
+      "source": "Daily Hive",
+      "url": "https://dailyhive.com/vancouver/jollibee-honey-garlic-canada",
       "score": 65,
       "commercial_score": 65,
       "product_keywords": [
-        "コスタコーヒー",
-        "フェレロ ロシェ"
+        "ジョリビー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米アービーズがチキンチーズステーキサンドの新作3種を限定発売",
-      "summary_ja": "米ファストフードチェーンのアービーズが、新作のチキンチーズステーキサンドシリーズを期間限定で発売した。通常版に加えてデラックス版とスパイシー版の計3種類が店舗に並ぶ。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/arbys-launches-chicken-cheesesteaks-12163744",
-      "score": 65,
-      "commercial_score": 50,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英パブレストラン「ビーフィーター」などの店舗が新体制で営業再開へ",
-      "summary_ja": "英国内のレストラン・パブチェーン「ビーフィーター」と「ブルワーズ・フェイア」の旧店舗が営業を再開する見通しとなった。新たな経営陣のもとで事業再生が図られ、地域での営業が再び始まる。",
-      "source": "Wales Online",
-      "url": "https://www.walesonline.co.uk/whats-on/food-drink-news/brewers-fayre-beefeater-restaurants-reopening-34750579",
-      "score": 65,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "九重味淋が冬季限定チョコがけバームクーヘンを10月18日に発売",
-      "summary_ja": "みりん蔵の九重味淋は、人気洋菓子「みりん屋さんのバームクーヘン」の冬季限定チョコがけを発売する。累計1万個を販売した定番品の季節商品として、10月18日より取り扱いを開始する。",
-      "source": "アットプレス",
-      "url": "https://www.atpress.ne.jp/news/639149",
+      "title_ja": "クラフト・ビア・マーケット、15周年記念の復刻料理を提供",
+      "summary_ja": "外食チェーンのクラフト・ビア・マーケットが創業15周年を迎え、過去の人気料理3品などを限定復刻する。創業店での記念行事に先立ち、各地の店舗で展開する。",
+      "source": "Retail Insider",
+      "url": "https://retail-insider.com/bulletin/2026/10/craft-beer-market-marks-15th-anniversary-with-limited-time-menu/",
       "score": 60,
-      "commercial_score": 85,
+      "commercial_score": 60,
       "product_keywords": [
-        "九重味淋",
-        "バームクーヘン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米アルディの2.19ドルの岩塩ポップコーンがお手頃スナックで人気",
-      "summary_ja": "米国のディスカウントスーパー「アルディ」が販売するヒマラヤピンクソルト味のポップコーンが話題を呼んでいる。2.19ドルという手頃な価格ながら、美味しく満足感のあるおやつとして支持されている。",
-      "source": "Southern Living",
-      "url": "https://www.southernliving.com/aldi-clancys-himalayan-pink-salt-popcorn-12163519",
-      "score": 60,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ポップコーン",
-        "ヒマラヤ岩塩"
+        "クラフトビール"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ロンドン・ウィンブルドンに人気寿司店がオープン、無料提供も実施",
-      "summary_ja": "ロンドンのウィンブルドン地区に、人気寿司チェーンの新たな店舗が出店した。開店を祝うキャンペーンとして、無料の食事提供や半額セールのイベントが実施されている。",
-      "source": "Yahoo News UK",
-      "url": "https://uk.news.yahoo.com/popular-sushi-chain-opening-london-040000751.html",
-      "score": 60,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
     }
   ]
 }
