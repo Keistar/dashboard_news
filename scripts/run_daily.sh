@@ -87,6 +87,14 @@ python3 scripts/news_pipeline.py collect --date "$DATE" || fail "候補を集め
 # --- ジャンルごとに Claude に書かせる。1 つ失敗しても、ほかのジャンルは続ける（失敗したジャンルは前日のまま）
 MODEL_ARGS=()
 [ -n "${NEWS_MODEL:-}" ] && MODEL_ARGS=(--model "$NEWS_MODEL")
+
+# ページの下に出す「誰が書いたか」（generate_dashboard.py が NEWS_GENERATED_BY を読む）。
+if [ "${NEWS_ENGINE:-claude}" = "agy" ]; then
+  model="${NEWS_AGY_MODEL:-claude-sonnet-5-5-medium}"
+  case "$model" in gemini-*) export NEWS_GENERATED_BY="Gemini · $model" ;; *) export NEWS_GENERATED_BY="Claude · $model" ;; esac
+else
+  export NEWS_GENERATED_BY="Claude Code · ${NEWS_MODEL:-default}"
+fi
 FAILED=()
 for g in "${GENRES[@]}"; do
   if [ "$g" = "trends" ]; then

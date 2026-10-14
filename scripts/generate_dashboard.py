@@ -70,6 +70,12 @@ from datetime import datetime, timedelta, timezone
 MAX_STORIES = 8
 MAX_RETRIES = 3
 
+# API モード（--input なし。GitHub Actions の手動実行）で書かせるモデル。2026-10-14 に claude-sonnet-4-6 から替えた。
+API_MODEL = "claude-sonnet-5-5"
+
+# ページの下に出す「誰が書いたか」。--input のときは run_daily.sh が NEWS_GENERATED_BY で渡す（main で決める）。
+GENERATED_BY = ""
+
 JST = timezone(timedelta(hours=9))
 
 # Every genre (and the trends feed) covers the same four countries.
@@ -428,7 +434,6 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
             "Use --input to provide stories from a JSON file instead."
         ) from exc
 
-    MODEL = "claude-sonnet-4-6"
     MAX_TOKENS = 32000
     WEB_SEARCH_MAX_USES = 24
 
@@ -439,14 +444,28 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
     user_message = build_user_message(genre_cfg, today_jst)
 
     def _call_api(system_prompt: str, user_message: str) -> str:
-        with client.messages.stream(
-            model=MODEL,
-            max_tokens=MAX_TOKENS,
-            system=system_prompt,
-            tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": WEB_SEARCH_MAX_USES}],
-            messages=[{"role": "user", "content": user_message}],
-        ) as stream:
-            response = stream.get_final_message()
+        messages = [{"role": "user", "content": user_message}]
+        # Web 検索は server 側で回る。回数の上限で止まると pause_turn になるので、応答をそのまま足して続けさせる。
+        for _ in range(5):
+            with client.beta.messages.stream(
+                model=API_MODEL,
+                max_tokens=MAX_TOKENS,
+                system=system_prompt,
+                tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": WEB_SEARCH_MAX_USES}],
+                messages=messages,
+                # ニュースを探して選ぶ複数手順の仕事なので medium（Sonnet 5.5 の既定は high）。
+                output_config={"effort": "medium"},
+                # 安全のための分類で断られたら、server 側で推奨のモデルに回す。
+                betas=["server-side-fallback-2026-07-01"],
+                fallbacks="default",
+            ) as stream:
+                response = stream.get_final_message()
+            if response.stop_reason != "pause_turn":
+                break
+            messages = [*messages, {"role": "assistant", "content": response.content}]
+
+        if response.stop_reason == "refusal":
+            raise ValueError(f"Model declined the request (stop_details={response.stop_details!r})")
 
         text_blocks = [block.text for block in response.content if block.type == "text"]
         raw = "".join(text_blocks).strip()
@@ -628,7 +647,9 @@ def _head(title: str, genre_cfg: dict | None = None, depth: int = 0) -> str:
     )
 
 
-_FOOT = '    <footer class="mono">Generated daily by Claude &middot; claude-sonnet-4-6</footer>\n  </div>\n</body>\n</html>\n'
+def _foot() -> str:
+    by = f" by {html.escape(GENERATED_BY)}" if GENERATED_BY else ""
+    return f'    <footer class="mono">Generated daily{by}</footer>\n  </div>\n</body>\n</html>\n'
 
 
 def _score_badge(score: int | None) -> str:
@@ -713,7 +734,7 @@ def _article_shell(
         + '    <ul class="entries">\n'
         + entries
         + '    </ul>\n'
-        + _FOOT
+        + _foot()
     )
 
 
@@ -746,7 +767,7 @@ def render_country_index(dates: list[str], country: dict, genre_cfg: dict) -> st
         + '    <ul class="nav-list">\n'
         + items
         + '    </ul>\n'
-        + _FOOT
+        + _foot()
     )
 
 
@@ -789,7 +810,7 @@ def _genre_shell(entries: str, count: int, date_str: str, time_str: str, genre_c
         + '    <ul class="entries">\n'
         + entries
         + '    </ul>\n'
-        + _FOOT
+        + _foot()
     )
 
 
@@ -859,7 +880,7 @@ def render_top_index() -> str:
         + '    <ul class="nav-list">\n'
         + items
         + '    </ul>\n'
-        + _FOOT
+        + _foot()
     )
 
 
@@ -986,6 +1007,9 @@ def main() -> None:
     if args.date and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", args.date):
         parser.error("--date must be YYYY-MM-DD")
 
+    global GENERATED_BY
+    GENERATED_BY = os.environ.get("NEWS_GENERATED_BY", "") if args.input else f"Claude API · {API_MODEL}"
+
     if args.genre == TRENDS_CODE:
         if not args.input:
             parser.error("--genre trends requires --input")
@@ -994,6 +1018,7 @@ def main() -> None:
 
     genre_code = args.genre
     genre_cfg = GENRES[genre_code]
+
 
     try:
         if args.input:
