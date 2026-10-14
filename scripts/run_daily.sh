@@ -93,7 +93,7 @@ if [ "${NEWS_ENGINE:-claude}" = "agy" ]; then
   model="${NEWS_AGY_MODEL:-claude-sonnet-5-5-medium}"
   case "$model" in gemini-*) export NEWS_GENERATED_BY="Gemini · $model" ;; *) export NEWS_GENERATED_BY="Claude · $model" ;; esac
 else
-  export NEWS_GENERATED_BY="Claude Code · ${NEWS_MODEL:-default}"
+  export NEWS_GENERATED_BY="Claude Code${NEWS_MODEL:+ · $NEWS_MODEL}"
 fi
 FAILED=()
 for g in "${GENRES[@]}"; do

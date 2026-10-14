@@ -445,7 +445,7 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
 
     def _call_api(system_prompt: str, user_message: str) -> str:
         # Web 検索は server 側で回る。回数の上限で止まると pause_turn になるので、それまでの応答を 1 つの assistant の
-        # ターンにまとめて足し、続けさせる（user も assistant も続けて並べない）。文は全部のターンから集める。
+        # ターンにまとめて足し、続けさせる（user も assistant も続けて並べない）。末尾の server_tool_use から API が再開する。
         content: list = []
         for _ in range(5):
             messages = [{"role": "user", "content": user_message}]
@@ -473,7 +473,8 @@ def fetch_all_stories(genre_cfg: dict) -> dict[str, list[dict]]:
         if response.stop_reason == "refusal":
             raise ValueError(f"Model declined the request (stop_details={response.stop_details!r})")
 
-        text_blocks = [block.text for block in content if block.type == "text"]
+        # JSON は最後の応答から読む（途中のターンの「調べています」のような文を混ぜない）。
+        text_blocks = [block.text for block in response.content if block.type == "text"]
         raw = "".join(text_blocks).strip()
         if not raw:
             raise ValueError(f"Model returned no text (stop_reason={response.stop_reason!r})")
