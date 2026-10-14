@@ -1,0 +1,151 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T16:11:23+09:00",
+  "trends": [
+    {
+      "keyword": "Apple HomeView",
+      "reason_ja": "アップルが家庭の中心となる初のスマートディスプレイ「HomeView」を発表し、スマートホーム戦略の新たな一手として大きな注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "Apple HomeView",
+        "smart display"
+      ],
+      "product_keywords_ja": [
+        "スマートディスプレイ",
+        "スマートホーム"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが新端末HomeViewを発表",
+          "summary_ja": "家庭内のエンターテインメントや機器管理を担う新しい端末が発表されました。家族それぞれの使い方に寄り添うスマートホームの中心デバイスとして設計されています。",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+        },
+        {
+          "title_ja": "アップル初となるスマートディスプレイが登場",
+          "summary_ja": "アップルから画面付きのスマートホーム向け新デバイスが発表されました。カメラによる複数ユーザーの認識機能を備え、家庭内での利便性を高めています。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/"
+        }
+      ]
+    },
+    {
+      "keyword": "Nvidia RTX Spark",
+      "reason_ja": "エヌビディアが新型ノートPC向けグラフィックス「RTX Spark」のローンチを発表し、多数の対応ゲームやAIツールが公開され注目されています。",
+      "genre": "gadget",
+      "commercial_score": 88,
+      "product_keywords": [
+        "NVIDIA RTX Spark",
+        "gaming laptop"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングノートPC",
+        "NVIDIA RTX"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "エヌビディアがRTX Sparkの投入を発表",
+          "summary_ja": "エヌビディアから最新のグラフィックス技術が登場します。人気の大作ゲームタイトルが多数対応し、高い描画性能を発揮することが期待されています。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/"
+        },
+        {
+          "title_ja": "PCアプリ環境がRTX Sparkに対応へ",
+          "summary_ja": "新型グラフィックスの発売に向けて対応アプリケーションやAIモデルの準備が進められています。クリエイター向けツールやゲームなど幅広い分野で活用できます。",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
+        }
+      ]
+    },
+    {
+      "keyword": "Beauty Advent Calendar",
+      "reason_ja": "人気ビューティーブランドのアドベントカレンダーが続々と発売され、ホリデーシーズンに向けた争奪戦が話題となっています。",
+      "genre": "beauty",
+      "commercial_score": 88,
+      "product_keywords": [
+        "Beauty Advent Calendar",
+        "Charlotte Tilbury"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー コスメ",
+        "ホリデーコレクション"
+      ],
+      "trend_source": "ニュース（コスメ）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "注目を集めるアドベントカレンダー特集",
+          "summary_ja": "ホリデーシーズンに向けて多彩なアドベントカレンダーが発売されています。定番の人気アイテムから個性的な詰め合わせまで豊富な選択肢が紹介されています。",
+          "source": "Yahoo Lifestyle Canada",
+          "url": "https://ca.style.yahoo.com/45-of-the-best-advent-calendars-you-can-already-buy-in-canada-in-2026-171543351.html"
+        },
+        {
+          "title_ja": "人気ブランドのビューティーアドベントカレンダー",
+          "summary_ja": "人気コスメブランドから豪華なホリデー向けカレンダーが登場しています。スキンケアやメイクアップ製品が詰まった魅力的なセットが揃っています。",
+          "source": "Refinery29",
+          "url": "https://www.refinery29.com/en-us/best-beauty-advent-calendars"
+        }
+      ]
+    },
+    {
+      "keyword": "asml",
+      "reason_ja": "オランダの半導体製造装置大手ASMLが好決算を発表し、将来に向けた長期の旺盛な受注需要を示したことで関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "ASML",
+        "semiconductor"
+      ],
+      "product_keywords_ja": [
+        "半導体"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ASMLの好決算と長期需要への強い関心",
+          "summary_ja": "半導体製造装置大手の業績が予想を上回り、好調な結果となりました。顧客企業から将来に向けた長期的な受注意欲が示されており、成長への期待が高まっています。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
+        },
+        {
+          "title_ja": "半導体市場で注目されるASMLの業績見通し",
+          "summary_ja": "半導体関連株の先行きに関心が集まる中、製造装置大手の生産能力見通しが注目されています。市場の信頼感を支える重要な指標として関心が寄せられています。",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/asml-s-guidance-key-to-instill-confidence-in-fragile-chip-trade"
+        }
+      ]
+    },
+    {
+      "keyword": "biddy blas",
+      "reason_ja": "スター・ウォーズの新作レーシングゲームに登場した個性的な新キャラクターがファンの間で大人気となり話題を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Star Wars Galactic Racer",
+        "Biddy Blas"
+      ],
+      "product_keywords_ja": [
+        "スターウォーズ ゲーム"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "新作スター・ウォーズゲームの新キャラが話題に",
+          "summary_ja": "新作ゲームに登場する新キャラクターがファンの注目を集めています。独自性のあるユニークなキャラクター造形が話題を呼び、コミュニティで高い人気を獲得しています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ai-couldnt-have-made-star-wars-galactic-racers-biddy-blas"
+        }
+      ]
+    }
+  ]
+}

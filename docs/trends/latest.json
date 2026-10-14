@@ -1,16 +1,16 @@
 {
   "feed": "trends",
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T16:10:37+09:00",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T16:11:23+09:00",
   "trends": [
     {
       "keyword": "プライム感謝祭",
-      "reason_ja": "Amazonの大型セールに先駆けて先行セールが開始され、対象商品やお得な買い方に関する情報が注目を集めています。",
+      "reason_ja": "アマゾンのプライム会員向け大型セールに合わせ、お買い得なガジェットや新型Kindle端末などのセール情報に注目が集まっています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
         "プライム感謝祭",
-        "セール"
+        "Amazon セール"
       ],
       "product_keywords_ja": [
         "プライム感謝祭",
@@ -20,74 +20,144 @@
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プライム感謝祭先行セールでおすすめの愛用品を紹介",
-          "summary_ja": "アマゾンのプライム感謝祭に向けた先行セールが開始され、対象となる愛用品が紹介されています。撮影や収録に使える仕事道具やドライヤーなど、実際に買って満足できた商品が取り上げられています。",
-          "source": "note",
-          "url": "https://note.com/tekeshun/n/neb2a5cdaada1"
+          "title_ja": "プライム感謝祭でおすすめのガジェット特集",
+          "summary_ja": "プライム会員を対象とした秋の大型セールが開催されます。日頃の利用への感謝を込めた会員限定イベントで、多数の注目アイテムがお買い得になります。",
+          "source": "ガジェットレビューブログ",
+          "url": "https://digital-style.jp/amazon-prime-fes"
         },
         {
-          "title_ja": "アマゾン先行セール開始とお得な買い物の攻略法",
-          "summary_ja": "アマゾンのプライム会員向け大型セールに先駆け、先行セールがスタートしました。アップル製品や生活雑貨などお得な商品が揃っており、早めの購入が推奨されています。",
-          "source": "ASCII.jp",
-          "url": "https://ascii.jp/elem/000/004/441/4441928/"
+          "title_ja": "アマゾン大型セールで電子書籍リーダーが特価に",
+          "summary_ja": "アマゾンのプライム会員向けビッグセールで電子書籍リーダーが特別価格で販売されます。新型のカラー対応モデルなど注目の読書端末が対象となっています。",
+          "source": "INTERNET Watch",
+          "url": "https://internet.watch.impress.co.jp/docs/shopping/2147871.html"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "apple iphone duo",
-      "reason_ja": "アップル初となる折りたたみ型スマートフォンについて、高い需要を見越した予約準備が開始され関心を集めています。",
+      "keyword": "Apple HomeView",
+      "reason_ja": "アップルが家庭の中心となる初のスマートディスプレイ「HomeView」を発表し、スマートホーム戦略の新たな一手として大きな注目を集めています。",
       "genre": "gadget",
-      "commercial_score": 95,
+      "commercial_score": 92,
       "product_keywords": [
-        "iPhone Duo",
-        "Apple foldable"
+        "Apple HomeView",
+        "smart display"
       ],
       "product_keywords_ja": [
-        "iPhone Duo",
-        "アップル スマホ"
+        "スマートディスプレイ",
+        "スマートホーム"
       ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップルが折りたたみスマホの予約事前準備を開始",
-          "summary_ja": "アップルの折りたたみスマートフォンについて、注文手続きを素早く完了させるための事前準備が可能になりました。高い需要が予想されるため、事前の設定が呼びかけられています。",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster"
+          "title_ja": "アップルが新端末HomeViewを発表",
+          "summary_ja": "家庭内のエンターテインメントや機器管理を担う新しい端末が発表されました。家族それぞれの使い方に寄り添うスマートホームの中心デバイスとして設計されています。",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+        },
+        {
+          "title_ja": "アップル初となるスマートディスプレイが登場",
+          "summary_ja": "アップルから画面付きのスマートホーム向け新デバイスが発表されました。カメラによる複数ユーザーの認識機能を備え、家庭内での利便性を高めています。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "ポータブル電源",
-      "reason_ja": "防災準備や秋のアウトドア需要が高まる中、大型セールで大幅値引きされる注目商品が話題となっています。",
-      "genre": "outdoor",
-      "commercial_score": 90,
+      "keyword": "sony playstation",
+      "reason_ja": "ソニーがPlayStation 5のオールブラック新モデル「ミッドナイト ブラック」を発表し、洗練されたデザインと価格設定が世界中で話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 92,
       "product_keywords": [
-        "ポータブル電源",
-        "Jackery"
+        "PlayStation 5",
+        "PS5 Midnight Black"
       ],
       "product_keywords_ja": [
-        "ポータブル電源",
-        "Jackery"
+        "PlayStation 5",
+        "PS5 本体"
       ],
-      "trend_source": "ニュース（セール）",
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "PS5の限定ミッドナイトブラックが登場へ",
+          "summary_ja": "ソニーがプレイステーション5のデジタル・エディションに新色を発表しました。シックなブラックカラーを採用した注目の新ハードウェアです。",
+          "source": "VGChartz",
+          "url": "https://www.vgchartz.com/article/469335/ps5-digital-edition-midnight-black-japan-only-launches-november-19/"
+        },
+        {
+          "title_ja": "ソニーが美しい新デザインのPS5を発表",
+          "summary_ja": "ソニーが洗練された外観の新ハードウェアを披露しました。スタイリッシュなブラックの仕上がりがゲームファンの間で大きな反響を呼んでいます。",
+          "source": "Polygon.com",
+          "url": "https://www.polygon.com/playstation-5-midnight-black-japan-exclusive-console-controller-revealed/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Apple HomeView",
+      "reason_ja": "アップルが進化したAIを搭載する新型スマートディスプレイ「HomeView」を発表し、スマートホーム製品の新たなハブとして英国内でも大きな関心を呼んでいます。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "Apple HomeView",
+        "smart hub"
+      ],
+      "product_keywords_ja": [
+        "スマートディスプレイ",
+        "スマートホーム"
+      ],
+      "trend_source": "ニュース（ガジェット）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "停電対策や秋キャンプに役立つポータブル電源のセール",
-          "summary_ja": "ジャクリのポータブル電源やソーラーパネルが、アマゾンのセールに合わせて特別価格で販売されます。停電への備えや秋のキャンプ、節電対策として活用できる人気モデルが対象となっています。",
-          "source": "ヨムーノ",
-          "url": "https://yomuno.jp/posts/143040"
+          "title_ja": "アップルが新型端末HomeViewを投入",
+          "summary_ja": "アップルからスマートホーム向けの新型ディスプレイ端末が発表されました。家庭内で活躍するハブデバイスとして第一印象が報じられています。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/apple-homeview-b3065840.html"
         },
         {
-          "title_ja": "防災や秋キャンプ向けに注目されるポータブル電源",
-          "summary_ja": "自然災害への備えとして防災意識が高まる中、ポータブル電源が注目を集めています。防災だけでなく秋のキャンプや車中泊でも使えるモデルが大型セールでお買い得になっています。",
-          "source": "ITmedia",
-          "url": "https://www.itmedia.co.jp/news/article/2610/13/2000001822/"
+          "title_ja": "アップルが進化したAI搭載の家電ハブを発表",
+          "summary_ja": "アップルがスマートホーム向けの新製品群を発表しました。タブレット型端末が他のスマート家電を統括するハブとして機能します。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Apple TV 4K",
+      "reason_ja": "アップルが新型「Apple TV 4K」や「HomePod mini 2」を一斉発表し、ホームシアター連携や機能進化が話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Apple TV 4K",
+        "HomePod mini 2"
+      ],
+      "product_keywords_ja": [
+        "Apple TV 4K",
+        "HomePod mini"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが次世代のHomePod mini発表",
+          "summary_ja": "アップルがスマートスピーカーの新製品を発表しました。新しいカラーバリエーションが加わり、より豊かな音響体験を楽しめる設計となっています。",
+          "source": "Apple",
+          "url": "https://www.apple.com/jp/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+        },
+        {
+          "title_ja": "新型Apple TVとHomePod miniが登場",
+          "summary_ja": "アップルがホーム向け新製品を発表し、国内でも発売されることが明らかになりました。処理性能や連携機能が進化した注目モデルとなっています。",
+          "source": "Business Insider Japan",
+          "url": "https://www.businessinsider.jp/article/2610-apple-tv-4k-and-homepod-mini-2/"
         }
       ],
       "country": "jp",
@@ -95,105 +165,73 @@
     },
     {
       "keyword": "Beauty Advent Calendar",
-      "reason_ja": "クリスマスに向けたコスメ入りアドベントカレンダーが人気を集め、各店で早くも品薄となっています。",
+      "reason_ja": "英国の大手百貨店マークス＆スペンサーや人気コスメブランドからアドベントカレンダーが発売され、完売必至の人気を集めています。",
       "genre": "beauty",
       "commercial_score": 90,
       "product_keywords": [
-        "beauty advent calendar",
-        "skincare gift set"
+        "M&S Beauty Advent Calendar",
+        "Kiehl's"
       ],
       "product_keywords_ja": [
         "アドベントカレンダー コスメ",
-        "ホリデー スキンケア"
+        "ホリデーコフレ"
       ],
       "trend_source": "ニュース（コスメ）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "人気百貨店の美容アドベントカレンダーを詳しくレビュー",
-          "summary_ja": "多数のフルサイズ商品や注目ブランドが詰まった美容アドベントカレンダーが紹介されています。美容編集者による詳細なレビューが掲載されています。",
-          "source": "Marie Claire UK",
-          "url": "https://www.marieclaire.co.uk/beauty/liberty-beauty-advent-calendar-2026-review"
+          "title_ja": "M&Sのビューティーアドベントカレンダーが登場",
+          "summary_ja": "手頃な価格帯で人気のビューティーアドベントカレンダーが発売されました。美容記者が実際に開封して内容やお買い得感を詳しく検証しています。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/christmasgifts/advent-calendars/m-and-s-beauty-advent-calendar-2026-b3066053.html"
         },
         {
-          "title_ja": "人気ブランドが勢揃いしたアドベントカレンダーが完売間近",
-          "summary_ja": "人気ブランドのアイテムを詰め込んだアドベントカレンダーが好評を博しています。利用者の評価も高く、早くも売り切れが近づいていると伝えられています。",
-          "source": "AOL.co.uk",
-          "url": "https://www.aol.co.uk/articles/reviewers-amazon-beauty-advent-calendar-200716000.html"
+          "title_ja": "M&Sの限定カレンダーが早くも売れ筋に",
+          "summary_ja": "今年のホリデー向けアドベントカレンダーが発売を開始しました。例年以上に充実したセット内容となっており、急速に売れ行きを伸ばしています。",
+          "source": "Grazia Daily UK",
+          "url": "https://graziadaily.co.uk/beauty-hair/makeup/m-and-s-advent-calendar-review-2026/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Surface Laptop Ultra",
-      "reason_ja": "マイクロソフト史上最も高性能とされる新ノートPCが発表され、事前予約で一部モデルが品切れとなっています。",
+      "keyword": "macrumors",
+      "reason_ja": "アップルが初のタッチスクリーン搭載MacBookや新型iPad miniの投入を計画しているとの報道が話題になっています。",
       "genre": "gadget",
-      "commercial_score": 90,
+      "commercial_score": 88,
       "product_keywords": [
-        "Surface Laptop Ultra",
-        "Microsoft Surface"
+        "MacBook",
+        "iPad mini"
       ],
       "product_keywords_ja": [
-        "Surface Laptop",
-        "マイクロソフト"
+        "MacBook",
+        "iPad mini"
       ],
-      "trend_source": "ニュース（ガジェット）",
-      "trend_source_type": "news",
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "マイクロソフトが過去最高性能を誇るノートPCを発表",
-          "summary_ja": "マイクロソフトが新たなフラッグシップ端末を発売しました。同社シリーズの中で最もパワフルな製品として位置付けられています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra"
+          "title_ja": "アップルがタッチ対応MacBook投入を計画か",
+          "summary_ja": "アップルが新型スマートホーム機器に続き、新たな製品発表を計画していると報じられました。ブランド初となるタッチスクリーン搭載のMacBookや新型iPad miniの登場が期待されています。",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october"
         },
         {
-          "title_ja": "高性能グラフィックスを搭載した新ノートPCと競合機の比較",
-          "summary_ja": "グラフィックス性能を高めた新端末と他社ハイエンド機との性能比較が行われています。作業性を重視するユーザーに向けて特徴の違いが解説されています。",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/inside/14-inch-macbook-pro/vs/m5-pro-macbook-pro-vs-microsoft-surface-laptop-ultra-compared"
+          "title_ja": "MacBook Proに議論呼ぶ新機能が追加か",
+          "summary_ja": "かつてスティーブ・ジョブズ氏が否定的だったタッチ操作機能がMacBookに搭載される可能性が報じられています。長年の方針転換として注目を集めています。",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/11/steve-jobs-said-this-kind-of-device-would-be-terrible-16-years-later-apple-seems-set-to-release-it"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "一加16正式发布",
-      "reason_ja": "ゲーム処理や表示性能を強化したフラッグシップスマートフォンが正式発表され、スペックが話題を呼んでいます。",
-      "genre": "gadget",
-      "commercial_score": 90,
-      "product_keywords": [
-        "一加16",
-        "OnePlus 手机"
-      ],
-      "product_keywords_ja": [
-        "OnePlus スマホ",
-        "SIMフリー スマートフォン"
-      ],
-      "trend_source": "ニュース（スマートフォン）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "ゲーム処理を専用チップで強化した最新スマートフォンが登場",
-          "summary_ja": "ゲーム用途に向けた新たなアプローチを取り入れたスマートフォンが発表されました。表示や操作を専用チップに分散させ、高い動作性能を実現する設計が採用されています。",
-          "source": "科技行者",
-          "url": "https://www.techwalker.com/2026/1012/3201805.shtml"
-        },
-        {
-          "title_ja": "画面やバッテリーなど総合性能を高めた旗艦スマートフォン",
-          "summary_ja": "基本性能の高さに加え、カメラやディスプレイ、バッテリー持ちなどを総合的に向上させた新端末が登場しました。全方位で進化したフラッグシップ機として紹介されています。",
-          "source": "雷峰网",
-          "url": "https://www.leiphone.com/category/weiwu/vVFRSPSkndSb8SKf.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
       "keyword": "クリスマスコフレ",
-      "reason_ja": "人気コスメブランドから限定のホリデーコレクションやコフレの予約・発売情報が相次いで公開され注目を集めています。",
+      "reason_ja": "人気コスメブランドからホリデー限定コフレやギフトセットの情報が続々と公開され、予約争奪戦に向けて関心が高まっています。",
       "genre": "beauty",
-      "commercial_score": 85,
+      "commercial_score": 88,
       "product_keywords": [
         "クリスマスコフレ",
         "ホリデーコレクション"
@@ -206,316 +244,346 @@
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "江原道からブランド周年を記念したホリデー限定コフレ",
-          "summary_ja": "コウゲンドウからホリデーコレクションが登場します。スキンケアシリーズの魅力を詰め込んだ限定アイテムやポーチ付きのコフレが用意されています。",
-          "source": "ELLE",
-          "url": "https://www.elle.com/jp/beauty/makeup-skincare/g74063279/2026christmascoffret-nd-kohgendo-2610-hns/"
+          "title_ja": "人気デパコスの限定クリスマスコフレ特集",
+          "summary_ja": "各人気コスメブランドからホリデーシーズンの限定キットが登場します。シャネルやディオールなど憧れのデパコスブランドから多彩なアイテムが揃います。",
+          "source": "ファッションプレス",
+          "url": "https://www.fashion-press.net/news/148503"
         },
         {
-          "title_ja": "ディオールのホリデー限定リキッドリップが登場",
-          "summary_ja": "ディオールからホリデーコレクションの限定リップが発売されます。全色の仕上がりやラメ感、おすすめのパーソナルカラーなどが詳しく紹介されています。",
-          "source": "MAQUIA",
-          "url": "https://maquia.hpplus.jp/blog/dome_maquia/123096/"
+          "title_ja": "イソップから多彩なホリデー限定ギフトが登場",
+          "summary_ja": "イソップから限定ボックスに収められたホリデーコレクションが発表されました。定番のスキンケアセットやフレグランスのコレクションが展開されます。",
+          "source": "ELLE",
+          "url": "https://www.elle.com/jp/beauty/makeup-skincare/g74087035/2026christmascoffret-nd-aesop-2610-hns/"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "折りたたみスマホ",
-      "reason_ja": "各社から新型の折りたたみ端末が登場し、端末の機能性や使い勝手への関心が高まっています。",
+      "keyword": "Nvidia RTX Spark",
+      "reason_ja": "エヌビディアが新型ノートPC向けグラフィックス「RTX Spark」のローンチを発表し、多数の対応ゲームやAIツールが公開され注目されています。",
       "genre": "gadget",
-      "commercial_score": 85,
+      "commercial_score": 88,
       "product_keywords": [
-        "折りたたみスマホ",
-        "Galaxy Z Fold"
+        "NVIDIA RTX Spark",
+        "gaming laptop"
       ],
       "product_keywords_ja": [
-        "折りたたみスマホ",
-        "Galaxy Z Fold"
+        "ゲーミングノートPC",
+        "NVIDIA RTX"
       ],
       "trend_source": "ニュース（ガジェット）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "軽量ミニタブレットとしても使える新型折りたたみスマホ",
-          "summary_ja": "サムスン電子の折りたたみ端末が軽量化され、小型タブレットとしても使いやすくなっています。従来の形状から見直され、使い勝手の向上が図られています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/1a281073a68f0064e753bd13a5ed190bdc4ebd20"
+          "title_ja": "エヌビディアがRTX Sparkの投入を発表",
+          "summary_ja": "エヌビディアから最新のグラフィックス技術が登場します。人気の大作ゲームタイトルが多数対応し、高い描画性能を発揮することが期待されています。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/"
         },
         {
-          "title_ja": "折りたたみスマホの進化とアンドロイド独自の機能",
-          "summary_ja": "折りたたみ端末が注目される中、先行するアンドロイド陣営の多機能さが取り上げられています。複数のウィンドウ操作や多彩なハードウェアの選択肢など、独自の使い道が紹介されています。",
-          "source": "東洋経済オンライン",
-          "url": "https://toyokeizai.net/articles/-/960597?page=4"
+          "title_ja": "PCアプリ環境がRTX Sparkに対応へ",
+          "summary_ja": "新型グラフィックスの発売に向けて対応アプリケーションやAIモデルの準備が進められています。クリエイター向けツールやゲームなど幅広い分野で活用できます。",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Beauty Advent Calendar",
+      "reason_ja": "人気ビューティーブランドのアドベントカレンダーが続々と発売され、ホリデーシーズンに向けた争奪戦が話題となっています。",
+      "genre": "beauty",
+      "commercial_score": 88,
+      "product_keywords": [
+        "Beauty Advent Calendar",
+        "Charlotte Tilbury"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー コスメ",
+        "ホリデーコレクション"
+      ],
+      "trend_source": "ニュース（コスメ）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "注目を集めるアドベントカレンダー特集",
+          "summary_ja": "ホリデーシーズンに向けて多彩なアドベントカレンダーが発売されています。定番の人気アイテムから個性的な詰め合わせまで豊富な選択肢が紹介されています。",
+          "source": "Yahoo Lifestyle Canada",
+          "url": "https://ca.style.yahoo.com/45-of-the-best-advent-calendars-you-can-already-buy-in-canada-in-2026-171543351.html"
+        },
+        {
+          "title_ja": "人気ブランドのビューティーアドベントカレンダー",
+          "summary_ja": "人気コスメブランドから豪華なホリデー向けカレンダーが登場しています。スキンケアやメイクアップ製品が詰まった魅力的なセットが揃っています。",
+          "source": "Refinery29",
+          "url": "https://www.refinery29.com/en-us/best-beauty-advent-calendars"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "中产“新玩具”杀进商场一楼",
+      "reason_ja": "宇樹や智元などのロボットブランドが都市部ショッピングモールの好立地に続々出店し、新たな消費の目玉として人気を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "机器人",
+        "机器狗",
+        "宇树科技"
+      ],
+      "product_keywords_ja": [
+        "ロボット犬",
+        "家庭用ロボット"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ロボットブランドが商業施設の一等地に続々進出",
+          "summary_ja": "商業施設の一等地にロボットブランドが相次いで出店しています。エスカレーター脇など目立つ場所で展示され、来訪者を引きつける新たな存在となっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261014/49793786.html"
+        },
+        {
+          "title_ja": "行楽地の商圏でロボットが人気を集める",
+          "summary_ja": "人型ロボットや四足歩行ロボットが観光地や商業施設に登場しています。来訪者との交流やパフォーマンスで注目を集める一方、安全基準の整備も求められています。",
+          "source": "京报网",
+          "url": "https://news.bjd.com.cn/2026/10/14/11994281.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "ユニバ",
+      "reason_ja": "USJの冬のシーズナルイベントで登場するクリスマス限定フードや人気キャラクターのコラボメニューが公開され注目を集めています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "ユニバーサルスタジオジャパン",
+        "USJ"
+      ],
+      "product_keywords_ja": [
+        "USJ グッズ",
+        "ユニバーサルスタジオジャパン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "USJがクリスマス限定フードのメニューを公開",
+          "summary_ja": "ユニバーサル・スタジオ・ジャパンで冬のシーズナルイベントが開催されます。スヌーピーやミニオンをモチーフにした限定フードメニューが勢ぞろいします。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/f36065b2bc41beeb2c83eaf05cf90f2de668217e"
+        },
+        {
+          "title_ja": "USJが冬のホリデーグルメイベントを開催へ",
+          "summary_ja": "ユニバーサル・スタジオ・ジャパンで冬のフードフェスティバルが開催されます。マリオやハリー・ポッターなどの人気作品をテーマにした限定メニューが展開されます。",
+          "source": "GAME Watch",
+          "url": "https://game.watch.impress.co.jp/docs/news/2147903.html"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "OnePlus 16",
-      "reason_ja": "大容量バッテリーと最新プロセッサを搭載した新型フラッグシップスマートフォンの発売情報が公開され話題です。",
-      "genre": "gadget",
-      "commercial_score": 85,
+      "keyword": "网传“禁止教师用AI备课”系误读",
+      "reason_ja": "教員のAI教材作成禁止というネット上の誤解に対し、各地でAI教育利用のガイドライン策定や推進が進んでいることが明らかになりました。",
+      "genre": "ai",
+      "commercial_score": 78,
       "product_keywords": [
-        "OnePlus 16",
-        "Snapdragon phone"
+        "AI教育",
+        "人工智能教学"
       ],
       "product_keywords_ja": [
-        "OnePlus スマホ"
+        "AI 教育 ツール"
       ],
-      "trend_source": "ニュース（スマートフォン）",
-      "trend_source_type": "news",
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "新スマートフォンが地域限定で登場し話題に",
-          "summary_ja": "一部地域から撤退したブランドですが、魅力的な新モデルの開発は続けられています。新型スマートフォンの投入が注目されています。",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/12/its-a-real-shame-the-oneplus-16-is-launching-only-in-china/"
+          "title_ja": "教員のAI活用指針を巡る解説が公開",
+          "summary_ja": "教育現場でのAI活用について各地で指針や行動計画が定められています。教員向けの活用基準を明確にし、授業支援としての適切な利用を促す取り組みが進められています。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1087607867_121443915"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "腾讯打算拿什么撬动红果近2亿日活",
+      "reason_ja": "テンセントが無料の短尺ドラマサービスを新たに開始し、急成長するショートドラマ市場での利用獲得競争が注目されています。",
+      "genre": "other",
+      "commercial_score": 76,
+      "product_keywords": [
+        "微短剧",
+        "微信小程序"
+      ],
+      "product_keywords_ja": [
+        "ショートドラマ アプリ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テンセントが無料のショートドラマを開始",
+          "summary_ja": "手軽に楽しめる無料ドラマを配信する新サービスが立ち上がりました。アプリのインストール不要で手軽に視聴できる利便性を打ち出しています。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/2026-10-14/detail-inivcxxr7875516.d.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "asml",
+      "reason_ja": "オランダの半導体製造装置大手ASMLが好決算を発表し、将来に向けた長期の旺盛な受注需要を示したことで関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "ASML",
+        "semiconductor"
+      ],
+      "product_keywords_ja": [
+        "半導体"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ASMLの好決算と長期需要への強い関心",
+          "summary_ja": "半導体製造装置大手の業績が予想を上回り、好調な結果となりました。顧客企業から将来に向けた長期的な受注意欲が示されており、成長への期待が高まっています。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
         },
         {
-          "title_ja": "大容量バッテリーと最新チップを搭載した新型スマホ発表",
-          "summary_ja": "大容量バッテリーや急速充電、最新のプロセッサを搭載した新型スマートフォンが登場しました。高いスペックを備えた注目端末として紹介されています。",
-          "source": "Gadget Review",
-          "url": "https://www.gadgetreview.com/oneplus-16-launches-in-china-with-a-9000mah-battery"
+          "title_ja": "半導体市場で注目されるASMLの業績見通し",
+          "summary_ja": "半導体関連株の先行きに関心が集まる中、製造装置大手の生産能力見通しが注目されています。市場の信頼感を支える重要な指標として関心が寄せられています。",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/asml-s-guidance-key-to-instill-confidence-in-fragile-chip-trade"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "冬天来了波司登却卖不动了吗",
-      "reason_ja": "冬の防寒着シーズンを前に、大手ダウンブランドの高級化戦略や業績の成長鈍化に注目が集まっています。",
-      "genre": "outdoor",
-      "commercial_score": 85,
+      "keyword": "the trap netflix psychological thriller",
+      "reason_ja": "ネットフリックスで配信開始された心理サスペンスドラマ『ザ・トラップ』が、スリリングな展開で一気見必至と話題を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 75,
       "product_keywords": [
-        "波司登 羽绒服",
-        "防寒服"
+        "Netflix",
+        "The Trap"
       ],
       "product_keywords_ja": [
-        "波司登 ダウンジャケット",
-        "ダウンコート"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "パリでのショーから見るダウンジャケットブランドの歩み",
-          "summary_ja": "受託生産から独自ブランドへの転換や国際的な舞台での展開など、ブランドの成長の歴史が振り返られています。製品価値の向上に向けた歩みが紹介されています。",
-          "source": "搜狐",
-          "url": "https://m.sohu.com/a/1087115204_121955537"
-        },
-        {
-          "title_ja": "ダウンジャケット大手の高級化戦略と成長速度の変化",
-          "summary_ja": "店舗網の再編が進む中、業績の成長ペースに変化が生じていることが報じられています。大衆向けブランドとしての認知から高級路線への移行における課題が指摘されています。",
-          "source": "搜狐",
-          "url": "https://m.sohu.com/a/1087043711_250147"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "两轮电动车一键召唤能自己来接你",
-      "reason_ja": "無人走行で荷物を取りに行ったり呼び出しができる自動運転二輪電動バイクが登場し話題となっています。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "自动驾驶 电动车",
-        "两轮电动车"
-      ],
-      "product_keywords_ja": [
-        "電動バイク",
-        "自動運転モビリティ"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "自動運転機能を備えた二輪電動バイクが発表",
-          "summary_ja": "二輪の電動バイクに自動運転機能が搭載されたモデルが登場しました。荷物の受け取りや呼び出しによる移動などに対応し、複数グレードが展開されています。",
-          "source": "新浪网",
-          "url": "https://video.sina.com.cn/p/finance/2026-10-13/detail-inivafqh0452057.d.html"
-        },
-        {
-          "title_ja": "自律走行する二輪電動バイクが展示会で注目を集める",
-          "summary_ja": "展示会場で自動的に方向転換やブレーキを行い走行する電動バイクが披露され、来場者の関心を集めました。未来の移動手段としての機能と価格に注目が集まっています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261013/49791641.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "poundland",
-      "reason_ja": "英国の大手ディスカウントストアの経営危機が報じられ、雇用や店舗網の行方に注目が集まっています。",
-      "genre": "sale",
-      "commercial_score": 80,
-      "product_keywords": [
-        "discount store",
-        "budget household goods"
-      ],
-      "product_keywords_ja": [
-        "ディスカウントストア 日用品"
+        "Netflix"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "格安チェーンの経営破綻を懸念し労働組合が協議を要請",
-          "summary_ja": "大手ディスカウントチェーンの経営破綻手続きへの移行が危惧され、労働組合が懸念を強めています。関係者との対話を求めているものの進展が得られていない状況が報じられています。",
-          "source": "The Grocer",
-          "url": "https://www.thegrocer.co.uk/news/union-deeply-concerned-poundland-is-being-pushed-into-administration/724709.article"
+          "title_ja": "ネットフリックスの新作サスペンスが配信開始",
+          "summary_ja": "ネットフリックスで心理サスペンスドラマが配信されました。緊迫感あふれるストーリー展開で、ドラマファンの注目を集めています。",
+          "source": "HELLO! Magazine",
+          "url": "https://www.hellomagazine.com/film/928715/netflix-psychological-thriller-the-trap-next-binge-watch/"
+        },
+        {
+          "title_ja": "新作ドラマ『ザ・トラップ』の配信レビュー",
+          "summary_ja": "ネットフリックスの新作スリラー作品についての作品評価が公開されました。視聴すべきかどうかの見どころや魅力が詳しく解説されています。",
+          "source": "Decider",
+          "url": "https://decider.com/2026/10/13/the-trap-on-netflix-series-review-stream-or-skip/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "吉利火爆巴黎车展老外排队打卡",
-      "reason_ja": "パリモーターショーで中国の自動車メーカーが多数出展し、現地で来場者の注目を集めています。",
-      "genre": "gadget",
-      "commercial_score": 80,
+      "keyword": "小甜水要涨价了吗",
+      "reason_ja": "含糖飲料税の導入議論が各国で進む中、清涼飲料水の値上げや飲料業界の糖分・人工甘味料対策に関心が高まっています。",
+      "genre": "food",
+      "commercial_score": 75,
       "product_keywords": [
-        "吉利汽车",
-        "新能源汽车"
+        "无糖饮料",
+        "低糖饮料"
       ],
       "product_keywords_ja": [
-        "吉利 EV",
-        "中国EV"
+        "無糖飲料",
+        "トクホ 飲料"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "パリモーターショーで中国の自動車ブランドが多数出展",
-          "summary_ja": "国際的なモーターショーにおいて中国自動車メーカーがブースの多くを占め、存在感を示しています。複数の主要ブランドが一堂に集まり、現地で関心を集めています。",
+          "title_ja": "甘い飲料の値上げ議論と糖税の動向",
+          "summary_ja": "清涼飲料に対する課税の議論が世界各地で広がっています。人工甘味料を用いた飲料も対象に含める動きがあり、飲料業界にとって大きな転換点となっています。",
+          "source": "凤凰网",
+          "url": "https://finance.ifeng.com/c/8xDJpxcuVZK"
+        },
+        {
+          "title_ja": "世界各国で広がる含糖飲料への課税方針",
+          "summary_ja": "健康への配慮から甘い飲料に税を課す制度を導入する国が増えています。欧州などでも導入計画が進められており、各国の政策動向が注目されています。",
           "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261013/49791796.html"
+          "url": "https://news.china.com/socialgd/10000169/20261014/49793966.html"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "heating oil prices",
-      "reason_ja": "気温低下に伴い家庭用暖房油の価格が高騰しており、家計支援や業界規制を求める声が高まっています。",
-      "genre": "kaji",
-      "commercial_score": 75,
+      "keyword": "nikki great british bake off",
+      "reason_ja": "イギリスの人気製菓勝ち抜き番組『ブリティッシュ・ベイクオフ』で波乱のパン作り対決が放送され、視聴者の間で大きな話題となりました。",
+      "genre": "food",
+      "commercial_score": 72,
       "product_keywords": [
-        "heating oil",
-        "electric heater"
+        "Bake Off",
+        "baking"
       ],
       "product_keywords_ja": [
-        "電気ヒーター",
-        "省エネ暖房"
+        "製菓用品",
+        "パン作り"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "暖房油の高騰に直面する家庭へ政府が規制見直しを約束",
-          "summary_ja": "光熱費の高騰に直面する暖房油の利用者に対し、政府から業界規制を強化する方針が示されました。冬を控えて家計への負担増が懸念されています。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o"
+          "title_ja": "人気製菓番組ベイクオフの新たな挑戦が放送",
+          "summary_ja": "イギリスで親しまれている製菓コンテスト番組の最新エピソードが放送されました。審査員が提示する難易度の高い課題に挑戦者たちが挑んでいます。",
+          "source": "Channel 4",
+          "url": "https://www.channel4.com/press/news/great-british-bake-second-baker-leaves-tent-4"
         },
         {
-          "title_ja": "気温低下とともに暖房油価格が上昇し地方コミュニティに影響",
-          "summary_ja": "寒さが増す中で暖房用燃料の価格が上がり、地方のコミュニティに影響が出ています。燃料代の負担を受けやすい地域での苦境が伝えられています。",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqgm09xvlvjeo"
+          "title_ja": "ベイクオフのパン対決で波乱の展開に",
+          "summary_ja": "番組内で緊張感あるパン作り対決が繰り広げられました。波乱の展開を迎えた放送回となり、視聴者の注目を集めています。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-bread-week-nikki-molly-b3066168.html"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "日本翻盖手机终于过气了",
-      "reason_ja": "日本の通信ネットワークの切り替えに伴い、ガラケーの時代が幕を閉じる話題が中国のSNSでも反響を呼んでいます。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "翻盖手机",
-        "功能手机"
-      ],
-      "product_keywords_ja": [
-        "ガラケー",
-        "折りたたみ携帯"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "専用サービスの終了で日本の二つ折り携帯が時代の節目に",
-          "summary_ja": "通信ネットワークや専用サービスの終了に伴い、一世を風靡した二つ折り機能付き携帯電話が幕を下ろすことが報じられています。長年親しまれた端末の歴史的な節目として注目されています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261013/49791628.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "dungeon crawler carl live action",
-      "reason_ja": "人気SFファンタジー小説の実写化プロジェクトが進展し、撮影開始予定などが明かされてファンの注目を集めています。",
+      "keyword": "biddy blas",
+      "reason_ja": "スター・ウォーズの新作レーシングゲームに登場した個性的な新キャラクターがファンの間で大人気となり話題を呼んでいます。",
       "genre": "other",
       "commercial_score": 70,
       "product_keywords": [
-        "Dungeon Crawler Carl book",
-        "Dungeon Crawler Carl audiobook"
+        "Star Wars Galactic Racer",
+        "Biddy Blas"
       ],
       "product_keywords_ja": [
-        "ダンジョン・クローラー・カール",
-        "洋書 ファンタジー"
+        "スターウォーズ ゲーム"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "人気小説の実写テレビシリーズが撮影開始へ向け進行中",
-          "summary_ja": "人気小説を原作とする実写テレビシリーズの撮影が計画されていることが明らかになりました。原作者と番組幹部から今後の展開について言及されています。",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-filming-2027-release-date-1236907644/"
-        },
-        {
-          "title_ja": "実写版における主要キャラクターの表現方法が判明",
-          "summary_ja": "オーディオブックの担当者が、実写化にあたってのキャラクター作りの方針を明かしました。小説版とは異なるアプローチで役柄に取り組むことが語られています。",
-          "source": "Collider",
-          "url": "https://collider.com/dungeon-crawler-carl-jeff-hays-princess-donut-live-action-changes/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "hunger games movies",
-      "reason_ja": "人気ディストピア映画シリーズ全作が配信サービスから終了することになり、駆け込み視聴の話題が広がっています。",
-      "genre": "other",
-      "commercial_score": 65,
-      "product_keywords": [
-        "Hunger Games Blu-ray",
-        "Hunger Games novel"
-      ],
-      "product_keywords_ja": [
-        "ハンガー・ゲーム DVD",
-        "ハンガーゲーム 原作"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "人気映画シリーズがネットフリックスの配信から終了へ",
-          "summary_ja": "ライセンス契約の満了に伴い、複数の映像作品が配信サービスから姿を消す予定です。人気のディストピアシリーズ作品もラインナップから外れることが伝えられています。",
-          "source": "Comic Basics",
-          "url": "https://www.comicbasics.com/everything-leaving-netflix-this-week-including-a-popular-dystopian-franchise/"
-        },
-        {
-          "title_ja": "ハンガー・ゲーム全作品の配信終了を前に視聴を呼びかけ",
-          "summary_ja": "映画ハンガー・ゲームシリーズの全作品が配信から外れる期日が迫っています。視聴可能期間が残りわずかとなり、ファンに向けた案内が報じられています。",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/last-chance-watch-5-hunger-170355945.html"
+          "title_ja": "新作スター・ウォーズゲームの新キャラが話題に",
+          "summary_ja": "新作ゲームに登場する新キャラクターがファンの注目を集めています。独自性のあるユニークなキャラクター造形が話題を呼び、コミュニティで高い人気を獲得しています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ai-couldnt-have-made-star-wars-galactic-racers-biddy-blas"
         }
       ],
       "country": "us",

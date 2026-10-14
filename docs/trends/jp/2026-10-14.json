@@ -1,0 +1,159 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T16:11:23+09:00",
+  "trends": [
+    {
+      "keyword": "プライム感謝祭",
+      "reason_ja": "アマゾンのプライム会員向け大型セールに合わせ、お買い得なガジェットや新型Kindle端末などのセール情報に注目が集まっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "プライム感謝祭",
+        "Amazon セール"
+      ],
+      "product_keywords_ja": [
+        "プライム感謝祭",
+        "セール"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライム感謝祭でおすすめのガジェット特集",
+          "summary_ja": "プライム会員を対象とした秋の大型セールが開催されます。日頃の利用への感謝を込めた会員限定イベントで、多数の注目アイテムがお買い得になります。",
+          "source": "ガジェットレビューブログ",
+          "url": "https://digital-style.jp/amazon-prime-fes"
+        },
+        {
+          "title_ja": "アマゾン大型セールで電子書籍リーダーが特価に",
+          "summary_ja": "アマゾンのプライム会員向けビッグセールで電子書籍リーダーが特別価格で販売されます。新型のカラー対応モデルなど注目の読書端末が対象となっています。",
+          "source": "INTERNET Watch",
+          "url": "https://internet.watch.impress.co.jp/docs/shopping/2147871.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Apple TV 4K",
+      "reason_ja": "アップルが新型「Apple TV 4K」や「HomePod mini 2」を一斉発表し、ホームシアター連携や機能進化が話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Apple TV 4K",
+        "HomePod mini 2"
+      ],
+      "product_keywords_ja": [
+        "Apple TV 4K",
+        "HomePod mini"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが次世代のHomePod mini発表",
+          "summary_ja": "アップルがスマートスピーカーの新製品を発表しました。新しいカラーバリエーションが加わり、より豊かな音響体験を楽しめる設計となっています。",
+          "source": "Apple",
+          "url": "https://www.apple.com/jp/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+        },
+        {
+          "title_ja": "新型Apple TVとHomePod miniが登場",
+          "summary_ja": "アップルがホーム向け新製品を発表し、国内でも発売されることが明らかになりました。処理性能や連携機能が進化した注目モデルとなっています。",
+          "source": "Business Insider Japan",
+          "url": "https://www.businessinsider.jp/article/2610-apple-tv-4k-and-homepod-mini-2/"
+        }
+      ]
+    },
+    {
+      "keyword": "macrumors",
+      "reason_ja": "アップルが初のタッチスクリーン搭載MacBookや新型iPad miniの投入を計画しているとの報道が話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 88,
+      "product_keywords": [
+        "MacBook",
+        "iPad mini"
+      ],
+      "product_keywords_ja": [
+        "MacBook",
+        "iPad mini"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "アップルがタッチ対応MacBook投入を計画か",
+          "summary_ja": "アップルが新型スマートホーム機器に続き、新たな製品発表を計画していると報じられました。ブランド初となるタッチスクリーン搭載のMacBookや新型iPad miniの登場が期待されています。",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october"
+        },
+        {
+          "title_ja": "MacBook Proに議論呼ぶ新機能が追加か",
+          "summary_ja": "かつてスティーブ・ジョブズ氏が否定的だったタッチ操作機能がMacBookに搭載される可能性が報じられています。長年の方針転換として注目を集めています。",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/11/steve-jobs-said-this-kind-of-device-would-be-terrible-16-years-later-apple-seems-set-to-release-it"
+        }
+      ]
+    },
+    {
+      "keyword": "クリスマスコフレ",
+      "reason_ja": "人気コスメブランドからホリデー限定コフレやギフトセットの情報が続々と公開され、予約争奪戦に向けて関心が高まっています。",
+      "genre": "beauty",
+      "commercial_score": 88,
+      "product_keywords": [
+        "クリスマスコフレ",
+        "ホリデーコレクション"
+      ],
+      "product_keywords_ja": [
+        "クリスマスコフレ",
+        "ホリデーコレクション"
+      ],
+      "trend_source": "ニュース（コスメ）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気デパコスの限定クリスマスコフレ特集",
+          "summary_ja": "各人気コスメブランドからホリデーシーズンの限定キットが登場します。シャネルやディオールなど憧れのデパコスブランドから多彩なアイテムが揃います。",
+          "source": "ファッションプレス",
+          "url": "https://www.fashion-press.net/news/148503"
+        },
+        {
+          "title_ja": "イソップから多彩なホリデー限定ギフトが登場",
+          "summary_ja": "イソップから限定ボックスに収められたホリデーコレクションが発表されました。定番のスキンケアセットやフレグランスのコレクションが展開されます。",
+          "source": "ELLE",
+          "url": "https://www.elle.com/jp/beauty/makeup-skincare/g74087035/2026christmascoffret-nd-aesop-2610-hns/"
+        }
+      ]
+    },
+    {
+      "keyword": "ユニバ",
+      "reason_ja": "USJの冬のシーズナルイベントで登場するクリスマス限定フードや人気キャラクターのコラボメニューが公開され注目を集めています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "ユニバーサルスタジオジャパン",
+        "USJ"
+      ],
+      "product_keywords_ja": [
+        "USJ グッズ",
+        "ユニバーサルスタジオジャパン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "USJがクリスマス限定フードのメニューを公開",
+          "summary_ja": "ユニバーサル・スタジオ・ジャパンで冬のシーズナルイベントが開催されます。スヌーピーやミニオンをモチーフにした限定フードメニューが勢ぞろいします。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/f36065b2bc41beeb2c83eaf05cf90f2de668217e"
+        },
+        {
+          "title_ja": "USJが冬のホリデーグルメイベントを開催へ",
+          "summary_ja": "ユニバーサル・スタジオ・ジャパンで冬のフードフェスティバルが開催されます。マリオやハリー・ポッターなどの人気作品をテーマにした限定メニューが展開されます。",
+          "source": "GAME Watch",
+          "url": "https://game.watch.impress.co.jp/docs/news/2147903.html"
+        }
+      ]
+    }
+  ]
+}
