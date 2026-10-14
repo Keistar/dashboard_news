@@ -31,13 +31,13 @@ exec > >(tee -a "$LOG") 2>&1
 
 # 通知。Discord（Webhook があれば）と、Mac なら通知センターに出す。
 # Webhook の URL は LOGIK2_DISCORD_WEBHOOK_URL か ~/.config/logik2/discord_webhook_url（権限 600）。無ければ Discord には送らない。
-# URL はコマンドの引数に出さない（curl には -K で渡す）。送れなくても止めない。
+# URL はコマンドの引数に出さない（curl には -K で渡す）。送れないときはログに出し、止めない。
 notify() {
   local title="dashboard_news" msg="$1" url="${LOGIK2_DISCORD_WEBHOOK_URL:-}"
-  [ -n "$url" ] || url="$(cat "$HOME/.config/logik2/discord_webhook_url" 2>/dev/null)"
+  [ -n "$url" ] || url="$(cat "$HOME/.config/logik2/discord_webhook_url" 2>/dev/null || true)"
   if [ -n "$url" ]; then
     python3 -c 'import json, sys; print(json.dumps({"content": f"**{sys.argv[1]}**\n{sys.argv[2]}"[:1900], "allowed_mentions": {"parse": []}}))' "$title" "$msg" \
-      | curl -sS -m 15 -o /dev/null -H 'Content-Type: application/json' --data-binary @- -K <(printf 'url = "%s"\n' "$url") || true
+      | curl -fsS -m 15 -o /dev/null -H 'Content-Type: application/json' --data-binary @- -K <(printf 'url = "%s"\n' "$url") || true
   fi
   if command -v osascript >/dev/null 2>&1; then
     osascript -e "display notification \"$msg\" with title \"$title\"" >/dev/null 2>&1 || true
