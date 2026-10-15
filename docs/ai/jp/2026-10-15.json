@@ -1,0 +1,46 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:34:29+09:00",
+  "stories": [
+    {
+      "title_ja": "YouTube Musicが生成AI制作の楽曲にラベルを表示",
+      "summary_ja": "YouTubeは音楽配信サービス「YouTube Music」において、主に生成AIで作られた楽曲であることを示すラベルの表示を始めました。音楽会社との連携や独自ツールにより楽曲や歌声のAI生成を判定し、再生画面に明示します。今後は動画共有サービスYouTube本体への適用拡大も計画されています。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002287/",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "イヤホン",
+        "スマートスピーカー"
+      ]
+    },
+    {
+      "title_ja": "日本俳優連合が音声に関する生成AI利用指針を発表",
+      "summary_ja": "日本俳優連合は、音声分野における生成AIの利用に関するガイドラインを発表しました。記者会見には副理事長の野沢雅子氏や池水通洋氏、常務理事の島田敏氏らが登壇し、声の無断利用に対する懸念を表明しました。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/75f55711b1890956f5e38b8ac2217b21287eb108",
+      "score": 80,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "生成AI普及に伴い企業の採用見直しと業務代替懸念が拡大",
+      "summary_ja": "生成AIの普及により、企業の採用活動や雇用体制を見直す動きが広がっています。AI活用に向けた技術力の高い人材の獲得が進む一方で、日常的な業務が代替されることへの不安も生じています。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article/1390047/",
+      "score": 75,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "MODEがIoT基盤に生成AIを統合し現場判断を支援",
+      "summary_ja": "IoTプラットフォームを開発するMODEは、自社基盤「BizStack」に生成AIを組み込みました。センサー等から収集したデータを可視化するだけでなく、現場の状況に応じた判断を自ら知らせるエージェントへの進化を目指しています。",
+      "source": "ビジネスネットワーク",
+      "url": "https://businessnetwork.jp/article/36387",
+      "score": 70,
+      "commercial_score": 50
+    }
+  ]
+}

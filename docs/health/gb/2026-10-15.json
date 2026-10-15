@@ -1,0 +1,56 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:52:46+09:00",
+  "stories": [
+    {
+      "title_ja": "英NHS、AIと遺伝子解析を活用したがん検査拠点を新設",
+      "summary_ja": "英国のNHS（国民保健サービス）ががん患者の治療向上に向けた最新のゲノム検査施設を開設しました。患者と腫瘍のデータを人工知能（AI）と組み合わせ、病状を詳細に把握して適切な治療に役立てます。",
+      "source": "London Evening Standard",
+      "url": "https://www.standard.co.uk/news/health/nhs-institute-of-cancer-research-sutton-london-dna-b1300911.html",
+      "score": 75,
+      "commercial_score": 35,
+      "product_keywords": [
+        "遺伝子検査キット"
+      ]
+    },
+    {
+      "title_ja": "スコットランドで減量注射の公費処方が限定的、800人未満",
+      "summary_ja": "スコットランドの公的医療サービスで減量目的の注射を受けた患者が800人未満にとどまることが分かりました。現在、減量専用の治療を提供している地域保健委員会は14地域中5地域に限られています。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c69wzpw0x9jeo",
+      "score": 73,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ヘルスメーター"
+      ]
+    },
+    {
+      "title_ja": "英ブレントで若者の心の健康支援月間、地域イベントや相談を提供",
+      "summary_ja": "ロンドンのブレント地域で、若者のウェルビーイング向上に焦点を当てた地域イベント月間が開催されています。家族が気軽に専門的なサポートへアクセスできる環境を整え、心の健康維持を後押ししています。",
+      "source": "My London",
+      "url": "https://www.mylondon.news/special-features/how-brent-families-can-access-34708541",
+      "score": 68,
+      "commercial_score": 30,
+      "product_keywords": [
+        "アロマディフューザー",
+        "リラックス グッズ"
+      ]
+    },
+    {
+      "title_ja": "英ストーンの地域拠点で無料健康診断、10月20日に開催",
+      "summary_ja": "英ストーンのコミュニティ拠点にて、10月20日に無料のNHS健康診断イベントが開催されます。来場者は身体のチェックを受けられるほか、自覚症状に関するアドバイスや健康情報の提供を受けることができます。",
+      "source": "A Little Bit of Stone",
+      "url": "https://alittlebitofstone.com/smart-symptoms-roadshow-to-offer-free-health-checks-in-stone//",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "血圧計",
+        "パルスオキシメーター"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-15 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0614;
+    --line: #341a50;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #c8a0ff;
+    --signal: #d8b0ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TRENDING NOW &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-15 &middot; 16:09 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">プライム感謝祭</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">95<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">アマゾンの会員向けセール「プライム感謝祭」の先行セールが始まり、人気のイヤホンやヘッドホンなどの特価商品情報に関心が集まっています。 プライム会員を対象とした秋のセールが開催されています。日頃の利用への感謝を込めたイベントで、多数の注目アイテムがお買い得になっています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://digital-style.jp/amazon-prime-fes" target="_blank" rel="noopener noreferrer">
+                ガジェットレビューブログ <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">セール・キャンペーン</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://kajetblog.com/amazon-prime-sale-2026-2/" target="_blank" rel="noopener noreferrer">プライム感謝祭の先行セールがスタート — カジェログ</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">東京ディズニーランド</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">90<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">東京ディズニーリゾートで冬のイベント「ディズニー・クリスマス」の開催に合わせて、人気キャラクター「リルリンリン」のポップコーンバケットや限定グッズが公開され話題を呼んでいます。 東京ディズニーリゾートで人気キャラクターの新たなフードスーベニアが発売されます。優しい色合いのポップコーンバケットなど冬の限定アイテムが展開されます。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://game.watch.impress.co.jp/docs/news/2148303.html" target="_blank" rel="noopener noreferrer">
+                GAME Watch <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">食品・グルメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://news.yahoo.co.jp/articles/e42f408fb5851bf2093fe14d5c38d1adb0598912" target="_blank" rel="noopener noreferrer">ディズニーがクリスマス限定グッズを先行発売 — Yahoo!ニュース</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">クリスマスコフレ</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">90<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">人気フレグランスやコスメブランドからホリデー限定コフレの情報が解禁され、完売必至の限定セットの予約開始に向けて期待が高まっています。 人気フレグランスブランドからホリデー限定コレクションが発表されました。象徴的な香りのディスカバリーセットやハンドケアキットが揃います。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.elle.com/jp/beauty/nail-fragrance/g74116964/2026christmascoffret-nd-lelabo-2610-hns/" target="_blank" rel="noopener noreferrer">
+                ELLE <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">美容・コスメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://i-voce.jp/feed/5198853/" target="_blank" rel="noopener noreferrer">ランコムがパリを描いた限定コレクション — VOCE</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ちび まる子 ちゃん ハッピー くじ</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">『ちびまる子ちゃん』の原作連載周年の節目を記念したHappyくじの発売が発表され、コミックスの表紙を立体化したフィギュアなどの景品が注目を集めています。 人気漫画の記念イヤーを祝う特別な一番くじが発売されます。コミックスのカバーを再現した立体フィギュアなどが当たります。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.yahoo.co.jp/articles/bdc568499e01c047ae5b4bdaa6cac3684c2d5cea" target="_blank" rel="noopener noreferrer">
+                Yahoo!ニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.asahi.com/and/entertainment/16966529" target="_blank" rel="noopener noreferrer">原作表紙や名場面を立体化した記念くじ — 朝日新聞</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">myojo</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">アイドル誌『Myojo』の最新号で人気グループHey! Say! JUMPが表紙と裏表紙を飾り、記念イヤーに向けた特集が掲載されることからファンの注目が集まっています。 人気アイドルグループが月刊誌の最新号で表紙と裏表紙を飾ります。通常版とコンパクト版の両方で記念イヤーに向けた特集が組まれています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.yahoo.co.jp/articles/53c7a7ac563c26440dea96a75785f75160420ed3" target="_blank" rel="noopener noreferrer">
+                Yahoo!ニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily</footer>
+  </div>
+</body>
+</html>

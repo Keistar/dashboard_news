@@ -1,0 +1,66 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:37:03+09:00",
+  "stories": [
+    {
+      "title_ja": "階躍星辰、AIが自律行動するスマートフォンの新機種発表",
+      "summary_ja": "中国のAIスタートアップ階躍星辰（StepFun）は、大規模AIモデルをネイティブ搭載したスマートフォン「STEPX Neo」を3999元で発表しました。端末に向かって話しかけるだけで、スケジュール作成や条件に合わせた施設予約などの複雑なタスクを自動で行える機能が備わっています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5953189932_162d6782c067050sim.html?from=tech",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "AIスマートフォン",
+        "AIスマホ"
+      ]
+    },
+    {
+      "title_ja": "アップル初の折りたたみ「iPhone Duo」、画面修理費に注目",
+      "summary_ja": "米アップル（Apple）初の折りたたみスマートフォン「iPhone Duo」が、中国で10月16日に予約開始、10月23日に発売されます。中国での価格は1万5999元からですが、保証外での内側ディスプレイ交換費用が約8000元（7998元）に達することが発表され関心を集めています。",
+      "source": "中关村在线手机",
+      "url": "https://mobile.zol.com.cn/1260/12603908.html",
+      "score": 85,
+      "commercial_score": 85,
+      "product_keywords": [
+        "iPhone Duo",
+        "Apple iPhone"
+      ]
+    },
+    {
+      "title_ja": "中国で2K・185Hz対応スマホ画面発表、2200nitsを記録",
+      "summary_ja": "中国ディスプレイ大手のヴィジョノックス（Visionox）は、清華大学およびiQOOと共同で、2K解像度と185Hzの高駆動に対応するスマートフォン向け有機EL画面を発表しました。全画面ピーク輝度2200nitsを達成し、屋外の強い日差しの下でも高い視認性を保ちます。この画面は新型機「iQOO Neo12」に初搭載されます。",
+      "source": "凤凰网",
+      "url": "https://pingce.ifeng.com/c/8xDzzUQCdVc",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "iQOO Neo",
+        "vivo スマホ"
+      ]
+    },
+    {
+      "title_ja": "豆包スマホ、AI自動操作を拒否する主要アプリ一覧を公表",
+      "summary_ja": "バイトダンス（ByteDance）系の豆包スマホアシスタントは、画面の自動操作権限に関する協定の進捗を発表しました。主要サービスである微信（WeChat）や淘宝（タオバオ）、支付宝（アリペイ）などが、安全面や仕様上の観点からAIによる自動操作を拒否する対象として公表されています。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1087770369_114988",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "オナー、50秒で10度冷却するファン搭載ゲーム向けスマホ",
+      "summary_ja": "中国オナー（Honor）は、新型スマートフォン「WIN2」シリーズに採用する立体冷却技術を発表しました。業界初となるデュアル冷却ファンを内蔵し、50秒で本体温度を10度下げられる構造により、長時間の高負荷ゲームプレイを支援します。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1087812163_392936",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Honor スマホ",
+        "オナー スマホ"
+      ]
+    }
+  ]
+}

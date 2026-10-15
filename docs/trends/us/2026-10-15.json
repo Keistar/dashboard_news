@@ -1,0 +1,165 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T16:09:52+09:00",
+  "trends": [
+    {
+      "keyword": "NVIDIA RTX Spark",
+      "reason_ja": "エヌビディアが次世代グラフィックス技術「RTX Spark」の提供開始と多数の人気ゲーム対応を発表し、ゲームファンの間で大きな注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "NVIDIA RTX Spark",
+        "gaming laptop",
+        "DLSS"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングPC",
+        "グラフィックボード",
+        "NVIDIA RTX"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "エヌビディアが新型グラフィックスを発表",
+          "summary_ja": "最新技術を搭載したグラフィックスの展開が発表されました。多数の人気大作ゲームタイトルが対応し、発売に向けた期待が高まっています。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/"
+        },
+        {
+          "title_ja": "最新モデル導入でグラフィック処理が高速化",
+          "summary_ja": "画像処理の高速化を果たす最新モデルが披露されました。クリエイター向けツールやゲームプレイの快適性が大幅に向上します。",
+          "source": "shattered.io",
+          "url": "https://shattered.io/nvidia-rtx-spark-launch-week-dlss-5-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "Beauty Advent Calendar",
+      "reason_ja": "人気コスメブランド各社からホリデーシーズンに向けたビューティーアドベントカレンダーが発売され、完売必至の人気アイテムとして注目を集めています。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Beauty Advent Calendar",
+        "Charlotte Tilbury",
+        "Sephora"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー コスメ",
+        "ホリデーコレクション"
+      ],
+      "trend_source": "ニュース（コスメ）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "完売必至のユニークなアドベントカレンダー",
+          "summary_ja": "ホリデーシーズンに向けて多彩なアドベントカレンダーが登場しています。早期完売が予想される注目の人気商品が紹介されています。",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495"
+        },
+        {
+          "title_ja": "人気ブランドのビューティーカレンダー特集",
+          "summary_ja": "セフォラや人気コスメブランドから豪華なカウントダウンボックスが登場しています。手頃なケア用品から高級メイクまで幅広く揃います。",
+          "source": "Yahoo",
+          "url": "https://shopping.yahoo.com/beauty/article/the-best-beauty-advent-calendars-for-2026-sephora-lush-charlotte-tilbury-and-more-are-still-available-for-the-holiday-season-150421007.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Anthropic",
+      "reason_ja": "AI開発企業アンソロピックが上場を控える中で売上高の大幅な急増を投資家説明会で発表し、AI市場における存在感の大きさが話題となっています。",
+      "genre": "ai",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Anthropic",
+        "Claude AI",
+        "AI API"
+      ],
+      "product_keywords_ja": [
+        "Claude",
+        "生成AI",
+        "人工知能"
+      ],
+      "trend_source": "ニュース（AI）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アンソロピックが上場に向け大幅な増収発表",
+          "summary_ja": "人工知能開発大手が株式公開に向けて好調な四半期売上高を報告しました。生成AI需要の高まりを背景に急速な事業拡大を続けています。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+        },
+        {
+          "title_ja": "アンソロピックの四半期売上が急拡大を記録",
+          "summary_ja": "投資家向け説明会で力強い業績の伸びが明らかにされました。株式公開を前に事業の成長基盤を確立し、市場の関心を集めています。",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10"
+        }
+      ]
+    },
+    {
+      "keyword": "tsm stock",
+      "reason_ja": "世界最大の半導体受託製造大手TSMCが世界的なAI需要の急拡大を背景に市場予想を上回る最高益を発表し、半導体市場への関心が高まっています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "TSMC",
+        "AI chip",
+        "semiconductor"
+      ],
+      "product_keywords_ja": [
+        "半導体",
+        "AIチップ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "TSMCがAI需要拡大で最高益を更新",
+          "summary_ja": "半導体受託製造大手が市場予想を上回る好決算を発表しました。世界的な人工知能ブームを背景に力強い成長を維持しています。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
+        },
+        {
+          "title_ja": "TSMCがAI受注増で業績見通しを引き上げ",
+          "summary_ja": "半導体大手企業が旺盛なAI関連需要を受けて予想以上の業績見通しを示しました。世界的な投資持続性への懸念を跳ね返し、急速な成長を続けています。",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
+        }
+      ]
+    },
+    {
+      "keyword": "escape halloween",
+      "reason_ja": "ハロウィンシーズンに向けて体験型のホラー脱出ゲームや没入型イベントが多数開催され、友人や家族と楽しむレジャーとして注目を集めています。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Halloween escape room",
+        "horror escape game"
+      ],
+      "product_keywords_ja": [
+        "脱出ゲーム",
+        "ハロウィン イベント"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ハロウィン向け恐怖の脱出ゲーム特集が公開",
+          "summary_ja": "ハロウィンシーズンを盛り上げる注目の体験型イベントが紹介されています。多彩なテーマのホラー脱出ゲームが各地で開催されています。",
+          "source": "Love London Love Culture",
+          "url": "https://lovelondonloveculture.com/2026/10/14/love-london-love-cultures-halloween-picks-2026/"
+        },
+        {
+          "title_ja": "没入型ホラー脱出ゲームがハロウィンに登場",
+          "summary_ja": "ハロウィンに合わせて体験型のホラー脱出アトラクションが展開されます。役者を起用した迫真の演出でスリリングな体験を提供します。",
+          "source": "Verge Magazine",
+          "url": "https://vergemagazine.co.uk/no-escape-london-brings-nine-terrifying-horror-escape-rooms-to-life-for-halloween-2026/"
+        }
+      ]
+    }
+  ]
+}

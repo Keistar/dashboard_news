@@ -1,240 +1,232 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T15:51:26+09:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:47:12+09:00",
   "stories": [
     {
-      "title_ja": "ロッテ、しっとり食感の「生サブレ」を全国発売",
-      "summary_ja": "ロッテはホイップクリームを挟んだ「生サブレ」を全国で発売した。バターの香りと柔らかな食感が特徴で、先行販売では計画の3倍の出荷を記録している。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_706837/",
+      "title_ja": "米ホールフーズ、日本の家庭料理など2027年の食トレンドを発表",
+      "summary_ja": "米高級スーパーのホールフーズ・マーケットが、2027年に向けた飲食業界の注目トレンドを発表した。日本の家庭料理や豆類、ビター風味やテロワールなど多彩な潮流が挙げられている。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/whole-foods-market-2027-food-beverage-trends-be9ddeecb3",
       "score": 85,
-      "commercial_score": 95,
+      "commercial_score": 80,
       "product_keywords": [
-        "ロッテ 生サブレ",
-        "サブレ",
-        "クッキー"
+        "ホールフーズ",
+        "輸入食品"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "イオン、カカオを使わない菓子「チョコか？」に新作3品を追加",
+      "summary_ja": "イオンは、カカオを使わないチョコレートのような味わいの菓子「チョコか？」シリーズから新作3品を発売する。これにより同シリーズは計10品目となり、11月3日より順次店舗で展開される。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/8bd50e420f3e3d58b5fb51d9d86c94400278344b",
+      "score": 82,
+      "commercial_score": 88,
+      "product_keywords": [
+        "イオン",
+        "チョコレート代替"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "トップバリュ、大盛りの冷凍グラタンとドリア発売",
-      "summary_ja": "イオンは「トップバリュベストプライス」から冷凍のグラタンとドリアを発売する。1食280グラムと食べ応えのある設計で、全国のグループ約3200店舗で順次取り扱う。",
-      "source": "アットエス",
-      "url": "https://www.at-s.com/feed/article/pr_times/2076119.html",
+      "title_ja": "中国で食品安全法が改正へ、ネット販売やデリバリーの規制を強化",
+      "summary_ja": "中国で食品安全法の大規模な改正が進められ、外食デリバリーやライブ配信での食品販売に関する審査基準が引き上げられる。従来の形式的な確認からAIを活用した実質的な監視へと移行し、ネット流通の安全性を高める狙いがある。",
+      "source": "www.expressboo.com",
+      "url": "http://www.expressboo.com/detail_24462_2.html",
       "score": 80,
-      "commercial_score": 90,
+      "commercial_score": 60,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "松屋、新作「ごろチキチリソース」を10月20日より発売",
+      "summary_ja": "牛丼チェーンの松屋は、豆板醤を効かせたピリ辛ソースとふんわり玉子を合わせた新商品「ごろチキチリソース」を発売する。10月20日10時より、定食や単品など全3商品で展開される。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d9948453c0db6287f60cf6a6bb794186f38a1feb",
+      "score": 78,
+      "commercial_score": 80,
       "product_keywords": [
-        "冷凍グラタン",
-        "冷凍ドリア",
-        "トップバリュ"
+        "松屋"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "スタバ、ハロウィン向け「ねこ耳フラペチーノ」2種発売",
-      "summary_ja": "スターバックスはハロウィン限定ドリンクとして、白と黒の「ねこ耳フラペチーノ」を発売した。ブラックベリーとヨーグルトを組み合わせた味わいで、関連スイーツやグッズも登場している。",
-      "source": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/32561976/",
-      "score": 80,
+      "title_ja": "米チックフィレイ、10年ぶりとなる新作ディップソースを発売へ",
+      "summary_ja": "米ファストフードチェーンのチックフィレイは、約10年ぶりとなる新しいディッピングソース「スパイシー・チックフィレイ・ソース」を発売する。店舗に登場する新商品として注目を集めている。",
+      "source": "Allrecipes",
+      "url": "https://www.allrecipes.com/chick-fil-a-new-spicy-chick-fil-a-sauce-12173420",
+      "score": 78,
       "commercial_score": 75,
       "product_keywords": [
-        "スターバックス グッズ",
-        "フラペチーノ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "中国カフェチェーン、大学キャンパスへの出店競争が激化",
-      "summary_ja": "瑞幸珈琲（ラッキンコーヒー）や蜜雪氷城などの飲食チェーンが中国各地の大学内への出店を加速させている。調査によるとキャンパス内の店舗は1日約800杯を売り上げ、全国平均を大きく上回る賑わいを見せている。",
-      "source": "虎嗅网",
-      "url": "https://www.huxiu.com/article/4897329.html",
-      "score": 80,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ラッキンコーヒー",
-        "中国茶"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "セブン、ぶた型マシュマロ「むにむにマシュ」先行発売",
-      "summary_ja": "セブン‐イレブンはぶたの顔をかたどったいちご風味の菓子「むにむにマシュ」を全国で順次発売した。おもちゃのスクイーズのような弾力とふわふわした食感を兼ね備えている。",
-      "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/article/20261014-5127079/",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "マシュマロ",
-        "いちご菓子"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米コストコ、秋限定のアップルパイ風サンデーを提供開始",
-      "summary_ja": "米国のコストコはフードコートで秋の季節に合わせた新作サンデーの提供を始めた。アップルパイとアイスクリームを組み合わせたような味わいに仕上げられている。",
-      "source": "Southern Living",
-      "url": "https://www.southernliving.com/costco-food-court-vanilla-apple-pie-sundae-12171862",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "コストコ",
-        "アップルパイ"
+        "ディップソース"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英M&S、期間限定食品で英消費者から最高評価を獲得",
-      "summary_ja": "英小売大手のマークス＆スペンサーが、期間限定の食品や飲料において英国の消費者から最も高い評価を受けた。独自性のある限定商品の展開が支持を集めている。",
-      "source": "Food Manufacture",
-      "url": "https://www.foodmanufacture.co.uk/Article/2026/10/13/ms-has-been-rated-the-best-supermarket-for-limited-edition-items-by-the-uk-public/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "マークス&スペンサー",
-        "Marks and Spencer"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "チックフィレイ、スコットランドに英初のドライブスルー開店",
-      "summary_ja": "米チキンチェーンのチックフィレイ（Chick-fil-A）は、スコットランドのハミルトンに10月29日新店舗を開業する。同社として英国初となるドライブスルー設備を備えている。",
-      "source": "L’Express Franchise",
-      "url": "https://lexpress-franchise.com/en/news/chick-fil-a-hamilton-first-scottish-restaurant/",
-      "score": 75,
+      "title_ja": "飲食やホテル産業の大規模見本市「HOTELEX深圳展」が開幕",
+      "summary_ja": "深圳国際ホテル・飲食業博覧会（HOTELEX深圳展）が10月13日に開幕し、多くの来場者で賑わいを見せた。外貿開拓やスマート調達、小売の拡大などを掲げ、最新の飲食トレンドや製品が発信されている。",
+      "source": "中华网",
+      "url": "https://hb.china.com/gongsi/20003196/20261014/26019212.html",
+      "score": 78,
       "commercial_score": 70,
       "product_keywords": [
-        "Chick-fil-A",
-        "フライドチキン"
+        "業務用食器",
+        "厨房機器"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ブラックサンダー、レーズンバターサンド味のひとくちサイズ新発売",
+      "summary_ja": "有楽製菓は、新シリーズ「ショコラなごほうび」の第1弾としてレーズンバターサンド味のひとくちサイズを発売した。アルコールを使用せずに濃厚な味わいを表現しており、全国のコンビニエンスストアで販売されている。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_706979/",
+      "score": 76,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ブラックサンダー",
+        "有楽製菓"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英パブレストランチェーン、110店舗以上が新体制で再開へ",
+      "summary_ja": "先月営業を終了していた英外食チェーンのビーフィーターやブルワーズ・フェアーなど、110以上の店舗が再オープンすることになった。新たな所有者のもとで営業が再開される。",
+      "source": "Lincolnshire Live",
+      "url": "https://www.lincolnshirelive.co.uk/whats-on/food-drink/brewers-fayre-beefeater-restaurants-reopening-11194490",
+      "score": 76,
+      "commercial_score": 65,
+      "product_keywords": [
+        "パブ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "韓ロッテ、人気アイドルらとコラボした限定ポッキー発売",
-      "summary_ja": "ロッテ食品は記念日商戦に向け、人気グループ「Stray Kids」やサンリオなどのキャラクターを配した限定パッケージ10種を発表した。コラボレーション商品は全7種類を展開する。",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/cn/article/2026101408452072049",
+      "title_ja": "伊藤園、1プッシュで1杯分が出る粉末茶ボトルを発売",
+      "summary_ja": "伊藤園は、1プッシュで1杯分の粉末茶を取り出せる新容器を採用した緑茶とむぎ茶を発売した。マイボトル需要を狙い、インスタント茶の利用拡大を図る。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_707016/",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "ペペロ",
-        "ポッキー",
-        "Stray Kids"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ビッグボーイ、甘栗のモンブランサンデーなど秋限定発売",
-      "summary_ja": "ビッグボーイとヴィクトリアステーションは栗を味わうデザート各種を期間限定で販売する。「甘栗のモンブランファッジサンデー」など、栗を楽しめるメニューを展開する。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_706884/",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "モンブラン",
-        "甘栗"
+        "伊藤園",
+        "粉末茶",
+        "緑茶"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米ウィングストップ、人気グミを使った新チキンソース発売",
-      "summary_ja": "米国の手羽先チェーン「ウィングストップ」が人気グミ菓子「サワーパッチキッズ」と連携した。本物のグミを使った甘酸っぱい新作ウィングソースを投入している。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/new-wingstop-sour-patch-kids-wicked-punch-12172089",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "サワーパッチキッズ",
-        "チキンソース"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英大手スーパー、クリスマス向けの配送予約受付を開始",
-      "summary_ja": "英国の人気スーパーがクリスマス期間の宅配予約枠を一部顧客向けに開放した。年末の繁忙期に向け、利用者が配達枠を確保できるよう順次手続きを受け付ける。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40665999/supermarket-opens-christmas-delivery-slots/",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "クリスマス 予約",
-        "イギリス スーパー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英食料品インフレ率が2.5%に上昇、特売での購入が増加",
-      "summary_ja": "英国の食料品インフレ率が2.5%に達したことが最新の統計で分かった。価格上昇に伴い、消費者が特売や割引キャンペーンを活用して買い物をする傾向が強まっている。",
-      "source": "Grocery Trade News",
-      "url": "https://www.grocerytradenews.com/uk-grocery-inflation-october-2026/",
-      "score": 70,
+      "title_ja": "エルニーニョ現象により英食料品価格が上昇する可能性を試算",
+      "summary_ja": "スーパーエルニーニョ現象の影響で主要な食料生産地が不作に見舞われた場合、2027年に英国の食料品価格が上昇する懸念が指摘された。ただし現時点では影響の具体的な規模については不透明さが残されている。",
+      "source": "International Business Times UK",
+      "url": "https://www.ibtimes.co.uk/el-nino-uk-grocery-prices-2027-1825618",
+      "score": 75,
       "commercial_score": 60,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英冷凍食品PACK’D、有機野菜の新商品4種を投入",
-      "summary_ja": "英国のオーガニック冷凍食品メーカーPACK'Dが、冷凍野菜やフルーツの新製品4種を発表した。地中海風のグリル野菜など手軽に使えるラインアップを拡充している。",
-      "source": "Grocery Trader",
-      "url": "https://grocerytrader.co.uk/packd-launches-four-new-products-to-bolster-frozen-fruit-veg-range/",
-      "score": 70,
-      "commercial_score": 85,
       "product_keywords": [
-        "冷凍野菜",
-        "オーガニック 冷凍食品"
+        "食料品"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国の地方都市でカフェの出店が急増、日常消費に定着",
-      "summary_ja": "中国の地方都市においてカフェの出店が相次ぎ、コーヒーが特別な嗜好品から身近な飲み物へと定着しつつある。国慶節の休暇中も住宅街や学校周辺で新しい店舗が広がりを見せている。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_3488849805_cff39f8d00101ycpo.html?from=travel",
-      "score": 70,
-      "commercial_score": 65,
+      "title_ja": "中国の製麺大手、伝統手延べ麺を提供する外食チェーン2号店を開業",
+      "summary_ja": "中国の製麺大手である克明食品は、湖南省長沙市に「陳克明面館」の2号店をオープンした。非物質文化遺産の手延べ麺技法を活かし、作りたての具材と現代的な店舗空間を融合させた飲食体験を展開する。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610143895495365.html",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "中国 珈琲",
-        "中国茶"
+        "中華麺",
+        "手延べ麺"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ジョリビー、甘口ソースを使った新作メニュー2種を投入",
-      "summary_ja": "ファストフードチェーンのジョリビーはカナダ各地で今月下旬に2種類の新メニューを投入する。甘みとコクのある特製ソースを用いた料理を提供する。",
-      "source": "Daily Hive",
-      "url": "https://dailyhive.com/vancouver/jollibee-honey-garlic-canada",
-      "score": 65,
-      "commercial_score": 65,
+      "title_ja": "フレッシュネス、ブランド海老3尾入りの限定バーガー2種を発売",
+      "summary_ja": "フレッシュネスバーガーは、ブランド海老である神の海老を3尾贅沢に使った新作バーガー2種を期間限定で発売する。ラインアップには、ゆず白味噌と明太クリームチーズの2種類の味付けが揃う。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_707038/",
+      "score": 74,
+      "commercial_score": 80,
       "product_keywords": [
-        "ジョリビー"
+        "ハンバーガー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英スーパー、ハインツを上回る高評価の格安トマトスープが話題に",
+      "summary_ja": "スープの需要が高まる季節に向けて、英スーパーで59ペンスのトマトスープが販売されている。定番ブランドのハインツよりも美味しいと公式に評価され、手頃な価格と品質で人気を呼んでいる。",
+      "source": "Daily Express",
+      "url": "https://www.express.co.uk/life-style/food/2257123/best-supermarket-tomato-soup-better-Heinz",
+      "score": 74,
+      "commercial_score": 80,
+      "product_keywords": [
+        "トマトスープ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "米ヌードルズ＆カンパニー、汁なしラーメン3種を定番メニュー化",
+      "summary_ja": "米外食チェーンのヌードルズ＆カンパニーは、ラーメンを定番メニューに追加し、スープのない3種類のボウルメニューを発売した。チリガーリックラーメンが多くの新規客を呼び込んだことを受けてレギュラー化された。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/noodles-company-permanent-ramen-brothless-bowls-302901826",
+      "score": 72,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ラーメン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "クラフト・ビア・マーケット、15周年記念の復刻料理を提供",
-      "summary_ja": "外食チェーンのクラフト・ビア・マーケットが創業15周年を迎え、過去の人気料理3品などを限定復刻する。創業店での記念行事に先立ち、各地の店舗で展開する。",
-      "source": "Retail Insider",
-      "url": "https://retail-insider.com/bulletin/2026/10/craft-beer-market-marks-15th-anniversary-with-limited-time-menu/",
-      "score": 60,
-      "commercial_score": 60,
+      "title_ja": "英スーパーのアズダ、大容量缶コーラを限定値下げで販売",
+      "summary_ja": "英大手スーパーのアズダで、人気を集める缶コーラのまとめ買いセットが販売されている。330ミリリットル缶30本入りのボックスが、通常価格の14.24ポンドから10ポンドに値下げされている。",
+      "source": "Telegraph and Argus",
+      "url": "https://www.thetelegraphandargus.co.uk/news/national/uk-today/26636641.asda-brings-back-popular-coke-cans-fans-call-literal-heaven/",
+      "score": 72,
+      "commercial_score": 85,
       "product_keywords": [
-        "クラフトビール"
+        "コカコーラ",
+        "缶コーラ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "サラダチェーンの米スウィートグリーン、低価格ラップなどで顧客開拓",
+      "summary_ja": "サラダチェーンのスウィートグリーンは、高価格イメージを払拭するため手頃な価格のラップサンドや透明性のある価格設定を導入した。料理のボリュームを増やし、カスタマイズ時にも明確な価格表示を行うことで集客強化を図る。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-13/detail-inivawnf8727928.d.html?oid=WA%200812%202782%205310%20Jasa%20Bikin%20Plafon%20Mewah%20Murah%20Gondangrejo%20Karanganyar&vt=4",
+      "score": 72,
+      "commercial_score": 75,
+      "product_keywords": [
+        "サラダボウル",
+        "ラップサンド"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "米レッドロビン、プライムリブを重ねた新作バーガーなどを投入",
+      "summary_ja": "米レストランチェーンのレッドロビンは、期間限定のプライムリブ・スタックバーガーなど複数の新メニューを発表した。10月19日より過去の人気バーガーの復活やおかわり自由のドリンクも提供される。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/red-robin-prime-rib-stack-burger-new-menu-items-302907831",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ハンバーガー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
