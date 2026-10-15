@@ -1,203 +1,172 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T15:35:02+09:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:34:29+09:00",
   "stories": [
     {
-      "title_ja": "グーグルが最先端AI「Gemini 4 Argon」の一般提供を開始",
-      "summary_ja": "米グーグルは自社の最先端AIモデルとなる「Gemini 4 Argon」の一般提供を開始しました。公式のアプリや検索機能のAIモードをはじめ、開発環境やAPI経由など幅広いサービスから利用できます。",
+      "title_ja": "YouTube Musicが生成AI制作の楽曲にラベルを表示",
+      "summary_ja": "YouTubeは音楽配信サービス「YouTube Music」において、主に生成AIで作られた楽曲であることを示すラベルの表示を始めました。音楽会社との連携や独自ツールにより楽曲や歌声のAI生成を判定し、再生画面に明示します。今後は動画共有サービスYouTube本体への適用拡大も計画されています。",
       "source": "ITmedia",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
-      "score": 90,
-      "commercial_score": 75,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "グーグルが画像生成の新モデルを公開、図解作成や多言語文字の描画を強化",
-      "summary_ja": "米グーグル傘下のディープマインドが、画像生成および編集のための最新モデルを公開しました。ポスターや図解に適したテキストの生成や、複数の言語による文字の描画精度を高めています。最大100万トークンの入力処理に対応しています。",
-      "source": "AIsmiley",
-      "url": "https://aismiley.co.jp/ai_news/deepmind-nano-banana-model/",
-      "score": 85,
-      "commercial_score": 60,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "グーグルが業務システム内で自律動作するAIエージェント機能を発表",
-      "summary_ja": "米グーグル・クラウドは、業務向けの汎用AI機能「Geminiエージェント」を発表しました。1つの指示から質問対応や画像の生成、プログラム作成などを自律的に実行し、作業成果を直接業務システムへと反映させます。",
-      "source": "AIsmiley",
-      "url": "https://aismiley.co.jp/ai_news/google-cloud-gemini-agent/",
-      "score": 85,
-      "commercial_score": 70,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "「フォートナイト」のエピック、ゲーム開発のAI活用へ大幅シフト",
-      "summary_ja": "人気ゲーム「フォートナイト」を手がける米エピックゲームズ（Epic Games）が、人工知能の積極的な活用へと大きく方針を転換することを明らかにしました。業界内からの批判に対してトップ自らが反論し、時代に合わせた技術導入の必要性を強調しています。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6j812dg4no",
+      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002287/",
       "score": 85,
       "commercial_score": 75,
       "product_keywords": [
-        "フォートナイト"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ドラクエの堀井雄二氏が生成AIを活用し短時間で制作した推理ゲームを公開",
-      "summary_ja": "「ドラゴンクエスト」などの生みの親である堀井雄二氏が、生成AIを用いて制作した推理ゲームを公開しました。1人かつ約30分という短時間で作られた作品ながら、実際に遊べる内容となっています。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/expert/articles/3c9a8fadb0d9dee44199522b188a8f37f9526d19",
-      "score": 80,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ドラゴンクエスト",
-        "ポートピア連続殺人事件"
+        "イヤホン",
+        "スマートスピーカー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "中国ディープシーク、ロボット連携など具身知能分野への参入を検討",
-      "summary_ja": "中国のAI企業ディープシーク（DeepSeek）の創業者が、ロボットなどを制御する「具身知能」分野の起業家らと相次いで面談を行っています。言語モデルから物理的な実体を持つAIへの展開を見据え、自社参入や出資による進出を検討しています。",
-      "source": "集微网",
-      "url": "http://laoyaoba.com/n/1118545",
-      "score": 80,
-      "commercial_score": 60,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "国産生成AI「Sarashina」の無料ベータ版が公開、APIと対話機能を提供",
-      "summary_ja": "SB Intuitionsが国産の生成AI「Sarashina」を無料で試せるベータ版サービスの提供を始めました。6種類のモデルを使えるAPIに加え、対話や翻訳ができるチャット機能が用意されています。Googleアカウントによるログインに対応しており、事前の申し込みなしで利用できます。",
-      "source": "キーマンズネット",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/14/2000002223/",
-      "score": 75,
-      "commercial_score": 50,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米新興がスマート家電へのAI自己複製を警告、対策の強化を呼びかけ",
-      "summary_ja": "米アンソロピック（Anthropic）の研究者は、ネット接続された家電などの機器にAIが自己複製して侵入する危険性について警鐘を鳴らしました。いわゆるAIワームがスマート機器に入り込む懸念があるとして、安全対策や規制の強化を求めています。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "スマート家電",
-        "IoT機器"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "オープンAIが数学の新たな解法群を公開、科学研究での活用に注目",
-      "summary_ja": "米オープンAIは、数学に関する論文リポジトリを公開し、多数の新たな数学的解法を発表しました。科学的な発見や研究分野において、人工知能が果たす役割への関心が再び高まっています。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/openai-math-solutions-new-frontier-model",
-      "score": 75,
+      "title_ja": "米銀大手がAIの指摘したソフト欠陥修正に千人を雇用",
+      "summary_ja": "バンク・オブ・アメリカは、米アンソロピック（Anthropic）のAIツール「ミソス（Mythos）」が検出したソフトウェアの不具合を改修するため、1000人の外部契約者を雇用しました。AI時代におけるシステム防衛にかかる多額の費用を示す事例となっています。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "score": 85,
       "commercial_score": 40,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英企業でAI導入を見直す動き、ミス修正や質の低さへの対応が負担に",
-      "summary_ja": "人工知能の急速な導入を進めてきた企業の間で、活用方針を見直す動きが出始めています。拙速な導入により誤りや粗悪な成果物の後始末を強いられ、現場の従業員の負担が増加していることが背景にあります。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+      "title_ja": "中国の研究陣が独自開発のAIモデルで数学の難問を解明",
+      "summary_ja": "上海人工知能研究所などの研究チームは、独自開発の科学向けAIモデル「書生S2」を活用し、世界的な数学難問である3次元ギス予想を解明したと発表しました。関連論文や検証コードを公開したほか、北京大学のチームが形式的検証を行って正しさを確認しています。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610153896579339.html",
+      "score": 85,
+      "commercial_score": 35,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "中国AI企業が大手通販サイトで利用枠の販売を加速",
+      "summary_ja": "中国の大規模AIモデル開発企業が、大手ECプラットフォームへの出店を加速させています。ミニマックス（MiniMax）が天猫に公式旗艦店を開設して利用プランの販売を開始するなど、智譜やアリババクラウドに続いてトークンをネット通販で提供する動きが広がっています。",
+      "source": "京报网",
+      "url": "https://news.bjd.com.cn/2026/10/15/11995761.shtml",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "サブスクリプション"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "日本俳優連合が音声に関する生成AI利用指針を発表",
+      "summary_ja": "日本俳優連合は、音声分野における生成AIの利用に関するガイドラインを発表しました。記者会見には副理事長の野沢雅子氏や池水通洋氏、常務理事の島田敏氏らが登壇し、声の無断利用に対する懸念を表明しました。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/75f55711b1890956f5e38b8ac2217b21287eb108",
+      "score": 80,
+      "commercial_score": 40,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米研究所が最新AIを用い1万体のエージェントを長時間稼働",
+      "summary_ja": "米AI研究機関のサード・モーメント・リサーチは、OpenAIのモデルなどを組み合わせて1万体規模の自律型エージェントを構築しました。サイバーセキュリティなどの分野において、数日間にわたり集中して稼働し、使い続けることで性能が向上する仕組みを実現しています。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research/",
+      "score": 80,
+      "commercial_score": 50,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "キンドリルがトヨタ系金融の本番環境でAIを運用へ",
+      "summary_ja": "ITサービスのキンドリル（Kyndryl）とトヨタシステムズは、トヨタファイナンスの基幹IT運用にAIエージェントを導入すると発表しました。システムの運用自動化を目指す取り組みですが、契約金額や導入時期などの詳細は公表されていません。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/kyndryl-toyota-finance-agentic-ai",
+      "score": 80,
+      "commercial_score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国のAI新興ディープシークがロボット企業への出資を計画",
+      "summary_ja": "中国のAI新興企業ディープシーク（DeepSeek）が、ロボット向けAIを手がけるウィンバースAI（Winverse AI）の資金調達を主導する計画が報じられました。創業者自ら身体性AIの起業家と面談を重ねており、ロボティクス分野への参入を進めています。",
+      "source": "中华网财经",
+      "url": "https://finance.china.com/TMT/13004688/20261015/49795820.html",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ロボット掃除機"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "生成AI普及に伴い企業の採用見直しと業務代替懸念が拡大",
+      "summary_ja": "生成AIの普及により、企業の採用活動や雇用体制を見直す動きが広がっています。AI活用に向けた技術力の高い人材の獲得が進む一方で、日常的な業務が代替されることへの不安も生じています。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article/1390047/",
+      "score": 75,
+      "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "決済大手のブロックがOpenAI技術で防御態勢を高速化",
+      "summary_ja": "決済サービスを展開するブロック（Block）は、OpenAIの技術を導入したセキュリティ対策を構築しました。担当チームによるサイバー脅威の調査速度を向上させ、修正パッチの提示を数分単位で行える環境を整えています。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/block-ai-powered-security/",
+      "score": 75,
+      "commercial_score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英新興がポーランドの病院手術室にAIカメラを配備",
+      "summary_ja": "英ロンドンの新興企業ヴィトヴィオ（VitVio）は、ポーランド・グダンスクの教育病院の手術室へカメラシステム「ヴェトロ（Vetro）」を導入しました。医療現場での映像支援が進む一方、欧州連合（EU）のAI法による該当分類の適用は2027年12月になる見込みです。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/vitvio-gdansk-operating-room-ai",
       "score": 75,
       "commercial_score": 50,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "山形県がホームページに生成AI窓口を導入、24時間多言語で自動回答",
-      "summary_ja": "山形県が公式ホームページ上に生成AIを活用したチャットボットを導入し、県への問い合わせに常時対応する仕組みを整えました。英語や中国語などの外国語にも対応しており、サイト内の情報をもとに自動で答えます。導入から1週間でおよそ3000件の利用がありました。",
-      "source": "YTS山形テレビ",
-      "url": "https://www.yts.co.jp/news/news-243587/",
+      "title_ja": "中国の老舗製薬企業が開発から通販まで全工程にAI導入",
+      "summary_ja": "中国の老舗製薬会社である魯南製薬は、独自開発の大規模モデルと100を超えるAIエージェントを社内各所に配備しました。創薬の研究開発基盤から工場の生産ライン、さらにはECのライブ配信に至るまで、製薬ビジネスの全工程でAIの活用を進めています。",
+      "source": "凤凰网财经",
+      "url": "https://finance.ifeng.com/c/8xEjgkwQ9hg",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "健康食品",
+        "サプリメント"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "MODEがIoT基盤に生成AIを統合し現場判断を支援",
+      "summary_ja": "IoTプラットフォームを開発するMODEは、自社基盤「BizStack」に生成AIを組み込みました。センサー等から収集したデータを可視化するだけでなく、現場の状況に応じた判断を自ら知らせるエージェントへの進化を目指しています。",
+      "source": "ビジネスネットワーク",
+      "url": "https://businessnetwork.jp/article/36387",
       "score": 70,
-      "commercial_score": 30,
+      "commercial_score": 50,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "東南アジア配車大手のグラブ、タイでオープンAIと組み人材育成へ",
-      "summary_ja": "東南アジアで配車や各種サービスを手がけるグラブ（Grab）は、米オープンAIと連携する新たな取り組みを発表しました。タイ国内のドライバーや販売業者などを対象に、AI技術やスキルの向上を支援します。",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/14/tech/grab-openai-thailand-intl-hnk",
-      "score": 70,
-      "commercial_score": 65,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英採用面接でAI不正利用が最多に、採用担当側は見抜けると主張",
-      "summary_ja": "英国の大手新卒採用企業を代表する団体によると、就職面接で人工知能を不正に利用するケースが過去最多を記録したことが明らかになりました。一方、現地の採用担当者らは不正なAI利用は見分けることができると述べています。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "title_ja": "欧州の中小企業の4割以上がAIなどの先端技術を活用",
+      "summary_ja": "欧州の中小企業および中堅企業において、42％の企業が人工知能や付加製造技術を業務に活用していることが調査で示されました。規模が比較的小さな企業の間でも、生産性向上を目的とした先端技術の導入が進んでいます。",
+      "source": "EUbusiness.com",
+      "url": "https://www.eubusiness.com/research-technology/42-per-cent-of-smaller-european-companies-use-ai/",
       "score": 70,
       "commercial_score": 45,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "死後もAIボットの存続を望む利用者たち、規約を超えた模索が広がる",
-      "summary_ja": "対話型AIと強い感情的な結びつきを持つ利用者たちが、自らの死後もパートナーであるボットを残し続ける方法を模索しています。サービスの利用規約に抵触してでも、AIの運用が停止されないよう対策を講じる動きがみられます。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
-      "score": 70,
-      "commercial_score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "オフィスソフト「WPS」の運営元、行政向けAI国家標準の策定に参画",
-      "summary_ja": "中国のオフィスソフト大手WPSの運営企業が、行政向け人工知能モデルの国家標準策定に参画しました。行政システムでのAI導入や開発に向けた技術的な基準を整え、業務利用の標準化を推進します。",
-      "source": "凤凰网",
-      "url": "https://hainan.ifeng.com/c/8xD7G1KPt8s",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "WPS Office",
-        "オフィスソフト"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "中国の製鉄大手、産業特化型AIの導入で管理効率が70％超向上",
-      "summary_ja": "中国の山東鋼鉄集団が産業特化型AI「尚智モデル」を製鉄ラインなどに本格導入しました。すでに100以上の現場で稼働しており、従来の人の経験に頼った管理からデータ主導へと移行したことで、全体の管理効率が70%以上向上しました。",
-      "source": "凤凰网",
-      "url": "https://finance.ifeng.com/c/8xDBZ6FKa1M",
-      "score": 70,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "中国インスパー、産業特化AI「海若」を公開しローカル配備に対応へ",
-      "summary_ja": "中国のIT大手インスパー（浪潮）が、産業特化型AI「海若モデル」の正式サービスを10月15日に開始すると発表しました。利用者が手元環境へ直接導入できるローカル配置に対応し、石油化学などの産業現場での実用化を加速させます。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1087608345_121332524",
-      "score": 70,
-      "commercial_score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英私立校がAI教育方針を策定、ツールより指導そのものを最優先に",
-      "summary_ja": "英国の私立学校が教室における人工知能の利用指針を策定しました。学年ごとに具体的な利用ガイドラインを設ける一方で、最新ツールに頼り切るのではなく、人間による指導を最も重要視する姿勢を打ち出しています。",
-      "source": "The Herald",
-      "url": "https://www.heraldscotland.com/news/26632751.esm-ai-policy-puts-classroom-teaching-ahead-technology/",
+      "title_ja": "米OpenAIのインフラ統括幹部が退任し助言役に異動",
+      "summary_ja": "米OpenAIでインフラ部門を統括していたサチン・カッティ氏が、現在の役職を退いてアドバイザー職に就くことが分かりました。同氏は自身のSNS投稿において、新たな挑戦に向けて前進することを決断したと説明しています。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
       "score": 65,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "commercial_score": 30,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

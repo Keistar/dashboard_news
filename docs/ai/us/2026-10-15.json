@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:34:29+09:00",
+  "stories": [
+    {
+      "title_ja": "米銀大手がAIの指摘したソフト欠陥修正に千人を雇用",
+      "summary_ja": "バンク・オブ・アメリカは、米アンソロピック（Anthropic）のAIツール「ミソス（Mythos）」が検出したソフトウェアの不具合を改修するため、1000人の外部契約者を雇用しました。AI時代におけるシステム防衛にかかる多額の費用を示す事例となっています。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "score": 85,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "米研究所が最新AIを用い1万体のエージェントを長時間稼働",
+      "summary_ja": "米AI研究機関のサード・モーメント・リサーチは、OpenAIのモデルなどを組み合わせて1万体規模の自律型エージェントを構築しました。サイバーセキュリティなどの分野において、数日間にわたり集中して稼働し、使い続けることで性能が向上する仕組みを実現しています。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research/",
+      "score": 80,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "決済大手のブロックがOpenAI技術で防御態勢を高速化",
+      "summary_ja": "決済サービスを展開するブロック（Block）は、OpenAIの技術を導入したセキュリティ対策を構築しました。担当チームによるサイバー脅威の調査速度を向上させ、修正パッチの提示を数分単位で行える環境を整えています。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/block-ai-powered-security/",
+      "score": 75,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "米OpenAIのインフラ統括幹部が退任し助言役に異動",
+      "summary_ja": "米OpenAIでインフラ部門を統括していたサチン・カッティ氏が、現在の役職を退いてアドバイザー職に就くことが分かりました。同氏は自身のSNS投稿において、新たな挑戦に向けて前進することを決断したと説明しています。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
+      "score": 65,
+      "commercial_score": 30
+    }
+  ]
+}

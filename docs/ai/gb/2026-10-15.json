@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:34:29+09:00",
+  "stories": [
+    {
+      "title_ja": "キンドリルがトヨタ系金融の本番環境でAIを運用へ",
+      "summary_ja": "ITサービスのキンドリル（Kyndryl）とトヨタシステムズは、トヨタファイナンスの基幹IT運用にAIエージェントを導入すると発表しました。システムの運用自動化を目指す取り組みですが、契約金額や導入時期などの詳細は公表されていません。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/kyndryl-toyota-finance-agentic-ai",
+      "score": 80,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "英新興がポーランドの病院手術室にAIカメラを配備",
+      "summary_ja": "英ロンドンの新興企業ヴィトヴィオ（VitVio）は、ポーランド・グダンスクの教育病院の手術室へカメラシステム「ヴェトロ（Vetro）」を導入しました。医療現場での映像支援が進む一方、欧州連合（EU）のAI法による該当分類の適用は2027年12月になる見込みです。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/vitvio-gdansk-operating-room-ai",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "欧州の中小企業の4割以上がAIなどの先端技術を活用",
+      "summary_ja": "欧州の中小企業および中堅企業において、42％の企業が人工知能や付加製造技術を業務に活用していることが調査で示されました。規模が比較的小さな企業の間でも、生産性向上を目的とした先端技術の導入が進んでいます。",
+      "source": "EUbusiness.com",
+      "url": "https://www.eubusiness.com/research-technology/42-per-cent-of-smaller-european-companies-use-ai/",
+      "score": 70,
+      "commercial_score": 45
+    }
+  ]
+}

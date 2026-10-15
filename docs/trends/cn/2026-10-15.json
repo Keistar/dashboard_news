@@ -1,0 +1,117 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T16:09:52+09:00",
+  "trends": [
+    {
+      "keyword": "iPhone 18 Pro系列降价",
+      "reason_ja": "アップルの天猫公式旗艦店が大型セールに向けた値引きを発表し、iPhone 18 Proシリーズのクーポン適用や補助金割引が大きな話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "iPhone 18 Pro",
+        "天猫 双11",
+        "苹果手机"
+      ],
+      "product_keywords_ja": [
+        "iPhone 18 Pro",
+        "iPhone",
+        "Apple スマホ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "アップル公式店が秋のセールで値引き発表",
+          "summary_ja": "天猫の公式ストアで秋の大型セールの日程が発表されました。新型スマートフォンなどの一部製品を対象に特別割引が適用されます。",
+          "source": "手机新浪网",
+          "url": "https://tech.sina.cn/2026-10-15/detail-inivhpnp8174602.d.html?vt=4&pos=108&his=0"
+        },
+        {
+          "title_ja": "天猫が大型セールの開幕日程と割引を発表",
+          "summary_ja": "大型ショッピングイベントの開始日程が正式に公表されました。ブランド割引やプラットフォームのクーポンを組み合わせた大幅な還元が行われます。",
+          "source": "观点网",
+          "url": "https://www.guandian.cn/article/20261015/613557.html"
+        }
+      ]
+    },
+    {
+      "keyword": "水果罐头为啥不“甜”了",
+      "reason_ja": "健康志向や減糖・低糖化の流れの中でフルーツ缶詰の需要が変化し、各メーカーが甘さ控えめや小容量パッケージへの刷新を進めていることが注目を集めています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "水果罐头",
+        "低糖食品",
+        "健康零食"
+      ],
+      "product_keywords_ja": [
+        "フルーツ缶詰",
+        "低糖質 スイーツ",
+        "健康食品"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "フルーツ缶詰が甘さ控えめへと転換進める",
+          "summary_ja": "消費者の健康志向の高まりによりフルーツ缶詰市場が変化を迎えています。甘さ控えめや小容量パッケージなど新たな商品展開で需要の回復を図っています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-15/detail-inivhpnm7360296.d.html?vt=4&pos=108&his=0"
+        }
+      ]
+    },
+    {
+      "keyword": "世界都在刷短剧 全部进入红果时代",
+      "reason_ja": "バイトダンス傘下の無料ショートドラマアプリ「紅果短劇」が国内外で爆発的な人気を獲得し、短尺コンテンツの消費ブームが急速に広がっています。",
+      "genre": "other",
+      "commercial_score": 78,
+      "product_keywords": [
+        "红果短剧",
+        "微短剧",
+        "短剧app"
+      ],
+      "product_keywords_ja": [
+        "ショートドラマ アプリ",
+        "短尺動画"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "短尺ドラマアプリが国内外で大ヒットを記録",
+          "summary_ja": "無料のショートドラマ配信アプリが急速に利用者を拡大しています。国内でのヒットモデルを海外市場にも展開し、大きな反響を呼んでいます。",
+          "source": "潮起网",
+          "url": "https://www.ichaoqi.com/guandian/2026/1014/88529.html"
+        }
+      ]
+    },
+    {
+      "keyword": "顾客买850元脆皮捏捏 全捏碎后退货",
+      "reason_ja": "若者の間で大人気となっている手作り感触トイ「脆皮捏捏」の購入トラブルを巡り、ネット通販の無条件返品ルールが議論を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 76,
+      "product_keywords": [
+        "脆皮捏捏",
+        "捏捏乐",
+        "解压玩具"
+      ],
+      "product_keywords_ja": [
+        "スクイーズ 玩具",
+        "ストレス解消 グッズ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気玩具の返品トラブルがネットで議論呼ぶ",
+          "summary_ja": "人気の手作り感触玩具を巡って返品を巡るトラブルが発生しました。ネット通販における返品の条件や出品者の保護について関心が集まっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261015/49795647.html"
+        }
+      ]
+    }
+  ]
+}

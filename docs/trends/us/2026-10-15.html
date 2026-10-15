@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-15 — US EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0614;
+    --line: #341a50;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #c8a0ff;
+    --signal: #d8b0ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TRENDING NOW &#9656; US EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-15 &middot; 16:09 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">NVIDIA RTX Spark</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">92<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">エヌビディアが次世代グラフィックス技術「RTX Spark」の提供開始と多数の人気ゲーム対応を発表し、ゲームファンの間で大きな注目を集めています。 最新技術を搭載したグラフィックスの展開が発表されました。多数の人気大作ゲームタイトルが対応し、発売に向けた期待が高まっています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/" target="_blank" rel="noopener noreferrer">
+                NVIDIA <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ガジェット</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://shattered.io/nvidia-rtx-spark-launch-week-dlss-5-2026/" target="_blank" rel="noopener noreferrer">最新モデル導入でグラフィック処理が高速化 — shattered.io</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Beauty Advent Calendar</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">90<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">人気コスメブランド各社からホリデーシーズンに向けたビューティーアドベントカレンダーが発売され、完売必至の人気アイテムとして注目を集めています。 ホリデーシーズンに向けて多彩なアドベントカレンダーが登場しています。早期完売が予想される注目の人気商品が紹介されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495" target="_blank" rel="noopener noreferrer">
+                NBC News <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">美容・コスメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://shopping.yahoo.com/beauty/article/the-best-beauty-advent-calendars-for-2026-sephora-lush-charlotte-tilbury-and-more-are-still-available-for-the-holiday-season-150421007.html" target="_blank" rel="noopener noreferrer">人気ブランドのビューティーカレンダー特集 — Yahoo</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Anthropic</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">AI開発企業アンソロピックが上場を控える中で売上高の大幅な急増を投資家説明会で発表し、AI市場における存在感の大きさが話題となっています。 人工知能開発大手が株式公開に向けて好調な四半期売上高を報告しました。生成AI需要の高まりを背景に急速な事業拡大を続けています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html" target="_blank" rel="noopener noreferrer">
+                CNBC <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">AI</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10" target="_blank" rel="noopener noreferrer">アンソロピックの四半期売上が急拡大を記録 — Business Insider</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">tsm stock</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">世界最大の半導体受託製造大手TSMCが世界的なAI需要の急拡大を背景に市場予想を上回る最高益を発表し、半導体市場への関心が高まっています。 半導体受託製造大手が市場予想を上回る好決算を発表しました。世界的な人工知能ブームを背景に力強い成長を維持しています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html" target="_blank" rel="noopener noreferrer">
+                CNBC <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ガジェット</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in" target="_blank" rel="noopener noreferrer">TSMCがAI受注増で業績見通しを引き上げ — Bloomberg.com</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">escape halloween</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ハロウィンシーズンに向けて体験型のホラー脱出ゲームや没入型イベントが多数開催され、友人や家族と楽しむレジャーとして注目を集めています。 ハロウィンシーズンを盛り上げる注目の体験型イベントが紹介されています。多彩なテーマのホラー脱出ゲームが各地で開催されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://lovelondonloveculture.com/2026/10/14/love-london-love-cultures-halloween-picks-2026/" target="_blank" rel="noopener noreferrer">
+                Love London Love Culture <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://vergemagazine.co.uk/no-escape-london-brings-nine-terrifying-horror-escape-rooms-to-life-for-halloween-2026/" target="_blank" rel="noopener noreferrer">没入型ホラー脱出ゲームがハロウィンに登場 — Verge Magazine</a></li></ul>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily</footer>
+  </div>
+</body>
+</html>

@@ -1,112 +1,116 @@
 {
   "feed": "trends",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T16:11:23+09:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T16:09:52+09:00",
   "trends": [
     {
       "keyword": "プライム感謝祭",
-      "reason_ja": "アマゾンのプライム会員向け大型セールに合わせ、お買い得なガジェットや新型Kindle端末などのセール情報に注目が集まっています。",
+      "reason_ja": "アマゾンの会員向けセール「プライム感謝祭」の先行セールが始まり、人気のイヤホンやヘッドホンなどの特価商品情報に関心が集まっています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
-        "プライム感謝祭",
-        "Amazon セール"
+        "Amazon プライム感謝祭",
+        "プライム感謝祭 セール"
       ],
       "product_keywords_ja": [
         "プライム感謝祭",
-        "セール"
+        "Amazon セール"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
           "title_ja": "プライム感謝祭でおすすめのガジェット特集",
-          "summary_ja": "プライム会員を対象とした秋の大型セールが開催されます。日頃の利用への感謝を込めた会員限定イベントで、多数の注目アイテムがお買い得になります。",
+          "summary_ja": "プライム会員を対象とした秋のセールが開催されています。日頃の利用への感謝を込めたイベントで、多数の注目アイテムがお買い得になっています。",
           "source": "ガジェットレビューブログ",
           "url": "https://digital-style.jp/amazon-prime-fes"
         },
         {
-          "title_ja": "アマゾン大型セールで電子書籍リーダーが特価に",
-          "summary_ja": "アマゾンのプライム会員向けビッグセールで電子書籍リーダーが特別価格で販売されます。新型のカラー対応モデルなど注目の読書端末が対象となっています。",
-          "source": "INTERNET Watch",
-          "url": "https://internet.watch.impress.co.jp/docs/shopping/2147871.html"
+          "title_ja": "プライム感謝祭の先行セールがスタート",
+          "summary_ja": "アマゾンの会員向けセールに先駆けて先行セールが始まりました。ワイヤレスイヤホンやヘッドホンなど人気機器がお買い得価格で登場しています。",
+          "source": "カジェログ",
+          "url": "https://kajetblog.com/amazon-prime-sale-2026-2/"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Apple HomeView",
-      "reason_ja": "アップルが家庭の中心となる初のスマートディスプレイ「HomeView」を発表し、スマートホーム戦略の新たな一手として大きな注目を集めています。",
+      "keyword": "iPhone 18 Pro系列降价",
+      "reason_ja": "アップルの天猫公式旗艦店が大型セールに向けた値引きを発表し、iPhone 18 Proシリーズのクーポン適用や補助金割引が大きな話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "iPhone 18 Pro",
+        "天猫 双11",
+        "苹果手机"
+      ],
+      "product_keywords_ja": [
+        "iPhone 18 Pro",
+        "iPhone",
+        "Apple スマホ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "アップル公式店が秋のセールで値引き発表",
+          "summary_ja": "天猫の公式ストアで秋の大型セールの日程が発表されました。新型スマートフォンなどの一部製品を対象に特別割引が適用されます。",
+          "source": "手机新浪网",
+          "url": "https://tech.sina.cn/2026-10-15/detail-inivhpnp8174602.d.html?vt=4&pos=108&his=0"
+        },
+        {
+          "title_ja": "天猫が大型セールの開幕日程と割引を発表",
+          "summary_ja": "大型ショッピングイベントの開始日程が正式に公表されました。ブランド割引やプラットフォームのクーポンを組み合わせた大幅な還元が行われます。",
+          "source": "观点网",
+          "url": "https://www.guandian.cn/article/20261015/613557.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "NVIDIA RTX Spark",
+      "reason_ja": "エヌビディアが次世代グラフィックス技術「RTX Spark」の提供開始と多数の人気ゲーム対応を発表し、ゲームファンの間で大きな注目を集めています。",
       "genre": "gadget",
       "commercial_score": 92,
       "product_keywords": [
-        "Apple HomeView",
-        "smart display"
+        "NVIDIA RTX Spark",
+        "gaming laptop",
+        "DLSS"
       ],
       "product_keywords_ja": [
-        "スマートディスプレイ",
-        "スマートホーム"
+        "ゲーミングPC",
+        "グラフィックボード",
+        "NVIDIA RTX"
       ],
       "trend_source": "ニュース（ガジェット）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップルが新端末HomeViewを発表",
-          "summary_ja": "家庭内のエンターテインメントや機器管理を担う新しい端末が発表されました。家族それぞれの使い方に寄り添うスマートホームの中心デバイスとして設計されています。",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+          "title_ja": "エヌビディアが新型グラフィックスを発表",
+          "summary_ja": "最新技術を搭載したグラフィックスの展開が発表されました。多数の人気大作ゲームタイトルが対応し、発売に向けた期待が高まっています。",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/"
         },
         {
-          "title_ja": "アップル初となるスマートディスプレイが登場",
-          "summary_ja": "アップルから画面付きのスマートホーム向け新デバイスが発表されました。カメラによる複数ユーザーの認識機能を備え、家庭内での利便性を高めています。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/"
+          "title_ja": "最新モデル導入でグラフィック処理が高速化",
+          "summary_ja": "画像処理の高速化を果たす最新モデルが披露されました。クリエイター向けツールやゲームプレイの快適性が大幅に向上します。",
+          "source": "shattered.io",
+          "url": "https://shattered.io/nvidia-rtx-spark-launch-week-dlss-5-2026/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "sony playstation",
-      "reason_ja": "ソニーがPlayStation 5のオールブラック新モデル「ミッドナイト ブラック」を発表し、洗練されたデザインと価格設定が世界中で話題となっています。",
-      "genre": "gadget",
-      "commercial_score": 92,
-      "product_keywords": [
-        "PlayStation 5",
-        "PS5 Midnight Black"
-      ],
-      "product_keywords_ja": [
-        "PlayStation 5",
-        "PS5 本体"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "PS5の限定ミッドナイトブラックが登場へ",
-          "summary_ja": "ソニーがプレイステーション5のデジタル・エディションに新色を発表しました。シックなブラックカラーを採用した注目の新ハードウェアです。",
-          "source": "VGChartz",
-          "url": "https://www.vgchartz.com/article/469335/ps5-digital-edition-midnight-black-japan-only-launches-november-19/"
-        },
-        {
-          "title_ja": "ソニーが美しい新デザインのPS5を発表",
-          "summary_ja": "ソニーが洗練された外観の新ハードウェアを披露しました。スタイリッシュなブラックの仕上がりがゲームファンの間で大きな反響を呼んでいます。",
-          "source": "Polygon.com",
-          "url": "https://www.polygon.com/playstation-5-midnight-black-japan-exclusive-console-controller-revealed/"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
       "keyword": "Apple HomeView",
-      "reason_ja": "アップルが進化したAIを搭載する新型スマートディスプレイ「HomeView」を発表し、スマートホーム製品の新たなハブとして英国内でも大きな関心を呼んでいます。",
+      "reason_ja": "アップルがスマート家電を統括する新型ハブ端末「HomeView」を発表し、スマートホーム製品の新たな中核デバイスとして英国でも話題を呼んでいます。",
       "genre": "gadget",
       "commercial_score": 92,
       "product_keywords": [
         "Apple HomeView",
-        "smart hub"
+        "smart home hub"
       ],
       "product_keywords_ja": [
         "スマートディスプレイ",
@@ -116,14 +120,14 @@
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップルが新型端末HomeViewを投入",
-          "summary_ja": "アップルからスマートホーム向けの新型ディスプレイ端末が発表されました。家庭内で活躍するハブデバイスとして第一印象が報じられています。",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/apple-homeview-b3065840.html"
+          "title_ja": "アップルが新型ハブ端末HomeViewを発表",
+          "summary_ja": "アップルからスマートホーム向けの新型ハブ端末が正式に発表されました。複数のデザインとカラーバリエーションが用意されています。",
+          "source": "T3",
+          "url": "https://www.t3.com/home-living/smart-home/apples-gbp299-homeview-hub-is-officially-here-with-two-designs-and-four-colour-options"
         },
         {
-          "title_ja": "アップルが進化したAI搭載の家電ハブを発表",
-          "summary_ja": "アップルがスマートホーム向けの新製品群を発表しました。タブレット型端末が他のスマート家電を統括するハブとして機能します。",
+          "title_ja": "アップルが新型のスマートホーム端末を披露",
+          "summary_ja": "タブレット型の新型端末がスマート家電の中心ハブとして登場しました。進化したアシスタント機能を備え、家庭内の機器を連携させます。",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
         }
@@ -132,32 +136,66 @@
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Apple TV 4K",
-      "reason_ja": "アップルが新型「Apple TV 4K」や「HomePod mini 2」を一斉発表し、ホームシアター連携や機能進化が話題となっています。",
-      "genre": "gadget",
+      "keyword": "東京ディズニーランド",
+      "reason_ja": "東京ディズニーリゾートで冬のイベント「ディズニー・クリスマス」の開催に合わせて、人気キャラクター「リルリンリン」のポップコーンバケットや限定グッズが公開され話題を呼んでいます。",
+      "genre": "food",
       "commercial_score": 90,
       "product_keywords": [
-        "Apple TV 4K",
-        "HomePod mini 2"
+        "リルリンリン",
+        "ディズニー クリスマス グッズ",
+        "ポップコーンバケット"
       ],
       "product_keywords_ja": [
-        "Apple TV 4K",
-        "HomePod mini"
+        "リルリンリン",
+        "ディズニー クリスマス",
+        "ポップコーンバケット"
       ],
-      "trend_source": "ニュース（ガジェット）",
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "リルリンリンのポップコーンバケットが登場",
+          "summary_ja": "東京ディズニーリゾートで人気キャラクターの新たなフードスーベニアが発売されます。優しい色合いのポップコーンバケットなど冬の限定アイテムが展開されます。",
+          "source": "GAME Watch",
+          "url": "https://game.watch.impress.co.jp/docs/news/2148303.html"
+        },
+        {
+          "title_ja": "ディズニーがクリスマス限定グッズを先行発売",
+          "summary_ja": "東京ディズニーリゾートで冬のスペシャルイベントが開催されます。ホリデーシーズンを彩る多彩なクリスマス限定グッズが先行販売されます。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/e42f408fb5851bf2093fe14d5c38d1adb0598912"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "クリスマスコフレ",
+      "reason_ja": "人気フレグランスやコスメブランドからホリデー限定コフレの情報が解禁され、完売必至の限定セットの予約開始に向けて期待が高まっています。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "クリスマスコフレ",
+        "ホリデーコレクション"
+      ],
+      "product_keywords_ja": [
+        "クリスマスコフレ",
+        "ホリデーコレクション"
+      ],
+      "trend_source": "ニュース（コスメ）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップルが次世代のHomePod mini発表",
-          "summary_ja": "アップルがスマートスピーカーの新製品を発表しました。新しいカラーバリエーションが加わり、より豊かな音響体験を楽しめる設計となっています。",
-          "source": "Apple",
-          "url": "https://www.apple.com/jp/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+          "title_ja": "ルラボから限定コフレとケアキットが登場",
+          "summary_ja": "人気フレグランスブランドからホリデー限定コレクションが発表されました。象徴的な香りのディスカバリーセットやハンドケアキットが揃います。",
+          "source": "ELLE",
+          "url": "https://www.elle.com/jp/beauty/nail-fragrance/g74116964/2026christmascoffret-nd-lelabo-2610-hns/"
         },
         {
-          "title_ja": "新型Apple TVとHomePod miniが登場",
-          "summary_ja": "アップルがホーム向け新製品を発表し、国内でも発売されることが明らかになりました。処理性能や連携機能が進化した注目モデルとなっています。",
-          "source": "Business Insider Japan",
-          "url": "https://www.businessinsider.jp/article/2610-apple-tv-4k-and-homepod-mini-2/"
+          "title_ja": "ランコムがパリを描いた限定コレクション",
+          "summary_ja": "人気コスメブランドから華やかなホリデーコレクションが登場します。毎年完売が続く注目シリーズで、限定セットの内容が公開されました。",
+          "source": "VOCE",
+          "url": "https://i-voce.jp/feed/5198853/"
         }
       ],
       "country": "jp",
@@ -165,12 +203,45 @@
     },
     {
       "keyword": "Beauty Advent Calendar",
-      "reason_ja": "英国の大手百貨店マークス＆スペンサーや人気コスメブランドからアドベントカレンダーが発売され、完売必至の人気を集めています。",
+      "reason_ja": "人気コスメブランド各社からホリデーシーズンに向けたビューティーアドベントカレンダーが発売され、完売必至の人気アイテムとして注目を集めています。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Beauty Advent Calendar",
+        "Charlotte Tilbury",
+        "Sephora"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー コスメ",
+        "ホリデーコレクション"
+      ],
+      "trend_source": "ニュース（コスメ）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "完売必至のユニークなアドベントカレンダー",
+          "summary_ja": "ホリデーシーズンに向けて多彩なアドベントカレンダーが登場しています。早期完売が予想される注目の人気商品が紹介されています。",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495"
+        },
+        {
+          "title_ja": "人気ブランドのビューティーカレンダー特集",
+          "summary_ja": "セフォラや人気コスメブランドから豪華なカウントダウンボックスが登場しています。手頃なケア用品から高級メイクまで幅広く揃います。",
+          "source": "Yahoo",
+          "url": "https://shopping.yahoo.com/beauty/article/the-best-beauty-advent-calendars-for-2026-sephora-lush-charlotte-tilbury-and-more-are-still-available-for-the-holiday-season-150421007.html"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Beauty Advent Calendar",
+      "reason_ja": "英国の大手百貨店マークス＆スペンサーから人気のビューティーアドベントカレンダーが発売され、豪華な内容とお買い得感で注目を集めています。",
       "genre": "beauty",
       "commercial_score": 90,
       "product_keywords": [
         "M&S Beauty Advent Calendar",
-        "Kiehl's"
+        "Marks and Spencer"
       ],
       "product_keywords_ja": [
         "アドベントカレンダー コスメ",
@@ -180,414 +251,349 @@
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "M&Sのビューティーアドベントカレンダーが登場",
-          "summary_ja": "手頃な価格帯で人気のビューティーアドベントカレンダーが発売されました。美容記者が実際に開封して内容やお買い得感を詳しく検証しています。",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/extras/indybest/christmasgifts/advent-calendars/m-and-s-beauty-advent-calendar-2026-b3066053.html"
-        },
-        {
-          "title_ja": "M&Sの限定カレンダーが早くも売れ筋に",
-          "summary_ja": "今年のホリデー向けアドベントカレンダーが発売を開始しました。例年以上に充実したセット内容となっており、急速に売れ行きを伸ばしています。",
-          "source": "Grazia Daily UK",
-          "url": "https://graziadaily.co.uk/beauty-hair/makeup/m-and-s-advent-calendar-review-2026/"
+          "title_ja": "M&Sの人気アドベントカレンダーが再登場",
+          "summary_ja": "英国大手百貨店から完売必至のビューティーアドベントカレンダーが発売されました。豪華なコスメアイテムが豊富に詰まった注目の内容です。",
+          "source": "AOL.co.uk",
+          "url": "https://www.aol.co.uk/articles/m-sell-beauty-advent-calendar-100127000.html"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "macrumors",
-      "reason_ja": "アップルが初のタッチスクリーン搭載MacBookや新型iPad miniの投入を計画しているとの報道が話題になっています。",
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "ノイズキャンセリングヘッドホン「Bose QuietComfort」がセールで注目されたことや、運動や日常使いでの快適な装着感が高く評価されています。",
       "genre": "gadget",
       "commercial_score": 88,
       "product_keywords": [
-        "MacBook",
-        "iPad mini"
+        "Bose QuietComfort",
+        "noise cancelling headphones"
       ],
       "product_keywords_ja": [
-        "MacBook",
-        "iPad mini"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "アップルがタッチ対応MacBook投入を計画か",
-          "summary_ja": "アップルが新型スマートホーム機器に続き、新たな製品発表を計画していると報じられました。ブランド初となるタッチスクリーン搭載のMacBookや新型iPad miniの登場が期待されています。",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october"
-        },
-        {
-          "title_ja": "MacBook Proに議論呼ぶ新機能が追加か",
-          "summary_ja": "かつてスティーブ・ジョブズ氏が否定的だったタッチ操作機能がMacBookに搭載される可能性が報じられています。長年の方針転換として注目を集めています。",
-          "source": "The Star",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/11/steve-jobs-said-this-kind-of-device-would-be-terrible-16-years-later-apple-seems-set-to-release-it"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "クリスマスコフレ",
-      "reason_ja": "人気コスメブランドからホリデー限定コフレやギフトセットの情報が続々と公開され、予約争奪戦に向けて関心が高まっています。",
-      "genre": "beauty",
-      "commercial_score": 88,
-      "product_keywords": [
-        "クリスマスコフレ",
-        "ホリデーコレクション"
-      ],
-      "product_keywords_ja": [
-        "クリスマスコフレ",
-        "ホリデーコレクション"
-      ],
-      "trend_source": "ニュース（コスメ）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "人気デパコスの限定クリスマスコフレ特集",
-          "summary_ja": "各人気コスメブランドからホリデーシーズンの限定キットが登場します。シャネルやディオールなど憧れのデパコスブランドから多彩なアイテムが揃います。",
-          "source": "ファッションプレス",
-          "url": "https://www.fashion-press.net/news/148503"
-        },
-        {
-          "title_ja": "イソップから多彩なホリデー限定ギフトが登場",
-          "summary_ja": "イソップから限定ボックスに収められたホリデーコレクションが発表されました。定番のスキンケアセットやフレグランスのコレクションが展開されます。",
-          "source": "ELLE",
-          "url": "https://www.elle.com/jp/beauty/makeup-skincare/g74087035/2026christmascoffret-nd-aesop-2610-hns/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Nvidia RTX Spark",
-      "reason_ja": "エヌビディアが新型ノートPC向けグラフィックス「RTX Spark」のローンチを発表し、多数の対応ゲームやAIツールが公開され注目されています。",
-      "genre": "gadget",
-      "commercial_score": 88,
-      "product_keywords": [
-        "NVIDIA RTX Spark",
-        "gaming laptop"
-      ],
-      "product_keywords_ja": [
-        "ゲーミングノートPC",
-        "NVIDIA RTX"
+        "Bose QuietComfort",
+        "ワイヤレスヘッドホン"
       ],
       "trend_source": "ニュース（ガジェット）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "エヌビディアがRTX Sparkの投入を発表",
-          "summary_ja": "エヌビディアから最新のグラフィックス技術が登場します。人気の大作ゲームタイトルが多数対応し、高い描画性能を発揮することが期待されています。",
-          "source": "NVIDIA",
-          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/"
+          "title_ja": "ボーズのワイヤレスヘッドホンが高評価獲得",
+          "summary_ja": "長時間の使用でも快適な装着感を提供するヘッドホンが高評価を受けました。運動や日常使いに適した優れた設計が支持されています。",
+          "source": "RTINGS.com",
+          "url": "https://www.rtings.com/headphones/reviews/best/over-ear-headphones-working-out"
         },
         {
-          "title_ja": "PCアプリ環境がRTX Sparkに対応へ",
-          "summary_ja": "新型グラフィックスの発売に向けて対応アプリケーションやAIモデルの準備が進められています。クリエイター向けツールやゲームなど幅広い分野で活用できます。",
-          "source": "NVIDIA Blog",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
+          "title_ja": "人気ブランドのノイズキャンセリング機が特価",
+          "summary_ja": "主要ブランドのノイズキャンセリングヘッドホンが特別価格で提供されています。秋のセールに合わせたお買い得情報が紹介されています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-october-prime-day-noise-cancelling-headphones-deals-live-2026"
         }
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Beauty Advent Calendar",
-      "reason_ja": "人気ビューティーブランドのアドベントカレンダーが続々と発売され、ホリデーシーズンに向けた争奪戦が話題となっています。",
-      "genre": "beauty",
-      "commercial_score": 88,
-      "product_keywords": [
-        "Beauty Advent Calendar",
-        "Charlotte Tilbury"
-      ],
-      "product_keywords_ja": [
-        "アドベントカレンダー コスメ",
-        "ホリデーコレクション"
-      ],
-      "trend_source": "ニュース（コスメ）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "注目を集めるアドベントカレンダー特集",
-          "summary_ja": "ホリデーシーズンに向けて多彩なアドベントカレンダーが発売されています。定番の人気アイテムから個性的な詰め合わせまで豊富な選択肢が紹介されています。",
-          "source": "Yahoo Lifestyle Canada",
-          "url": "https://ca.style.yahoo.com/45-of-the-best-advent-calendars-you-can-already-buy-in-canada-in-2026-171543351.html"
-        },
-        {
-          "title_ja": "人気ブランドのビューティーアドベントカレンダー",
-          "summary_ja": "人気コスメブランドから豪華なホリデー向けカレンダーが登場しています。スキンケアやメイクアップ製品が詰まった魅力的なセットが揃っています。",
-          "source": "Refinery29",
-          "url": "https://www.refinery29.com/en-us/best-beauty-advent-calendars"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "中产“新玩具”杀进商场一楼",
-      "reason_ja": "宇樹や智元などのロボットブランドが都市部ショッピングモールの好立地に続々出店し、新たな消費の目玉として人気を集めています。",
-      "genre": "gadget",
+      "keyword": "ちび まる子 ちゃん ハッピー くじ",
+      "reason_ja": "『ちびまる子ちゃん』の原作連載周年の節目を記念したHappyくじの発売が発表され、コミックスの表紙を立体化したフィギュアなどの景品が注目を集めています。",
+      "genre": "other",
       "commercial_score": 85,
       "product_keywords": [
-        "机器人",
-        "机器狗",
-        "宇树科技"
+        "ちびまる子ちゃん Happyくじ",
+        "ちびまる子ちゃん フィギュア"
       ],
       "product_keywords_ja": [
-        "ロボット犬",
-        "家庭用ロボット"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ロボットブランドが商業施設の一等地に続々進出",
-          "summary_ja": "商業施設の一等地にロボットブランドが相次いで出店しています。エスカレーター脇など目立つ場所で展示され、来訪者を引きつける新たな存在となっています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261014/49793786.html"
-        },
-        {
-          "title_ja": "行楽地の商圏でロボットが人気を集める",
-          "summary_ja": "人型ロボットや四足歩行ロボットが観光地や商業施設に登場しています。来訪者との交流やパフォーマンスで注目を集める一方、安全基準の整備も求められています。",
-          "source": "京报网",
-          "url": "https://news.bjd.com.cn/2026/10/14/11994281.shtml"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "ユニバ",
-      "reason_ja": "USJの冬のシーズナルイベントで登場するクリスマス限定フードや人気キャラクターのコラボメニューが公開され注目を集めています。",
-      "genre": "food",
-      "commercial_score": 80,
-      "product_keywords": [
-        "ユニバーサルスタジオジャパン",
-        "USJ"
-      ],
-      "product_keywords_ja": [
-        "USJ グッズ",
-        "ユニバーサルスタジオジャパン"
+        "ちびまる子ちゃん くじ",
+        "ちびまる子ちゃん フィギュア"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "USJがクリスマス限定フードのメニューを公開",
-          "summary_ja": "ユニバーサル・スタジオ・ジャパンで冬のシーズナルイベントが開催されます。スヌーピーやミニオンをモチーフにした限定フードメニューが勢ぞろいします。",
+          "title_ja": "ちびまる子ちゃん連載周年くじが登場",
+          "summary_ja": "人気漫画の記念イヤーを祝う特別な一番くじが発売されます。コミックスのカバーを再現した立体フィギュアなどが当たります。",
           "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/f36065b2bc41beeb2c83eaf05cf90f2de668217e"
+          "url": "https://news.yahoo.co.jp/articles/bdc568499e01c047ae5b4bdaa6cac3684c2d5cea"
         },
         {
-          "title_ja": "USJが冬のホリデーグルメイベントを開催へ",
-          "summary_ja": "ユニバーサル・スタジオ・ジャパンで冬のフードフェスティバルが開催されます。マリオやハリー・ポッターなどの人気作品をテーマにした限定メニューが展開されます。",
-          "source": "GAME Watch",
-          "url": "https://game.watch.impress.co.jp/docs/news/2147903.html"
+          "title_ja": "原作表紙や名場面を立体化した記念くじ",
+          "summary_ja": "原作連載を祝う記念くじの詳細が公開されました。まる子の部屋やコミックスの表紙をモチーフにした多彩な限定フィギュアが揃います。",
+          "source": "朝日新聞",
+          "url": "https://www.asahi.com/and/entertainment/16966529"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "网传“禁止教师用AI备课”系误读",
-      "reason_ja": "教員のAI教材作成禁止というネット上の誤解に対し、各地でAI教育利用のガイドライン策定や推進が進んでいることが明らかになりました。",
+      "keyword": "Anthropic",
+      "reason_ja": "AI開発企業アンソロピックが上場を控える中で売上高の大幅な急増を投資家説明会で発表し、AI市場における存在感の大きさが話題となっています。",
       "genre": "ai",
-      "commercial_score": 78,
+      "commercial_score": 85,
       "product_keywords": [
-        "AI教育",
-        "人工智能教学"
+        "Anthropic",
+        "Claude AI",
+        "AI API"
       ],
       "product_keywords_ja": [
-        "AI 教育 ツール"
+        "Claude",
+        "生成AI",
+        "人工知能"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source": "ニュース（AI）",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "教員のAI活用指針を巡る解説が公開",
-          "summary_ja": "教育現場でのAI活用について各地で指針や行動計画が定められています。教員向けの活用基準を明確にし、授業支援としての適切な利用を促す取り組みが進められています。",
-          "source": "搜狐",
-          "url": "https://m.sohu.com/a/1087607867_121443915"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "腾讯打算拿什么撬动红果近2亿日活",
-      "reason_ja": "テンセントが無料の短尺ドラマサービスを新たに開始し、急成長するショートドラマ市場での利用獲得競争が注目されています。",
-      "genre": "other",
-      "commercial_score": 76,
-      "product_keywords": [
-        "微短剧",
-        "微信小程序"
-      ],
-      "product_keywords_ja": [
-        "ショートドラマ アプリ"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
+          "title_ja": "アンソロピックが上場に向け大幅な増収発表",
+          "summary_ja": "人工知能開発大手が株式公開に向けて好調な四半期売上高を報告しました。生成AI需要の高まりを背景に急速な事業拡大を続けています。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+        },
         {
-          "title_ja": "テンセントが無料のショートドラマを開始",
-          "summary_ja": "手軽に楽しめる無料ドラマを配信する新サービスが立ち上がりました。アプリのインストール不要で手軽に視聴できる利便性を打ち出しています。",
-          "source": "finance.sina.com.cn",
-          "url": "https://finance.sina.cn/2026-10-14/detail-inivcxxr7875516.d.html"
+          "title_ja": "アンソロピックの四半期売上が急拡大を記録",
+          "summary_ja": "投資家向け説明会で力強い業績の伸びが明らかにされました。株式公開を前に事業の成長基盤を確立し、市場の関心を集めています。",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "asml",
-      "reason_ja": "オランダの半導体製造装置大手ASMLが好決算を発表し、将来に向けた長期の旺盛な受注需要を示したことで関心を集めています。",
+      "keyword": "tsm stock",
+      "reason_ja": "世界最大の半導体受託製造大手TSMCが世界的なAI需要の急拡大を背景に市場予想を上回る最高益を発表し、半導体市場への関心が高まっています。",
       "genre": "gadget",
-      "commercial_score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "ASML",
+        "TSMC",
+        "AI chip",
         "semiconductor"
       ],
       "product_keywords_ja": [
-        "半導体"
+        "半導体",
+        "AIチップ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ASMLの好決算と長期需要への強い関心",
-          "summary_ja": "半導体製造装置大手の業績が予想を上回り、好調な結果となりました。顧客企業から将来に向けた長期的な受注意欲が示されており、成長への期待が高まっています。",
+          "title_ja": "TSMCがAI需要拡大で最高益を更新",
+          "summary_ja": "半導体受託製造大手が市場予想を上回る好決算を発表しました。世界的な人工知能ブームを背景に力強い成長を維持しています。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
+          "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
         },
         {
-          "title_ja": "半導体市場で注目されるASMLの業績見通し",
-          "summary_ja": "半導体関連株の先行きに関心が集まる中、製造装置大手の生産能力見通しが注目されています。市場の信頼感を支える重要な指標として関心が寄せられています。",
+          "title_ja": "TSMCがAI受注増で業績見通しを引き上げ",
+          "summary_ja": "半導体大手企業が旺盛なAI関連需要を受けて予想以上の業績見通しを示しました。世界的な投資持続性への懸念を跳ね返し、急速な成長を続けています。",
           "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-13/asml-s-guidance-key-to-instill-confidence-in-fragile-chip-trade"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "the trap netflix psychological thriller",
-      "reason_ja": "ネットフリックスで配信開始された心理サスペンスドラマ『ザ・トラップ』が、スリリングな展開で一気見必至と話題を呼んでいます。",
-      "genre": "other",
-      "commercial_score": 75,
+      "keyword": "restaurant",
+      "reason_ja": "ロンドンで最も歴史のある老舗レストラン「Rules」の建物が歴史的遺産保護団体ナショナルトラストに寄贈されたことが話題となっています。",
+      "genre": "food",
+      "commercial_score": 80,
       "product_keywords": [
-        "Netflix",
-        "The Trap"
+        "Rules London",
+        "Covent Garden restaurant"
       ],
       "product_keywords_ja": [
-        "Netflix"
+        "ロンドン レストラン",
+        "英国 グルメ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ネットフリックスの新作サスペンスが配信開始",
-          "summary_ja": "ネットフリックスで心理サスペンスドラマが配信されました。緊迫感あふれるストーリー展開で、ドラマファンの注目を集めています。",
-          "source": "HELLO! Magazine",
-          "url": "https://www.hellomagazine.com/film/928715/netflix-psychological-thriller-the-trap-next-binge-watch/"
+          "title_ja": "ロンドン最古のレストランが保護団体へ寄贈",
+          "summary_ja": "コヴェント・ガーデンにある伝統ある老舗レストランが保護団体に引き渡されました。歴史的な建物の維持と保護が継続して行われます。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c83vq95dq91go"
         },
         {
-          "title_ja": "新作ドラマ『ザ・トラップ』の配信レビュー",
-          "summary_ja": "ネットフリックスの新作スリラー作品についての作品評価が公開されました。視聴すべきかどうかの見どころや魅力が詳しく解説されています。",
-          "source": "Decider",
-          "url": "https://decider.com/2026/10/13/the-trap-on-netflix-series-review-stream-or-skip/"
+          "title_ja": "伝統の老舗レストランが保護団体に寄贈",
+          "summary_ja": "長きにわたり愛されてきた歴史ある劇場街の名店が保全団体へ寄贈されました。長い歴史の中で持ち主の交代がわずかしか行われなかった名所です。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "小甜水要涨价了吗",
-      "reason_ja": "含糖飲料税の導入議論が各国で進む中、清涼飲料水の値上げや飲料業界の糖分・人工甘味料対策に関心が高まっています。",
+      "keyword": "水果罐头为啥不“甜”了",
+      "reason_ja": "健康志向や減糖・低糖化の流れの中でフルーツ缶詰の需要が変化し、各メーカーが甘さ控えめや小容量パッケージへの刷新を進めていることが注目を集めています。",
       "genre": "food",
-      "commercial_score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "无糖饮料",
-        "低糖饮料"
+        "水果罐头",
+        "低糖食品",
+        "健康零食"
       ],
       "product_keywords_ja": [
-        "無糖飲料",
-        "トクホ 飲料"
+        "フルーツ缶詰",
+        "低糖質 スイーツ",
+        "健康食品"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "甘い飲料の値上げ議論と糖税の動向",
-          "summary_ja": "清涼飲料に対する課税の議論が世界各地で広がっています。人工甘味料を用いた飲料も対象に含める動きがあり、飲料業界にとって大きな転換点となっています。",
-          "source": "凤凰网",
-          "url": "https://finance.ifeng.com/c/8xDJpxcuVZK"
-        },
-        {
-          "title_ja": "世界各国で広がる含糖飲料への課税方針",
-          "summary_ja": "健康への配慮から甘い飲料に税を課す制度を導入する国が増えています。欧州などでも導入計画が進められており、各国の政策動向が注目されています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261014/49793966.html"
+          "title_ja": "フルーツ缶詰が甘さ控えめへと転換進める",
+          "summary_ja": "消費者の健康志向の高まりによりフルーツ缶詰市場が変化を迎えています。甘さ控えめや小容量パッケージなど新たな商品展開で需要の回復を図っています。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-15/detail-inivhpnm7360296.d.html?vt=4&pos=108&his=0"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "nikki great british bake off",
-      "reason_ja": "イギリスの人気製菓勝ち抜き番組『ブリティッシュ・ベイクオフ』で波乱のパン作り対決が放送され、視聴者の間で大きな話題となりました。",
-      "genre": "food",
-      "commercial_score": 72,
+      "keyword": "世界都在刷短剧 全部进入红果时代",
+      "reason_ja": "バイトダンス傘下の無料ショートドラマアプリ「紅果短劇」が国内外で爆発的な人気を獲得し、短尺コンテンツの消費ブームが急速に広がっています。",
+      "genre": "other",
+      "commercial_score": 78,
       "product_keywords": [
-        "Bake Off",
-        "baking"
+        "红果短剧",
+        "微短剧",
+        "短剧app"
       ],
       "product_keywords_ja": [
-        "製菓用品",
-        "パン作り"
+        "ショートドラマ アプリ",
+        "短尺動画"
       ],
-      "trend_source": "Google トレンド",
+      "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "人気製菓番組ベイクオフの新たな挑戦が放送",
-          "summary_ja": "イギリスで親しまれている製菓コンテスト番組の最新エピソードが放送されました。審査員が提示する難易度の高い課題に挑戦者たちが挑んでいます。",
-          "source": "Channel 4",
-          "url": "https://www.channel4.com/press/news/great-british-bake-second-baker-leaves-tent-4"
-        },
-        {
-          "title_ja": "ベイクオフのパン対決で波乱の展開に",
-          "summary_ja": "番組内で緊張感あるパン作り対決が繰り広げられました。波乱の展開を迎えた放送回となり、視聴者の注目を集めています。",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-bread-week-nikki-molly-b3066168.html"
+          "title_ja": "短尺ドラマアプリが国内外で大ヒットを記録",
+          "summary_ja": "無料のショートドラマ配信アプリが急速に利用者を拡大しています。国内でのヒットモデルを海外市場にも展開し、大きな反響を呼んでいます。",
+          "source": "潮起网",
+          "url": "https://www.ichaoqi.com/guandian/2026/1014/88529.html"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "keyword": "biddy blas",
-      "reason_ja": "スター・ウォーズの新作レーシングゲームに登場した個性的な新キャラクターがファンの間で大人気となり話題を呼んでいます。",
+      "keyword": "顾客买850元脆皮捏捏 全捏碎后退货",
+      "reason_ja": "若者の間で大人気となっている手作り感触トイ「脆皮捏捏」の購入トラブルを巡り、ネット通販の無条件返品ルールが議論を呼んでいます。",
       "genre": "other",
-      "commercial_score": 70,
+      "commercial_score": 76,
       "product_keywords": [
-        "Star Wars Galactic Racer",
-        "Biddy Blas"
+        "脆皮捏捏",
+        "捏捏乐",
+        "解压玩具"
       ],
       "product_keywords_ja": [
-        "スターウォーズ ゲーム"
+        "スクイーズ 玩具",
+        "ストレス解消 グッズ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気玩具の返品トラブルがネットで議論呼ぶ",
+          "summary_ja": "人気の手作り感触玩具を巡って返品を巡るトラブルが発生しました。ネット通販における返品の条件や出品者の保護について関心が集まっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261015/49795647.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "myojo",
+      "reason_ja": "アイドル誌『Myojo』の最新号で人気グループHey! Say! JUMPが表紙と裏表紙を飾り、記念イヤーに向けた特集が掲載されることからファンの注目が集まっています。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Myojo",
+        "Hey! Say! JUMP"
+      ],
+      "product_keywords_ja": [
+        "Myojo",
+        "アイドル雑誌"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "新作スター・ウォーズゲームの新キャラが話題に",
-          "summary_ja": "新作ゲームに登場する新キャラクターがファンの注目を集めています。独自性のあるユニークなキャラクター造形が話題を呼び、コミュニティで高い人気を獲得しています。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ai-couldnt-have-made-star-wars-galactic-racers-biddy-blas"
+          "title_ja": "人気アイドルグループが月刊誌の表紙飾る",
+          "summary_ja": "人気アイドルグループが月刊誌の最新号で表紙と裏表紙を飾ります。通常版とコンパクト版の両方で記念イヤーに向けた特集が組まれています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/53c7a7ac563c26440dea96a75785f75160420ed3"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "escape halloween",
+      "reason_ja": "ハロウィンシーズンに向けて体験型のホラー脱出ゲームや没入型イベントが多数開催され、友人や家族と楽しむレジャーとして注目を集めています。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Halloween escape room",
+        "horror escape game"
+      ],
+      "product_keywords_ja": [
+        "脱出ゲーム",
+        "ハロウィン イベント"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ハロウィン向け恐怖の脱出ゲーム特集が公開",
+          "summary_ja": "ハロウィンシーズンを盛り上げる注目の体験型イベントが紹介されています。多彩なテーマのホラー脱出ゲームが各地で開催されています。",
+          "source": "Love London Love Culture",
+          "url": "https://lovelondonloveculture.com/2026/10/14/love-london-love-cultures-halloween-picks-2026/"
+        },
+        {
+          "title_ja": "没入型ホラー脱出ゲームがハロウィンに登場",
+          "summary_ja": "ハロウィンに合わせて体験型のホラー脱出アトラクションが展開されます。役者を起用した迫真の演出でスリリングな体験を提供します。",
+          "source": "Verge Magazine",
+          "url": "https://vergemagazine.co.uk/no-escape-london-brings-nine-terrifying-horror-escape-rooms-to-life-for-halloween-2026/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "new dinosaur fossil",
+      "reason_ja": "英国のワイト島で発見された化石が新種の肉食恐竜と特定され、大英自然史博物館の研究発表に大きな関心が寄せられています。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "dinosaur fossil UK",
+        "Natural History Museum"
+      ],
+      "product_keywords_ja": [
+        "恐竜 化石",
+        "自然史博物館"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ワイト島で発見の化石が新種の恐竜と判明",
+          "summary_ja": "英国のワイト島で見つかった化石が新種の肉食恐竜であることが明らかになりました。羽毛を持ち大型のかぎ爪を備えていたとみられています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgx70v9vrjo"
+        },
+        {
+          "title_ja": "英自然史博物館が鋭い爪を持つ新種恐竜発表",
+          "summary_ja": "大英自然史博物館が保管する化石の研究から新種の恐竜が特定されました。トラほどの大きさで鋭いかぎ爪を備えた捕食者とされています。",
+          "source": "Natural History Museum",
+          "url": "https://www.nhm.ac.uk/press-office/press-releases/uk-dinosaur-fossil-identified-as-new-long-clawed-predator.html"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

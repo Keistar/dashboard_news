@@ -1,200 +1,268 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T15:40:09+09:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T15:37:03+09:00",
   "stories": [
     {
-      "title_ja": "アップルが第4世代Apple TV 4K発表、音響連携を強化",
-      "summary_ja": "アップルは第4世代となる「Apple TV 4K」を発表した。HomePodを最大4台まで連携させることで臨場感のあるサラウンド環境を構築できるほか、新しいSiri Remoteも付属する。",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/10/14/5583.html",
+      "title_ja": "Nothing傘下CMF、牛乳パック着想の防水スピーカー発表",
+      "summary_ja": "英NothingのサブブランドであるCMFは、ポータブルスピーカー「CMF Speaker S」および「M」を発表しました。牛乳パックをモチーフにした色鮮やかな防水ボディに、18時間の連続再生が可能なバッテリーを備え、59ドルからの価格で展開されます。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Nothing-unveils-waterproof-speakers-with-milk-carton-design-starting-at-just-59.1423929.0.html",
       "score": 85,
       "commercial_score": 90,
       "product_keywords": [
-        "Apple TV 4K",
-        "Apple TV",
-        "ストリーミングデバイス"
+        "CMF Nothing",
+        "ポータブルスピーカー",
+        "Bluetoothスピーカー"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "アップルがHomePod mini 2発表、S10チップでAI対応",
-      "summary_ja": "アップルが小型スマートスピーカーの新モデル「HomePod mini 2」を発表した。S10チップを搭載してSiri AIに対応するほか、4台連携によりApple TV 4Kのサラウンド再生にも対応する。",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/10/14/5582.html",
+      "title_ja": "階躍星辰、AIが自律行動するスマートフォンの新機種発表",
+      "summary_ja": "中国のAIスタートアップ階躍星辰（StepFun）は、大規模AIモデルをネイティブ搭載したスマートフォン「STEPX Neo」を3999元で発表しました。端末に向かって話しかけるだけで、スケジュール作成や条件に合わせた施設予約などの複雑なタスクを自動で行える機能が備わっています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5953189932_162d6782c067050sim.html?from=tech",
       "score": 85,
-      "commercial_score": 90,
-      "product_keywords": [
-        "HomePod mini",
-        "スマートスピーカー",
-        "Apple"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "アップルが住宅管理端末「Apple HomeView」を発表",
-      "summary_ja": "米アップルは家庭の中心となって住宅設備などを一元管理できる新端末「Apple HomeView」を発表した。エンターテインメントや家族間のつながり、住まいの管理を一体で楽しめる設計となっている。",
-      "source": "Apple",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "score": 85,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Apple",
-        "スマートホーム",
-        "スマートディスプレイ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "階躍星辰がAIスマホ「STEPX Neo」発表、自社AI搭載",
-      "summary_ja": "階躍星辰（StepFun）の端末部門が、モデルネイティブのAIスマートフォン「STEPX Neo」と個人向けAI「Amoo」を発表した。先行版は3,999元で提供され、購入者には月間100億トークンの利用枠などが付与される。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261014/612901.html",
-      "score": 85,
-      "commercial_score": 80,
+      "commercial_score": 75,
       "product_keywords": [
         "AIスマートフォン",
-        "スマートフォン"
+        "AIスマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "新型Fire TV Stick 4Kが登場、テレビのUSB給電に対応",
-      "summary_ja": "アマゾンが新型「Fire TV Stick 4K」を発売した。4K Ultra HDやWi-Fi 6への対応に加え、テレビのUSB端子からの直接給電に対応し、刷新されたリモコンが付属する。",
-      "source": "週刊アスキー",
-      "url": "https://weekly.ascii.jp/elem/000/004/441/4441875/",
-      "score": 80,
-      "commercial_score": 95,
+      "title_ja": "アップル初の折りたたみ「iPhone Duo」、画面修理費に注目",
+      "summary_ja": "米アップル（Apple）初の折りたたみスマートフォン「iPhone Duo」が、中国で10月16日に予約開始、10月23日に発売されます。中国での価格は1万5999元からですが、保証外での内側ディスプレイ交換費用が約8000元（7998元）に達することが発表され関心を集めています。",
+      "source": "中关村在线手机",
+      "url": "https://mobile.zol.com.cn/1260/12603908.html",
+      "score": 85,
+      "commercial_score": 85,
       "product_keywords": [
-        "Fire TV Stick 4K",
-        "Fire TV",
-        "ストリーミングメディアプレーヤー"
+        "iPhone Duo",
+        "Apple iPhone"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "マイクロソフト、約99gの超小型Xbox Nanoコントローラー発表",
+      "summary_ja": "米マイクロソフト（Microsoft）は、純正ゲームコントローラーの新モデル「Xbox Nano コントローラー」を発表しました。本体重量は約99グラムと軽量で小型化されており、ゲーム機本体だけでなくスマートフォンやPCでの利用にも対応しています。",
+      "source": "テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/15/5587.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Xbox コントローラー",
+        "Xbox Nano"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "XGIMIが低遅延1msの4Kレーザープロジェクター3機種発表",
-      "summary_ja": "XGIMIはRGBトリプルレーザーを採用した4Kプロジェクター「Horizon 30」シリーズを発表した。120Hz駆動と1ミリ秒の低入力遅延に対応し、4800から6000 ISOルーメンの高輝度を備える。",
+      "title_ja": "エイスース、120Hz有機EL搭載の薄型ノートPCを発売",
+      "summary_ja": "台湾エイスース（Asus）は、薄型軽量のビジネス向けノートPC「ExpertBook A7」を発売しました。アルミニウム筐体に120Hz駆動の有機ELディスプレイやガラス製タッチパッドを備え、Intel Coreプロセッサの採用により軽負荷時に最長26時間の駆動が可能です。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Xgimi-launches-Horizon-30-projectors-with-input-lag-as-low-as-1ms-for-gamers.1422795.0.html",
+      "url": "https://www.notebookcheck.net/Asus-releases-new-MacBook-Air-rival-with-metal-design-16-GB-RAM-and-120-Hz-OLED-display.1423190.0.html",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "XGIMI",
-        "プロジェクター",
-        "4Kプロジェクター"
+        "ASUS ノートパソコン",
+        "ExpertBook"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ガーミンが高級スマートウォッチ「MARQ第3世代」を発表",
-      "summary_ja": "ガーミンは高級スマートウォッチシリーズの第3世代となる「MARQ Gen 3」を発表した。チタン素材のケースに大型ディスプレイを備え、単独でのLTE通信機能や音声操作機能を搭載している。",
-      "source": "Wareable",
-      "url": "https://www.wareable.com/garmin/garmin-marq-gen-3-collection-announcement-diver-adventurer-athlete-aviator-commander-golfer",
+      "title_ja": "アップル、英国でスマートホーム製品群を12月に展開へ",
+      "summary_ja": "米アップル（Apple）は、「Home Collection」として新たなスマートホーム向け機器群を2026年12月に英国で展開します。家庭内の環境を連携させる新デバイスの導入が予定されています。",
+      "source": "T3",
+      "url": "https://www.t3.com/home-living/smart-home/apples-new-smart-home-range-with-lg-explained-whats-included-and-how-much-do-they-cost",
       "score": 80,
-      "commercial_score": 85,
+      "commercial_score": 75,
       "product_keywords": [
-        "GARMIN",
-        "ガーミン",
-        "スマートウォッチ"
+        "Apple Home",
+        "スマートホーム"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "シャオミのREDMI K100標準版が認証を通過、発表間近に",
-      "summary_ja": "シャオミの新型スマートフォン「REDMI K100」の標準版が認証を完了し、正式発表が近づいている。Snapdragon 8 至尊版とゲーム用独自ディスプレイチップのデュアル構成を採用し、100Wの急速充電に対応する。",
-      "source": "智电网",
-      "url": "http://news.zdwang.com/a/202610/14102141.html",
+      "title_ja": "Razer、ポケモン30周年を記念したゲーミングヘッドセット発売",
+      "summary_ja": "ゲーミングデバイスの米レーザー（Razer）は、「ポケットモンスター」シリーズ30周年を記念した特別仕様のヘッドセット3種類を発売しました。リザードン、ルカリオ、ニンフィアをあしらったデザインで、価格は109.99ドルから設定されています。",
+      "source": "SoundGuys",
+      "url": "https://www.soundguys.com/razer-pokemon-themed-headphones-launched-164679/",
       "score": 80,
-      "commercial_score": 85,
+      "commercial_score": 90,
       "product_keywords": [
-        "REDMI",
-        "Xiaomi",
-        "スマートフォン"
+        "Razer ヘッドセット",
+        "Razer ポケモン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国で2K・185Hz対応スマホ画面発表、2200nitsを記録",
+      "summary_ja": "中国ディスプレイ大手のヴィジョノックス（Visionox）は、清華大学およびiQOOと共同で、2K解像度と185Hzの高駆動に対応するスマートフォン向け有機EL画面を発表しました。全画面ピーク輝度2200nitsを達成し、屋外の強い日差しの下でも高い視認性を保ちます。この画面は新型機「iQOO Neo12」に初搭載されます。",
+      "source": "凤凰网",
+      "url": "https://pingce.ifeng.com/c/8xDzzUQCdVc",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "iQOO Neo",
+        "vivo スマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "半透明レトロデザインの子供向け電話機「Yapa Phone」登場",
-      "summary_ja": "有線受話器とダイヤルボタンを備えたレトロな電話機「Yapa Phone」が発表された。半透明の筐体にWi-Fiや専用スマホアプリ連携などの最新機能を備え、子どもの最初の電話機として提案されている。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Yapa-wraps-modern-tech-in-transparent-retro-phone.1423322.0.html",
-      "score": 75,
-      "commercial_score": 65,
-      "product_keywords": [
-        "キッズ携帯",
-        "電話機",
-        "知育玩具"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Fosi AudioがiPod風の金属製携帯音楽プレーヤーを発売",
-      "summary_ja": "Fosi AudioはAppleのiPod Nanoに着想を得た新型携帯音楽プレーヤーを発表した。金属製ボディにクリックホイールを搭載し、重さ75グラムの筐体にBluetoothや3.5mmイヤホン端子を備える。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Music-player-inspired-by-Apple-iPod-Nano-launches-with-metal-casing-for-79.1423314.0.html",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "デジタルオーディオプレーヤー",
-        "ポータブルオーディオ",
-        "MP3プレーヤー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "OnePlusがカラー画面付きの67W急速充電バッテリー発表",
-      "summary_ja": "OnePlusは容量1万mAhの急速充電モバイルバッテリーを発表した。本体にフルカラーディスプレイや一体型ケーブルを備え、最大67Wの急速充電やUSB PD、PPS規格の給電をサポートする。",
-      "source": "cambuy.tw",
-      "url": "https://www.cambuy.tw/1733/oneplus-launches-10000mah-power-bank-with-67w-fast-charging/",
+      "title_ja": "シャオミが新スマホ「Xiaomi 17T」国内投入、割引施策を展開",
+      "summary_ja": "中国のシャオミ（Xiaomi）は、ハイエンドスマートフォンの「Xiaomi 17T」シリーズ2機種を日本国内向けに投入しました。同社はキャンペーンによる購入割引に注力しており、ユーザーの賢い活用が呼びかけられています。",
+      "source": "日経クロステック Active",
+      "url": "https://active.nikkeibp.co.jp/atcl/act/19/00685/090200039/",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "OnePlus",
-        "モバイルバッテリー",
-        "急速充電器"
+        "Xiaomi 17T",
+        "Xiaomi スマホ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "RTX 5090と最大128GBメモリ搭載の高性能ノートPC発表",
+      "summary_ja": "TuxedoはハイエンドノートPC「Stellaris 16 Gen 8」を発表しました。24コアのIntel Core Ultra 9 275HXやGeForce RTX 5090 Laptop GPUを採用し、最大128GBのメモリ構成や豊富な接続ポートを備えています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/RTX-5090-powered-gaming-laptop-arrives-with-up-to-128-GB-RAM-and-plenty-of-ports.1424110.0.html",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "RTX 5090 ノートPC",
+        "ゲーミングノートPC"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "OneXPlayerが最大192GBメモリ搭載の新型PCを発表",
-      "summary_ja": "One-NetbookはAMD製プロセッサを搭載した新型端末「OneXPlayer Super X Pro」を発表した。120Hz駆動のAMOLED画面や85Whバッテリーを備え、最大192GBのメモリのうち160GBをVRAMとして割り当てられる。",
+      "title_ja": "カロス、大画面と電池持ちを強化したスポーツウォッチ発表へ",
+      "summary_ja": "スポーツ機器ブランドのカロス（COROS）は、新型GPSウォッチ「COROS PACE 4 Pro」を2026年10月21日に発売することを明らかにしました。耐久系競技のアスリート向けに、軽量素材の採用や画面の大型化、バッテリー持続時間の向上が図られています。",
+      "source": "Pokde.Net",
+      "url": "https://pokde.net/gadget/wearable/coros-pace-4-pro-launch",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "COROS PACE",
+        "ランニングウォッチ",
+        "スマートウォッチ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "オッポ、新型タブレットとイヤホンを10月21日に英国投入",
+      "summary_ja": "中国オッポ（OPPO）は、タブレット端末「Pad 5 Pro」とワイヤレスイヤホン「Enco X4」を2026年10月21日に英国市場へ投入します。公式の告知画像により、当日夕方の発表イベントで詳細が明かされる見通しです。",
+      "source": "Business Upturn",
+      "url": "https://businessupturn.com/technology/gadgets/oppo-to-launch-pad-5-pro-and-enco-x4-in-the-uk-on-october-21/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "OPPO タブレット",
+        "OPPO イヤホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "豆包スマホ、AI自動操作を拒否する主要アプリ一覧を公表",
+      "summary_ja": "バイトダンス（ByteDance）系の豆包スマホアシスタントは、画面の自動操作権限に関する協定の進捗を発表しました。主要サービスである微信（WeChat）や淘宝（タオバオ）、支付宝（アリペイ）などが、安全面や仕様上の観点からAIによる自動操作を拒否する対象として公表されています。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1087770369_114988",
+      "score": 75,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "オナー、50秒で10度冷却するファン搭載ゲーム向けスマホ",
+      "summary_ja": "中国オナー（Honor）は、新型スマートフォン「WIN2」シリーズに採用する立体冷却技術を発表しました。業界初となるデュアル冷却ファンを内蔵し、50秒で本体温度を10度下げられる構造により、長時間の高負荷ゲームプレイを支援します。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1087812163_392936",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Honor スマホ",
+        "オナー スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "エレコム、16K画質対応のHDMI 2.2ケーブルを11月中旬発売",
+      "summary_ja": "エレコムは、国内初認証となる最新規格「HDMI 2.2」に準拠したHDMIケーブル「CAC-HD22BKシリーズ」を11月中旬に発売します。本製品は16K画質の伝送に対応したUltra96ケーブルとなっています。",
+      "source": "BCN Retail",
+      "url": "https://www.bcnretail.com/news/detail/20261015_668261.html",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "エレコム HDMIケーブル",
+        "CAC-HD22BK",
+        "HDMI 2.2"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "CIO、端子内蔵で直挿しできる5000mAhバッテリーの予約開始",
+      "summary_ja": "CIOは、折りたたみ式のUSB-C端子を内蔵した容量5000mAhのモバイルバッテリー「CIO Mate Powerbank004」の予約販売を開始しました。ケーブルを使わずにスマートフォンへ直接挿して給電できます。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-15-43212-711/",
+      "score": 70,
+      "commercial_score": 95,
+      "product_keywords": [
+        "CIO モバイルバッテリー",
+        "CIO Mate Powerbank004"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "スマホからPCを遠隔再起動、「Link to Windows」に新機能",
+      "summary_ja": "マイクロソフト（Microsoft）のAndroid向けアプリ「Link to Windows」に、連携しているWindows PCを遠隔操作できる機能が加わりました。最新のベータ版にて、離れた場所からPCのシャットダウンや再起動、スリープへの移行を行えるようになっています。",
+      "source": "スマホダイジェスト",
+      "url": "https://sumahodigest.com/?p=73740",
+      "score": 70,
+      "commercial_score": 40,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エイサー、背面にサブ画面を備えた新型スマートフォンを発売",
+      "summary_ja": "台湾エイサー（Acer）は、中価格帯のスマートフォン「Acer Sospiro A70」を発売しました。カメラユニット部分にサブディスプレイを搭載しており、6400万画素のメインカメラを用いた自撮りが可能なほか、microSDカードスロットも備えています。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/An-Asus-ROG-Flow-Z13-but-with-160-GB-VRAM-OneXPlayer-Super-X-Pro-launches-with-up-to-192-GB-RAM-and-AMD-Gorgon-Halo.1422804.0.html",
+      "url": "https://www.notebookcheck.net/Acer-Sospiro-A70-launches-with-rear-display-and-microSD-slot.1423958.0.html",
       "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "OneXPlayer",
-        "ポータブルゲーミングPC",
-        "UMPC"
+        "Acer スマホ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "3つのOSが動くスマホ「NexPhone」が発売延期と値上げ",
-      "summary_ja": "3種類のOSに対応するスマートフォン「NexPhone」の開発に遅れが生じ、発売が延期された。アンテナや外殻の課題により開発スケジュールが見直され、予約価格は599ドルへと引き上げられている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1087200879_115831",
+      "title_ja": "1MORE、高音質ノイズ低減オーバーイヤーヘッドホン発表",
+      "summary_ja": "音響ブランドのワンモア（1MORE）は、新型オーバーイヤーヘッドホン「SonoFlow Max HQ60」を発表しました。没入感のあるサウンド再生性能と高度なノイズキャンセリング技術を組み合わせ、高音質な音楽体験を提供します。",
+      "source": "巴士的報",
+      "url": "https://www.bastillepost.com/global/article/6253860-1more-sonoflow-max-over-ear-headphones-hq60-set-a-new-standard-for-immersive-sound-and-noise-cancellation",
       "score": 70,
-      "commercial_score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "スマートフォン"
+        "1MORE ヘッドホン",
+        "SonoFlow"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }
