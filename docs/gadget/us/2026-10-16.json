@@ -1,0 +1,75 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:37:47+09:00",
+  "stories": [
+    {
+      "title_ja": "エヌビディア、最大128GBメモリ搭載のRTX SparkノートPC発売",
+      "summary_ja": "エヌビディア（NVIDIA）の「RTX Spark」を搭載したAIノートPCが、PCメーカー8社から2026年10月16日に出荷開始となる。Grace CPUとBlackwell GPUを組み合わせ、最大128GBのユニファイドメモリを備えている。価格は2599ドルから設定されている。",
+      "source": "https://tech-insider.org/",
+      "url": "https://tech-insider.org/nvidia-rtx-spark-laptops-launch-2599-128gb-2026/",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "NVIDIA",
+        "ノートパソコン",
+        "ゲーミングPC"
+      ]
+    },
+    {
+      "title_ja": "ソニー、スマホ動画で臨場感ある音を録音できる空間マイク発売",
+      "summary_ja": "ソニーはスマートフォンでの動画撮影に向けた空間オーディオマイク「ECM-AX10」を発売した。撮影現場の環境音や空間の広がりをそのまま捉えて記録できる設計となっている。スマートフォンを用いた映像制作における音質向上を後押しする。",
+      "source": "파이낸셜뉴스",
+      "url": "https://en.fnnews.com/news/202610160932575092",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ソニー",
+        "マイク",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "レノボ、17時間駆動バッテリーと32GBメモリの廉価ノートPC発売",
+      "summary_ja": "レノボ（Lenovo）は欧州および北米地域に向けて、手頃な価格の新型ノートPC「IdeaPad Vibe 14AKP12」の販売を開始した。14インチのディスプレイとAMD Ryzenプロセッサを搭載し、最大32GBのRAMを選択できる。公式テストにおいて17時間以上持続するロングバッテリーを備えている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-budget-laptop-with-up-to-32-GB-RAM-and-over-17-hours-battery-life.1425176.0.html",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Lenovo",
+        "IdeaPad",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "アンカー、画面表示と電池保護機能を備えたノートPC充電器を発表",
+      "summary_ja": "アンカー（Anker）は新型充電器「Anker Laptop Charger Pro」を10月22日に投入する。最大100W出力のUSB-Cポートを1基備え、機器検知やケア充電モードに対応したスマートディスプレイを搭載する。バッテリーの寿命を最大40%延ばすとされている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Anker-launching-new-laptop-charger-with-display-and-battery-health-features-on-October-22.1425256.0.html",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker",
+        "充電器",
+        "USB-C"
+      ]
+    },
+    {
+      "title_ja": "華為、100W急速充電と内蔵ケーブルを備えた2万mAhモバイル電源",
+      "summary_ja": "華為（ファーウェイ）は、容量20,000mAhの新型モバイルバッテリーを発売した。ケーブルが内蔵されているほかUSB-Cポートを1つ備え、最大100Wの急速充電に対応している。価格は499人民元（約74.56ドル）となっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/High-capacity-Huawei-power-bank-launches-with-100W-fast-charging-and-built-in-cable.1425041.0.html",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "モバイルバッテリー",
+        "急速充電",
+        "大容量"
+      ]
+    }
+  ]
+}

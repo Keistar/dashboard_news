@@ -1,0 +1,163 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T16:04:34+09:00",
+  "trends": [
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "エヌビディアがローカルAI処理に対応した新型ノートPC「RTX Spark」を発表したため。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "RTX Spark",
+        "AI laptop",
+        "NVIDIA"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングノートPC",
+        "ノートパソコン",
+        "エヌビディア"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "エヌビディアが次世代AIノートPCを発表",
+          "summary_ja": "ローカル環境で人工知能を動作させる新たな時代の幕開けとして新製品が披露された。世界各国で発売記念のイベントが展開されている。",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
+        },
+        {
+          "title_ja": "高性能プロセッサ搭載のAIノートPCが出荷開始",
+          "summary_ja": "複数のパソコンメーカーから高性能な演算ユニットと大容量メモリを備えた端末が出荷された。先進的な処理能力を求めるユーザー向けに構成されている。",
+          "source": "https://tech-insider.org/",
+          "url": "https://tech-insider.org/nvidia-rtx-spark-laptops-launch-2599-128gb-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "Amazon Bee",
+      "reason_ja": "アマゾンが会話を録音・要約する新しいAIウェアラブル端末2機種を発表したため。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Amazon Bee",
+        "AI wearable",
+        "voice recorder"
+      ],
+      "product_keywords_ja": [
+        "スマートバンド",
+        "ボイスレコーダー",
+        "ウェアラブル端末"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "会話を要約するアマゾンの新AI端末2種が登場",
+          "summary_ja": "会話を記録して要約やタスク作成を行う個人向けAI端末が発表された。腕に装着するウェアラブル型とスマートフォン背面に取り付ける型の二種類が用意されている。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse"
+        },
+        {
+          "title_ja": "アマゾンが日常の会話を聞き取るAI端末を発表",
+          "summary_ja": "日常会話を聞き取るブレスレット型端末の改良版と、スマホに装着可能な新端末が発売された。手頃な価格帯で持ち運べるAIアシスタントとして展開される。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
+        }
+      ]
+    },
+    {
+      "keyword": "cox",
+      "reason_ja": "アクセンチュアが社内でのClaude利用費用の月額上限を設定したことが話題となったため。",
+      "genre": "ai",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Claude AI",
+        "Anthropic",
+        "AI productivity tool"
+      ],
+      "product_keywords_ja": [
+        "AIツール",
+        "業務効率化",
+        "生成AI"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "アクセンチュアが社員のAI利用費に上限を設定",
+          "summary_ja": "コンサルティング大手のアクセンチュアが社内での生成AI利用額に制限を設けた。これまで多額の費用をかけてツールを使っていた社員が対応に追われている。",
+          "source": "404 Media",
+          "url": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/"
+        },
+        {
+          "title_ja": "社内でのAI利用制限を導入、高額利用を見直しへ",
+          "summary_ja": "企業内で社員が利用するAIツールの費用に月額制限が課された。業務での活用が広がる中、利用コストの管理を徹底する動きが出ている。",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/technology/news/story/accenture-caps-claude-use-internally-some-employees-were-spending-1000-on-ai-3018550-2026-10-16"
+        }
+      ]
+    },
+    {
+      "keyword": "maria sakkari",
+      "reason_ja": "女子テニスのマリア・サッカリ選手が武漢オープンの3回戦を突破し準々決勝進出を決めたため。",
+      "genre": "other",
+      "commercial_score": 72,
+      "product_keywords": [
+        "tennis racket",
+        "tennis skirt",
+        "tennis shoes"
+      ],
+      "product_keywords_ja": [
+        "テニスラケット",
+        "テニスウェア",
+        "テニスシューズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "サッカリが激戦を制し武漢オープンのベスト8に進出",
+          "summary_ja": "マリア・サッカリ選手が若手選手の追い上げを振り切り、ストレートで勝利を収めた。ツアー大会での上位進出を果たし、好調を維持している。",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/videos/4592679/sakkari-holds-off-pohankova-to-return-to-wuhan-quarters-after-nine-years"
+        },
+        {
+          "title_ja": "武漢オープンでサッカリが快勝し次戦へ駒を進める",
+          "summary_ja": "ハードコートでの一戦で相手を圧倒し、次のラウンドへと勝ち進んだ。安定した試合運びで連勝を伸ばしている。",
+          "source": "TennisTemple",
+          "url": "https://en.tennistemple.com/video/maria-sakkari-defeats-mia-pohankova-at-wuhan-open/ZuXxl"
+        }
+      ]
+    },
+    {
+      "keyword": "dennis rodman",
+      "reason_ja": "元NBAスターのデニス・ロドマンがサイン会イベントのためサンアントニオを訪問することが報じられたため。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Dennis Rodman jersey",
+        "Spurs memorabilia",
+        "NBA basketball"
+      ],
+      "product_keywords_ja": [
+        "NBA ユニフォーム",
+        "バスケットボール",
+        "スニーカー"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "元NBAスターのロドマンがファンイベントに登場へ",
+          "summary_ja": "往年のバスケットボール界の名選手がサンアントニオを訪れ、サイン会を開催する。地元のファンと直接交流する機会が設けられる。",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/nba-legend-former-spurs-star-184447961.html"
+        }
+      ]
+    }
+  ]
+}

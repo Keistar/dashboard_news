@@ -1,0 +1,163 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T16:04:34+09:00",
+  "trends": [
+    {
+      "keyword": "华为阔直板",
+      "reason_ja": "ファーウェイの新型ワイドストレートスマホの出荷が好調で、ユーザー移行が進んでいると報じられたため。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "华为手机",
+        "Pura X View",
+        "手机壳"
+      ],
+      "product_keywords_ja": [
+        "ファーウェイ スマホ",
+        "スマホケース",
+        "スマート端末"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ファーウェイのワイド端末が使いやすいと好評",
+          "summary_ja": "新型スマートフォンについて、画面の見やすさやアプリの充実度が高く評価されている。日常業務や普段使いでの使い勝手が支持を集めている。",
+          "source": "新浪网",
+          "url": "https://k.sina.com.cn/article_1879621021_7008bd9d04001n6gk.html?from=digit"
+        },
+        {
+          "title_ja": "ファーウェイの新型スマホが好調な売れ行きを記録",
+          "summary_ja": "新機種の出荷が順調に進み、他社端末からの乗り換え需要も取り込んでいる。高価格帯でありながら市場での存在感を強めている。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1088511368_104421"
+        }
+      ]
+    },
+    {
+      "keyword": "特斯拉Roadster",
+      "reason_ja": "テスラの新型EVスポーツカー「Roadster」が披露され、中国公式サイトで予約受付が始まったため。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "特斯拉 车模",
+        "特斯拉 周边",
+        "跑车 模型"
+      ],
+      "product_keywords_ja": [
+        "テスラ ミニカー",
+        "テスラ グッズ",
+        "EV ミニカー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テスラが第2世代ロードスターの新型車を披露",
+          "summary_ja": "テスト拠点において新型電動スポーツカーが公開された。空中での姿勢制御などの先進的な機能を備えたモデルとして注目を集めている。",
+          "source": "ThePaper.cn",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34261270"
+        },
+        {
+          "title_ja": "中国公式サイトで新型ロードスターの予約受付開始",
+          "summary_ja": "テスラが中国向けに高性能モデルの先行予約を開始した。予約金の提示とともに注文受付がスタートし、車ファンの話題となっている。",
+          "source": "观点网",
+          "url": "https://www.guandian.cn/article/20261016/614206.html"
+        }
+      ]
+    },
+    {
+      "keyword": "针影裁梦",
+      "reason_ja": "病気の妻のために個人開発された洋服仕立てシミュレーションゲームがSteamで世界的人気となったため。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "缝纫机",
+        "Steam游戏",
+        "布料 手工"
+      ],
+      "product_keywords_ja": [
+        "ミシン",
+        "ソーイングセット",
+        "手芸 生地"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "洋服仕立てシミュレーションゲームが圧倒的高評価",
+          "summary_ja": "衣服を一針ずつ手作業で仕立てるリアルな体験がプレイヤーの共感を呼んでいる。自由度の高い制作過程が高く評価され、大ヒットを記録している。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1088238592_100136645"
+        },
+        {
+          "title_ja": "妻のために開発された手芸ゲームが世界中で話題に",
+          "summary_ja": "病気で針仕事ができなくなった家族のために作られた作品が世界的な反響を呼んでいる。ゲームを通じてミシン縫いや裁縫を楽しむ人が急増している。",
+          "source": "17173",
+          "url": "http://news.17173.com/content/10152026/120909064.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "中国肯德基回应换可口可乐",
+      "reason_ja": "米KFCがコカ・コーラへの変更を発表したことを受け、中国KFCのドリンク提供方針に関心が集まったため。",
+      "genre": "food",
+      "commercial_score": 82,
+      "product_keywords": [
+        "可口可乐",
+        "百事可乐",
+        "肯德基 优惠券"
+      ],
+      "product_keywords_ja": [
+        "コカコーラ",
+        "ペプシコーラ",
+        "ケンタッキー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "米ケンタッキーが飲料をペプシから変更へ",
+          "summary_ja": "アメリカのファストフード店舗において、数十年にわたる提携先を変更する動きが報じられた。長年親しまれてきた清涼飲料のラインナップが見直される。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/2026-10-16/detail-inivkwtm7737313.d.html?vt=4&pos=108&his=0"
+        },
+        {
+          "title_ja": "長年の提携見直しと新たな飲料メニュー展開へ",
+          "summary_ja": "ブランド刷新の重要なステップとして新たなパートナーシップが結ばれた。刷新されたドリンクシリーズの導入により顧客体験の向上が目指される。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1088555862_121345914"
+        }
+      ]
+    },
+    {
+      "keyword": "酱油瓶穿裙子",
+      "reason_ja": "六月鮮が伝統衣装「馬面スカート」を模した醤油ボトルデザインを発表し議論を呼んだため。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "六月鲜 酱油",
+        "生抽",
+        "调味品"
+      ],
+      "product_keywords_ja": [
+        "中国醤油",
+        "調味料",
+        "中華調味料"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "伝統衣装をモチーフにした醤油ボトルが議論に",
+          "summary_ja": "老舗調味料ブランドが伝統衣装のスカートを取り入れた容器デザインを打ち出した。文化的な融合を目指した試みとしてネット上で活発な議論が起きている。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1088551981_120995964"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-16 — GB EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0614;
+    --line: #341a50;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #c8a0ff;
+    --signal: #d8b0ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TRENDING NOW &#9656; GB EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-16 &middot; 16:04 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">Bose QuietComfort</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">95<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ボーズの定番ノイズキャンセリングヘッドホンが最新セールで大幅値引きされ注目を集めているため。 洗練されたデザイン変更と卓越した遮音性能、豊かな低音が高く評価されている。派手さはないものの使い勝手に優れた定番モデルとして支持されている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://uk.pcmag.com/headphones/167943/bose-quietcomfort-headphones-2nd-gen-review-not-flashy-just-excellent" target="_blank" rel="noopener noreferrer">
+                PCMag UK <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ガジェット</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://mashable.com/tech/oct-8-bose-quietcomfort-headphones-deal" target="_blank" rel="noopener noreferrer">人気ヘッドホンがセール終了後も最安値を維持 — Mashable</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">sonay kartal</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">英国のソネイ・カルタル選手が武漢オープンで上位シード選手を破り準々決勝に進出したため。 イギリスのソネイ・カルタル選手が上位選手をストレートで破る金星を挙げた。見事なプレーで準々決勝への進出を決めている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.bbc.co.uk/sport/tennis/articles/c85ynx5vwq35o" target="_blank" rel="noopener noreferrer">
+                BBC <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.wtatennis.com/videos/4592785/kartal-routs-paolini-in-63-minutes-in-wuhan-into-second-wta-1000-qf" target="_blank" rel="noopener noreferrer">負傷から復帰したカルタルが快勝でベスト8に進出 — WTA Tennis</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">lion green road</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ロンドン・クロイドンの住宅プロジェクトが英国の権威あるスターリング賞を受賞したため。 周辺環境と調和した優れた設計が高く評価され、建築賞に輝いた。地域の景観に配慮した住居計画として注目を浴びている。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po" target="_blank" rel="noopener noreferrer">
+                BBC <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">収納・インテリア・文具</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.theguardian.com/artanddesign/2026/oct/15/council-housing-miracle-lion-green-road-croydon-riba-stirling-prize-best-new-building" target="_blank" rel="noopener noreferrer">自然の丘陵に調和する公営住宅が年間最優秀建築に — The Guardian</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">mikey moore</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">トッテナムの若手マイキー・ムーアがドイツ移籍を決めた背景を語り注目されたため。 ブンデスリーガで成功を収めた先輩選手たちの活躍に刺激を受け、移籍を決断したと語った。ドイツのクラブでさらなる成長を目指す。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.bbc.com/sport/football/articles/c65yneln8wp0o" target="_blank" rel="noopener noreferrer">
+                BBC <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">james mcavoy</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">65<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">俳優のジェームズ・マカヴォイが過去に出演した映画の印税収入について語り話題を集めたため。 人気俳優のジェームズ・マカヴォイが、自身の出演作による継続的な報酬について率直に語った。驚くほどの印税を生み出し続けている作品が明かされた。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.hollywoodreporter.com/movies/movie-news/james-mcavoy-film-split-paid-bonkers-residuals-1236733475/" target="_blank" rel="noopener noreferrer">
+                The Hollywood Reporter <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://ew.com/james-mcavoy-says-split-only-movie-consistently-pays-him-12175030" target="_blank" rel="noopener noreferrer">映画『スプリット』が安定した印税を生むと明かす — Entertainment Weekly</a></li></ul>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Gemini · gemini-3.8-flash-high</footer>
+  </div>
+</body>
+</html>

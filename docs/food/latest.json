@@ -1,235 +1,251 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T15:47:12+09:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:47:44+09:00",
   "stories": [
     {
-      "title_ja": "米ホールフーズ、日本の家庭料理など2027年の食トレンドを発表",
-      "summary_ja": "米高級スーパーのホールフーズ・マーケットが、2027年に向けた飲食業界の注目トレンドを発表した。日本の家庭料理や豆類、ビター風味やテロワールなど多彩な潮流が挙げられている。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/whole-foods-market-2027-food-beverage-trends-be9ddeecb3",
+      "title_ja": "米ケンタッキーがコカ・コーラと提携し2027年にドリンク刷新へ",
+      "summary_ja": "ケンタッキーフライドチキン（KFC）はコカ・コーラと提携し、2027年1月からドリンクメニューを大幅に変更する。店舗デザインやフードメニューの刷新に続き、ドリンク類もリニューアルされる。",
+      "source": "AOL.com",
+      "url": "https://www.aol.com/articles/kfc-partners-coca-cola-major-212510000.html",
       "score": 85,
-      "commercial_score": 80,
+      "commercial_score": 65,
       "product_keywords": [
-        "ホールフーズ",
-        "輸入食品"
+        "KFC",
+        "コカコーラ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "イオン、カカオを使わない菓子「チョコか？」に新作3品を追加",
-      "summary_ja": "イオンは、カカオを使わないチョコレートのような味わいの菓子「チョコか？」シリーズから新作3品を発売する。これにより同シリーズは計10品目となり、11月3日より順次店舗で展開される。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/8bd50e420f3e3d58b5fb51d9d86c94400278344b",
-      "score": 82,
-      "commercial_score": 88,
+      "title_ja": "英ウェイトローズが自社農場の作物を使った初のジンとウォッカを発売",
+      "summary_ja": "英スーパー大手のウェイトローズは、自社の直営農場で栽培された作物を使用した「レックフォード」ブランドのジンとウォッカを発売した。英国のスーパーマーケットが自社農場の原料でスピリッツを製造するのは初の試みとなる。",
+      "source": "Retail Times",
+      "url": "https://retailtimes.co.uk/waitrose-launches-first-gin-and-vodka-made-from-a-uk-supermarkets-own-crops/",
+      "score": 85,
+      "commercial_score": 85,
       "product_keywords": [
-        "イオン",
-        "チョコレート代替"
+        "クラフトジン",
+        "ウォッカ",
+        "イギリス スピリッツ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国で食品安全法が改正へ、ネット販売やデリバリーの規制を強化",
-      "summary_ja": "中国で食品安全法の大規模な改正が進められ、外食デリバリーやライブ配信での食品販売に関する審査基準が引き上げられる。従来の形式的な確認からAIを活用した実質的な監視へと移行し、ネット流通の安全性を高める狙いがある。",
-      "source": "www.expressboo.com",
-      "url": "http://www.expressboo.com/detail_24462_2.html",
-      "score": 80,
-      "commercial_score": 60,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "松屋、新作「ごろチキチリソース」を10月20日より発売",
-      "summary_ja": "牛丼チェーンの松屋は、豆板醤を効かせたピリ辛ソースとふんわり玉子を合わせた新商品「ごろチキチリソース」を発売する。10月20日10時より、定食や単品など全3商品で展開される。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d9948453c0db6287f60cf6a6bb794186f38a1feb",
-      "score": 78,
-      "commercial_score": 80,
-      "product_keywords": [
-        "松屋"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米チックフィレイ、10年ぶりとなる新作ディップソースを発売へ",
-      "summary_ja": "米ファストフードチェーンのチックフィレイは、約10年ぶりとなる新しいディッピングソース「スパイシー・チックフィレイ・ソース」を発売する。店舗に登場する新商品として注目を集めている。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/chick-fil-a-new-spicy-chick-fil-a-sauce-12173420",
-      "score": 78,
+      "title_ja": "英テスコが食品ロス削減を支援する会員アプリの新機能を英国で導入",
+      "summary_ja": "英国最大のスーパーであるテスコは、会員プログラム「クラブカード」の大幅なアップデートを実施した。利用客が食品ロスを減らせるよう支援する新機能が追加され、国内の買い物客に向けて順次提供されている。",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/whats-on/food-drink-news/tesco-clubcard-gets-major-update-34768736",
+      "score": 85,
       "commercial_score": 75,
       "product_keywords": [
+        "テスコ",
+        "エコバッグ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "イオンが不二家のペコちゃん・ポコちゃんをモチーフにしたパフ菓子を限定販売",
+      "summary_ja": "イオンリテールは、カスタード味の「ペコパフ」とチョコ味の「ポコパフ」を約390店舗のイオン・イオンスタイルで発売した。ふわふわとした食感のパフスイーツで、本体価格128円で10月16日から18日まで販売される。",
+      "source": "Dtimes",
+      "url": "https://dtimes.jp/post-1416487/",
+      "score": 80,
+      "commercial_score": 95,
+      "product_keywords": [
+        "ペコちゃん",
+        "不二家",
+        "スイーツ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米タコベルがディッピングブリトーなど新作メニュー7種を発売",
+      "summary_ja": "ファストフード大手のタコベルが、ソースに浸して食べるダブルディッピングブリトーなど7種類の新メニューを発売した。以前からテスト販売されていたクランチディーヤなども正式にラインアップに加わっている。",
+      "source": "Allrecipes",
+      "url": "https://www.allrecipes.com/taco-bell-double-dipping-burritos-12175002",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "タコベル",
+        "ブリトー",
+        "タコス"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "米ファストフードのチックフィレイが10年ぶりとなる新ソースを発売",
+      "summary_ja": "米チキンチェーン大手のチックフィレイが、10年ぶりとなる新しいソース「スパイシー・チックフィレイ・ソース」を発売した。同商品の追加により、定番メニューの選択肢が広がることになる。",
+      "source": "NewsNation",
+      "url": "https://www.newsnationnow.com/entertainment-news/food/chick-fil-a-new-spicy-sauce/",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "チックフィレイ",
         "ディップソース"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "飲食やホテル産業の大規模見本市「HOTELEX深圳展」が開幕",
-      "summary_ja": "深圳国際ホテル・飲食業博覧会（HOTELEX深圳展）が10月13日に開幕し、多くの来場者で賑わいを見せた。外貿開拓やスマート調達、小売の拡大などを掲げ、最新の飲食トレンドや製品が発信されている。",
-      "source": "中华网",
-      "url": "https://hb.china.com/gongsi/20003196/20261014/26019212.html",
-      "score": 78,
-      "commercial_score": 70,
+      "title_ja": "英スーパーのウェイトローズがチャールズ国王提携の有機食品を刷新",
+      "summary_ja": "イギリスの高級スーパーであるウェイトローズが、チャールズ国王が後援する高級有機食品シリーズ「ダッチー・オーガニック」をリニューアル展開している。王室ゆかりのオーガニック商品をスーパーで手軽に購入できる取り組みとして注目されている。",
+      "source": "Oxford Mail",
+      "url": "https://www.oxfordmail.co.uk/news/26640663.king-charles-relaunches-organic-food-range-uk-supermarket/",
+      "score": 80,
+      "commercial_score": 80,
       "product_keywords": [
-        "業務用食器",
-        "厨房機器"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ブラックサンダー、レーズンバターサンド味のひとくちサイズ新発売",
-      "summary_ja": "有楽製菓は、新シリーズ「ショコラなごほうび」の第1弾としてレーズンバターサンド味のひとくちサイズを発売した。アルコールを使用せずに濃厚な味わいを表現しており、全国のコンビニエンスストアで販売されている。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_706979/",
-      "score": 76,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ブラックサンダー",
-        "有楽製菓"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英パブレストランチェーン、110店舗以上が新体制で再開へ",
-      "summary_ja": "先月営業を終了していた英外食チェーンのビーフィーターやブルワーズ・フェアーなど、110以上の店舗が再オープンすることになった。新たな所有者のもとで営業が再開される。",
-      "source": "Lincolnshire Live",
-      "url": "https://www.lincolnshirelive.co.uk/whats-on/food-drink/brewers-fayre-beefeater-restaurants-reopening-11194490",
-      "score": 76,
-      "commercial_score": 65,
-      "product_keywords": [
-        "パブ"
+        "オーガニック食品",
+        "英国紅茶",
+        "ウェイトローズ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "伊藤園、1プッシュで1杯分が出る粉末茶ボトルを発売",
-      "summary_ja": "伊藤園は、1プッシュで1杯分の粉末茶を取り出せる新容器を採用した緑茶とむぎ茶を発売した。マイボトル需要を狙い、インスタント茶の利用拡大を図る。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_707016/",
+      "title_ja": "不二家のホームパイチョコだらけと島根の出雲ぜんざいがコラボ菓子を発売",
+      "summary_ja": "老舗菓子メーカーの人気商品「ホームパイ チョコだらけ」と、島根県出雲市のご当地グルメ「出雲ぜんざい」がコラボレーションした。あんを練り込んだパイとクッキー生地を重ね、ぜんざいの紅白餅を思わせる色合いを再現している。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/amp/article/nkt_2026101506573929/",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "伊藤園",
-        "粉末茶",
-        "緑茶"
+        "ホームパイ",
+        "チョコだらけ",
+        "出雲ぜんざい"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "エルニーニョ現象により英食料品価格が上昇する可能性を試算",
-      "summary_ja": "スーパーエルニーニョ現象の影響で主要な食料生産地が不作に見舞われた場合、2027年に英国の食料品価格が上昇する懸念が指摘された。ただし現時点では影響の具体的な規模については不透明さが残されている。",
-      "source": "International Business Times UK",
-      "url": "https://www.ibtimes.co.uk/el-nino-uk-grocery-prices-2027-1825618",
+      "title_ja": "福島県湯川村がふるさと納税の返礼品として新米コシヒカリの発送を開始",
+      "summary_ja": "米どころの福島県湯川村で、農家支援を目的としたふるさと納税の返礼品である新米コシヒカリの発送が始まった。甘みが際立つ仕上がりとなっており、村では10キロの新米返礼品を用意して寄付を受け付けている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d999af3fd475814b551a61d1ee45b0812bf2e10b",
       "score": 75,
-      "commercial_score": 60,
+      "commercial_score": 90,
       "product_keywords": [
-        "食料品"
+        "ふるさと納税 米",
+        "コシヒカリ 新米",
+        "福島県産米"
       ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英外食大手4社が10月の学校休暇に合わせて子ども無料プランを実施",
+      "summary_ja": "イギリスの人気レストランチェーン4社が、10月の秋季休暇（ハーフターム）期間中に子ども向け食事を無料で提供するキャンペーンを開始した。家族連れの外食費を抑えるお得なプランとして展開されている。",
+      "source": "Verge Magazine",
+      "url": "https://vergemagazine.co.uk/kids-eat-free-this-october-half-term-2026-bella-italia-frankie-bennys-banana-tree-and-las-iguanas-launch-family-dining-deals/",
+      "score": 75,
+      "commercial_score": 65,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国の製麺大手、伝統手延べ麺を提供する外食チェーン2号店を開業",
-      "summary_ja": "中国の製麺大手である克明食品は、湖南省長沙市に「陳克明面館」の2号店をオープンした。非物質文化遺産の手延べ麺技法を活かし、作りたての具材と現代的な店舗空間を融合させた飲食体験を展開する。",
+      "title_ja": "中華老舗の広州酒家が伝統点心と現代の冷凍惣菜を融合し事業展開",
+      "summary_ja": "1935年創業の老舗外食ブランド「広州酒家」が、伝統的な茶楼から食品製造や販売を含む複合企業への展開を進めている。伝統的な点心作りの歴史を活かしつつ、最新の生産ラインによる調理済み食品の全国展開などを強化している。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202610143895495365.html",
+      "url": "https://finance.eastmoney.com/a/202610163897363771.html",
       "score": 75,
       "commercial_score": 80,
       "product_keywords": [
-        "中華麺",
-        "手延べ麺"
+        "点心",
+        "中華惣菜",
+        "広州酒家"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "フレッシュネス、ブランド海老3尾入りの限定バーガー2種を発売",
-      "summary_ja": "フレッシュネスバーガーは、ブランド海老である神の海老を3尾贅沢に使った新作バーガー2種を期間限定で発売する。ラインアップには、ゆず白味噌と明太クリームチーズの2種類の味付けが揃う。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_707038/",
-      "score": 74,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ハンバーガー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英スーパー、ハインツを上回る高評価の格安トマトスープが話題に",
-      "summary_ja": "スープの需要が高まる季節に向けて、英スーパーで59ペンスのトマトスープが販売されている。定番ブランドのハインツよりも美味しいと公式に評価され、手頃な価格と品質で人気を呼んでいる。",
-      "source": "Daily Express",
-      "url": "https://www.express.co.uk/life-style/food/2257123/best-supermarket-tomato-soup-better-Heinz",
-      "score": 74,
-      "commercial_score": 80,
-      "product_keywords": [
-        "トマトスープ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "米ヌードルズ＆カンパニー、汁なしラーメン3種を定番メニュー化",
-      "summary_ja": "米外食チェーンのヌードルズ＆カンパニーは、ラーメンを定番メニューに追加し、スープのない3種類のボウルメニューを発売した。チリガーリックラーメンが多くの新規客を呼び込んだことを受けてレギュラー化された。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/noodles-company-permanent-ramen-brothless-bowls-302901826",
-      "score": 72,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ラーメン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英スーパーのアズダ、大容量缶コーラを限定値下げで販売",
-      "summary_ja": "英大手スーパーのアズダで、人気を集める缶コーラのまとめ買いセットが販売されている。330ミリリットル缶30本入りのボックスが、通常価格の14.24ポンドから10ポンドに値下げされている。",
-      "source": "Telegraph and Argus",
-      "url": "https://www.thetelegraphandargus.co.uk/news/national/uk-today/26636641.asda-brings-back-popular-coke-cans-fans-call-literal-heaven/",
-      "score": 72,
+      "title_ja": "三養食品が南京の全国糖酒会で新キャラクターと新商品を多数公開",
+      "summary_ja": "食品メーカーの三養食品（Samyang Foods）は、南京で開催された第115回全国糖酒商品交易会にて、新しい独自キャラクター「PEPPO」と複数の新商品を披露した。特色あるブースを展開し、来場者に向けて最新の食品ラインアップをアピールしている。",
+      "source": "中华网",
+      "url": "https://hea.china.com/articles/20261016/202610161966037.html",
+      "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "コカコーラ",
-        "缶コーラ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "サラダチェーンの米スウィートグリーン、低価格ラップなどで顧客開拓",
-      "summary_ja": "サラダチェーンのスウィートグリーンは、高価格イメージを払拭するため手頃な価格のラップサンドや透明性のある価格設定を導入した。料理のボリュームを増やし、カスタマイズ時にも明確な価格表示を行うことで集客強化を図る。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-13/detail-inivawnf8727928.d.html?oid=WA%200812%202782%205310%20Jasa%20Bikin%20Plafon%20Mewah%20Murah%20Gondangrejo%20Karanganyar&vt=4",
-      "score": 72,
-      "commercial_score": 75,
-      "product_keywords": [
-        "サラダボウル",
-        "ラップサンド"
+        "三養食品",
+        "ブルダック",
+        "韓国ラーメン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "米レッドロビン、プライムリブを重ねた新作バーガーなどを投入",
-      "summary_ja": "米レストランチェーンのレッドロビンは、期間限定のプライムリブ・スタックバーガーなど複数の新メニューを発表した。10月19日より過去の人気バーガーの復活やおかわり自由のドリンクも提供される。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/red-robin-prime-rib-stack-burger-new-menu-items-302907831",
+      "title_ja": "信濃屋が毎月7のつく日にトート持参で5％割引キャンペーンを実施",
+      "summary_ja": "食品スーパーの信濃屋は、オリジナルトートバッグを持参すると買い物が5％引きになるキャンペーンを開始した。毎月7のつく日に実施され、新発売の保冷バッグも対象となる。店舗だけでなくオンラインストアなどを展開する同店でお得に買い物ができる。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/bgmania/trend/bgmania-703506",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "信濃屋",
+        "保冷バッグ",
+        "トートバッグ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ステーキのあさくまが学生ハンバーグフェアを開催し新作3品を投入",
+      "summary_ja": "ステーキのあさくまは、2026年10月15日より「学生ハンバーグフェア」を期間限定で開始した。人気メニューの学生ハンバーグに、香味野菜おろし、ハンバーガー風、マルゲリータ風の3種類の新しい味わいがラインアップされている。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_707135/",
       "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "ハンバーガー"
+        "あさくま",
+        "ハンバーグ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ホールフーズがアリゾナ州スコッツデールに新店舗を11月開設へ",
+      "summary_ja": "高級スーパーのホールフーズ・マーケットは、2026年11月12日にアリゾナ州スコッツデールで新店舗を開業する。約3万8000平方フィートの広さを持ち、同州で11店舗目の出店となる。",
+      "source": "WebWire",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362916",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ホールフーズ",
+        "オーガニック食品"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英大手スーパーのアズダが大容量のコカ・コーラ缶セットを割引販売",
+      "summary_ja": "イギリスの大手スーパーであるアズダ（Asda）が、330ml缶が30本入った人気のコカ・コーラ詰め合わせを通常価格から割り引いて販売している。10ポンドという手頃な価格設定により、買い物客から高い支持を集めている。",
+      "source": "Bracknell News",
+      "url": "https://www.bracknellnews.co.uk/news/26638979.asda-brings-back-popular-coke-cans-fans-call-literal-heaven/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "コカコーラ 缶",
+        "炭酸飲料 まとめて"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "豆乳ドリンク「ソイプードル」が秋冬向けに全8種のホット対応メニューを展開",
+      "summary_ja": "かわいらしい見た目の豆乳ドリンク「ソイプードル」に、秋冬向けの新メニューが登場した。全8種類のフレーバーが揃い、温かいホットドリンクとしても楽しむことができる。",
+      "source": "www.tv-tokyo.co.jp",
+      "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/278685.html",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "豆乳ドリンク",
+        "ソイミルク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

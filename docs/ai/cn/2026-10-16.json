@@ -1,0 +1,58 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:34:23+09:00",
+  "stories": [
+    {
+      "title_ja": "中国ディープシーク、メモリ負荷を4分の1に減らした新モデル公開",
+      "summary_ja": "中国のAI企業ディープシーク（DeepSeek）が、新型モデル「V4.1-Flash」を発表した。メモリのキャッシュ消費を前世代の4分の1に抑えつつ処理速度を向上させ、百万トークンの長文処理にも対応する。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1016/3202423.shtml",
+      "score": 85,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "中国躍然創新、AI大モデルを融合した対話型スマート玩具を発売",
+      "summary_ja": "AI玩具メーカーの躍然創新（Haivivi）が、新シリーズ「光之召喚」の販売を開始した。生成AIと大規模モデルを深く融合させ、子ども向けの対話体験や遊びの機能を強化している。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-15/detail-iniviekn1403660.d.html?vt=4&wm=1029?q",
+      "score": 75,
+      "commercial_score": 95,
+      "product_keywords": [
+        "スマートトイ",
+        "知育玩具"
+      ]
+    },
+    {
+      "title_ja": "AIが回答でブランドを推薦、検索に代わる新マーケティングが浮上",
+      "summary_ja": "生成AIが利用者に代わって商品ブランドを提案する場面が増え、AIの回答枠を狙う最適化手法が注目されている。検索キーワード重視から情報の信頼性や事実関係の一致へ焦点が移り、AI上で直接商品が認知される仕組みが広がっている。",
+      "source": "凤凰网",
+      "url": "https://baby.ifeng.com/c/8xGaoxgcVLp",
+      "score": 75,
+      "commercial_score": 80
+    },
+    {
+      "title_ja": "中国江波龍、AIパソコン向けに高帯域の新規格メモリ製品を投入",
+      "summary_ja": "中国の半導体メモリメーカー江波龍（Longsys）が、端末側でAIを動かすための新メモリ製品を発表した。AIパソコンなどの機器で大規模モデルを快適にローカル実行できるよう、高い通信帯域を確保している。",
+      "source": "www.icloudnews.net",
+      "url": "https://www.icloudnews.net/a/123809.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "AI PC",
+        "メモリ"
+      ]
+    },
+    {
+      "title_ja": "小智AIが香港の電子見本市に登場、AI能力のハード機器搭載を提案",
+      "summary_ja": "香港の秋季エレクトロニクス展示会に小智AIが出展した。新たなAIモデルを一から作るのではなく、既存のAI技術を身近な各種ハードウェア機器へ組み込んで届ける取り組みを訴求している。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xGjQ2Mc37Y",
+      "score": 70,
+      "commercial_score": 80
+    }
+  ]
+}

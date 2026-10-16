@@ -1,350 +1,245 @@
 {
   "genre": "beauty",
   "genre_label_ja": "美容・コスメ",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T15:42:59+09:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:44:15+09:00",
   "stories": [
     {
-      "title_ja": "シャネルが冬の限定メイクコレクション発売",
-      "summary_ja": "シャネルがホリデー限定コレクションを発表した。雪景色を思わせるアイシャドウやポーチ付きのリップセットなどを揃え、直営店先行を経て全国で数量限定発売される。",
+      "title_ja": "シャネル、雪景色着想のアイシャドウや限定リップのホリデー品を発売",
+      "summary_ja": "シャネルから2026年クリスマスコスメ「ホリデー メークアップ コレクション 2026」が登場する。雪景色を思わせるアイシャドウやリップ3本セット、ポーチなどが展開される。10月16日より先行発売され、10月30日より全国で数量限定発売される。",
       "source": "ファッションプレス",
       "url": "https://www.fashion-press.net/news/150425",
-      "score": 85,
+      "score": 92,
       "commercial_score": 95,
       "product_keywords": [
-        "シャネル",
-        "クリスマスコフレ",
-        "アイシャドウ"
+        "シャネル クリスマスコフレ",
+        "シャネル アイシャドウ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "アリババ傘下の天猫がダブル11セールを10月20日開始",
-      "summary_ja": "中国EC大手アリババ傘下の天猫（Tmall）が、年間最大のセール「ダブル11」を10月20日より開始する。過去最多の対象商品が揃い、ブランド割引やクーポンを組み合わせた大幅値下げが行われる。",
-      "source": "电商派",
-      "url": "https://www.pai.com.cn/p/01m4yqnjbkhekz9dwwwa5ypk0y",
-      "score": 85,
-      "commercial_score": 80,
-      "product_keywords": [
-        "天猫",
-        "Tmall",
-        "ダブル11"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ジョーマローンがホリデー限定コフレを展開",
-      "summary_ja": "ジョー マローン ロンドンから季節限定のホリデーコレクションが登場した。限定セットの内容や予約開始日、発売日などの情報が公開されている。",
-      "source": "VOCE",
-      "url": "https://i-voce.jp/feed/5201614/",
-      "score": 80,
-      "commercial_score": 95,
-      "product_keywords": [
-        "ジョーマローン",
-        "クリスマスコフレ",
-        "香水"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "キールズがホリデー向けアドベントカレンダー発売",
-      "summary_ja": "スキンケアブランドのキールズ（Kiehl's）からアドベントカレンダーが登場した。定番のスキンケア製品が多数詰め合わされたホリデー向けアイテムとなっている。",
-      "source": "London Evening Standard",
-      "url": "https://www.standard.co.uk/shopping/esbest/christmas/advent-calendars/kiehls-beauty-advent-calendar-skincare-review-b1300513.html",
-      "score": 80,
-      "commercial_score": 95,
-      "product_keywords": [
-        "キールズ",
-        "Kiehls",
-        "アドベントカレンダー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "アマゾンがホリデー向け美容セールを開催へ",
-      "summary_ja": "アマゾンが人気コスメや美容家電を対象としたホリデーセールを開催する。ダイソンや各種人気ブランドの商品が最大30％引きとなり、限定セットなども用意される。",
-      "source": "About Amazon",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-holiday-beauty-event-2026",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Amazon",
-        "コスメ",
-        "ホリデーギフト"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ロクシタンが長寿科学に着想を得た新エイジングケア発表",
-      "summary_ja": "ロクシタン（L'Occitane）が25年に及ぶ研究成果を生かした新たなエイジングケア手法を発表した。イモーテルシリーズの新作を含む4段階のお手入れ方法を提案している。",
-      "source": "Cosmetics Business",
-      "url": "https://cosmeticsbusiness.com/loccitane-enters-longevity-new-approach-ageing",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ロクシタン",
-        "イモーテル",
-        "エイジングケア"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国コスメ各社が日本や韓国への海外展開を加速",
-      "summary_ja": "中国国内の競争激化を受け、中国コスメブランドが海外進出を本格化させている。フラワーノーズ（花知暁）やジュディードール（橘朵）などが日本や韓国の市場開拓を進めている。",
-      "source": "新华网",
-      "url": "https://www.news.cn/fashion/20261015/2cfe461f13fb49d8b5465d1a71cf7ec7/c.html",
-      "score": 80,
-      "commercial_score": 80,
-      "product_keywords": [
-        "中国コスメ",
-        "Flower Knows",
-        "Judydoll"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "セザンヌからホリデー限定アイパレット登場",
-      "summary_ja": "セザンヌのフェイスアイパレットに、ホリデー限定色となるクリスタルドリームが加わった。公式オンラインストアにて販売が開始されている。",
-      "source": "MAQUIA",
-      "url": "https://maquia.hpplus.jp/blog/dome_maquia/123176/",
-      "score": 75,
-      "commercial_score": 95,
-      "product_keywords": [
-        "セザンヌ",
-        "フェイスアイパレット",
-        "アイシャドウ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ブルダック着想のリップバームが米ブランドから登場",
-      "summary_ja": "米コスメブランドのグロウ・レシピ（Glow Recipe）が即席麺のブルダックとコラボレーションした。定番のオリジナル味とカルボナーラ味に着想を得たリップバーム2種を展開する。",
-      "source": "WWD",
-      "url": "https://wwd.com/beauty-industry-news/beauty-features/glow-recipe-buldak-lip-balm-1239347007/",
-      "score": 75,
+      "title_ja": "中国天猫のW11予約開始、李佳琦の配信でSK-IIなど人気コスメが即売",
+      "summary_ja": "天猫（Tmall）の「ダブルイレブン（双11）」予約販売が10月15日に始まった。人気ライバー李佳琦のライブ配信では開始1時間で視聴者が1000万人を超えた。SK-IIやクラランス、プロヤなどのコスメ商品が開始1時間で10万件以上の売上を記録した。",
+      "source": "中华网财经",
+      "url": "https://finance.china.com/TMT/13004688/20261016/49798152.html",
+      "score": 92,
       "commercial_score": 85,
       "product_keywords": [
-        "Glow Recipe",
-        "リップバーム",
-        "ブルダック"
+        "SK-II",
+        "クラランス"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "プラダ ビューティ、ブランド初のブラウンを基調にしたホリデー限定品登場",
+      "summary_ja": "プラダ ビューティから、プラダ ブラウンを取り入れたホリデーコレクションが登場する。特別なコフレやトータルメイクのアイテムが展開される。10月30日に先行発売され、11月6日に全国発売となる。",
+      "source": "CanCam.jp",
+      "url": "https://cancam.jp/archives/1764364",
+      "score": 90,
+      "commercial_score": 95,
+      "product_keywords": [
+        "プラダ ビューティ",
+        "プラダ クリスマスコフレ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "無印良品、美容液成分を配合した「セラムインベースメイク」シリーズ発売",
+      "summary_ja": "無印良品から自然なツヤ肌を演出する「セラムインベースメイク」シリーズが登場した。豆乳発酵液やナイアシンアミドなどのうるおい成分を配合し、軽やかな使い心地を実現している。9月30日より順次発売されている。",
+      "source": "MAQUIA",
+      "url": "https://maquia.hpplus.jp/column/beautynewsflash/122964/",
+      "score": 88,
+      "commercial_score": 90,
+      "product_keywords": [
+        "無印良品 ベースメイク",
+        "無印良品 セラムイン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "グロウ・レシピ、韓国即席麺「プルダック」着想のリップバームを発売",
+      "summary_ja": "スキンケアブランドのグロウ・レシピ（Glow Recipe）が、即席麺のプルダック（Buldak）とコラボレーションした。オリジナル味とカルボナーラ味から着想を得た2種類のリップバームを展開する。",
+      "source": "WWD",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/glow-recipe-buldak-lip-balm-1239347007/",
+      "score": 88,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Glow Recipe リップバーム",
+        "プルダック コラボ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "フェンティビューティがお得な限定セットを発売",
-      "summary_ja": "英ドラッグストアのブーツで、フェンティ・ビューティ（Fenty Beauty）の限定ギフトセットが注目を集めている。通常価格よりも大幅にお得な内容で販売されている。",
-      "source": "Belfast Live",
-      "url": "https://www.belfastlive.co.uk/whats-on/shopping/boots-shoppers-rush-33-fenty-34761268.amp",
-      "score": 75,
-      "commercial_score": 95,
+      "title_ja": "ポール＆ジョー、25周年を記念した全20色の新作リップ発売へ",
+      "summary_ja": "ポール＆ジョー ボーテから、ブランド誕生25周年の幕開けを飾る新作リップ「ルージュ」が登場する。春コレクションとして全20色が展開される予定だ。2027年1月3日より発売される。",
+      "source": "MAQUIA",
+      "url": "https://maquia.hpplus.jp/catalog/newcolor_spring/123193/",
+      "score": 85,
+      "commercial_score": 90,
       "product_keywords": [
-        "Fenty Beauty",
-        "フェンティビューティ",
-        "ギフトセット"
+        "ポールアンドジョー リップ",
+        "ポールアンドジョー ルージュ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ディオール、スマホに取り付けられるホリデー限定リップバームが話題に",
+      "summary_ja": "ディオール（Dior）がホリデー向けに、スマートフォンに貼り付け可能な「メダイヨン リップバーム」を発売した。ヘイリー・ビーバーの手掛けるブランドのケースと比較されるなど注目を集めている。",
+      "source": "WWD",
+      "url": "https://wwd.com/shop/shop-beauty/dior-medallion-lip-balm-phone-sticker-where-to-buy-holiday-1239351412/",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ディオール リップバーム",
+        "Dior リップ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国コスメの老舗「百雀羚」、コールドクリーム製造が無形文化遺産に登録",
+      "summary_ja": "中国の老舗スキンケアブランド「百雀羚（Pechoin）」のコールドクリームが、無形文化遺産への登録を果たした。文化と科学の継承を象徴する取り組みとして位置づけられている。国産コスメにおける文化資産化の好例として注目を集めている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1088121467_121353633",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "百雀羚",
+        "中国コスメ スキンケア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ヘイリー・ビーバーのロード、初のエイジングケア美容液を1月発売へ",
+      "summary_ja": "ヘイリー・ビーバーが手掛けるコスメブランド「ロード（Rhode）」が、新たな美容液の発売を予告した。スマートエイジングに着目したスキンケア製品で、1月に展開される予定となっている。",
+      "source": "NewBeauty",
+      "url": "https://www.newbeauty.com/view/rhode-smart-aging-serum",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Rhode 美容液",
+        "ヘイリー ビーバー コスメ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ジョー マローン、香りを詰め合わせたクリスマス限定クラッカーを発売",
+      "summary_ja": "ジョー マローン ロンドン（Jo Malone London）から、クリスマス向けのビューティークラッカーが登場した。若々しい人気のフレグランスアイテムが詰め合わされている。ホリデーシーズンを長く楽しめる限定ギフトとなっている。",
+      "source": "Belfast Live",
+      "url": "https://www.belfastlive.co.uk/whats-on/shopping/jo-malone-40-christmas-beauty-34767808",
+      "score": 82,
+      "commercial_score": 88,
+      "product_keywords": [
+        "ジョーマローン クラッカー",
+        "ジョーマローン クリスマスコフレ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国コスメのプロヤがパリに研究拠点を新設",
-      "summary_ja": "中国化粧品大手のプロヤ（珀莱雅/PROYA）が、フランス・パリに欧州イノベーション拠点を正式開設した。中国本国の研究開発部門と連携し、グローバルな製品開発や研究の橋渡し役を担う。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261015/613477.html",
-      "score": 75,
-      "commercial_score": 65,
+      "title_ja": "イソップ、新シリーズからクラシカルなフゼア調の新作香水を発表",
+      "summary_ja": "イソップの新フレグランスシリーズ「ザ フラグラント フェーブルズ」から新作「アンフォーシーン エアー」が登場した。グリーンやウッディ、ハーバルを基調としたクラシカルなフゼア系に、ナツメグなどを加えた調香となっている。物語を感じさせる表情豊かな香りに仕上げられている。",
+      "source": "Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com/jp/beauty/nail-fragrance/a74126794/musthave-aesop-261015-hbr/",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "珀莱雅",
-        "PROYA",
+        "イソップ 香水",
+        "Aesop フレグランス"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "美顔器ブランドのZIIP、美容液や洗顔料など初のスキンケア9品を展開",
+      "summary_ja": "ビューティーテックブランドのZIIPが、独自の生体電流アプローチを取り入れたスキンケアラインを発表した。美顔器などの電気デバイスにとどまらず、美容液や保湿剤、洗顔料など全9製品を発売する。",
+      "source": "TheIndustry.beauty",
+      "url": "https://theindustry.beauty/ziip-expands-into-skincare-with-nine-product-launch/",
+      "score": 80,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ZIIP 美顔器",
+        "ZIIP スキンケア"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英ブーツ、人気下地が入ったボビイ ブラウンの限定ギフトセットが話題",
+      "summary_ja": "英国ドラッグストア大手のブーツ（Boots）で、ボビイ ブラウン（Bobbi Brown）のメイク・スキンケア限定セットが販売され注目を集めている。ファンから支持される人気の化粧下地が含まれている。愛用者からファンデーションによく合うと評価されている。",
+      "source": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/boots-shoppers-rush-buy-54-34762724.amp",
+      "score": 78,
+      "commercial_score": 88,
+      "product_keywords": [
+        "ボビイブラウン ギフトセット",
+        "ボビイブラウン 化粧下地"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国コスメブランドの麦吉麗、細胞レベルのエイジングケア研究を発表",
+      "summary_ja": "中国コスメブランドの麦吉麗（Mageline）が、エイジングケアに関する研究成果を発表した。細胞レベルでのアプローチを追求し、根源的なスキンケア技術を提示している。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1088213768_121353633",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "麦吉麗",
+        "Mageline"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "メディキューブの「ゼロ毛穴パッド」、効果を高める正しい使い方が解説",
+      "summary_ja": "韓国コスメの人気アイテム「メディキューブ（Medicube）ゼロ毛穴パッド」について、効果的な使用法が紹介された。専門家が使用頻度や避けるべき成分、効果を最大限に引き出す使い方を説明している。",
+      "source": "Glamour UK",
+      "url": "https://www.glamourmagazine.co.uk/article/how-to-use-medicube-zero-pore-pads",
+      "score": 76,
+      "commercial_score": 90,
+      "product_keywords": [
+        "メディキューブ ゼロ毛穴パッド",
+        "メディキューブ トナーパッド"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ロージーローザ、最高級ブラシシリーズから極細毛のカブキタイプを発売",
+      "summary_ja": "ロージーローザの最高級ブラシシリーズ「パウダーブラシEX」から、新作のカブキタイプが登場した。くびれ加工を施した極細毛を採用し、上質な肌あたりを追求している。オンラインストアやアットコスメストアなどで発売されている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/a194484af4867b79c852e7622719749b49822cb0?source=rss",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ロージーローザ パウダーブラシEX",
+        "ロージーローザ カブキブラシ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中国コスメ、国際的な科学研究基盤を高め新たな製品開発へ",
+      "summary_ja": "中国の国産コスメ（国貨美妆）各社が、国際的な化粧品研究開発の先端拠点で研究力を高めている。独自の研究開発を推進し、新たな展開を進めている。",
+      "source": "中国日报网",
+      "url": "https://cn.chinadaily.com.cn/a/202610/15/WS6ad093f0e4b09a165c78f7af.html",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
         "中国コスメ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "京東がダブル11向け化粧品セールを強化",
-      "summary_ja": "中国EC大手の京東（JD.com）が大型セール「ダブル11」に向けて美容カテゴリーの施策を展開している。直営モデルの強みを生かし、有名ブランドの割引や各種特典を用意する。",
-      "source": "电商派",
-      "url": "https://www.pai.com.cn/p/01m4wthqmctfxa22gxnx5w1rm1",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "京東",
-        "JD.com",
-        "ダブル11"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "香港でクレ・ド・ポーのアドベントカレンダー発売",
-      "summary_ja": "香港にてクレ・ド・ポー ボーテのクリスマス向けアドベントカレンダーが先行発売された。乾燥が進む秋のスキンケア需要に合わせた注目のホリデー限定品となっている。",
-      "source": "香港01",
-      "url": "https://global.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%90/60396581/10%E6%9C%88%E7%BE%8E%E5%A6%86%E5%BF%AB%E8%AE%AF-gd%E6%8E%A8%E5%85%A8%E6%96%B0%E7%BE%8E%E5%A6%86%E5%93%81%E7%89%8C-cpb%E5%9C%A3%E8%AF%9E%E5%80%92%E6%95%B0%E6%9C%88%E5%8E%86%E9%A6%99%E6%B8%AF%E7%8E%87%E5%85%88%E5%8F%91%E5%94%AE",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "クレ・ド・ポー ボーテ",
-        "CPB",
-        "アドベントカレンダー"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "青山フラワーマーケットがヒノキのハンドクリーム発売",
-      "summary_ja": "青山フラワーマーケットが冬コスメの新作としてヒノキの香りのハンドクリームを発表した。甘さを抑えた落ち着いた香りで、10月23日より発売される。",
-      "source": "ファッションプレス",
-      "url": "https://www.fashion-press.net/news/152033",
-      "score": 70,
-      "commercial_score": 90,
-      "product_keywords": [
-        "青山フラワーマーケット",
-        "ハンドクリーム",
-        "ヒノキ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "DHCが導入機能を備えたクレンジングを発売",
-      "summary_ja": "DHCからダブル洗顔不要のクレンジング製品が新たに発売された。ブースター機能を備えており、肌のうるおいを保ちながら素早くケアできる。",
-      "source": "anan",
-      "url": "https://ananweb.jp/categories/beauty/108767",
-      "score": 70,
-      "commercial_score": 90,
-      "product_keywords": [
-        "DHC",
-        "クレンジング",
-        "スキンケア"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "美容医療機器のクラシスが家庭用美顔器を米国展開",
-      "summary_ja": "医療美容機器メーカーのクラシス（Classys）が米国で家庭用美容機器ブランドを立ち上げた。消費者向け市場への進出を強化し、家庭で使える美顔ケア機器を展開する。",
-      "source": "스포츠조선",
-      "url": "https://www.sportschosun.com/en/culture/2026-10-15/202610150100096970006282",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Classys",
-        "美顔器",
-        "家庭用美顔器"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ギャップが初のグルマン調限定香水を発売",
-      "summary_ja": "ギャップ（Gap）の美容ラインがホリデー商戦に向けて新作フレグランスを発表した。甘い香りが特徴のグルマン調の限定香水を取り揃える。",
-      "source": "Glossy",
-      "url": "https://www.glossy.co/beauty/amid-an-executive-shakeup-gap-beauty-expands-with-its-first-gourmand-fragrance/",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Gap",
-        "香水",
-        "フレグランス"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英老舗薬局が京都発のスキンケアブランドを販売",
-      "summary_ja": "イギリスの老舗薬局ジョン・ベル＆クロイドンが、初めてとなる日本の美容ブランドを取り扱い始めた。京都で製造され、現地の原料を用いた3種類のスキンケア製品を展開する。",
-      "source": "Retail Times",
-      "url": "https://retailtimes.co.uk/john-bell-croyden-launches-its-first-japanese-beauty-brand/",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "スキンケア",
-        "京都 コスメ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "エリザベスアーデンの限定ギフトセットが人気",
-      "summary_ja": "エリザベスアーデン（Elizabeth Arden）のホリデー向けギフトセットが英ドラッグストアで販売されている。手頃な特別価格で手に入る限定セットとして注目されている。",
-      "source": "Liverpool Echo",
-      "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/boots-shoppers-bag-elizabeth-arden-34763533",
-      "score": 70,
-      "commercial_score": 95,
-      "product_keywords": [
-        "エリザベスアーデン",
-        "コフレ",
-        "スキンケア"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "DIDIONが秋の新作コスメを発売",
-      "summary_ja": "コスメブランドのDIDIONが秋のメイク向け新作アイテムを発売した。ゴールドのマスカラや限定復刻のリップなどがラインナップされている。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/cocotte/trend/cocotte-637618",
-      "score": 65,
-      "commercial_score": 90,
-      "product_keywords": [
-        "DIDION",
-        "マスカラ",
-        "リップ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ベアフエストが個別処方スキンケアを開始",
-      "summary_ja": "スキンケアブランドのベアフエスト（Barefaced）が新プラットフォームを立ち上げた。個人に合わせた医療向けスキンケアを提供するサービスを展開する。",
-      "source": "WWD",
-      "url": "https://wwd.com/beauty-industry-news/skin-care/barefaced-expands-medical-skin-care-rx-launch-1239346491/",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Barefaced",
-        "スキンケア"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ニップ・ファブが3段階の簡潔スキンケアを発売",
-      "summary_ja": "コスメブランドのニップ・ファブ（Nip + Fab）が新スキンケアシリーズを発表した。複雑な手入れを簡素化する3ステップのケアシステムを提案している。",
-      "source": "Stylist",
-      "url": "https://www.stylist.co.uk/beauty/nip-and-fab-the-fix/1119139",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Nip+Fab",
-        "スキンケア"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "米ブルーマーキュリーが自社コスメを刷新",
-      "summary_ja": "米高級化粧品セレクトショップのブルーマーキュリー（Bluemercury）が自社メイクブランドをリニューアルした。よりシンプルで使いやすいラグジュアリーコスメとして展開を刷新する。",
-      "source": "Personal Care Insights",
-      "url": "https://www.personalcareinsights.com/news/bluemercury-luneaster-refresh.html",
-      "score": 65,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Bluemercury",
-        "Lune+Aster",
-        "コスメ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
     }
   ]
 }

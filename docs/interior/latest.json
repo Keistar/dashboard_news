@@ -1,105 +1,117 @@
 {
   "genre": "interior",
   "genre_label_ja": "収納・インテリア・文具",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T16:03:59+09:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:59:36+09:00",
   "stories": [
     {
-      "title_ja": "アップルがスマートホーム3製品を発表、画面付きハブなどを投入",
-      "summary_ja": "アップルが家庭向けスマート機器の新製品3機種を一挙に発表した。新たなスマートホーム中枢となる「HomeView」や第2世代の「HomePod mini」などが含まれ、1099元からの価格設定となっている。",
-      "source": "手机新浪网",
-      "url": "https://t.cj.sina.cn/articles/view/1577794853/5e0b3d25001032lhs",
+      "title_ja": "山崎実業が調理から食事まで使えるスプーンなど新作5種を発売",
+      "summary_ja": "山崎実業は、キッチングッズや収納ボックスなど暮らしを便利にする新商品5種を発売した。計量や調理、食事に使えるシリコーン製の3Wayスープスプーンや、戸棚下のデッドスペースを活用する収納アイテムなどが揃う。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/cont/articles/4055759/",
+      "score": 85,
+      "commercial_score": 95,
+      "product_keywords": [
+        "山崎実業",
+        "タワー スプーン",
+        "戸棚下収納"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米家具ECのウェイフェア、大型セールを10月下旬に開催へ",
+      "summary_ja": "家具EC大手の米ウェイフェアは、年間最大級のセール「ウェイ・デイ」を10月24日から26日まで開催すると発表した。肌寒くなる季節や年末商戦を見据えた割引を行うほか、高級家具部門の新たな会員向け特典も導入する。",
+      "source": "HomePage News",
+      "url": "https://www.homepagenews.com/retail-articles/wayfair-launching-new-way-day-promotion-adds-perigold-luxury-loyalty-program/",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "輸入家具",
+        "インテリア"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "アップル、299ドルのスマートホーム画面端末で巻き返しを図る",
+      "summary_ja": "米アップルが299ドルの家庭用スマートディスプレイ「HomeView」を投入し、スマートホーム市場の攻略に乗り出している。スマートフォンなどの実績に比べ出遅れていた家庭向け分野で、新たな需要の獲得を目指す。",
+      "source": "新浪新闻",
+      "url": "https://news.sina.cn/2026-10-15/detail-iniviqxx7241346.d.html?vt=4&cid=56262&node_id=56262",
       "score": 85,
       "commercial_score": 80,
       "product_keywords": [
-        "スマートスピーカー",
-        "スマートホーム ハブ"
+        "スマートディスプレイ",
+        "スマートホーム"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "フライングタイガーが個性的なクリスマス飾り全55種を発売へ",
-      "summary_ja": "フライング タイガー コペンハーゲンからクリスマス向けのオーナメントが登場する。サンタ帽をかぶった犬やペンギン、ブロッコリーなど55種類のデザインが揃い、2026年10月16日より販売される。",
-      "source": "ファッションプレス",
-      "url": "https://www.fashion-press.net/news/152061",
+      "title_ja": "イケアがヒマラヤの野生動物をモチーフにした新コレクションを順次発売",
+      "summary_ja": "イケア・ジャパンは、ヒマラヤ山脈の自然や生息する動物をテーマにした「アルプタール コレクション」を10月15日より順次発売する。マヌルネコやレッサーパンダなどをデザインしたぬいぐるみをはじめとする多彩なアイテムが展開される。",
+      "source": "マイナビ子育て",
+      "url": "https://kosodate.mynavi.jp/articles/46344",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "イケア ぬいぐるみ",
+        "イケア 雑貨"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "スウィズ・ビーツが米インテリアブランドCB2と家具コレクションを発表",
+      "summary_ja": "音楽プロデューサーのスウィズ・ビーツが、米国のモダン家具ブランドCB2とタッグを組んだ家具コレクション「Casa Dean」を発表した。伝統的な要素と現代的なデザインを融合させ、家族の思い出から着想を得たラグジュアリーなインテリアを提案している。",
+      "source": "freeyork",
+      "url": "https://freeyork.org/furniture/casa-dean-furniture-collection-swizz-beatz-casa-de/",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "CB2",
+        "デザイナーズ家具",
+        "モダンインテリア"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "フライングタイガーが恐竜や野菜など全55種のクリスマス装飾を発売",
+      "summary_ja": "北欧デザイン雑貨のフライングタイガー コペンハーゲンが、多彩なデザインが揃うオーナメントシリーズを発売した。定番のサンタクロースに加え、恐竜やブロッコリーなどユニークなモチーフを含む全55種類が展開される。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19882307",
       "score": 78,
       "commercial_score": 90,
       "product_keywords": [
-        "クリスマスオーナメント",
         "フライングタイガー",
-        "クリスマスツリー 飾り"
+        "クリスマス オーナメント"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "COFOの新作デスクがフランスなど4つの国際デザイン賞を受賞",
-      "summary_ja": "リラクゼーションブランドのCOFOが手掛けたデスク「COFO Desk Studio」が、4つの国際デザイン賞に選ばれた。フランスのデザイン賞をはじめとする各賞で評価を獲得している。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19877841?news_ref=watch_60_nw19779708",
+      "title_ja": "KEYUCAがキッチンボードの上台シェルフを発売、ポイント10倍企画も",
+      "summary_ja": "KEYUCAの「フローラキッチンボード」に、食器やキッチン雑貨を美しく並べられるオープン仕様の上台シェルフが加わった。同ブランドの収納具と組み合わせることで使い勝手を高められる設計となっている。10月16日からは全品ポイント10倍となる感謝祭も開催される。",
+      "source": "MANTANWEB",
+      "url": "https://mantan-web.jp/prtimes/article/20261016prt00m200000368a.html",
       "score": 75,
-      "commercial_score": 85,
+      "commercial_score": 90,
       "product_keywords": [
-        "COFO デスク",
-        "パソコンデスク",
-        "電動昇降デスク"
+        "KEYUCA",
+        "キッチンボード",
+        "食器棚"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ルイスポールセンの限定照明が復刻、デンマークの作曲家が楽曲を制作",
-      "summary_ja": "ルイスポールセンの限定モデル「PH 1/1 ピアノ テーブルランプ」の復刻に合わせ、デンマークの作曲家が専用の楽曲を書き下ろした。伝統と現代性の融合を表現した照明デザインから着想を得ている。",
-      "source": "ELLE Decoration UK",
-      "url": "https://www.elledecoration.co.uk/design/a74120947/louis-poulsen-piano-table-lamp/",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ルイスポールセン",
-        "テーブルランプ",
-        "北欧照明"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "金牌家居が厨房収納白書を発表、手狭な空間を活かす整理法を提案",
-      "summary_ja": "中国の住宅設備ブランドである金牌家居が、収納整理の専門機関と共同でキッチン収納に関する白書を公表した。平均約5.8平方メートルとされる手狭な台所において、家電の増加や食材の保管に対応する工夫を提示している。",
-      "source": "京报网",
-      "url": "https://news.bjd.com.cn/2026/10/15/11995754.shtml",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "キッチン収納",
-        "調味料ラック",
-        "隙間収納"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "京急百貨店で文具の博覧会を開催、約7千点のアイテムが集結",
-      "summary_ja": "京急百貨店にて、62ブランドの文房具約7000点が並ぶ展示販売イベントが開催される。会期は2026年10月22日から27日までで、箱作り体験やオーダーメイド企画も用意される。",
-      "source": "横浜で暮らそう",
-      "url": "https://www.sumaitoseikatsu.yokohama/archives/68111",
-      "score": 72,
-      "commercial_score": 80,
-      "product_keywords": [
-        "文房具",
-        "ステーショナリー",
-        "レターセット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "フリッツ・ハンセンがNYに新ショールームを開設し米国展開を強化",
-      "summary_ja": "デンマークの家具ブランドであるフリッツ・ハンセンが、ニューヨークのノーマッド地区に新たなショールームを披露した。象徴的な名作家具や新作コラボレーション製品を展示し、北米での展開を強める。",
+      "title_ja": "デンマーク家具のフリッツ・ハンセンがNYに新ショールームを開設",
+      "summary_ja": "デンマークの家具ブランドであるフリッツ・ハンセンが、ニューヨークのノマド地区に新たなショールームをオープンした。代表的な名作家具や新作コラボレーションを展示し、米国市場での存在感を強化している。",
       "source": "WWD",
       "url": "https://wwd.com/home-design/furniture/fritz-hansen-nyc-showroom-us-market-expansio-1239346605/",
-      "score": 72,
-      "commercial_score": 75,
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
         "フリッツハンセン",
         "北欧家具",
@@ -109,102 +121,99 @@
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ジーマティックとリマデシオが青山に複合ショールームをオープンへ",
-      "summary_ja": "ドイツのキッチンブランドであるジーマティックと、イタリアのインテリアブランドのリマデシオを扱う新拠点が東京の青山に登場する。オープン予定日は2026年12月4日となっている。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19877710?news_ref=20_20",
-      "score": 70,
-      "commercial_score": 65,
+      "title_ja": "英サニペックス、デザイナーのトム・ディクソンとの製品提携を発表",
+      "summary_ja": "住宅・水回り製品を手がけるサニペックス・グループが、英国の著名デザイナーであるトム・ディクソンとの提携を発表した。独特な素材使いや造形技術を取り入れ、デザイン性の高い空間提案を進める。",
+      "source": "Sleeper Magazine",
+      "url": "https://www.sleepermagazine.com/stories/products/sanipex-group-announces-partnership-with-tom-dixon/",
+      "score": 75,
+      "commercial_score": 75,
       "product_keywords": [
-        "システムキッチン",
-        "輸入家具"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米塗料大手が2027年のトレンドカラーを発表、落ち着いた青などが登場",
-      "summary_ja": "2027年に向けたインテリアの年間トレンドカラーが発表された。塗料メーカーのヴァルスパーが落ち着きのあるブルーを選出したほか、シャーウィン・ウィリアムズも新たなカラーパレットを提案している。",
-      "source": "ELLE Decor",
-      "url": "https://www.elledecor.com/design-decorate/color/a73345334/every-color-of-the-year-2027/",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ペンキ",
-        "壁紙",
-        "インテリア 塗料"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ロンドンにインテリア専門の協業拠点が誕生、200超のブランドが集結",
-      "summary_ja": "フォーラが英ロンドンのウエストミンスターに、インテリア業界関係者向けの新たな拠点を設立した。200を超えるブランドが集まり、デザイナーや建築家が製品の調達や提案をまとめて行える場を提供する。",
-      "source": "TechFinancials",
-      "url": "https://techfinancials.co.za/2026/10/14/a-new-westminster-interior-design-residency-from-faura-brings-200-brands-together-for-the-trade/",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "インテリア照明",
-        "デザイナーズ家具"
+        "トムディクソン",
+        "デザイナーズ照明",
+        "インテリア雑貨"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ローラ・ブランケッツがコラボ毛布を発売、華やかなファー素材を採用",
-      "summary_ja": "ホームファブリックブランドのローラ・ブランケッツが、ラブシャックファンシーと協業した新作ブランケットを披露した。フェイクファーを用いた2種類のデザインが用意され、オンラインで販売されている。",
-      "source": "WWD",
-      "url": "https://wwd.com/shop/shop-home/lola-blankets-loveshackfancy-collaboration-where-to-buy-now-1239346325/",
-      "score": 68,
-      "commercial_score": 85,
+      "title_ja": "中国のカスタム家具大手・我楽家居、敦煌で2026年新作コレクション発表",
+      "summary_ja": "中国のオーダーメイド家具ブランドである我楽家居が、敦煌にて2026年向けの新製品発表会を開催した。敦煌の文化的背景や美意識を落とし込んだ空間デザインと最新家具を披露している。",
+      "source": "凤凰网",
+      "url": "https://baby.ifeng.com/c/8xFLAjFzHFQ",
+      "score": 75,
+      "commercial_score": 75,
       "product_keywords": [
-        "ファーブランケット",
-        "毛布",
-        "ひざ掛け"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ノーリツが中国で新製品発表会を開催、高機能給湯器などを披露",
-      "summary_ja": "給湯大手のノーリツが中国の潍坊市で新作発表会を開き、温泉シリーズのガス給湯器や暖房ボイラーをお披露目した。快適な住環境の実現を目指し、技術力を活かした住宅設備を訴求している。",
-      "source": "齐鲁网",
-      "url": "https://weifang.iqilu.com/wfminsheng/2026/1014/5952396.shtml",
-      "score": 68,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ノーリツ 給湯器",
-        "ガス給湯器"
+        "オーダーメイド家具",
+        "システム収納"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "余りがちなメモ帳やデザインペーパーを使い切る手作りアイデア",
-      "summary_ja": "手元に余りやすい文具を活用する方法が紹介された。メモ帳を穴あけパンチでリフィルに加工したり、デザインペーパーでポケットリフィルを作ったりする工夫が提案されている。",
-      "source": "ライブドアニュース",
-      "url": "https://news.livedoor.com/topics/detail/32567859/",
-      "score": 65,
-      "commercial_score": 70,
+      "title_ja": "中国の徳力西電気、厚さ1センチの薄型レールコンセントを発売",
+      "summary_ja": "電気機器大手の徳力西電気が、厚さ1センチの超薄型設計を採用したレールコンセントを発売した。給電機能に加えてリング状の間接照明デザインを施しており、すっきりとした部屋作りに役立つ配線器具として提案されている。",
+      "source": "TOM",
+      "url": "https://news.tom.com/202610/4946389108.html",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "デザインペーパー",
-        "メモ帳",
-        "穴あけパンチ"
+        "レールコンセント",
+        "ライティングレール コンセント",
+        "配線ダクト"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "飛騨高山の柏木工、ソファとオーダーテーブルでグッドデザイン賞を受賞",
+      "summary_ja": "岐阜県高山市の家具メーカー柏木工の「リットソファ」とオーダーテーブル「プロテア」が、2026年度のグッドデザイン賞を受賞した。丁寧なものづくりとデザイン性が評価されている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19883840?news_ref=watch_20_nw19627698",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "柏木工",
+        "ソファ",
+        "テーブル"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "第34回深圳ギフト・家庭用品展が開催へ、年末の需要期に対応",
-      "summary_ja": "中国の深圳国際会展中心にて、第34回国際ギフトおよび家庭用品展が開催される。会期は10月20日から23日までの4日間で、年末の贈答品需要や企業の調達に向けた商品が揃う。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/20261015/140762.shtml",
+      "title_ja": "英家具見本市「ジャニュアリー・ファニチャー・ショー」の来場登録が開始",
+      "summary_ja": "英国の家具見本市である「ジャニュアリー・ファニチャー・ショー」第37回開催の来場登録がスタートした。業界の主要な取引の場として、新たなブランドや最新の家具製品が一堂に会する。",
+      "source": "Big Furniture Group",
+      "url": "https://www.bigfurnituregroup.com/registration-open-for-january-furniture-show-2027/",
+      "score": 70,
+      "commercial_score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "米家具大手レイジーボーイがニューオーリンズの店舗を買収し直営網を拡大",
+      "summary_ja": "米国の大手家具メーカーであるレイジーボーイが、ニューオーリンズにある2つの店舗の買収を完了した。直営店舗網を広げることで、地域における販売体制の強化を図っている。",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co/article/919185/la-z-boy-acquires-two-new-orleans-stores-expands-company-owned-retail-network/",
       "score": 65,
-      "commercial_score": 70,
+      "commercial_score": 65,
       "product_keywords": [
-        "ギフト雑貨",
-        "インテリア小物"
+        "レイジーボーイ",
+        "リクライニングチェア"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "賃貸向けの家具選び、大手本革ソファの価格帯や実用性が分析される",
+      "summary_ja": "賃貸住宅で使う家具として、中国大手・顧家家居の本革ソファの実用性やコストパフォーマンスが検証された。長期の居住予定やペットの有無などを考慮し、入門モデルが最も適しているといった具体的な購入基準が示されている。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_7879849103_1d5acf48f06801r5qm.html?from=digit",
+      "score": 65,
+      "commercial_score": 80,
+      "product_keywords": [
+        "本革ソファ",
+        "レザーソファ",
+        "二人掛けソファ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
