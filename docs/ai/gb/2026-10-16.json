@@ -1,0 +1,50 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:34:23+09:00",
+  "stories": [
+    {
+      "title_ja": "米メタ、推論とプログラミングに強い公開型AIモデルの新版を投入",
+      "summary_ja": "米メタ（Meta）は新しいオープンウェイトAIモデル「Muse Spark Open」を公開した。多段階の推論や複雑なソフトウェア開発の分野で高い性能を発揮し、競合に対抗するとしている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+      "score": 85,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "英スターリング銀行、エヌビディアと組み自国管理のAIモデル構築へ",
+      "summary_ja": "英デジタル銀行のスターリングが、米エヌビディア（Nvidia）などと連携して英国内で管理運用する独自AIモデルを構築する。銀行データを安全に活用し、不正取引の検知強化や顧客分析の向上を図る。",
+      "source": "Payments Industry Intelligence",
+      "url": "https://paymentsindustryintelligence.com/starling-builds-uk-sovereign-ai-model-with-nvidia-and-civo/",
+      "score": 75,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "セールスフォース、英国内の大学向けにスラック上位版を無償提供へ",
+      "summary_ja": "米セールスフォースは英国の高等教育機関向けに「Slack Enterprise」を無償提供する計画を発表した。学生が職場で役立つAIスキルを実践的に身につけられるよう支援する。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/salesforce-offers-free-slack-enterprise-to-uk-students",
+      "score": 75,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "AI支援の健康アプリ利用で社会的幸福感の向上を確認、研究チーム調査",
+      "summary_ja": "研究チームが利用者に個別支援を提供するAI搭載モバイルアプリの効果を評価した。利用者の間において、社会的幸福感の改善傾向が確認されたと報告されている。",
+      "source": "2 Minute Medicine",
+      "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-powered-mental-health-app-demonstrated-improved-social-well-being-among-users/",
+      "score": 70,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "通信事業者の9割近くがオープン型AIを支持、コスト抑制狙い",
+      "summary_ja": "米エヌビディアの調査によると、通信事業者の89%がオープンソースAIモデルの採用を支持しているという。費用の抑制やデータ管理、地域特性への適合が主な理由として挙げられている。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/telecom-operators-turn-to-open-ai-models-nvidia-says",
+      "score": 70,
+      "commercial_score": 55
+    }
+  ]
+}

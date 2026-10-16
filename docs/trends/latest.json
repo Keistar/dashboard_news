@@ -1,599 +1,651 @@
 {
   "feed": "trends",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T16:09:52+09:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T16:04:34+09:00",
   "trends": [
     {
       "keyword": "プライム感謝祭",
-      "reason_ja": "アマゾンの会員向けセール「プライム感謝祭」の先行セールが始まり、人気のイヤホンやヘッドホンなどの特価商品情報に関心が集まっています。",
+      "reason_ja": "アマゾンの大型セール「プライム感謝祭」が開催され、おすすめ商品や目玉の割引情報が注目されているため。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
-        "Amazon プライム感謝祭",
-        "プライム感謝祭 セール"
+        "Amazon セール",
+        "プライム感謝祭",
+        "Apple"
       ],
       "product_keywords_ja": [
+        "Amazon セール",
         "プライム感謝祭",
-        "Amazon セール"
+        "Apple"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プライム感謝祭でおすすめのガジェット特集",
-          "summary_ja": "プライム会員を対象とした秋のセールが開催されています。日頃の利用への感謝を込めたイベントで、多数の注目アイテムがお買い得になっています。",
-          "source": "ガジェットレビューブログ",
-          "url": "https://digital-style.jp/amazon-prime-fes"
+          "title_ja": "プライム感謝祭のおすすめ商品と詳細が紹介",
+          "summary_ja": "アマゾンのプライム感謝祭を対象に、選りすぐりの注目アイテムが取り上げられている。お得なキャンペーンの詳細や注目のセール品がまとめられている。",
+          "source": "GQ Japan",
+          "url": "https://www.gqjapan.jp/article/amazon-prime-big-deal-days-2026"
         },
         {
-          "title_ja": "プライム感謝祭の先行セールがスタート",
-          "summary_ja": "アマゾンの会員向けセールに先駆けて先行セールが始まりました。ワイヤレスイヤホンやヘッドホンなど人気機器がお買い得価格で登場しています。",
-          "source": "カジェログ",
-          "url": "https://kajetblog.com/amazon-prime-sale-2026-2/"
+          "title_ja": "プライム感謝祭でアップル製品などの目玉商品が登場",
+          "summary_ja": "アマゾンの本セールがスタートし、スマートフォンやタブレットなどの人気端末が大幅な割引対象となっている。各種人気ガジェットの注目情報が案内されている。",
+          "source": "ゴリミー",
+          "url": "https://gori.me/amazon/amazon-sale/171252"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
-    },
-    {
-      "keyword": "iPhone 18 Pro系列降价",
-      "reason_ja": "アップルの天猫公式旗艦店が大型セールに向けた値引きを発表し、iPhone 18 Proシリーズのクーポン適用や補助金割引が大きな話題となっています。",
-      "genre": "gadget",
-      "commercial_score": 95,
-      "product_keywords": [
-        "iPhone 18 Pro",
-        "天猫 双11",
-        "苹果手机"
-      ],
-      "product_keywords_ja": [
-        "iPhone 18 Pro",
-        "iPhone",
-        "Apple スマホ"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "アップル公式店が秋のセールで値引き発表",
-          "summary_ja": "天猫の公式ストアで秋の大型セールの日程が発表されました。新型スマートフォンなどの一部製品を対象に特別割引が適用されます。",
-          "source": "手机新浪网",
-          "url": "https://tech.sina.cn/2026-10-15/detail-inivhpnp8174602.d.html?vt=4&pos=108&his=0"
-        },
-        {
-          "title_ja": "天猫が大型セールの開幕日程と割引を発表",
-          "summary_ja": "大型ショッピングイベントの開始日程が正式に公表されました。ブランド割引やプラットフォームのクーポンを組み合わせた大幅な還元が行われます。",
-          "source": "观点网",
-          "url": "https://www.guandian.cn/article/20261015/613557.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "NVIDIA RTX Spark",
-      "reason_ja": "エヌビディアが次世代グラフィックス技術「RTX Spark」の提供開始と多数の人気ゲーム対応を発表し、ゲームファンの間で大きな注目を集めています。",
-      "genre": "gadget",
-      "commercial_score": 92,
-      "product_keywords": [
-        "NVIDIA RTX Spark",
-        "gaming laptop",
-        "DLSS"
-      ],
-      "product_keywords_ja": [
-        "ゲーミングPC",
-        "グラフィックボード",
-        "NVIDIA RTX"
-      ],
-      "trend_source": "ニュース（ガジェット）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "エヌビディアが新型グラフィックスを発表",
-          "summary_ja": "最新技術を搭載したグラフィックスの展開が発表されました。多数の人気大作ゲームタイトルが対応し、発売に向けた期待が高まっています。",
-          "source": "NVIDIA",
-          "url": "https://www.nvidia.com/en-us/geforce/news/rtx-spark-dlss-reflex-ray-tracing-games/"
-        },
-        {
-          "title_ja": "最新モデル導入でグラフィック処理が高速化",
-          "summary_ja": "画像処理の高速化を果たす最新モデルが披露されました。クリエイター向けツールやゲームプレイの快適性が大幅に向上します。",
-          "source": "shattered.io",
-          "url": "https://shattered.io/nvidia-rtx-spark-launch-week-dlss-5-2026/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Apple HomeView",
-      "reason_ja": "アップルがスマート家電を統括する新型ハブ端末「HomeView」を発表し、スマートホーム製品の新たな中核デバイスとして英国でも話題を呼んでいます。",
-      "genre": "gadget",
-      "commercial_score": 92,
-      "product_keywords": [
-        "Apple HomeView",
-        "smart home hub"
-      ],
-      "product_keywords_ja": [
-        "スマートディスプレイ",
-        "スマートホーム"
-      ],
-      "trend_source": "ニュース（ガジェット）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "アップルが新型ハブ端末HomeViewを発表",
-          "summary_ja": "アップルからスマートホーム向けの新型ハブ端末が正式に発表されました。複数のデザインとカラーバリエーションが用意されています。",
-          "source": "T3",
-          "url": "https://www.t3.com/home-living/smart-home/apples-gbp299-homeview-hub-is-officially-here-with-two-designs-and-four-colour-options"
-        },
-        {
-          "title_ja": "アップルが新型のスマートホーム端末を披露",
-          "summary_ja": "タブレット型の新型端末がスマート家電の中心ハブとして登場しました。進化したアシスタント機能を備え、家庭内の機器を連携させます。",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "東京ディズニーランド",
-      "reason_ja": "東京ディズニーリゾートで冬のイベント「ディズニー・クリスマス」の開催に合わせて、人気キャラクター「リルリンリン」のポップコーンバケットや限定グッズが公開され話題を呼んでいます。",
-      "genre": "food",
-      "commercial_score": 90,
-      "product_keywords": [
-        "リルリンリン",
-        "ディズニー クリスマス グッズ",
-        "ポップコーンバケット"
-      ],
-      "product_keywords_ja": [
-        "リルリンリン",
-        "ディズニー クリスマス",
-        "ポップコーンバケット"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "リルリンリンのポップコーンバケットが登場",
-          "summary_ja": "東京ディズニーリゾートで人気キャラクターの新たなフードスーベニアが発売されます。優しい色合いのポップコーンバケットなど冬の限定アイテムが展開されます。",
-          "source": "GAME Watch",
-          "url": "https://game.watch.impress.co.jp/docs/news/2148303.html"
-        },
-        {
-          "title_ja": "ディズニーがクリスマス限定グッズを先行発売",
-          "summary_ja": "東京ディズニーリゾートで冬のスペシャルイベントが開催されます。ホリデーシーズンを彩る多彩なクリスマス限定グッズが先行販売されます。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/e42f408fb5851bf2093fe14d5c38d1adb0598912"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "クリスマスコフレ",
-      "reason_ja": "人気フレグランスやコスメブランドからホリデー限定コフレの情報が解禁され、完売必至の限定セットの予約開始に向けて期待が高まっています。",
-      "genre": "beauty",
-      "commercial_score": 90,
-      "product_keywords": [
-        "クリスマスコフレ",
-        "ホリデーコレクション"
-      ],
-      "product_keywords_ja": [
-        "クリスマスコフレ",
-        "ホリデーコレクション"
-      ],
-      "trend_source": "ニュース（コスメ）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "ルラボから限定コフレとケアキットが登場",
-          "summary_ja": "人気フレグランスブランドからホリデー限定コレクションが発表されました。象徴的な香りのディスカバリーセットやハンドケアキットが揃います。",
-          "source": "ELLE",
-          "url": "https://www.elle.com/jp/beauty/nail-fragrance/g74116964/2026christmascoffret-nd-lelabo-2610-hns/"
-        },
-        {
-          "title_ja": "ランコムがパリを描いた限定コレクション",
-          "summary_ja": "人気コスメブランドから華やかなホリデーコレクションが登場します。毎年完売が続く注目シリーズで、限定セットの内容が公開されました。",
-          "source": "VOCE",
-          "url": "https://i-voce.jp/feed/5198853/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Beauty Advent Calendar",
-      "reason_ja": "人気コスメブランド各社からホリデーシーズンに向けたビューティーアドベントカレンダーが発売され、完売必至の人気アイテムとして注目を集めています。",
-      "genre": "beauty",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Beauty Advent Calendar",
-        "Charlotte Tilbury",
-        "Sephora"
-      ],
-      "product_keywords_ja": [
-        "アドベントカレンダー コスメ",
-        "ホリデーコレクション"
-      ],
-      "trend_source": "ニュース（コスメ）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "完売必至のユニークなアドベントカレンダー",
-          "summary_ja": "ホリデーシーズンに向けて多彩なアドベントカレンダーが登場しています。早期完売が予想される注目の人気商品が紹介されています。",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495"
-        },
-        {
-          "title_ja": "人気ブランドのビューティーカレンダー特集",
-          "summary_ja": "セフォラや人気コスメブランドから豪華なカウントダウンボックスが登場しています。手頃なケア用品から高級メイクまで幅広く揃います。",
-          "source": "Yahoo",
-          "url": "https://shopping.yahoo.com/beauty/article/the-best-beauty-advent-calendars-for-2026-sephora-lush-charlotte-tilbury-and-more-are-still-available-for-the-holiday-season-150421007.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Beauty Advent Calendar",
-      "reason_ja": "英国の大手百貨店マークス＆スペンサーから人気のビューティーアドベントカレンダーが発売され、豪華な内容とお買い得感で注目を集めています。",
-      "genre": "beauty",
-      "commercial_score": 90,
-      "product_keywords": [
-        "M&S Beauty Advent Calendar",
-        "Marks and Spencer"
-      ],
-      "product_keywords_ja": [
-        "アドベントカレンダー コスメ",
-        "ホリデーコフレ"
-      ],
-      "trend_source": "ニュース（コスメ）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "M&Sの人気アドベントカレンダーが再登場",
-          "summary_ja": "英国大手百貨店から完売必至のビューティーアドベントカレンダーが発売されました。豪華なコスメアイテムが豊富に詰まった注目の内容です。",
-          "source": "AOL.co.uk",
-          "url": "https://www.aol.co.uk/articles/m-sell-beauty-advent-calendar-100127000.html"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
     },
     {
       "keyword": "Bose QuietComfort",
-      "reason_ja": "ノイズキャンセリングヘッドホン「Bose QuietComfort」がセールで注目されたことや、運動や日常使いでの快適な装着感が高く評価されています。",
+      "reason_ja": "ボーズの定番ノイズキャンセリングヘッドホンが最新セールで大幅値引きされ注目を集めているため。",
       "genre": "gadget",
-      "commercial_score": 88,
+      "commercial_score": 95,
       "product_keywords": [
         "Bose QuietComfort",
-        "noise cancelling headphones"
+        "wireless headphones",
+        "noise cancelling"
       ],
       "product_keywords_ja": [
-        "Bose QuietComfort",
+        "ボーズ ヘッドホン",
+        "ノイズキャンセリング",
         "ワイヤレスヘッドホン"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ボーズの第2世代ノイキャンヘッドホンが高評価",
+          "summary_ja": "洗練されたデザイン変更と卓越した遮音性能、豊かな低音が高く評価されている。派手さはないものの使い勝手に優れた定番モデルとして支持されている。",
+          "source": "PCMag UK",
+          "url": "https://uk.pcmag.com/headphones/167943/bose-quietcomfort-headphones-2nd-gen-review-not-flashy-just-excellent"
+        },
+        {
+          "title_ja": "人気ヘッドホンがセール終了後も最安値を維持",
+          "summary_ja": "大型セール期間が終了した後も、お得な特別価格での販売が継続している。専門家が注目する最もお得なオーディオ製品として紹介された。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/oct-8-bose-quietcomfort-headphones-deal"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "エヌビディアがローカルAI処理に対応した新型ノートPC「RTX Spark」を発表したため。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "RTX Spark",
+        "AI laptop",
+        "NVIDIA"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングノートPC",
+        "ノートパソコン",
+        "エヌビディア"
       ],
       "trend_source": "ニュース（ガジェット）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "ボーズのワイヤレスヘッドホンが高評価獲得",
-          "summary_ja": "長時間の使用でも快適な装着感を提供するヘッドホンが高評価を受けました。運動や日常使いに適した優れた設計が支持されています。",
-          "source": "RTINGS.com",
-          "url": "https://www.rtings.com/headphones/reviews/best/over-ear-headphones-working-out"
+          "title_ja": "エヌビディアが次世代AIノートPCを発表",
+          "summary_ja": "ローカル環境で人工知能を動作させる新たな時代の幕開けとして新製品が披露された。世界各国で発売記念のイベントが展開されている。",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
         },
         {
-          "title_ja": "人気ブランドのノイズキャンセリング機が特価",
-          "summary_ja": "主要ブランドのノイズキャンセリングヘッドホンが特別価格で提供されています。秋のセールに合わせたお買い得情報が紹介されています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/best-october-prime-day-noise-cancelling-headphones-deals-live-2026"
+          "title_ja": "高性能プロセッサ搭載のAIノートPCが出荷開始",
+          "summary_ja": "複数のパソコンメーカーから高性能な演算ユニットと大容量メモリを備えた端末が出荷された。先進的な処理能力を求めるユーザー向けに構成されている。",
+          "source": "https://tech-insider.org/",
+          "url": "https://tech-insider.org/nvidia-rtx-spark-laptops-launch-2599-128gb-2026/"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "ちび まる子 ちゃん ハッピー くじ",
-      "reason_ja": "『ちびまる子ちゃん』の原作連載周年の節目を記念したHappyくじの発売が発表され、コミックスの表紙を立体化したフィギュアなどの景品が注目を集めています。",
-      "genre": "other",
-      "commercial_score": 85,
+      "keyword": "华为阔直板",
+      "reason_ja": "ファーウェイの新型ワイドストレートスマホの出荷が好調で、ユーザー移行が進んでいると報じられたため。",
+      "genre": "gadget",
+      "commercial_score": 92,
       "product_keywords": [
-        "ちびまる子ちゃん Happyくじ",
-        "ちびまる子ちゃん フィギュア"
+        "华为手机",
+        "Pura X View",
+        "手机壳"
       ],
       "product_keywords_ja": [
-        "ちびまる子ちゃん くじ",
-        "ちびまる子ちゃん フィギュア"
+        "ファーウェイ スマホ",
+        "スマホケース",
+        "スマート端末"
       ],
-      "trend_source": "Google トレンド",
+      "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ちびまる子ちゃん連載周年くじが登場",
-          "summary_ja": "人気漫画の記念イヤーを祝う特別な一番くじが発売されます。コミックスのカバーを再現した立体フィギュアなどが当たります。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/bdc568499e01c047ae5b4bdaa6cac3684c2d5cea"
+          "title_ja": "ファーウェイのワイド端末が使いやすいと好評",
+          "summary_ja": "新型スマートフォンについて、画面の見やすさやアプリの充実度が高く評価されている。日常業務や普段使いでの使い勝手が支持を集めている。",
+          "source": "新浪网",
+          "url": "https://k.sina.com.cn/article_1879621021_7008bd9d04001n6gk.html?from=digit"
         },
         {
-          "title_ja": "原作表紙や名場面を立体化した記念くじ",
-          "summary_ja": "原作連載を祝う記念くじの詳細が公開されました。まる子の部屋やコミックスの表紙をモチーフにした多彩な限定フィギュアが揃います。",
-          "source": "朝日新聞",
-          "url": "https://www.asahi.com/and/entertainment/16966529"
+          "title_ja": "ファーウェイの新型スマホが好調な売れ行きを記録",
+          "summary_ja": "新機種の出荷が順調に進み、他社端末からの乗り換え需要も取り込んでいる。高価格帯でありながら市場での存在感を強めている。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1088511368_104421"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "keyword": "Anthropic",
-      "reason_ja": "AI開発企業アンソロピックが上場を控える中で売上高の大幅な急増を投資家説明会で発表し、AI市場における存在感の大きさが話題となっています。",
-      "genre": "ai",
-      "commercial_score": 85,
+      "keyword": "Amazon Bee",
+      "reason_ja": "アマゾンが会話を録音・要約する新しいAIウェアラブル端末2機種を発表したため。",
+      "genre": "gadget",
+      "commercial_score": 90,
       "product_keywords": [
-        "Anthropic",
-        "Claude AI",
-        "AI API"
+        "Amazon Bee",
+        "AI wearable",
+        "voice recorder"
       ],
       "product_keywords_ja": [
-        "Claude",
-        "生成AI",
-        "人工知能"
+        "スマートバンド",
+        "ボイスレコーダー",
+        "ウェアラブル端末"
       ],
-      "trend_source": "ニュース（AI）",
+      "trend_source": "ニュース（ガジェット）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アンソロピックが上場に向け大幅な増収発表",
-          "summary_ja": "人工知能開発大手が株式公開に向けて好調な四半期売上高を報告しました。生成AI需要の高まりを背景に急速な事業拡大を続けています。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+          "title_ja": "会話を要約するアマゾンの新AI端末2種が登場",
+          "summary_ja": "会話を記録して要約やタスク作成を行う個人向けAI端末が発表された。腕に装着するウェアラブル型とスマートフォン背面に取り付ける型の二種類が用意されている。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse"
         },
         {
-          "title_ja": "アンソロピックの四半期売上が急拡大を記録",
-          "summary_ja": "投資家向け説明会で力強い業績の伸びが明らかにされました。株式公開を前に事業の成長基盤を確立し、市場の関心を集めています。",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10"
+          "title_ja": "アマゾンが日常の会話を聞き取るAI端末を発表",
+          "summary_ja": "日常会話を聞き取るブレスレット型端末の改良版と、スマホに装着可能な新端末が発売された。手頃な価格帯で持ち運べるAIアシスタントとして展開される。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "tsm stock",
-      "reason_ja": "世界最大の半導体受託製造大手TSMCが世界的なAI需要の急拡大を背景に市場予想を上回る最高益を発表し、半導体市場への関心が高まっています。",
+      "keyword": "特斯拉Roadster",
+      "reason_ja": "テスラの新型EVスポーツカー「Roadster」が披露され、中国公式サイトで予約受付が始まったため。",
       "genre": "gadget",
-      "commercial_score": 80,
+      "commercial_score": 90,
       "product_keywords": [
-        "TSMC",
-        "AI chip",
-        "semiconductor"
+        "特斯拉 车模",
+        "特斯拉 周边",
+        "跑车 模型"
       ],
       "product_keywords_ja": [
-        "半導体",
-        "AIチップ"
+        "テスラ ミニカー",
+        "テスラ グッズ",
+        "EV ミニカー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テスラが第2世代ロードスターの新型車を披露",
+          "summary_ja": "テスト拠点において新型電動スポーツカーが公開された。空中での姿勢制御などの先進的な機能を備えたモデルとして注目を集めている。",
+          "source": "ThePaper.cn",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34261270"
+        },
+        {
+          "title_ja": "中国公式サイトで新型ロードスターの予約受付開始",
+          "summary_ja": "テスラが中国向けに高性能モデルの先行予約を開始した。予約金の提示とともに注文受付がスタートし、車ファンの話題となっている。",
+          "source": "观点网",
+          "url": "https://www.guandian.cn/article/20261016/614206.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "针影裁梦",
+      "reason_ja": "病気の妻のために個人開発された洋服仕立てシミュレーションゲームがSteamで世界的人気となったため。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "缝纫机",
+        "Steam游戏",
+        "布料 手工"
+      ],
+      "product_keywords_ja": [
+        "ミシン",
+        "ソーイングセット",
+        "手芸 生地"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "洋服仕立てシミュレーションゲームが圧倒的高評価",
+          "summary_ja": "衣服を一針ずつ手作業で仕立てるリアルな体験がプレイヤーの共感を呼んでいる。自由度の高い制作過程が高く評価され、大ヒットを記録している。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1088238592_100136645"
+        },
+        {
+          "title_ja": "妻のために開発された手芸ゲームが世界中で話題に",
+          "summary_ja": "病気で針仕事ができなくなった家族のために作られた作品が世界的な反響を呼んでいる。ゲームを通じてミシン縫いや裁縫を楽しむ人が急増している。",
+          "source": "17173",
+          "url": "http://news.17173.com/content/10152026/120909064.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "中国肯德基回应换可口可乐",
+      "reason_ja": "米KFCがコカ・コーラへの変更を発表したことを受け、中国KFCのドリンク提供方針に関心が集まったため。",
+      "genre": "food",
+      "commercial_score": 82,
+      "product_keywords": [
+        "可口可乐",
+        "百事可乐",
+        "肯德基 优惠券"
+      ],
+      "product_keywords_ja": [
+        "コカコーラ",
+        "ペプシコーラ",
+        "ケンタッキー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "米ケンタッキーが飲料をペプシから変更へ",
+          "summary_ja": "アメリカのファストフード店舗において、数十年にわたる提携先を変更する動きが報じられた。長年親しまれてきた清涼飲料のラインナップが見直される。",
+          "source": "finance.sina.com.cn",
+          "url": "https://finance.sina.cn/2026-10-16/detail-inivkwtm7737313.d.html?vt=4&pos=108&his=0"
+        },
+        {
+          "title_ja": "長年の提携見直しと新たな飲料メニュー展開へ",
+          "summary_ja": "ブランド刷新の重要なステップとして新たなパートナーシップが結ばれた。刷新されたドリンクシリーズの導入により顧客体験の向上が目指される。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1088555862_121345914"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "cox",
+      "reason_ja": "アクセンチュアが社内でのClaude利用費用の月額上限を設定したことが話題となったため。",
+      "genre": "ai",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Claude AI",
+        "Anthropic",
+        "AI productivity tool"
+      ],
+      "product_keywords_ja": [
+        "AIツール",
+        "業務効率化",
+        "生成AI"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "TSMCがAI需要拡大で最高益を更新",
-          "summary_ja": "半導体受託製造大手が市場予想を上回る好決算を発表しました。世界的な人工知能ブームを背景に力強い成長を維持しています。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
+          "title_ja": "アクセンチュアが社員のAI利用費に上限を設定",
+          "summary_ja": "コンサルティング大手のアクセンチュアが社内での生成AI利用額に制限を設けた。これまで多額の費用をかけてツールを使っていた社員が対応に追われている。",
+          "source": "404 Media",
+          "url": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/"
         },
         {
-          "title_ja": "TSMCがAI受注増で業績見通しを引き上げ",
-          "summary_ja": "半導体大手企業が旺盛なAI関連需要を受けて予想以上の業績見通しを示しました。世界的な投資持続性への懸念を跳ね返し、急速な成長を続けています。",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
+          "title_ja": "社内でのAI利用制限を導入、高額利用を見直しへ",
+          "summary_ja": "企業内で社員が利用するAIツールの費用に月額制限が課された。業務での活用が広がる中、利用コストの管理を徹底する動きが出ている。",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/technology/news/story/accenture-caps-claude-use-internally-some-employees-were-spending-1000-on-ai-3018550-2026-10-16"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "restaurant",
-      "reason_ja": "ロンドンで最も歴史のある老舗レストラン「Rules」の建物が歴史的遺産保護団体ナショナルトラストに寄贈されたことが話題となっています。",
+      "keyword": "酱油瓶穿裙子",
+      "reason_ja": "六月鮮が伝統衣装「馬面スカート」を模した醤油ボトルデザインを発表し議論を呼んだため。",
       "genre": "food",
       "commercial_score": 80,
       "product_keywords": [
-        "Rules London",
-        "Covent Garden restaurant"
+        "六月鲜 酱油",
+        "生抽",
+        "调味品"
       ],
       "product_keywords_ja": [
-        "ロンドン レストラン",
-        "英国 グルメ"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ロンドン最古のレストランが保護団体へ寄贈",
-          "summary_ja": "コヴェント・ガーデンにある伝統ある老舗レストランが保護団体に引き渡されました。歴史的な建物の維持と保護が継続して行われます。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c83vq95dq91go"
-        },
-        {
-          "title_ja": "伝統の老舗レストランが保護団体に寄贈",
-          "summary_ja": "長きにわたり愛されてきた歴史ある劇場街の名店が保全団体へ寄贈されました。長い歴史の中で持ち主の交代がわずかしか行われなかった名所です。",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "水果罐头为啥不“甜”了",
-      "reason_ja": "健康志向や減糖・低糖化の流れの中でフルーツ缶詰の需要が変化し、各メーカーが甘さ控えめや小容量パッケージへの刷新を進めていることが注目を集めています。",
-      "genre": "food",
-      "commercial_score": 80,
-      "product_keywords": [
-        "水果罐头",
-        "低糖食品",
-        "健康零食"
-      ],
-      "product_keywords_ja": [
-        "フルーツ缶詰",
-        "低糖質 スイーツ",
-        "健康食品"
+        "中国醤油",
+        "調味料",
+        "中華調味料"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "フルーツ缶詰が甘さ控えめへと転換進める",
-          "summary_ja": "消費者の健康志向の高まりによりフルーツ缶詰市場が変化を迎えています。甘さ控えめや小容量パッケージなど新たな商品展開で需要の回復を図っています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.cn/2026-10-15/detail-inivhpnm7360296.d.html?vt=4&pos=108&his=0"
+          "title_ja": "伝統衣装をモチーフにした醤油ボトルが議論に",
+          "summary_ja": "老舗調味料ブランドが伝統衣装のスカートを取り入れた容器デザインを打ち出した。文化的な融合を目指した試みとしてネット上で活発な議論が起きている。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1088551981_120995964"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "世界都在刷短剧 全部进入红果时代",
-      "reason_ja": "バイトダンス傘下の無料ショートドラマアプリ「紅果短劇」が国内外で爆発的な人気を獲得し、短尺コンテンツの消費ブームが急速に広がっています。",
-      "genre": "other",
-      "commercial_score": 78,
-      "product_keywords": [
-        "红果短剧",
-        "微短剧",
-        "短剧app"
-      ],
-      "product_keywords_ja": [
-        "ショートドラマ アプリ",
-        "短尺動画"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "短尺ドラマアプリが国内外で大ヒットを記録",
-          "summary_ja": "無料のショートドラマ配信アプリが急速に利用者を拡大しています。国内でのヒットモデルを海外市場にも展開し、大きな反響を呼んでいます。",
-          "source": "潮起网",
-          "url": "https://www.ichaoqi.com/guandian/2026/1014/88529.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "顾客买850元脆皮捏捏 全捏碎后退货",
-      "reason_ja": "若者の間で大人気となっている手作り感触トイ「脆皮捏捏」の購入トラブルを巡り、ネット通販の無条件返品ルールが議論を呼んでいます。",
-      "genre": "other",
-      "commercial_score": 76,
-      "product_keywords": [
-        "脆皮捏捏",
-        "捏捏乐",
-        "解压玩具"
-      ],
-      "product_keywords_ja": [
-        "スクイーズ 玩具",
-        "ストレス解消 グッズ"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "人気玩具の返品トラブルがネットで議論呼ぶ",
-          "summary_ja": "人気の手作り感触玩具を巡って返品を巡るトラブルが発生しました。ネット通販における返品の条件や出品者の保護について関心が集まっています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261015/49795647.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "myojo",
-      "reason_ja": "アイドル誌『Myojo』の最新号で人気グループHey! Say! JUMPが表紙と裏表紙を飾り、記念イヤーに向けた特集が掲載されることからファンの注目が集まっています。",
+      "keyword": "s0系",
+      "reason_ja": "東海道・山陽新幹線の次期新型車両「S0系」の投入と、のぞみ号指定席の値上げが発表されたため。",
       "genre": "other",
       "commercial_score": 75,
       "product_keywords": [
-        "Myojo",
-        "Hey! Say! JUMP"
+        "新幹線 グッズ",
+        "鉄道模型",
+        "プラレール"
       ],
       "product_keywords_ja": [
-        "Myojo",
-        "アイドル雑誌"
+        "新幹線 グッズ",
+        "鉄道模型",
+        "プラレール"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "人気アイドルグループが月刊誌の表紙飾る",
-          "summary_ja": "人気アイドルグループが月刊誌の最新号で表紙と裏表紙を飾ります。通常版とコンパクト版の両方で記念イヤーに向けた特集が組まれています。",
+          "title_ja": "東海道・山陽新幹線の新型車両「S0系」が発表",
+          "summary_ja": "JR東海は東海道・山陽新幹線の次期車両として「S0系」の投入を発表した。現在の主力車両以来となるフルモデルチェンジで、営業運転の開始を目指している。",
           "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/53c7a7ac563c26440dea96a75785f75160420ed3"
+          "url": "https://news.yahoo.co.jp/articles/421819e3a4299a541602539d98fc7d1e1cac3f48"
+        },
+        {
+          "title_ja": "東海道・山陽新幹線「のぞみ」指定席が値上げへ",
+          "summary_ja": "JR東海とJR西日本は、新幹線の指定席料金を改定すると発表した。物価上昇への対応やサービスの向上を目的とした見直しで、自由席の特急料金は維持される。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFD161TD0W6A011C2000000/"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "escape halloween",
-      "reason_ja": "ハロウィンシーズンに向けて体験型のホラー脱出ゲームや没入型イベントが多数開催され、友人や家族と楽しむレジャーとして注目を集めています。",
+      "keyword": "sonay kartal",
+      "reason_ja": "英国のソネイ・カルタル選手が武漢オープンで上位シード選手を破り準々決勝に進出したため。",
       "genre": "other",
       "commercial_score": 75,
       "product_keywords": [
-        "Halloween escape room",
-        "horror escape game"
+        "tennis racket",
+        "tennis kit",
+        "sports shoes"
       ],
       "product_keywords_ja": [
-        "脱出ゲーム",
-        "ハロウィン イベント"
+        "テニスラケット",
+        "テニスウェア",
+        "スポーツシューズ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ハロウィン向け恐怖の脱出ゲーム特集が公開",
-          "summary_ja": "ハロウィンシーズンを盛り上げる注目の体験型イベントが紹介されています。多彩なテーマのホラー脱出ゲームが各地で開催されています。",
-          "source": "Love London Love Culture",
-          "url": "https://lovelondonloveculture.com/2026/10/14/love-london-love-cultures-halloween-picks-2026/"
+          "title_ja": "英カルタルがシード選手を破り武漢オープン8強入り",
+          "summary_ja": "イギリスのソネイ・カルタル選手が上位選手をストレートで破る金星を挙げた。見事なプレーで準々決勝への進出を決めている。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c85ynx5vwq35o"
         },
         {
-          "title_ja": "没入型ホラー脱出ゲームがハロウィンに登場",
-          "summary_ja": "ハロウィンに合わせて体験型のホラー脱出アトラクションが展開されます。役者を起用した迫真の演出でスリリングな体験を提供します。",
-          "source": "Verge Magazine",
-          "url": "https://vergemagazine.co.uk/no-escape-london-brings-nine-terrifying-horror-escape-rooms-to-life-for-halloween-2026/"
+          "title_ja": "負傷から復帰したカルタルが快勝でベスト8に進出",
+          "summary_ja": "背中の怪我による長期離脱から復帰したばかりの選手が、圧倒的な内容で勝利を収めた。キャリアで2度目となる大規模大会での準々決勝進出を果たした。",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/videos/4592785/kartal-routs-paolini-in-63-minutes-in-wuhan-into-second-wta-1000-qf"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "lion green road",
+      "reason_ja": "ロンドン・クロイドンの住宅プロジェクトが英国の権威あるスターリング賞を受賞したため。",
+      "genre": "interior",
+      "commercial_score": 75,
+      "product_keywords": [
+        "architecture book",
+        "interior design",
+        "home decor"
+      ],
+      "product_keywords_ja": [
+        "建築書",
+        "インテリア雑貨",
+        "住宅デザイン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ロンドンの集合住宅が権威ある建築賞を受賞",
+          "summary_ja": "周辺環境と調和した優れた設計が高く評価され、建築賞に輝いた。地域の景観に配慮した住居計画として注目を浴びている。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po"
+        },
+        {
+          "title_ja": "自然の丘陵に調和する公営住宅が年間最優秀建築に",
+          "summary_ja": "レンガ造りの美しいタワー群が、英国の著名な建築賞を受賞した。自然に囲まれた住環境と供給戸数の多さを両立させた建築として称賛された。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/artanddesign/2026/oct/15/council-housing-miracle-lion-green-road-croydon-riba-stirling-prize-best-new-building"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "maria sakkari",
+      "reason_ja": "女子テニスのマリア・サッカリ選手が武漢オープンの3回戦を突破し準々決勝進出を決めたため。",
+      "genre": "other",
+      "commercial_score": 72,
+      "product_keywords": [
+        "tennis racket",
+        "tennis skirt",
+        "tennis shoes"
+      ],
+      "product_keywords_ja": [
+        "テニスラケット",
+        "テニスウェア",
+        "テニスシューズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "サッカリが激戦を制し武漢オープンのベスト8に進出",
+          "summary_ja": "マリア・サッカリ選手が若手選手の追い上げを振り切り、ストレートで勝利を収めた。ツアー大会での上位進出を果たし、好調を維持している。",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/videos/4592679/sakkari-holds-off-pohankova-to-return-to-wuhan-quarters-after-nine-years"
+        },
+        {
+          "title_ja": "武漢オープンでサッカリが快勝し次戦へ駒を進める",
+          "summary_ja": "ハードコートでの一戦で相手を圧倒し、次のラウンドへと勝ち進んだ。安定した試合運びで連勝を伸ばしている。",
+          "source": "TennisTemple",
+          "url": "https://en.tennistemple.com/video/maria-sakkari-defeats-mia-pohankova-at-wuhan-open/ZuXxl"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "new dinosaur fossil",
-      "reason_ja": "英国のワイト島で発見された化石が新種の肉食恐竜と特定され、大英自然史博物館の研究発表に大きな関心が寄せられています。",
+      "keyword": "dennis rodman",
+      "reason_ja": "元NBAスターのデニス・ロドマンがサイン会イベントのためサンアントニオを訪問することが報じられたため。",
       "genre": "other",
       "commercial_score": 70,
       "product_keywords": [
-        "dinosaur fossil UK",
-        "Natural History Museum"
+        "Dennis Rodman jersey",
+        "Spurs memorabilia",
+        "NBA basketball"
       ],
       "product_keywords_ja": [
-        "恐竜 化石",
-        "自然史博物館"
+        "NBA ユニフォーム",
+        "バスケットボール",
+        "スニーカー"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ワイト島で発見の化石が新種の恐竜と判明",
-          "summary_ja": "英国のワイト島で見つかった化石が新種の肉食恐竜であることが明らかになりました。羽毛を持ち大型のかぎ爪を備えていたとみられています。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgx70v9vrjo"
-        },
+          "title_ja": "元NBAスターのロドマンがファンイベントに登場へ",
+          "summary_ja": "往年のバスケットボール界の名選手がサンアントニオを訪れ、サイン会を開催する。地元のファンと直接交流する機会が設けられる。",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/nba-legend-former-spurs-star-184447961.html"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "mikey moore",
+      "reason_ja": "トッテナムの若手マイキー・ムーアがドイツ移籍を決めた背景を語り注目されたため。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "football boots",
+        "football shirt",
+        "FC Koln kit"
+      ],
+      "product_keywords_ja": [
+        "サッカースパイク",
+        "サッカーユニフォーム",
+        "トレーニングウェア"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
         {
-          "title_ja": "英自然史博物館が鋭い爪を持つ新種恐竜発表",
-          "summary_ja": "大英自然史博物館が保管する化石の研究から新種の恐竜が特定されました。トラほどの大きさで鋭いかぎ爪を備えた捕食者とされています。",
-          "source": "Natural History Museum",
-          "url": "https://www.nhm.ac.uk/press-office/press-releases/uk-dinosaur-fossil-identified-as-new-long-clawed-predator.html"
+          "title_ja": "英若手ムーアがドイツ挑戦の理由を明かす",
+          "summary_ja": "ブンデスリーガで成功を収めた先輩選手たちの活躍に刺激を受け、移籍を決断したと語った。ドイツのクラブでさらなる成長を目指す。",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c65yneln8wp0o"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "阪神ファン",
+      "reason_ja": "クライマックスシリーズでDeNAの元阪神投手陣が古巣相手に好投し勝利に貢献したため。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "阪神タイガース グッズ",
+        "プロ野球 グッズ",
+        "応援メガホン"
+      ],
+      "product_keywords_ja": [
+        "阪神タイガース グッズ",
+        "プロ野球 グッズ",
+        "応援メガホン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "元阪神の救援トリオが甲子園で無失点リレー",
+          "summary_ja": "ポストシーズンでDeNAの元阪神投手陣がリリーフ登板し、古巣打線を無失点に抑え込んだ。甲子園の大歓声の中で冷静な投球を披露した。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/95bdbab62a6240e0f92463e8756728c097083cdc"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "james mcavoy",
+      "reason_ja": "俳優のジェームズ・マカヴォイが過去に出演した映画の印税収入について語り話題を集めたため。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "Split Blu-ray",
+        "movie DVD",
+        "cinema poster"
+      ],
+      "product_keywords_ja": [
+        "映画ブルーレイ",
+        "映画DVD",
+        "ポスター"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "俳優マカヴォイが破格の印税をもたらした作品を告白",
+          "summary_ja": "人気俳優のジェームズ・マカヴォイが、自身の出演作による継続的な報酬について率直に語った。驚くほどの印税を生み出し続けている作品が明かされた。",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/james-mcavoy-film-split-paid-bonkers-residuals-1236733475/"
+        },
+        {
+          "title_ja": "映画『スプリット』が安定した印税を生むと明かす",
+          "summary_ja": "主演を務めたヒット映画が、現在も安定して収益をもたらしている唯一の作品だと語られた。ポッドキャスト番組の中で明かされた内容が注目を集めている。",
+          "source": "Entertainment Weekly",
+          "url": "https://ew.com/james-mcavoy-says-split-only-movie-consistently-pays-him-12175030"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "全日本 空輸",
+      "reason_ja": "ANAグループが東京・八重洲エリアへの本社移転計画を発表したため。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "ANA 航空券",
+        "スーツケース",
+        "旅行用品"
+      ],
+      "product_keywords_ja": [
+        "ANA 航空券",
+        "スーツケース",
+        "旅行用品"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ANAが東京・八重洲へ本社を移転すると発表",
+          "summary_ja": "ANAホールディングスは、現在の汐留から八重洲地区へ本社を移転する計画を公表した。グループの一部拠点についても別エリアの再開発ビルへ配置転換する方針だ。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC162AW0W6A011C2000000/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "クビアカツヤカミキリ",
+      "reason_ja": "特定外来生物であるクビアカツヤカミキリの被害拡大を受け、政府が対策本部を開催したため。",
+      "genre": "outdoor",
+      "commercial_score": 55,
+      "product_keywords": [
+        "殺虫剤",
+        "園芸 ネット",
+        "防虫 スプレー"
+      ],
+      "product_keywords_ja": [
+        "殺虫剤",
+        "園芸 ネット",
+        "防虫 スプレー"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "特定外来生物の防除に向け政府が対策本部を開催",
+          "summary_ja": "環境省と農林水産省が会議を開き、外来害虫の被害調査や自治体支援を進める方針を確認した。樹木への被害拡大を防ぐための取り組みが継続される。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/ca86a2f0e3fd2c5b794432783290af63e58e4d54"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

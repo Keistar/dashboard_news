@@ -1,265 +1,315 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T15:37:03+09:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:37:47+09:00",
   "stories": [
     {
-      "title_ja": "Nothing傘下CMF、牛乳パック着想の防水スピーカー発表",
-      "summary_ja": "英NothingのサブブランドであるCMFは、ポータブルスピーカー「CMF Speaker S」および「M」を発表しました。牛乳パックをモチーフにした色鮮やかな防水ボディに、18時間の連続再生が可能なバッテリーを備え、59ドルからの価格で展開されます。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Nothing-unveils-waterproof-speakers-with-milk-carton-design-starting-at-just-59.1423929.0.html",
+      "title_ja": "アマゾン、会話を記録してAIが要約する新端末「Bee」2機種を発表",
+      "summary_ja": "アマゾンは会話を録音できるAI搭載端末「Bee Frontier」と「Bee Eclipse」を発表した。手首やスマートフォンに装着して使用し、会話内容から要約やToDoリスト、リマインダーを自動でまとめる。日々の気づきやタスク管理を支援する新デバイスとなっている。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35253611/",
       "score": 85,
-      "commercial_score": 90,
+      "commercial_score": 75,
       "product_keywords": [
-        "CMF Nothing",
-        "ポータブルスピーカー",
-        "Bluetoothスピーカー"
+        "Amazon",
+        "スマートウォッチ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エヌビディア、最大128GBメモリ搭載のRTX SparkノートPC発売",
+      "summary_ja": "エヌビディア（NVIDIA）の「RTX Spark」を搭載したAIノートPCが、PCメーカー8社から2026年10月16日に出荷開始となる。Grace CPUとBlackwell GPUを組み合わせ、最大128GBのユニファイドメモリを備えている。価格は2599ドルから設定されている。",
+      "source": "https://tech-insider.org/",
+      "url": "https://tech-insider.org/nvidia-rtx-spark-laptops-launch-2599-128gb-2026/",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "NVIDIA",
+        "ノートパソコン",
+        "ゲーミングPC"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "階躍星辰、AIが自律行動するスマートフォンの新機種発表",
-      "summary_ja": "中国のAIスタートアップ階躍星辰（StepFun）は、大規模AIモデルをネイティブ搭載したスマートフォン「STEPX Neo」を3999元で発表しました。端末に向かって話しかけるだけで、スケジュール作成や条件に合わせた施設予約などの複雑なタスクを自動で行える機能が備わっています。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c067050sim.html?from=tech",
+      "title_ja": "マイクロソフト、過去最高性能をうたうノートPC新機種を発売",
+      "summary_ja": "マイクロソフトは新型ノートPC「Surface Laptop Ultra」を発売した。同社は本製品をこれまでのSurfaceシリーズの中で最も高性能な端末と位置づけている。AI処理に特化した高い演算能力を備えたフラッグシップ機となっている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/microsoft-surface-laptop-ultra",
       "score": 85,
       "commercial_score": 75,
       "product_keywords": [
-        "AIスマートフォン",
+        "Surface",
+        "マイクロソフト",
+        "ノートパソコン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "アマゾン、1万円台の配線不要4K防犯カメラなどRing新機種を発表",
+      "summary_ja": "アマゾンはホームセキュリティブランド「Ring」より、新たな製品4機種を発表した。配線不要で設置できる1万円台の4K防犯カメラや、2K解像度のドアベルなどがラインナップに加わる。手軽に家庭の防犯環境を整えられるシリーズとなっている。",
+      "source": "テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/15/5589.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Ring",
+        "防犯カメラ",
+        "ドアベル"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ソニー、スマホ動画で臨場感ある音を録音できる空間マイク発売",
+      "summary_ja": "ソニーはスマートフォンでの動画撮影に向けた空間オーディオマイク「ECM-AX10」を発売した。撮影現場の環境音や空間の広がりをそのまま捉えて記録できる設計となっている。スマートフォンを用いた映像制作における音質向上を後押しする。",
+      "source": "파이낸셜뉴스",
+      "url": "https://en.fnnews.com/news/202610160932575092",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ソニー",
+        "マイク",
+        "スマートフォン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "マイクロソフト、小型で軽量な充電式「Xbox Nano」操作器",
+      "summary_ja": "マイクロソフトのゲーム機向けに「Xbox Nano Controller」が発表された。約3.5オンスの軽量ボディに操作ボタンを一通り備え、USB-C端子による充電に対応する。2026年11月4日に49.99ドルで発売される予定となっている。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/xbox-nano-controller-is-smaller-cheaper-and-rechargeable",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Xbox",
+        "コントローラー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ゲーミングスマホ「紅魔12 Pro+」発表、空冷と水冷を両搭載",
+      "summary_ja": "ゲーミングスマートフォンブランドの紅魔（REDMAGIC）から、新型「紅魔12 Pro+」が発表された。独自の冷却技術として風冷（空冷）と水冷の双方を組み合わせた放熱システムを搭載している。価格は6999元からとなっている。",
+      "source": "雷科技",
+      "url": "https://www.leikeji.com/article/79997",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "REDMAGIC",
+        "ゲーミングスマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "中国の階躍終端、AIエージェント特化スマホ「STEPX Neo」発表",
+      "summary_ja": "階躍終端（StepFun）は大規模AIモデルをネイティブ統合したエージェント特化型スマートフォン「STEPX Neo」を正式発表した。すりガラスの背面パネルに初期コンピュータや回路のモチーフを取り入れたレトロフューチャー調のデザインを採用している。端末上でAIエージェントが自律的に動作する新たな形態を提示している。",
+      "source": "智源社区",
+      "url": "https://hub.baai.ac.cn/view/58699",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スマートフォン",
         "AIスマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "アップル初の折りたたみ「iPhone Duo」、画面修理費に注目",
-      "summary_ja": "米アップル（Apple）初の折りたたみスマートフォン「iPhone Duo」が、中国で10月16日に予約開始、10月23日に発売されます。中国での価格は1万5999元からですが、保証外での内側ディスプレイ交換費用が約8000元（7998元）に達することが発表され関心を集めています。",
-      "source": "中关村在线手机",
-      "url": "https://mobile.zol.com.cn/1260/12603908.html",
-      "score": 85,
-      "commercial_score": 85,
-      "product_keywords": [
-        "iPhone Duo",
-        "Apple iPhone"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "マイクロソフト、約99gの超小型Xbox Nanoコントローラー発表",
-      "summary_ja": "米マイクロソフト（Microsoft）は、純正ゲームコントローラーの新モデル「Xbox Nano コントローラー」を発表しました。本体重量は約99グラムと軽量で小型化されており、ゲーム機本体だけでなくスマートフォンやPCでの利用にも対応しています。",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/10/15/5587.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Xbox コントローラー",
-        "Xbox Nano"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "エイスース、120Hz有機EL搭載の薄型ノートPCを発売",
-      "summary_ja": "台湾エイスース（Asus）は、薄型軽量のビジネス向けノートPC「ExpertBook A7」を発売しました。アルミニウム筐体に120Hz駆動の有機ELディスプレイやガラス製タッチパッドを備え、Intel Coreプロセッサの採用により軽負荷時に最長26時間の駆動が可能です。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Asus-releases-new-MacBook-Air-rival-with-metal-design-16-GB-RAM-and-120-Hz-OLED-display.1423190.0.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ASUS ノートパソコン",
-        "ExpertBook"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アップル、英国でスマートホーム製品群を12月に展開へ",
-      "summary_ja": "米アップル（Apple）は、「Home Collection」として新たなスマートホーム向け機器群を2026年12月に英国で展開します。家庭内の環境を連携させる新デバイスの導入が予定されています。",
-      "source": "T3",
-      "url": "https://www.t3.com/home-living/smart-home/apples-new-smart-home-range-with-lg-explained-whats-included-and-how-much-do-they-cost",
+      "title_ja": "栄耀、1万mAh超え大容量電池スマホ「WIN2」の予告価格を公表",
+      "summary_ja": "栄耀（Honor）の幹部が、10月21日に発表予定の新シリーズ「荣耀WIN2」の情報を公表した。全モデルで10,000mAhを超える大容量バッテリーを搭載し、12GBメモリと512GBストレージ構成の価格は補助金適用後で5499元となる。同等性能の機種と比べて手頃な価格設定が図られている。",
+      "source": "CNMO",
+      "url": "https://m.cnmo.com/news/820395.html",
       "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "Apple Home",
-        "スマートホーム"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "Razer、ポケモン30周年を記念したゲーミングヘッドセット発売",
-      "summary_ja": "ゲーミングデバイスの米レーザー（Razer）は、「ポケットモンスター」シリーズ30周年を記念した特別仕様のヘッドセット3種類を発売しました。リザードン、ルカリオ、ニンフィアをあしらったデザインで、価格は109.99ドルから設定されています。",
-      "source": "SoundGuys",
-      "url": "https://www.soundguys.com/razer-pokemon-themed-headphones-launched-164679/",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Razer ヘッドセット",
-        "Razer ポケモン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国で2K・185Hz対応スマホ画面発表、2200nitsを記録",
-      "summary_ja": "中国ディスプレイ大手のヴィジョノックス（Visionox）は、清華大学およびiQOOと共同で、2K解像度と185Hzの高駆動に対応するスマートフォン向け有機EL画面を発表しました。全画面ピーク輝度2200nitsを達成し、屋外の強い日差しの下でも高い視認性を保ちます。この画面は新型機「iQOO Neo12」に初搭載されます。",
-      "source": "凤凰网",
-      "url": "https://pingce.ifeng.com/c/8xDzzUQCdVc",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "iQOO Neo",
-        "vivo スマホ"
+        "Honor",
+        "スマートフォン",
+        "SIMフリー"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "シャオミが新スマホ「Xiaomi 17T」国内投入、割引施策を展開",
-      "summary_ja": "中国のシャオミ（Xiaomi）は、ハイエンドスマートフォンの「Xiaomi 17T」シリーズ2機種を日本国内向けに投入しました。同社はキャンペーンによる購入割引に注力しており、ユーザーの賢い活用が呼びかけられています。",
-      "source": "日経クロステック Active",
-      "url": "https://active.nikkeibp.co.jp/atcl/act/19/00685/090200039/",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Xiaomi 17T",
-        "Xiaomi スマホ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "RTX 5090と最大128GBメモリ搭載の高性能ノートPC発表",
-      "summary_ja": "TuxedoはハイエンドノートPC「Stellaris 16 Gen 8」を発表しました。24コアのIntel Core Ultra 9 275HXやGeForce RTX 5090 Laptop GPUを採用し、最大128GBのメモリ構成や豊富な接続ポートを備えています。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/RTX-5090-powered-gaming-laptop-arrives-with-up-to-128-GB-RAM-and-plenty-of-ports.1424110.0.html",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "RTX 5090 ノートPC",
-        "ゲーミングノートPC"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "カロス、大画面と電池持ちを強化したスポーツウォッチ発表へ",
-      "summary_ja": "スポーツ機器ブランドのカロス（COROS）は、新型GPSウォッチ「COROS PACE 4 Pro」を2026年10月21日に発売することを明らかにしました。耐久系競技のアスリート向けに、軽量素材の採用や画面の大型化、バッテリー持続時間の向上が図られています。",
-      "source": "Pokde.Net",
-      "url": "https://pokde.net/gadget/wearable/coros-pace-4-pro-launch",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "COROS PACE",
-        "ランニングウォッチ",
-        "スマートウォッチ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "オッポ、新型タブレットとイヤホンを10月21日に英国投入",
-      "summary_ja": "中国オッポ（OPPO）は、タブレット端末「Pad 5 Pro」とワイヤレスイヤホン「Enco X4」を2026年10月21日に英国市場へ投入します。公式の告知画像により、当日夕方の発表イベントで詳細が明かされる見通しです。",
-      "source": "Business Upturn",
-      "url": "https://businessupturn.com/technology/gadgets/oppo-to-launch-pad-5-pro-and-enco-x4-in-the-uk-on-october-21/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "OPPO タブレット",
-        "OPPO イヤホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "豆包スマホ、AI自動操作を拒否する主要アプリ一覧を公表",
-      "summary_ja": "バイトダンス（ByteDance）系の豆包スマホアシスタントは、画面の自動操作権限に関する協定の進捗を発表しました。主要サービスである微信（WeChat）や淘宝（タオバオ）、支付宝（アリペイ）などが、安全面や仕様上の観点からAIによる自動操作を拒否する対象として公表されています。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1087770369_114988",
-      "score": 75,
-      "commercial_score": 40,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "オナー、50秒で10度冷却するファン搭載ゲーム向けスマホ",
-      "summary_ja": "中国オナー（Honor）は、新型スマートフォン「WIN2」シリーズに採用する立体冷却技術を発表しました。業界初となるデュアル冷却ファンを内蔵し、50秒で本体温度を10度下げられる構造により、長時間の高負荷ゲームプレイを支援します。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1087812163_392936",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Honor スマホ",
-        "オナー スマホ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "エレコム、16K画質対応のHDMI 2.2ケーブルを11月中旬発売",
-      "summary_ja": "エレコムは、国内初認証となる最新規格「HDMI 2.2」に準拠したHDMIケーブル「CAC-HD22BKシリーズ」を11月中旬に発売します。本製品は16K画質の伝送に対応したUltra96ケーブルとなっています。",
-      "source": "BCN Retail",
-      "url": "https://www.bcnretail.com/news/detail/20261015_668261.html",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "エレコム HDMIケーブル",
-        "CAC-HD22BK",
-        "HDMI 2.2"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "CIO、端子内蔵で直挿しできる5000mAhバッテリーの予約開始",
-      "summary_ja": "CIOは、折りたたみ式のUSB-C端子を内蔵した容量5000mAhのモバイルバッテリー「CIO Mate Powerbank004」の予約販売を開始しました。ケーブルを使わずにスマートフォンへ直接挿して給電できます。",
+      "title_ja": "サイバーガジェット、Switch2ドック対応の65W急速充電器を発売",
+      "summary_ja": "サイバーガジェットは、最大65W出力に対応した巻取ケーブル内蔵のType-C急速充電器を発表した。3台の機器を同時に充電できるほか、Switch2本体やSwitchドックへの給電にも対応する。ケーブルをすっきりと収納して手軽に持ち運べる設計となっている。",
       "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-15-43212-711/",
-      "score": 70,
-      "commercial_score": 95,
+      "url": "http://www.excite.co.jp/news/article/Atpress_639991/",
+      "score": 75,
+      "commercial_score": 90,
       "product_keywords": [
-        "CIO モバイルバッテリー",
-        "CIO Mate Powerbank004"
+        "サイバーガジェット",
+        "急速充電器",
+        "Type-C"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "スマホからPCを遠隔再起動、「Link to Windows」に新機能",
-      "summary_ja": "マイクロソフト（Microsoft）のAndroid向けアプリ「Link to Windows」に、連携しているWindows PCを遠隔操作できる機能が加わりました。最新のベータ版にて、離れた場所からPCのシャットダウンや再起動、スリープへの移行を行えるようになっています。",
-      "source": "スマホダイジェスト",
-      "url": "https://sumahodigest.com/?p=73740",
-      "score": 70,
-      "commercial_score": 40,
+      "title_ja": "ビクター、低音強化と音漏れ低減を図ったオープンイヤー型イヤホン発売",
+      "summary_ja": "ビクター（Victor）からイヤーフック型の完全ワイヤレスイヤホン「HA-NP80T」が登場した。耳をふさがない構造ながら、大型ドライバーによって力強い低音を実現し、独自の技術で音漏れを低減している。金属芯入りのフックを採用することで、装着時のズレにくさにも配慮された。",
+      "source": "週刊アスキー",
+      "url": "https://weekly.ascii.jp/elem/000/004/441/4441901/",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ビクター",
+        "イヤホン",
+        "ワイヤレスイヤホン"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "エイサー、背面にサブ画面を備えた新型スマートフォンを発売",
-      "summary_ja": "台湾エイサー（Acer）は、中価格帯のスマートフォン「Acer Sospiro A70」を発売しました。カメラユニット部分にサブディスプレイを搭載しており、6400万画素のメインカメラを用いた自撮りが可能なほか、microSDカードスロットも備えています。",
+      "title_ja": "レノボ、17時間駆動バッテリーと32GBメモリの廉価ノートPC発売",
+      "summary_ja": "レノボ（Lenovo）は欧州および北米地域に向けて、手頃な価格の新型ノートPC「IdeaPad Vibe 14AKP12」の販売を開始した。14インチのディスプレイとAMD Ryzenプロセッサを搭載し、最大32GBのRAMを選択できる。公式テストにおいて17時間以上持続するロングバッテリーを備えている。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Acer-Sospiro-A70-launches-with-rear-display-and-microSD-slot.1423958.0.html",
-      "score": 70,
-      "commercial_score": 75,
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-budget-laptop-with-up-to-32-GB-RAM-and-over-17-hours-battery-life.1425176.0.html",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "Acer スマホ"
+        "Lenovo",
+        "IdeaPad",
+        "ノートパソコン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "1MORE、高音質ノイズ低減オーバーイヤーヘッドホン発表",
-      "summary_ja": "音響ブランドのワンモア（1MORE）は、新型オーバーイヤーヘッドホン「SonoFlow Max HQ60」を発表しました。没入感のあるサウンド再生性能と高度なノイズキャンセリング技術を組み合わせ、高音質な音楽体験を提供します。",
-      "source": "巴士的報",
-      "url": "https://www.bastillepost.com/global/article/6253860-1more-sonoflow-max-over-ear-headphones-hq60-set-a-new-standard-for-immersive-sound-and-noise-cancellation",
+      "title_ja": "アンカー、画面表示と電池保護機能を備えたノートPC充電器を発表",
+      "summary_ja": "アンカー（Anker）は新型充電器「Anker Laptop Charger Pro」を10月22日に投入する。最大100W出力のUSB-Cポートを1基備え、機器検知やケア充電モードに対応したスマートディスプレイを搭載する。バッテリーの寿命を最大40%延ばすとされている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Anker-launching-new-laptop-charger-with-display-and-battery-health-features-on-October-22.1425256.0.html",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker",
+        "充電器",
+        "USB-C"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "アルファシータ、騒音下でも正確に聴き取れる無線DJヘッドホン発表",
+      "summary_ja": "アルファシータ（AlphaTheta）は、ワイヤレスDJ用ヘッドホン「HDJ-F9」を発表した。騒がしいDJブースのような環境下でも、正確な音のモニタリングができるよう設計されている。ケーブルに縛られず自由な動きでプレイできる製品となっている。",
+      "source": "DJ Mag",
+      "url": "https://djmag.com/tech/alphatheta-unveils-new-wireless-dj-headphones-hdj-f9",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "DJヘッドホン",
+        "ワイヤレスヘッドホン",
+        "AlphaTheta"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ヴィジョノックス、清華大やiQOOと高精細・低消費電力の新画面発表",
+      "summary_ja": "ディスプレイ大手のヴィジョノックス（Visionox）は、清華大学およびスマートフォンブランドのiQOOと共同で新たなディスプレイ技術の成果を発表した。高解像度、超高リフレッシュレート、低消費電力の3つを同時に両立する材料革新を実現している。次世代スマートフォンの画面性能向上につながる技術として期待される。",
+      "source": "东方财富",
+      "url": "https://wap.eastmoney.com/a/202610163897333437.html",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "iQOO",
+        "スマートフォン"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "レジャー、一般アプリも動くスマホ型暗号資産端末「Atom」を発表",
+      "summary_ja": "暗号資産ハードウェア大手のレジャー（Ledger）は、スマートフォン型の新端末「Atom」を発表した。一般的なメッセージングアプリなどを利用できる一方で、暗号資産を安全に管理するための保護モードへと切り替える機能を備える。日常の利便性と厳重なセキュリティの両立を目指している。",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/zh/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Ledger",
+        "ハードウェアウォレット",
+        "暗号資産"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "パイオニア、ドラレコ映像をスマホで確認できるカードリーダー発売",
+      "summary_ja": "パイオニアのカロッツェリアから、USBカードリーダー「CD-SDR001」が登場する。ドライブレコーダーに記録されたmicroSDカードの映像を、スマートフォン上で素早く手軽に確認できる。トラブル時などの現場ですぐに映像を確かめたい場面で役立つアイテムとなっている。",
+      "source": "ベストカーWeb",
+      "url": "https://bestcarweb.jp/news/1653103",
       "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "1MORE ヘッドホン",
-        "SonoFlow"
+        "パイオニア",
+        "カードリーダー",
+        "カロッツェリア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "CIOの保温器兼Qi2ワイヤレス充電器がグッドデザイン賞を受賞",
+      "summary_ja": "CIOの「CIO MugWarmer II」が、2026年度グッドデザイン賞を受賞した。本製品はマグカップの保温器と、最新規格であるQi2対応のワイヤレス充電器の機能を1台で兼ね備えている。デスク上で温かい飲み物を維持しつつ、スマートフォンの充電にも活用できる。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000710_000043212/",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "CIO",
+        "ワイヤレス充電器",
+        "Qi2"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "華為、100W急速充電と内蔵ケーブルを備えた2万mAhモバイル電源",
+      "summary_ja": "華為（ファーウェイ）は、容量20,000mAhの新型モバイルバッテリーを発売した。ケーブルが内蔵されているほかUSB-Cポートを1つ備え、最大100Wの急速充電に対応している。価格は499人民元（約74.56ドル）となっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/High-capacity-Huawei-power-bank-launches-with-100W-fast-charging-and-built-in-cable.1425041.0.html",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "モバイルバッテリー",
+        "急速充電",
+        "大容量"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "スマホ写真を数分でシールにできる小型印刷機「StickerPix」",
+      "summary_ja": "クリカット（Cricut）から新端末「Cricut StickerPix」が登場した。写真や好みのデザインを取り込み、わずか数分でオリジナルのステッカーやプリントを作成できる。手軽に自分だけのグッズを作れるため、ギフト用途としても注目されている。",
+      "source": "Wales Online",
+      "url": "https://www.walesonline.co.uk/whats-on/shopping/cricut-stickerpix-print-cut-machine-34761358",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "シールプリンター",
+        "フォトプリンター",
+        "写真印刷"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "水やコードが不要な充電式アロマ芳香器「AIRI」が登場",
+      "summary_ja": "ニクラ（Nikura）から充電式のアロマディフューザー「AIRI」が登場した。水を入れる手間や電源ケーブルの接続が不要な設計となっており、置き場所を選ばずに使用できる。手入れや配線の煩わしさを解消したルームフレグランス機器として注目されている。",
+      "source": "NationalWorld",
+      "url": "https://www.nationalworld.com/recommended/nikura-airi-waterless-diffuser-nikura-airi-review-waterless-diffuser-waterless-diffuser-review-nikura-diffuser-rechargeable-diffuser-essential-oil-diffuser-fragrance-oil-diffuser-nebulising-diffuser-best-waterless-diffuser-9078782",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "アロマディフューザー",
+        "充電式",
+        "コードレス"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"

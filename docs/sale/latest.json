@@ -1,73 +1,95 @@
 {
   "genre": "sale",
   "genre_label_ja": "セール・キャンペーン",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T16:00:20+09:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T15:56:01+09:00",
   "stories": [
     {
-      "title_ja": "Anker、楽天市場のお買い物マラソンで対象製品を最大50％オフ",
-      "summary_ja": "楽天市場でお買い物マラソンが開催されており、Ankerが対象製品を最大50％引きで販売するセールを実施しています。買いまわりによるポイントアップも行われており、開催期間は10月17日までとなっています。",
-      "source": "気になる、記になる…",
-      "url": "https://taisy0.com/2026/10/15/228933.html",
+      "title_ja": "ANAが国内線タイムセール開催、羽田発着路線が片道1万1000円から",
+      "summary_ja": "ANAは10月16日0時から22日23時59分まで、国内航空券のタイムセールを実施している。羽田から福岡や長崎、熊本などの路線が片道1万1000円から設定されており、対象となる搭乗期間は12月1日から2027年3月27日までとなっている。",
+      "source": "トラベル Watch",
+      "url": "https://travel.watch.impress.co.jp/docs/news/2148705.html",
       "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ANA",
+        "航空券",
+        "国内線"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ワンピースカード「世界最強の戦士」が再販、楽天ブックス等で抽選受付",
+      "summary_ja": "「ONE PIECEカードゲーム」の人気ブースターパック「世界最強の戦士」が再販されることが決定した。現在、楽天ブックスやAmazonなどの取扱店舗において抽選販売のエントリー受付が実施されている。",
+      "source": "電撃オンライン",
+      "url": "https://dengekionline.com/article/202610/91090",
+      "score": 80,
       "commercial_score": 95,
       "product_keywords": [
-        "Anker"
+        "ONE PIECEカードゲーム",
+        "世界最強の戦士",
+        "ブースターパック"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "CIO、楽天お買い物マラソンで最新製品などを最大50％オフ",
-      "summary_ja": "CIOが楽天市場のお買い物マラソンに合わせて、対象製品を最大50％オフで販売するセールを開催しています。USB充電関連の製品や最新アイテムが対象となっており、10月17日まで実施されます。",
-      "source": "気になる、記になる…",
-      "url": "https://taisy0.com/2026/10/15/228937.html",
-      "score": 75,
-      "commercial_score": 95,
-      "product_keywords": [
-        "CIO",
-        "充電器"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "シャオミ、アマゾンのセールで9.7型タブレットなどを特価販売",
-      "summary_ja": "アマゾンのプライム感謝祭にて、シャオミ（Xiaomi）の各種製品が特別価格で販売されています。先行セールも含めて展開されており、9.7インチのタブレットが19,980円で購入できます。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/akibapc_watch/trend/akibapc_watch-2147841",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "シャオミ",
-        "タブレット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "楽天市場、Google Play ギフトコードの200円引クーポンを配布",
-      "summary_ja": "楽天市場において、Google Play ギフトコードに使える200円オフクーポンの配布が行われています。開催中のお買い物マラソンに合わせた企画として提供されています。",
-      "source": "気になる、記になる…",
-      "url": "https://taisy0.com/2026/10/14/228925.html",
+      "title_ja": "L.L.Beanの軽量ジャケットがAmazon先行セールで20％オフ",
+      "summary_ja": "Amazonでは10月16日から19日に開催される「プライム感謝祭」に先立ち、先行セールを実施している。セール対象として、暖かさと軽さを両立し3シーズン着回せるL.L.Beanのメンズジャケットが20％オフで販売されている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19882545",
       "score": 70,
       "commercial_score": 90,
       "product_keywords": [
-        "Google Play ギフトコード"
+        "LLBean",
+        "ジャケット",
+        "アウター"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "楽天トラベル、蔵王の温泉宿「三木屋 参蒼来」が実質30％オフ",
-      "summary_ja": "楽天トラベルのスーパーDEALにて、宿泊施設「三木屋 参蒼来」の対象プランが実質30％オフで案内されています。予約と宿泊で楽天ポイントが高還元され、蔵王連峰の景観や蔵王牛の料理を楽しめます。",
-      "source": "All About ニュース",
-      "url": "https://news.allabout.co.jp/articles/o/130839/",
-      "score": 65,
-      "commercial_score": 85,
+      "title_ja": "バッファローのスマホ対応外付けSSDがAmazon先行セールで15％オフ",
+      "summary_ja": "Amazonが開催する「プライム感謝祭」の先行セールにおいて、バッファローの外付けポータブルSSDが15％オフで登場している。スマートフォンの写真や動画の保存に適したストレージ製品など、多彩なジャンルの商品がセール価格となっている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19881666",
+      "score": 70,
+      "commercial_score": 90,
       "product_keywords": [
-        "楽天トラベル",
-        "三木屋 参蒼来"
+        "バッファロー",
+        "ポータブルSSD",
+        "外付けSSD"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ORICOのSSD対応10-in-1ドッキングステーションが40％オフ",
+      "summary_ja": "ORICOのM.2 SSD対応10-in-1ドッキングステーションが、期間限定で通常1万3599円から40％オフの8100円で販売されている。最大10Gbpsの転送速度や4K/60Hz映像出力、100W PD充電、冷却ファンを搭載しており、10月31日まで専用の割引コードが利用できる。",
+      "source": "TikGadget",
+      "url": "https://www.tikgadget.jp/orico-10-in-1-m2-docking-station-sale-2026/",
+      "score": 70,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ORICO",
+        "ドッキングステーション",
+        "M2 SSD"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ラコステのトラックジャケットがAmazon先行セールで46％オフ",
+      "summary_ja": "Amazonの「プライム感謝祭」先行セールにおいて、ラコステのトラックジャケットがセール対象となっている。46％オフの割引が適用され、1万5000円以下の特別価格で提供されている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19883066?news_ref=search_search",
+      "score": 70,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ラコステ",
+        "トラックジャケット",
+        "LACOSTE"
       ],
       "country": "jp",
       "country_label_ja": "日本"
