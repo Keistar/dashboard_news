@@ -1,0 +1,55 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:33:21+09:00",
+  "stories": [
+    {
+      "title_ja": "200年以上未解読だったナポレオンの戦時暗号をAIが解読",
+      "summary_ja": "ナポレオンが作成を命じた戦時暗号が、AIによりわずか数時間で解読された。200年以上にわたり解けなかった歴史的史料の解析において、AIが重要な役割を果たしている。",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/17/2003866143",
+      "score": 75,
+      "commercial_score": 30,
+      "product_keywords": [
+        "暗号",
+        "歴史"
+      ]
+    },
+    {
+      "title_ja": "金融機関向けに自然言語でレポートを作成するAI機能が登場",
+      "summary_ja": "金融向けITを提供するキネクティブ（Kinective）が、データ分析用のAIエージェントを発表した。自然言語によるプロンプトからダッシュボードやレポートを自動で作成し、金融機関の業務を支援する。",
+      "source": "Financial IT",
+      "url": "https://financialit.net/news/artificial-intelligence/kinective-enhances-data-intelligence-capabilities-ai-developer-agents",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "データ分析"
+      ]
+    },
+    {
+      "title_ja": "アフリカの学校でAI学習ツールを試験導入",
+      "summary_ja": "アフリカの学校でAI教育ツールの試験導入が行われている。初期の試行では生徒の学習効率向上が確認されており、今後は導入の規模拡大が課題となっている。",
+      "source": "African Business",
+      "url": "https://african.business/2026/10/long-reads/artificial-intelligence-is-coming-to-african-schools",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "学習用端末"
+      ]
+    },
+    {
+      "title_ja": "英国のカレッジが企業向けに3日間の短期AI研修を開始",
+      "summary_ja": "英国のグロスターシャー・カレッジが、企業従業員向けの3日間の短期AI研修を開始した。公的な資金を活用し、地域の企業が抱えるデジタルスキルの不足解消を支援する。",
+      "source": "SoGlos",
+      "url": "https://www.soglos.com/news/business/gloucestershire-college-launches-short-ai-training-to-help-businesses-tackle-digital-skills-gaps/27345/",
+      "score": 65,
+      "commercial_score": 50,
+      "product_keywords": [
+        "スキルアップ"
+      ]
+    }
+  ]
+}

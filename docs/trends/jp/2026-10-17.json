@@ -1,0 +1,195 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T16:07:32+09:00",
+  "trends": [
+    {
+      "keyword": "iPhone Duo",
+      "reason_ja": "アップル初となる折りたたみスマートフォン「iPhone Duo」の予約受付が始まり即完売となったため。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "iPhone Duo",
+        "折りたたみスマホ",
+        "Apple"
+      ],
+      "product_keywords_ja": [
+        "iPhone Duo",
+        "折りたたみスマホ",
+        "Apple"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップル初の折りたたみスマホが即完売",
+          "summary_ja": "発売前から高い関心を集めていた折りたたみ式端末の予約が開始され、初回分が早々に売り切れた。高価格帯でありながら需要が殺到し、出荷予定日が大幅に先送りされている。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/5ea27bc0f46f70d1b8c7821e0166630d8e3205e5"
+        },
+        {
+          "title_ja": "折りたたみiPhoneの納期が来年以降に延期",
+          "summary_ja": "予約受付の開始直後から注文が相次ぎ、納期が一気に延びる事態となっている。すべてのカラーバリエーションで品薄状態が続いている。",
+          "source": "BigGo ファイナンス",
+          "url": "https://finance.biggo.jp/news/1be4f845-a0ff-4baa-8f9d-33dc1588e6c4"
+        }
+      ]
+    },
+    {
+      "keyword": "プライム感謝祭",
+      "reason_ja": "アマゾンの大型セール「プライム感謝祭」が開催され、注目のセール品や人気商品が話題を集めているため。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Amazon セール",
+        "プライム感謝祭",
+        "ガジェット"
+      ],
+      "product_keywords_ja": [
+        "Amazon セール",
+        "プライム感謝祭",
+        "ガジェット"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アマゾン秋の会員限定大型セールが開幕",
+          "summary_ja": "会員への日頃の感謝を込めた秋の大規模セールが開催されている。値引きされた注目の機器やおすすめ商品が多数紹介されている。",
+          "source": "ガジェットレビューブログ",
+          "url": "https://digital-style.jp/amazon-prime-fes"
+        },
+        {
+          "title_ja": "プライム感謝祭でアップル製品などが大幅値引き",
+          "summary_ja": "待望の大型セールが始まり、先行セールから大きな盛り上がりを見せている。人気ブランドのデジタル端末や高級家電が特別価格で提供されている。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/expert/articles/a6b840495c958d2b37c3700bd9c9acd17c68d17c"
+        }
+      ]
+    },
+    {
+      "keyword": "ウォークマン",
+      "reason_ja": "ソニーが金メッキ無酸素銅を採用した約65万円の超高級ウォークマン新型モデルを発表したため。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "ウォークマン",
+        "ソニー",
+        "ポータブルオーディオ"
+      ],
+      "product_keywords_ja": [
+        "ウォークマン",
+        "ソニー",
+        "ポータブルオーディオ"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ソニーが音質にこだわった新型携帯プレーヤー発表",
+          "summary_ja": "携帯音楽プレーヤーの新たなモデル群が発表された。最上位モデルには金メッキを施した銅が用いられ、高品質な音を追求した設計となっている。",
+          "source": "テレ朝NEWS",
+          "url": "https://news.tv-asahi.co.jp/news_economy/articles/000540895.html"
+        },
+        {
+          "title_ja": "ソニーが金メッキ銅採用の旗艦ウォークマン発表",
+          "summary_ja": "携帯音楽プレーヤーの新たな旗艦モデルが登場した。背面カバーに高い電気伝導性を持つ素材を採用することで音の微細な信号を伝え、没入感を高めている。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC160QX0W6A011C2000000/"
+        }
+      ]
+    },
+    {
+      "keyword": "ローチケ",
+      "reason_ja": "日向坂46のアリーナツアー「ひなくり2026」の開催決定とインタビューが公開されたため。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "日向坂46 グッズ",
+        "ライブチケット",
+        "アイドルグッズ"
+      ],
+      "product_keywords_ja": [
+        "日向坂46 グッズ",
+        "ライブチケット",
+        "アイドルグッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "日向坂46が冬の恒例ライブを数年ぶりに開催へ",
+          "summary_ja": "人気アイドルグループの恒例イベントが復活することが生配信で発表された。メンバーにとっても待望のツアーとなり、喜びの声が語られている。",
+          "source": "クランクイン！",
+          "url": "https://www.crank-in.net/interview/192070/1"
+        }
+      ]
+    },
+    {
+      "keyword": "京セラドーム",
+      "reason_ja": "LE SSERAFIMの新曲映像公開や初のヨーロッパツアー開幕が話題となったため。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "LE SSERAFIM アルバム",
+        "K-POP グッズ",
+        "CD"
+      ],
+      "product_keywords_ja": [
+        "LE SSERAFIM アルバム",
+        "K-POP グッズ",
+        "CD"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "LE SSERAFIMが新曲の映像作品を公開",
+          "summary_ja": "最新シングルに収録されている楽曲のビジュアライザーが公開された。ライブパフォーマンスや日常の様子を組み合わせた映像で構成されている。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/193f21aaa669869c2356b51e92f7b70a588b78c0"
+        },
+        {
+          "title_ja": "LE SSERAFIMが初の欧州ツアーをスタート",
+          "summary_ja": "人気グループが欧州各地を巡るツアーを開幕させた。現地の大型アリーナで初日公演が行われ、メンバーが特別な思いを述べている。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/wowkorea/entertainment/wowkorea-20261016wow062"
+        }
+      ]
+    },
+    {
+      "keyword": "ベイスターズ",
+      "reason_ja": "クライマックスシリーズでDeNAの尾形投手が古巣相手に好投し勝利に貢献したため。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "横浜DeNAベイスターズ グッズ",
+        "プロ野球 ユニフォーム",
+        "応援メガホン"
+      ],
+      "product_keywords_ja": [
+        "横浜DeNAベイスターズ グッズ",
+        "プロ野球 ユニフォーム",
+        "応援メガホン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "DeNAが阪神を破りCSで連勝を飾る",
+          "summary_ja": "プロ野球のポストシーズンにおいて接戦を制し連勝を果たした。初先発となった投手の力投がチームの勝利を呼び込んでいる。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/10e5dadbba7fcec2fd279c7b76bea4afa523f2ea"
+        },
+        {
+          "title_ja": "初先発の尾形が無失点の好投でチームに貢献",
+          "summary_ja": "重要な一戦に先発登板し、相手打線を無失点に抑え込む投球を見せた。降板後にはチームへの合流を実感する印象的な場面も話題となった。",
+          "source": "Full-Count",
+          "url": "https://full-count.jp/2026/10/17/post2032296/"
+        }
+      ]
+    }
+  ]
+}
