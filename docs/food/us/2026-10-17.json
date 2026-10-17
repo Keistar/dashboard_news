@@ -1,0 +1,57 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:48:05+09:00",
+  "stories": [
+    {
+      "title_ja": "米ケンタッキーが飲料をペプシからコカ・コーラに全面切り替えへ",
+      "summary_ja": "米国のケンタッキーフライドチキン（KFC）は、国内3,718店で提供する飲料をペプシコからコカ・コーラへ移行すると発表しました。40年にわたる提携を終了し、1月から切り替えが始まります。なお米国外の店舗やタコベルでは従来の供給が継続されます。",
+      "source": "QSR Web",
+      "url": "https://www.qsrweb.com/news/kfc-us-tastes-the-feeling-as-it-switches-from-pepsi-to-coke/",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "コカコーラ",
+        "ペプシ"
+      ]
+    },
+    {
+      "title_ja": "米マクドナルドがディズニー悪役仕様のハロウィン容器セットを復活",
+      "summary_ja": "米マクドナルドは、ハロウィン時期に人気を博すバケツ型容器付きセットの復活を発表しました。今回はディズニー・ヴィランズと提携し、新デザイン5種類が用意されます。",
+      "source": "Allrecipes",
+      "url": "https://www.allrecipes.com/mcdonalds-disney-villains-boo-buckets-12173909",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "ディズニー グッズ"
+      ]
+    },
+    {
+      "title_ja": "チックフィレイが10年ぶりの新作スパイシーソースを全米発売へ",
+      "summary_ja": "米ファストフードチェーンのチックフィレイ（Chick-fil-A）が、10年ぶりとなる定番ラインナップの新作ソースを発表しました。スパイシー仕立てのソースで、11月16日より小袋とボトルの2種類で全米発売されます。",
+      "source": "Southern Living",
+      "url": "https://www.southernliving.com/spicy-chick-fil-a-sauce-12173871",
+      "score": 70,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "タコ・カバナがチキン料理やエロテなど秋の大型新作メニューを投入",
+      "summary_ja": "米メキシカンチェーンのタコ・カバナ（Taco Cabana）が、2026年で最大規模となる新メニューを発表しました。チキン・ポブラノや具沢山のとうもろこし料理エロテ、特製チーズケーキなどが10月21日から期間限定で販売されます。",
+      "source": "QSR Web",
+      "url": "https://www.qsrweb.com/news/taco-cabana-launches-chicken-poblano-lineup-debuts-loaded-elotes-menu-platform/",
+      "score": 65,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "米ワガママが和牛スライダーや韓国風チキンなど新作料理を発表",
+      "summary_ja": "レストランチェーンのワガママ（wagamama）が、26種の新料理と15種のアジア風ドリンクを公開しました。和牛スライダーや韓国風バーベキューチキン、紫芋を使ったカクテルなど多彩な品が提供されます。",
+      "source": "The Zebra",
+      "url": "https://thezebra.org/2026/10/16/wagamama-new-menu-dishes-asian-inspired-drinks/",
+      "score": 65,
+      "commercial_score": 50
+    }
+  ]
+}

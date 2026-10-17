@@ -1,195 +1,290 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T15:40:52+09:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:41:06+09:00",
   "stories": [
     {
-      "title_ja": "タイガー、両面焼きグリルができる自動調理鍋「グリシア」発売へ",
-      "summary_ja": "タイガー魔法瓶は、1台16役のマルチグリルクッカー「GRISIA（グリシア）」を11月21日に発売する。上下にカーボンヒーターとIHヒーターを搭載し、業界初となる両面焼きグリル調理に対応する。価格は税込み4万9500円となっている。",
-      "source": "電波新聞デジタル",
-      "url": "https://dempa-digital.com/article/727814",
+      "title_ja": "ロボロック、部屋の隅まで清掃する新型ロボット掃除機を発売",
+      "summary_ja": "ロボロックは、新型ロボット掃除機「Roborock Qrevo 2 Pro」を発売した。新開発のリバーシブルサイドブラシで部屋の隅まで清掃できるほか、モップの洗い残しを抑える多機能充電ドックを備えている。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article_photo/list/?article_id=1375702&pid=15778661",
       "score": 85,
       "commercial_score": 90,
       "product_keywords": [
+        "Roborock",
+        "ロボット掃除機",
+        "Qrevo"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "タイガー、1台16役の自動調理器グリシアを11月に発売",
+      "summary_ja": "タイガー魔法瓶は、自動調理に対応した多機能グリル「マルチグリルクッカーGRISIA」を11月21日に発売する。1台で16役をこなす次世代の調理家電として、日々の料理を支援する。",
+      "source": "BCN Retail",
+      "url": "https://www.bcnretail.com/news/detail/20261016_669771.html",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
         "タイガー魔法瓶",
-        "グリシア",
+        "マルチグリルクッカー",
         "自動調理鍋"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ダイソン、自己洗浄モード搭載の新型水拭き掃除機を発売",
-      "summary_ja": "ダイソン（Dyson）は、水拭き床掃除機「W1 PencilWash + Dok」を349.99ドルで発売した。8万4000本のフィラメントローラーやマグネット式充電ドックを備え、自動セルフクリーニング機能を搭載している。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/dyson-w1-pencilwash-dok-launch-where-to-buy",
-      "score": 85,
-      "commercial_score": 85,
+      "title_ja": "サムスン、18kg洗濯機と14kg乾燥機を発表",
+      "summary_ja": "サムスン（Samsung）は、18キロの洗濯機と14キロの乾燥機を発表した。1回あたりの投入量を増やすことで洗濯の回数を減らし、日々の家事の効率化を後押しする。",
+      "source": "GadgetMatch",
+      "url": "https://www.gadgetmatch.com/samsung-introduces-18kg-washer-and-14kg-dryer/",
+      "score": 80,
+      "commercial_score": 80,
       "product_keywords": [
-        "ダイソン",
-        "水拭き掃除機",
-        "Dyson"
+        "Samsung",
+        "洗濯機",
+        "乾燥機"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ハイセンス、幅65cmで容量501Lの6ドアスリム冷蔵庫を発売へ",
-      "summary_ja": "ハイセンスジャパンは、6ドア冷凍冷蔵庫「HR-FH50S」を10月下旬に発売する。幅と奥行きが各65cmのスリム設計ながら501Lの大容量を備え、冷蔵と冷凍を2つの冷却器で最適に制御する仕様となっている。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/BcnRetail_669752/",
-      "score": 78,
-      "commercial_score": 88,
+      "title_ja": "ニンジャの10台分をこなす多機能オーブンが130ドル引き",
+      "summary_ja": "ニンジャ（Ninja）の「Foodi XL Pro エアフライオーブン」が、米アマゾンで定価から130ドル引きの249.98ドルで販売されている。1台で10役をこなし、エアフライヤーとトースターオーブンを兼ねられる大型卓上オーブンとなっている。",
+      "source": "The Inventory",
+      "url": "https://theinventory.com/ninja-foodi-xl-pro-air-fry-oven-10-in-1-stainless-steel-dt201-a8ec3765",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "ハイセンス",
-        "冷蔵庫",
-        "HR-FH50S"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "スメッグ、鉄板焼きやBBQなど1台3役のマルチグリルを発売",
-      "summary_ja": "イタリアの家電ブランドであるスメッグ（Smeg）が、多彩な調理に対応する新型マルチグリルを発売した。鉄板焼き（グリドル）やホットサンド、バーベキューの機能を1台に集約した卓上調理家電となっている。",
-      "source": "T3",
-      "url": "https://www.t3.com/home-living/kitchen/smegs-new-multigrill-is-a-griddle-toastie-maker-and-bbq-in-one-its-the-ultimate-countertop-appliance",
-      "score": 78,
-      "commercial_score": 88,
-      "product_keywords": [
-        "SMEG",
-        "グリル",
-        "ホットプレート"
+        "Ninja",
+        "オーブン",
+        "エアフライヤー"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "SwitchBot、Appleホーム連携の対応製品や活用ガイドを公開",
-      "summary_ja": "SWITCHBOTは、同社製品やスマート照明ブランドNanoleafの対応機器をAppleの「ホーム」アプリやSiriで活用する方法をまとめたガイドを公開した。カーテンや既存の家電などをAppleのシステムと連携させて操作できるよう案内している。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19886512?news_ref=watch_20_nw19784422",
-      "score": 75,
+      "title_ja": "英アマゾン、ロボロックの毛がらみ防止ロボット掃除機を半額に",
+      "summary_ja": "英アマゾンで、ロボロックのロボット掃除機「Qrevo Curv 2 Pro」が通常価格から半額の599.99ポンドに値下げされた。水拭きに対応するほか毛がらみを防ぐ設計を備えており、600ポンド引きの特価となっている。",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/shopping/40710808/amazon-slashes-roborock-robot-vacuum-50-percent/",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "SwitchBot",
-        "スマートホーム"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ブレビル、新型トースター「Eye Q Toaster」を投入",
-      "summary_ja": "オーストラリア発の家電ブランドであるブレビル（Breville）が、新型トースター「Eye Q Toaster」を発売した。従来の焼き方を変える革新的なモデルとして、Williams Sonomaなどで取り扱いが始まっている。",
-      "source": "Food & Wine",
-      "url": "https://www.foodandwine.com/breville-toaster-eye-q-williams-sonoma-launch-12173996",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Breville",
-        "トースター"
+        "Roborock",
+        "ロボット掃除機",
+        "Qrevo"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "長虹、広州交易会で10種以上の最新AI家電を披露",
-      "summary_ja": "10月15日に開幕した第140回広州交易会で、中国家電大手の長虹（Changhong）が10モデル以上のAI家電新製品を出展した。海外市場に向けてスマートホームや先進技術をアピールしている。",
-      "source": "中国家电网",
-      "url": "https://news.cheaa.com/2026/1016/659944.shtml",
-      "score": 75,
-      "commercial_score": 70,
+      "title_ja": "長虹、人の接近を感知するエアコンなど10種以上のAI家電展示",
+      "summary_ja": "長虹（Changhong）は広交会で十数種類のAI家電を発表した。6メートル離れた場所から人を感知するエアコンや、温度を自動調整する冷蔵庫などが披露された。",
+      "source": "智电网",
+      "url": "http://news.zdwang.com/a/202610/16102251.html",
+      "score": 80,
+      "commercial_score": 75,
       "product_keywords": [
+        "長虹",
+        "AI家電",
         "スマート家電"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ドリュー・バリモアの調理家電ブランドに秋の新色ブラウンが登場",
-      "summary_ja": "俳優ドリュー・バリモアによる米ウォルマート向けのキッチン家電ブランド「Beautiful」から、秋向けの新色が登場した。スタンドミキサーやノンフライヤーなどの人気製品に、落ち着きのあるリッチチョコレートブラウンが展開されている。",
-      "source": "Yahoo",
-      "url": "https://shopping.yahoo.com/home-garden/kitchen/article/drew-barrymores-walmart-kitchen-line-just-dropped-falls-it-color-and-it-makes-any-countertop-look-expensive-205524816.html",
-      "score": 72,
-      "commercial_score": 80,
-      "product_keywords": [
-        "スタンドミキサー",
-        "ノンフライヤー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "豪Kmart、1時間でシャツを乾かせる19ドルの温風乾燥ハンガー",
-      "summary_ja": "オーストラリアのKmartが、19豪ドルで販売するシャツ乾燥器が注目を集めている。加熱支架から穏やかな温風を送り出すことで、1時間以内にシャツなどの小さな衣類を乾燥させ、シワを抑える効果もある。",
-      "source": "澳洲看新闻",
-      "url": "https://vct.news/news/%E6%BE%B3%E6%B4%B2kmart-19%E6%BE%B3%E5%85%83%E5%B0%8F%E5%AE%B6%E7%94%B5%E5%BC%95%E5%85%B3%E6%B3%A8%EF%BC%9A%E8%A1%AC%E8%A1%AB%E4%B8%80%E5%B0%8F%E6%97%B6%E8%83%BD%E5%B9%B2%EF%BC%8C%E8%BF%98%E8%83%BD",
-      "score": 72,
+      "title_ja": "エコバックスのロボット掃除機、週1時間の清掃短縮と高評価",
+      "summary_ja": "エコバックス（ECOVACS）のXシリーズロボット掃除機は、省スペース性と高い清掃性能が評価されている。60平方メートル以下の住宅で95パーセント以上のカバー率を達成し、週に約1時間の清掃時間を節約できるとされている。",
+      "source": "手机新浪网",
+      "url": "https://www.sina.cn/gc/article/nivnkut7410848.html",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "衣類乾燥機",
-        "ハンガー乾燥機"
+        "エコバックス",
+        "ロボット掃除機",
+        "ECOVACS"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "山崎実業、炊飯器の側面に浮かせてくっつくマグネットしゃもじ",
-      "summary_ja": "山崎実業の「マグネットしゃもじ」は、付属のフィルムシートを貼ることで炊飯器の側面に浮かせて収納できるアイテムだ。TPX素材と表面のエンボス加工により、ごはん粒や汚れが付着しにくい工夫が施されている。",
-      "source": "ROOMIE（ルーミー）",
-      "url": "https://www.roomie.jp/2026/10/1905999/",
-      "score": 70,
-      "commercial_score": 95,
+      "title_ja": "ブルーノからスヌーピー柄のほったらかし調理家電が登場",
+      "summary_ja": "ライフスタイルブランドのブルーノ（BRUNO）から、スヌーピーをあしらった家電などの新シリーズが登場した。ほったらかし調理ができるアイテムやおそろいの食器など、全5点が展開される。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/walkerplus/life/walkerplus-1446695",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "山崎実業",
-        "しゃもじ",
-        "マグネット"
+        "BRUNO",
+        "スヌーピー",
+        "調理家電"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "コソリの6Lノンフライヤー「ターボブレイズ」の機能を検証",
-      "summary_ja": "Gulf NewsがCosori（コソリ）の大容量エアフライヤー「TurboBlaze 6L」の性能を検証している。一般的な製品との違いとして、ファンスピードの調整機能や調理の選択肢、手入れのしやすさなどを取り上げている。",
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/best-buys/home-and-kitchen/what-does-the-cosori-turboblaze-6l-offer-that-regular-air-fryers-dont-1.500711300",
-      "score": 70,
-      "commercial_score": 80,
+      "title_ja": "アンカーのロボット掃除機、強力吸引と水拭きの両立で高評価",
+      "summary_ja": "アンカーの「Eufy Robot Vacuum Omni E35」の評価が公開された。強力な吸引力とローラー式の水拭き機構を兼ね備えており、堅実な中価格帯のロボット掃除機として評価されている。",
+      "source": "The Ambient",
+      "url": "https://www.the-ambient.com/reviews/eufy-robot-vacuum-omni-e35-review/",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "COSORI",
-        "ノンフライヤー",
-        "エアフライヤー"
+        "Eufy",
+        "アンカー",
+        "ロボット掃除機"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "プルムウォン、省エネ1等級の小型キムチ冷蔵庫2機種を発売",
-      "summary_ja": "韓国の食品企業プルムウォン（Pulmuone）が、エネルギー消費効率1等級を達成した小型キムチ冷蔵庫2モデルを発売した。中核部品であるコンプレッサーには10年間の無料保証が付帯している。",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/en/business/12177615",
-      "score": 70,
-      "commercial_score": 75,
+      "title_ja": "クイジナートの多機能エアフライヤートースターが100ドル引き",
+      "summary_ja": "クイジナート（Cuisinart）のエアフライヤートースターオーブンが、米ターゲットで100ドル引きの特価となっている。有機フッ素化合物（PFAS）を使用しない多機能な卓上調理家電として販売されている。",
+      "source": "Yahoo",
+      "url": "https://shopping.yahoo.com/home-garden/kitchen/articles/cuisinart-air-fryer-toaster-oven-210312970.html",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "小型冷蔵庫",
-        "キムチ冷蔵庫"
+        "Cuisinart",
+        "エアフライヤー",
+        "トースターオーブン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "新宝股份、広州交易会でキッチン家電など約900点を出展",
-      "summary_ja": "小型家電大手の新宝股份が、第140回広州交易会にて約900品目の製品を披露した。厨房家電や生活家電、ペット家電など幅広い分野で多数のスマート家電を出品している。",
-      "source": "同花顺",
-      "url": "http://stock.10jqka.com.cn/20261015/c680749041.shtml",
-      "score": 70,
-      "commercial_score": 75,
+      "title_ja": "ブラック・アンド・デッカーのレンジ一体型エアフライヤーが特価",
+      "summary_ja": "ブラック・アンド・デッカー（BLACK+DECKER）の1台5役の複合家電が、米アマゾンで163ドルで販売されている。電子レンジとエアフライヤーを兼ね備えており、キッチンの省スペース化に役立つ。",
+      "source": "The Inventory",
+      "url": "https://theinventory.com/black-decker-5-in-1-microwave-oven-air-fryer-combo-0-9-cu-ft-900w-bb019df2",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "キッチン家電",
-        "生活家電"
+        "ブラックアンドデッカー",
+        "電子レンジ",
+        "エアフライヤー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "エコバックス、乾燥速度が2倍のヒートポンプ搭載機を提案",
+      "summary_ja": "エコバックス（ECOVACS）のXシリーズヒートポンプ版は、従来の熱風式に比べて乾燥速度が2倍になり、年間で40〜50パーセントの節電になると分析されている。初期費用は高くなるものの、日々の洗濯や乾燥の手間を減らす選択肢として注目されている。",
+      "source": "手机新浪网",
+      "url": "https://www.sina.cn/gc/article/nivnrap6586258.html",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "エコバックス",
+        "ヒートポンプ",
+        "衣類乾燥機"
       ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ハイアール、複数室で食材を細かく保存できる冷蔵庫を展開",
+      "summary_ja": "ハイアール（Haier）はダブル11商戦に向けて、多室構造で食材を細かく保存できる冷蔵庫のシリーズを展開している。「麦浪」や「云溪」などのモデルが用意され、利用者の買い替え需要に応えている。",
+      "source": "凤凰网",
+      "url": "https://baby.ifeng.com/c/8xGrRID182g",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ハイアール",
+        "冷蔵庫",
+        "Haier"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "サーモスのふたごとレンジ対応な弁当箱、手入れの簡単さで人気",
+      "summary_ja": "サーモス（THERMOS）のパッキンがない弁当箱が、食後の手入れが楽で扱いやすいとして支持を集めている。ふたをしたまま電子レンジで温められる機能性を備え、日々の弁当作りの手間を省く。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/research/articles/4058548/amp/",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "サーモス",
+        "弁当箱",
+        "電子レンジ対応"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ウート、ダイソンやロボロックなどの掃除機を大幅値引き",
+      "summary_ja": "米国の通販サイト「ウート（Woot）」が、大手メーカーの掃除機を対象にした大規模セールを開始した。ダイソンやロボロックのほか、ルンバやシャークなどのスティック型やロボット掃除機が幅広く販売されている。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/woot-vacuum-sale/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Dyson",
+        "Roborock",
+        "掃除機"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ウシャ、10種の調理機能付き7Lスマートエアフライヤー",
+      "summary_ja": "ウシャ（Usha）の「iChef スマートエアフライヤー 7L」の製品レビューが公開された。7リットルの大容量バスケットと1700ワットの加熱機構、10種類の調理機能を備えている。",
+      "source": "Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/technology/usha-ichef-smart-air-fryer-7l-review-article-14054103.html",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "エアフライヤー",
+        "ノンフライヤー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "モーバのロボット掃除機、強力な吸引力で高評価を獲得",
+      "summary_ja": "新型ロボット掃除機「MOVA V70 Ultra Complete」の製品評価が公開された。極めて強力な吸引力を備えており、床の徹底的な清掃を行える性能が評価されている。",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/home/home-appliances/mova-v70-ultra-complete-review",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "MOVA",
+        "ロボット掃除機"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "コンフィー、省スペースな108Lスリム冷凍庫のセールを実施",
+      "summary_ja": "家電ブランドのコンフィー（COMFEE'）は、前開き式の108リットルスリム冷凍庫の期間限定セールを開催している。置き場所を選ばずに設置できるセカンド冷凍庫として、多彩な機能を備えている。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000313_000115454/",
+      "score": 65,
+      "commercial_score": 85,
+      "product_keywords": [
+        "COMFEE",
+        "冷凍庫",
+        "セカンド冷凍庫"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "フニキ、湿度センサー搭載の洗濯機と乾燥機を展開",
+      "summary_ja": "フニキ（Funiki）の洗濯機と乾燥機が、雨天時の洗濯を効率化する家電として注目されている。水量や洗濯時間を自動で計算するほか、湿度センサーに基づいて乾燥工程を調整する。",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/en/bo-doi-giat-say-funiki-giup-gia-dinh-tre-chu-dong-cham-soc-quan-ao-hang-ngay",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "洗濯機",
+        "乾燥機"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

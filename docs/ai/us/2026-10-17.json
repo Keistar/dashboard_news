@@ -1,0 +1,49 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:33:21+09:00",
+  "stories": [
+    {
+      "title_ja": "ChatGPTに対話型グラフィックを表示する新機能が追加",
+      "summary_ja": "オープンAI（OpenAI）は、ChatGPTに新機能「インテリジェントUI」を導入した。ユーザーに対して操作可能な対話型の視覚的インターフェースを表示できるようになる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/openai-chatgpt-intelligent-ui-interactive-visual-graphics",
+      "score": 85,
+      "commercial_score": 85,
+      "product_keywords": [
+        "AI",
+        "タブレット"
+      ]
+    },
+    {
+      "title_ja": "AIモデル「Claude」が効率的な量子回路を独自設計",
+      "summary_ja": "アンソロピックのAIモデル「Claude」が、自律的に量子回路を設計する実験結果が示された。既存の公開されている設計と比較して、大幅に効率を改善する成果を出している。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "ReplitがAnthropicとの提携終了を表明",
+      "summary_ja": "開発環境プラットフォームのレプリット（Replit）が、アンソロピック（Anthropic）との連携を取りやめたことを明らかにした。コストなどの要因が理由とされており、同社は以前オープンAI（OpenAI）との提携を発表していた。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "プログラミング"
+      ]
+    },
+    {
+      "title_ja": "金融大手イタウが全顧客向けの生成AIサービスを構築",
+      "summary_ja": "金融機関のイタウ（Itaú）が、対話型インターフェースなどを通じて生成AIの全社導入を進めている。厳しい規制下にある業界において、顧客と従業員の両方に向けたAI戦略を適用している。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/itau-generative-ai/",
+      "score": 70,
+      "commercial_score": 45
+    }
+  ]
+}

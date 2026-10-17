@@ -1,210 +1,212 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T15:34:23+09:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:33:21+09:00",
   "stories": [
     {
-      "title_ja": "OpenAIの大量の数学論文、暗号解読への影響を巡り専門家の議論呼ぶ",
-      "summary_ja": "OpenAIが発表した722本におよぶ数学論文が研究コミュニティで大きな反響を呼んでいる。通信や銀行のログインを保護する暗号技術にAIが影響を及ぼすかについて、暗号専門家の間で意見が分かれている。",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+      "title_ja": "ChatGPTに対話型グラフィックを表示する新機能が追加",
+      "summary_ja": "オープンAI（OpenAI）は、ChatGPTに新機能「インテリジェントUI」を導入した。ユーザーに対して操作可能な対話型の視覚的インターフェースを表示できるようになる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/openai-chatgpt-intelligent-ui-interactive-visual-graphics",
       "score": 85,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "米メタ、推論とプログラミングに強い公開型AIモデルの新版を投入",
-      "summary_ja": "米メタ（Meta）は新しいオープンウェイトAIモデル「Muse Spark Open」を公開した。多段階の推論や複雑なソフトウェア開発の分野で高い性能を発揮し、競合に対抗するとしている。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-      "score": 85,
-      "commercial_score": 60,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国ディープシーク、メモリ負荷を4分の1に減らした新モデル公開",
-      "summary_ja": "中国のAI企業ディープシーク（DeepSeek）が、新型モデル「V4.1-Flash」を発表した。メモリのキャッシュ消費を前世代の4分の1に抑えつつ処理速度を向上させ、百万トークンの長文処理にも対応する。",
-      "source": "科技行者",
-      "url": "https://www.techwalker.com/2026/1016/3202423.shtml",
-      "score": 85,
-      "commercial_score": 65,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "グーグルのAI記事利用プログラム、参加報道機関が400媒体を突破",
-      "summary_ja": "米グーグルは報道機関に対価を支払うAIプログラムの参加メディアが世界で400を超えたと発表した。提供された記事は要約や音声ブリーフィングなどのAI新機能に活用される。",
-      "source": "ビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/187512",
-      "score": 80,
-      "commercial_score": 60,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "マイクロソフトAI幹部、4分の1の計算資源でOpenAIを凌駕と表明",
-      "summary_ja": "マイクロソフトのAI部門トップが、自社の最新AIモデルの性能について言及した。一部の事前学習指標において、OpenAIのベースモデルを4分の1の計算能力で上回ったとしている。",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
-      "score": 80,
-      "commercial_score": 55,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "商品選びの入り口に生成AIを利用、購買前の情報収集で定着進む",
-      "summary_ja": "GMO NIKKOが運営する組織が、生成AI時代における検索や購買行動に関する調査結果を発表した。約3人に1人が商品選びの情報収集の最初に生成AIを利用している実態が明らかになった。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3237107",
-      "score": 75,
-      "commercial_score": 90,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ASUS、クラウド不要で音声認識もこなすAIアクセラレーター発売",
-      "summary_ja": "ASUS JAPANがエッジAIアクセラレーターの新シリーズを国内で発売した。クラウドを介さずに最大40TOPSの処理能力を発揮し、音声認識などの生成AI用途に対応する。",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/8995f0e0-ead9-4512-b36c-3c9fb81578be",
-      "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "ASUS",
-        "アクセラレーター"
+        "AI",
+        "タブレット"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米アンソロピック、AIの安全性評価で外部機関に社員並みの権限付与",
-      "summary_ja": "AI開発企業の米アンソロピック（Anthropic）は、非営利組織METRの研究者に従業員と同等の内部アクセス権限を付与した。外部機関によるリスクや運用の独自評価の公表を認め、開発元がその公開を差し止める権利も放棄している。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "score": 75,
-      "commercial_score": 40,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英スターリング銀行、エヌビディアと組み自国管理のAIモデル構築へ",
-      "summary_ja": "英デジタル銀行のスターリングが、米エヌビディア（Nvidia）などと連携して英国内で管理運用する独自AIモデルを構築する。銀行データを安全に活用し、不正取引の検知強化や顧客分析の向上を図る。",
-      "source": "Payments Industry Intelligence",
-      "url": "https://paymentsindustryintelligence.com/starling-builds-uk-sovereign-ai-model-with-nvidia-and-civo/",
-      "score": 75,
-      "commercial_score": 65,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "セールスフォース、英国内の大学向けにスラック上位版を無償提供へ",
-      "summary_ja": "米セールスフォースは英国の高等教育機関向けに「Slack Enterprise」を無償提供する計画を発表した。学生が職場で役立つAIスキルを実践的に身につけられるよう支援する。",
-      "source": "IT Brief UK",
-      "url": "https://itbrief.co.uk/story/salesforce-offers-free-slack-enterprise-to-uk-students",
-      "score": 75,
-      "commercial_score": 70,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国躍然創新、AI大モデルを融合した対話型スマート玩具を発売",
-      "summary_ja": "AI玩具メーカーの躍然創新（Haivivi）が、新シリーズ「光之召喚」の販売を開始した。生成AIと大規模モデルを深く融合させ、子ども向けの対話体験や遊びの機能を強化している。",
+      "title_ja": "中国の生成AI利用者が7億人を突破　文章や画像生成が普及",
+      "summary_ja": "中国における生成AIの利用者が7億人を突破した。質問や文章を入力することで回答や画像、図表などを即座に生成する技術が、広く浸透している。",
       "source": "finance.sina.com.cn",
-      "url": "https://finance.sina.cn/2026-10-15/detail-iniviekn1403660.d.html?vt=4&wm=1029?q",
-      "score": 75,
-      "commercial_score": 95,
+      "url": "https://finance.sina.cn/2026-10-15/detail-iniviqye4728524.d.html?vt=4",
+      "score": 85,
+      "commercial_score": 70,
       "product_keywords": [
-        "スマートトイ",
-        "知育玩具"
+        "スマートフォン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "AIが回答でブランドを推薦、検索に代わる新マーケティングが浮上",
-      "summary_ja": "生成AIが利用者に代わって商品ブランドを提案する場面が増え、AIの回答枠を狙う最適化手法が注目されている。検索キーワード重視から情報の信頼性や事実関係の一致へ焦点が移り、AI上で直接商品が認知される仕組みが広がっている。",
-      "source": "凤凰网",
-      "url": "https://baby.ifeng.com/c/8xGaoxgcVLp",
+      "title_ja": "快手が動画生成AI「Kling 4.0」を発表",
+      "summary_ja": "中国の快手科技は、動画生成AI「Kling 4.0」を公開した。最長30秒の映像生成や複数の参照素材の組み合わせに対応しており、企業向けAPIの提供も予定されている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187541",
       "score": 75,
       "commercial_score": 80,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "中国江波龍、AIパソコン向けに高帯域の新規格メモリ製品を投入",
-      "summary_ja": "中国の半導体メモリメーカー江波龍（Longsys）が、端末側でAIを動かすための新メモリ製品を発表した。AIパソコンなどの機器で大規模モデルを快適にローカル実行できるよう、高い通信帯域を確保している。",
-      "source": "www.icloudnews.net",
-      "url": "https://www.icloudnews.net/a/123809.html",
-      "score": 75,
-      "commercial_score": 85,
       "product_keywords": [
-        "AI PC",
-        "メモリ"
+        "動画編集ソフト",
+        "AI"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "電通、言葉から架空の触り心地を作り出す触覚生成AIを公開",
-      "summary_ja": "電通の研究組織が展示会で触覚生成AIシステム「FANTOUCHIE」を披露した。言葉の指示からペガサスの羽など実在しない対象の触感を再現できる仕組みとなっている。",
-      "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/techplus/article/20261016-5137897/",
-      "score": 70,
-      "commercial_score": 50,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "OpenAI幹部、AIの普及で労働者は働く量を増減できる時代になると指摘",
-      "summary_ja": "OpenAIで企業向け製品や自律エージェントツールを統括する幹部が、AI時代における働き方について見解を述べた。AIの導入によって、労働者は以前よりも働く量を増やすか減らすかを選べるようになると語っている。",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/openai-dots-head-ai-lets-workers-do-less-or-more-2026-10",
-      "score": 70,
-      "commercial_score": 50,
+      "title_ja": "AIモデル「Claude」が効率的な量子回路を独自設計",
+      "summary_ja": "アンソロピックのAIモデル「Claude」が、自律的に量子回路を設計する実験結果が示された。既存の公開されている設計と比較して、大幅に効率を改善する成果を出している。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 75,
+      "commercial_score": 40,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "AI支援の健康アプリ利用で社会的幸福感の向上を確認、研究チーム調査",
-      "summary_ja": "研究チームが利用者に個別支援を提供するAI搭載モバイルアプリの効果を評価した。利用者の間において、社会的幸福感の改善傾向が確認されたと報告されている。",
-      "source": "2 Minute Medicine",
-      "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-powered-mental-health-app-demonstrated-improved-social-well-being-among-users/",
-      "score": 70,
+      "title_ja": "200年以上未解読だったナポレオンの戦時暗号をAIが解読",
+      "summary_ja": "ナポレオンが作成を命じた戦時暗号が、AIによりわずか数時間で解読された。200年以上にわたり解けなかった歴史的史料の解析において、AIが重要な役割を果たしている。",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/17/2003866143",
+      "score": 75,
+      "commercial_score": 30,
+      "product_keywords": [
+        "暗号",
+        "歴史"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "百度が西安でAIエージェントを披露　生け花ロボットも実演",
+      "summary_ja": "百度（Baidu）が陝西省西安市でイベントを開催し、AI技術を公開した。展示エリアではロボットアームが花瓶を認識して生け花を行うデモなどが実演され、注目を集めた。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703umz4.html?from=tech",
+      "score": 75,
       "commercial_score": 60,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "通信事業者の9割近くがオープン型AIを支持、コスト抑制狙い",
-      "summary_ja": "米エヌビディアの調査によると、通信事業者の89%がオープンソースAIモデルの採用を支持しているという。費用の抑制やデータ管理、地域特性への適合が主な理由として挙げられている。",
-      "source": "IT Brief UK",
-      "url": "https://itbrief.co.uk/story/telecom-operators-turn-to-open-ai-models-nvidia-says",
-      "score": 70,
-      "commercial_score": 55,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "小智AIが香港の電子見本市に登場、AI能力のハード機器搭載を提案",
-      "summary_ja": "香港の秋季エレクトロニクス展示会に小智AIが出展した。新たなAIモデルを一から作るのではなく、既存のAI技術を身近な各種ハードウェア機器へ組み込んで届ける取り組みを訴求している。",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8xGjQ2Mc37Y",
-      "score": 70,
-      "commercial_score": 80,
+      "product_keywords": [
+        "ロボット"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "雑誌eggが渋谷で生成AIフォトブース、平成ギャルへの変身体験",
-      "summary_ja": "ギャル雑誌のeggが渋谷のポップアップイベントで、生成AIを活用したフォトブースを展開した。利用者は平成ギャルの姿に変身できる体験型コンテンツを通じて、平成レトロの流行を楽しむことができる。",
-      "source": "PR EDGE",
-      "url": "https://predge.jp/361947/",
-      "score": 60,
-      "commercial_score": 75,
+      "title_ja": "北海道美唄市の高校で対話型AIを使った授業が開始",
+      "summary_ja": "北海道美唄市の高校で、対話型AIを取り入れた授業が始まった。生徒の理解度に応じた個別指導を行うなど、新たな人材育成の試みとして市長も視察に訪れている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/982c57f66559e45805077389c048f69715718ca1",
+      "score": 70,
+      "commercial_score": 40,
       "product_keywords": [
-        "egg 雑誌"
+        "タブレット",
+        "教育"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ReplitがAnthropicとの提携終了を表明",
+      "summary_ja": "開発環境プラットフォームのレプリット（Replit）が、アンソロピック（Anthropic）との連携を取りやめたことを明らかにした。コストなどの要因が理由とされており、同社は以前オープンAI（OpenAI）との提携を発表していた。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "プログラミング"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "金融大手イタウが全顧客向けの生成AIサービスを構築",
+      "summary_ja": "金融機関のイタウ（Itaú）が、対話型インターフェースなどを通じて生成AIの全社導入を進めている。厳しい規制下にある業界において、顧客と従業員の両方に向けたAI戦略を適用している。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/itau-generative-ai/",
+      "score": 70,
+      "commercial_score": 45,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "金融機関向けに自然言語でレポートを作成するAI機能が登場",
+      "summary_ja": "金融向けITを提供するキネクティブ（Kinective）が、データ分析用のAIエージェントを発表した。自然言語によるプロンプトからダッシュボードやレポートを自動で作成し、金融機関の業務を支援する。",
+      "source": "Financial IT",
+      "url": "https://financialit.net/news/artificial-intelligence/kinective-enhances-data-intelligence-capabilities-ai-developer-agents",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "データ分析"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国で港湾業務に特化したAI「星港大模型」が開発される",
+      "summary_ja": "中国で港湾業務に特化したAI「星港大模型」が開発された。350億のパラメータを備え、港湾の安全管理や生産性向上、物流サービスを包括的に支援する仕組みとなっている。",
+      "source": "观海新闻",
+      "url": "https://www.guanhai.com.cn/p/478521.html",
+      "score": 70,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "新潟県五泉市が業務効率化に向け生成AIを導入",
+      "summary_ja": "新潟県五泉市は、業務支援のため新潟日報の生成AIサービスを導入した。議事録作成の時間短縮などを期待しており、市役所で職員向けの研修会が開かれている。",
+      "source": "新潟日報",
+      "url": "https://www.niigata-nippo.co.jp/articles/-/925498",
+      "score": 65,
+      "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "沖縄県内企業の生成AI導入率は3割　効果実感の一方で浸透に課題",
+      "summary_ja": "おきぎん経済研究所の調査によると、沖縄県内企業の生成AI導入率は3割にとどまることが分かった。導入企業の9割が効果を実感しているものの、組織を通さない個人の業務利用も見られるなど全体への浸透には課題が残る。",
+      "source": "沖縄タイムス社",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1946476",
+      "score": 65,
+      "commercial_score": 35,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "アフリカの学校でAI学習ツールを試験導入",
+      "summary_ja": "アフリカの学校でAI教育ツールの試験導入が行われている。初期の試行では生徒の学習効率向上が確認されており、今後は導入の規模拡大が課題となっている。",
+      "source": "African Business",
+      "url": "https://african.business/2026/10/long-reads/artificial-intelligence-is-coming-to-african-schools",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "学習用端末"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英国のカレッジが企業向けに3日間の短期AI研修を開始",
+      "summary_ja": "英国のグロスターシャー・カレッジが、企業従業員向けの3日間の短期AI研修を開始した。公的な資金を活用し、地域の企業が抱えるデジタルスキルの不足解消を支援する。",
+      "source": "SoGlos",
+      "url": "https://www.soglos.com/news/business/gloucestershire-college-launches-short-ai-training-to-help-businesses-tackle-digital-skills-gaps/27345/",
+      "score": 65,
+      "commercial_score": 50,
+      "product_keywords": [
+        "スキルアップ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国銀川市で教育現場へのAIモデル活用を巡る研究会が開催",
+      "summary_ja": "中国の銀川市で、AIモデルを活用した授業革新に関する研究会が開かれた。各地から教育専門家や教員が集まり、実際のAI活用授業の参観や指導法の意見交換が行われた。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1088929558_362042",
+      "score": 65,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "テレビ番組の再現ドラマに生成AI活用の動き広がる",
+      "summary_ja": "テレビ番組の制作現場において、生成AIを活用する事例が広がっている。トーク番組での再現イラストだけでなく、再現ドラマへの応用も進められている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/207caf7973d1500a203885a3de8ad1832f64c4ed",
+      "score": 60,
+      "commercial_score": 30,
+      "product_keywords": [
+        "動画編集ソフト"
       ],
       "country": "jp",
       "country_label_ja": "日本"

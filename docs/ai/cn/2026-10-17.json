@@ -1,0 +1,48 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:33:21+09:00",
+  "stories": [
+    {
+      "title_ja": "中国の生成AI利用者が7億人を突破　文章や画像生成が普及",
+      "summary_ja": "中国における生成AIの利用者が7億人を突破した。質問や文章を入力することで回答や画像、図表などを即座に生成する技術が、広く浸透している。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-15/detail-iniviqye4728524.d.html?vt=4",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "百度が西安でAIエージェントを披露　生け花ロボットも実演",
+      "summary_ja": "百度（Baidu）が陝西省西安市でイベントを開催し、AI技術を公開した。展示エリアではロボットアームが花瓶を認識して生け花を行うデモなどが実演され、注目を集めた。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703umz4.html?from=tech",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ロボット"
+      ]
+    },
+    {
+      "title_ja": "中国で港湾業務に特化したAI「星港大模型」が開発される",
+      "summary_ja": "中国で港湾業務に特化したAI「星港大模型」が開発された。350億のパラメータを備え、港湾の安全管理や生産性向上、物流サービスを包括的に支援する仕組みとなっている。",
+      "source": "观海新闻",
+      "url": "https://www.guanhai.com.cn/p/478521.html",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "中国銀川市で教育現場へのAIモデル活用を巡る研究会が開催",
+      "summary_ja": "中国の銀川市で、AIモデルを活用した授業革新に関する研究会が開かれた。各地から教育専門家や教員が集まり、実際のAI活用授業の参観や指導法の意見交換が行われた。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1088929558_362042",
+      "score": 65,
+      "commercial_score": 30
+    }
+  ]
+}
