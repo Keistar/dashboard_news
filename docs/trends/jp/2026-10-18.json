@@ -1,0 +1,123 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:05:35+09:00",
+  "trends": [
+    {
+      "keyword": "プライム感謝祭",
+      "reason_ja": "プライム会員向けの大型セールが開催され、目玉商品やポイント還元に注目が集まっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "プライム感謝祭",
+        "セール",
+        "日用品"
+      ],
+      "product_keywords_ja": [
+        "プライム感謝祭",
+        "セール",
+        "日用品"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "プライム感謝祭で注目の目玉商品を紹介",
+          "summary_ja": "プライム感謝祭の開催に伴い、おすすめのお買い得商品が厳選されています。編集部が選んだ注目のアイテム情報が随時案内されています。",
+          "source": "ROOMIE（ルーミー）",
+          "url": "https://www.roomie.jp/2026/10/1903932/"
+        },
+        {
+          "title_ja": "感謝祭セールとスーパーの価格を比較検証",
+          "summary_ja": "大型セールで割引された商品が本当にお得かを検証しています。食品を中心に近隣店舗での販売価格との比較が行われています。",
+          "source": "イザ！",
+          "url": "https://www.iza.ne.jp/article/20261018-2M2SSM7TEVENBLX2723XOH7Q7U/?outputType=theme_osusume"
+        }
+      ]
+    },
+    {
+      "keyword": "折りたたみスマホ",
+      "reason_ja": "アップルによる初の折りたたみスマホ発表をきっかけに出荷台数の大幅増加が予測されています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "折りたたみスマホ",
+        "スマートフォン",
+        "iPhone Duo"
+      ],
+      "product_keywords_ja": [
+        "折りたたみスマホ",
+        "スマートフォン"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップル初の折りたたみスマホ投入の狙い",
+          "summary_ja": "アップル初となる折りたたみスマートフォンの予約受付が始まります。高価格帯ながら新たな市場開拓を狙う戦略が分析されています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/b9bd2af4d9c77da963ec270f6cad1d2ba6725690"
+        },
+        {
+          "title_ja": "アップル参入で折りたたみ端末の出荷急増",
+          "summary_ja": "折りたたみスマートフォンの出荷予測が大幅に伸びると発表されました。大手メーカーの新規参入が国内普及の後押しになると期待されています。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC15ASG0V11C26A0000000/"
+        }
+      ]
+    },
+    {
+      "keyword": "ポータブル電源",
+      "reason_ja": "秋のセールに合わせてポータブル電源や電源タップなどの周辺機器が人気を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ポータブル電源",
+        "電源タップ",
+        "USBハブ"
+      ],
+      "product_keywords_ja": [
+        "ポータブル電源",
+        "電源タップ",
+        "USBハブ"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "手頃な電源タップや周辺機器のセール情報",
+          "summary_ja": "ポータブル電源タップやハブなど便利な周辺機器がセール対象となっています。限定クーポンを活用してお得に購入できる商品が紹介されています。",
+          "source": "ウインタブ",
+          "url": "https://win-tab.net/sale/orico-amazon-sale-2610161/"
+        }
+      ]
+    },
+    {
+      "keyword": "ちいかわ セブンイレブン",
+      "reason_ja": "セブンイレブンで人気キャラクター映画とのコラボ商品が多数展開されて話題になっています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "ちいかわ",
+        "セブンイレブン",
+        "コラボ商品"
+      ],
+      "product_keywords_ja": [
+        "ちいかわ グッズ",
+        "ちいかわ お菓子"
+      ],
+      "trend_source": "ニュース（フード）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "セブンイレブンでちいかわコラボ商品登場",
+          "summary_ja": "全国の店舗で人気作の映画化を記念したコラボレーション企画が実施されます。作中に登場する食べ物をイメージした新商品が展開されています。",
+          "source": "ウォーカープラス",
+          "url": "https://www.walkerplus.com/article/1425103/"
+        }
+      ]
+    }
+  ]
+}

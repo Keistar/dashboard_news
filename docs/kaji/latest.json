@@ -1,290 +1,201 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:41:06+09:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T15:39:25+09:00",
   "stories": [
     {
-      "title_ja": "ロボロック、部屋の隅まで清掃する新型ロボット掃除機を発売",
-      "summary_ja": "ロボロックは、新型ロボット掃除機「Roborock Qrevo 2 Pro」を発売した。新開発のリバーシブルサイドブラシで部屋の隅まで清掃できるほか、モップの洗い残しを抑える多機能充電ドックを備えている。",
-      "source": "北海道新聞デジタル",
-      "url": "https://www.hokkaido-np.co.jp/article_photo/list/?article_id=1375702&pid=15778661",
+      "title_ja": "LG電子がAI加湿空気清浄機を発売、大容量加湿と広域清浄に対応",
+      "summary_ja": "LG電子はリビング向けのプレミアム加湿空気清浄機「LG PuriCare Hydro Tower Max」を発売した。1時間あたり最大850ccの加湿性能を備え、約66平方メートルの空気清浄に対応する。",
+      "source": "BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/1c96f46b-1c45-4b18-8994-0749b8dd50ae",
       "score": 85,
-      "commercial_score": 90,
+      "commercial_score": 85,
       "product_keywords": [
-        "Roborock",
-        "ロボット掃除機",
-        "Qrevo"
+        "LG 空気清浄機",
+        "加湿空気清浄機"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "タイガー、1台16役の自動調理器グリシアを11月に発売",
-      "summary_ja": "タイガー魔法瓶は、自動調理に対応した多機能グリル「マルチグリルクッカーGRISIA」を11月21日に発売する。1台で16役をこなす次世代の調理家電として、日々の料理を支援する。",
-      "source": "BCN Retail",
-      "url": "https://www.bcnretail.com/news/detail/20261016_669771.html",
+      "title_ja": "LGのAI洗濯乾燥機、衣類ケアと除菌機能で高評価も価格差焦点",
+      "summary_ja": "LGのAI洗濯乾燥機が衣類ケアや除菌・ダニ退治の性能で高い評価を受けている。一方で国内製品と比べて価格差があるため、静音性やAIによる時短・利便性をどこまで重視するかが判断軸となっている。",
+      "source": "新浪网",
+      "url": "https://www.sina.cn/news/article/comos_nivqtzr6858870.html",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "LG 洗濯乾燥機",
+        "ドラム式洗濯機 AI"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "サーモスのパッキンなし弁当箱、洗いやすい構造で人気集める",
+      "summary_ja": "サーモスが展開するパッキンなしの弁当箱が、フタと本体だけのシンプルな作りで洗いやすいと支持を集めている。米粒がつきにくく手入れしやすい点が評価されている。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4055693/",
       "score": 80,
       "commercial_score": 90,
       "product_keywords": [
-        "タイガー魔法瓶",
-        "マルチグリルクッカー",
-        "自動調理鍋"
+        "サーモス 弁当箱 パッキンなし",
+        "食洗機対応 弁当箱"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "サムスン、18kg洗濯機と14kg乾燥機を発表",
-      "summary_ja": "サムスン（Samsung）は、18キロの洗濯機と14キロの乾燥機を発表した。1回あたりの投入量を増やすことで洗濯の回数を減らし、日々の家事の効率化を後押しする。",
-      "source": "GadgetMatch",
-      "url": "https://www.gadgetmatch.com/samsung-introduces-18kg-washer-and-14kg-dryer/",
-      "score": 80,
-      "commercial_score": 80,
+      "title_ja": "広交会で最新トレンドの中国産スマート家電が人気集める",
+      "summary_ja": "第140回広交会において、最新トレンドを取り入れた国産スマート家電が注目を集めている。家事の省力化や生活の利便性を高める新製品が多数出展されている。",
+      "source": "广州日报新花城",
+      "url": "https://xxsb.gz-cmc.com/pages/2026/10/17/6843b66540ff41dd8489b7c7f0f787a1.html",
+      "score": 78,
+      "commercial_score": 70,
       "product_keywords": [
-        "Samsung",
-        "洗濯機",
-        "乾燥機"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ニンジャの10台分をこなす多機能オーブンが130ドル引き",
-      "summary_ja": "ニンジャ（Ninja）の「Foodi XL Pro エアフライオーブン」が、米アマゾンで定価から130ドル引きの249.98ドルで販売されている。1台で10役をこなし、エアフライヤーとトースターオーブンを兼ねられる大型卓上オーブンとなっている。",
-      "source": "The Inventory",
-      "url": "https://theinventory.com/ninja-foodi-xl-pro-air-fry-oven-10-in-1-stainless-steel-dt201-a8ec3765",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Ninja",
-        "オーブン",
-        "エアフライヤー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英アマゾン、ロボロックの毛がらみ防止ロボット掃除機を半額に",
-      "summary_ja": "英アマゾンで、ロボロックのロボット掃除機「Qrevo Curv 2 Pro」が通常価格から半額の599.99ポンドに値下げされた。水拭きに対応するほか毛がらみを防ぐ設計を備えており、600ポンド引きの特価となっている。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/shopping/40710808/amazon-slashes-roborock-robot-vacuum-50-percent/",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Roborock",
-        "ロボット掃除機",
-        "Qrevo"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "長虹、人の接近を感知するエアコンなど10種以上のAI家電展示",
-      "summary_ja": "長虹（Changhong）は広交会で十数種類のAI家電を発表した。6メートル離れた場所から人を感知するエアコンや、温度を自動調整する冷蔵庫などが披露された。",
-      "source": "智电网",
-      "url": "http://news.zdwang.com/a/202610/16102251.html",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "長虹",
-        "AI家電",
         "スマート家電"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "エコバックスのロボット掃除機、週1時間の清掃短縮と高評価",
-      "summary_ja": "エコバックス（ECOVACS）のXシリーズロボット掃除機は、省スペース性と高い清掃性能が評価されている。60平方メートル以下の住宅で95パーセント以上のカバー率を達成し、週に約1時間の清掃時間を節約できるとされている。",
-      "source": "手机新浪网",
-      "url": "https://www.sina.cn/gc/article/nivnkut7410848.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "エコバックス",
-        "ロボット掃除機",
-        "ECOVACS"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ブルーノからスヌーピー柄のほったらかし調理家電が登場",
-      "summary_ja": "ライフスタイルブランドのブルーノ（BRUNO）から、スヌーピーをあしらった家電などの新シリーズが登場した。ほったらかし調理ができるアイテムやおそろいの食器など、全5点が展開される。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/walkerplus/life/walkerplus-1446695",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "BRUNO",
-        "スヌーピー",
-        "調理家電"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "アンカーのロボット掃除機、強力吸引と水拭きの両立で高評価",
-      "summary_ja": "アンカーの「Eufy Robot Vacuum Omni E35」の評価が公開された。強力な吸引力とローラー式の水拭き機構を兼ね備えており、堅実な中価格帯のロボット掃除機として評価されている。",
-      "source": "The Ambient",
-      "url": "https://www.the-ambient.com/reviews/eufy-robot-vacuum-omni-e35-review/",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Eufy",
-        "アンカー",
-        "ロボット掃除機"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "クイジナートの多機能エアフライヤートースターが100ドル引き",
-      "summary_ja": "クイジナート（Cuisinart）のエアフライヤートースターオーブンが、米ターゲットで100ドル引きの特価となっている。有機フッ素化合物（PFAS）を使用しない多機能な卓上調理家電として販売されている。",
-      "source": "Yahoo",
-      "url": "https://shopping.yahoo.com/home-garden/kitchen/articles/cuisinart-air-fryer-toaster-oven-210312970.html",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Cuisinart",
-        "エアフライヤー",
-        "トースターオーブン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ブラック・アンド・デッカーのレンジ一体型エアフライヤーが特価",
-      "summary_ja": "ブラック・アンド・デッカー（BLACK+DECKER）の1台5役の複合家電が、米アマゾンで163ドルで販売されている。電子レンジとエアフライヤーを兼ね備えており、キッチンの省スペース化に役立つ。",
+      "title_ja": "ハミルトンビーチの多機能エアフライヤーオーブンが特価に",
+      "summary_ja": "ハミルトンビーチ（Hamilton Beach）の6枚焼き対応エアフライヤートースターオーブンが値引き販売されている。3種類の家電機能を1台に集約し、調理の省スペースと時短を両立する。",
       "source": "The Inventory",
-      "url": "https://theinventory.com/black-decker-5-in-1-microwave-oven-air-fryer-combo-0-9-cu-ft-900w-bb019df2",
-      "score": 75,
+      "url": "https://theinventory.com/hamilton-beach-6-slice-sure-crisp-air-fryer-toaster-oven-stainless-steel-1ee85b98",
+      "score": 76,
       "commercial_score": 85,
       "product_keywords": [
-        "ブラックアンドデッカー",
-        "電子レンジ",
-        "エアフライヤー"
+        "ハミルトンビーチ オーブントースター",
+        "コンベクションオーブン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "エコバックス、乾燥速度が2倍のヒートポンプ搭載機を提案",
-      "summary_ja": "エコバックス（ECOVACS）のXシリーズヒートポンプ版は、従来の熱風式に比べて乾燥速度が2倍になり、年間で40〜50パーセントの節電になると分析されている。初期費用は高くなるものの、日々の洗濯や乾燥の手間を減らす選択肢として注目されている。",
-      "source": "手机新浪网",
-      "url": "https://www.sina.cn/gc/article/nivnrap6586258.html",
+      "title_ja": "エディオン、炊飯データで家族を見守るサービスを約50店で開始",
+      "summary_ja": "エディオンは炊飯データを利用して家族を見守る「親孝行見守りパック」の取り扱いを開始した。約50店舗で展開し、日常の生活家電を活用した見守りを提供する。",
+      "source": "みんなの広報宣伝部",
+      "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/10/18/news-32813/",
       "score": 75,
-      "commercial_score": 80,
+      "commercial_score": 70,
       "product_keywords": [
-        "エコバックス",
-        "ヒートポンプ",
-        "衣類乾燥機"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ハイアール、複数室で食材を細かく保存できる冷蔵庫を展開",
-      "summary_ja": "ハイアール（Haier）はダブル11商戦に向けて、多室構造で食材を細かく保存できる冷蔵庫のシリーズを展開している。「麦浪」や「云溪」などのモデルが用意され、利用者の買い替え需要に応えている。",
-      "source": "凤凰网",
-      "url": "https://baby.ifeng.com/c/8xGrRID182g",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ハイアール",
-        "冷蔵庫",
-        "Haier"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "サーモスのふたごとレンジ対応な弁当箱、手入れの簡単さで人気",
-      "summary_ja": "サーモス（THERMOS）のパッキンがない弁当箱が、食後の手入れが楽で扱いやすいとして支持を集めている。ふたをしたまま電子レンジで温められる機能性を備え、日々の弁当作りの手間を省く。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4058548/amp/",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "サーモス",
-        "弁当箱",
-        "電子レンジ対応"
+        "見守り 家電",
+        "IoT 炊飯器"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米ウート、ダイソンやロボロックなどの掃除機を大幅値引き",
-      "summary_ja": "米国の通販サイト「ウート（Woot）」が、大手メーカーの掃除機を対象にした大規模セールを開始した。ダイソンやロボロックのほか、ルンバやシャークなどのスティック型やロボット掃除機が幅広く販売されている。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/woot-vacuum-sale/",
-      "score": 70,
-      "commercial_score": 80,
+      "title_ja": "広交会で新製品家電が即時成約、海外バイヤーが工場視察へ",
+      "summary_ja": "第140回広交会で発表された生活家電の新製品が海外バイヤーから高い関心を集めている。展示会での成約後、製造現場の工場へ直接視察に訪れるバイヤーが相次いでいる。",
+      "source": "佛山新闻网",
+      "url": "https://www.foshannews.net/h/192/20261017/8851876.html",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "Dyson",
-        "Roborock",
-        "掃除機"
+        "スマート家電"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "ウシャ、10種の調理機能付き7Lスマートエアフライヤー",
-      "summary_ja": "ウシャ（Usha）の「iChef スマートエアフライヤー 7L」の製品レビューが公開された。7リットルの大容量バスケットと1700ワットの加熱機構、10種類の調理機能を備えている。",
-      "source": "Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/technology/usha-ichef-smart-air-fryer-7l-review-article-14054103.html",
-      "score": 70,
-      "commercial_score": 75,
+      "title_ja": "シェフマンが大容量デジタルエアフライヤーを手頃な価格で提供",
+      "summary_ja": "シェフマン（Chefman）の8クォート対応デジタルエアフライヤーが注目されている。ファミリーサイズの大容量と4つの調理機能、短時間で仕上げる加熱ブースト機能を備えている。",
+      "source": "The Inventory",
+      "url": "https://theinventory.com/chefman-8qt-digital-air-fryer-6fc7623a",
+      "score": 74,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Chefman ノンフライヤー",
+        "大容量 エアフライヤー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "22リットル大容量の12イン1エアフライヤーオーブンが登場",
+      "summary_ja": "大容量22リットルの多機能調理家電「Electactic 12-in-1」が手頃な価格帯で登場した。主要ブランド製品よりも価格を抑えつつ、多彩な調理機能を備えて時短料理を支援する。",
+      "source": "The Inventory",
+      "url": "https://theinventory.com/electactic-12-in-1-air-fryer-toaster-oven-combo-22l-countertop-oven-9078beb8",
+      "score": 73,
+      "commercial_score": 80,
+      "product_keywords": [
+        "エアフライヤー オーブン 大容量",
+        "ノンフライオーブン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "少量油でヘルシー調理、スマートエアフライヤーの性能評価",
+      "summary_ja": "少量の油で手軽に調理できる「Usha iChef Smart Air Fryer」のレビューが公開された。油分を抑えつつ好みの料理を楽しめる時短調理家電として家庭での関心が高まっている。",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/technology/reviews/usha-ichef-smart-air-fryer-review-simple-cooking-with-less-oil/articleshow/135009747.cms",
+      "score": 72,
+      "commercial_score": 80,
       "product_keywords": [
         "エアフライヤー",
         "ノンフライヤー"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "モーバのロボット掃除機、強力な吸引力で高評価を獲得",
-      "summary_ja": "新型ロボット掃除機「MOVA V70 Ultra Complete」の製品評価が公開された。極めて強力な吸引力を備えており、床の徹底的な清掃を行える性能が評価されている。",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/home/home-appliances/mova-v70-ultra-complete-review",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "MOVA",
-        "ロボット掃除機"
-      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "コンフィー、省スペースな108Lスリム冷凍庫のセールを実施",
-      "summary_ja": "家電ブランドのコンフィー（COMFEE'）は、前開き式の108リットルスリム冷凍庫の期間限定セールを開催している。置き場所を選ばずに設置できるセカンド冷凍庫として、多彩な機能を備えている。",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000313_000115454/",
-      "score": 65,
+      "title_ja": "中国の家電大手・金羚集団、広交会で最新洗濯機などを披露",
+      "summary_ja": "中国の家電メーカー金羚集団が第140回広交会に出展し、最新の生活家電を披露した。スマート洗濯機などを中心に海外市場への展開を進めている。",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261017/herald/1f903243c2656cfaecada30dc88da4a1.html",
+      "score": 72,
+      "commercial_score": 70,
+      "product_keywords": [
+        "洗濯機"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "置くだけ充電のハンディクリーナー、家電誌高評価モデルが特価に",
+      "summary_ja": "家電批評でベストバイ総合1位を獲得した「ALTENA コードレスハンディクリーナー」が限定価格で登場した。置くだけで手軽に充電でき、普段の掃除機を出すほどではない日常のゴミ掃除に対応する。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/443/4443544/",
+      "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "COMFEE",
-        "冷凍庫",
-        "セカンド冷凍庫"
+        "ハンディクリーナー コードレス",
+        "卓上クリーナー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "フニキ、湿度センサー搭載の洗濯機と乾燥機を展開",
-      "summary_ja": "フニキ（Funiki）の洗濯機と乾燥機が、雨天時の洗濯を効率化する家電として注目されている。水量や洗濯時間を自動で計算するほか、湿度センサーに基づいて乾燥工程を調整する。",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/bo-doi-giat-say-funiki-giup-gia-dinh-tre-chu-dong-cham-soc-quan-ao-hang-ngay",
-      "score": 65,
-      "commercial_score": 70,
+      "title_ja": "卓上調理家電でサケを10分調理、臭いを抑える時短調理法",
+      "summary_ja": "CNETが卓上調理家電を使い、手軽に魚料理を作る時短方法を紹介した。調理器具を活用することで部屋に臭いを残さず、片付けの手間を減らしながら約10分で仕上げられる。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/kitchen-and-household/this-10-minute-method-takes-the-stink-out-of-salmon/",
+      "score": 70,
+      "commercial_score": 65,
       "product_keywords": [
-        "洗濯機",
-        "乾燥機"
+        "ノンフライヤー",
+        "フィッシュロースター"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "電子レンジ加熱で残りご飯をおいしく温めるおひつが人気",
+      "summary_ja": "電子レンジで温めるタイプのおひつが、残ったご飯をおいしく温め直せる便利グッズとして注目を集めている。手軽においしさを保てる点が評価され、人気となっている。",
+      "source": "まぐまぐ",
+      "url": "https://www.mag2.com/p/news/687440/amp",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "電子レンジ おひつ",
+        "陶器 おひつ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

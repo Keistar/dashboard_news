@@ -1,0 +1,46 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T15:45:13+09:00",
+  "stories": [
+    {
+      "title_ja": "英調査、最安のネットスーパー判明、大手を押さえ新首位に",
+      "summary_ja": "英国の食料品インフレが再び進み、消費者が特売品を頼りにする傾向が強まるなか、最も安く買い物ができるオンラインスーパーの最新調査結果が発表された。定番のアルディやテスコを抑え、別の店舗が最安の選択肢として浮上している。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/cheapest-supermarket-online-shop-uk-amazon-fresh-b3068512.html",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ネットスーパー",
+        "食料品 まとめ買い"
+      ]
+    },
+    {
+      "title_ja": "英で20ポンドで買い出し可能なソーシャルスーパーが開設",
+      "summary_ja": "英国の生活費高騰に対応するため、「コミュニティ・カップボード」と呼ばれるソーシャル・スーパーマーケットが開設された。物価高に悩む地域住民に向けて、20ポンドで日々の食料品を購入できる仕組みを提供している。",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/social-supermarket-where-food-shop-080000996.html",
+      "score": 75,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "英スーパーで食費高騰、購入前の値札詳細確認を呼びかけ",
+      "summary_ja": "イギリスでは毎日の食料品の価格が再び上昇傾向にある。買い物客に対して、商品の総額だけでなく棚に記載された容量や単位あたりの価格表示をしっかりと確認してから購入するよう助言がなされている。",
+      "source": "Cambridge News",
+      "url": "https://www.buckinghamshirelive.com/news/uk-world-news/supermarket-shoppers-advised-check-shelf-11197751",
+      "score": 70,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "英外食チェーン、秋休みに子ども向け食事無料などの支援策",
+      "summary_ja": "英国の10月の半期休暇に合わせて、外食各社が子ども向け食事を無料または1ポンドで提供する取り組みを実施している。対象にはバーガーキングやアズダ、モリソンズのカフェのほか、有名シェフのゴードン・ラムゼイ系列店などが含まれる。",
+      "source": "The Northern Echo",
+      "url": "https://www.thenorthernecho.co.uk/news/26645888.kids-eat-free-october-half-term-2026-best-deals-discounts/",
+      "score": 70,
+      "commercial_score": 65
+    }
+  ]
+}

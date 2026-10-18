@@ -1,218 +1,238 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:51:57+09:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T15:50:26+09:00",
   "stories": [
     {
-      "title_ja": "NTT東日本子会社が睡眠改善事業を支援し合宿プログラム開始",
-      "summary_ja": "NTT東日本子会社のNTT DXパートナーが、企業や自治体の睡眠関連市場への参入支援を本格化させた。富山県のヘルスケア企業と連携し、2泊3日の睡眠改善合宿プログラムの提供を開始している。2030年までに睡眠関連事業で売上高7億円の達成を目指す。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC161360W6A011C2000000/",
+      "title_ja": "甘味料39種を調査、腸内細菌への影響や薬との相互作用が明らかに",
+      "summary_ja": "広く使われている39種類の甘味料が腸内細菌に影響を与える可能性を研究チームが発見しました。実験では特定の抗うつ薬と組み合わせることで善玉菌や細菌の多様性が減少することが確認され、腸内環境や免疫への影響に新たな関心が寄せられています。",
+      "source": "Science Daily",
+      "url": "http://www.sciencedaily.com/releases/2026/10/261016081103.htm",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "オリゴ糖",
+        "プロバイオティクス",
+        "腸活 サプリ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "1日8500歩のウォーキングで減量体重を維持、米研究が示唆",
+      "summary_ja": "毎日の歩数を増やすことが、減量した体重を長期的に維持する手助けになる可能性を示す研究が発表されました。日々のウォーキングを継続することが、体型管理に役立つ習慣として注目されています。",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/GMA/Wellness/8500-daily-steps-weight-off/story?id=132854058",
       "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "睡眠 サプリ",
-        "マットレス",
-        "アイマスク"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ガーミンがデザイン性を高めたスマートバンドを発表",
-      "summary_ja": "従来のスポーティーで厚みのあるデザインを一新し、ファッション性と健康管理機能を両立させたガーミンのスマートバンド「CIRQA」が紹介された。ライフスタイルの専門家がその魅力を解説しており、日常の装いに馴染むウェアラブル端末として注目されている。",
-      "source": "WFLA",
-      "url": "https://www.wfla.com/daytime/the-smart-band-blending-fashion-and-fitness/",
-      "score": 80,
-      "commercial_score": 95,
-      "product_keywords": [
-        "ガーミン スマートウォッチ",
-        "スマートバンド",
-        "活動量計"
+        "スマートウォッチ",
+        "ウォーキングシューズ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "京東健康が重慶の大学病院と提携し心理リハビリAI研究室を設立",
-      "summary_ja": "大手ヘルスケア企業の京東健康（JD Health）が重慶医科大学附属第一医院と戦略的提携を結んだ。心理リハビリテーションと医療AIエージェントに関する共同研究室を設立する。精神医療分野におけるデジタル技術の活用と健康支援の強化を目指す。",
-      "source": "京报网",
-      "url": "https://news.bjd.com.cn/2026/10/17/11998314.shtml",
-      "score": 78,
+      "title_ja": "プロテイン高騰で昆虫粉末が話題に、専門家が代替の注意点を指摘",
+      "summary_ja": "ホエイプロテインの価格高騰に伴い、安価でタンパク質が豊富な昆虫原料の粉末が代替品として関心を集めています。輸入コスト増加で代替需要が広がる一方、品質やアレルギーなどの安全面における注意が呼びかけられています。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1089234959_362042",
+      "score": 80,
       "commercial_score": 80,
       "product_keywords": [
-        "スマートウォッチ",
-        "睡眠計",
-        "メンタルケア"
+        "ホエイプロテイン",
+        "ソイプロテイン",
+        "植物性プロテイン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "睡眠学者・柳沢教授が明かす睡眠の常識と悩み解消の新刊",
-      "summary_ja": "睡眠学者の柳沢正史教授による著書が注目を集めている。巷にあふれる睡眠に関する思い込みの真偽を解き明かし、眠れないなどの悩みへの対処法を提唱している。短時間睡眠を自称する生活習慣についても見解を示している。",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/-/400356",
+      "title_ja": "米国で運動プログラムを保険適用のがん治療にする取り組みが進む",
+      "summary_ja": "米国で運動プログラムを保険適用のがん治療として導入する取り組みが始まっています。単なる運動ではなく専門のトレーナーが患者ごとに伴走し、生存率の向上や医療費の削減を目指す研究成果を受けた試みです。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/276dc1f688986e28f5fe40c7d713cc1c2d49a508",
       "score": 75,
-      "commercial_score": 70,
+      "commercial_score": 60,
       "product_keywords": [
-        "睡眠 本",
-        "安眠枕",
-        "快眠グッズ"
+        "トレーニングウェア",
+        "ヨガマット"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "特定の食品の日常摂取が脳の健康に影響、1万人規模の研究発表",
-      "summary_ja": "ブラジルの研究チームが1万人を対象とした調査を実施し、毎日の食生活と脳の健康との関連を明らかにした。特定の食品の摂取を制限することが、年齢を重ねても頭をすっきりと保つことにつながる可能性があると報告している。",
-      "source": "Yahoo Health",
-      "url": "https://health.yahoo.com/wellness/nutrition/healthy-eating/articles/eating-every-day-could-damage-180115659.html",
+      "title_ja": "好きな物を我慢するより健康食品を追加する方が継続しやすいと判明",
+      "summary_ja": "食事改善を始める際、好物をやめるよりも健康に良い食品を食生活に加える方が継続しやすいとする研究結果が示されました。もともとの食の好みが受け入れやすさに影響するため、無理のない工夫が有効とされています。",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/en/it/12178843",
       "score": 75,
-      "commercial_score": 65,
+      "commercial_score": 80,
       "product_keywords": [
         "健康食品",
-        "オメガ3 サプリ",
+        "スーパーフード",
         "ナッツ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "高架下や川岸を活用した5千箇所の小型フィットネス施設が稼働",
-      "summary_ja": "高架下や川沿い、工場の跡地などの空きスペースを活用した5000箇所の小型フィットネス施設が整備された。秋の朝から街角の運動スペースとして住民で賑わいを見せている。身近な場所で運動できる環境を整えることで、市民の健康づくりを支えている。",
-      "source": "新华网",
-      "url": "https://csj.news.cn/20261017/95bac09cd07648f8bdfb06fc240e311e/c.html",
+      "title_ja": "高齢者向け科学的フィットネス指導が普及、中国各地で教室を展開",
+      "summary_ja": "中国の上海や浙江などで、高齢者を対象とした科学的な運動指導を行うネットワークが広がっています。専門の指導員や地域のフィットネス教室を通じて、高齢者が安全かつ効果的に体を動かせるよう支援が進んでいます。",
+      "source": "凤凰网",
+      "url": "https://i.ifeng.com/c/8xJuJsvyATr",
       "score": 75,
-      "commercial_score": 60,
+      "commercial_score": 70,
       "product_keywords": [
-        "フィットネスウェア",
-        "ウォーキングシューズ",
-        "縄跳び"
+        "ステッパー",
+        "シニア 体操"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "歩行機能を保つためウォーキングに加え速筋を鍛える筋トレを推奨",
-      "summary_ja": "高齢期の歩行機能と健康寿命に関する専門家の健康法が紹介された。自分の足で歩き続けるためには、通常のウォーキングだけでなく速筋を鍛える筋トレの追加が重要だという。足腰を鍛えて全身の健康を支える具体的な方法が解説されている。",
-      "source": "婦人公論.jp",
-      "url": "https://fujinkoron.jp/articles/-/24421",
-      "score": 74,
+      "title_ja": "筋トレ主食に茹でジャガイモを大量冷凍、栄養士が再加熱に注意喚起",
+      "summary_ja": "筋トレの主食として茹でたジャガイモを冷凍保存した男性が注目を集め、栄養の専門家が助言を行いました。主食を芋類に置き換える方法は有効としつつ、再加熱による影響を考慮することや、非デンプン質の野菜をバランスよく摂ることの大切さを指摘しています。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1089201079_121345914",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "冷凍保存容器",
+        "キッチンスケール"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "呼吸を整え的を狙うスポーツ吹き矢が浸透、健康効果で人気集める",
+      "summary_ja": "的当てや武器のイメージがあった吹き矢が、呼吸を整えて得点を競うスポーツ競技として注目を集めています。健康づくりに役立つ競技として関心が高まり、愛好者の裾野がじわじわと広がっています。",
+      "source": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/life/20261017-GYT8T00022/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "スポーツ吹き矢",
+        "吹き矢 セット"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "避難生活での肺炎や血栓症リスクに備え、医師が事前の対策を助言",
+      "summary_ja": "地震などの災害時に避難所で高まる誤嚥性肺炎や血栓症などの病気リスクについて、医師が注意を促しています。命を守るために日常からできる準備や健康被害を防ぐ備えの大切さが呼びかけられています。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/e39e0994d7080885ec608a299ff0f748b2d592bc",
+      "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "ウォーキングポール",
+        "着圧ソックス",
+        "口腔ケア",
+        "防災グッズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中年女性が見落としがちな瞬発力トレーニングの重要性を専門家が指摘",
+      "summary_ja": "中年の女性が失いやすい身体機能として、瞬発的な力を発揮するパワーの重要性を専門家が指摘しています。瞬発力を鍛えるトレーニングを行うことで、将来の筋力や体のバランス、歩行などの可動性を保つのに役立ちます。",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/lifestyle/articles/overlooked-type-fitness-women-lose-040000173.html",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
         "ダンベル",
         "トレーニングチューブ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "年代別の懸垂の目安回数や上達のコツを専門家が解説",
-      "summary_ja": "フィットネス専門家が、年代に応じた懸垂の達成目安やトレーニングへの取り入れ方について解説した。難度が高い理由を紐解きながら、効率的に回数を伸ばすためのコツや筋トレにもたらす利点を紹介している。",
-      "source": "Health.com",
-      "url": "https://www.health.com/how-many-pull-ups-should-you-do-by-age-12173246",
-      "score": 73,
-      "commercial_score": 80,
-      "product_keywords": [
-        "懸垂バー",
-        "懸垂マシン",
-        "トレーニンググローブ"
-      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "運動のタイミングは朝か夜か、目的別の研究結果が整理",
-      "summary_ja": "運動を行う時間帯について、朝と夜のどちらが効率的かを検証した最新研究が紹介された。睡眠の質向上や減量、運動の継続といった目的ごとに適した時間帯が異なるという。自身の目的に合わせた運動スケジュールの見直しに役立てられる。",
-      "source": "フロントロウ",
-      "url": "https://front-row.jp/_ct/129138/",
-      "score": 72,
-      "commercial_score": 65,
-      "product_keywords": [
-        "トレーニングウェア",
-        "ヨガマット",
-        "ランニングウォッチ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "上海で多世代が参加するフィットネスダンス選手権が開催",
-      "summary_ja": "上海で3日間にわたりフィットネスダンスのフェスティバルと選手権が開催された。広場ダンスや社交ダンスに加え、ストリートダンスや民族舞踊など多彩な種目が競われた。老若男女や子どもまで幅広い世代が参加し、健康増進と自己表現の場となっている。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1088912031_121286085",
-      "score": 72,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ダンスシューズ",
-        "フィットネスパンツ",
-        "スポーツブラ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "日常動作を運動と捉えるアシックスの体験イベントが開催",
-      "summary_ja": "東京の大手町仲通りで、アシックスの体験型イベントが開催されている。抱っこや買い物といった日々の行動を運動として捉え直すきっかけを提供する。期間は2026年10月20日までとなっている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/57e242ba609fc4db282cd0db64663234882d3844",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "アシックス",
-        "ウォーキングシューズ",
-        "スニーカー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "お腹周りの脂肪に健康リスク、米トレーナーが改善策を助言",
-      "summary_ja": "いわゆる中年体型に見られる過剰な腹部脂肪について、米国のパーソナルトレーナーが潜在的な健康リスクを指摘した。腹周りの脂肪を放置すると健康上の問題につながる恐れがあるとして、脂肪を減らすための実践的なアドバイスを語っている。",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/video/6406996232112",
+      "title_ja": "青少年の足と背骨の健康を守る無料検診事業が中国でスタート",
+      "summary_ja": "学校で児童や生徒の脊柱側弯や足の発育異常を調べる無料スクリーニング事業が実施されています。成長期に異常を早期発見して専門病院での再検査や治療につなげ、子どもの骨格の健全な発育を促す狙いです。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089270798_122014422",
       "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "腹筋ローラー",
-        "体組成計",
-        "サウナスーツ"
+        "インソール",
+        "姿勢矯正ベルト",
+        "子供用 矯正靴"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "足首用ウェイトを1週間装着、膝の負傷を機に効果的な筋トレを実践",
+      "summary_ja": "膝を痛めて普段の運動メニューを変更した筆者が、足首用の重りを1週間身につけて運動した体験を伝えています。日常生活にウェイトを取り入れることで筋肉に適度な負荷を与え、無理のないトレーニング効果を得られました。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/17/ankle-weights-workout-fitness",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "アンクルウェイト",
+        "リストウェイト"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "土を使わない手軽な水耕栽培で自宅を緑化しストレス軽減へ",
-      "summary_ja": "植物を育てて健康な暮らしを目指す取り組みとして、室内での水耕栽培が特集された。土を使わないため汚れにくく、初心者でも手軽に緑を取り入れられる。植物と触れ合うことでストレスホルモンの低減につながる効果が期待されている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/c880aa0f4076d3f37f44a580ab74c8b88430368f",
-      "score": 68,
+      "title_ja": "77年続く『お料理家計簿』が登場、健康レシピや多彩なコラムを掲載",
+      "summary_ja": "77年の歴史を持つ『お料理家計簿』に、手軽で健康に良い体があたたまる焼きそばなど人気料理研究家のレシピが掲載されています。食の雑学や健康コラムなど実用的な情報も充実しており、日々の暮らしを支えます。",
+      "source": "毎日新聞",
+      "url": "https://mainichi.jp/articles/20261018/mtm/00m/100/001000c",
+      "score": 65,
       "commercial_score": 85,
       "product_keywords": [
-        "水耕栽培キット",
-        "観葉植物",
-        "LED栽培ライト"
+        "お料理家計簿",
+        "焼きそば 麺",
+        "生姜"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "河南省で住民240人が参加するコミュニティ運動会が開催",
-      "summary_ja": "河南省洛陽市伊川県の鶴鳴広場で、住民の文化スポーツ生活を充実させるコミュニティ運動会が開催された。県内各地区から240名が参加し、科学的で健康的な暮らしの理念を広める趣向を凝らした競技が行われた。健康と運動への関心を高める地域密着のイベントとなっている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1088900231_122014422",
-      "score": 68,
-      "commercial_score": 55,
+      "title_ja": "休暇中も運動や健康食を優先する旅行者が増加、専門家が動向を解説",
+      "summary_ja": "旅行先でも普段の運動習慣や健康的な食事を重視する人々が増えているという調査傾向が明らかになりました。専門家は、休暇中であってもウェルネスや体調管理を維持したいと考える旅行者が広がっていると述べています。",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/lifestyle/videos/travelers-now-prioritize-fitness-healthy-170059055.html",
+      "score": 65,
+      "commercial_score": 65,
       "product_keywords": [
-        "スポーツタオル",
-        "水筒",
+        "トラベル ヨガマット",
         "ランニングポーチ"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国でインフル流行期が到来、医師が無料ワクチンの対象者を解説",
+      "summary_ja": "英国でインフルエンザの流行期を迎える中、国民保健サービスの無料予防接種を受けられる対象者について医師が解説しています。冬の健康を守るためにワクチン接種が不可欠であるとして、早めの対応が促されています。",
+      "source": "Barking and Dagenham Post",
+      "url": "https://www.barkinganddagenhampost.co.uk/news/26620235.can-get-free-nhs-flu-jab-borough-winter/",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "体温計",
+        "マスク"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "盛岡で健康ウオーク開催、約700人が秋の街並み約7.5キロを満喫",
+      "summary_ja": "岩手県盛岡市で健康ウオークイベントが開かれ、市内外から約700人が参加しました。参加者は岩手公園中央広場を発着点として秋の街並みを約7.5キロ歩き、心地よい汗を流しました。",
+      "source": "岩手日報",
+      "url": "https://www.iwate-np.co.jp/article/2026/10/18/197806",
+      "score": 55,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ウォーキングシューズ",
+        "歩数計"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }
