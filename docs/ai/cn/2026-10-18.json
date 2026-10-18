@@ -1,0 +1,51 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T15:34:03+09:00",
+  "stories": [
+    {
+      "title_ja": "ノートPC向け740億モデル登場　容量大幅圧縮でローカル動作",
+      "summary_ja": "米エヌビディア（NVIDIA）が740億パラメータの「Nemotron 3.5 Bolt」をオープンソース公開した。データ容量を85%圧縮して24GBのグラフィックメモリに対応させ、ノートPCのローカル環境で画像理解やプログラム作成などの自律エージェントを実行できる。",
+      "source": "智源社区",
+      "url": "https://hub.baai.ac.cn/view/58771",
+      "score": 88,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ゲーミングノートPC",
+        "RTX",
+        "グラフィックボード"
+      ]
+    },
+    {
+      "title_ja": "中国AI大手が同日新展開　利用者の囲い込みと低価格化で競争",
+      "summary_ja": "中国の大手AIモデル企業2社が同日に新たなサービスを投入した。一方が利用者の入り口確保を進めるのに対し、もう一方は低価格化を打ち出すなど、AI製品や自律エージェントを巡る商業化競争が激化している。",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103385653.html",
+      "score": 76,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "広東省で生成AIサービス195件登録　3年で23倍に急拡大",
+      "summary_ja": "中国広東省における生成AIサービスの登録件数が195件に達した。3年間で23倍に急増しており、現地でのAI産業エコシステムの形成が急速に進んでいる。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_2131593523_7f0d893302001peuo.html?from=tech",
+      "score": 72,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "先端工具向けのAI大模型が登場　材料開発と切削解析を統合",
+      "summary_ja": "超硬合金工具を手がける欧科億と頂材科技が先端材料向けの「智刃」大規模モデルを発表した。材料工学と切削シミュレーションをAIと組み合わせることで、従来の経験と試行錯誤に頼る開発から計算主導への転換を図る。",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261017/herald/0bbea5202ff970984308010f77d00da5.html",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "切削工具",
+        "超硬工具"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-18 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0614;
+    --line: #341a50;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #c8a0ff;
+    --signal: #d8b0ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TRENDING NOW &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-18 &middot; 16:05 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">特斯拉新款Roadster</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">テスラが冷気推進システムを搭載した新型スポーツカーを発表し予約受付を開始しました。 新型車両に標準的なカメラ群やフロントバンパー用レンズが完備されました。専用の運転支援技術を制御して走行できるよう設計されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://auto.ifeng.com/c/8xJn0kTw3Q8" target="_blank" rel="noopener noreferrer">
+                凤凰网汽车 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ガジェット</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://finance.sina.cn/stock/jdts/2026-10-18/detail-inivqyiu1081733.d.html?oid=%E4%B8%80%E6%AF%94%E4%B8%80%E7%B2%BE%E4%BB%BF%E5%90%8D%E8%A1%A8%E6%96%B9%E8%A1%A8%E2%86%92%E5%BE%AE%E4%BF%A1198099199%E2%86%924uEe&amp;vt=4&amp;cid=76524&amp;node_id=76524" target="_blank" rel="noopener noreferrer">新型車両が高度な走行動作を自動で実現へ — 新浪财经</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">肯德基换可口可乐</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">米国のケンタッキーが飲料サプライヤーをペプシからコカ・コーラへ約40年ぶりに刷新します。 大手フライドチキンチェーンが長年のパートナーとの提携を解消し新たな供給契約を結びました。米国内の全店舗で提供される炭酸飲料が順次刷新されます。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.china.com/socialgd/10000169/20261018/49800415.html" target="_blank" rel="noopener noreferrer">
+                中华网 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">食品・グルメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.huxiu.com/article/4898346.html" target="_blank" rel="noopener noreferrer">全米数千店でドリンク提供先が切り替えへ — 虎嗅网</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">AI伪造形象带货被封</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">有名俳優の容貌をAIで無断偽造してコスメを販売したライブコマースのアカウントが永久停止処分を受けました。 人工知能の技術を用いて著名人の外見や声を再現し商品を宣伝する手口が問題視されています。安易な宣伝利用に潜む法的な危険性が指摘されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://finance.eastmoney.com/a/202610183899124521.html" target="_blank" rel="noopener noreferrer">
+                东方财富 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">AI</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://k.sina.com.cn/article_5952915720_162d24908067050nes.html" target="_blank" rel="noopener noreferrer">ＡＩ不正利用の配信アカウントが永久凍結 — 新浪网</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">中国汽车出口滚装船</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">自動車の輸出台数が急増したことで専用の運搬船が不足し海上運賃が高騰しています。 自動車の海外向け出荷が急速に拡大したことで輸送船の確保が追いつかない状況となっています。運送能力の不足が業界全体の変革を促しています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.china.com/socialgd/10000169/20261018/49800410.html" target="_blank" rel="noopener noreferrer">
+                中华网 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ガジェット</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://original.ifeng.com/c/8xIq00MJPr2" target="_blank" rel="noopener noreferrer">自動車運搬船の不足で海上運賃が大幅上昇 — 凤凰网</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">《三体：大史》开拍</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">人気SF『三体』のスピンオフドラマの制作が発表され原作ファンから期待が集まっています。 映画関連イベントにて人気ＳＦ小説から派生した実写作品のクランクインが明かされました。主要キャストが再結集し重要人物を中心とした物語が描かれます。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.sina.cn/2026-10-17/detail-inivqccx7022563.d.html?vt=4&amp;pos=108" target="_blank" rel="noopener noreferrer">
+                新浪新闻 <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://m.sohu.com/a/1089080317_116237/?pvid=000115_3w_a" target="_blank" rel="noopener noreferrer">人気役柄を演じるキャストの続投が決定 — 搜狐</a></li></ul>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Gemini · gemini-3.8-flash-high</footer>
+  </div>
+</body>
+</html>

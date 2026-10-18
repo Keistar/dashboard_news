@@ -1,0 +1,130 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:05:35+09:00",
+  "trends": [
+    {
+      "keyword": "RTX Spark laptop",
+      "reason_ja": "エヌビディアがローカルAI処理を強化した最新ノートPC向けプラットフォームを発表しました。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "RTX Spark laptop",
+        "AI PC",
+        "GeForce RTX"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングノートPC",
+        "AI PC",
+        "GeForce"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "エヌビディアが新型ＡＩノートＰＣを発表",
+          "summary_ja": "グラフィックスと強力な人工知能処理を統合した薄型ノート端末が発表されました。主要メーカー各社からクリエイターやゲーマー向けに展開されます。",
+          "source": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"
+        },
+        {
+          "title_ja": "有機ＥＬ搭載の新型高性能ノートＰＣが登場",
+          "summary_ja": "有機発光ダイオード画面を備えた最新の高性能ノート端末が発売されます。新世代の処理基盤を搭載し競合製品との差別化が図られています。",
+          "source": "ThePCEnthusiast",
+          "url": "https://thepcenthusiast.com/msi-prestige-n16-flip-ai-rtx-spark-n1x/"
+        }
+      ]
+    },
+    {
+      "keyword": "Amazon Bee",
+      "reason_ja": "アマゾンが会話を聞いて買い物を補助する常時接続型の小型AIウェアラブル端末を発売しました。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Amazon Bee",
+        "AI wearable",
+        "smart recorder"
+      ],
+      "product_keywords_ja": [
+        "AIボイスレコーダー",
+        "ウェアラブル端末",
+        "スマートデバイス"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アマゾンが常時待機型ＡＩ端末を発売",
+          "summary_ja": "身に着けて利用する新しい個人向け人工知能端末の販売が始まりました。手頃な価格帯で導入できる新製品として関心を集めています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/amazon-bee-ai-wearable-where-to-buy"
+        },
+        {
+          "title_ja": "会話からおすすめ商品を選ぶ小型ＡＩ端末",
+          "summary_ja": "発話内容を解析して通販サイトのおすすめに反映する端末が登場しました。関連機能の月額利用や専用アクセサリーの展開も予定されています。",
+          "source": "PPC Land",
+          "url": "https://ppc.land/amazons-74-99-bee-wearable-can-turn-spoken-items-into-homepage-picks/"
+        }
+      ]
+    },
+    {
+      "keyword": "KFC Coca-Cola",
+      "reason_ja": "米国のケンタッキーフライドチキンがドリンクの供給元をペプシからコカ・コーラへ変更すると発表しました。",
+      "genre": "food",
+      "commercial_score": 75,
+      "product_keywords": [
+        "KFC",
+        "Coca-Cola",
+        "Pepsi"
+      ],
+      "product_keywords_ja": [
+        "コカコーラ",
+        "ペプシ"
+      ],
+      "trend_source": "ニュース（フード）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "米ケンタッキーが飲料をコカコーラへ移行",
+          "summary_ja": "米国内のファストフード店舗で取り扱う清涼飲料が刷新されることが決まりました。長年続いてきた慣習が終わり新たな商品体制へと移行します。",
+          "source": "KXAN Austin",
+          "url": "https://www.kxan.com/news/kfc-switching-from-pepsi-to-coca-cola-products-in-us-locations/"
+        }
+      ]
+    },
+    {
+      "keyword": "new valorant agent",
+      "reason_ja": "人気ゲーム「VALORANT」の新たなエージェントに関するリーク情報が広まり話題を呼んでいます。",
+      "genre": "gadget",
+      "commercial_score": 65,
+      "product_keywords": [
+        "VALORANT points",
+        "gaming mouse",
+        "gaming headset"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングマウス",
+        "ゲーミングヘッドセット",
+        "PCゲーム"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "新作ゲームキャラのリーク情報が話題に",
+          "summary_ja": "人気オンライン対戦ゲームの新規追加キャラクターに関する情報が拡散しています。開発会社からの公式発表に先駆けファンの間で注目が集まっています。",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/valorant/news/new-valorant-agent-leaks"
+        },
+        {
+          "title_ja": "新キャラクターの能力や公開予定が浮上",
+          "summary_ja": "新キャラクターが持つ固有能力や連携技に関する詳細が話題になっています。お披露目の日程に注目が集まり期待感が高まっています。",
+          "source": "MMOEXP",
+          "url": "https://www.mmoexp.com/News/valorant-new-agent-31-leaked-abilities-and-october-18-reveal.html"
+        }
+      ]
+    }
+  ]
+}

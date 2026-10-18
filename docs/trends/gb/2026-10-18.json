@@ -1,0 +1,137 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:05:35+09:00",
+  "trends": [
+    {
+      "keyword": "Surface Laptop Ultra",
+      "reason_ja": "マイクロソフトがAIエージェント対応を強化した新型ノートPCを発表し反響を呼んでいます。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Surface Laptop Ultra",
+        "Microsoft Copilot",
+        "Windows AI PC"
+      ],
+      "product_keywords_ja": [
+        "Surface Laptop",
+        "マイクロソフト",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "新型ノート端末とＡＩの安全性方針を語る",
+          "summary_ja": "新しいノート端末の登場に合わせ最高経営責任者が今後の展望を語りました。自律型エージェントを安心して利用できる環境づくりが語られています。",
+          "source": "The New Things",
+          "url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy"
+        },
+        {
+          "title_ja": "半導体大手の首脳が新型端末の性能を称賛",
+          "summary_ja": "協力関係にある半導体メーカーのトップが新型ノート端末の仕上がりを高く評価しました。両社の技術が結集した意欲作として注目を集めています。",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/pro/this-computer-is-going-to-be-incredible-nvidia-ceo-jensen-huang-explains-why-the-new-surface-laptop-ultra-is-really-a-work-of-love"
+        }
+      ]
+    },
+    {
+      "keyword": "Bose ANC earbuds",
+      "reason_ja": "ボーズが投入したノイズキャンセリング搭載の有線イヤホンが各地で売り切れとなるなど人気です。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Bose wired earbuds",
+        "ANC earbuds",
+        "noise cancelling"
+      ],
+      "product_keywords_ja": [
+        "ボーズ イヤホン",
+        "有線イヤホン",
+        "ノイズキャンセリング"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ボーズの新型有線イヤホンが品薄の人気",
+          "summary_ja": "ノイズ低減機能を備えた新型の有線イヤホンが大きな成功を収めています。充電切れを気にせず使える利便性から各店舗で完売が続いています。",
+          "source": "T3",
+          "url": "https://www.t3.com/tech/earbuds/i-tried-boses-new-anc-earbuds-with-a-battery-that-never-runs-out-heres-why-theyre-sold-out-in-most-places"
+        },
+        {
+          "title_ja": "有線イヤホンが再評価され新機能を搭載",
+          "summary_ja": "有線タイプのイヤホンが再び見直されるなか新機能を取り入れた製品が登場しました。遮音技術を備えることで新たな需要を捉えています。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review"
+        }
+      ]
+    },
+    {
+      "keyword": "yorkshire marathon 2026",
+      "reason_ja": "英国ヨークシャーで大規模なマラソン大会が開催され、市民ランナーや交通情報への関心が高まっています。",
+      "genre": "health",
+      "commercial_score": 65,
+      "product_keywords": [
+        "running shoes",
+        "marathon gear",
+        "energy gel"
+      ],
+      "product_keywords_ja": [
+        "ランニングシューズ",
+        "マラソン ウェア",
+        "エナジージェル"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "市民ランナーがマラソンへの想いを語る",
+          "summary_ja": "各地から集まった参加者が長距離コースに挑む動機や熱意を語り合っています。走ることを通じて生活が変わった経験などが紹介されています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld04z83xdo"
+        },
+        {
+          "title_ja": "マラソン開催に伴う道路規制情報を公開",
+          "summary_ja": "大規模なランニング大会の実施に合わせて周辺地域の交通規制が案内されています。多くのランナーが集う週末の行事に向けて注意が呼びかけられています。",
+          "source": "The York Press",
+          "url": "https://www.yorkpress.co.uk/news/26632237.road-closures-yorkshire-marathon-weekend-around-york/"
+        }
+      ]
+    },
+    {
+      "keyword": "amsterdam marathon 2026",
+      "reason_ja": "国際的な有力選手が集うアムステルダムマラソンの開催を控え、注目選手に期待が寄せられています。",
+      "genre": "health",
+      "commercial_score": 60,
+      "product_keywords": [
+        "running watch",
+        "sports nutrition",
+        "hydration pack"
+      ],
+      "product_keywords_ja": [
+        "ランニングウォッチ",
+        "スポーツようかん",
+        "給水ボトル"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "有力選手がマラソン連覇へ向け再出場",
+          "summary_ja": "主要な国際大会で前回の優勝選手たちが王座防衛を目指して再び出走します。ハイレベルな争いが期待されるロードレースとして注目されています。",
+          "source": "worldathletics.org",
+          "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/amsterdam-marathon-2026-kipchumba-desta"
+        },
+        {
+          "title_ja": "長距離マラソンに強豪選手が多数参戦",
+          "summary_ja": "国際的な長距離走大会にトップレベルの選手団が送り込まれます。有力選手が揃い踏みとなりレースの行方に高い関心が集まっています。",
+          "source": "The Kenya Times",
+          "url": "https://thekenyatimes.com/sports/kenyan-athletes-in-amsterdam-marathon/"
+        }
+      ]
+    }
+  ]
+}

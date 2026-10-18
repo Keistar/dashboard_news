@@ -1,225 +1,273 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:37:24+09:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T15:36:47+09:00",
   "stories": [
     {
-      "title_ja": "アップル初の折りたたみスマホ「iPhone Duo」が10月23日発売へ",
-      "summary_ja": "アップルは同社初となる折りたたみスマートフォン「iPhone Duo」を、2026年10月23日に発売すると発表した。価格は36万4800円からとなっている。",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/jcasttrend_20262518501/",
-      "score": 95,
+      "title_ja": "米アマゾンがAI要約ボイスレコーダー2機種を発表",
+      "summary_ja": "米アマゾンが新たなAIガジェットとして、リストバンド型の「Bee Frontier」とカード型の「Bee Eclipse」を発表しました。会話を聞き取って文字起こしや要約を行う端末で、会話から察して必要な動作をこなします。",
+      "source": "Gizmodo",
+      "url": "https://www.gizmodo.jp/article/2610-amazon-bee-ai-gadgets/",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ボイスレコーダー",
+        "スマートウォッチ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エヌビディアのRTX Spark搭載ノートPC各社から発売",
+      "summary_ja": "エヌビディアの「RTX Spark」を搭載したノートパソコンが店頭に登場しました。エイスースやデル、HP、レノボ、マイクロソフト、MSIなどの各社から発売され、MacBook Proに対抗するWindows機として展開されます。",
+      "source": "TechEBlog -",
+      "url": "https://www.techeblog.com/nvidia-rtx-spark-laptops-launch-asus-lenovo-msi-comparison-macbook-pro/",
+      "score": 85,
+      "commercial_score": 85,
+      "product_keywords": [
+        "NVIDIA ノートパソコン",
+        "Surface Laptop"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "シャオミの折りたたみ機「小米18 Fold」が10万台突破",
+      "summary_ja": "シャオミ（Xiaomi）の折りたたみスマートフォン「小米18 Fold」の販売台数が約10万4,700台に達しました。自社製プロセッサの玄戒O3を初搭載し、背面にライカと共同開発した3眼カメラを備え、10,999元から発売されています。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xJaWFQJwKy",
+      "score": 85,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Xiaomi スマホ",
+        "シャオミ",
+        "折りたたみスマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "アップル初の折りたたみ機iPhone Duoの特徴をおさらい",
+      "summary_ja": "アップルが発売した折りたたみスマートフォン「iPhone Duo」の仕様や価格、発売日などの情報が整理されています。名称に定番のFoldではなくペアを意味するDuoを採用した、同社初の折りたたみ端末です。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3d45760701b4378ec0898b49d185cce9aa75ab02",
+      "score": 80,
       "commercial_score": 90,
       "product_keywords": [
         "iPhone",
-        "アップル"
+        "Apple"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "エヌビディア、AI機能とRTXを統合した新規格ノートPCを発売",
-      "summary_ja": "エヌビディアは薄型のWindowsノートPC向け新プラットフォーム「RTX Spark」の提供を開始した。RTXグラフィックスと独自のAI環境を統合し、創作活動やゲーム、ローカルAI処理を高速化する。ASUSやHP、マイクロソフトなどの各社から順次発売される。",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "score": 90,
-      "commercial_score": 75,
-      "product_keywords": [
-        "NVIDIA",
-        "ゲーミングノートPC",
-        "AI PC"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ソニーが約65万円の新型ウォークマン発表、高音質を追求し11月発売へ",
-      "summary_ja": "ソニーは携帯音楽プレーヤー「ウォークマン」の4年ぶりとなる新型機を11月27日に発売すると発表した。市場想定価格は約65万5000円で、銅製カバーやコンデンサー2基を搭載している。楽器の音色や演奏の臨場感を忠実に再現する設計にこだわった。",
-      "source": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/economy/20261016-GYT1T00271/",
-      "score": 85,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ウォークマン",
-        "ソニー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ヤシカ、重さ93gで光学式ファインダー付きのレトロ小型カメラ発売",
-      "summary_ja": "ヤシカは1959年の名機デザインを継承した小型デジタルカメラ「Y16」の予約受付を開始した。重さ93グラムのプラスチック製ボディに、1200万画素のセンサーと光学ファインダーを収めている。夜間撮影用のキセノンフラッシュも備える。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Retro-compact-camera-launches-with-xenon-flash-and-optical-viewfinder-in-93g-body.1426058.0.html",
-      "score": 85,
+      "title_ja": "パナソニックが欧州で超軽量レッツノートFC7を発売",
+      "summary_ja": "パナソニックが欧州市場で14型ビジネスノート「レッツノート FC7」を展開します。神戸工場で製造されたマグネシウム筐体により重さは1.039キロに抑えられ、交換可能なバッテリーやフルサイズの有線LAN端子を備えています。",
+      "source": "news.lavx.hu",
+      "url": "https://news.lavx.hu/article/panasonic-launches-ultralight-japan-built-let-s-note-fc7-in-europe",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "ヤシカ",
-        "コンパクトカメラ",
-        "デジタルカメラ"
+        "レッツノート",
+        "パナソニック ノートパソコン",
+        "軽量ノートパソコン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "OnePlus 16が半日で7万台超え、初日売上トップで一部品薄に",
-      "summary_ja": "新型スマートフォン「OnePlus（ワンプラス）16」の初回販売が好調で、発売から半日で7万台以上を売り上げた。今年のAndroidフラッグシップ機として初速トップの売上を記録している。人気により一部のバリエーションでは約1週間の品薄が生じている。",
-      "source": "科客",
-      "url": "https://www.keke289.com/news/26539.html",
-      "score": 85,
+      "title_ja": "ファーウェイが新ブランド星芒を計画 冷却ファン搭載機も",
+      "summary_ja": "華為（ファーウェイ）が新ブランド「星芒」のスマートフォンを開発していることが判明しました。オンライン販売を中心にコストパフォーマンスを高めた展開を予定しており、計画中の新機種には空冷ファンを備えた冷却機能付きモデルも含まれています。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_1826017320_6cd6d02802001xrjg.html?from=tech",
+      "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "OnePlus",
-        "SIMフリースマートフォン"
+        "HUAWEI スマホ",
+        "ファーウェイ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "RTX 5090と有機EL画面を積んだ16型ゲーミングPCが登場",
-      "summary_ja": "新型ゲーミングノートPC「Aorus Master 16 Gen 2」が発表された。AMDのRyzen 9 9955HX3Dに加え、RTX 5080またはRTX 5090グラフィックスを選択できる。240Hz駆動の有機EL画面や99Whの大容量バッテリーを搭載する。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-16-inch-gaming-laptop-released-with-240-Hz-OLED-and-Nvidia-GeForce-RTX-5090.1426104.0.html",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ゲーミングPC",
-        "GeForce RTX"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "Surface Laptop Ultra実機評、AIとゲームを両立",
-      "summary_ja": "米Ars Technicaがマイクロソフトの新型PC「Surface Laptop Ultra」のレビューを掲載した。開発業務やAI処理、ゲームのすべてを1台でこなすという公約を概ね達成していると評価されている。多用途で高性能なノートPCを求める層に支持されている。",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "マイクロソフト",
-        "Surface",
-        "Surface Laptop"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国でAIエージェントがスマホ画面を操作する機能が順次開放へ",
-      "summary_ja": "バイトダンスの「豆包スマホ」で、AIエージェントがアプリ画面を自動操作する機能の段階的開放が発表された。所定の手続きを経て外部アプリへの操作権限が順次認められる。明確に拒否を表明したアプリは操作の対象外となる仕組みだ。",
-      "source": "凤凰网财经",
-      "url": "https://finance.ifeng.com/c/8xH6jFUr6kv",
-      "score": 80,
-      "commercial_score": 60,
-      "product_keywords": [
-        "AIスマートフォン",
-        "スマート端末"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ブラウンの1万円台ノンフライヤー登場、焼く・温める調理にも対応",
-      "summary_ja": "デロンギ・ジャパンがブラウンブランドの「ノンフライヤー マルチフライ」を発表した。揚げ物調理だけでなく、食材を焼いたり温め直したりする機能も備える。1万円台で購入できる手頃な調理家電として登場した。",
-      "source": "GetNavi web",
-      "url": "https://getnavi.jp/appliances/1117824/",
+      "title_ja": "Galaxy折りたたみ最新機がセールで約1.5万円引き",
+      "summary_ja": "サムスンが発売した折りたたみスマートフォン「Galaxy Z Fold8 Ultra」の256GBモデルが、Amazonプライム感謝祭で約15,000円引きとなっています。閉じた状態では幅約73ミリ、開くと約8インチの大画面になり、約2億画素のカメラや最上位チップを搭載しています。",
+      "source": "ライフハッカー",
+      "url": "https://www.lifehacker.jp/article/2610-galaxy-z-fold8-ultra-amazon-sale/",
       "score": 75,
       "commercial_score": 95,
       "product_keywords": [
-        "ノンフライヤー",
-        "ブラウン",
-        "電気フライヤー"
+        "Galaxy Z Fold8 Ultra",
+        "Galaxy",
+        "サムスン"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "HP、最大192GBメモリ搭載可能な16型高性能ノートPCを発売",
-      "summary_ja": "HPは米国や欧州で16インチの新型ノートPC「ZBook Ultra G3a」を発売した。最大16コアのAMD Ryzen AI Max+ Pro 495や、最大192GBのメモリを搭載できる。高負荷な業務向けに3K解像度と120Hz駆動の画面も備える。",
+      "title_ja": "オナーがケーブル内蔵の急速充電モバイルバッテリー発売",
+      "summary_ja": "オナー（Honor）が中国で「Life」モバイルバッテリー2機種を発売しました。容量は10,000mAhと20,000mAhで、編組USB-Cケーブルを内蔵し、22.5Wの双方向急速充電や残量表示ディスプレイを備えています。価格は148元（約22ドル）からとなっています。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/HP-releases-powerful-16-inch-laptop-globally-with-up-to-AMD-Ryzen-AI-Max-Pro-495-and-192GB-RAM.1425366.0.html",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "HP ノートパソコン",
-        "ZBook"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "暖房の熱を部屋に循環させて光熱費を抑える小型ファンが人気に",
-      "summary_ja": "家庭用ラジエーターの熱を部屋全体に行き渡らせる、持ち運び可能なマルチファン式サーキュレーターが注目を集めている。効率的な熱の循環により暖房効果を高め、暖房費の大幅な節約につながると評判を呼んでいる。",
-      "source": "Liverpool Echo",
-      "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/wish-id-years-ago--34773963.amp",
+      "url": "https://www.notebookcheck.net/Honor-launches-affordable-power-banks-with-fast-charging-and-built-in-cables.1426109.0.html",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "サーキュレーター",
-        "暖房ファン",
-        "節電グッズ"
+        "Honor モバイルバッテリー",
+        "急速充電 モバイルバッテリー",
+        "ケーブル内蔵 モバイルバッテリー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ベースアスが画面付き14in1ドック発売 120W給電に対応",
+      "summary_ja": "ベースアス（Baseus）が新型ドッキングステーション「Spacemate RD1 Plus」を発売しました。GaN電源を内蔵し、ディスプレイ画面の搭載に加えてデュアル4K映像出力や120Wの急速充電をサポートしています。発売価格は259.99ドルです。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Baseus-launches-new-14-in-1-dock-with-dual-4K-output-120W-fast-charging-and-display.1426835.0.html",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Baseus ドッキングステーション",
+        "Baseus ドック",
+        "USB-C ハブ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ボーズの充電不要な有線ノイキャンイヤホンが人気で品薄",
+      "summary_ja": "ボーズ（Bose）の新しい有線ノイズキャンセリングイヤホンが各地で完売するなど注目を集めています。バッテリー切れを気にせず使える有線モデルで、強力なノイズキャンセリング機能を備えています。",
+      "source": "T3",
+      "url": "https://www.t3.com/tech/earbuds/i-tried-boses-new-anc-earbuds-with-a-battery-that-never-runs-out-heres-why-theyre-sold-out-in-most-places",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Bose イヤホン",
+        "ノイズキャンセリング 有線",
+        "ボーズ イヤホン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "HP、有機EL画面を選べる14型薄型ノート「OmniBook 5」発表",
-      "summary_ja": "HPは薄型軽量の14インチノートPC「OmniBook 5」を発表した。インテルの最新Core 5シリーズ3プロセッサを搭載し、有機ELディスプレイも選択できる。学業や仕事、動画視聴など長時間の日常使用に適した設計となっている。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/paid-content/meet-the-new-hp-omnibook-5-an-oled-laptop-built-for-long-days-of-work-class-and-streaming/",
+      "title_ja": "ワンプラス16がグローバル展開に向けソフトウェア試験中",
+      "summary_ja": "2026年10月に中国で発表されたスマートフォン「OnePlus 16」について、海外市場向けのソフトウェアテストが進められていることが明らかになりました。中国国外での正式リリースが近づいていることが示唆されています。",
+      "source": "Notebookcheck CN",
+      "url": "https://www.notebookcheck-cn.com/OnePlus-16.1426731.0.html",
       "score": 75,
       "commercial_score": 80,
       "product_keywords": [
-        "HP",
-        "ノートパソコン",
-        "有機EL"
+        "OnePlus",
+        "ワンプラス スマホ",
+        "SIMフリースマホ"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "新型HomePod mini 2とApple TV 4Kでリビング環境が進化",
-      "summary_ja": "新型の「HomePod mini 2」と「Apple TV 4K」の進化点が紹介されている。音と光による空間演出や本格的なホームシアター体験が可能になった。リビングのエンターテインメント環境を向上させる機器として期待される。",
-      "source": "ライフハッカー",
-      "url": "https://www.lifehacker.jp/article/2610-apple-smarthome/",
+      "title_ja": "JBLのイヤホンやスピーカーなど秋の新作が集結",
+      "summary_ja": "ハーマンインターナショナルが、JBLの秋の新製品を集めたイベント「HARMAN ExPLORE TOKYO 2026」を開催しました。会場にはイヤホンやヘッドホンのほか、Wi-Fi対応スピーカーやサウンドバーなどの最新製品が揃いました。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19891465?news_ref=watch_50_nw18995438",
       "score": 70,
-      "commercial_score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "HomePod mini",
-        "Apple TV 4K"
+        "JBL イヤホン",
+        "JBL スピーカー",
+        "JBL サウンドバー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "手頃なトライアスロン対応スマートウォッチの性能を徹底検証",
-      "summary_ja": "2026年最新のトライアスロン向けスマートウォッチを実機で比較する検証記事が公開された。400ドル前後の普及型モデルが、1200ドルの高級機にどこまで迫れるかを機能や仕様から評価している。独自の採点方式で買いの一台を探る内容となっている。",
-      "source": "Triathlete",
-      "url": "https://www.triathlete.com/gear/tech-wearables/best-triathlon-smartwatches/",
+      "title_ja": "カプコンとコラボのストII腕時計が登場 格闘対戦も可能",
+      "summary_ja": "カプコンとMy Play WatchのコラボレーションによるストリートファイターIIのウェアラブル時計が登場しました。タッチ画面で初代の8キャラクターによる格闘ゲームが遊べるほか、アーケード音源や14金の装飾を備えており、米国と欧州で予約受付が始まっています。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/New-80-Street-Fighter-II-gaming-watch-brings-arcade-battles-gold-detailing-and-retro-collectables.1426020.0.html",
       "score": 70,
-      "commercial_score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "スマートウォッチ",
-        "スポーツウォッチ",
-        "GPSウォッチ"
+        "ストリートファイター 時計",
+        "カプコン グッズ",
+        "スマートウォッチ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "センサーとLEDを内蔵したスマートサイコロGoDiceが登場",
+      "summary_ja": "パーティキュラ（Particula）の「GoDice」は、サイコロをデジタル化したガジェットです。見た目は従来のサイコロのようですが、各ダイスに動きを検知するモーションセンサーや無線通信機能、LED発光システムを搭載しています。",
+      "source": "Wales Online",
+      "url": "https://www.walesonline.co.uk/whats-on/shopping/review-particula-godice-drags-dice-34780124",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "スマートトイ",
+        "知育玩具",
+        "電子ダイス"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ORICOがノートPC市場に参入、デュアルSSD搭載の15型機発表",
-      "summary_ja": "周辺機器メーカーのORICO（オリコ）がAIノートPC「Obook15」を発表した。Ryzen 7 6800Hプロセッサに加え、SSDスロットを2基備えているのが特徴である。フルHDディスプレイやAIアシスタント機能も搭載する。",
-      "source": "Digital Reviews Network",
-      "url": "https://www.digitalreviews.net/news/pressers/orico-obook15-ai-laptop/",
-      "score": 65,
-      "commercial_score": 70,
+      "title_ja": "独T+Aがロスレス対応の高級ヘッドホン新モデルを発表",
+      "summary_ja": "ドイツのオーディオメーカーT+Aが、高級ワイヤレスヘッドホン「Solitaire T Pro」を発表しました。ドルビーアトモスやaptX Lossless、高性能DAC技術に対応し、高音質なワイヤレス再生を実現しています。",
+      "source": "eCoustics",
+      "url": "https://www.ecoustics.com/products/ta-solitaire-t-pro-wireless-headphones/",
+      "score": 70,
+      "commercial_score": 80,
       "product_keywords": [
-        "ORICO",
-        "ノートパソコン"
+        "高級ヘッドホン",
+        "ワイヤレスヘッドホン",
+        "Dolby Atmos ヘッドホン"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "モトローラが大容量バッテリー搭載のMoto G47 Power準備",
+      "summary_ja": "モトローラの新型スマートフォン「Moto G47 Power」の情報が欧州の能效データベースから判明しました。定格容量6,790mAhの大容量バッテリーを搭載し、33Wの急速充電に対応する仕様となっています。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivpfyr8233592.d.html?oid=%F0%9F%8F%B6%E2%9E%A8%ED%95%B4%EC%BB%A4%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%EC%97%85%EC%B2%B4%F0%9F%87%B2%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9E%AC%ED%85%8C%ED%81%AC%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%F0%9F%A6%B5%F0%9F%9E%AD@diet6798%F0%9F%91%BA%F0%9F%91%91%EC%B5%9C%EC%8B%A0%ED%95%B4%ED%82%B9DB%EA%B0%80%EA%B2%A9%EB%AC%B8%EC%9D%98%F0%9F%84%B3&vt=4&cid=76993&node_id=76993",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Motorola スマホ",
+        "モトローラ スマホ",
+        "大容量バッテリー スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ヌビアV90 Proの画像流出 1億画素カメラや512GB",
+      "summary_ja": "ヌビア（nubia）のスマートフォン「V90 Pro」のレンダリング画像が公開されました。1億800万画素のメインカメラや512GBのストレージ、パンチホール型ディスプレイを備え、ワインレッドやダークグレーなどの本体色が確認されています。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivpfyf6464719.d.html?oid=%E5%93%88%E5%B0%94%E6%BB%A8%E9%81%93%E9%87%8C%E5%8C%BA%E5%93%AA%E6%9C%89%E7%BE%8E%E5%A5%B3%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%EF%BC%88%E5%85%A8%E6%96%B0%E6%A8%A1%E5%BC%8F%EF%BC%89%E5%BE%AE%E4%BF%A1%EF%BC%88117909%E2%91%A0%E2%91%A0%EF%BC%89%E5%BD%93%E9%9D%A2%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%BB%A1%E6%84%8F%E4%BB%98%E6%AC%BE5CvZnL0hluYseJSUNAfErdy0209&vt=4",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "nubia スマホ",
+        "ヌビア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "英デュネルムが暖房要らずで足元を温める防寒具を発売",
+      "summary_ja": "英インテリア小売のデュネルムが、セントラルヒーティングをつけずに冷えた足を温かく保てる防寒ガジェットを28ポンドで販売しています。冬の寒さ対策に適しており、利用者の間でも足元をしっかり温めてくれると好評を集めています。",
+      "source": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk/news/money-saving/dunelms-28-gadget-keeps-cold-34774479",
+      "score": 65,
+      "commercial_score": 85,
+      "product_keywords": [
+        "フットウォーマー",
+        "足温器",
+        "電気スリッパ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

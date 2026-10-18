@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-18 — CN EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0a04;
+    --line: #3c2400;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #f59840;
+    --signal: #ffb050;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; GADGETS & DEVICES &#9656; CN EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-18 &middot; 15:36 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">シャオミの折りたたみ機「小米18 Fold」が10万台突破</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">シャオミ（Xiaomi）の折りたたみスマートフォン「小米18 Fold」の販売台数が約10万4,700台に達しました。自社製プロセッサの玄戒O3を初搭載し、背面にライカと共同開発した3眼カメラを備え、10,999元から発売されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://tech.ifeng.com/c/8xJaWFQJwKy" target="_blank" rel="noopener noreferrer">
+                凤凰网科技 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ファーウェイが新ブランド星芒を計画 冷却ファン搭載機も</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">80<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">華為（ファーウェイ）が新ブランド「星芒」のスマートフォンを開発していることが判明しました。オンライン販売を中心にコストパフォーマンスを高めた展開を予定しており、計画中の新機種には空冷ファンを備えた冷却機能付きモデルも含まれています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://k.sina.com.cn/article_1826017320_6cd6d02802001xrjg.html?from=tech" target="_blank" rel="noopener noreferrer">
+                新浪网 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ワンプラス16がグローバル展開に向けソフトウェア試験中</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">75<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">2026年10月に中国で発表されたスマートフォン「OnePlus 16」について、海外市場向けのソフトウェアテストが進められていることが明らかになりました。中国国外での正式リリースが近づいていることが示唆されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://www.notebookcheck-cn.com/OnePlus-16.1426731.0.html" target="_blank" rel="noopener noreferrer">
+                Notebookcheck CN <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">モトローラが大容量バッテリー搭載のMoto G47 Power準備</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">モトローラの新型スマートフォン「Moto G47 Power」の情報が欧州の能效データベースから判明しました。定格容量6,790mAhの大容量バッテリーを搭載し、33Wの急速充電に対応する仕様となっています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivpfyr8233592.d.html?oid=%F0%9F%8F%B6%E2%9E%A8%ED%95%B4%EC%BB%A4%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%EC%97%85%EC%B2%B4%F0%9F%87%B2%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9E%AC%ED%85%8C%ED%81%AC%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%F0%9F%A6%B5%F0%9F%9E%AD@diet6798%F0%9F%91%BA%F0%9F%91%91%EC%B5%9C%EC%8B%A0%ED%95%B4%ED%82%B9DB%EA%B0%80%EA%B2%A9%EB%AC%B8%EC%9D%98%F0%9F%84%B3&amp;vt=4&amp;cid=76993&amp;node_id=76993" target="_blank" rel="noopener noreferrer">
+                finance.sina.com.cn <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ヌビアV90 Proの画像流出 1億画素カメラや512GB</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">70<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">ヌビア（nubia）のスマートフォン「V90 Pro」のレンダリング画像が公開されました。1億800万画素のメインカメラや512GBのストレージ、パンチホール型ディスプレイを備え、ワインレッドやダークグレーなどの本体色が確認されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivpfyf6464719.d.html?oid=%E5%93%88%E5%B0%94%E6%BB%A8%E9%81%93%E9%87%8C%E5%8C%BA%E5%93%AA%E6%9C%89%E7%BE%8E%E5%A5%B3%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%EF%BC%88%E5%85%A8%E6%96%B0%E6%A8%A1%E5%BC%8F%EF%BC%89%E5%BE%AE%E4%BF%A1%EF%BC%88117909%E2%91%A0%E2%91%A0%EF%BC%89%E5%BD%93%E9%9D%A2%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%BB%A1%E6%84%8F%E4%BB%98%E6%AC%BE5CvZnL0hluYseJSUNAfErdy0209&amp;vt=4" target="_blank" rel="noopener noreferrer">
+                新浪财经 <span aria-hidden="true">&#8599;</span>
+              </a>
+              
+            </div>
+            
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Gemini · gemini-3.8-flash-high</footer>
+  </div>
+</body>
+</html>
