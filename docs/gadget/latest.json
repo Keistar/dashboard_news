@@ -1,273 +1,270 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:36:47+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:37:17+09:00",
   "stories": [
     {
-      "title_ja": "米アマゾンがAI要約ボイスレコーダー2機種を発表",
-      "summary_ja": "米アマゾンが新たなAIガジェットとして、リストバンド型の「Bee Frontier」とカード型の「Bee Eclipse」を発表しました。会話を聞き取って文字起こしや要約を行う端末で、会話から察して必要な動作をこなします。",
-      "source": "Gizmodo",
-      "url": "https://www.gizmodo.jp/article/2610-amazon-bee-ai-gadgets/",
+      "title_ja": "アップルがタッチ画面搭載の新型MacBook Proを11月上旬発売か",
+      "summary_ja": "アップルがタッチ操作に対応した新型MacBook Proを、早ければ11月6日に発売する可能性があると伝えられた。発表は10月27日か28日と見込まれており、有機ELやダイナミックアイランドの搭載が期待されている。",
+      "source": "テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/19/5605.html",
       "score": 85,
       "commercial_score": 80,
       "product_keywords": [
-        "ボイスレコーダー",
-        "スマートウォッチ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "エヌビディアのRTX Spark搭載ノートPC各社から発売",
-      "summary_ja": "エヌビディアの「RTX Spark」を搭載したノートパソコンが店頭に登場しました。エイスースやデル、HP、レノボ、マイクロソフト、MSIなどの各社から発売され、MacBook Proに対抗するWindows機として展開されます。",
-      "source": "TechEBlog -",
-      "url": "https://www.techeblog.com/nvidia-rtx-spark-laptops-launch-asus-lenovo-msi-comparison-macbook-pro/",
-      "score": 85,
-      "commercial_score": 85,
-      "product_keywords": [
-        "NVIDIA ノートパソコン",
-        "Surface Laptop"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "シャオミの折りたたみ機「小米18 Fold」が10万台突破",
-      "summary_ja": "シャオミ（Xiaomi）の折りたたみスマートフォン「小米18 Fold」の販売台数が約10万4,700台に達しました。自社製プロセッサの玄戒O3を初搭載し、背面にライカと共同開発した3眼カメラを備え、10,999元から発売されています。",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8xJaWFQJwKy",
-      "score": 85,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Xiaomi スマホ",
-        "シャオミ",
-        "折りたたみスマホ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "アップル初の折りたたみ機iPhone Duoの特徴をおさらい",
-      "summary_ja": "アップルが発売した折りたたみスマートフォン「iPhone Duo」の仕様や価格、発売日などの情報が整理されています。名称に定番のFoldではなくペアを意味するDuoを採用した、同社初の折りたたみ端末です。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/3d45760701b4378ec0898b49d185cce9aa75ab02",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "iPhone",
+        "MacBook Pro",
         "Apple"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "パナソニックが欧州で超軽量レッツノートFC7を発売",
-      "summary_ja": "パナソニックが欧州市場で14型ビジネスノート「レッツノート FC7」を展開します。神戸工場で製造されたマグネシウム筐体により重さは1.039キロに抑えられ、交換可能なバッテリーやフルサイズの有線LAN端子を備えています。",
-      "source": "news.lavx.hu",
-      "url": "https://news.lavx.hu/article/panasonic-launches-ultralight-japan-built-let-s-note-fc7-in-europe",
-      "score": 80,
-      "commercial_score": 85,
+      "title_ja": "シャオミが「REDMI K100」を10月27日に発表すると告知",
+      "summary_ja": "シャオミ（Xiaomi）傘下のREDMIブランドが、新型スマートフォン「K100」を10月27日夜に発表すると明らかにした。標準モデルとして初めてゲーム専用の独立ディスプレイチップを備え、長時間バッテリーで高い電池持ちを目指す。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1089541597_115060",
+      "score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "レッツノート",
-        "パナソニック ノートパソコン",
-        "軽量ノートパソコン"
+        "Xiaomi",
+        "Redmi"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "ファーウェイが新ブランド星芒を計画 冷却ファン搭載機も",
-      "summary_ja": "華為（ファーウェイ）が新ブランド「星芒」のスマートフォンを開発していることが判明しました。オンライン販売を中心にコストパフォーマンスを高めた展開を予定しており、計画中の新機種には空冷ファンを備えた冷却機能付きモデルも含まれています。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_1826017320_6cd6d02802001xrjg.html?from=tech",
-      "score": 80,
+      "title_ja": "華為がオンライン向け新ブランド「星芒」のスマホを準備中か",
+      "summary_ja": "華為（Huawei）がネット販売を主力とする新サブブランド「星芒」からスマートフォンを投入する見込みだと報じられた。手頃な価格設定を特徴とし、冷却ファンを内蔵したモデルなど複数機種の展開が計画されている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089397503_500393",
+      "score": 84,
       "commercial_score": 75,
       "product_keywords": [
-        "HUAWEI スマホ",
-        "ファーウェイ"
+        "Huawei スマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "Galaxy折りたたみ最新機がセールで約1.5万円引き",
-      "summary_ja": "サムスンが発売した折りたたみスマートフォン「Galaxy Z Fold8 Ultra」の256GBモデルが、Amazonプライム感謝祭で約15,000円引きとなっています。閉じた状態では幅約73ミリ、開くと約8インチの大画面になり、約2億画素のカメラや最上位チップを搭載しています。",
+      "title_ja": "ビーツがパッド着脱交換可能な旗艦ヘッドホン「Beats 360」発表",
+      "summary_ja": "ビーツ（Beats）が新たな旗艦オーバーイヤー型ヘッドホン「Beats 360」を発表した。通気性に優れたニット地と柔らかいレザーの2種類のクッションを用意し、イヤーパッドとヘッドバンドの部品を気分に合わせて交換できる。",
+      "source": "HOUYHNHNM（フイナム）",
+      "url": "https://www.houyhnhnm.jp/en/news/1181068/",
+      "score": 83,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Beats ヘッドホン",
+        "ワイヤレスヘッドホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "アンカーが画面付き100W充電器を発表、PC電池の長寿命化を実現",
+      "summary_ja": "アンカー（Anker）がノートパソコン向け充電器「Laptop Charger Pro」の発売日程を公表した。表示画面を備えた最大100W出力の急速充電器で、独自技術によりノートPCのバッテリー寿命を40%延ばすとされている。",
+      "source": "Gagadget.com",
+      "url": "https://gagadget.com/en/730603-ankers-new-charger-extends-laptop-battery-life-by-40-with-smart-charging-tech-amp/",
+      "score": 82,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker 充電器",
+        "100W 充電器"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国新興企業がAIエージェント主導のスマホ「STEPX Neo」発売",
+      "summary_ja": "AIスタートアップのStepFunが、アプリを開くことなく操作できるスマートフォン「STEPX Neo」を発表した。システム常駐のAI代理「Amoo」が主な入口となり、価格は3999元で1年分のAI利用枠が付属する。",
+      "source": "디지털투데이",
+      "url": "https://www.digitaltoday.co.kr/cn/view/115996/china-stepfun-launches-stepx-neo-agent-based-smartphone-redesigns-os-from-scratch",
+      "score": 82,
+      "commercial_score": 70,
+      "product_keywords": [
+        "AI スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "HPが最大20時間駆動の低価格16型ノート「OmniBook 3 16」発表",
+      "summary_ja": "米HPが最大20時間のバッテリー持続時間をうたう16インチの低価格ノートパソコンを発表した。クアルコムのSnapdragon Cプロセッサーを搭載し、購入後にユーザー自身でメモリーや保存容量を増設できる設計となっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-budget-16-inch-laptop-with-up-to-20-hours-battery-life.1427325.0.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "HP ノートパソコン",
+        "OmniBook"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "シャオミが厚さ6.75mmの極薄磁気モバイルバッテリー改良版を投入",
+      "summary_ja": "シャオミ（Xiaomi）が容量5,000mAhの極薄マグネット式モバイルバッテリーの最新版を発売した。シリコンカーボン電池の採用で厚さわずか6.75mmを維持しつつ、充電速度と安全性を前機種から高めている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Xiaomi-launches-new-version-of-UltraThin-magnetic-power-bank-Only-6-75-mm-thick.1426753.0.html",
+      "score": 78,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Xiaomi モバイルバッテリー",
+        "磁気充電 モバイルバッテリー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "アイクーが新型スマートフォン「Neo12」を10月28日発表即売へ",
+      "summary_ja": "iQOOが新型スマートフォン「Neo12」を10月28日19時に発表し、同時に発売すると告知した。本体デザインには中国美術学院と共同で制作した独自の新色が採用されている。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xLOE7CmIFA",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "iQOO スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "B&Wが主力ヘッドホンや完全ワイヤレスイヤホンに新カラーを追加",
+      "summary_ja": "イギリスの高級音響機器メーカーBowers & Wilkins（B&W）が、高級ヘッドホン「Px7 S3」「Px8 S2」およびイヤホン「Pi8」に新色を追加した。人気のプレミアムオーディオ製品群で選択の幅が広がる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/bowers-wilkins-new-colorways",
+      "score": 76,
+      "commercial_score": 82,
+      "product_keywords": [
+        "Bowers & Wilkins",
+        "ワイヤレスイヤホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ワンプラスが旗艦スマホ「OnePlus 16」発表、超大容量バッテリー搭載",
+      "summary_ja": "中国ワンプラス（OnePlus）が最新の旗艦スマートフォンを発表した。9,000mAhの超大容量バッテリーをはじめとする強力な構成が特徴となっている。日本市場での公式販売予定はないとされている。",
+      "source": "Gizmodo",
+      "url": "https://www.gizmodo.jp/article/7e51c534-6a5a-492b-873c-2f20f35655f2/",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "OnePlus"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エディファイアが耳を塞がない耳掛け型イヤホン「WE-BASS」発表",
+      "summary_ja": "エディファイア（Edifier）がオープンフィット型のクリップ式イヤホンを発表した。形状記憶合金のニチノール製バンドと12ミリのドライバーを採用し、充電ケース併用で最大22時間の再生に対応する。",
+      "source": "MyChooz.com",
+      "url": "https://mychooz.com/en/news/new-edifier-we-bass-206420",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Edifier イヤホン",
+        "イヤーカフ イヤホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ユーグリーンが最大8TB対応の手頃な外付けSSDケースを発売",
+      "summary_ja": "ユーグリーン（Ugreen）が手頃な価格帯の外付けM.2 SSDケースを世界向けに発売した。ケーブル一体型で最大8TBのNVMeドライブに対応し、通信速度20Gbpsと10Gbpsの2種類が用意されている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Ugreen-launches-affordable-external-8TB-SSD-enclosure-with-built-in-USB-C-cable.1427155.0.html",
+      "score": 74,
+      "commercial_score": 85,
+      "product_keywords": [
+        "UGREEN SSDケース",
+        "M.2 SSD ケース"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ワンオディオが72時間駆動のハイレゾ対応ヘッドホン第2世代を発売",
+      "summary_ja": "ワンオディオ（OneOdio）が「Fusion A70 Gen 2」ヘッドホンを59.99ドルで発売した。LDACによるハイレゾ再生やBluetooth 6.0に対応し、最大72時間の長時間バッテリー駆動を実現している。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/oneodio-a70-gen-2-headphones-launch",
+      "score": 73,
+      "commercial_score": 85,
+      "product_keywords": [
+        "OneOdio ヘッドホン",
+        "ワイヤレスヘッドホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "着脱式キーボード付き小型スマホ「Wink」登場、安全性に特化",
+      "summary_ja": "Braxが取り外し可能な物理QWERTYキーボードを備える小型スマートフォン「Wink」を発表した。改変版アンドロイドを搭載し、本体とソフトウェアの双方で利用者のプライバシー保護を強化している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Brax-launches-Wink-modular-compact-phone-with-detachable-QWERTY-keyboard-and-privacy-focused-OS.1426604.0.html",
+      "score": 72,
+      "commercial_score": 65,
+      "product_keywords": [
+        "QWERTY スマホ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "TORRASが薄型スタンドケースや巻き取り式充電器などの新製品を披露",
+      "summary_ja": "TORRASが日本展開10年を迎える新製品発表会を開催した。スマートフォン対応の極薄スタンドケースや巻き取り式充電器、カラビナ一体型モバイルバッテリーなど日常の不便を解消する製品が揃う。",
+      "source": "ROOMIE（ルーミー）",
+      "url": "https://www.roomie.jp/2026/10/1900908/",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "TORRAS",
+        "スタンドケース",
+        "巻き取り式充電器"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "マテックが超小型3枚刃電動シェーバーの改良版「V2」を発売",
+      "summary_ja": "MATECHが超小型の3枚刃電動シェーバー「Pocket Blade」の改良モデルとなるV2を発売した。USB-C端子充電や防水性能を維持しながら切れ味を高めており、携帯しやすい設計となっている。",
       "source": "ライフハッカー",
-      "url": "https://www.lifehacker.jp/article/2610-galaxy-z-fold8-ultra-amazon-sale/",
-      "score": 75,
-      "commercial_score": 95,
+      "url": "https://www.lifehacker.jp/article/matech-pocket-blade-v2-release-2610/",
+      "score": 70,
+      "commercial_score": 90,
       "product_keywords": [
-        "Galaxy Z Fold8 Ultra",
-        "Galaxy",
-        "サムスン"
+        "MATECH",
+        "Pocket Blade",
+        "携帯用シェーバー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "オナーがケーブル内蔵の急速充電モバイルバッテリー発売",
-      "summary_ja": "オナー（Honor）が中国で「Life」モバイルバッテリー2機種を発売しました。容量は10,000mAhと20,000mAhで、編組USB-Cケーブルを内蔵し、22.5Wの双方向急速充電や残量表示ディスプレイを備えています。価格は148元（約22ドル）からとなっています。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Honor-launches-affordable-power-banks-with-fast-charging-and-built-in-cables.1426109.0.html",
-      "score": 75,
-      "commercial_score": 90,
+      "title_ja": "ドゥージーが幅広ディスプレイ搭載の新型スマホ「Note60W」発表",
+      "summary_ja": "DOOGEEが幅広画面を採用した新型スマートフォン「Note60 W」を発表した。宣伝ビジュアルが既存の他社端末に酷似していると注目を集めている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089393361_359616",
+      "score": 68,
+      "commercial_score": 65,
       "product_keywords": [
-        "Honor モバイルバッテリー",
-        "急速充電 モバイルバッテリー",
-        "ケーブル内蔵 モバイルバッテリー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ベースアスが画面付き14in1ドック発売 120W給電に対応",
-      "summary_ja": "ベースアス（Baseus）が新型ドッキングステーション「Spacemate RD1 Plus」を発売しました。GaN電源を内蔵し、ディスプレイ画面の搭載に加えてデュアル4K映像出力や120Wの急速充電をサポートしています。発売価格は259.99ドルです。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Baseus-launches-new-14-in-1-dock-with-dual-4K-output-120W-fast-charging-and-display.1426835.0.html",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Baseus ドッキングステーション",
-        "Baseus ドック",
-        "USB-C ハブ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ボーズの充電不要な有線ノイキャンイヤホンが人気で品薄",
-      "summary_ja": "ボーズ（Bose）の新しい有線ノイズキャンセリングイヤホンが各地で完売するなど注目を集めています。バッテリー切れを気にせず使える有線モデルで、強力なノイズキャンセリング機能を備えています。",
-      "source": "T3",
-      "url": "https://www.t3.com/tech/earbuds/i-tried-boses-new-anc-earbuds-with-a-battery-that-never-runs-out-heres-why-theyre-sold-out-in-most-places",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Bose イヤホン",
-        "ノイズキャンセリング 有線",
-        "ボーズ イヤホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ワンプラス16がグローバル展開に向けソフトウェア試験中",
-      "summary_ja": "2026年10月に中国で発表されたスマートフォン「OnePlus 16」について、海外市場向けのソフトウェアテストが進められていることが明らかになりました。中国国外での正式リリースが近づいていることが示唆されています。",
-      "source": "Notebookcheck CN",
-      "url": "https://www.notebookcheck-cn.com/OnePlus-16.1426731.0.html",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "OnePlus",
-        "ワンプラス スマホ",
-        "SIMフリースマホ"
+        "DOOGEE スマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "JBLのイヤホンやスピーカーなど秋の新作が集結",
-      "summary_ja": "ハーマンインターナショナルが、JBLの秋の新製品を集めたイベント「HARMAN ExPLORE TOKYO 2026」を開催しました。会場にはイヤホンやヘッドホンのほか、Wi-Fi対応スピーカーやサウンドバーなどの最新製品が揃いました。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19891465?news_ref=watch_50_nw18995438",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "JBL イヤホン",
-        "JBL スピーカー",
-        "JBL サウンドバー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "カプコンとコラボのストII腕時計が登場 格闘対戦も可能",
-      "summary_ja": "カプコンとMy Play WatchのコラボレーションによるストリートファイターIIのウェアラブル時計が登場しました。タッチ画面で初代の8キャラクターによる格闘ゲームが遊べるほか、アーケード音源や14金の装飾を備えており、米国と欧州で予約受付が始まっています。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-80-Street-Fighter-II-gaming-watch-brings-arcade-battles-gold-detailing-and-retro-collectables.1426020.0.html",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ストリートファイター 時計",
-        "カプコン グッズ",
-        "スマートウォッチ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "センサーとLEDを内蔵したスマートサイコロGoDiceが登場",
-      "summary_ja": "パーティキュラ（Particula）の「GoDice」は、サイコロをデジタル化したガジェットです。見た目は従来のサイコロのようですが、各ダイスに動きを検知するモーションセンサーや無線通信機能、LED発光システムを搭載しています。",
-      "source": "Wales Online",
-      "url": "https://www.walesonline.co.uk/whats-on/shopping/review-particula-godice-drags-dice-34780124",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "スマートトイ",
-        "知育玩具",
-        "電子ダイス"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "独T+Aがロスレス対応の高級ヘッドホン新モデルを発表",
-      "summary_ja": "ドイツのオーディオメーカーT+Aが、高級ワイヤレスヘッドホン「Solitaire T Pro」を発表しました。ドルビーアトモスやaptX Lossless、高性能DAC技術に対応し、高音質なワイヤレス再生を実現しています。",
-      "source": "eCoustics",
-      "url": "https://www.ecoustics.com/products/ta-solitaire-t-pro-wireless-headphones/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "高級ヘッドホン",
-        "ワイヤレスヘッドホン",
-        "Dolby Atmos ヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "モトローラが大容量バッテリー搭載のMoto G47 Power準備",
-      "summary_ja": "モトローラの新型スマートフォン「Moto G47 Power」の情報が欧州の能效データベースから判明しました。定格容量6,790mAhの大容量バッテリーを搭載し、33Wの急速充電に対応する仕様となっています。",
-      "source": "finance.sina.com.cn",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivpfyr8233592.d.html?oid=%F0%9F%8F%B6%E2%9E%A8%ED%95%B4%EC%BB%A4%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%EC%97%85%EC%B2%B4%F0%9F%87%B2%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9E%AC%ED%85%8C%ED%81%AC%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%F0%9F%A6%B5%F0%9F%9E%AD@diet6798%F0%9F%91%BA%F0%9F%91%91%EC%B5%9C%EC%8B%A0%ED%95%B4%ED%82%B9DB%EA%B0%80%EA%B2%A9%EB%AC%B8%EC%9D%98%F0%9F%84%B3&vt=4&cid=76993&node_id=76993",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Motorola スマホ",
-        "モトローラ スマホ",
-        "大容量バッテリー スマホ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ヌビアV90 Proの画像流出 1億画素カメラや512GB",
-      "summary_ja": "ヌビア（nubia）のスマートフォン「V90 Pro」のレンダリング画像が公開されました。1億800万画素のメインカメラや512GBのストレージ、パンチホール型ディスプレイを備え、ワインレッドやダークグレーなどの本体色が確認されています。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivpfyf6464719.d.html?oid=%E5%93%88%E5%B0%94%E6%BB%A8%E9%81%93%E9%87%8C%E5%8C%BA%E5%93%AA%E6%9C%89%E7%BE%8E%E5%A5%B3%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%EF%BC%88%E5%85%A8%E6%96%B0%E6%A8%A1%E5%BC%8F%EF%BC%89%E5%BE%AE%E4%BF%A1%EF%BC%88117909%E2%91%A0%E2%91%A0%EF%BC%89%E5%BD%93%E9%9D%A2%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%BB%A1%E6%84%8F%E4%BB%98%E6%AC%BE5CvZnL0hluYseJSUNAfErdy0209&vt=4",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "nubia スマホ",
-        "ヌビア"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英デュネルムが暖房要らずで足元を温める防寒具を発売",
-      "summary_ja": "英インテリア小売のデュネルムが、セントラルヒーティングをつけずに冷えた足を温かく保てる防寒ガジェットを28ポンドで販売しています。冬の寒さ対策に適しており、利用者の間でも足元をしっかり温めてくれると好評を集めています。",
-      "source": "Manchester Evening News",
-      "url": "https://www.manchestereveningnews.co.uk/news/money-saving/dunelms-28-gadget-keeps-cold-34774479",
+      "title_ja": "音楽配信から回帰するレトロな最新ポータブルオーディオ機器に注目",
+      "summary_ja": "定額制の音楽配信サービスから離れ、レトロな携帯型音楽プレーヤーに関心が集まっている。持ち運んで手軽に楽しめる最新のデジタル対応ポータブルオーディオ機器が紹介されている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/a23a9f08b63c1922ba64a2bbe879043e76ce0947",
       "score": 65,
-      "commercial_score": 85,
+      "commercial_score": 75,
       "product_keywords": [
-        "フットウォーマー",
-        "足温器",
-        "電気スリッパ"
+        "ポータブルオーディオ",
+        "ポータブルプレーヤー"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

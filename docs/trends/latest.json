@@ -1,564 +1,588 @@
 {
   "feed": "trends",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T16:05:35+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T16:10:11+09:00",
   "trends": [
     {
       "keyword": "プライム感謝祭",
-      "reason_ja": "プライム会員向けの大型セールが開催され、目玉商品やポイント還元に注目が集まっています。",
+      "reason_ja": "Amazonの大型セール最終日を迎え、おすすめ商品や売れ筋ランキングが注目を集めています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
-        "プライム感謝祭",
-        "セール",
-        "日用品"
+        "Amazonプライムセール",
+        "セール商品"
       ],
       "product_keywords_ja": [
-        "プライム感謝祭",
         "セール",
-        "日用品"
+        "ポータブル電源"
       ],
       "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "プライム感謝祭で注目の目玉商品を紹介",
-          "summary_ja": "プライム感謝祭の開催に伴い、おすすめのお買い得商品が厳選されています。編集部が選んだ注目のアイテム情報が随時案内されています。",
-          "source": "ROOMIE（ルーミー）",
-          "url": "https://www.roomie.jp/2026/10/1903932/"
+          "title_ja": "アマゾン感謝祭の売れ筋上位商品を紹介",
+          "summary_ja": "アマゾンで開催中の大型セールにおいて、期間中によく売れているおすすめアイテムがランキング形式でまとめられています。セール最終日を迎え、厳選された人気商品に注目が集まっています。",
+          "source": "360LiFE",
+          "url": "https://360life.shinyusha.co.jp/articles/-/56618"
         },
         {
-          "title_ja": "感謝祭セールとスーパーの価格を比較検証",
-          "summary_ja": "大型セールで割引された商品が本当にお得かを検証しています。食品を中心に近隣店舗での販売価格との比較が行われています。",
+          "title_ja": "アマゾン感謝祭で半額以下のおすすめ品",
+          "summary_ja": "大型セールが最終日を迎える中、半額以上の高い値引き率が適用されているおすすめ商品が取り上げられています。買い物が済んでいる人にも改めて注目すべきアイテムが紹介されています。",
           "source": "イザ！",
-          "url": "https://www.iza.ne.jp/article/20261018-2M2SSM7TEVENBLX2723XOH7Q7U/?outputType=theme_osusume"
+          "url": "https://www.iza.ne.jp/article/20261019-QWGIHQGF3VA75B54FRID52JIRM/?outputType=theme_osusume"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "RTX Spark laptop",
-      "reason_ja": "エヌビディアがローカルAI処理を強化した最新ノートPC向けプラットフォームを発表しました。",
+      "keyword": "iPhone Duo",
+      "reason_ja": "アップル初の折りたたみスマートフォンが予約開始となり、注文殺到による出荷遅延が話題になっています。",
       "genre": "gadget",
-      "commercial_score": 95,
+      "commercial_score": 90,
       "product_keywords": [
-        "RTX Spark laptop",
-        "AI PC",
-        "GeForce RTX"
+        "iPhone Duo",
+        "折りたたみスマホ"
       ],
       "product_keywords_ja": [
-        "ゲーミングノートPC",
-        "AI PC",
-        "GeForce"
+        "iPhone",
+        "折りたたみスマートフォン"
       ],
-      "trend_source": "ニュース（ガジェット）",
+      "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "エヌビディアが新型ＡＩノートＰＣを発表",
-          "summary_ja": "グラフィックスと強力な人工知能処理を統合した薄型ノート端末が発表されました。主要メーカー各社からクリエイターやゲーマー向けに展開されます。",
-          "source": "NVIDIA Newsroom",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"
+          "title_ja": "折りたたみiPhoneの予約が異例の争奪戦に",
+          "summary_ja": "アップル初となる折りたたみスマートフォンの予約受付が始まり、国内外で激しい注文争奪戦が起きています。予約注文を巡る世界的な熱狂とともに、供給や配送予定に関する議論も呼んでいます。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/89f35340c862d5f1d770c9bfc4a79e4233f44f48"
         },
         {
-          "title_ja": "有機ＥＬ搭載の新型高性能ノートＰＣが登場",
-          "summary_ja": "有機発光ダイオード画面を備えた最新の高性能ノート端末が発売されます。新世代の処理基盤を搭載し競合製品との差別化が図られています。",
-          "source": "ThePCEnthusiast",
-          "url": "https://thepcenthusiast.com/msi-prestige-n16-flip-ai-rtx-spark-n1x/"
+          "title_ja": "新iPhoneの出荷予定が数か月待ちに延期",
+          "summary_ja": "予約が始まった折りたたみ端末の出荷予定時期が早くも数か月先へずれ込み、長期間の入荷待ちが発生しています。供給が厳しい状況の中で世界多数の国へ一斉展開した判断に対する疑問の声も上がっています。",
+          "source": "Gadget Gate",
+          "url": "https://gadget.phileweb.com/post-135284/"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "MacBook Pro",
+      "reason_ja": "アップル初となるタッチ画面搭載MacBook Proの投入予定が報じられ関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "MacBook Pro",
+        "touchscreen laptop",
+        "Apple"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "タッチ対応MacBook投入の動きが浮上",
+          "summary_ja": "アップルがタッチ画面を搭載した新型ノートパソコンや小型タブレットなどの新製品を準備していると報じられています。長年タッチ操作を採用してこなかった製品ラインに新たな展開が期待されています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-macbook-pro-ipad-mini-october"
+        },
+        {
+          "title_ja": "長年の沈黙を破りタッチ画面採用の新端末へ",
+          "summary_ja": "十年以上にわたりノート端末でタッチ画面を避けてきたアップルが、ついに対応モデルを投入する見通しです。これまでの操作体系を一新する新世代モデルとして注目が高まっています。",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "折りたたみスマホ",
-      "reason_ja": "アップルによる初の折りたたみスマホ発表をきっかけに出荷台数の大幅増加が予測されています。",
+      "keyword": "iPhone Duo",
+      "reason_ja": "折りたたみiPhoneの需要過熱で在庫が枯渇し、店頭での当日購入が困難な状況となっています。",
       "genre": "gadget",
       "commercial_score": 90,
       "product_keywords": [
-        "折りたたみスマホ",
-        "スマートフォン",
-        "iPhone Duo"
+        "iPhone Duo",
+        "foldable phone"
       ],
       "product_keywords_ja": [
-        "折りたたみスマホ",
-        "スマートフォン"
+        "iPhone",
+        "折りたたみスマホ"
       ],
-      "trend_source": "ニュース（ガジェット）",
+      "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップル初の折りたたみスマホ投入の狙い",
-          "summary_ja": "アップル初となる折りたたみスマートフォンの予約受付が始まります。高価格帯ながら新たな市場開拓を狙う戦略が分析されています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/b9bd2af4d9c77da963ec270f6cad1d2ba6725690"
+          "title_ja": "折りたたみiPhoneの出荷が翌年へ遅延",
+          "summary_ja": "アップル初の折りたたみスマートフォンの供給が逼迫し、出荷予定時期が大幅に遅れています。これまでの通常フラッグシップ端末の発売時と比較しても入手が極めて困難な状態となっています。",
+          "source": "Supply Chain Brain",
+          "url": "https://www.supplychainbrain.com/articles/45041-apple-iphone-duo-in-short-supply-after-shipments-slip-into-2027"
         },
         {
-          "title_ja": "アップル参入で折りたたみ端末の出荷急増",
-          "summary_ja": "折りたたみスマートフォンの出荷予測が大幅に伸びると発表されました。大手メーカーの新規参入が国内普及の後押しになると期待されています。",
-          "source": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC15ASG0V11C26A0000000/"
+          "title_ja": "発売日の直営店当日購入は困難と店員が警告",
+          "summary_ja": "直営店のスタッフが、発売日当日に予約なしで来店しても購入できない可能性が高いと呼びかけています。極端な品薄により事前の注文を行っていない場合は入手が難しい見込みです。",
+          "source": "The Mac Observer",
+          "url": "https://www.macobserver.com/news/apple-store-workers-warn-against-iphone-duo-walk-in-purchases-on-launch/"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Surface Laptop Ultra",
-      "reason_ja": "マイクロソフトがAIエージェント対応を強化した新型ノートPCを発表し反響を呼んでいます。",
+      "keyword": "iPhone Duo",
+      "reason_ja": "アップル初の折りたたみスマートフォンが予約開始直後に完売し、納期が数か月先まで延びています。",
       "genre": "gadget",
       "commercial_score": 90,
       "product_keywords": [
-        "Surface Laptop Ultra",
-        "Microsoft Copilot",
-        "Windows AI PC"
+        "iPhone Duo",
+        "折叠屏手机",
+        "苹果手机"
       ],
       "product_keywords_ja": [
-        "Surface Laptop",
-        "マイクロソフト",
-        "ノートパソコン"
+        "iPhone",
+        "折りたたみスマートフォン"
       ],
-      "trend_source": "ニュース（ガジェット）",
-      "trend_source_type": "news",
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "新型ノート端末とＡＩの安全性方針を語る",
-          "summary_ja": "新しいノート端末の登場に合わせ最高経営責任者が今後の展望を語りました。自律型エージェントを安心して利用できる環境づくりが語られています。",
-          "source": "The New Things",
-          "url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy"
+          "title_ja": "折りたたみiPhoneが即完売で納期長期化",
+          "summary_ja": "アップル初の折りたたみスマートフォンは予約受付の開始直後に完売し、発送までの期間が大幅に長期化しています。市場での需要の高まりを受けて関連部品メーカーの動向にも関心が集まっています。",
+          "source": "东方财富",
+          "url": "https://emwap.eastmoney.com/a/202610193899242523.html"
         },
         {
-          "title_ja": "半導体大手の首脳が新型端末の性能を称賛",
-          "summary_ja": "協力関係にある半導体メーカーのトップが新型ノート端末の仕上がりを高く評価しました。両社の技術が結集した意欲作として注目を集めています。",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/pro/this-computer-is-going-to-be-incredible-nvidia-ceo-jensen-huang-explains-why-the-new-surface-laptop-ultra-is-really-a-work-of-love"
+          "title_ja": "新機種の先行予約が開始直後に完売",
+          "summary_ja": "注目の新型折りたたみ端末の先行予約がスタートしたところ、数分で複数のモデルが売り切れとなりました。現地での生産や販売戦略も含め、市場投入に向けた動きが大きな反響を呼んでいます。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1089607819_121218495"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Bose ANC earbuds",
-      "reason_ja": "ボーズが投入したノイズキャンセリング搭載の有線イヤホンが各地で売り切れとなるなど人気です。",
-      "genre": "gadget",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Bose wired earbuds",
-        "ANC earbuds",
-        "noise cancelling"
-      ],
-      "product_keywords_ja": [
-        "ボーズ イヤホン",
-        "有線イヤホン",
-        "ノイズキャンセリング"
-      ],
-      "trend_source": "ニュース（ガジェット）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "ボーズの新型有線イヤホンが品薄の人気",
-          "summary_ja": "ノイズ低減機能を備えた新型の有線イヤホンが大きな成功を収めています。充電切れを気にせず使える利便性から各店舗で完売が続いています。",
-          "source": "T3",
-          "url": "https://www.t3.com/tech/earbuds/i-tried-boses-new-anc-earbuds-with-a-battery-that-never-runs-out-heres-why-theyre-sold-out-in-most-places"
-        },
-        {
-          "title_ja": "有線イヤホンが再評価され新機能を搭載",
-          "summary_ja": "有線タイプのイヤホンが再び見直されるなか新機能を取り入れた製品が登場しました。遮音技術を備えることで新たな需要を捉えています。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
       "keyword": "ポータブル電源",
-      "reason_ja": "秋のセールに合わせてポータブル電源や電源タップなどの周辺機器が人気を集めています。",
-      "genre": "gadget",
+      "reason_ja": "大型セールに合わせて人気ブランドのポータブル電源や走行充電器が大幅値引きされています。",
+      "genre": "outdoor",
       "commercial_score": 85,
       "product_keywords": [
         "ポータブル電源",
-        "電源タップ",
-        "USBハブ"
+        "ソーラーパネル"
       ],
       "product_keywords_ja": [
         "ポータブル電源",
-        "電源タップ",
-        "USBハブ"
+        "大容量バッテリー"
       ],
-      "trend_source": "ニュース（ガジェット）",
+      "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "手頃な電源タップや周辺機器のセール情報",
-          "summary_ja": "ポータブル電源タップやハブなど便利な周辺機器がセール対象となっています。限定クーポンを活用してお得に購入できる商品が紹介されています。",
-          "source": "ウインタブ",
-          "url": "https://win-tab.net/sale/orico-amazon-sale-2610161/"
+          "title_ja": "ジャクリのポータブル電源がセールで特価",
+          "summary_ja": "通販サイトの大型セールにおいて、人気ブランドのポータブル電源が特別価格で提供されています。セールの最終日を迎え、アウトドアや防災に役立つ電源機器への関心が高まっています。",
+          "source": "INTERNET Watch",
+          "url": "https://internet.watch.impress.co.jp/docs/shopping/2149120.html"
+        },
+        {
+          "title_ja": "エコフローの車載急速走行充電器が半額に",
+          "summary_ja": "車の走行中にポータブル電源へ急速充電を行える専用充電器が、セール最終日に半額の特別価格となっています。車中泊や長時間のドライブで役立つアイテムとして注目されています。",
+          "source": "Jetstream",
+          "url": "https://jetstream.blog/2026/10/19/ecoflow-alternator-charger-600-amazon-primeappreciation-2026-final-day/"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Amazon Bee",
-      "reason_ja": "アマゾンが会話を聞いて買い物を補助する常時接続型の小型AIウェアラブル端末を発売しました。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "Amazon Bee",
-        "AI wearable",
-        "smart recorder"
-      ],
-      "product_keywords_ja": [
-        "AIボイスレコーダー",
-        "ウェアラブル端末",
-        "スマートデバイス"
-      ],
-      "trend_source": "ニュース（ガジェット）",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "アマゾンが常時待機型ＡＩ端末を発売",
-          "summary_ja": "身に着けて利用する新しい個人向け人工知能端末の販売が始まりました。手頃な価格帯で導入できる新製品として関心を集めています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/amazon-bee-ai-wearable-where-to-buy"
-        },
-        {
-          "title_ja": "会話からおすすめ商品を選ぶ小型ＡＩ端末",
-          "summary_ja": "発話内容を解析して通販サイトのおすすめに反映する端末が登場しました。関連機能の月額利用や専用アクセサリーの展開も予定されています。",
-          "source": "PPC Land",
-          "url": "https://ppc.land/amazons-74-99-bee-wearable-can-turn-spoken-items-into-homepage-picks/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "特斯拉新款Roadster",
-      "reason_ja": "テスラが冷気推進システムを搭載した新型スポーツカーを発表し予約受付を開始しました。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "特斯拉 Roadster",
-        "电动跑车",
-        "车模"
-      ],
-      "product_keywords_ja": [
-        "テスラ ミニカー",
-        "EV充電器",
-        "カー用品"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "新型ＥＶスポーツカーに最新運転支援を搭載",
-          "summary_ja": "新型車両に標準的なカメラ群やフロントバンパー用レンズが完備されました。専用の運転支援技術を制御して走行できるよう設計されています。",
-          "source": "凤凰网汽车",
-          "url": "https://auto.ifeng.com/c/8xJn0kTw3Q8"
-        },
-        {
-          "title_ja": "新型車両が高度な走行動作を自動で実現へ",
-          "summary_ja": "発表会で披露されたダイナミックな動作を車両が自律してこなせると発表されました。専用の走行テスト用コースの建設も計画されています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.cn/stock/jdts/2026-10-18/detail-inivqyiu1081733.d.html?oid=%E4%B8%80%E6%AF%94%E4%B8%80%E7%B2%BE%E4%BB%BF%E5%90%8D%E8%A1%A8%E6%96%B9%E8%A1%A8%E2%86%92%E5%BE%AE%E4%BF%A1198099199%E2%86%924uEe&vt=4&cid=76524&node_id=76524"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "ちいかわ セブンイレブン",
-      "reason_ja": "セブンイレブンで人気キャラクター映画とのコラボ商品が多数展開されて話題になっています。",
+      "keyword": "ちいかわ",
+      "reason_ja": "新作シールの発売や航空会社との特別コラボ機の就航など新展開が相次いでいます。",
       "genre": "food",
-      "commercial_score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "ちいかわ",
-        "セブンイレブン",
-        "コラボ商品"
-      ],
-      "product_keywords_ja": [
         "ちいかわ グッズ",
-        "ちいかわ お菓子"
+        "ちいかわ コラボ"
       ],
-      "trend_source": "ニュース（フード）",
+      "product_keywords_ja": [
+        "ちいかわ",
+        "キャラクターグッズ"
+      ],
+      "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "セブンイレブンでちいかわコラボ商品登場",
-          "summary_ja": "全国の店舗で人気作の映画化を記念したコラボレーション企画が実施されます。作中に登場する食べ物をイメージした新商品が展開されています。",
-          "source": "ウォーカープラス",
-          "url": "https://www.walkerplus.com/article/1425103/"
+          "title_ja": "ちいかわのドロップシールミニ新作が登場",
+          "summary_ja": "人気キャラクターをデザインしたミニサイズのドロップシールに新柄が登場し、順次出荷が開始されます。個別キャラクターの単独シートを含む多彩なラインナップが揃っています。",
+          "source": "電撃オンライン",
+          "url": "https://dengekionline.com/article/202610/91400"
+        },
+        {
+          "title_ja": "ちいかわ特別塗装機が国内線で運航開始",
+          "summary_ja": "航空会社とのコラボレーションにより、機体から機内までキャラクター仕様に彩られた特別塗装機が公開され運航を始めました。機内では限定グッズの販売も予定されています。",
+          "source": "風傳媒",
+          "url": "https://japan.storm.mg/articles/1173536"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "肯德基换可口可乐",
-      "reason_ja": "米国のケンタッキーが飲料サプライヤーをペプシからコカ・コーラへ約40年ぶりに刷新します。",
-      "genre": "food",
-      "commercial_score": 80,
+      "keyword": "RTX Spark",
+      "reason_ja": "エヌビディアの最新GPU「RTX Spark」を搭載したAIノートPCが世界各地で発売されました。",
+      "genre": "gadget",
+      "commercial_score": 85,
       "product_keywords": [
-        "肯德基",
-        "可口可乐",
-        "百事可乐"
+        "RTX Spark",
+        "AI laptop",
+        "NVIDIA GPU"
       ],
       "product_keywords_ja": [
-        "コカコーラ",
-        "ペプシコーラ",
-        "炭酸飲料"
+        "ゲーミングノートPC",
+        "グラフィックボード"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "米ケンタッキーが飲料をペプシから変更",
-          "summary_ja": "大手フライドチキンチェーンが長年のパートナーとの提携を解消し新たな供給契約を結びました。米国内の全店舗で提供される炭酸飲料が順次刷新されます。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261018/49800415.html"
-        },
-        {
-          "title_ja": "全米数千店でドリンク提供先が切り替えへ",
-          "summary_ja": "数千規模の飲食店で取り扱いブランドが一斉に変更される見通しとなりました。飲料大手が競争激化を背景に見直しを進める中で合意に達しました。",
-          "source": "虎嗅网",
-          "url": "https://www.huxiu.com/article/4898346.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "KFC Coca-Cola",
-      "reason_ja": "米国のケンタッキーフライドチキンがドリンクの供給元をペプシからコカ・コーラへ変更すると発表しました。",
-      "genre": "food",
-      "commercial_score": 75,
-      "product_keywords": [
-        "KFC",
-        "Coca-Cola",
-        "Pepsi"
-      ],
-      "product_keywords_ja": [
-        "コカコーラ",
-        "ペプシ"
-      ],
-      "trend_source": "ニュース（フード）",
+      "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "米ケンタッキーが飲料をコカコーラへ移行",
-          "summary_ja": "米国内のファストフード店舗で取り扱う清涼飲料が刷新されることが決まりました。長年続いてきた慣習が終わり新たな商品体制へと移行します。",
-          "source": "KXAN Austin",
-          "url": "https://www.kxan.com/news/kfc-switching-from-pepsi-to-coca-cola-products-in-us-locations/"
+          "title_ja": "エヌビディアが手頃なAIノートPCを投入",
+          "summary_ja": "高額な従来の人工知能向け端末に対して、大幅に価格を抑えた最新チップ搭載ノートパソコンが登場しました。競合各社やクラウド提供サービスに対抗し、個人や開発者向けに普及を狙います。",
+          "source": "https://tech-insider.org/",
+          "url": "https://tech-insider.org/nvidia-rtx-spark-vs-ai-workstation-pricing-2026/"
+        },
+        {
+          "title_ja": "最新チップ搭載PCの発売イベントが世界で開催",
+          "summary_ja": "最新チップを搭載した新型パソコンの発売を記念し、世界各地で店頭イベントが催されています。ゲーマーやクリエイター、開発者が集まり、実機での性能を体験する場となっています。",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "AI伪造形象带货被封",
-      "reason_ja": "有名俳優の容貌をAIで無断偽造してコスメを販売したライブコマースのアカウントが永久停止処分を受けました。",
-      "genre": "ai",
-      "commercial_score": 75,
-      "product_keywords": [
-        "AI换脸",
-        "护肤品",
-        "直播带货"
-      ],
-      "product_keywords_ja": [
-        "スキンケア",
-        "美容液",
-        "フェイスパック"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "画像一枚で有名人を模倣する販売手法が横行",
-          "summary_ja": "人工知能の技術を用いて著名人の外見や声を再現し商品を宣伝する手口が問題視されています。安易な宣伝利用に潜む法的な危険性が指摘されています。",
-          "source": "东方财富",
-          "url": "https://finance.eastmoney.com/a/202610183899124521.html"
-        },
-        {
-          "title_ja": "ＡＩ不正利用の配信アカウントが永久凍結",
-          "summary_ja": "著名人の抗議を受けて不正に商品を販売していた配信アカウントが処分されました。運営側により対象のアカウントが永久停止され投稿内容も削除されました。",
-          "source": "新浪网",
-          "url": "https://k.sina.com.cn/article_5952915720_162d24908067050nes.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "中国汽车出口滚装船",
-      "reason_ja": "自動車の輸出台数が急増したことで専用の運搬船が不足し海上運賃が高騰しています。",
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "セール時期に合わせて人気ノイズキャンセリングヘッドホンの大幅割引が行われ話題になっています。",
       "genre": "gadget",
-      "commercial_score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "汽车配件",
-        "新能源汽车",
-        "车用充电桩"
+        "Bose QuietComfort",
+        "noise cancelling headphones"
       ],
       "product_keywords_ja": [
-        "車載ホルダー",
-        "EV充電器",
-        "カーアクセサリ"
+        "ボーズ",
+        "ノイズキャンセリングヘッドホン"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "自動車の海外輸出急増で運搬船不足が顕在化",
-          "summary_ja": "自動車の海外向け出荷が急速に拡大したことで輸送船の確保が追いつかない状況となっています。運送能力の不足が業界全体の変革を促しています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261018/49800410.html"
+          "title_ja": "主要ブランドのヘッドホンがセールで特価に",
+          "summary_ja": "大型セールに合わせて、主要メーカーの人気ヘッドホンやワイヤレスイヤホンが割引価格で販売されています。音質や機能性に優れた定番モデルがお買い得となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-october-prime-day-headphones-deals-live-2026"
         },
         {
-          "title_ja": "自動車運搬船の不足で海上運賃が大幅上昇",
-          "summary_ja": "完成車の輸出急増により専用船の積載スペースが逼迫し運賃が高騰しています。輸出業者の採算が悪化する中、新たな事業展開を模索する動きが出ています。",
-          "source": "凤凰网",
-          "url": "https://original.ifeng.com/c/8xIq00MJPr2"
+          "title_ja": "ボーズの人気ヘッドホンが大幅値引きで販売中",
+          "summary_ja": "定番のノイズキャンセリング機能を備えた人気モデルが、通常価格から大幅に値引きされて提供されています。優れた装着感と静寂性を両立したおすすめ機器として支持を集めています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/july-17-bose-quietcomfort-headphones"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "《三体：大史》开拍",
-      "reason_ja": "人気SF『三体』のスピンオフドラマの制作が発表され原作ファンから期待が集まっています。",
-      "genre": "other",
-      "commercial_score": 70,
+      "keyword": "playstation 5",
+      "reason_ja": "競合ハード上でPS5ソフトを起動するエミュレータ技術が公開されゲームファンの注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
       "product_keywords": [
-        "三体小说",
-        "三体周边",
-        "科幻手办"
+        "PlayStation 5",
+        "PS5 console",
+        "gaming"
       ],
       "product_keywords_ja": [
-        "三体 小説",
-        "SF 小説",
-        "フィギュア"
+        "PlayStation 5",
+        "PS5本体",
+        "ゲーム機"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "競合ハード上でPS5ソフトを動かす試み",
+          "summary_ja": "エミュレータを用いて他社製ゲーム機上でプレイステーション５のソフトを動作させる技術が話題となっています。特定の動作モードでのみ動くなど制限はあるものの、技術的な実験として関心を呼んでいます。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/"
+        },
+        {
+          "title_ja": "開発者モード経由でPS5ゲームが起動",
+          "summary_ja": "開発者向けのモードを利用することで、ライバル機種上で人気ゲームソフトが実際に起動したことが確認されました。ハードウェアの垣根を越えた動作実験としてコミュニティで驚きを持って受け止められています。",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/ps5-games-booting-on-xbox-thanks-to-emulation"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Noise Cancelling Headphones",
+      "reason_ja": "公共交通機関での騒音対策強化の動きとオフィスや移動に最適な人気モデルの比較が関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "noise cancelling headphones",
+        "wireless earbuds"
+      ],
+      "product_keywords_ja": [
+        "ノイズキャンセリングヘッドホン",
+        "ワイヤレスイヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "仕事や旅行に適した消音ヘッドホンの比較",
+          "summary_ja": "仕事の集中や旅行の快適さを高めるアクティブノイズキャンセリング機能付きヘッドホンの主要モデルが比較されています。バッテリー持ちや遮音性能、音質などの観点から最適な製品選びが紹介されています。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/headphones/active-noise-cancelling-headphones-for-work-and-travel"
+        },
+        {
+          "title_ja": "公共交通機関での騒音防止に向けた施策を発表",
+          "summary_ja": "バスや電車などの車内における迷惑行為や音のトラブルを防ぎ、乗客が快適に移動できるようにするための取り組みが打ち出されました。周囲への配慮を促す啓発が進められています。",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/share-the-journey-not-the-noise-government-launches-measures-to-prevent-noise-and-antisocial-behaviour-on-transport"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "新型AIチップ「RTX Spark」を搭載した軽量ノートPCの性能検証が公開され話題です。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "RTX Spark laptop",
+        "gaming laptop",
+        "NVIDIA"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングPC",
+        "クリエイター向けノートPC"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "最新AIノートPCのゲーム性能を実機テスト",
+          "summary_ja": "人工知能処理を主眼に置いた新型チップ搭載ノートパソコンについて、複数のゲームタイトルを用いた実動検証が行われました。仕事向けだけでなく余暇のプレイにも耐えうる実力が評価されています。",
+          "source": "PCMag UK",
+          "url": "https://uk.pcmag.com/laptops/167977/nvidia-rtx-spark-gaming-tests-are-these-new-ai-laptops-good-for-play-too"
+        },
+        {
+          "title_ja": "クリエイター向け新型端末で性能限界を検証",
+          "summary_ja": "新型チップを搭載したクリエイター向けの最新ノートパソコンを使い、限界まで負荷をかけた検証が行われました。新しい製品ラインの先駆けとして高い処理性能が注目されています。",
+          "source": "Creative Bloq",
+          "url": "https://www.creativebloq.com/reviews/i-pushed-nvidias-rtx-spark-to-its-limits-in-our-favourite-creative-laptop"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "睡眠用やスポーツ用途など用途に合わせたワイヤレスイヤホンの性能比較が注目されています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Bose QuietComfort",
+        "sleep earbuds"
+      ],
+      "product_keywords_ja": [
+        "ボーズ",
+        "睡眠用イヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ランニングに最適な防水イヤホンを厳選紹介",
+          "summary_ja": "走っている最中でも外れにくく、天候を問わず快適に音楽を楽しめる運動向けイヤホンがまとめられています。様々な予算に合わせて選べるおすすめモデルが紹介されています。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/earbuds/best-earbuds-for-running"
+        },
+        {
+          "title_ja": "睡眠専用イヤホンの装着感や遮音性を徹底比較",
+          "summary_ja": "快適な眠りを支援する専用イヤホンについて、装着の快適さや騒音カット能力、バッテリー持続時間が比較されています。就寝時に耳へ負担をかけずに使える製品選びの指針が示されています。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/sleep/soundcore-vs-bose"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "钢笔",
+      "reason_ja": "SNS上でインクのグラデーションや手書き文字を共有する若者の間で万年筆ブームが再燃しています。",
+      "genre": "interior",
+      "commercial_score": 80,
+      "product_keywords": [
+        "钢笔",
+        "彩色墨水",
+        "手写"
+      ],
+      "product_keywords_ja": [
+        "万年筆",
+        "ボトルインク",
+        "万年筆用紙"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "人気ＳＦスピンオフ作品の制作開始が判明",
-          "summary_ja": "映画関連イベントにて人気ＳＦ小説から派生した実写作品のクランクインが明かされました。主要キャストが再結集し重要人物を中心とした物語が描かれます。",
-          "source": "新浪新闻",
-          "url": "https://news.sina.cn/2026-10-17/detail-inivqccx7022563.d.html?vt=4&pos=108"
-        },
-        {
-          "title_ja": "人気役柄を演じるキャストの続投が決定",
-          "summary_ja": "ドラマ版のキャスト陣が復帰して新たなスピンオフシリーズが始動します。本編の次期シーズンに向けた準備も並行して進められています。",
+          "title_ja": "若者の間で手書きを楽しむ万年筆が再ブーム",
+          "summary_ja": "ネット交流サイト上で、色鮮やかなインクや手書きの文字作品を投稿して楽しむ若者が増えています。ペンのインク出や紙との相性を比較する動画なども人気を集め、手書き文化が再び脚光を浴びています。",
           "source": "搜狐",
-          "url": "https://m.sohu.com/a/1089080317_116237/?pvid=000115_3w_a"
+          "url": "https://m.sohu.com/a/1089526460_255783"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "new valorant agent",
-      "reason_ja": "人気ゲーム「VALORANT」の新たなエージェントに関するリーク情報が広まり話題を呼んでいます。",
-      "genre": "gadget",
-      "commercial_score": 65,
+      "keyword": "汇源果汁",
+      "reason_ja": "老舗果汁飲料グループがブランドと決別し新ブランドへ移行することを発表し反響を呼んでいます。",
+      "genre": "food",
+      "commercial_score": 80,
       "product_keywords": [
-        "VALORANT points",
-        "gaming mouse",
-        "gaming headset"
+        "果汁",
+        "饮料",
+        "咱家果源"
       ],
       "product_keywords_ja": [
-        "ゲーミングマウス",
-        "ゲーミングヘッドセット",
-        "PCゲーム"
+        "フルーツジュース",
+        "果汁100%"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "老舗果汁メーカーが旧ブランドと決別を発表",
+          "summary_ja": "大手飲料グループが従来の果汁ブランドの使用を終了し、新ブランドを全面的に立ち上げると表明しました。企業再編を巡るトラブルを背景に、長年親しまれたブランドからの転換が進められます。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivtiqv6269806.shtml"
+        },
+        {
+          "title_ja": "従来ブランドの生産終了と新ブランド採用を公表",
+          "summary_ja": "長年展開されてきた果汁製品の生産を打ち切り、新たな看板ブランドへと切り替える声明が出されました。消費者に親しまれてきたロングセラー飲料の動向として注目されています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261019/49802521.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "维密大秀",
+      "reason_ja": "ヴィクトリアズ・シークレットの大型ファッションショーに人気モデルたちが登壇し話題となっています。",
+      "genre": "beauty",
+      "commercial_score": 80,
+      "product_keywords": [
+        "维多利亚的秘密",
+        "内衣",
+        "维密"
+      ],
+      "product_keywords_ja": [
+        "ヴィクトリアシークレット",
+        "ルームウェア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気モデルがヴィクトリアズの舞台に復帰",
+          "summary_ja": "世界的な下着ブランドのファッションショーにトップモデルたちが登場し、久々のランウェイ復帰が話題となっています。家族への思いを語りながら晴れ舞台に立つ姿に注目が集まっています。",
+          "source": "新浪网",
+          "url": "http://k.sina.com.cn/article_3877613768_me71fb0c803301j2go.html"
+        },
+        {
+          "title_ja": "国際的な大型ファッションショーにモデル集結",
+          "summary_ja": "ロサンゼルスで開催された大規模ショーに人気モデルたちが集まり、華やかなウォーキングを披露しました。健康的な体づくりを重ねて大舞台に挑む様子が報じられています。",
+          "source": "星岛环球网",
+          "url": "http://www.stnn.cc/detail/6ad5792b8f9d2b19ddb5959f.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "Lisa Rinna",
+      "reason_ja": "ヴィクトリアズ・シークレットのファッションショーに出演する娘を応援する姿が脚光を浴びています。",
+      "genre": "beauty",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Victoria's Secret",
+        "lingerie",
+        "fashion show"
+      ],
+      "product_keywords_ja": [
+        "ヴィクトリアシークレット",
+        "ランジェリー"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "新作ゲームキャラのリーク情報が話題に",
-          "summary_ja": "人気オンライン対戦ゲームの新規追加キャラクターに関する情報が拡散しています。開発会社からの公式発表に先駆けファンの間で注目が集まっています。",
-          "source": "Hotspawn",
-          "url": "https://www.hotspawn.com/valorant/news/new-valorant-agent-leaks"
+          "title_ja": "母娘でヴィクトリアズショー会場に登場",
+          "summary_ja": "ファッションショーのピンクカーペットに親子で姿を見せ、ランウェイを歩く家族を応援しました。大胆な衣装コーディネートを披露し、華やかな舞台を盛り上げています。",
+          "source": "People.com",
+          "url": "https://people.com/lisa-rinna-and-delilah-belle-hamlin-support-amelia-gray-at-2026-victorias-secret-fashion-show-12173975"
         },
         {
-          "title_ja": "新キャラクターの能力や公開予定が浮上",
-          "summary_ja": "新キャラクターが持つ固有能力や連携技に関する詳細が話題になっています。お披露目の日程に注目が集まり期待感が高まっています。",
-          "source": "MMOEXP",
-          "url": "https://www.mmoexp.com/News/valorant-new-agent-31-leaked-abilities-and-october-18-reveal.html"
+          "title_ja": "本番前のウォーキング練習動画が話題に",
+          "summary_ja": "ファッションショーの本番に向けて親子でウォーキングを練習する様子がブランド公式動画で公開されました。リラックス感とハイファッションを組み合わせた着こなしが注目を集めています。",
+          "source": "AOL.com",
+          "url": "https://www.aol.com/articles/amelia-gray-gets-seriously-cheeky-131442000.html"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "yorkshire marathon 2026",
-      "reason_ja": "英国ヨークシャーで大規模なマラソン大会が開催され、市民ランナーや交通情報への関心が高まっています。",
-      "genre": "health",
+      "keyword": "株主優待",
+      "reason_ja": "新NISAを機に使い勝手の良い金券や人気キャラクターコラボなどの優待銘柄が注目を集めています。",
+      "genre": "other",
       "commercial_score": 65,
       "product_keywords": [
-        "running shoes",
-        "marathon gear",
-        "energy gel"
+        "株主優待",
+        "QUOカード"
       ],
       "product_keywords_ja": [
-        "ランニングシューズ",
-        "マラソン ウェア",
-        "エナジージェル"
+        "株主優待",
+        "カタログギフト"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "市民ランナーがマラソンへの想いを語る",
-          "summary_ja": "各地から集まった参加者が長距離コースに挑む動機や熱意を語り合っています。走ることを通じて生活が変わった経験などが紹介されています。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cv0ld04z83xdo"
+          "title_ja": "クオカードがもらえる株主優待銘柄を紹介",
+          "summary_ja": "使い勝手の良さから個人投資家の間で高い人気を誇る金券優待について、対象企業の最新リストがまとめられています。制度が複雑化する中で、分かりやすい条件で受け取れる銘柄が紹介されています。",
+          "source": "東洋経済オンライン",
+          "url": "https://toyokeizai.net/articles/-/961053?page=6"
         },
         {
-          "title_ja": "マラソン開催に伴う道路規制情報を公開",
-          "summary_ja": "大規模なランニング大会の実施に合わせて周辺地域の交通規制が案内されています。多くのランナーが集う週末の行事に向けて注意が呼びかけられています。",
-          "source": "The York Press",
-          "url": "https://www.yorkpress.co.uk/news/26632237.road-closures-yorkshire-marathon-weekend-around-york/"
+          "title_ja": "人気キャラクターコラボを楽しむ優待活用法",
+          "summary_ja": "個人投資家が増加する中、アイスやおまけ付き商品など日常生活で楽しめる優待品が注目されています。優待を活用して家族で買い物を楽しむ実践例が取り上げられています。",
+          "source": "Yahoo!ファイナンス",
+          "url": "https://finance.yahoo.co.jp/news/detail/e415e944d254b7b51afae8fa8e73fb096f82c13a"
         }
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "amsterdam marathon 2026",
-      "reason_ja": "国際的な有力選手が集うアムステルダムマラソンの開催を控え、注目選手に期待が寄せられています。",
-      "genre": "health",
-      "commercial_score": 60,
-      "product_keywords": [
-        "running watch",
-        "sports nutrition",
-        "hydration pack"
-      ],
-      "product_keywords_ja": [
-        "ランニングウォッチ",
-        "スポーツようかん",
-        "給水ボトル"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "有力選手がマラソン連覇へ向け再出場",
-          "summary_ja": "主要な国際大会で前回の優勝選手たちが王座防衛を目指して再び出走します。ハイレベルな争いが期待されるロードレースとして注目されています。",
-          "source": "worldathletics.org",
-          "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/amsterdam-marathon-2026-kipchumba-desta"
-        },
-        {
-          "title_ja": "長距離マラソンに強豪選手が多数参戦",
-          "summary_ja": "国際的な長距離走大会にトップレベルの選手団が送り込まれます。有力選手が揃い踏みとなりレースの行方に高い関心が集まっています。",
-          "source": "The Kenya Times",
-          "url": "https://thekenyatimes.com/sports/kenyan-athletes-in-amsterdam-marathon/"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

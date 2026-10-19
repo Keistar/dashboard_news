@@ -1,0 +1,132 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T16:10:11+09:00",
+  "trends": [
+    {
+      "keyword": "playstation 5",
+      "reason_ja": "競合ハード上でPS5ソフトを起動するエミュレータ技術が公開されゲームファンの注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "PlayStation 5",
+        "PS5 console",
+        "gaming"
+      ],
+      "product_keywords_ja": [
+        "PlayStation 5",
+        "PS5本体",
+        "ゲーム機"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "競合ハード上でPS5ソフトを動かす試み",
+          "summary_ja": "エミュレータを用いて他社製ゲーム機上でプレイステーション５のソフトを動作させる技術が話題となっています。特定の動作モードでのみ動くなど制限はあるものの、技術的な実験として関心を呼んでいます。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/"
+        },
+        {
+          "title_ja": "開発者モード経由でPS5ゲームが起動",
+          "summary_ja": "開発者向けのモードを利用することで、ライバル機種上で人気ゲームソフトが実際に起動したことが確認されました。ハードウェアの垣根を越えた動作実験としてコミュニティで驚きを持って受け止められています。",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/ps5-games-booting-on-xbox-thanks-to-emulation"
+        }
+      ]
+    },
+    {
+      "keyword": "Noise Cancelling Headphones",
+      "reason_ja": "公共交通機関での騒音対策強化の動きとオフィスや移動に最適な人気モデルの比較が関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "noise cancelling headphones",
+        "wireless earbuds"
+      ],
+      "product_keywords_ja": [
+        "ノイズキャンセリングヘッドホン",
+        "ワイヤレスイヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "仕事や旅行に適した消音ヘッドホンの比較",
+          "summary_ja": "仕事の集中や旅行の快適さを高めるアクティブノイズキャンセリング機能付きヘッドホンの主要モデルが比較されています。バッテリー持ちや遮音性能、音質などの観点から最適な製品選びが紹介されています。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/headphones/active-noise-cancelling-headphones-for-work-and-travel"
+        },
+        {
+          "title_ja": "公共交通機関での騒音防止に向けた施策を発表",
+          "summary_ja": "バスや電車などの車内における迷惑行為や音のトラブルを防ぎ、乗客が快適に移動できるようにするための取り組みが打ち出されました。周囲への配慮を促す啓発が進められています。",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/share-the-journey-not-the-noise-government-launches-measures-to-prevent-noise-and-antisocial-behaviour-on-transport"
+        }
+      ]
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "新型AIチップ「RTX Spark」を搭載した軽量ノートPCの性能検証が公開され話題です。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "RTX Spark laptop",
+        "gaming laptop",
+        "NVIDIA"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングPC",
+        "クリエイター向けノートPC"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "最新AIノートPCのゲーム性能を実機テスト",
+          "summary_ja": "人工知能処理を主眼に置いた新型チップ搭載ノートパソコンについて、複数のゲームタイトルを用いた実動検証が行われました。仕事向けだけでなく余暇のプレイにも耐えうる実力が評価されています。",
+          "source": "PCMag UK",
+          "url": "https://uk.pcmag.com/laptops/167977/nvidia-rtx-spark-gaming-tests-are-these-new-ai-laptops-good-for-play-too"
+        },
+        {
+          "title_ja": "クリエイター向け新型端末で性能限界を検証",
+          "summary_ja": "新型チップを搭載したクリエイター向けの最新ノートパソコンを使い、限界まで負荷をかけた検証が行われました。新しい製品ラインの先駆けとして高い処理性能が注目されています。",
+          "source": "Creative Bloq",
+          "url": "https://www.creativebloq.com/reviews/i-pushed-nvidias-rtx-spark-to-its-limits-in-our-favourite-creative-laptop"
+        }
+      ]
+    },
+    {
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "睡眠用やスポーツ用途など用途に合わせたワイヤレスイヤホンの性能比較が注目されています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Bose QuietComfort",
+        "sleep earbuds"
+      ],
+      "product_keywords_ja": [
+        "ボーズ",
+        "睡眠用イヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ランニングに最適な防水イヤホンを厳選紹介",
+          "summary_ja": "走っている最中でも外れにくく、天候を問わず快適に音楽を楽しめる運動向けイヤホンがまとめられています。様々な予算に合わせて選べるおすすめモデルが紹介されています。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/earbuds/best-earbuds-for-running"
+        },
+        {
+          "title_ja": "睡眠専用イヤホンの装着感や遮音性を徹底比較",
+          "summary_ja": "快適な眠りを支援する専用イヤホンについて、装着の快適さや騒音カット能力、バッテリー持続時間が比較されています。就寝時に耳へ負担をかけずに使える製品選びの指針が示されています。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/sleep/soundcore-vs-bose"
+        }
+      ]
+    }
+  ]
+}

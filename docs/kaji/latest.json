@@ -1,198 +1,202 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:39:25+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:40:40+09:00",
   "stories": [
     {
-      "title_ja": "LG電子がAI加湿空気清浄機を発売、大容量加湿と広域清浄に対応",
-      "summary_ja": "LG電子はリビング向けのプレミアム加湿空気清浄機「LG PuriCare Hydro Tower Max」を発売した。1時間あたり最大850ccの加湿性能を備え、約66平方メートルの空気清浄に対応する。",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/1c96f46b-1c45-4b18-8994-0749b8dd50ae",
+      "title_ja": "エコバックス、吸引力を約67％向上させた新型ロボ掃除機を発売",
+      "summary_ja": "エコバックス・ロボティクスがロボット掃除機の新製品「DEEBOT T50S PRO OMNI」を発売した。既存製品と比べて吸引力を約67%高めている。",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/jp/jp-it/2026/10/19/MNEAZTCUPFDUXGPTLOM5PVIKA4/?outputType=amp",
       "score": 85,
       "commercial_score": 85,
       "product_keywords": [
-        "LG 空気清浄機",
-        "加湿空気清浄機"
+        "エコバックス",
+        "DEEBOT",
+        "ロボット掃除機"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "LGのAI洗濯乾燥機、衣類ケアと除菌機能で高評価も価格差焦点",
-      "summary_ja": "LGのAI洗濯乾燥機が衣類ケアや除菌・ダニ退治の性能で高い評価を受けている。一方で国内製品と比べて価格差があるため、静音性やAIによる時短・利便性をどこまで重視するかが判断軸となっている。",
-      "source": "新浪网",
-      "url": "https://www.sina.cn/news/article/comos_nivqtzr6858870.html",
-      "score": 82,
+      "title_ja": "ダイソン、水拭きローラーモップ搭載の新型ロボット掃除機を発売",
+      "summary_ja": "ダイソンが水拭きローラーモップを備えた新型ロボット掃除機「Spot+Scrub Ai」を発売した。「360 Vis Nav」の後継として性能向上を図っている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/dyson-spot-and-scrub-ai-robot-vacuum-announcement",
+      "score": 85,
       "commercial_score": 85,
       "product_keywords": [
-        "LG 洗濯乾燥機",
-        "ドラム式洗濯機 AI"
+        "ダイソン ロボット掃除機",
+        "Dyson"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "サーモスのパッキンなし弁当箱、洗いやすい構造で人気集める",
-      "summary_ja": "サーモスが展開するパッキンなしの弁当箱が、フタと本体だけのシンプルな作りで洗いやすいと支持を集めている。米粒がつきにくく手入れしやすい点が評価されている。",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4055693/",
+      "title_ja": "タイガー魔法瓶、注ぎ心地を追求した蒸気レス電気ケトルを発売",
+      "summary_ja": "タイガー魔法瓶から電気ケトルの新製品「蒸気レス電気ケトル PCZ-A080」が登場した。同社初となるグースネック型を採用し、快適な注ぎ心地を追求したデザインとなっている。",
+      "source": "Kids Well-being",
+      "url": "https://kidswellbeing.jp/49673/",
       "score": 80,
       "commercial_score": 90,
       "product_keywords": [
-        "サーモス 弁当箱 パッキンなし",
-        "食洗機対応 弁当箱"
+        "タイガー 電気ケトル",
+        "蒸気レス電気ケトル",
+        "PCZ-A080"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "広交会で最新トレンドの中国産スマート家電が人気集める",
-      "summary_ja": "第140回広交会において、最新トレンドを取り入れた国産スマート家電が注目を集めている。家事の省力化や生活の利便性を高める新製品が多数出展されている。",
-      "source": "广州日报新花城",
-      "url": "https://xxsb.gz-cmc.com/pages/2026/10/17/6843b66540ff41dd8489b7c7f0f787a1.html",
-      "score": 78,
-      "commercial_score": 70,
-      "product_keywords": [
-        "スマート家電"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ハミルトンビーチの多機能エアフライヤーオーブンが特価に",
-      "summary_ja": "ハミルトンビーチ（Hamilton Beach）の6枚焼き対応エアフライヤートースターオーブンが値引き販売されている。3種類の家電機能を1台に集約し、調理の省スペースと時短を両立する。",
-      "source": "The Inventory",
-      "url": "https://theinventory.com/hamilton-beach-6-slice-sure-crisp-air-fryer-toaster-oven-stainless-steel-1ee85b98",
-      "score": 76,
+      "title_ja": "ニンジャ、電子レンジとエアフライヤーを融合した新調理家電を発表",
+      "summary_ja": "ニンジャ（Ninja）が「Crispi Microwave」を発売した。電子レンジの素早い温めや解凍機能と、エアフライヤーのカリッとした仕上がりを兼ね備えている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/life/ninja-crispi-microwave-launch",
+      "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "ハミルトンビーチ オーブントースター",
-        "コンベクションオーブン"
+        "Ninja 調理家電",
+        "エアフライヤー"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "エディオン、炊飯データで家族を見守るサービスを約50店で開始",
-      "summary_ja": "エディオンは炊飯データを利用して家族を見守る「親孝行見守りパック」の取り扱いを開始した。約50店舗で展開し、日常の生活家電を活用した見守りを提供する。",
-      "source": "みんなの広報宣伝部",
-      "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/10/18/news-32813/",
+      "title_ja": "スヌーピー柄のBRUNO調理家電が登場、食器など全5点",
+      "summary_ja": "「PEANUTS」の公式オンラインショップから、スヌーピーデザインのBRUNO調理家電やおそろいの食器など新シリーズ全5点が登場した。ほったらかし調理ができるアイテムなどを展開している。",
+      "source": "ウォーカープラス",
+      "url": "https://www.walkerplus.com/article/1446695/",
       "score": 75,
-      "commercial_score": 70,
+      "commercial_score": 90,
       "product_keywords": [
-        "見守り 家電",
-        "IoT 炊飯器"
+        "BRUNO スヌーピー",
+        "ブルーノ ホットプレート",
+        "BRUNO 調理家電"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "広交会で新製品家電が即時成約、海外バイヤーが工場視察へ",
-      "summary_ja": "第140回広交会で発表された生活家電の新製品が海外バイヤーから高い関心を集めている。展示会での成約後、製造現場の工場へ直接視察に訪れるバイヤーが相次いでいる。",
-      "source": "佛山新闻网",
-      "url": "https://www.foshannews.net/h/192/20261017/8851876.html",
+      "title_ja": "ドリーミー、温水と高熱スチームで頑固な汚れを落とす掃除機を発表",
+      "summary_ja": "ドリーミー（Dreame）が掃除機の新モデル「Aero Ultra Steam」を発表した。温水や高熱スチーム、泡石けんを組み合わせて頑固な汚れを掃除できる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/life/dreame-releases-aero-ultra-steam",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Dreame",
+        "スチームクリーナー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "LG、米タイムズスクエアで家電の歴史とAIホームロボットを公開",
+      "summary_ja": "LGエレクトロニクスが米ニューヨークのタイムズスクエアで特別映像を公開した。68年にわたる家電の歴史を紹介するとともに、将来のAIホームロボットの展望を示している。",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-it/2026/10/19/T6YQ4HZQ5RDAPP36ACILRDM3HE/?outputType=amp",
       "score": 75,
       "commercial_score": 60,
       "product_keywords": [
-        "スマート家電"
+        "LG 家電",
+        "ホームロボット"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "広州交易会で身だしなみを整えるAIバイオニックロボットが注目集める",
+      "summary_ja": "広州交易会にて、身だしなみを整えるバイオニックロボットなどのAI新製品が出展された。すでに欧州市場への輸出実績もあり、海外のバイヤーから高い関心を集めている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089396178_121443915",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "AIロボット"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "シェフマンが大容量デジタルエアフライヤーを手頃な価格で提供",
-      "summary_ja": "シェフマン（Chefman）の8クォート対応デジタルエアフライヤーが注目されている。ファミリーサイズの大容量と4つの調理機能、短時間で仕上げる加熱ブースト機能を備えている。",
-      "source": "The Inventory",
-      "url": "https://theinventory.com/chefman-8qt-digital-air-fryer-6fc7623a",
-      "score": 74,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Chefman ノンフライヤー",
-        "大容量 エアフライヤー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "22リットル大容量の12イン1エアフライヤーオーブンが登場",
-      "summary_ja": "大容量22リットルの多機能調理家電「Electactic 12-in-1」が手頃な価格帯で登場した。主要ブランド製品よりも価格を抑えつつ、多彩な調理機能を備えて時短料理を支援する。",
-      "source": "The Inventory",
-      "url": "https://theinventory.com/electactic-12-in-1-air-fryer-toaster-oven-combo-22l-countertop-oven-9078beb8",
-      "score": 73,
-      "commercial_score": 80,
-      "product_keywords": [
-        "エアフライヤー オーブン 大容量",
-        "ノンフライオーブン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "少量油でヘルシー調理、スマートエアフライヤーの性能評価",
-      "summary_ja": "少量の油で手軽に調理できる「Usha iChef Smart Air Fryer」のレビューが公開された。油分を抑えつつ好みの料理を楽しめる時短調理家電として家庭での関心が高まっている。",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/technology/reviews/usha-ichef-smart-air-fryer-review-simple-cooking-with-less-oil/articleshow/135009747.cms",
+      "title_ja": "英VAX、手頃な価格帯のコードレス掃除機「Pace Plus」",
+      "summary_ja": "英ブランドのVAXが手頃な価格帯のコードレス掃除機「Pace Plus」を展開している。コンパクトな住宅でも十分な清掃力を発揮する点がレビューで評価されている。",
+      "source": "Ideal Home",
+      "url": "https://www.idealhome.co.uk/house-manual/floorcare/vax-pace-plus-cordless-vacuum-cleaner-review",
       "score": 72,
       "commercial_score": 80,
       "product_keywords": [
-        "エアフライヤー",
-        "ノンフライヤー"
+        "コードレス掃除機",
+        "スティッククリーナー"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国の家電大手・金羚集団、広交会で最新洗濯機などを披露",
-      "summary_ja": "中国の家電メーカー金羚集団が第140回広交会に出展し、最新の生活家電を披露した。スマート洗濯機などを中心に海外市場への展開を進めている。",
-      "source": "21财经",
-      "url": "https://www.21jingji.com/article/20261017/herald/1f903243c2656cfaecada30dc88da4a1.html",
-      "score": 72,
-      "commercial_score": 70,
-      "product_keywords": [
-        "洗濯機"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "置くだけ充電のハンディクリーナー、家電誌高評価モデルが特価に",
-      "summary_ja": "家電批評でベストバイ総合1位を獲得した「ALTENA コードレスハンディクリーナー」が限定価格で登場した。置くだけで手軽に充電でき、普段の掃除機を出すほどではない日常のゴミ掃除に対応する。",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/elem/000/004/443/4443544/",
+      "title_ja": "ソウイ、火加減不要の「カマノ土鍋炊飯器」に2合炊きモデル",
+      "summary_ja": "ソウイジャパンが土鍋を採用した「カマノ土鍋炊飯器 2合」の先行販売を「Makuake」で開始した。火加減なしで土鍋ごはんの味わいが楽しめる製品となっている。",
+      "source": "@DIME アットダイム",
+      "url": "https://dime.jp/genre/2163416/",
       "score": 70,
-      "commercial_score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "ハンディクリーナー コードレス",
-        "卓上クリーナー"
+        "土鍋炊飯器",
+        "ソウイ 炊飯器"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "卓上調理家電でサケを10分調理、臭いを抑える時短調理法",
-      "summary_ja": "CNETが卓上調理家電を使い、手軽に魚料理を作る時短方法を紹介した。調理器具を活用することで部屋に臭いを残さず、片付けの手間を減らしながら約10分で仕上げられる。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/home/kitchen-and-household/this-10-minute-method-takes-the-stink-out-of-salmon/",
+      "title_ja": "洗濯機の上に置くだけ、手軽に収納スペースを作れる天板が注目",
+      "summary_ja": "洗濯機や乾燥機の上に載せるだけで作業スペースや収納を作れる天板が紹介されている。大がかりなリフォームをせずにランドリールームの収納力を増やせる。",
+      "source": "Better Homes & Gardens",
+      "url": "https://www.bhg.com/laundry-room-storage-amazon-october-2026-12149970",
       "score": 70,
-      "commercial_score": 65,
+      "commercial_score": 75,
       "product_keywords": [
-        "ノンフライヤー",
-        "フィッシュロースター"
+        "ランドリーラック",
+        "洗濯機上 収納"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ロボット掃除機の性能を維持する5分のお手入れルーティンを解説",
+      "summary_ja": "ロボット掃除機を新品同様の状態に保つための5分間の手入れ手順が紹介されている。適切なメンテナンスにより日々の掃除性能を維持できるとしている。",
+      "source": "Ideal Home",
+      "url": "https://www.idealhome.co.uk/house-manual/floorcare/how-to-clean-a-robot-vacuum-cleaner",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ロボット掃除機 お手入れ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "電子レンジ加熱で残りご飯をおいしく温めるおひつが人気",
-      "summary_ja": "電子レンジで温めるタイプのおひつが、残ったご飯をおいしく温め直せる便利グッズとして注目を集めている。手軽においしさを保てる点が評価され、人気となっている。",
-      "source": "まぐまぐ",
-      "url": "https://www.mag2.com/p/news/687440/amp",
+      "title_ja": "米ウォルマート、小型キッチン向けの2リットル型エアフライヤー",
+      "summary_ja": "ウォルマートが容量2リットルのコンパクトなエアフライヤーを販売している。焦げ付き防止のバスケットなどを備え、狭いキッチンに適した仕様となっている。",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/en/lifestyle/walmart-sells-a-2-liter-air-fryer-with-a-nonstick-basket-and-pan-for-2998-it-is-ideal-for-small-kitchens/",
       "score": 68,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ノンフライヤー 小型",
+        "エアフライヤー 2L"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "東洋アルミ、IHの汚れを防ぐ「IHマットSOFT」新モデル発売",
+      "summary_ja": "東洋アルミエコープロダクツが、IHコンロの汚れを防止する「IHマットSOFT グレー ラウンドスクエア」を発売した。キッチン空間になじむデザインを提案している。",
+      "source": "アットプレス",
+      "url": "https://www.atpress.ne.jp/news/8519360",
+      "score": 65,
       "commercial_score": 85,
       "product_keywords": [
-        "電子レンジ おひつ",
-        "陶器 おひつ"
+        "IHマット",
+        "IH 汚れ防止マット"
       ],
       "country": "jp",
       "country_label_ja": "日本"

@@ -1,0 +1,54 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:34:09+09:00",
+  "stories": [
+    {
+      "title_ja": "中国勢が米国の1割の低価格で攻勢、AIモデルの価格競争が激化",
+      "summary_ja": "中国のAI企業が米大手モデルの10分の1程度の低料金で開発者を引きつけ、低価格競争が激化しています。オープンAIやアンソロピックなどの米国企業も対抗して安価なモデルを投入しています。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089554367_115831",
+      "score": 90,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "京東（JD）、小売や物流に特化したAI開発基盤「言犀」を展開",
+      "summary_ja": "中国EC大手の京東（JD.com）が、企業向けの一站式AIエージェント開発プラットフォーム「言犀」を推進しています。自社の大規模AIモデルを基盤に、小売や物流、ヘルスケアなどの実務データを統合して業務効率化を支援します。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089664036_120491808",
+      "score": 85,
+      "commercial_score": 85
+    },
+    {
+      "title_ja": "北京大学チーム、指示文からゲーム試作版を作るAIツールを公開",
+      "summary_ja": "北京大学の研究チームが「3AGameFactory」をオープンソースで公開しました。1つの文章を入力するだけで、実際に動作するゲームのプロトタイプを自動生成できます。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_2131593523_7f0d893302001pfwq.html?from=tech",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ゲームソフト",
+        "PCゲーム"
+      ]
+    },
+    {
+      "title_ja": "中国製造業でAI普及進む、重点シーンの導入率は3分の1超に",
+      "summary_ja": "中国国家統計局は、主要製造業におけるAI技術の重点シーン普及率が3分の1を超えたと発表しました。全国で多数のスマート工場が整備され、製造現場でのAI実装が加速しています。",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/article/20261019/614845.html",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "中国聯通、複数AIと文書管理をまとめた企業向けツール提供",
+      "summary_ja": "中国聯通（チャイナ・ユニコム）が、社内文書や知識の活用を支援する新サービス「UniAI・智枢」を開始しました。複数のAIモデルやエージェントを束ね、業務ですぐに使える環境を提供します。",
+      "source": "人工智能",
+      "url": "https://www.icloudnews.net/a/123865.html",
+      "score": 70,
+      "commercial_score": 65
+    }
+  ]
+}

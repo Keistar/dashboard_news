@@ -1,0 +1,62 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:34:09+09:00",
+  "stories": [
+    {
+      "title_ja": "ChatGPTにスライド作成機能が追加、共同編集やPPT出力に対応",
+      "summary_ja": "OpenAIがChatGPTで資料を作成できる新機能「ChatGPT Slides」を公開しました。会話やファイルからスライドを生成し、チームでの同時編集やPowerPointへの書き出しが可能です。有料プラン向けに順次提供されます。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187568",
+      "score": 90,
+      "commercial_score": 75,
+      "product_keywords": [
+        "パソコン",
+        "Office"
+      ]
+    },
+    {
+      "title_ja": "8GBのVRAMで動く画像生成AIモデルが公開、個人向けGPUに対応",
+      "summary_ja": "Black Forest Labsが画像生成AIモデル「FLUX 3 Image Klein」の重みを公開しました。手元のGeForceなど8GBのVRAMを搭載した環境で高品質な生成が試せます。Hugging FaceでのダウンロードやAPI経由での利用が可能です。",
+      "source": "PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2149183.html",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "GeForce",
+        "グラフィックボード"
+      ]
+    },
+    {
+      "title_ja": "機械の動く立体図解を生成するAIスキル「Anatomy」が無償公開",
+      "summary_ja": "技術的なアイデアや機械の仕組みから、動く立体図解を作成できるAIエージェント向け拡張スキル「Anatomy」が公開されました。商用利用も可能で、概念や説明文から視覚的な図解を自動生成できます。",
+      "source": "テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/19/5606.html",
+      "score": 75,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "全編生成AI制作の韓国BLドラマ第2弾、FODで独占配信へ",
+      "summary_ja": "全編を生成AIで制作した韓国の時代劇BLドラマ『針香』のシーズン2が、11月1日よりFODで独占配信されます。SNSで累計再生1000万回を超えた人気作の続編です。",
+      "source": "FOD INFO",
+      "url": "https://news.fod.fujitv.co.jp/article/15012",
+      "score": 70,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "技術書読み放題のTechLibに生成AIやデザインの実用書が追加",
+      "summary_ja": "月額制のIT技術書読み放題サービス「TechLib」に、生成AIやデザインツールの実用書が新たに追加されました。プログラミングやAI、セキュリティなど多彩な分野の学習に活用できます。",
+      "source": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2148201.html",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "参考書",
+        "プログラミング 本"
+      ]
+    }
+  ]
+}
