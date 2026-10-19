@@ -1,238 +1,205 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:50:26+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:53:18+09:00",
   "stories": [
     {
-      "title_ja": "甘味料39種を調査、腸内細菌への影響や薬との相互作用が明らかに",
-      "summary_ja": "広く使われている39種類の甘味料が腸内細菌に影響を与える可能性を研究チームが発見しました。実験では特定の抗うつ薬と組み合わせることで善玉菌や細菌の多様性が減少することが確認され、腸内環境や免疫への影響に新たな関心が寄せられています。",
-      "source": "Science Daily",
-      "url": "http://www.sciencedaily.com/releases/2026/10/261016081103.htm",
-      "score": 85,
-      "commercial_score": 80,
-      "product_keywords": [
-        "オリゴ糖",
-        "プロバイオティクス",
-        "腸活 サプリ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "1日8500歩のウォーキングで減量体重を維持、米研究が示唆",
-      "summary_ja": "毎日の歩数を増やすことが、減量した体重を長期的に維持する手助けになる可能性を示す研究が発表されました。日々のウォーキングを継続することが、体型管理に役立つ習慣として注目されています。",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.com/GMA/Wellness/8500-daily-steps-weight-off/story?id=132854058",
+      "title_ja": "清涼飲料や甘いシリアルなど超加工食品が脳に悪影響か",
+      "summary_ja": "カナダの研究チームがMRIを用いた脳画像解析を行い、超加工食品の摂取と脳への影響を調べた。清涼飲料水や甘いシリアルを多くとる人ほど脳卒中の危険が高まり、記憶機能に問題が生じやすい傾向が示されている。",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/popular-foods-americans-eat-every-day-linked-silent-brain-damage-alarming-study-finds",
       "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "スマートウォッチ",
-        "ウォーキングシューズ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "プロテイン高騰で昆虫粉末が話題に、専門家が代替の注意点を指摘",
-      "summary_ja": "ホエイプロテインの価格高騰に伴い、安価でタンパク質が豊富な昆虫原料の粉末が代替品として関心を集めています。輸入コスト増加で代替需要が広がる一方、品質やアレルギーなどの安全面における注意が呼びかけられています。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1089234959_362042",
-      "score": 80,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ホエイプロテイン",
-        "ソイプロテイン",
-        "植物性プロテイン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "米国で運動プログラムを保険適用のがん治療にする取り組みが進む",
-      "summary_ja": "米国で運動プログラムを保険適用のがん治療として導入する取り組みが始まっています。単なる運動ではなく専門のトレーナーが患者ごとに伴走し、生存率の向上や医療費の削減を目指す研究成果を受けた試みです。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/276dc1f688986e28f5fe40c7d713cc1c2d49a508",
-      "score": 75,
       "commercial_score": 60,
       "product_keywords": [
-        "トレーニングウェア",
-        "ヨガマット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "好きな物を我慢するより健康食品を追加する方が継続しやすいと判明",
-      "summary_ja": "食事改善を始める際、好物をやめるよりも健康に良い食品を食生活に加える方が継続しやすいとする研究結果が示されました。もともとの食の好みが受け入れやすさに影響するため、無理のない工夫が有効とされています。",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/en/it/12178843",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "健康食品",
-        "スーパーフード",
-        "ナッツ"
+        "無糖シリアル",
+        "健康食品"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "高齢者向け科学的フィットネス指導が普及、中国各地で教室を展開",
-      "summary_ja": "中国の上海や浙江などで、高齢者を対象とした科学的な運動指導を行うネットワークが広がっています。専門の指導員や地域のフィットネス教室を通じて、高齢者が安全かつ効果的に体を動かせるよう支援が進んでいます。",
-      "source": "凤凰网",
-      "url": "https://i.ifeng.com/c/8xJuJsvyATr",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ステッパー",
-        "シニア 体操"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "筋トレ主食に茹でジャガイモを大量冷凍、栄養士が再加熱に注意喚起",
-      "summary_ja": "筋トレの主食として茹でたジャガイモを冷凍保存した男性が注目を集め、栄養の専門家が助言を行いました。主食を芋類に置き換える方法は有効としつつ、再加熱による影響を考慮することや、非デンプン質の野菜をバランスよく摂ることの大切さを指摘しています。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1089201079_121345914",
-      "score": 75,
-      "commercial_score": 65,
-      "product_keywords": [
-        "冷凍保存容器",
-        "キッチンスケール"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "呼吸を整え的を狙うスポーツ吹き矢が浸透、健康効果で人気集める",
-      "summary_ja": "的当てや武器のイメージがあった吹き矢が、呼吸を整えて得点を競うスポーツ競技として注目を集めています。健康づくりに役立つ競技として関心が高まり、愛好者の裾野がじわじわと広がっています。",
-      "source": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/life/20261017-GYT8T00022/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "スポーツ吹き矢",
-        "吹き矢 セット"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "避難生活での肺炎や血栓症リスクに備え、医師が事前の対策を助言",
-      "summary_ja": "地震などの災害時に避難所で高まる誤嚥性肺炎や血栓症などの病気リスクについて、医師が注意を促しています。命を守るために日常からできる準備や健康被害を防ぐ備えの大切さが呼びかけられています。",
+      "title_ja": "眠っても疲労が抜けない症状に潜む病気を産業医が警告",
+      "summary_ja": "睡眠をとっても疲労感が抜けない場合、睡眠時無呼吸症候群が隠れている可能性があると医師が注意を促している。50歳未満では糖尿病リスクの上昇などにもつながるとして早期の把握を呼びかけている。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/e39e0994d7080885ec608a299ff0f748b2d592bc",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "着圧ソックス",
-        "口腔ケア",
-        "防災グッズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "中年女性が見落としがちな瞬発力トレーニングの重要性を専門家が指摘",
-      "summary_ja": "中年の女性が失いやすい身体機能として、瞬発的な力を発揮するパワーの重要性を専門家が指摘しています。瞬発力を鍛えるトレーニングを行うことで、将来の筋力や体のバランス、歩行などの可動性を保つのに役立ちます。",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/lifestyle/articles/overlooked-type-fitness-women-lose-040000173.html",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ダンベル",
-        "トレーニングチューブ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "青少年の足と背骨の健康を守る無料検診事業が中国でスタート",
-      "summary_ja": "学校で児童や生徒の脊柱側弯や足の発育異常を調べる無料スクリーニング事業が実施されています。成長期に異常を早期発見して専門病院での再検査や治療につなげ、子どもの骨格の健全な発育を促す狙いです。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1089270798_122014422",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "インソール",
-        "姿勢矯正ベルト",
-        "子供用 矯正靴"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "足首用ウェイトを1週間装着、膝の負傷を機に効果的な筋トレを実践",
-      "summary_ja": "膝を痛めて普段の運動メニューを変更した筆者が、足首用の重りを1週間身につけて運動した体験を伝えています。日常生活にウェイトを取り入れることで筋肉に適度な負荷を与え、無理のないトレーニング効果を得られました。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/17/ankle-weights-workout-fitness",
-      "score": 68,
-      "commercial_score": 85,
-      "product_keywords": [
-        "アンクルウェイト",
-        "リストウェイト"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "77年続く『お料理家計簿』が登場、健康レシピや多彩なコラムを掲載",
-      "summary_ja": "77年の歴史を持つ『お料理家計簿』に、手軽で健康に良い体があたたまる焼きそばなど人気料理研究家のレシピが掲載されています。食の雑学や健康コラムなど実用的な情報も充実しており、日々の暮らしを支えます。",
-      "source": "毎日新聞",
-      "url": "https://mainichi.jp/articles/20261018/mtm/00m/100/001000c",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "お料理家計簿",
-        "焼きそば 麺",
-        "生姜"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "休暇中も運動や健康食を優先する旅行者が増加、専門家が動向を解説",
-      "summary_ja": "旅行先でも普段の運動習慣や健康的な食事を重視する人々が増えているという調査傾向が明らかになりました。専門家は、休暇中であってもウェルネスや体調管理を維持したいと考える旅行者が広がっていると述べています。",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/lifestyle/videos/travelers-now-prioritize-fitness-healthy-170059055.html",
-      "score": 65,
-      "commercial_score": 65,
-      "product_keywords": [
-        "トラベル ヨガマット",
-        "ランニングポーチ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国でインフル流行期が到来、医師が無料ワクチンの対象者を解説",
-      "summary_ja": "英国でインフルエンザの流行期を迎える中、国民保健サービスの無料予防接種を受けられる対象者について医師が解説しています。冬の健康を守るためにワクチン接種が不可欠であるとして、早めの対応が促されています。",
-      "source": "Barking and Dagenham Post",
-      "url": "https://www.barkinganddagenhampost.co.uk/news/26620235.can-get-free-nhs-flu-jab-borough-winter/",
-      "score": 65,
-      "commercial_score": 40,
-      "product_keywords": [
-        "体温計",
-        "マスク"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "盛岡で健康ウオーク開催、約700人が秋の街並み約7.5キロを満喫",
-      "summary_ja": "岩手県盛岡市で健康ウオークイベントが開かれ、市内外から約700人が参加しました。参加者は岩手公園中央広場を発着点として秋の街並みを約7.5キロ歩き、心地よい汗を流しました。",
-      "source": "岩手日報",
-      "url": "https://www.iwate-np.co.jp/article/2026/10/18/197806",
-      "score": 55,
+      "url": "https://news.yahoo.co.jp/articles/aa27506475f6157f598af02164d307b8ca605476?page=4",
+      "score": 75,
       "commercial_score": 50,
       "product_keywords": [
-        "ウォーキングシューズ",
-        "歩数計"
+        "いびき防止",
+        "安眠枕"
       ],
       "country": "jp",
       "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "幼児と触れ合う対話的な遊びが脳の発達を促すと判明",
+      "summary_ja": "米ノースウェスタン大学の研究によると、幼児と直接触れ合いながら遊ぶことで脳の活動が大きく活性化することが分かった。画面を見せる時間と比べ、注意力や学習、社会性の発達に関わる領域が強く刺激されるという。",
+      "source": "NewsNation",
+      "url": "https://www.newsnationnow.com/health/study-northwestern-toddler-attention-interactive-play-brain-learning/",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "知育玩具",
+        "絵本"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "子ども時代の活発な運動が大人でのうつ病予防に寄与",
+      "summary_ja": "約30年間にわたる追跡調査により、子どもの頃に心肺機能が高かった人は大人になってからのうつ病リスクが低いことが明らかになった。息が弾むような遊びや運動を幼少期に習慣づけることが、将来の心の健康を守ると報告されている。",
+      "source": "Yahoo Health",
+      "url": "https://health.yahoo.com/conditions/mental-health/articles/fit-kids-may-lower-risk-155238364.html",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "縄跳び",
+        "キッズ スニーカー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ポケモンスリープの調査で宮崎県が睡眠の質1位に",
+      "summary_ja": "ポケモンが睡眠ゲームアプリの利用データを基にした都道府県別調査を行い、宮崎県が総合首位となった。睡眠時間や寝付きの良さなど5指標で評価され、短い通勤通学時間や良好な住環境が要因とみられている。",
+      "source": "UMKテレビ宮崎",
+      "url": "https://www.umk.co.jp/news/selection/2026/10/1-14.html",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ポケモンスリープ",
+        "快眠グッズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "睡眠研究者の柳沢氏がリカバリーウェアなど快眠の疑問を語る",
+      "summary_ja": "睡眠研究者の柳沢正史氏と小説家の真山仁氏による対談が行われた。リカバリーウェアの効果など快眠をめぐる疑問や、睡眠研究の最前線について議論が交わされている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/9f9fac95b7a92893c3fc9cc0112107f9524cc2b9",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "リカバリーウェア",
+        "安眠グッズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ブルーベリーの日常的な摂取が気分改善に関与する可能性",
+      "summary_ja": "高齢者が3か月間毎日ブルーベリーを摂取した研究で、気分の落ち込みの軽減や腸内細菌酵素の変化が確認された。腸と脳の相互作用が示唆されたものの、偽薬との比較では統計的な有意差に届かなかった点も付記されている。",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "冷凍ブルーベリー",
+        "ブルーベリー サプリ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "高齢者が主導する健康管理の地域プロジェクトが中国で始動",
+      "summary_ja": "広州のコミュニティで減塩や脳トレ体操を楽しみながら健康習慣を身につける高齢者向けイベントが開催された。健康づくりを習慣化する活動として、全国1000の地域コミュニティへの展開が計画されている。",
+      "source": "新华网客户端",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=202610196c2b8a246e6747d191e83388820089a6",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "塩分計",
+        "健康管理"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "北京体育大学の女性寮監によるケトルベル運動動画が人気に",
+      "summary_ja": "北京体育大学の寮管理人を務める女性によるケトルベルを使ったトレーニング動画が話題を呼んでいる。自らの運動体験をもとに実践的な筋力トレーニングを実演し、多くの人々に運動習慣への参加を促している。",
+      "source": "京报网",
+      "url": "https://news.bjd.com.cn/2026/10/19/90093734.shtml",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ケトルベル",
+        "トレーニング器具"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "DHCが手軽に栄養補給できるグミサプリを発売",
+      "summary_ja": "DHCは毎日の栄養バランスを手軽に補えるグミタイプのサプリメントを発売した。水なしでおいしく続けられる設計で、日々の健康習慣づくりを後押しする。",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZRSP714018_Z11C26A0000000/",
+      "score": 65,
+      "commercial_score": 95,
+      "product_keywords": [
+        "DHC",
+        "グミサプリ",
+        "サプリメント"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "25キロ減量後の体力を維持する3本柱の運動法が話題に",
+      "summary_ja": "55歳のクレア・スウィーニー氏が25キロの減量を経て筋力を保ち続ける日常のフィットネス習慣を明かした。ウォーキング、ピラティス、筋力トレーニングの3つを無理のない形で組み合わせている。",
+      "source": "Women's Health",
+      "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a74158474/claire-sweeney-strength-routine/",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ピラティス マット",
+        "ダンベル"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "高齢者の健康技術とシルバー経済の発展フォーラムが北京で開催",
+      "summary_ja": "北京で高齢者の健康保持とシルバー経済の連携をテーマにしたフォーラムが開催された。中国老年保健協会の主催により、健康維持に寄与する最新技術の革新や産業連携についての議論が行われている。",
+      "source": "新华网",
+      "url": "http://www.news.cn/digital/20261019/ddeedbf746814e12b3e119eb009c919f/c.html",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "高齢者 ケア用品",
+        "ヘルスケア機器"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "夏疲れ対策に豆乳とゆる筋トレを提案するイベントが開催",
+      "summary_ja": "猛暑による疲労や秋冬の体重増加を防ぐ体づくりイベントが開催された。動植物性たんぱく質のバランスに着目した豆乳の摂取や、手軽にできる筋力トレーニングが紹介されている。",
+      "source": "アットプレス",
+      "url": "https://www.atpress.ne.jp/news/641474",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "豆乳",
+        "植物性プロテイン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "毎日の食事から始める主導的な健康管理法が注目を集める",
+      "summary_ja": "忙しい現代人にとって継続的な健康管理が課題となる中、日々の食事習慣から整える予防的なアプローチが提案されている。病気の予防を重視し、毎日の食生活に健康習慣を取り入れる工夫が共有された。",
+      "source": "证券之星",
+      "url": "https://finance.stockstar.com/IG2026101900008910.shtml",
+      "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "健康食品",
+        "栄養補助食品"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

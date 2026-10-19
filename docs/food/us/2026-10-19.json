@@ -1,0 +1,50 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:48:59+09:00",
+  "stories": [
+    {
+      "title_ja": "米外食チェーン、牛脂揚げと牧草牛の採用で売上が2桁増",
+      "summary_ja": "米国のステーク・アンド・シェイクが、シードオイルから牛脂への変更とパティの牧草牛への切り替えを実施した。この原料の刷新が消費者の関心を集め、売上が2桁の成長を記録している。",
+      "source": "The Cool Down",
+      "url": "https://www.thecooldown.com/green-business/steak-n-shake-sales-surge-beef-tallow/",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "牛脂",
+        "グラスフェッドビーフ"
+      ]
+    },
+    {
+      "title_ja": "米ベルウェザー、カフェ向け自家焙煎機「ショップロースター」発表",
+      "summary_ja": "米国のベルウェザーがカフェ向けの新型小型焙煎機を発表した。店舗で自家焙煎を行うことでコーヒー豆の調達コストを半減させ、数カ月で投資回収できるとしている。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/bellwether-shop-roaster-cafes-roast-in-house-coffee-costs-302910268",
+      "score": 72,
+      "commercial_score": 75,
+      "product_keywords": [
+        "コーヒー焙煎機",
+        "コーヒー豆"
+      ]
+    },
+    {
+      "title_ja": "ヴァージン・ボヤージ、クルーズ船やクラブの食事メニュー刷新",
+      "summary_ja": "ヴァージン・ボヤージが客船内やバハマの専用ビーチクラブで提供する飲食メニューを刷新した。著名シェフと協業し、カリブ海に着想を得た料理などを提供する。",
+      "source": "Breaking Travel News",
+      "url": "https://www.breakingtravelnews.com/news/article/virgin-voyages-unveils-new-dining-experiences-across-fleet-and-bimini-beach/",
+      "score": 70,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "ハワイの食イベント「オノフェスト」、6ドルの特別品を提供",
+      "summary_ja": "ハワイで開催される食のイベント「オノフェスト」で、6ドル均一のフードやドリンクが導入された。現地のケータリング業者やスイーツ店が参加し、おすすめの料理を披露している。",
+      "source": "Hawaii News Now",
+      "url": "https://www.hawaiinewsnow.com/2026/10/18/two-day-onofest-fall-expo-introduces-new-6-food-drink-menu/?outputType=amp",
+      "score": 65,
+      "commercial_score": 50
+    }
+  ]
+}

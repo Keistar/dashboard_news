@@ -1,239 +1,249 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:45:13+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:48:59+09:00",
   "stories": [
     {
-      "title_ja": "米ケンタッキー、飲料をペプシからコカ・コーラに変更へ",
-      "summary_ja": "米国のケンタッキーフライドチキン（KFC）は、店舗で提供する飲料パートナーをペプシからコカ・コーラへ交代することを決めた。この切り替えは2027年1月から順次開始される予定となっている。",
-      "source": "WRDW",
-      "url": "https://www.wrdw.com/2026/10/17/coca-cola-replaces-pepsi-kfcs-beverage-partner/?outputType=amp",
+      "title_ja": "ハーゲンダッツ、夜向け新シリーズ「クラッシーナイト」を発売",
+      "summary_ja": "ハーゲンダッツジャパンが新シリーズ「クラッシーナイト」の期間限定アイス2品を発売する。洋酒が香るチョコと燻製キャラメルのフレーバーがスーパーやコンビニなどに登場する。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_707582/",
       "score": 85,
-      "commercial_score": 70,
+      "commercial_score": 95,
       "product_keywords": [
-        "コカコーラ",
-        "ペプシ"
+        "ハーゲンダッツ",
+        "アイスクリーム"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "中国ティードリンクの半額企画に注文殺到、一時注文停止も",
-      "summary_ja": "中国の人気ティードリンクチェーンが1杯購入で1杯無料となるキャンペーンを実施したところ、各地の店舗に注文が殺到した。広州のある店舗では1000杯以上の調理待ちが発生し、武漢など各地で開店直後からオンライン注文の受付が一時見合わせとなる盛況ぶりを見せた。",
-      "source": "凤凰网",
-      "url": "https://i.ifeng.com/c/8xK1S1krppn",
-      "score": 85,
-      "commercial_score": 80,
+      "title_ja": "日清食品、「WAGYUMAFIA」監修の新作ラ王を全国発売",
+      "summary_ja": "日清食品が「WAGYUMAFIA」監修による新たなカップ麺を全国で発売した。和牛の風味と魚介を組み合わせた特別なスープのラ王として展開される。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ascii_4443650/",
+      "score": 82,
+      "commercial_score": 92,
       "product_keywords": [
-        "中国茶",
-        "フルーツティー",
-        "タピオカ"
+        "日清食品",
+        "ラ王",
+        "カップ麺"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中国で「回転一人鍋」市場が急成長、大手外食も参入加速",
+      "summary_ja": "中国でコンベア式の一人鍋「回転小火鍋」の人気が再燃し、市場規模が400億元に達している。全国で店舗数が急拡大しており、海底撈（ハイディーラオ）などの大手チェーンも相次いで参入している。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202610/570464.shtml",
+      "score": 82,
+      "commercial_score": 75,
+      "product_keywords": [
+        "火鍋",
+        "火鍋の素"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "セブンカフェ新ブレンド発売、期間限定で30円引きセール実施へ",
-      "summary_ja": "セブン‐イレブンは「セブンカフェ」から、抽出時に3種のブレンドを選べる新商品を発売する。あわせて新商品の購入を促すため、10月21日から31日までの期間限定で30円引きセールを実施する。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d2491dcf4a4b1880665fc69308209cef2e019cb7",
+      "title_ja": "寿がきや、激辛カップ麺の新作「辛めの辛め辛辛魚」を発売",
+      "summary_ja": "寿がきや食品が「麺処井の庄」監修のカップ麺の新作を全国発売した。定番よりも辛さを強調しつつ、スープの濃厚な旨みにもこだわった一杯となっている。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/443/4443648/?topnew=3",
       "score": 80,
+      "commercial_score": 95,
+      "product_keywords": [
+        "辛辛魚",
+        "寿がきや",
+        "カップ麺"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "丸美屋、「ちいかわ」デザインのカップスープ2種を限定発売",
+      "summary_ja": "丸美屋食品工業が人気キャラクター「ちいかわ」をパッケージにあしらったカップスープを発売する。きのこのポタージュとほうれんそうのポタージュの2種類が期間限定で登場する。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_707525/",
+      "score": 78,
+      "commercial_score": 92,
+      "product_keywords": [
+        "ちいかわ",
+        "丸美屋",
+        "カップスープ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中国・思念食品、チルド肉を使った新作水餃子を発売",
+      "summary_ja": "大手食品メーカーの思念食品が、原材料にチルド肉を採用した新たな水餃子シリーズを発表した。若者向けの手軽な日常食としてブランドの現代的な刷新を図っている。",
+      "source": "华声在线",
+      "url": "https://travel.voc.com.cn/news/202610/34020318.html",
+      "score": 78,
+      "commercial_score": 88,
+      "product_keywords": [
+        "水餃子",
+        "中国食品",
+        "冷凍餃子"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "正官庄、外国人観光客向けに小包装の高麗人参商品を発売",
+      "summary_ja": "紅参ブランドの正官庄が、訪韓客の土産需要に応える小包装の健康食品5種を免税店などで発売する。手軽に購入できる伝統的な健康食品として展開する。",
+      "source": "亚洲日报",
+      "url": "https://www.ajudaily.com/view/20261019071007372",
+      "score": 76,
+      "commercial_score": 88,
+      "product_keywords": [
+        "正官庄",
+        "高麗人参",
+        "紅参"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ローソン、もちもち食感の新作ドーナツ「もちどー」を順次発売",
+      "summary_ja": "ローソンが弾力ある食感を追求した新作ドーナツ「もちどー」シリーズの販売を開始した。きなことシュガーの2種類のフレーバーが順次店頭に並ぶ。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/otonanswer_401455/",
+      "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "セブンカフェ",
+        "ローソン",
+        "ドーナツ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米外食チェーン、牛脂揚げと牧草牛の採用で売上が2桁増",
+      "summary_ja": "米国のステーク・アンド・シェイクが、シードオイルから牛脂への変更とパティの牧草牛への切り替えを実施した。この原料の刷新が消費者の関心を集め、売上が2桁の成長を記録している。",
+      "source": "The Cool Down",
+      "url": "https://www.thecooldown.com/green-business/steak-n-shake-sales-surge-beef-tallow/",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "牛脂",
+        "グラスフェッドビーフ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国・虎邦辣醤、人気IP連携で辛味調味料の消費を刷新",
+      "summary_ja": "調味料メーカーの虎邦辣醤（フーバンラージャン）が、人気IPと連携した新商品開発を強化している。食卓の必需品にとどまらず、若者が共有したくなる情緒的な消費体験へと価値を広げている。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1089645501_121218495",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ラー油",
+        "中華調味料"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "英サラダ専門店アーバン・グリーンズ、ロンドン中心部に新店舗出店",
+      "summary_ja": "サラダ専門チェーンのアーバン・グリーンズがロンドンに新たな店舗をオープンする。特製サラダや高たんぱくの温かいプレート、カスタム朝食などを提供する。",
+      "source": "Hospitality & Catering News",
+      "url": "https://www.hospitalityandcateringnews.com/2026/10/urban-greens-to-open-seventh-london-location-on-tottenham-court-road/",
+      "score": 74,
+      "commercial_score": 70,
+      "product_keywords": [
+        "サラダボウル",
+        "プロテイン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "米ベルウェザー、カフェ向け自家焙煎機「ショップロースター」発表",
+      "summary_ja": "米国のベルウェザーがカフェ向けの新型小型焙煎機を発表した。店舗で自家焙煎を行うことでコーヒー豆の調達コストを半減させ、数カ月で投資回収できるとしている。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/bellwether-shop-roaster-cafes-roast-in-house-coffee-costs-302910268",
+      "score": 72,
+      "commercial_score": 75,
+      "product_keywords": [
+        "コーヒー焙煎機",
         "コーヒー豆"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英調査、最安のネットスーパー判明、大手を押さえ新首位に",
-      "summary_ja": "英国の食料品インフレが再び進み、消費者が特売品を頼りにする傾向が強まるなか、最も安く買い物ができるオンラインスーパーの最新調査結果が発表された。定番のアルディやテスコを抑え、別の店舗が最安の選択肢として浮上している。",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/cheapest-supermarket-online-shop-uk-amazon-fresh-b3068512.html",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ネットスーパー",
-        "食料品 まとめ買い"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "森永製菓、ケーキと焼き上げた「半熟ダース」2品を新発売",
-      "summary_ja": "森永製菓は粒チョコレート「ダース」ブランドから新商品を10月27日に発売する。ケーキとチョコを一緒に焼き上げることで、内部をやわらかな半熟食感に仕上げたミルクとストロベリーの2種が登場する。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_707118/",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "森永製菓",
-        "半熟ダース",
-        "チョコレート"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ふるさと納税、ポイント付与なしでも8割超が利用意欲と調査",
-      "summary_ja": "比較サイトのイエベースを実施主体とする意識調査が行われ、ふるさと納税でポイントが付かない場合でも8割超の人が利用したいと回答した。あわせて、利用者が何度も選びたくなるリピート人気の高い返礼品の実態についても調べている。",
-      "source": "まいどなニュース",
-      "url": "https://maidonanews.jp/article/16939916",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ふるさと納税"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ネスレ予測、2027年はイチジクを使ったコーヒーが流行の兆し",
-      "summary_ja": "食品大手ネスレの予測によると、2027年はフルーツ風味を取り入れたコーヒーが流行するという。特にイチジクはカフェメニューへの登場頻度が98.5パーセント急増しており、ジャムやキャラメルを思わせる味わいとして注目を集めている。",
-      "source": "Delish",
-      "url": "https://www.delish.com/food-news/a74149424/fig-coffee-trend-2027/",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "イチジク シロップ",
-        "フレーバーコーヒー",
-        "ネスレ"
-      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "航空各社、機体改修の遅れを補うため有名シェフ監修の機内食に注力",
-      "summary_ja": "航空業界では客室の改修や機材納入に長期の遅れが生じていることから、各社は食事サービスの充実に舵を切っている。著名な料理人を起用して機内食メニューを刷新し、搭乗客の満足度を高める取り組みを強めている。",
-      "source": "Skift",
-      "url": "https://skift.com/2026/10/17/airlines-cant-upgrade-every-plane-so-theyre-upgrading-the-menu/",
-      "score": 75,
+      "title_ja": "英ロンドンに大型フードホール「エレファント・エクスチェンジ」開業へ",
+      "summary_ja": "飲食グループのブレンド・ファミリーが、ロンドン南部に新たなフードホールを開業すると発表した。独立系の飲食店やバー、カフェが一堂に集う飲食拠点となる。",
+      "source": "Hospitality & Catering News",
+      "url": "https://www.hospitalityandcateringnews.com/2026/10/blend-family-sets-opening-date-for-elephant-exchange-food-hall/",
+      "score": 72,
       "commercial_score": 60,
-      "product_keywords": [
-        "機内食"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英で20ポンドで買い出し可能なソーシャルスーパーが開設",
-      "summary_ja": "英国の生活費高騰に対応するため、「コミュニティ・カップボード」と呼ばれるソーシャル・スーパーマーケットが開設された。物価高に悩む地域住民に向けて、20ポンドで日々の食料品を購入できる仕組みを提供している。",
-      "source": "Yahoo News UK",
-      "url": "https://uk.news.yahoo.com/social-supermarket-where-food-shop-080000996.html",
-      "score": 75,
-      "commercial_score": 65,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "深圳で飲食の大規模展示会、2000社集い新商品や革新食品披露",
-      "summary_ja": "中国の深圳で2000社以上の企業が出展する18万平方メートル規模の小売・飲食展示会が開催された。国内外に向けた最新のヒット商品や新商品が並んだほか、大学と連携して開発された海産ヨーグルトなど独自の食品イノベーションが披露された。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1089257417_161795",
-      "score": 75,
+      "title_ja": "ヴァージン・ボヤージ、クルーズ船やクラブの食事メニュー刷新",
+      "summary_ja": "ヴァージン・ボヤージが客船内やバハマの専用ビーチクラブで提供する飲食メニューを刷新した。著名シェフと協業し、カリブ海に着想を得た料理などを提供する。",
+      "source": "Breaking Travel News",
+      "url": "https://www.breakingtravelnews.com/news/article/virgin-voyages-unveils-new-dining-experiences-across-fleet-and-bimini-beach/",
+      "score": 70,
+      "commercial_score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英中華料理店と人気ベーカリー、限定グルテンフリードーナツ発売",
+      "summary_ja": "ロンドンの中華料理店がグルテンフリー専門店と連携し、特製ドーナツ3種を限定発売した。中華の要素を取り入れた特別なスイーツとして提供されている。",
+      "source": "The Upcoming",
+      "url": "https://www.theupcoming.co.uk/2026/10/18/chinatown-restaurant-golden-phoenix-teams-up-with-borough-22-on-limited-edition-chinese-inspired-gluten-free-doughnuts/",
+      "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "中国食品",
-        "輸入菓子"
+        "グルテンフリー",
+        "ドーナツ"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国の王老吉、タウリンゼロ処方の新エナジードリンクを発売",
-      "summary_ja": "中国の老舗飲料ブランド王老吉が、新世代の機能性飲料「王者英雄」を市場に投入した。タウリンを含まない天然植物由来の処方を採用し、エネルギー補給と電解質補給の双方を兼ね備えた製品設計となっている。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_7880068942_1d5b04f4e06801uw6s.html?from=tech",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "王老吉",
-        "エナジードリンク"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "デンマークの人気カフェが上海に限定出店、初日から行列",
-      "summary_ja": "デンマーク発の人気カフェ「ラ・カブラ（La Cabra）」が、上海の淮海路に3か月間の期間限定で出店した。北欧ならではの温もりある空間づくりとこだわりのコーヒーや焼き菓子が注目され、オープン初日から大勢の客で行列ができている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1089197438_122014422",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "北欧 焼き菓子",
-        "スペシャルティコーヒー",
-        "北欧 食器"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "韓国スーパーで特別販売展、ミニドバイチョコなど話題の5品が登場",
-      "summary_ja": "韓国農水産食品流通公社東京支社は、東京や千葉など4都県の韓国スーパーで特別販売展を開催している。日本初披露のミニドバイチョコレートや即席キムチパウダーなど、注目の韓国食品5品が並ぶ。会期は10月31日までとなっている。",
-      "source": "Dtimes",
-      "url": "https://dtimes.jp/post-1417871/",
+      "title_ja": "植物油不使用の英オーツミルク「プレニッシュ」に注目集まる",
+      "summary_ja": "原材料に植物油を使わないクリーンな製法を掲げるオーツミルクが英国で注目を集めている。栄養士による検証でも原材料の透明性やカフェ利用での仕上がりが評価されている。",
+      "source": "balancejournal.co",
+      "url": "https://balancejournal.co/food-drink/plenish-oat-milk-review",
       "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "ドバイチョコレート",
-        "キムチパウダー",
-        "韓国食品"
+        "オーツミルク",
+        "プラントベース"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ふるさと納税で人気の唐津バーグ、地元小中学校の給食に提供へ",
-      "summary_ja": "佐賀県唐津市のいきや食品が、ふるさと納税の返礼品として支持を集めるハンバーグ約1万個を市に寄付した。同社のハンバーグは仲介サイトの年間総合順位で2位となった人気商品で、今月下旬に市内の小中学校の給食で子どもたちに振る舞われる。",
-      "source": "佐賀新聞",
-      "url": "https://www.saga-s.co.jp/articles/-/1812434",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "唐津バーグ",
-        "ふるさと納税 ハンバーグ",
-        "いきや食品"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米タコベル、2種のソースに浸して食べる新ブリトーを投入",
-      "summary_ja": "米ファストフード大手のタコベルが、ソースに浸して食べる新商品「ダブルディッピング・ブリトー」を投入した。仕切り付きの専用ディップカップが用意され、既存メニューに新たな形状や食べ方の工夫を取り入れている。",
-      "source": "Sporked",
-      "url": "https://sporked.com/article/taco-bell-double-dipping-burritos-review/",
-      "score": 70,
+      "title_ja": "英「コール・シェッド」、15周年記念で創業時価格のコース提供",
+      "summary_ja": "英国の人気レストランが創業15周年を記念し、特別プランを開始した。2011年当時の価格である3品35ポンドのコースを期間限定で提供している。",
+      "source": "Brighton Source",
+      "url": "https://brightonsource.co.uk/bars-and-food/the-coal-shed-turns-15-with-three-courses-for-35-at-2011-prices/",
+      "score": 68,
       "commercial_score": 65,
-      "product_keywords": [
-        "タコベル",
-        "ブリトー",
-        "トルティーヤ"
-      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ハワイの食イベント「オノフェスト」、6ドルの特別品を提供",
+      "summary_ja": "ハワイで開催される食のイベント「オノフェスト」で、6ドル均一のフードやドリンクが導入された。現地のケータリング業者やスイーツ店が参加し、おすすめの料理を披露している。",
+      "source": "Hawaii News Now",
+      "url": "https://www.hawaiinewsnow.com/2026/10/18/two-day-onofest-fall-expo-introduces-new-6-food-drink-menu/?outputType=amp",
+      "score": 65,
+      "commercial_score": 50,
       "country": "us",
       "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英スーパーで食費高騰、購入前の値札詳細確認を呼びかけ",
-      "summary_ja": "イギリスでは毎日の食料品の価格が再び上昇傾向にある。買い物客に対して、商品の総額だけでなく棚に記載された容量や単位あたりの価格表示をしっかりと確認してから購入するよう助言がなされている。",
-      "source": "Cambridge News",
-      "url": "https://www.buckinghamshirelive.com/news/uk-world-news/supermarket-shoppers-advised-check-shelf-11197751",
-      "score": 70,
-      "commercial_score": 65,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英外食チェーン、秋休みに子ども向け食事無料などの支援策",
-      "summary_ja": "英国の10月の半期休暇に合わせて、外食各社が子ども向け食事を無料または1ポンドで提供する取り組みを実施している。対象にはバーガーキングやアズダ、モリソンズのカフェのほか、有名シェフのゴードン・ラムゼイ系列店などが含まれる。",
-      "source": "The Northern Echo",
-      "url": "https://www.thenorthernecho.co.uk/news/26645888.kids-eat-free-october-half-term-2026-best-deals-discounts/",
-      "score": 70,
-      "commercial_score": 65,
-      "country": "gb",
-      "country_label_ja": "イギリス"
     }
   ]
 }

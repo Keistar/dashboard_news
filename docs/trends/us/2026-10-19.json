@@ -1,0 +1,162 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T16:10:11+09:00",
+  "trends": [
+    {
+      "keyword": "MacBook Pro",
+      "reason_ja": "アップル初となるタッチ画面搭載MacBook Proの投入予定が報じられ関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "MacBook Pro",
+        "touchscreen laptop",
+        "Apple"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "タッチ対応MacBook投入の動きが浮上",
+          "summary_ja": "アップルがタッチ画面を搭載した新型ノートパソコンや小型タブレットなどの新製品を準備していると報じられています。長年タッチ操作を採用してこなかった製品ラインに新たな展開が期待されています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-macbook-pro-ipad-mini-october"
+        },
+        {
+          "title_ja": "長年の沈黙を破りタッチ画面採用の新端末へ",
+          "summary_ja": "十年以上にわたりノート端末でタッチ画面を避けてきたアップルが、ついに対応モデルを投入する見通しです。これまでの操作体系を一新する新世代モデルとして注目が高まっています。",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/"
+        }
+      ]
+    },
+    {
+      "keyword": "iPhone Duo",
+      "reason_ja": "折りたたみiPhoneの需要過熱で在庫が枯渇し、店頭での当日購入が困難な状況となっています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "iPhone Duo",
+        "foldable phone"
+      ],
+      "product_keywords_ja": [
+        "iPhone",
+        "折りたたみスマホ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "折りたたみiPhoneの出荷が翌年へ遅延",
+          "summary_ja": "アップル初の折りたたみスマートフォンの供給が逼迫し、出荷予定時期が大幅に遅れています。これまでの通常フラッグシップ端末の発売時と比較しても入手が極めて困難な状態となっています。",
+          "source": "Supply Chain Brain",
+          "url": "https://www.supplychainbrain.com/articles/45041-apple-iphone-duo-in-short-supply-after-shipments-slip-into-2027"
+        },
+        {
+          "title_ja": "発売日の直営店当日購入は困難と店員が警告",
+          "summary_ja": "直営店のスタッフが、発売日当日に予約なしで来店しても購入できない可能性が高いと呼びかけています。極端な品薄により事前の注文を行っていない場合は入手が難しい見込みです。",
+          "source": "The Mac Observer",
+          "url": "https://www.macobserver.com/news/apple-store-workers-warn-against-iphone-duo-walk-in-purchases-on-launch/"
+        }
+      ]
+    },
+    {
+      "keyword": "RTX Spark",
+      "reason_ja": "エヌビディアの最新GPU「RTX Spark」を搭載したAIノートPCが世界各地で発売されました。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "RTX Spark",
+        "AI laptop",
+        "NVIDIA GPU"
+      ],
+      "product_keywords_ja": [
+        "ゲーミングノートPC",
+        "グラフィックボード"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "エヌビディアが手頃なAIノートPCを投入",
+          "summary_ja": "高額な従来の人工知能向け端末に対して、大幅に価格を抑えた最新チップ搭載ノートパソコンが登場しました。競合各社やクラウド提供サービスに対抗し、個人や開発者向けに普及を狙います。",
+          "source": "https://tech-insider.org/",
+          "url": "https://tech-insider.org/nvidia-rtx-spark-vs-ai-workstation-pricing-2026/"
+        },
+        {
+          "title_ja": "最新チップ搭載PCの発売イベントが世界で開催",
+          "summary_ja": "最新チップを搭載した新型パソコンの発売を記念し、世界各地で店頭イベントが催されています。ゲーマーやクリエイター、開発者が集まり、実機での性能を体験する場となっています。",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
+        }
+      ]
+    },
+    {
+      "keyword": "Bose QuietComfort",
+      "reason_ja": "セール時期に合わせて人気ノイズキャンセリングヘッドホンの大幅割引が行われ話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Bose QuietComfort",
+        "noise cancelling headphones"
+      ],
+      "product_keywords_ja": [
+        "ボーズ",
+        "ノイズキャンセリングヘッドホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "主要ブランドのヘッドホンがセールで特価に",
+          "summary_ja": "大型セールに合わせて、主要メーカーの人気ヘッドホンやワイヤレスイヤホンが割引価格で販売されています。音質や機能性に優れた定番モデルがお買い得となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-october-prime-day-headphones-deals-live-2026"
+        },
+        {
+          "title_ja": "ボーズの人気ヘッドホンが大幅値引きで販売中",
+          "summary_ja": "定番のノイズキャンセリング機能を備えた人気モデルが、通常価格から大幅に値引きされて提供されています。優れた装着感と静寂性を両立したおすすめ機器として支持を集めています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/july-17-bose-quietcomfort-headphones"
+        }
+      ]
+    },
+    {
+      "keyword": "Lisa Rinna",
+      "reason_ja": "ヴィクトリアズ・シークレットのファッションショーに出演する娘を応援する姿が脚光を浴びています。",
+      "genre": "beauty",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Victoria's Secret",
+        "lingerie",
+        "fashion show"
+      ],
+      "product_keywords_ja": [
+        "ヴィクトリアシークレット",
+        "ランジェリー"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "母娘でヴィクトリアズショー会場に登場",
+          "summary_ja": "ファッションショーのピンクカーペットに親子で姿を見せ、ランウェイを歩く家族を応援しました。大胆な衣装コーディネートを披露し、華やかな舞台を盛り上げています。",
+          "source": "People.com",
+          "url": "https://people.com/lisa-rinna-and-delilah-belle-hamlin-support-amelia-gray-at-2026-victorias-secret-fashion-show-12173975"
+        },
+        {
+          "title_ja": "本番前のウォーキング練習動画が話題に",
+          "summary_ja": "ファッションショーの本番に向けて親子でウォーキングを練習する様子がブランド公式動画で公開されました。リラックス感とハイファッションを組み合わせた着こなしが注目を集めています。",
+          "source": "AOL.com",
+          "url": "https://www.aol.com/articles/amelia-gray-gets-seriously-cheeky-131442000.html"
+        }
+      ]
+    }
+  ]
+}

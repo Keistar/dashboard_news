@@ -1,95 +1,90 @@
 {
   "genre": "sale",
   "genre_label_ja": "セール・キャンペーン",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:57:19+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:59:00+09:00",
   "stories": [
     {
-      "title_ja": "楽天でジャクリのソーラーパネルが40％引き、割引クーポン配布を延長",
-      "summary_ja": "楽天市場の公式店舗にて、100Wソーラーパネルを対象としたクーポンの配布期間が延長された。元値3万4800円のところ、40％引きが適用されて税込み2万880円で購入できる。期間は10月20日23時59分までとなっている。",
-      "source": "Jetstream",
-      "url": "https://jetstream.blog/2026/10/17/jackery-solarsaga-100-prime-rakuten-discount-20261017/",
+      "title_ja": "SHEINが最大95％オフセールを開始、送料無料イベントも",
+      "summary_ja": "オンライン通販のSHEINは、10月19日から11月16日まで大型セールを実施する。期間中は最大95％オフとなるほか、11月11日には全品送料無料のイベントも予定されている。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/oricon_2487279/",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "SHEIN"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "楽天モバイルがiPhone Duoを発売、最大4万ポイント還元も",
+      "summary_ja": "楽天モバイルは10月23日にiPhone Duoを発売すると発表し、10月16日夜から予約を受け付けている。指定プランとのセット購入などで最大4万ポイントが還元される。",
+      "source": "AppBank",
+      "url": "https://www.appbank.net/2026/10/18/goods-books/3135617.php",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "楽天モバイル",
+        "iPhone"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "楽天トラベルスーパーSALEで東京のホテルが最大35％オフに",
+      "summary_ja": "楽天トラベルでスーパーSALEが開催されており、東京の対象ホテルが最大35％割引となっている。駅近で朝食やアメニティが充実した宿などが対象となっている。",
+      "source": "ウォーカープラス",
+      "url": "https://www.walkerplus.com/article/1441169/",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "楽天トラベル",
+        "ホテル 東京"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Marshallがオータムセールを開催、イヤホンやスピーカーが特価",
+      "summary_ja": "Marshallはオーディオ製品を特別価格で販売するオータムセールを10月22日まで開催している。ワイヤレスイヤホンやポータブルスピーカーなどが割引対象となっている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-news__d-av__66190?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
       "score": 75,
-      "commercial_score": 95,
+      "commercial_score": 85,
       "product_keywords": [
-        "Jackery",
-        "SolarSaga 100 Prime",
-        "ソーラーパネル"
+        "Marshall",
+        "ワイヤレスイヤホン",
+        "ポータブルスピーカー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "エコフローの車載充電器が楽天でほぼ半額、特別クーポンを延長",
-      "summary_ja": "楽天市場の公式店で走行充電器「EcoFlow Alternator Charger 600」の大幅値引きが実施されている。元値7万2800円がクーポン利用により3万6575円となり、配布は10月20日23時59分まで延長された。",
+      "title_ja": "エプソンのGoogle TV搭載プロジェクターが30％オフで販売",
+      "summary_ja": "Amazonのプライム感謝祭にて、エプソンのGoogle TV搭載プロジェクターが30％引きで販売されている。セールは10月19日23時59分まで開催されている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1117838?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "エプソン",
+        "プロジェクター"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "楽天市場でJackeryのソーラーパネルが40％オフ、期間を延長",
+      "summary_ja": "楽天市場のJackery公式店舗で、ソーラーパネル「Jackery SolarSaga 100 Prime」の40％引きクーポン配布が10月20日まで延長された。クーポン適用により、通常3万4800円のところ2万880円で購入できる。",
       "source": "Jetstream",
-      "url": "https://jetstream.blog/2026/10/17/ecoflow-alternator-charger-600-rakuten-discount-20261017/",
-      "score": 72,
-      "commercial_score": 95,
-      "product_keywords": [
-        "EcoFlow",
-        "Alternator Charger 600",
-        "走行充電器"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "スントが秋の感謝祭を開催、対象ウォッチが最大26％引きに",
-      "summary_ja": "SUUNTOが10月25日まで「SUUNTO 秋の感謝祭」を実施している。Suunto Runなどの対象モデルが最大26％オフとなり、Suunto Runは2万9700円で販売されている。",
-      "source": "RUNNING STREET 365",
-      "url": "https://runningstreet365.com/shopinfo/52681",
+      "url": "https://jetstream.blog/2026/10/19/jackery-solarsaga-100-prime-rakuten-discount-20261019/",
       "score": 70,
       "commercial_score": 90,
       "product_keywords": [
-        "Suunto",
-        "Suunto Run",
-        "スマートウォッチ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "アディダスのゴアテックススニーカーが6000円引きのセール中",
-      "summary_ja": "アディダスの防水スニーカー「テレックス トレースロッカー 2 GORE-TEX」が6000円引きとなっている。雨の日の通勤や散歩、低山登山まで幅広く使えるモデルとして注目されている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4056639/2/",
-      "score": 68,
-      "commercial_score": 90,
-      "product_keywords": [
-        "アディダス",
-        "テレックス トレースロッカー 2",
-        "ゴアテックス スニーカー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "キンドルで漫画『土竜の唄』がセール、96巻まで各99円に",
-      "summary_ja": "AmazonのKindleで高橋のぼるの漫画『土竜の唄』の電子書籍版セールが行われている。96巻までが各99円となっており、第1巻は1円で購入できる。",
-      "source": "電撃オンライン",
-      "url": "https://dengekionline.com/article/202610/91289",
-      "score": 67,
-      "commercial_score": 85,
-      "product_keywords": [
-        "土竜の唄",
-        "高橋のぼる",
-        "Kindle"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ケユカの撥水軽量リュックがアマゾンセールで10％オフに",
-      "summary_ja": "ケユカの「N撥水ライトシェルリュック M」がAmazonのセール対象となっている。通常3300円から10％オフの税込2970円に値下げされており、通勤や普段使い向けの軽量モデルとして紹介されている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4058513/2/",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "KEYUCA",
-        "ケユカ リュック",
-        "撥水リュック"
+        "Jackery",
+        "ソーラーパネル",
+        "SolarSaga"
       ],
       "country": "jp",
       "country_label_ja": "日本"

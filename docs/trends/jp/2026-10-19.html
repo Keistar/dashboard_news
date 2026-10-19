@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI WIRE — 2026-10-19 — JP EDITION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0614;
+    --line: #341a50;
+    --text: #c8dff0;
+    --text-dim: #7298b8;
+    --amber: #c8a0ff;
+    --signal: #d8b0ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans JP', -apple-system, sans-serif;
+    line-height: 1.7;
+  }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+  }
+  .masthead-title { font-size: 14px; letter-spacing: 0.12em; color: var(--amber); font-weight: 700; }
+  .live-tag {
+    font-size: 11px; letter-spacing: 0.08em; color: var(--signal);
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--signal); animation: pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .back-link {
+    display: inline-block; font-size: 12px; color: var(--text-dim);
+    text-decoration: none; margin: 12px 0 16px; letter-spacing: 0.05em;
+  }
+  .back-link:hover { color: var(--amber); }
+  .genre-hero { margin: 0 0 24px; }
+  .genre-hero-title { font-size: 36px; font-weight: 700; color: var(--amber); letter-spacing: 0.03em; margin: 0 0 4px; line-height: 1.2; }
+  .genre-hero-sub { font-size: 13px; letter-spacing: 0.18em; color: var(--text-dim); margin: 0; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 12px; color: var(--text-dim); margin: 12px 0 20px; letter-spacing: 0.05em;
+  }
+  .breadcrumb a { color: var(--text-dim); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--amber); }
+  .breadcrumb-sep { color: var(--line); }
+  .section-label { font-size: 12px; letter-spacing: 0.1em; color: var(--text-dim); margin-bottom: 4px; }
+  .meta-line { font-size: 12px; color: var(--text-dim); margin-bottom: 28px; }
+  /* article list */
+  ul.entries { list-style: none; margin: 0; padding: 0; }
+  .entry { display: flex; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+  .entry:last-child { border-bottom: none; }
+  .entry-index { flex: 0 0 auto; color: var(--amber); font-size: 13px; padding-top: 3px; }
+  .entry-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  .entry-title { font-size: 16px; font-weight: 600; margin: 0; letter-spacing: 0.01em; flex: 1; }
+  .entry-score {
+    flex: 0 0 auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 3px 7px; border-radius: 3px; white-space: nowrap;
+    align-self: center; margin-top: 1px;
+  }
+  .entry-summary { font-size: 15px; color: #a8c8e0; margin: 0 0 10px; line-height: 1.75; }
+  .entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .entry-source { font-size: 12px; color: var(--amber); text-decoration: none; border-bottom: 1px solid transparent; }
+  .entry-source:hover { border-bottom-color: var(--amber); }
+  .entry-more { list-style: none; margin: 10px 0 0; padding: 0; font-size: 13px; }
+  .entry-more li { margin: 4px 0; }
+  .entry-more a { color: var(--text-dim); text-decoration: none; }
+  .entry-more a:hover { color: var(--amber); }
+  .entry-meta { font-size: 11px; color: var(--text-dim); letter-spacing: 0.05em; }
+  /* nav list */
+  ul.nav-list { list-style: none; margin: 0; padding: 0; }
+  .nav-item { border-bottom: 1px solid var(--line); }
+  .nav-item:last-child { border-bottom: none; }
+  .nav-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0; color: var(--text); text-decoration: none;
+  }
+  .nav-link:hover .nav-label-main,
+  .nav-link:hover .nav-date { color: var(--amber); }
+  .nav-label { display: flex; flex-direction: column; gap: 2px; }
+  .nav-label-main { font-size: 16px; font-weight: 600; letter-spacing: 0.01em; }
+  .nav-label-sub { font-size: 12px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .nav-date { font-size: 15px; letter-spacing: 0.05em; }
+  .nav-arrow { color: var(--amber); font-size: 13px; }
+  footer { margin-top: 40px; font-size: 11px; color: var(--text-dim); opacity: 0.7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="masthead">
+      <span class="masthead-title mono">AI WIRE &#9656; TRENDING NOW &#9656; JP EDITION</span>
+      <span class="live-tag mono"><span class="live-dot"></span>LIVE</span>
+    </div>
+    <nav class="breadcrumb mono">
+      <a href="../../index.html">ジャンル一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="../index.html">国一覧</a>
+      <span class="breadcrumb-sep">/</span>
+      <a href="index.html">日付一覧</a>
+    </nav>
+    <div class="meta-line mono">2026-10-19 &middot; 16:10 JST &middot; 5 dispatches</div>
+    <ul class="entries">
+        <li class="entry">
+          <span class="entry-index">01</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">プライム感謝祭</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">95<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">Amazonの大型セール最終日を迎え、おすすめ商品や売れ筋ランキングが注目を集めています。 アマゾンで開催中の大型セールにおいて、期間中によく売れているおすすめアイテムがランキング形式でまとめられています。セール最終日を迎え、厳選された人気商品に注目が集まっています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://360life.shinyusha.co.jp/articles/-/56618" target="_blank" rel="noopener noreferrer">
+                360LiFE <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">セール・キャンペーン</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://www.iza.ne.jp/article/20261019-QWGIHQGF3VA75B54FRID52JIRM/?outputType=theme_osusume" target="_blank" rel="noopener noreferrer">アマゾン感謝祭で半額以下のおすすめ品 — イザ！</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">02</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">iPhone Duo</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">90<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">アップル初の折りたたみスマートフォンが予約開始となり、注文殺到による出荷遅延が話題になっています。 アップル初となる折りたたみスマートフォンの予約受付が始まり、国内外で激しい注文争奪戦が起きています。予約注文を巡る世界的な熱狂とともに、供給や配送予定に関する議論も呼んでいます。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://news.yahoo.co.jp/articles/89f35340c862d5f1d770c9bfc4a79e4233f44f48" target="_blank" rel="noopener noreferrer">
+                Yahoo!ニュース <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">ガジェット</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://gadget.phileweb.com/post-135284/" target="_blank" rel="noopener noreferrer">新iPhoneの出荷予定が数か月待ちに延期 — Gadget Gate</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">03</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ポータブル電源</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">大型セールに合わせて人気ブランドのポータブル電源や走行充電器が大幅値引きされています。 通販サイトの大型セールにおいて、人気ブランドのポータブル電源が特別価格で提供されています。セールの最終日を迎え、アウトドアや防災に役立つ電源機器への関心が高まっています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://internet.watch.impress.co.jp/docs/shopping/2149120.html" target="_blank" rel="noopener noreferrer">
+                INTERNET Watch <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">アウトドア</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://jetstream.blog/2026/10/19/ecoflow-alternator-charger-600-amazon-primeappreciation-2026-final-day/" target="_blank" rel="noopener noreferrer">エコフローの車載急速走行充電器が半額に — Jetstream</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">04</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">ちいかわ</h2>
+              <span class="entry-score" style="background:#2a0c0c;color:#ff5555">85<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">新作シールの発売や航空会社との特別コラボ機の就航など新展開が相次いでいます。 人気キャラクターをデザインしたミニサイズのドロップシールに新柄が登場し、順次出荷が開始されます。個別キャラクターの単独シートを含む多彩なラインナップが揃っています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://dengekionline.com/article/202610/91400" target="_blank" rel="noopener noreferrer">
+                電撃オンライン <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">食品・グルメ</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://japan.storm.mg/articles/1173536" target="_blank" rel="noopener noreferrer">ちいかわ特別塗装機が国内線で運航開始 — 風傳媒</a></li></ul>
+          </div>
+        </li>
+        <li class="entry">
+          <span class="entry-index">05</span>
+          <div class="entry-body">
+            <div class="entry-title-row">
+              <h2 class="entry-title">株主優待</h2>
+              <span class="entry-score" style="background:#201408;color:#e89030">65<span style="opacity:0.55;font-size:9px">pt</span></span>
+            </div>
+            <p class="entry-summary">新NISAを機に使い勝手の良い金券や人気キャラクターコラボなどの優待銘柄が注目を集めています。 使い勝手の良さから個人投資家の間で高い人気を誇る金券優待について、対象企業の最新リストがまとめられています。制度が複雑化する中で、分かりやすい条件で受け取れる銘柄が紹介されています。</p>
+            <div class="entry-footer">
+              <a class="entry-source" href="https://toyokeizai.net/articles/-/961053?page=6" target="_blank" rel="noopener noreferrer">
+                東洋経済オンライン <span aria-hidden="true">&#8599;</span>
+              </a>
+              <span class="entry-meta mono">その他</span>
+            </div>
+            <ul class="entry-more"><li><a href="https://finance.yahoo.co.jp/news/detail/e415e944d254b7b51afae8fa8e73fb096f82c13a" target="_blank" rel="noopener noreferrer">人気キャラクターコラボを楽しむ優待活用法 — Yahoo!ファイナンス</a></li></ul>
+          </div>
+        </li>
+    </ul>
+    <footer class="mono">Generated daily by Gemini · gemini-3.8-flash-high</footer>
+  </div>
+</body>
+</html>
