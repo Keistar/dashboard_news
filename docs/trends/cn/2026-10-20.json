@@ -1,0 +1,156 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T16:07:11+09:00",
+  "trends": [
+    {
+      "keyword": "黄金首饰",
+      "reason_ja": "金価格の一時的な下落を受けて上海などの貴金属店にアクセサリー購入客が殺到し話題となった。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "黄金首饰",
+        "足金手镯",
+        "黄金项链"
+      ],
+      "product_keywords_ja": [
+        "純金 ジュエリー",
+        "ゴールド ブレスレット",
+        "K18 ネックレス"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "金価格の下落で上海の貴金属店に購入客が殺到",
+          "summary_ja": "国際相場の変動を受けて金の装飾品価格が値下がりし買い求める客が店舗に列を作った。購入後の品質や取り扱いに関する投稿も増えている。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261020/49805417.html"
+        }
+      ]
+    },
+    {
+      "keyword": "小天才手表",
+      "reason_ja": "子供向けスマートウォッチ「小天才」の独自SNSが閉鎖的で他社製品を排除しているとネットで議論を呼んだ。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "小天才电话手表",
+        "儿童智能手表"
+      ],
+      "product_keywords_ja": [
+        "キッズスマートウォッチ",
+        "見守りウォッチ",
+        "子供用GPS時計"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "子供用スマートウォッチの独自SNSが排他的と議論に",
+          "summary_ja": "中国の子供向け時計端末が外部と互換性のない閉鎖的SNSを構築しているとして疑問の声が上がった。他社製品を購入すると友達の輪に入れない構造が注目されている。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261020/49804980.html"
+        },
+        {
+          "title_ja": "子供向け腕時計のSNS機能巡り保護者の間で波紋",
+          "summary_ja": "子供向けスマートウォッチのアバターや投稿機能などのコミュニティ要素が話題になっている。同級生間の付き合いに影響するとの指摘が出ている。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1090063672_121218495"
+        }
+      ]
+    },
+    {
+      "keyword": "小米汽车",
+      "reason_ja": "シャオミが8件の自動車関連商標を相次いで出願・通過させ新モデル展開への期待が高まっている。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "小米汽车",
+        "小米SU7",
+        "新能源汽车配件"
+      ],
+      "product_keywords_ja": [
+        "車載ホルダー",
+        "EV充電器",
+        "カーチャージャー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "シャオミが自動車関連で新たな商標を登録し話題に",
+          "summary_ja": "シャオミが複数の自動車商標を出願・登録した。将来の新車種展開を見据えた動きとして自動車ファンの関心を集めている。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261020/49805332.html"
+        },
+        {
+          "title_ja": "シャオミの新型車向け商標が審査を通過 ラインナップ拡大へ",
+          "summary_ja": "シャオミが申請していた乗り物分類の商標が相次いで審査を通過した。高級モデルや高性能仕様を示唆する名称が含まれている。",
+          "source": "网通社",
+          "url": "http://auto.news18a.com/news/storys_306545.html"
+        }
+      ]
+    },
+    {
+      "keyword": "大闸蟹",
+      "reason_ja": "上海蟹が在庫過多で価格崩壊したとのネットの噂に対し業界団体が事実無根と声明を出した。",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "阳澄湖大闸蟹",
+        "大闸蟹礼券",
+        "熟醉蟹"
+      ],
+      "product_keywords_ja": [
+        "上海蟹",
+        "上海蟹 生体",
+        "上海蟹みそ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "上海蟹の暴落説を業界団体が否定 正常な供給を強調",
+          "summary_ja": "上海蟹の相場が暴落したとのネット上の情報に対し産地業界団体が声明を発表した。本場産地の需給は安定しており買い控えに注意を促している。",
+          "source": "同花顺财经",
+          "url": "http://field.10jqka.com.cn/20261019/c680853250.shtml"
+        },
+        {
+          "title_ja": "陽澄湖上海蟹の在庫過多説を否定 安定した販売を維持",
+          "summary_ja": "業界団体が上海蟹の投げ売り説を否定し需給は極めて安定していると表明した。流通の混乱を招く不正確な情報に惑わされないよう呼びかけている。",
+          "source": "搜狐",
+          "url": "https://m.sohu.com/a/1090157584_121426544"
+        }
+      ]
+    },
+    {
+      "keyword": "星巴克",
+      "reason_ja": "中国のスターバックスで「商品購入者のみ着席可能」とする店内ルールの導入が噂され賛否を呼んだ。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "星巴克咖啡",
+        "星巴克保温杯",
+        "咖啡豆"
+      ],
+      "product_keywords_ja": [
+        "スターバックス タンブラー",
+        "スターバックス コーヒー豆",
+        "スターバックス マグカップ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "スターバックスの「購入者のみ着席」ルールが話題に",
+          "summary_ja": "スターバックスが店内利用を購入者に限る新たな取り組みを始めるとの情報が拡散した。休憩や作業に利用する消費者らの間で様々な反響を呼んでいる。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.cn/2026-10-19/detail-inivueuh0966834.d.html?vt=4&cid=76675&node_id=76675"
+        }
+      ]
+    }
+  ]
+}

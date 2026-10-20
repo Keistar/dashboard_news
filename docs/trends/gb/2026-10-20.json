@@ -1,0 +1,128 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T16:07:11+09:00",
+  "trends": [
+    {
+      "keyword": "Apple Event",
+      "reason_ja": "アップルが発表会案内を送付し英国でもタッチ対応ノートPCの登場に大きな関心が寄せられている。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Apple Event",
+        "MacBook Pro",
+        "Apple laptop"
+      ],
+      "product_keywords_ja": [
+        "Apple ノートパソコン",
+        "MacBook Pro"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが発表会を告知 タッチ対応PC登場に期待",
+          "summary_ja": "アップルが来週開催する新製品発表イベントの案内を送付した。アナリストらはタッチ画面を搭載したノートパソコンの発表を予測している。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html"
+        },
+        {
+          "title_ja": "アップルの最新発表イベントで登場する新製品予測",
+          "summary_ja": "アップルが秋の新製品発表の第2弾を実施する。新型ハードウェアのラインナップにファンの期待が高まっている。",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
+        }
+      ]
+    },
+    {
+      "keyword": "Beats headphones",
+      "reason_ja": "最新ワイヤレスヘッドホン「Beats 360」の実機テストや比較レビューが公開され注目されている。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Beats 360 headphones",
+        "wireless headphones UK",
+        "Beats Studio"
+      ],
+      "product_keywords_ja": [
+        "Beats ヘッドホン",
+        "ワイヤレスヘッドホン",
+        "ノイズキャンセリング ヘッドホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "英紙記者が最新ヘッドホン「Beats 360」を検証",
+          "summary_ja": "ヘッドホン愛好家の記者がビーツの最新モデルをテストした。日常の様々な場面で使い込み性能を評価している。",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/shopping/esbest/gadgets-tech/beats360-headphones-review-b1301459.html"
+        },
+        {
+          "title_ja": "通勤や仕事に適したヘッドホンの選び方ガイド",
+          "summary_ja": "英国での通勤や作業に適したワイヤレスヘッドホンの選び方がまとめられた。音質や遮音性能、装着感を比較している。",
+          "source": "Anker",
+          "url": "https://www.anker.com/uk/blogs/headphones/alternative-to-beats-headphones"
+        }
+      ]
+    },
+    {
+      "keyword": "Walkers crisps",
+      "reason_ja": "英国の菓子大手ウォーカーズが限定フレーバーや高級新シリーズを発売し話題となっている。",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Walkers crisps",
+        "Walkers potato chips",
+        "Walkers Gold"
+      ],
+      "product_keywords_ja": [
+        "Walkers ポテトチップス",
+        "輸入ポテトチップス",
+        "イギリス菓子"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "英大手スーパーで限定ポテトチップスが発売され話題に",
+          "summary_ja": "英スナック大手ウォーカーズがクリスマス向けに限定フレーバーのポテトチップスを発売した。独特の味付けが消費者の間で賛否を呼んでいる。",
+          "source": "Liverpool Echo",
+          "url": "https://www.liverpoolecho.co.uk/whats-on/food-drink-news/morrisons-stocking-weird-walkers-crisps-34784103"
+        },
+        {
+          "title_ja": "英ウォーカーズが高級ポテトチップス新シリーズを発表",
+          "summary_ja": "英国のウォーカーズがプレミアムな新レンジを発表した。黒トリュフや熟成チェダーなどの素材を使用し日常の間食を格上げする。",
+          "source": "Verge Magazine",
+          "url": "https://vergemagazine.co.uk/walkers-goes-for-gold-with-new-premium-crisp-range-featuring-black-truffle-mature-cheddar-and-olive-oil/"
+        }
+      ]
+    },
+    {
+      "keyword": "Anthropic",
+      "reason_ja": "クラウド関連株の売り先行を背景にAI大手企業の評価額格差に投資家の注目が集まっている。",
+      "genre": "ai",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Anthropic Claude",
+        "AI cloud services"
+      ],
+      "product_keywords_ja": [
+        "Claude",
+        "生成AI"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "AI大手の企業価値格差 クラウド関連株安で拡大",
+          "summary_ja": "生成AIをリードする企業の間で評価額の格差が広がっている。クラウド関連銘柄の値動きが影響を与えている。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html"
+        }
+      ]
+    }
+  ]
+}

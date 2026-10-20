@@ -1,0 +1,58 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:37:45+09:00",
+  "stories": [
+    {
+      "title_ja": "グーグルの新ノートPC「Googlebook」、ソフト面に課題か",
+      "summary_ja": "英ガーディアン紙がグーグルの新型ノートPC「Googlebook」の製品レビューを公開しました。優れたハードウェアを備えChromeOSとAndroidを統合した高価格機ですが、ソフトウェアの不具合が惜しまれると指摘されています。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/20/googlebook-review-google-laptops-chromeos-android",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Google ノートパソコン",
+        "ChromeOS"
+      ]
+    },
+    {
+      "title_ja": "ボーズの新型有線ヘッドホン、ノイキャンや装着感で高い評価",
+      "summary_ja": "音響機器大手のボーズ（Bose）による新しい有線ヘッドホンの使用レポートが公開されました。ノイズキャンセリング性能や装着時の快適さ、デザイン性の高さにおいてアップル製品を凌ぐ仕上がりと評価されています。",
+      "source": "London Evening Standard",
+      "url": "https://www.standard.co.uk/shopping/esbest/gadgets-tech/bose-wired-headphones-reveiw-b1301441.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Bose ヘッドホン",
+        "有線ヘッドホン"
+      ]
+    },
+    {
+      "title_ja": "日本のfinal、重さわずか40gの超軽量ワイヤレスヘッドホン発表",
+      "summary_ja": "日本のオーディオブランドfinalが、ワイヤレスヘッドホン「Porta」を発表しました。1本のワイヤー構造を採用することで、本体重量わずか40グラムという極めて軽量な設計を実現しています。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "final ヘッドホン",
+        "ワイヤレスヘッドホン 軽量"
+      ]
+    },
+    {
+      "title_ja": "Amazfit、スマートウォッチで位置や心拍を共有できる新機能",
+      "summary_ja": "スマートウォッチブランドのAmazfit（アマズフィット）は、「T-Rex Dual Solar」向けに「LiveShare」機能を公開しました。リアルタイムのGPS位置情報や心拍数、標高データをブラウザのリンク経由で配信し、登山時などの見守りに役立ちます。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/amazfit-liveshare-safety-feature-t-rex-dual-solar",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Amazfit T-Rex",
+        "スマートウォッチ"
+      ]
+    }
+  ]
+}

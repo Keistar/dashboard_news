@@ -1,0 +1,62 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:34:27+09:00",
+  "stories": [
+    {
+      "title_ja": "OpenAIのエージェント責任者が語る、働く量を自分で選べるAI時代",
+      "summary_ja": "OpenAIで法人向け製品やエージェントツール「Dots」を統括する責任者が、AI時代の働き方について見解を語った。AIツールの進化により、労働者はより多く働くか、あるいはより少なく働くかを自ら選択できるようになると述べている。",
+      "source": "Business Insider Japan",
+      "url": "https://www.businessinsider.jp/article/2610-openai-dots-head-ai-lets-workers-do-less-or-more/",
+      "score": 85,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "ChatGPTの広告配信基準を米大学が調査、おとりアカウントで実態分析",
+      "summary_ja": "米ペンシルベニア大学などの研究チームが、ChatGPT上の広告配信に関する調査論文を発表した。91件のおとりアカウントを用いて、どのようなユーザーに対してどのような基準で広告が表示されているかの実態を報告している。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/",
+      "score": 82,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "NTT-ATが自治体窓口向け生成AI提供、会話の文字起こしや記録を支援",
+      "summary_ja": "NTTアドバンステクノロジは自治体の窓口職員を支援する生成AIサービス「RelAi 窓口アシスタント」の提供を開始した。窓口での会話の文字起こしや要約、庁内文書をもとにした回答の作成や応対記録づくりに対応する。",
+      "source": "キーマンズネット",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/20/2000002393/",
+      "score": 80,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "ジャストシステムがノーコードDBに新機能、生成AIで社内データ活用",
+      "summary_ja": "ジャストシステムはプログラミング不要のクラウドデータベース「JUST.DB」の最新版を発表した。新機能「JUST.DB Prism」により、生成AIを活用して社内データの利活用を高度化できる。",
+      "source": "ニュースメディアVOIX",
+      "url": "https://voix.jp/biz/news-analysis/180135/",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ジャストシステム",
+        "データベース"
+      ]
+    },
+    {
+      "title_ja": "博報堂が画像類似度チェッカーを提供、生成AI画像の安全利用を支援",
+      "summary_ja": "博報堂は生成AIなどで作成した画像に似ている画像をウェブ上から探し出して類似度を表示する新ツールの提供を開始した。顧客企業向けに提供し、商用などでAI画像を安心して活用できるようにする。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35253762/",
+      "score": 75,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "茨木市とNTT西日本が小中学校で生成AI実証、校務文書の作成を支援",
+      "summary_ja": "大阪府茨木市とNTT西日本が市立の小中学校各1校において生成AIを活用した校務支援の実証事業を開始する。学校内文書の検索や要約、文章作成などに生成AIを活用し、学校内で情報を管理できるシステムを検証する。",
+      "source": "日本教育新聞電子版 NIKKYOWEB",
+      "url": "https://www.kyoiku-press.com/post-317254/",
+      "score": 65,
+      "commercial_score": 50
+    }
+  ]
+}
