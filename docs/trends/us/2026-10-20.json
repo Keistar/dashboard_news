@@ -1,0 +1,129 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T16:07:11+09:00",
+  "trends": [
+    {
+      "keyword": "MacBook Pro",
+      "reason_ja": "アップルが新イベントを予告し初のタッチ対応MacBook Proの登場が有力視されている。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "MacBook Pro",
+        "Apple touch-screen laptop",
+        "Apple laptop"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "Apple ノートパソコン",
+        "MacBook"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが発表会を開催へ 初のタッチ対応Mac投入か",
+          "summary_ja": "米アップルが新製品発表イベントを開催することを認めた。同社として初となるタッチスクリーン搭載ノート型パソコンの投入が計画されている。",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro"
+        },
+        {
+          "title_ja": "アップルが新イベントを予告 第2弾の新製品を発表へ",
+          "summary_ja": "米アップルが新たな製品発表イベントを予告した。秋の新製品ラインナップの第2弾として複数の最新端末がお披露目される見込みとなっている。",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
+        }
+      ]
+    },
+    {
+      "keyword": "Redmi K100",
+      "reason_ja": "シャオミが大容量バッテリーと最新プロセッサを搭載した新型端末の投入を発表した。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Redmi K100",
+        "Xiaomi phone",
+        "gaming smartphone"
+      ],
+      "product_keywords_ja": [
+        "Xiaomi スマホ",
+        "Redmi",
+        "スマートフォン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "シャオミが新型スマホ「Redmi K100」の発売を発表",
+          "summary_ja": "シャオミが新型スマートフォン「Redmi K100」の発売を発表した。最新の高性能プロセッサを搭載し性能面での進化が期待されている。",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/redmi_k100_with_10000mah_battery_and_683inch_display_is_launching_next_week-news-75105.php"
+        },
+        {
+          "title_ja": "シャオミが大容量電池搭載の「Redmi K100」を発表",
+          "summary_ja": "シャオミが新型端末の発売日を公開した。大容量バッテリーや高輝度ディスプレイ、最新の処理チップを搭載している。",
+          "source": "hi-Tech.ua",
+          "url": "https://hi-tech.ua/en/redmi-k100-10000mah-battery-6-83-inch-display-and-launch-date/"
+        }
+      ]
+    },
+    {
+      "keyword": "Anthropic",
+      "reason_ja": "アンソロピックの新規上場を見据えてオープンAIが大型調達を急いでいると報じられ関心を集めた。",
+      "genre": "ai",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Anthropic Claude",
+        "OpenAI ChatGPT"
+      ],
+      "product_keywords_ja": [
+        "Claude",
+        "ChatGPT",
+        "生成AI"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "オープンAIが競合の上場を前に大型資金調達を加速",
+          "summary_ja": "オープンAIが競合アンソロピックの新規株式公開を前に資金調達を加速させている。両社が重なる投資家からの出資獲得を競い合っている。",
+          "source": "CTech",
+          "url": "https://www.calcalistech.com/ctechnews/article/0ik7s4qx4"
+        }
+      ]
+    },
+    {
+      "keyword": "Jenna Ortega",
+      "reason_ja": "女優ジェナ・オルテガが新作主演映画の公開を控えて人気トーク番組に出演し話題を呼んだ。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Klara and the Sun book",
+        "Jenna Ortega merchandise"
+      ],
+      "product_keywords_ja": [
+        "クララとお日さま",
+        "カズオ・イシグロ",
+        "ジェナ・オルテガ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ジェナ・オルテガが新作映画の宣伝で深夜番組に出演",
+          "summary_ja": "女優のジェナ・オルテガが主演映画の公開を控えて米国のトーク番組に出演した。カズオ・イシグロ原作の映画化作品に注目が集まっている。",
+          "source": "Headline Planet",
+          "url": "https://headlineplanet.com/home/2026/10/15/jenna-ortega-to-support-klara-and-the-sun-on-october-19-late-night-with-seth-meyers/"
+        },
+        {
+          "title_ja": "映画「クララとお日さま」の批評記事が公開",
+          "summary_ja": "カズオ・イシグロの小説を映画化した作品のレビューが公開された。ジェナ・オルテガらがアンドロイドを巡るファンタジー作品に出演している。",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/"
+        }
+      ]
+    }
+  ]
+}

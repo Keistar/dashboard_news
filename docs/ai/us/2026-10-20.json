@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:34:27+09:00",
+  "stories": [
+    {
+      "title_ja": "メタが新AIモデル群を発表、主要ベンチマークで他社モデルを上回る",
+      "summary_ja": "メタ（Meta）が新たなAIモデル群「ミューズ・ワンダー（Muse Wonder）」を公開した。ベンチマークのランキングにおいて、ジェミニ（Gemini）などの競合モデルを超える性能を記録している。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/meta-launches-muse-wonder-ai-model-family",
+      "score": 90,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "アンソロピックが指摘、AIエージェント運用の障壁は人間の確認作業",
+      "summary_ja": "アンソロピック（Anthropic）は、AIエージェントの処理遅延の8割が人間の指示待ちによるものだと明らかにした。同社社員の会議時間は1年前と比べて2割増加しており、自律型AIの監視や指示出しにかかる人間の注意力が今後の課題になると指摘している。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
+      "score": 85,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "アマゾンのAI基盤でクロードの構造化出力に対応、JSON生成が容易に",
+      "summary_ja": "アマゾン・ウェブ・サービス（AWS）は「Amazon Bedrock」において、アンソロピックの「Claude」モデルすべてで構造化出力のサポートを開始した。指定したスキーマに沿ったJSONデータを直接取得できるようになり、自前の解析や再試行処理が不要になる。",
+      "source": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "score": 80,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "アンソロピックがエヌスケールと大規模な計算資源の契約を協議",
+      "summary_ja": "AI開発企業のアンソロピック（Anthropic）が、クラウド事業者のエヌスケール（Nscale）とおよそ450億ドル規模の計算資源の調達協議を進めていると報じられた。合意に至れば、過去1年間に同社が結んできた大規模な計算基盤契約の最新事例となる。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "score": 78,
+      "commercial_score": 55
+    }
+  ]
+}

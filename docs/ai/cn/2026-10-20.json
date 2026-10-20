@@ -1,0 +1,47 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:34:27+09:00",
+  "stories": [
+    {
+      "title_ja": "中国のAI新興が高速モデル投入、MiniMaxが新世代Flash公開",
+      "summary_ja": "中国のAI市場で高速・低コストなモデルをめぐる開発競争が激化している。新興企業のMiniMax（ミニマックス）が新世代モデル「M3.1Flash」を発表し、性能を追求したProバージョンの投入も予告した。",
+      "source": "同花顺",
+      "url": "https://m.10jqka.com.cn/20261019/c680852527.shtml",
+      "score": 85,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "AI同士がポーカーや人狼で対戦、Kaggleが能力比較環境を公開",
+      "summary_ja": "カグル（Kaggle）が10種の主要AIモデルを対決させる「Game Arena」を立ち上げた。チェスやポーカー、人狼ゲームの計90万局以上の対戦を通じて、各モデルの計画立案や確率推理、心理戦における能力差を検証している。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1020/3202813.shtml",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "チェス",
+        "ポーカー",
+        "人狼 ゲーム"
+      ]
+    },
+    {
+      "title_ja": "中国でAIと製造業の融合を推進、需要に応じた直接生産の拡大を促す",
+      "summary_ja": "中国の商務部など9部門が、AIと製造業を連携させる取り組みを強化する方針を示した。産業向けAIモデルやエッジ知能を活用した柔軟な生産システムの導入を進め、消費者直結の受注生産方式（C2M）の普及を支援する。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089826058_161105",
+      "score": 78,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "オープンソースAI基盤の訓練手法を全公開、開発チームが報告書",
+      "summary_ja": "AIモデル「Rufus-Air」の開発チームが、訓練過程や実験結果を包み隠さず公開した技術報告書を発表した。外部メモを用いた文脈管理など様々な検証を行い、失敗事例や課題も含めた再現可能な手法を提示している。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1020/3202794.shtml",
+      "score": 75,
+      "commercial_score": 55
+    }
+  ]
+}

@@ -1,227 +1,201 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T15:34:09+09:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:34:27+09:00",
   "stories": [
     {
-      "title_ja": "ChatGPTにスライド作成機能が追加、共同編集やPPT出力に対応",
-      "summary_ja": "OpenAIがChatGPTで資料を作成できる新機能「ChatGPT Slides」を公開しました。会話やファイルからスライドを生成し、チームでの同時編集やPowerPointへの書き出しが可能です。有料プラン向けに順次提供されます。",
-      "source": "ビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/187568",
-      "score": 90,
-      "commercial_score": 75,
-      "product_keywords": [
-        "パソコン",
-        "Office"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "メタが新AIモデル群「Muse Wonder」公開、性能で先行各社に迫る",
-      "summary_ja": "米メタ（Meta）が新たなAIモデル群「Muse Wonder」をリリースしました。ベンチマークのリーダーボードにおいて、競合他社の主要モデルを上回る結果を示しています。",
+      "title_ja": "メタが新AIモデル群を発表、主要ベンチマークで他社モデルを上回る",
+      "summary_ja": "メタ（Meta）が新たなAIモデル群「ミューズ・ワンダー（Muse Wonder）」を公開した。ベンチマークのランキングにおいて、ジェミニ（Gemini）などの競合モデルを超える性能を記録している。",
       "source": "Mashable",
       "url": "https://mashable.com/tech/meta-launches-muse-wonder-ai-model-family",
       "score": 90,
-      "commercial_score": 70,
+      "commercial_score": 75,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国勢が米国の1割の低価格で攻勢、AIモデルの価格競争が激化",
-      "summary_ja": "中国のAI企業が米大手モデルの10分の1程度の低料金で開発者を引きつけ、低価格競争が激化しています。オープンAIやアンソロピックなどの米国企業も対抗して安価なモデルを投入しています。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1089554367_115831",
-      "score": 90,
+      "title_ja": "OpenAIのエージェント責任者が語る、働く量を自分で選べるAI時代",
+      "summary_ja": "OpenAIで法人向け製品やエージェントツール「Dots」を統括する責任者が、AI時代の働き方について見解を語った。AIツールの進化により、労働者はより多く働くか、あるいはより少なく働くかを自ら選択できるようになると述べている。",
+      "source": "Business Insider Japan",
+      "url": "https://www.businessinsider.jp/article/2610-openai-dots-head-ai-lets-workers-do-less-or-more/",
+      "score": 85,
+      "commercial_score": 60,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "アンソロピックが指摘、AIエージェント運用の障壁は人間の確認作業",
+      "summary_ja": "アンソロピック（Anthropic）は、AIエージェントの処理遅延の8割が人間の指示待ちによるものだと明らかにした。同社社員の会議時間は1年前と比べて2割増加しており、自律型AIの監視や指示出しにかかる人間の注意力が今後の課題になると指摘している。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
+      "score": 85,
+      "commercial_score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "エヌビディアCEOが語るフィジカルAI、現実世界とロボットを革新",
+      "summary_ja": "エヌビディア（Nvidia）のジェンスン・フアンCEOが、AIの新たな潮流として「フィジカルAI」の重要性を語った。知能システムがデジタルと物理世界の境界を橋渡しし、ロボット工学や自律走行機械、現実世界の自動化を大きく変革していくと述べている。",
+      "source": "36Kr",
+      "url": "https://eu.36kr.com/en/p/4033672194298760",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Nvidia",
+        "ロボット"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国のAI新興が高速モデル投入、MiniMaxが新世代Flash公開",
+      "summary_ja": "中国のAI市場で高速・低コストなモデルをめぐる開発競争が激化している。新興企業のMiniMax（ミニマックス）が新世代モデル「M3.1Flash」を発表し、性能を追求したProバージョンの投入も予告した。",
+      "source": "同花顺",
+      "url": "https://m.10jqka.com.cn/20261019/c680852527.shtml",
+      "score": 85,
       "commercial_score": 75,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "8GBのVRAMで動く画像生成AIモデルが公開、個人向けGPUに対応",
-      "summary_ja": "Black Forest Labsが画像生成AIモデル「FLUX 3 Image Klein」の重みを公開しました。手元のGeForceなど8GBのVRAMを搭載した環境で高品質な生成が試せます。Hugging FaceでのダウンロードやAPI経由での利用が可能です。",
-      "source": "PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2149183.html",
-      "score": 85,
+      "title_ja": "ChatGPTの広告配信基準を米大学が調査、おとりアカウントで実態分析",
+      "summary_ja": "米ペンシルベニア大学などの研究チームが、ChatGPT上の広告配信に関する調査論文を発表した。91件のおとりアカウントを用いて、どのようなユーザーに対してどのような基準で広告が表示されているかの実態を報告している。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/",
+      "score": 82,
+      "commercial_score": 65,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "サンタンデール銀行がAI応答コストを削減、特化型小型モデルを活用",
+      "summary_ja": "大手銀行のサンタンデールが、エヌビディア（Nvidia）と協力してAIによる回答生成コストを大幅に引き下げた。特定の銀行業務に合わせた小型の特化型AIモデルを導入することで効率化を実現している。",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366652357/Santander-slashes-cost-of-generating-AI-responses",
+      "score": 82,
+      "commercial_score": 70,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "NTT-ATが自治体窓口向け生成AI提供、会話の文字起こしや記録を支援",
+      "summary_ja": "NTTアドバンステクノロジは自治体の窓口職員を支援する生成AIサービス「RelAi 窓口アシスタント」の提供を開始した。窓口での会話の文字起こしや要約、庁内文書をもとにした回答の作成や応対記録づくりに対応する。",
+      "source": "キーマンズネット",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/20/2000002393/",
+      "score": 80,
+      "commercial_score": 70,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "アマゾンのAI基盤でクロードの構造化出力に対応、JSON生成が容易に",
+      "summary_ja": "アマゾン・ウェブ・サービス（AWS）は「Amazon Bedrock」において、アンソロピックの「Claude」モデルすべてで構造化出力のサポートを開始した。指定したスキーマに沿ったJSONデータを直接取得できるようになり、自前の解析や再試行処理が不要になる。",
+      "source": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "score": 80,
+      "commercial_score": 70,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "AI同士がポーカーや人狼で対戦、Kaggleが能力比較環境を公開",
+      "summary_ja": "カグル（Kaggle）が10種の主要AIモデルを対決させる「Game Arena」を立ち上げた。チェスやポーカー、人狼ゲームの計90万局以上の対戦を通じて、各モデルの計画立案や確率推理、心理戦における能力差を検証している。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1020/3202813.shtml",
+      "score": 80,
+      "commercial_score": 60,
+      "product_keywords": [
+        "チェス",
+        "ポーカー",
+        "人狼 ゲーム"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ジャストシステムがノーコードDBに新機能、生成AIで社内データ活用",
+      "summary_ja": "ジャストシステムはプログラミング不要のクラウドデータベース「JUST.DB」の最新版を発表した。新機能「JUST.DB Prism」により、生成AIを活用して社内データの利活用を高度化できる。",
+      "source": "ニュースメディアVOIX",
+      "url": "https://voix.jp/biz/news-analysis/180135/",
+      "score": 78,
       "commercial_score": 80,
       "product_keywords": [
-        "GeForce",
-        "グラフィックボード"
+        "ジャストシステム",
+        "データベース"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "中国ディープシーク、高速化と効率化を図った新AIモデルを投入",
-      "summary_ja": "AIスタートアップのディープシーク（DeepSeek）が、処理の高速化と軽量化を実現した改訂版モデルを公開しました。サービス障害の発生を経て、パフォーマンスの改善を図っています。",
-      "source": "Yahoo",
-      "url": "https://malaysia.news.yahoo.com/faster-leaner-deepseek-rolls-upgraded-051830857.html",
-      "score": 85,
-      "commercial_score": 65,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "京東（JD）、小売や物流に特化したAI開発基盤「言犀」を展開",
-      "summary_ja": "中国EC大手の京東（JD.com）が、企業向けの一站式AIエージェント開発プラットフォーム「言犀」を推進しています。自社の大規模AIモデルを基盤に、小売や物流、ヘルスケアなどの実務データを統合して業務効率化を支援します。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1089664036_120491808",
-      "score": 85,
-      "commercial_score": 85,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "米アンソロピック、株式の5％を公益基金へ拠出する方針を表明",
-      "summary_ja": "AIスタートアップの米アンソロピック（Anthropic）が、自社株式の5％を公益基金に拠出することを明らかにしました。社会的な利益や課題解決を支援する取り組みの一環です。",
+      "title_ja": "アンソロピックがエヌスケールと大規模な計算資源の契約を協議",
+      "summary_ja": "AI開発企業のアンソロピック（Anthropic）が、クラウド事業者のエヌスケール（Nscale）とおよそ450億ドル規模の計算資源の調達協議を進めていると報じられた。合意に至れば、過去1年間に同社が結んできた大規模な計算基盤契約の最新事例となる。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "score": 80,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AI生成物の誤りに悩む米英大手、導入予算の縮小に動き出す",
-      "summary_ja": "従業員が生成AIで作成した業務成果物の誤りや品質の低さに直面し、大手企業が自動化計画やAI関連予算の削減を進めています。巨額の投資に見合う効果を疑問視する動きが広がっています。",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/enterprise-ai-spending-generate-slop-cutting-back",
-      "score": 80,
-      "commercial_score": 60,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "北京大学チーム、指示文からゲーム試作版を作るAIツールを公開",
-      "summary_ja": "北京大学の研究チームが「3AGameFactory」をオープンソースで公開しました。1つの文章を入力するだけで、実際に動作するゲームのプロトタイプを自動生成できます。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_2131593523_7f0d893302001pfwq.html?from=tech",
-      "score": 80,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ゲームソフト",
-        "PCゲーム"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "機械の動く立体図解を生成するAIスキル「Anatomy」が無償公開",
-      "summary_ja": "技術的なアイデアや機械の仕組みから、動く立体図解を作成できるAIエージェント向け拡張スキル「Anatomy」が公開されました。商用利用も可能で、概念や説明文から視覚的な図解を自動生成できます。",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/10/19/5606.html",
-      "score": 75,
-      "commercial_score": 65,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "オープンAIが2026年までに人員を倍増、8千人体制を目指す",
-      "summary_ja": "オープンAI（OpenAI）が2026年末までに従業員数を8000人に倍増させる計画を進めています。中核製品に注力するとともに、法人向けAI市場での体制強化を図ります。",
-      "source": "Mezha.net",
-      "url": "https://mezha.net/eng/news/c500c29a_openai_plans_to_double/",
-      "score": 75,
-      "commercial_score": 45,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アンソロピック、AIの交渉力向上に向け法律事務所と協議",
-      "summary_ja": "米アンソロピック（Anthropic）が、AIエージェントに高度な交渉スキルを学習させるため、法律団体や法律事務所との協議を進めています。法務の専門知識を取り入れ、実務での交渉能力向上を目指します。",
-      "source": "PYMNTS.com",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
-      "score": 75,
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "score": 78,
       "commercial_score": 55,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英テクノロジー幹部、過半数が1年以内のAI管理者採用を計画",
-      "summary_ja": "英国の技術部門責任者の半数以上が、1年以内にAI管理職を採用する意向を示しています。AIエージェントが定常業務を担う中で、セキュリティや重複作業のリスクを監督する重要性が高まっています。",
-      "source": "IT Brief UK",
-      "url": "https://itbrief.co.uk/story/uk-tech-leaders-plan-to-hire-ai-managers-within-a-year",
-      "score": 75,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国製造業でAI普及進む、重点シーンの導入率は3分の1超に",
-      "summary_ja": "中国国家統計局は、主要製造業におけるAI技術の重点シーン普及率が3分の1を超えたと発表しました。全国で多数のスマート工場が整備され、製造現場でのAI実装が加速しています。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261019/614845.html",
-      "score": 75,
-      "commercial_score": 50,
+      "title_ja": "中国でAIと製造業の融合を推進、需要に応じた直接生産の拡大を促す",
+      "summary_ja": "中国の商務部など9部門が、AIと製造業を連携させる取り組みを強化する方針を示した。産業向けAIモデルやエッジ知能を活用した柔軟な生産システムの導入を進め、消費者直結の受注生産方式（C2M）の普及を支援する。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1089826058_161105",
+      "score": 78,
+      "commercial_score": 70,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "全編生成AI制作の韓国BLドラマ第2弾、FODで独占配信へ",
-      "summary_ja": "全編を生成AIで制作した韓国の時代劇BLドラマ『針香』のシーズン2が、11月1日よりFODで独占配信されます。SNSで累計再生1000万回を超えた人気作の続編です。",
-      "source": "FOD INFO",
-      "url": "https://news.fod.fujitv.co.jp/article/15012",
-      "score": 70,
-      "commercial_score": 70,
+      "title_ja": "博報堂が画像類似度チェッカーを提供、生成AI画像の安全利用を支援",
+      "summary_ja": "博報堂は生成AIなどで作成した画像に似ている画像をウェブ上から探し出して類似度を表示する新ツールの提供を開始した。顧客企業向けに提供し、商用などでAI画像を安心して活用できるようにする。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35253762/",
+      "score": 75,
+      "commercial_score": 75,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "自己複製するAIワームの脅威、年末にも実現可能と英米で警戒",
-      "summary_ja": "低性能な端末でも動作可能なAIの進化により、自己複製する「AIワーム」の出現が年末までに現実味を帯びるとして警戒が強まっています。セキュリティ企業や研究機関がリスクへの注視を呼びかけています。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-      "score": 70,
-      "commercial_score": 50,
-      "product_keywords": [
-        "セキュリティソフト"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "職場や日常で進む高齢者のAI活用、利便性と戸惑いが交錯",
-      "summary_ja": "職場や生活の場でAIに触れる高齢者が増える中、積極的な活用を促す取り組みが進んでいます。便利さを実感する一方で操作や理解に戸惑う声もあり、丁寧なサポートが求められています。",
-      "source": "Spectrum News",
-      "url": "https://spectrumlocalnews.com/nys/buffalo/news/2026/10/18/older-adults-encouraged-to-embrace-artificial-intelligence",
-      "score": 70,
+      "title_ja": "職場での無断AI利用リスクに対処、効果的な4つの管理手法を解説",
+      "summary_ja": "社内で許可されていないAI利用が広がり、自律型AIの普及によってリスクがさらに増大している。実効性のある4つの対策を組み合わせて運用することが有効だと指摘されている。",
+      "source": "Computerworld",
+      "url": "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
+      "score": 75,
       "commercial_score": 55,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国聯通、複数AIと文書管理をまとめた企業向けツール提供",
-      "summary_ja": "中国聯通（チャイナ・ユニコム）が、社内文書や知識の活用を支援する新サービス「UniAI・智枢」を開始しました。複数のAIモデルやエージェントを束ね、業務ですぐに使える環境を提供します。",
-      "source": "人工智能",
-      "url": "https://www.icloudnews.net/a/123865.html",
-      "score": 70,
-      "commercial_score": 65,
+      "title_ja": "オープンソースAI基盤の訓練手法を全公開、開発チームが報告書",
+      "summary_ja": "AIモデル「Rufus-Air」の開発チームが、訓練過程や実験結果を包み隠さず公開した技術報告書を発表した。外部メモを用いた文脈管理など様々な検証を行い、失敗事例や課題も含めた再現可能な手法を提示している。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1020/3202794.shtml",
+      "score": 75,
+      "commercial_score": 55,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "技術書読み放題のTechLibに生成AIやデザインの実用書が追加",
-      "summary_ja": "月額制のIT技術書読み放題サービス「TechLib」に、生成AIやデザインツールの実用書が新たに追加されました。プログラミングやAI、セキュリティなど多彩な分野の学習に活用できます。",
-      "source": "窓の杜",
-      "url": "https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2148201.html",
-      "score": 65,
-      "commercial_score": 60,
-      "product_keywords": [
-        "参考書",
-        "プログラミング 本"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "世界銀行幹部、軽量な「小型AI」が途上国の発展を加速と指摘",
-      "summary_ja": "世界銀行のナレッジ責任者は、軽量な小型AIモデルが途上国の経済発展を大きく加速させるとの見解を示しました。限られた計算資源でも活用できる技術が注目されています。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-      "score": 65,
-      "commercial_score": 40,
+      "title_ja": "TCSが企業向けAI拠点を新設、自律型エージェントの産業導入を後押し",
+      "summary_ja": "タタ・コンサルタンシー・サービシズ（TCS）が新たな産業インテリジェンス拠点を立ち上げた。企業における自律的なAIエージェントの拡大と導入を支援することを目指している。",
+      "source": "Consultancy.uk",
+      "url": "https://www.consultancy.uk/news/45908/tcs-offers-industrial-intelligence-foundry-to-boost-agentic-ai-scaling-for-enterprises",
+      "score": 70,
+      "commercial_score": 65,
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "茨木市とNTT西日本が小中学校で生成AI実証、校務文書の作成を支援",
+      "summary_ja": "大阪府茨木市とNTT西日本が市立の小中学校各1校において生成AIを活用した校務支援の実証事業を開始する。学校内文書の検索や要約、文章作成などに生成AIを活用し、学校内で情報を管理できるシステムを検証する。",
+      "source": "日本教育新聞電子版 NIKKYOWEB",
+      "url": "https://www.kyoiku-press.com/post-317254/",
+      "score": 65,
+      "commercial_score": 50,
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }
