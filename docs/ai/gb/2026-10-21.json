@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:35:05+09:00",
+  "stories": [
+    {
+      "title_ja": "HPEが月面でのAI処理試験のため高性能計算システムを月へ輸送",
+      "summary_ja": "米ヒューレット・パッカード・エンタープライズ（HPE）は、月面でAIや高性能計算の試験を行うため「スペースボーン・コンピュータ4」を輸送した。月面上で直接データ処理を行うことで、将来の宇宙ミッションにおける地球との通信依存を低減させる。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/hpe-sends-spaceborne-computer-4-to-the-moon-for-ai-tests",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "ディープシークがAI配備コストを抑える新ツールを公開",
+      "summary_ja": "中国の新興企業ディープシークは、AIモデルをより安価かつ高効率に配備するための枠組み「DeepInfer」をオープンソースで公開した。独自AIモデルの独占に対抗し、運用負担を軽減する狙いがある。",
+      "source": "South China Morning Post",
+      "url": "https://amp.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+      "score": 75,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "英国企業経営者のAI導入進展に対し従業員の間には温度差",
+      "summary_ja": "マイクロソフトの調査によると、英国の企業経営層がAIの導入や統合で大きな進展を実感している一方、従業員側は同国の長期的なAI成長に対して確信を持てていない。現場と経営陣の間でAI活用や将来性に対する意識の隔たりが浮き彫りとなっている。",
+      "source": "Microsoft UK Stories",
+      "url": "https://ukstories.microsoft.com/features/less-than-half-workforce-confident-in-uk-ability-to-become-leading-ai-economy-microsoft-research/",
+      "score": 70,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "心不全患者の退院後における生活機能低下リスクを予測するAI",
+      "summary_ja": "心不全の患者を対象に、退院後の身体機能や生活機能が低下するリスクを検知するAI活用が示された。単に生存できるかだけでなく、退院後も価値ある生活を維持できるかを判断する医療支援を目指している。",
+      "source": "Cardiovascular Business",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
+      "score": 70,
+      "commercial_score": 45
+    }
+  ]
+}

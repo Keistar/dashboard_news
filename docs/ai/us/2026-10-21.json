@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:35:05+09:00",
+  "stories": [
+    {
+      "title_ja": "オープンAIが創薬ベンチャー買収でバイオ研究支援ツールを強化",
+      "summary_ja": "オープンAIはバイオ新興企業オーケストラ・バイオを買収した。同社の人材と技術を取り入れ、生命科学研究向けAIモデル「ロザリンド」や実験計画・分析支援ツールの開発を加速させる。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/",
+      "score": 80,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "アンソロピックのAIクロードがサソリ神経毒の結合タンパク質を設計",
+      "summary_ja": "米アンソロピックは研究用モデル「クロード」を用いて、サソリ神経毒に対する結合タンパク質を設計したと発表した。標的に対して強固に付着する小型タンパク質（ミニバインダー）の作成にAIを活用している。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "オープンAIとメタの新型AIエージェント登場がWeb集客に影響",
+      "summary_ja": "オープンAIの「ドッツ」と米メタの「ミューズ」が、4000以上のアプリと連携する競合AIエージェントとして提供開始された。外部サービスと自律連携するエージェントの普及に伴い、検索エンジン最適化やサイト流入への影響が議論されている。",
+      "source": "shattered.io",
+      "url": "https://shattered.io/meta-muse-openai-dots-ai-agents-seo-2026/",
+      "score": 75,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "飲食店加盟店がChatGPT Work導入で現金照合時間を94％削減",
+      "summary_ja": "米飲食チェーンの加盟店が「ChatGPT Work」を導入し、現金照合作業の所要時間を94%削減した。さらにメニュー改定作業を95%短縮したほか、10万ドルの資金繰りを改善するワークフローを構築した。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ted-taylor-restaurant/",
+      "score": 70,
+      "commercial_score": 80
+    }
+  ]
+}

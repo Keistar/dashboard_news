@@ -1,165 +1,276 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T15:53:51+09:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:56:59+09:00",
   "stories": [
     {
-      "title_ja": "成人の3人に1人が日常の健康管理タスクに苦慮、米大調査",
-      "summary_ja": "米ノースウェスタン大学の研究により、成人の3人に1人が処方箋の指示確認や診察予約の管理、患者用ポータルの操作といった日常の健康課題に苦労していることが判明した。特に高齢の患者においては、医療技術やデジタルシステムの利用が大きな課題となっている。",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/atlanta/video/study-finds-1-in-3-adults-struggle-with-everyday-health-tasks/",
-      "score": 75,
-      "commercial_score": 55,
+      "title_ja": "ファーウェイが健康計測対応の最新時計を発表",
+      "summary_ja": "ファーウェイがスマートウォッチの新製品を発表した。健康データの計測機能やスポーツ向けモデルなど、多彩なラインナップをそろえている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/6ebf276ab3ac6cf15ad2567a3412a37b2b985b73",
+      "score": 85,
+      "commercial_score": 90,
       "product_keywords": [
-        "お薬カレンダー",
-        "服薬管理"
+        "スマートウォッチ",
+        "活動量計"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "食べる魚の種類と健康効果の関連を大規模調査",
+      "summary_ja": "成人約9万人を20年以上にわたり追跡した研究結果が発表された。魚介類の摂取と健康の関連は魚の種類や性別によって異なり、オメガ3を多く含む魚の摂取などが血管疾患リスクの低減と関連していたとしている。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261020/A-20-year-study-of-90000-adults-suggests-the-type-of-fish-you-eat-matters.aspx",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "オメガ3サプリ",
+        "DHAサプリ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "青少年の精神的健康と果物・加糖飲料摂取の関連が判明",
-      "summary_ja": "オーストラリアの青少年6,537人を3年間追跡した調査で、果物の摂取量が多いほど抑うつや不安症状のリスクが低い傾向がみられた。一方で砂糖入り飲料の摂取が多い場合はリスク上昇と関連しており、野菜の摂取には明確な関連が確認されなかった。なお、観察研究であるため因果関係を断定するものではないとされている。",
+      "title_ja": "京東健康とファイザーが提携し肥満対策を推進",
+      "summary_ja": "中国の京東健康（JDヘルス）と米製薬大手ファイザーが戦略的提携を結んだ。生活習慣病や肥満対策を中心に、減量と代謝管理を支える医療サービスの構築を目指す。",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/article/20261021/615988.html",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "肥満対策",
+        "健康管理"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ウェアラブル端末は健康データの活用支援へ進化",
+      "summary_ja": "スマートウォッチなどのウェアラブル機器において、単なる測定データの表示にとどまらない支援サービスの重要性が高まっている。集めた生体データを生活改善へと結びつける取り組みが注目されている。",
+      "source": "维科号",
+      "url": "https://mp.ofweek.com/ce/a956714997677",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スマートウォッチ",
+        "活動量計"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "高速SAに運転の疲労を癒やす健康食が登場",
+      "summary_ja": "高速道路のサービスエリアに、運転による疲労の回復を意識したメニューが登場した。健康志向や疲労ケアへの関心の高まりに応える取り組みとなっている。",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961556",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "リカバリーウェア",
+        "疲労回復"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中年期の減量が心疾患リスク低減に寄与か",
+      "summary_ja": "6000人を対象とした研究により、中年期に体重を5パーセント減らすことで心血管の健康回復が期待できることが示された。脳卒中や心臓病のリスク低下につながる可能性があるという。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/21/weight-loss-in-middle-age-can-restore-cardiovascular-health",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "体重計",
+        "体組成計"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "オーラリングを活用した早産兆候の研究が始動",
+      "summary_ja": "スマートリングを手掛けるオーラ（ŌURA）と保健当局が提携を発表した。ウェアラブル機器のデータを活用し、早産の早期警戒兆候を研究する取り組みが進められる。",
+      "source": "Rutland Herald",
+      "url": "https://www.rutlandherald.com/news/business/department-of-health-abu-dhabi-and-ura-launch-research-partnership-to-study-early-warning-signs/article_fe84194d-0d6a-5d1e-b425-d0dcc2d2e338.html",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Oura Ring",
+        "スマートリング"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "医療従事者の深刻な手荒れ被害に関する報告書",
+      "summary_ja": "英国皮膚基金などが、医療現場における慢性手湿疹の影響をまとめた報告書を発表した。医療従事者の手荒れが日々の業務やケアに影響を及ぼす懸念を指摘している。",
       "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20261019/Fruit-and-sugary-drinks-stood-out-in-a-three-year-study-of-teenage-mental-health.aspx",
+      "url": "https://www.news-medical.net/news/20261020/Chronic-Hand-Eczema-(CHE)-is-affecting-NHS-healthcare-professionals-and-can-impact-patient-care-report-finds.aspx",
+      "score": 78,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ハンドクリーム",
+        "敏感肌用石鹸"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "フィットネス機器にAI融合、最新製品を披露",
+      "summary_ja": "北京で開催された全民健身科学大会で、スポーツ機器メーカーがAI技術を活用した最新機器を披露した。デジタル技術を取り入れた健康づくりの可能性を提案している。",
+      "source": "中华网",
+      "url": "https://hb.china.com/gongsi/20003196/20261021/26020430.html",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "エアロバイク",
+        "ランニングマシン"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "睡眠不足の影響と快眠のコツを専門家が解説",
+      "summary_ja": "睡眠の専門家が、睡眠不足による能力低下や快眠の大切さについて解説した。睡眠の質を守るため、就寝前のスマートフォン操作を控えるよう促している。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c4934a5410ea1246ec9f7fde927d16e52a0b94e9",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "快眠グッズ",
+        "安眠枕"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英国でメンタルヘルスや発達支援の改革提言",
+      "summary_ja": "保健当局に向けた独立レビューにより、メンタルヘルスや発達支援へのアクセス改善が提言された。支援を必要とする人々がスムーズに制度を利用できるよう見直しを求めている。",
+      "source": "Oxford Health NHS Foundation Trust",
+      "url": "https://oxfordhealth.nhs.uk/news/oxford-experts-help-shape-major-review-calling-for-reform-of-adhd-autism-and-mental-health-support/",
+      "score": 75,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "24時間ジム台頭でパーソナル指導料が下落傾向",
+      "summary_ja": "フィットネス業界の調査によると、24時間営業ジムの拡大などに伴いパーソナル指導の料金引き下げが進んでいる。指導料の低下により、利用者が個人レッスンを受けやすい環境が生まれている。",
+      "source": "虎嗅",
+      "url": "https://www.huxiu.com/article/4899140.html",
       "score": 75,
       "commercial_score": 70,
       "product_keywords": [
-        "ドライフルーツ",
-        "オーガニックフルーツ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国輸入博にAI家庭フィットネスやBOWFLEX新商品が登場",
-      "summary_ja": "上海市嘉定区の企業が、第9回中国国際輸入博覧会でAIを活用した家庭用健康システムや体験ブースを出展する。ボウフレックス（BOWFLEX）やジョンソン（喬山）の家庭向けトレーニング機器など多彩な新製品を披露し、科学的な運動体験を提案する。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1090105448_122014422",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "BOWFLEX",
-        "家庭用フィットネス機器",
-        "ダンベル"
+        "トレーニングウェア",
+        "フィットネスグッズ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "推奨睡眠時間は6〜8時間、費用を投じて対策する人も",
-      "summary_ja": "街頭取材により、育児疲労などを抱える道民の睡眠に関する実態が紹介された。推奨される睡眠時間が6〜8時間とされる中、質の高い睡眠を求めて対策に費用をかける人が見られる。",
-      "source": "日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/society/sta6d45c33f4544c93aeec6a3f736ae1a0",
-      "score": 70,
-      "commercial_score": 75,
+      "title_ja": "心臓の健康には有酸素運動と筋トレが重要",
+      "summary_ja": "心臓の健康を維持するための運動について専門家がアドバイスを寄せている。日々のルーティンに適切な運動習慣を取り入れることの重要性を解説している。",
+      "source": "Yahoo Creators",
+      "url": "https://creators.yahoo.com/lifestyle/story/walking-is-one-of-the-best-exercises-for-heart-health--but-experts-say-dont-skip-strength-training-214305241.html",
+      "score": 74,
+      "commercial_score": 60,
       "product_keywords": [
-        "安眠枕",
-        "快眠グッズ"
+        "ウォーキングシューズ",
+        "ダンベル"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "秋の体内時計の乱れを防ぐ生活習慣を解説",
+      "summary_ja": "気温が下がり日照時間が短くなる秋は、夜更かしなどにより体内時計が乱れやすいとされる。睡眠の質を保つための生活習慣について専門家が解説している。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/dfd2ef6f17836390f443eb0fe1c233fc983e6b33",
+      "score": 72,
+      "commercial_score": 55,
+      "product_keywords": [
+        "光目覚まし時計",
+        "体内時計"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "睡眠アロマのMUJUUが新シリーズ発表、マルチケアオイルを展開",
-      "summary_ja": "睡眠アロマブランド「MUJUU（ムジュウ）」を手がけるU．S（アス）が、新シリーズ「Anywhere（エニウェア）」を発表した。マルチケアオイルなど3商品をECサイトや実店舗で発売し、これを記念して初の自社展示会も開催された。",
-      "source": "日本ネット経済新聞",
-      "url": "https://netkeizai.com/articles/detail/20212",
-      "score": 70,
-      "commercial_score": 90,
-      "product_keywords": [
-        "アロマオイル",
-        "睡眠アロマ",
-        "ボディオイル"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "手軽に筋力運動ができる新器具トータルボディトレーナーが開発",
-      "summary_ja": "米シーダービル大学の運動科学教授が、筋力トレーニングをより手軽に行える器具「トータル・ボディ・トレーナー」を考案した。新会社コマンダー・フィットネスを通じて、画期的な運動器具と生涯にわたるフィットネス支援を市場に提供する。",
-      "source": "Cedarville University",
-      "url": "https://www.cedarville.edu/amp/2026/inventing-fitness-equipment-that-makes-strength-training-accessible/N3N1M3F5cjN5TjNWTTh4ZUQ3TFEwTTlON2lnPQ2",
+      "title_ja": "小型トランポリン運動の脂肪燃焼効果に注目",
+      "summary_ja": "ミニトランポリンを用いた有酸素運動がフィットネス愛好家の間で注目を集めている。手軽に実践できる運動として、脂肪燃焼や体力づくりへの活用法が紹介されている。",
+      "source": "Women's Health",
+      "url": "https://www.womenshealthmag.com/uk/fitness/fat-loss/a74193193/eva-longoria-rebounding/",
       "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "筋トレ器具",
-        "トレーニングチューブ"
+        "フィットネストランポリン",
+        "ミニトランポリン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "夜遅くのスマホ利用を抑えることで青少年の睡眠が改善",
-      "summary_ja": "新たな研究により、夜遅くのスマートフォン利用が青少年の睡眠時間や質に与える深刻な影響が実証された。夜間の利用時間を減らすことが、若者の良好な睡眠につながる知見を示している。",
-      "source": "Newsday",
-      "url": "https://www.newsday.com/news/health/sleep-study-teenagers-stony-brook-university-ugfmvf2t",
+      "title_ja": "地域密着の診断拠点で迅速な検査を提供へ",
+      "summary_ja": "英ポーツマスに新たなコミュニティ診断センターが開設された。患者の自宅に近い拠点で各種検査を提供し、地域医療の充実を図っている。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09l57nl1lo",
+      "score": 70,
+      "commercial_score": 25,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "専門家が市民向けに科学的フィットネスを指導",
+      "summary_ja": "スポーツ選手やフィットネストレーナーが地域社会を訪れ、市民に向けた運動指導を行っている。怪我を防ぎながら正しく運動する科学的なフィットネス習慣の定着を図っている。",
+      "source": "华奥星空",
+      "url": "https://www.sports.cn/tcdt/tcjsxx/2026/1021/712296.html",
       "score": 70,
       "commercial_score": 60,
       "product_keywords": [
-        "ブルーライトカット眼鏡",
-        "目元エステ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "高齢者の皮膚老化防止と健康を支える公共基盤が北京で始動",
-      "summary_ja": "高齢者の皮膚の健康維持とエイジングケアを支援する公共サービスプラットフォームが北京で始動した。検査や評価体制の整備、業界標準の共同策定、研究成果の実用化などを中心に事業が進められる。",
-      "source": "新华网",
-      "url": "https://www.news.cn/expo/20261020/7543984166ad403ab79be349260e373e/c.html",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "エイジングケア",
-        "保湿クリーム",
-        "シニア スキンケア"
+        "ヨガマット",
+        "ストレッチグッズ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "駅直結ビルに地域の健康づくりを支えるウェルネスサロンが開業",
-      "summary_ja": "静岡鉄道の音羽町駅に直結するビル内に、住民の健康づくりを支援する「しずてつウェルネスサロン」が10月21日にオープンする。開業に先立ち施設の見学会が開催された。",
-      "source": "テレビ静岡",
-      "url": "https://www.sut-tv.com/news/single/index.php?id=39383",
-      "score": 65,
-      "commercial_score": 60,
+      "title_ja": "腰回りも鍛える実践的な体幹トレ4種目を紹介",
+      "summary_ja": "通常の腹筋運動だけでは鍛えにくい部位を強化する体幹トレーニングが提案されている。腰回りにも負荷をかける種目が紹介されている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/fd983ff1cc060bb035fdbae9187f0fe0ae5e80b9",
+      "score": 68,
+      "commercial_score": 65,
       "product_keywords": [
-        "フィットネス",
-        "健康管理"
+        "トレーニングマット",
+        "体幹トレーニング"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "体に良いと思い込む食品の落とし穴と清涼飲料水の注意点",
-      "summary_ja": "体に良いと考えて普段から口にしている食品が、実際には体に負担を与えている可能性が指摘されている。健康によかれと思って毎日摂取していた清涼飲料水を見直す事例を通じて、食習慣への注意を促している。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/allabout/life/allabout-165502",
+      "title_ja": "運動や栄養介入による認知機能改善を検証へ",
+      "summary_ja": "運動や栄養、認知トレーニングを組み合わせた介入手法について研究が進められている。軽度認知障害のある人を対象に、機能改善が期待できる対象者の特定を目指している。",
+      "source": "GemMed",
+      "url": "https://gemmed.ghc-j.com/?p=77249",
       "score": 65,
-      "commercial_score": 65,
+      "commercial_score": 40,
       "product_keywords": [
-        "無糖飲料",
-        "健康茶"
+        "認知症予防",
+        "脳トレ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米フィットネス企業がアリゾナ州に初のスタジオを開設へ",
-      "summary_ja": "フィットネス企業のスマート・フィット・メソッドが、11月15日にアリゾナ州初となるスタジオをオープンする。施設では個別指導や健康評価、疲労回復を促すリカバリーサービスなどを提供し、運動への新たな手法を提案する。",
-      "source": "Arizona Foothills Magazine",
-      "url": "https://www.arizonafoothillsmagazine.com/health-and-fitness/workout/smart-fit-method-brings-a-new-approach-to-fitness/",
+      "title_ja": "地域診療所の改修でプライマリケア機能を強化",
+      "summary_ja": "英国ドンカスターのヘルスセンターで診療室を増設する改修計画が進められている。地域の医療キャパシティを広げ、住民へのケアを拡充する狙いがある。",
+      "source": "Building Better Healthcare",
+      "url": "https://www.buildingbetterhealthcare.com/chp-invests-783k-to-expand-gp-services-at",
       "score": 65,
-      "commercial_score": 65,
-      "product_keywords": [
-        "フィットネス器具",
-        "リカバリーグッズ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "commercial_score": 20,
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }
