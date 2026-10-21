@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:35:05+09:00",
+  "stories": [
+    {
+      "title_ja": "新型モデルGPT-6 Astraによる業務時間短縮の実測結果が公開",
+      "summary_ja": "最新AIのGPT-6 Astraについて、従来のGPT-5.6 Solと比較した実測検証が公開された。議事録作成が20分から10秒に、5万字の文章確認が半日から1分に短縮されるなど作業時間が大幅に削減されている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/186858",
+      "score": 85,
+      "commercial_score": 70
+    },
+    {
+      "title_ja": "PFNとテンストレントが生成AI向けプロセッサの共同開発を開始",
+      "summary_ja": "プリファード・ネットワークスと米テンストレントは、生成AIの学習と推論を高効率に行うプロセッサやシステム開発の共同開始を発表した。光電融合技術などを導入し、テンストレントがCPUを、PFNがAIプロセッサの開発を担う。",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
+      "score": 80,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "デジタル庁が政府共通AI源内に自律型エージェント機能を順次導入",
+      "summary_ja": "デジタル庁は政府職員約18万人を対象とする生成AI利用環境「源内」において、複数の業務工程を自律的に実行するAIエージェント機能を順次導入すると発表した。安全運用のための独自基準である「源内基準」もあわせて公表されている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187626",
+      "score": 80,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "リコーが入出力の安全性を判断する日本語向けLLMの改良版を開発",
+      "summary_ja": "リコーは生成AIへの入力や出力内容が安全かを判定するガードレール機能を備えた日本語向けLLMの改良版を開発した。安全なAI活用を支えるセーフガードモデルとして機能する。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/672ae13ce89c7f3f295c446b7729080e33a3f00f",
+      "score": 70,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "日東工業が図面から分電盤の見積情報を抽出するAIアプリを開発",
+      "summary_ja": "日東工業は設備図面から分電盤の見積もりに必要な回路情報や機器情報を抽出するマルチモーダル生成AIアプリを開発した。高圧受電設備や分電盤を製造販売する同社の知見を活用している。",
+      "source": "ZDNET Japan",
+      "url": "https://japan.zdnet.com/article/35253812/",
+      "score": 65,
+      "commercial_score": 55,
+      "product_keywords": [
+        "分電盤"
+      ]
+    }
+  ]
+}
