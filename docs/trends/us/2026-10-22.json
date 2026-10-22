@@ -1,0 +1,137 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T16:10:56+09:00",
+  "trends": [
+    {
+      "keyword": "Black Friday 2026",
+      "reason_ja": "大手通販サイトで人気ゲームソフトの大幅値引きなどブラックフライデー先行セールが始まり話題になっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Black Friday deals",
+        "video games",
+        "gaming console"
+      ],
+      "product_keywords_ja": [
+        "ブラックフライデー",
+        "ゲームソフト",
+        "ゲーム機"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "米大手通販が人気ゲームの早期セール開始",
+          "summary_ja": "アマゾンやベストバイがブラックフライデーに向けた早期セールを開始しました。スクウェア・エニックスの人気タイトルなどが大幅な割引価格で提供されています。お得な価格で名作ゲームを購入できる機会となっています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/square-enix-early-black-friday-sales"
+        },
+        {
+          "title_ja": "任天堂ゲーム機のセール情報に注目集まる",
+          "summary_ja": "ホリデーシーズンの買い物を計画する人々の間でブラックフライデーへの関心が高まっています。任天堂のゲーム機やギフトを探す消費者向けの情報が話題となっています。年末の商戦に向けた注目が集まっています。",
+          "source": "NJ.com",
+          "url": "https://www.nj.com/shopping-deals/2026/10/waiting-for-a-nintendo-switch-2-black-friday-sale-what-shoppers-should-know.html"
+        }
+      ]
+    },
+    {
+      "keyword": "iPhone Duo",
+      "reason_ja": "アップル初の折りたたみスマートフォン発売を前に店頭在庫の品薄や予約特典が話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "iPhone Duo",
+        "foldable phone",
+        "iPhone case"
+      ],
+      "product_keywords_ja": [
+        "iPhone Duo",
+        "折りたたみスマホ",
+        "スマホケース"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "折りたたみiPhoneの発売日店頭在庫は僅少",
+          "summary_ja": "アップル初の折りたたみスマートフォンの店頭販売在庫が限られる見通しです。オンラインでの事前注文が完売し納期の遅れが発生しています。発売日に向けた入手の難しさが報じられています。",
+          "source": "Technology Org",
+          "url": "https://www.technology.org/2026/10/22/iphone-duo-limited-walk-in-stock-launch-friday/"
+        },
+        {
+          "title_ja": "新型折りたたみiPhoneの予約特典が注目",
+          "summary_ja": "アップル初の折りたたみ端末の事前予約が始まっています。通信事業者や販売店による下取り割引などのキャンペーンが提供されています。発売に向けてお得に購入できる情報が関心を集めています。",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-apple-iphone-duo-preorder-deals/"
+        }
+      ]
+    },
+    {
+      "keyword": "Victoria's Secret Fantasy Bra",
+      "reason_ja": "ヴィクトリアズ・シークレットが超高額なダイヤモンドブラをランウェイで披露し話題になっています。",
+      "genre": "beauty",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Victoria's Secret",
+        "lingerie",
+        "luxury bra"
+      ],
+      "product_keywords_ja": [
+        "ヴィクトリアズシークレット",
+        "ランジェリー",
+        "ブラジャー"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ヴィクトリアズシークレットが高額ブラ発表",
+          "summary_ja": "ヴィクトリアズ・シークレットが豪華なダイヤモンドブラを発表しました。ブランドの象徴的な試みとして再び投資を行っています。華やかな演出がファンの関心を惹きつけています。",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/19/style/kylie-jenner-50m-fantasy-bra-victorias-secret-runway-2026"
+        },
+        {
+          "title_ja": "豪華なファンタジーブラがランウェイに登場",
+          "summary_ja": "ヴィクトリアズ・シークレットのランウェイに歴代屈指の豪華なブラジャーが登場しました。著名な起業家が着用してステージに立ち注目を集めました。華やかなショーが大きな話題を呼んでいます。",
+          "source": "Vogue",
+          "url": "https://www.vogue.com/article/kylie-jenner-fantasy-bra-2026-victorias-secret-10-18-2026"
+        }
+      ]
+    },
+    {
+      "keyword": "Oppo Find X10",
+      "reason_ja": "オッポが超高画素カメラを搭載した最新フラッグシップスマートフォンを発表し関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Oppo Find X10",
+        "Android smartphone",
+        "camera phone"
+      ],
+      "product_keywords_ja": [
+        "Oppo スマホ",
+        "スマートフォン本体",
+        "スマホケース"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "オッポの最新旗艦スマホに高評価",
+          "summary_ja": "オッポが最新のフラッグシップスマートフォンを投入しました。優れた完成度を備えた端末としてレビュアーからも評価されています。洗練された仕様が利用者の注目を集めています。",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/mobile/oppo-find-x10-pro-max-review/"
+        },
+        {
+          "title_ja": "オッポが超高画素カメラ搭載スマホを披露",
+          "summary_ja": "オッポが最新フラッグシップ端末の実機を公開しました。超高画素カメラを複数搭載するなどカメラ性能に注力した設計になっています。堅実な進化を遂げた新機種として報じられています。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2291445/oppo-find-x10-pro-max-hands-on/"
+        }
+      ]
+    }
+  ]
+}

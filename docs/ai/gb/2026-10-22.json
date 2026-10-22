@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T15:33:44+09:00",
+  "stories": [
+    {
+      "title_ja": "英出前大手が不自然なAI生成料理画像で謝罪しツールの提供停止",
+      "summary_ja": "フードデリバリー大手のジャストイートが、AIで生成した料理画像が不正確だとして批判を浴びたことを受け謝罪した。同社は誤った画像を削除し、該当ツールの導入を一時停止している。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "出前",
+        "デリバリー"
+      ]
+    },
+    {
+      "title_ja": "音楽ファンのAI楽曲拒絶を受けアーティスト側も距離を置く動き",
+      "summary_ja": "ファンによるAI生成楽曲への反発が広がり、推進派のアーティストも慎重な姿勢を見せている。AIコンテンツを歓迎していた著名歌手らも、自ら制作することには一線を画す方針だ。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "ヘッドホン",
+        "レコード"
+      ]
+    },
+    {
+      "title_ja": "乳がん画像診断AIの信頼性を別のAIで検証する手法を米大学が開発",
+      "summary_ja": "ピッツバーグ大学の研究チームが、乳がんの画像診断を行うAIの信頼性を高めるプログラムを設計した。AIを用いて診断モデル自体の正確さや妥当性を検証することを目指す。",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+      "score": 65,
+      "commercial_score": 40
+    }
+  ]
+}

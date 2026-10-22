@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T15:33:44+09:00",
+  "stories": [
+    {
+      "title_ja": "米新興アンソロピックが業務向けAIエージェントを発表",
+      "summary_ja": "アンソロピックは専門職や中小企業向けの新AIエージェント「Claude Duet」を発表した。メタやオープンAIの競合製品に対抗するもので、現在は研究プレビューとして提供されている。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "score": 85,
+      "commercial_score": 80
+    },
+    {
+      "title_ja": "オープンAIの最先端モデルがグーグルクラウドで利用可能に",
+      "summary_ja": "オープンAIとグーグルクラウドが提携し、最先端AIモデルやCodexのワークフローを提供する。利用者はマーケットプレイスを通じてこれらのモデルを導入できるようになる。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 80,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "オープンAIの独自半導体の狙いを担当幹部が語る",
+      "summary_ja": "オープンAIのリチャード・ホー氏が、開発中の画期的な独自AIチップについて語った。同社が開発を進める新型チップには高い期待が寄せられている。",
+      "source": "Key Context by Tae Kim",
+      "url": "https://taekim.substack.com/p/an-interview-with-openais-richard",
+      "score": 70,
+      "commercial_score": 60
+    }
+  ]
+}

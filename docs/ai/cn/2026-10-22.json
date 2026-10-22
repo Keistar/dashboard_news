@@ -1,0 +1,39 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T15:33:44+09:00",
+  "stories": [
+    {
+      "title_ja": "中国で住宅内装特化AIが進化し設計から見積もりまで一括支援",
+      "summary_ja": "住宅リフォーム分野向けの大規模AIモデルがアップグレードされた。単なる完成予想図の作成にとどまらず、寸法の正確さや費用の透明化、施工の実現性を高めて消費者の意思決定を支援する。",
+      "source": "证券之星",
+      "url": "https://wap.stockstar.com/detail/IG2026102200010130",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "インテリア",
+        "リフォーム",
+        "家具"
+      ]
+    },
+    {
+      "title_ja": "中国AI大手の智譜が厦門市の医療AI基盤事業を約1千万元で落札",
+      "summary_ja": "北京智譜華章科技が、厦門市健康医療ビッグデータセンターの医療AI基盤構築プロジェクトを落札した。落札額は1058万元で、医療分野の大規模モデル活用を推進する。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1091161110_115978",
+      "score": 70,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "中国企業が業務に組み込み進化し続ける個別AIの構築を推進",
+      "summary_ja": "中国の通衍霊智が、持続的に進化する個人向けAI技術を発表した。API呼び出しや知識ベースの連携を通じて、多様なAI機能を自社の業務システムへ容易に導入できる仕組みを提供する。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zp1y.html?from=tech&subch=otech",
+      "score": 65,
+      "commercial_score": 60
+    }
+  ]
+}
