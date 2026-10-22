@@ -1,0 +1,50 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T15:51:23+09:00",
+  "stories": [
+    {
+      "title_ja": "英キャドバリーのレアチョコ「アストロス」が18年ぶりに復活",
+      "summary_ja": "英菓子大手キャドバリーの人気チョコレート「アストロス」が、18年ぶりに英ディスカウント店B&Mの店頭に再登場しました。ビスケットを中心に配した宇宙がテーマのチョコボール菓子です。",
+      "source": "Bucks Free Press",
+      "url": "https://www.bucksfreepress.co.uk/news/26658160.rare-cadbury-chocolate-back-uk-supermarket-18-years/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "キャドバリー",
+        "チョコレート"
+      ]
+    },
+    {
+      "title_ja": "英スーパー大手のセインズベリーズが一部客向けに3ポンド割引を実施",
+      "summary_ja": "英大手スーパーのセインズベリーズが、食料品の購入で3ポンドの割引を受けられる新たな施策を開始しました。クリスマスを前に生活費の高騰に直面する家庭の負担を軽減することを目的としています。",
+      "source": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/sainsburys-launches-3-food-shop-34796202",
+      "score": 72,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "英ジャストイートがメニューのAI生成画像が不自然として導入中断",
+      "summary_ja": "英フードデリバリー大手のジャストイートが、店舗メニュー用のAI画像生成ツールの導入を一時停止し謝罪しました。AIが不可解で不自然な料理画像を生成したため見直しを行っています。",
+      "source": "restaurantonline.co.uk",
+      "url": "https://www.restaurantonline.co.uk/Article/2026/10/21/just-eat-apologises-for-surreal-ai-generated-food-images/",
+      "score": 70,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "英大手スーパーがクリスマス向けに柑橘リキュールの新作を投入",
+      "summary_ja": "英スーパー大手のマークス＆スペンサーとセインズベリーズが、クリスマスシーズン向けにイタリアのリキュールをアレンジした「クレメンチェロ」を展開しています。定番のリモンチェッロに冬の柑橘を取り入れた商品です。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/extras/indybest/food-drink/m-s-vs-sainsbury-s-clemencello-b3070105.html",
+      "score": 68,
+      "commercial_score": 75,
+      "product_keywords": [
+        "リモンチェッロ",
+        "リキュール"
+      ]
+    }
+  ]
+}

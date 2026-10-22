@@ -1,0 +1,125 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T16:10:56+09:00",
+  "trends": [
+    {
+      "keyword": "Klarna at M&S",
+      "reason_ja": "英大手百貨店マークス＆スペンサーがクリスマス商戦を前に後払い決済サービスの導入を発表しました。",
+      "genre": "sale",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Marks and Spencer",
+        "Klarna",
+        "Christmas shopping"
+      ],
+      "product_keywords_ja": [
+        "マークス＆スペンサー",
+        "クリスマスギフト",
+        "後払い決済"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "英百貨店がクリスマス前に決済方法を刷新",
+          "summary_ja": "マークス＆スペンサーがクリスマス商戦を前に利用者の支払い方法を大幅に変更しました。ファッションや家庭用品を購入する顧客の利便性を高める狙いです。年末の買い物に向けた新たな選択肢となります。",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/money/40695399/marks-spencer-changes-payment-method/"
+        }
+      ]
+    },
+    {
+      "keyword": "Garmin smartwatch update",
+      "reason_ja": "ガーミンが人気スマートウォッチシリーズ向けに機能改善を含む大規模アップデートを配信し話題になっています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Garmin smartwatch",
+        "Garmin Venu",
+        "fitness tracker"
+      ],
+      "product_keywords_ja": [
+        "ガーミン スマートウォッチ",
+        "GARMIN",
+        "ランニングウォッチ"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ガーミンがスマートウォッチ新更新を配信",
+          "summary_ja": "ガーミンがスクエア型スマートウォッチ向けに新たなテスト版更新を公開しました。機能の改善や不具合の修正など多彩な変更が含まれています。利用者の使い勝手向上が図られています。",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/New-Garmin-smartwatch-beta-update-brings-dozens-of-changes.1430504.0.html"
+        },
+        {
+          "title_ja": "ガーミンの人気機種に大規模アップデート",
+          "summary_ja": "ガーミンが主力スマートウォッチ向けに大型アップデートを配信しました。多数の不具合修正や機能改善が世界規模で順次提供されています。動作の安定性と快適性が向上しています。",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Garmin-releases-major-update-to-popular-smartwatch-with-over-a-dozen-improvements.1430490.0.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Sainsbury's food discount",
+      "reason_ja": "英大手スーパーのセインズベリーズが生活費支援として食料品購入の割引施策を導入し注目されています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Sainsbury's",
+        "groceries",
+        "supermarket discount"
+      ],
+      "product_keywords_ja": [
+        "スーパーマーケット",
+        "食料品",
+        "生活雑貨"
+      ],
+      "trend_source": "ニュース（食品）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "セインズベリーズが食料品割引を導入",
+          "summary_ja": "英大手スーパーが顧客向けの食料品購入割引施策を開始しました。クリスマスを前に生活費の負担を軽減することを支援する取り組みです。国内スーパー初の試みとして注目されています。",
+          "source": "Manchester Evening News",
+          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/sainsburys-launches-3-food-shop-34796202"
+        },
+        {
+          "title_ja": "英セインズベリーズが業績目標を引き上げ",
+          "summary_ja": "大手スーパーのセインズベリーズが利益目標を引き上げました。厳しい消費環境の中で成長の鈍化にも直面していますが価格投資を続けています。今後の販売動向に市場の関心が集まっています。",
+          "source": "City AM",
+          "url": "https://www.cityam.com/sainsburys-lifts-profit-target-despite-slowing-sales/"
+        }
+      ]
+    },
+    {
+      "keyword": "Cadbury chocolate",
+      "reason_ja": "キャドバリーの懐かしい人気チョコレート菓子がスーパーの店頭に復帰し話題になっています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Cadbury",
+        "chocolate",
+        "sweets"
+      ],
+      "product_keywords_ja": [
+        "キャドバリー",
+        "チョコレート",
+        "輸入菓子"
+      ],
+      "trend_source": "ニュース（食品）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "キャドバリーの懐かしのチョコが店頭復帰",
+          "summary_ja": "キャドバリーの宇宙をテーマにした人気チョコレート菓子が再び店頭に並びました。ビスケットを中心にしたキャンディチョコが小売チェーンで販売されています。ファンの間で懐かしいお菓子の復活が歓迎されています。",
+          "source": "Slough Observer",
+          "url": "https://www.windsorobserver.co.uk/news/26658160.rare-cadbury-chocolate-back-uk-supermarket-18-years/"
+        }
+      ]
+    }
+  ]
+}

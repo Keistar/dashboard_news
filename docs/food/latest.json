@@ -1,271 +1,228 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T15:53:06+09:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T15:51:23+09:00",
   "stories": [
     {
-      "title_ja": "店内価格のまま注文できる新デリバリーアプリが米国で登場",
-      "summary_ja": "米フードテック企業のオーロ（Olo）が、店頭価格と同じ設定で注文できる新たな配達アプリを開始しました。価格の上乗せをなくすことで、大手デリバリーサービスに対抗します。",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/olos-app-offers-in-store-prices-rivals-doordash-uber-eats-2026-10",
-      "score": 85,
+      "title_ja": "米コストコがアップルパイ風の新作サンデーをフードコートに投入",
+      "summary_ja": "米コストコのフードコートに、期間限定の新デザート「バニラアップルパイサンデー」が登場しました。バニラソフトクリームにアップルパイの具材とクラストの小片を組み合わせ、2.99ドルで販売されています。",
+      "source": "Real Simple",
+      "url": "https://www.realsimple.com/costco-vanilla-apple-pie-sundae-new-food-court-dessert-12186331",
+      "score": 75,
       "commercial_score": 75,
       "product_keywords": [
-        "フードデリバリー",
-        "テイクアウト"
+        "コストコ",
+        "アップルパイ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "上海で国際コーヒーフェス開幕、70超の新作コーヒーが初披露",
-      "summary_ja": "第11回上海陸家嘴国際コーヒー文化フェスティバルが開幕しました。五大陸から390以上のブランドが集まり、70種を超える世界各地の新作コーヒーがお披露目されます。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivwcmr6524226.shtml",
-      "score": 85,
+      "title_ja": "英キャドバリーのレアチョコ「アストロス」が18年ぶりに復活",
+      "summary_ja": "英菓子大手キャドバリーの人気チョコレート「アストロス」が、18年ぶりに英ディスカウント店B&Mの店頭に再登場しました。ビスケットを中心に配した宇宙がテーマのチョコボール菓子です。",
+      "source": "Bucks Free Press",
+      "url": "https://www.bucksfreepress.co.uk/news/26658160.rare-cadbury-chocolate-back-uk-supermarket-18-years/",
+      "score": 75,
       "commercial_score": 80,
-      "product_keywords": [
-        "コーヒー豆",
-        "ドリップコーヒー",
-        "中国茶"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "セブンカフェ、新作「セレクトブレンド」3種の30円引きセール開催",
-      "summary_ja": "セブン‐イレブンはセブンカフェの新作「セレクトブレンド」3種を対象とした割引セールを実施します。10月21日から31日までの期間中、30円引きで販売されます。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/9e068dff5457d676c56208d276409b54591e3847",
-      "score": 84,
-      "commercial_score": 82,
-      "product_keywords": [
-        "セブンカフェ",
-        "レギュラーコーヒー",
-        "ドリップコーヒー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英キャドバリー、宇宙テーマのチョコ菓子が18年ぶりに英店頭で復活",
-      "summary_ja": "キャドバリー（Cadbury）のビスケット入りチョコ菓子「アストロズ」が18年ぶりに英国で再発売されました。ディスカウントチェーンのB&Mの店頭で購入可能となっています。",
-      "source": "Cumnock Chronicle",
-      "url": "https://www.cumnockchronicle.com/news/national/uk-today/26652025.rare-cadbury-chocolate-back-uk-supermarket-18-years/",
-      "score": 83,
-      "commercial_score": 92,
       "product_keywords": [
         "キャドバリー",
-        "輸入チョコレート",
-        "ビスケットチョコ"
+        "チョコレート"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "松屋、持ち帰り惣菜「マツヤデリ」13品を10月27日から値下げ",
-      "summary_ja": "松屋フーズはテイクアウト専用惣菜シリーズ「マツヤデリ」の13商品を一斉に値下げします。10月27日15時より、一部店舗を除く全国の松屋で実施されます。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_707908/",
-      "score": 82,
-      "commercial_score": 85,
-      "product_keywords": [
-        "松屋",
-        "惣菜",
-        "牛丼"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "明治、ビターな「きのたけ」新発売と無料動画サービスを開始",
-      "summary_ja": "明治は「きのこの山」と「たけのこの里」の新商品「みんなのブラック」を発売しました。あわせてオリジナル動画を楽しめる無料サービス「キノタケプラス」も提供しています。",
-      "source": "日本食糧新聞・電子版",
-      "url": "https://news.nissyoku.co.jp/news/omuram20261014090633667",
-      "score": 80,
-      "commercial_score": 88,
-      "product_keywords": [
-        "きのこの山",
-        "たけのこの里",
-        "明治 チョコ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英大手スーパー、クリスマス食品の配達枠を一般向けに受付開始",
-      "summary_ja": "英国の大手スーパーがクリスマス向け食品の配送予約枠を全顧客向けに開放しました。伝統的なごちそうやデザートなど、祝祭向けの定番メニューの注文受付が始まっています。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40743851/supermarket-opens-christmas-delivery-slots/",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "クリスマスケーキ",
-        "トライフル",
-        "イギリス 食品"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "コスタコーヒー、人気のホットチョコ復活などクリスマス商品を公開",
-      "summary_ja": "コスタコーヒー（Costa Coffee）がクリスマスの新メニューを公開しました。12品の新商品が登場するほか、定番で人気の高かったホットチョコレートも復活します。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40741807/costa-festive-menu-hot-chocolate/",
-      "score": 78,
-      "commercial_score": 82,
-      "product_keywords": [
-        "コスタコーヒー",
-        "ホットチョコレート",
-        "ココア"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英セインズベリーズ、子育て世帯向けに3ポンドの食費支援を再開",
-      "summary_ja": "英国のスーパー大手セインズベリーズ（Sainsbury's）が低所得世帯向け支援「ヘルシースタート」の拡充を再開しました。幼い子どものいる家庭を対象に3ポンド分が上乗せされます。",
-      "source": "Birmingham Live",
-      "url": "https://www.birminghammail.co.uk/whats-on/shopping/sainsburys-becomes-first-uk-supermarket-34791454.amp",
-      "score": 78,
-      "commercial_score": 70,
-      "product_keywords": [
-        "健康食品",
-        "ベビーフード",
-        "食料品"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国のカフェで「注文後着席」のルール導入を巡り関心集まる",
-      "summary_ja": "中国のスターバックスなどで「消費後の着席」を促す提示が話題となっています。大手チェーンでは一律の実施は少ないものの、個人店を含め座席の利用ルールに注目が集まっています。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1090356756_121347613",
-      "score": 78,
-      "commercial_score": 60,
-      "product_keywords": [
-        "スターバックス タンブラー",
-        "カフェ グッズ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英ビオティフル、英国初となるケフィア入りカッテージチーズを発売",
-      "summary_ja": "英国のビオティフル（Biotiful Gut Health）が国内初となるケフィア入りカッテージチーズを発売しました。発酵乳製品ケフィアを取り入れた新しいチーズ商品です。",
-      "source": "FoodBev Media",
-      "url": "https://www.foodbev.com/post301/biotiful-launches-uk-s-first-kefir-cottage-cheese",
-      "score": 76,
-      "commercial_score": 85,
-      "product_keywords": [
-        "カッテージチーズ",
-        "ケフィア",
-        "発酵乳"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "雲南・貢山の伝統製法コーヒー、上海の国際コーヒーフェスに初出展",
-      "summary_ja": "雲南省貢山（こうざん）の伝統製法によるコーヒーが、上海の「陸家嘴国際コーヒー文化フェスティバル」に初登場しました。会場では特産品の販売や試飲が行われ、現地の味を発信しています。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1090581651_122014422/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "score": 76,
-      "commercial_score": 80,
-      "product_keywords": [
-        "雲南コーヒー",
-        "コーヒー豆 中国",
-        "スペシャルティコーヒー"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "東日本の水産加工品を全品送料無料で届ける新企画「UOYA」が開始",
-      "summary_ja": "東日本6県の水産事業者42社による加工品発信プロジェクト「UOYA」が始動しました。生鮮食品ECサイトなどで全品送料無料にて展開されます。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19899294?news_ref=watch_20_nw19171266",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "水産加工品",
-        "海鮮 送料無料",
-        "お取り寄せ グルメ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米クラッカー・バレル、パンケーキなどホリデー限定メニューを発表",
-      "summary_ja": "米レストランチェーンのクラッカー・バレルがホリデー向けメニューを発表しました。シナモン渦巻きパンケーキやターキーサンドのほか、温めるだけの感謝祭向けセットも再登場します。",
-      "source": "Southern Living",
-      "url": "https://www.southernliving.com/cracker-barrel-unveils-holiday-menu-with-new-pancakes-12184887",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "パンケーキミックス",
-        "シナモン",
-        "ターキー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アラスカ航空、著名シェフ5名監修の国際線向け新機内食を導入",
-      "summary_ja": "アラスカ航空が国際線スイート席の機内食メニューを刷新しました。ハワイアン航空のシェフら著名な料理人5名が監修した特別メニューが10月21日より提供されます。",
-      "source": "Travelers Today",
-      "url": "https://www.travelerstoday.com/articles/61147/20261021/five-chefs-board-alaska-hawaiian-airlines-international-suites-starting-tuesday.htm",
-      "score": 74,
+      "title_ja": "米国の吉野家が若年層獲得へラーメンメニューをラインナップ追加",
+      "summary_ja": "米国で展開する牛丼チェーンの吉野家が、若年層の顧客を取り込むためメニューにラーメンを追加しました。従来の牛丼やテリヤキチキンに続く新たな選択肢として訴求を図っています。",
+      "source": "Restaurant Business Magazine",
+      "url": "https://www.restaurantbusinessonline.com/food/yoshinoya-wants-win-back-younger-consumers-ramen",
+      "score": 72,
       "commercial_score": 65,
       "product_keywords": [
-        "機内食",
-        "ハワイアン グルメ"
+        "吉野家",
+        "牛丼",
+        "ラーメン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米ホールフーズ、オハイオ州に4万平方フィートの大型新店舗を開店へ",
-      "summary_ja": "ホールフーズ・マーケット（Whole Foods Market）がオハイオ州ウェストチェスターに新店舗を11月18日にオープンします。約4万平方フィートの広さを持つ店舗で、既存店からの移転オープンとなります。",
-      "source": "WebWire",
-      "url": "https://www.webwire.com/ViewPressRel.asp?SESSIONID=&aId=363094",
+      "title_ja": "英スーパー大手のセインズベリーズが一部客向けに3ポンド割引を実施",
+      "summary_ja": "英大手スーパーのセインズベリーズが、食料品の購入で3ポンドの割引を受けられる新たな施策を開始しました。クリスマスを前に生活費の高騰に直面する家庭の負担を軽減することを目的としています。",
+      "source": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/sainsburys-launches-3-food-shop-34796202",
       "score": 72,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ホールフーズ",
-        "オーガニック食品"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "commercial_score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "英食品ブランドのPUNCH、新作パスタ用ブレンドを発売",
-      "summary_ja": "ロンドンを拠点とする食品ブランド「PUNCH your Food」が、新たなパスタ用ブレンド調味料を発売しました。料理番組出演経験を持つシェフ兼栄養士が立ち上げたブランドです。",
-      "source": "Retail Times",
-      "url": "https://retailtimes.co.uk/punch-your-food-launches-new-savoury-pasta-blend/",
-      "score": 72,
+      "title_ja": "バーガーキングがマッシュルームワッパー新作を発売、割引も",
+      "summary_ja": "バーガーキングは10月23日より、きのこを使った「オータムスペシャルマッシュルームワッパー」など秋の新作3商品を期間限定で発売します。あわせて、対象のセットメニュー6種類が最大300円引きになる1週間限定のキャンペーンも実施されます。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_708199/",
+      "score": 70,
       "commercial_score": 80,
       "product_keywords": [
-        "パスタソース",
-        "パスタ スパイス",
-        "シーズニング"
+        "ハンバーガー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英ジャストイートがメニューのAI生成画像が不自然として導入中断",
+      "summary_ja": "英フードデリバリー大手のジャストイートが、店舗メニュー用のAI画像生成ツールの導入を一時停止し謝罪しました。AIが不可解で不自然な料理画像を生成したため見直しを行っています。",
+      "source": "restaurantonline.co.uk",
+      "url": "https://www.restaurantonline.co.uk/Article/2026/10/21/just-eat-apologises-for-surreal-ai-generated-food-images/",
+      "score": 70,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "カフェチェーンのイディヤコーヒーがスイーツなど新作9品を発売",
+      "summary_ja": "大手カフェチェーンのイディヤコーヒー（Ediya Coffee）が、デザートや軽食など9種類の新メニューを発売しました。トレンドを取り入れたスイーツ4種に加え、食事代わりになる軽食や定番メニューの改良版が揃います。",
+      "source": "아시아경제",
+      "url": "https://view.asiae.co.kr/cn/article/2026102208092693645",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "コーヒー",
+        "スイーツ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "大阪王将の冷凍小籠包と餡餅が台湾の大手量販店で発売へ",
+      "summary_ja": "イートアンドフーズは、大阪王将の冷凍食品2品を台湾の量販店「全聯福利中心」全店で10月30日から販売します。日本でも人気の羽根つき円盤小籠包と肉汁爆弾餡餅の2種類が展開されます。",
+      "source": "グルメ Watch",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2150102.html",
+      "score": 68,
+      "commercial_score": 75,
+      "product_keywords": [
+        "大阪王将",
+        "冷凍食品",
+        "小籠包"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英大手スーパーがクリスマス向けに柑橘リキュールの新作を投入",
+      "summary_ja": "英スーパー大手のマークス＆スペンサーとセインズベリーズが、クリスマスシーズン向けにイタリアのリキュールをアレンジした「クレメンチェロ」を展開しています。定番のリモンチェッロに冬の柑橘を取り入れた商品です。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/extras/indybest/food-drink/m-s-vs-sainsbury-s-clemencello-b3070105.html",
+      "score": 68,
+      "commercial_score": 75,
+      "product_keywords": [
+        "リモンチェッロ",
+        "リキュール"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "雲南コーヒーのブランド化を推進、昆明で風味巡礼イベント開催",
-      "summary_ja": "雲南省のコーヒー産業を原料供給からブランド化へと転換する取り組みが進んでいます。「雲南コーヒー風味巡礼」の第1弾イベントが昆明で開催されました。",
-      "source": "新浪新闻_手机新浪网",
-      "url": "https://news.sina.com.cn/zx/gj/2026-10-20/doc-inivwitp6457562.shtml",
-      "score": 72,
+      "title_ja": "大連市でデリバリー加盟飲食店の厨房3800軒超をライブ配信",
+      "summary_ja": "中国の大連市において、3800軒以上の飲食店厨房の調理風景をオンラインで生配信する取り組みが展開されています。利用者が自宅からでも調理の実況を確認できるようにし、デリバリーの衛生面の透明化を図っています。",
+      "source": "新浪网",
+      "url": "https://finance.sina.cn/2026-10-21/detail-inivyxhi6115512.d.html?vt=4&cid=76675&node_id=76675",
+      "score": 68,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "クア・アイナがトリュフ香るチーズバーガーなど新作3種を発売",
+      "summary_ja": "ハワイアングルメバーガー店のクア・アイナが、期間限定の新作3種を国内全店で発売しました。「トリュフ コルビージャック チーズバーガー」など、トリュフの香りとチーズを楽しめるメニューが登場しています。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3a99831cb09d203578c24333a049e75d83b57d68",
+      "score": 65,
       "commercial_score": 75,
       "product_keywords": [
-        "中国コーヒー",
-        "雲南 コーヒー豆",
-        "焙煎豆"
+        "ハンバーガー",
+        "トリュフ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "なか卯が7種スパイス香る痺辛麻辣担々うどんを発売へ",
+      "summary_ja": "なか卯は10月28日午前11時より、秋冬向けの新商品「痺辛麻辣担々うどん」を発売します。鰹などの出汁と胡麻ペーストを合わせたつゆに7種のスパイスを使用し、濃厚な味わいと痺れる辛さを楽しめます。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_707998/",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "担々うどん",
+        "なか卯"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ヌードルズ＆カンパニーが汁なしラーメンを定番メニューに",
+      "summary_ja": "米ファストカジュアルチェーンのヌードルズ＆カンパニーが、スープのない汁なしラーメンのボウルメニューを新たに展開します。従来の日本のラーメンの枠を超えた新しい味の定番カテゴリーとして提供されます。",
+      "source": "Restaurant Business Magazine",
+      "url": "https://www.restaurantbusinessonline.com/food/noodles-company-takes-ramen-new-flavor-directions-brothless-bowls",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "ラーメン",
+        "油そば"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "甘粛省で配達員が飲食店の衛生を監視・通報する仕組みが稼働",
+      "summary_ja": "中国の甘粛省では、フードデリバリーの配達員が食品安全の監督員として活動する取り組みが進められています。店舗の衛生状態を通報して確認されると奨励金が支払われる仕組みが整備されました。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1090728429_121620820",
+      "score": 65,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "米レストランのフレンドリーズが冬季限定メニューを展開",
+      "summary_ja": "米外食チェーンのフレンドリーズが、冬向けの「スノーデイズ」メニューの提供を開始しました。温かい料理やアイスクリームデザートが登場し、期間限定で無料のサンデー特典なども用意されています。",
+      "source": "RestaurantNews.com",
+      "url": "https://www.restaurantnews.com/friendlys-snow-days-new-entrees-ice-cream-treats-and-winter-deals-102126/",
+      "score": 62,
+      "commercial_score": 65,
+      "product_keywords": [
+        "サンデー",
+        "アイスクリーム"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "米タコベルが特製バハソースとチキンの新メニューを地域限定テスト",
+      "summary_ja": "米ファストフード大手のタコベルが、新たなバハソースとチキンを使ったメニューの試験販売を1都市限定で実施しています。消費者の反応を確かめるためのテスト展開となっています。",
+      "source": "Sporked",
+      "url": "https://sporked.com/article/taco-bell-is-testing-new-baja-sauce-and-chicken-in-just-one-city/",
+      "score": 60,
+      "commercial_score": 55,
+      "product_keywords": [
+        "タコス",
+        "タコベル"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国でデリバリー容器の液漏れを防ぐ新型テイクアウト容器が登場",
+      "summary_ja": "飲食包装メーカーの新天力が、デリバリー配送時の液漏れを防ぐテイクアウト容器「防漏王2.0」を発表しました。バイク移動の揺れや圧力による密閉不良を防ぐため、4つの機能改良が施されています。",
+      "source": "红餐网",
+      "url": "http://www.canyin88.com/zixun/huodongbaodao/2026/1022/114089.html",
+      "score": 60,
+      "commercial_score": 65,
+      "product_keywords": [
+        "テイクアウト容器",
+        "使い捨て容器"
       ],
       "country": "cn",
       "country_label_ja": "中国"
