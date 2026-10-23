@@ -1,0 +1,70 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T15:38:23+09:00",
+  "stories": [
+    {
+      "title_ja": "ソニーが新型PlayStation Pulseヘッドホンの価格を発表",
+      "summary_ja": "ソニーはPlayStation 5向けの最新ヘッドセット「PlayStation Pulse」の価格および発売日を公表した。PS5ユーザー向けに刷新されたオーディオ機器となっている。",
+      "source": "VICE",
+      "url": "https://www.vice.com/en/article/playstation-confirms-price-and-release-dates-for-new-pulse-headphones/",
+      "score": 88,
+      "commercial_score": 85,
+      "product_keywords": [
+        "PlayStation Pulse ヘッドセット",
+        "PS5 ヘッドホン"
+      ]
+    },
+    {
+      "title_ja": "オッポが2億画素カメラ3基の旗艦スマホを世界発表",
+      "summary_ja": "オッポ（Oppo）はフラッグシップスマートフォン「Find X10 Pro Max」をグローバル向けに発表した。3基の2億画素カメラと2nmプロセスのチップを搭載している。欧州向けモデルには7,150mAhのバッテリーが搭載される。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/oppo-find-x10-pro-max-makes-its-global-debut-with-triple-200mp-cameras",
+      "score": 85,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Oppo スマートフォン",
+        "Oppo Find"
+      ]
+    },
+    {
+      "title_ja": "Amazfitのスマートウォッチにリアルタイム位置共有機能が追加",
+      "summary_ja": "アマズフィット（Amazfit）は「T-Rex Dual Solar」向けに新機能「LiveShare」を提供開始した。リアルタイムのGPS位置情報や心拍数、標高データを送信でき、ブラウザリンクを通じて家族などが登山時の安全を見守ることができる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/amazfit-liveshare-safety-feature-t-rex-dual-solar",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Amazfit T-Rex",
+        "Amazfit スマートウォッチ"
+      ]
+    },
+    {
+      "title_ja": "グラドがヘッドホン新作「Signature S150」を発表",
+      "summary_ja": "米音響機器メーカーのグラド（Grado）は、Signatureラインの最新ヘッドホン「Signature S150」を発表した。手頃な価格帯ながら豊かで音楽的なサウンド表現を目指しており、11月下旬より発売される予定となっている。",
+      "source": "What Hi-Fi?",
+      "url": "https://www.whathifi.com/headphones/wired-headphones/grados-latest-signature-line-headphones-promise-a-full-bodied-musical-presentation-at-an-accessible-price",
+      "score": 72,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Grado ヘッドホン",
+        "Grado Signature"
+      ]
+    },
+    {
+      "title_ja": "Rokuが144Hz対応の有機ELテレビ上位機を投入",
+      "summary_ja": "ロク（Roku）は「Pro Series LX OLED」テレビを発表した。144Hz駆動の有機ELパネルやWi-Fi 6、HDMI 2.1に対応し、2つの画面サイズを用意している。Amazon限定で1,299.99ドルから販売される。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/roku-pro-series-lx-oled-144hz-panel-starting-at-1299-99",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Roku テレビ",
+        "有機ELテレビ 144Hz"
+      ]
+    }
+  ]
+}

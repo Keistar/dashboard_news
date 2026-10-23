@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T15:33:34+09:00",
+  "stories": [
+    {
+      "title_ja": "Google Cloud、OpenAIのモデルを限定プレビューで提供",
+      "summary_ja": "米グーグル（Google）は、Google Cloud上でOpenAIのAIモデルを限定プレビューとして追加した。企業向けにデータ保護や請求の一元管理を提供し、幅広いAI選択肢を用意する。預かった企業データはモデルの学習には使用しない方針を示している。",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/",
+      "score": 85,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "Uber、全社員3万人以上にChatGPT Workを導入",
+      "summary_ja": "米ウーバー（Uber）は、3万人を超える全従業員に向けてOpenAIのChatGPT Workを展開している。各チームでの調査やデータ分析、資料作成などの業務に活用する。複雑なワークフローを円滑に進める支援体制を整える。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout/",
+      "score": 80,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "米Anthropic、エージェント機能向け新アプリを提供",
+      "summary_ja": "米アンソロピック（Anthropic）は、AIエージェント向けの新アプリとなるClaude Duetを発表した。有料プランであるProおよびMaxのユーザーを対象に、ウェイトリスト形式で提供されている。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "元OpenAI幹部、ロボットで実験を自動化する新興企業を設立",
+      "summary_ja": "元OpenAIのサイエンス責任者が、ロボットによる実験室の自動化を目指す新興企業ワープ・サイエンス（Warp Science）を立ち上げた。人間の化学者がカメラやセンサー付き手袋を装着して作業を行い、ロボットに様々な実験作業を学習させる。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "score": 70,
+      "commercial_score": 30
+    }
+  ]
+}
