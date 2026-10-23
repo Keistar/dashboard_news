@@ -1,247 +1,284 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T15:44:39+09:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T15:42:45+09:00",
   "stories": [
     {
-      "title_ja": "タニタが38年ぶり調理家電に再参入、魚がおいしく焼けるトースター発売へ",
-      "summary_ja": "健康機器大手のタニタは、魚の調理機能を高めた多機能オーブントースターを発売すると発表しました。同社にとって38年ぶりの調理家電市場への再参入となります。価格は約5万円で、手軽においしい魚料理を楽しめる機能を備えています。",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/topics/yomiuri_20261021_gyt1t00346/",
+      "title_ja": "アイロボットが温水ミストと加圧モップ搭載の最上位ルンバを発売",
+      "summary_ja": "アイロボットジャパンが最上位のロボット掃除機「Roomba Max 875 Combo」を発表した。強力な吸引力に加え、温水ミストや加圧モップを備えて高い清掃力を実現している。",
+      "source": "@DIME アットダイム",
+      "url": "https://dime.jp/genre/2163961/",
       "score": 85,
       "commercial_score": 85,
       "product_keywords": [
-        "タニタ オーブントースター",
-        "トースター 魚焼き"
+        "ルンバ",
+        "アイロボット",
+        "ロボット掃除機"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "アイロボット、温水ミスト搭載の最上位ロボット掃除機を発売",
-      "summary_ja": "アイロボットジャパンは、最上位ロボット掃除機「Roomba Max 875 Combo」と自動洗浄ステーションを発売しました。温水ミストによって汚れを浮かせて落とす強力な清掃性能を備えています。価格は約25万円で、従来のフラッグシップを超える高機能モデルです。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19903430?news_ref=top_newComments",
-      "score": 85,
+      "title_ja": "サムスンの一体型洗濯乾燥機が洗濯の負担軽減と省スペースを実現",
+      "summary_ja": "サムスンが衣類の移し替えなしで洗濯から乾燥まで行える一体型洗濯乾燥機を投入した。省スペースで家事の手間を減らせるかどうかが注目されている。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/wirecutter/reviews/samsung-bespoke-ai-vented-laundry-combo-review/",
+      "score": 80,
       "commercial_score": 80,
       "product_keywords": [
-        "ルンバ",
-        "Roomba Max",
-        "ロボット掃除機 水拭き"
+        "サムスン",
+        "洗濯乾燥機",
+        "ドラム式洗濯機"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "タイガー、焼き魚を裏返さず調理できる新製品「GRISIA」を発表",
-      "summary_ja": "タイガー魔法瓶から、焼き魚を裏返さずに自動でおいしく焼き上げる新調理家電「GRISIA」が登場しました。火加減の確認や食材をひっくり返す手間を減らし、日々の自炊負担を軽減します。コンロを使わずに手軽に調理したい人に向けた製品です。",
-      "source": "GetNavi web",
-      "url": "https://getnavi.jp/appliances/1118141/",
+      "title_ja": "ティファールがIHとノンフライ調理を統合した一人用調理器を発売",
+      "summary_ja": "ティファールから一人暮らし向けの調理家電「YumMeal」が英国で登場した。比較的小型の本体に、エアフライ調理とIH調理の両方の機能を統合している。",
+      "source": "Ideal Home",
+      "url": "https://www.idealhome.co.uk/all-rooms/small-appliances/tefal-yum-meal-all-in-one-cooker",
+      "score": 80,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ティファール",
+        "一人用調理器",
+        "調理家電"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ロボロックが次世代の清掃・モップ機能を備えた新掃除機を発表",
+      "summary_ja": "ロボロックから最新のロボット掃除機「Saros 20 Neo」が登場した。次世代の吸引清掃と水拭きモップ機能を備え、床掃除の手間をなくすことを目指している。",
+      "source": "T3",
+      "url": "https://www.t3.com/home-living/vacuum-cleaners/roborock-saros-20-neo-because-life-is-tough-enough-without-having-to-clean-the-floor",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "タイガー GRISIA",
-        "魚焼き器",
-        "ロースター"
+        "Roborock",
+        "ロボット掃除機"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "シーメンスが洗濯機で衣類1枚でも偏らず脱水できる新技術を発表",
+      "summary_ja": "シーメンス家電が、ドラム式洗濯機の脱水に関する新技術を発表した。液体バランスシステムと独自のアルゴリズムにより、衣類1枚だけでも偏りを抑えて効率よく脱水できる。",
+      "source": "DoNews",
+      "url": "https://www.donews.com/news/detail/1/6750192.html",
+      "score": 80,
+      "commercial_score": 80,
+      "product_keywords": [
+        "シーメンス",
+        "ドラム式洗濯機",
+        "洗濯機"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ハイセンスが大容量冷蔵庫や手頃なドラム式洗濯機で白物家電を強化",
+      "summary_ja": "テレビで知られるハイセンスが、白物家電事業への注力を強めている。501リットルの大容量冷蔵庫や11万円前後のドラム式洗濯機を投入し、家電市場での攻勢を図る。",
+      "source": "@DIME アットダイム",
+      "url": "https://dime.jp/genre/2164312/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ハイセンス",
+        "ドラム式洗濯機",
+        "冷蔵庫"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "KEYUCA、焦げ付きにくく食洗機で洗える土鍋シリーズを発売",
-      "summary_ja": "ライフソリューションブランドのKEYUCAは、食洗機に対応した土鍋シリーズを新たに発売しました。内側にセラミックコーティングを施すことで焦げ付きを落としやすくし、冬場の洗い物にかかる手間を軽減します。日常のお手入れがしやすい設計が特徴です。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19903739",
+      "title_ja": "ロボロックの高性能ロボット掃除機が半額の750ドルに値下げ",
+      "summary_ja": "ロボロックのロボット掃除機「Qrevo CurvX」が米国で50%引きの750ドルで販売されている。2万2000パスカルの吸引力や80度の温水洗浄、障害物回避機能を備える。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/roborock-robot-vacuum-deal/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Roborock",
+        "ロボット掃除機"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "美的が蒸気とフライを組み合わせた大容量エアフライヤーを発表",
+      "summary_ja": "家電大手の美的（Midea）が、8リットルの大容量エアフライヤーを発表した。独自の保湿技術を採用し、1台で揚げる調理と蒸す調理を組み合わせることができる。",
+      "source": "freeyork",
+      "url": "https://freeyork.org/technology/midea-revolutionizes-smart-moisture/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Midea",
+        "エアフライヤー",
+        "ノンフライヤー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "薄型で昇降可能なロボット掃除機「石頭P20 Ultra」が注目",
+      "summary_ja": "石頭科技（Roborock）のロボット掃除機「P20 Ultra」の実機テストが紹介された。昇降可能な薄型ボディで隙間の奥まで届くほか、温水モップによる強力な床掃除に対応している。",
+      "source": "新浪网",
+      "url": "https://k.sina.com.cn/article_7879923744_1d5ae182006808rziu.html",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "KEYUCA 土鍋",
-        "食洗機対応 土鍋",
-        "焦げ付きにくい 土鍋"
+        "Roborock",
+        "ロボット掃除機"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "中国のダブル11商戦で国家補助金による家電の大幅値下げが主役に",
+      "summary_ja": "中国のダブル11商戦が各ECプラットフォームで本格化した。2026年は国の買い替え補助金が割引の軸となり、家電製品の販売動向に変化をもたらしている。",
+      "source": "news.zdwang.com",
+      "url": "http://news.zdwang.com/a/202610/23102435.html",
+      "score": 75,
+      "commercial_score": 70,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "象印の高級炊飯器「炎舞炊き」シリーズが根強い支持を集める",
+      "summary_ja": "10万円を超える高級炊飯器が注目されるなか、象印マホービンの「炎舞炊き」シリーズが高い支持を集めている。独自の技術により、おいしいごはんを炊き上げる。",
+      "source": "家電 Watch",
+      "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2144553.html",
+      "score": 70,
+      "commercial_score": 90,
+      "product_keywords": [
+        "象印",
+        "炎舞炊き",
+        "炊飯器"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "サムスンの移し替え不要な省スペース洗濯乾燥機、米メディアが検証",
-      "summary_ja": "サムスンが投入した洗濯乾燥一体型マシンは、洗濯物を別の乾燥機へ移し替えることなく全自動で仕上げられる省スペース設計が特徴です。米紙ニューヨーク・タイムズが、この新しい一体型機が本当に洗濯の負担を軽減するのか実機を検証しています。",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/wirecutter/reviews/samsung-bespoke-ai-vented-laundry-combo-review/",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "洗濯乾燥機 一体型",
-        "ドラム式洗濯乾燥機",
-        "サムスン 洗濯機"
-      ],
+      "title_ja": "米ウォルマートが家電などを大幅値引きする先行セールを開始",
+      "summary_ja": "米小売り大手のウォルマートが、ブラックフライデーに先駆けたセールを開始した。大型家電や生活雑貨、デジタル製品などを対象に大幅な値引きを実施している。",
+      "source": "SSBCrack",
+      "url": "https://news.ssbcrack.com/walmart-launches-early-black-friday-sale-with-major-discounts-on-tech-and-appliances/",
+      "score": 70,
+      "commercial_score": 65,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ニンジャの完売していた1台3役エアフライヤー電子レンジが再入荷",
-      "summary_ja": "調理家電ブランドのニンジャ（Ninja）が展開する1台3役の調理器具「Crispi」が再入荷しました。エアフライヤーと電子レンジの機能を兼ね備えた人気製品で、品切れが続いていました。",
-      "source": "Ideal Home",
-      "url": "https://www.idealhome.co.uk/all-rooms/small-appliances/ninja-crispi-microwave-air-fryer-back-in-stock",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Ninja エアフライヤー",
-        "ノンフライヤー オーブン",
-        "電子レンジ エアフライヤー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "スロークッカー兼用ガラス製エアフライヤー、1台2役で人気集める",
-      "summary_ja": "マニフィーク（Magnifique）のマルチクッカーは、ガラス製エアフライヤーとスロークッカーの2つの機能を1台に集約した調理家電です。中が見える洗練されたデザインで、扱いやすさと省スペースを両立しています。秋のキッチンで活躍する便利な調理器として評価されています。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/home/kitchen-and-household/review-of-glass-air-fryer-and-slow-cooker/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ガラス エアフライヤー",
-        "スロークッカー",
-        "マルチクッカー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国でロボット掃除機と床拭き機の価格競争が激化、買い替え補助金も",
-      "summary_ja": "中国のEC大手などでロボット掃除機や水拭き掃除機を対象とした大規模な価格競争が始まっています。29の省と市で家電買い替え補助金の対象となっており、1台あたり最大1500元（15％）の補助やクーポンが適用されます。",
+      "title_ja": "京東がエアフライヤーの性能表示を検証する品質評価イベントを開催",
+      "summary_ja": "中国EC大手の京東が、キッチン小型家電の品質検証イベントを開催した。エアフライヤーの容量や出力、温度制御などの虚偽表示をなくすため、多数の消費者が参加して実機を比較評価している。",
       "source": "手机新浪网",
-      "url": "https://t.cj.sina.cn/articles/view/2650591473/9dfcd0f100102p504",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ロボット掃除機 水拭き",
-        "床拭き掃除機",
-        "水拭きクリーナー"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "可零、吸引ファン不要の静音水拭き掃除機「F1」を発表",
-      "summary_ja": "スマート清潔家電ブランドの可零（cornlife）は、深圳の展示会で水拭き掃除機の新モデル「F1」を披露しました。送風ファンに頼らない新技術を採用し、より軽くて静かな使い心地を実現しています。コードレス掃除機などとともに清掃の新しい形を提案しています。",
-      "source": "智电网",
-      "url": "http://news.zdwang.com/a/202610/21102377.html",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "水拭き掃除機",
-        "静音 洗地機",
-        "コードレス掃除機 水拭き"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "COMFEE'、インバーター搭載の上開き冷凍庫シリーズを新発売",
-      "summary_ja": "家電ブランドのCOMFEE'が、インバーターを搭載した上開き冷凍庫シリーズを新たに発売しました。一人暮らしからファミリー世帯まで用途に合わせて選べるよう、99L、143L、198Lの3つの容量を用意しています。",
-      "source": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=000000316.000115454&g=prt",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "COMFEE 冷凍庫",
-        "上開き 冷凍庫",
-        "小型 冷凍庫"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ソウイジャパンの土鍋炊飯器、Makuakeで支援金3千万円を突破",
-      "summary_ja": "ソウイジャパンがクラウドファンディングのMakuakeで展開中の「釜の土鍋炊飯器 2合」が、開始から7日間で応援購入総額3000万円を突破しました。本格的な土鍋ごはんを手軽に炊ける2合炊きの炊飯器として注目を集めています。",
-      "source": "Dellows News",
-      "url": "https://news.dellows.jp/775896/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "土鍋炊飯器",
-        "ソウイジャパン",
-        "2合炊き 炊飯器"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "電子レンジを置かないキッチンが増加、代わりの卓上調理家電が台頭",
-      "summary_ja": "従来の電子レンジを置かずに設計されるキッチンが増加傾向にあります。電子レンジの代わりにどのような卓上調理家電が普及しているのかや、それぞれの利点、レンジを残すべき場面について解説されています。",
-      "source": "TheCoolist",
-      "url": "https://www.thecoolist.com/goodbye-to-the-microwave-the-appliance-more-and-more-kitchens-are-replacing-it-with-h2r4-g1b/",
+      "url": "https://t.cj.sina.cn/articles/view/3172302792/bd157fc802001kl84",
       "score": 70,
       "commercial_score": 65,
       "product_keywords": [
-        "卓上調理家電",
-        "コンベクションオーブン",
-        "エアフライヤー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ベラのスリム型エアフライヤー、大容量と省スペース両立で高評価",
-      "summary_ja": "調理家電ブランドのベラ（Bella）が展開する6クォートのスリムエアフライヤーが注目されています。設置面積を抑えたスリム設計でありながら家族分の調理に対応し、290件以上のレビューで平均4.6星と高い満足度を得ています。",
-      "source": "The Inventory",
-      "url": "https://theinventory.com/bella-6qt-slim-air-fryer-oatmilk-a9203a88",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ノンフライヤー 大容量",
-        "スリム エアフライヤー",
-        "Bella エアフライヤー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国浄水器大手アンジェル、厨房全体の水質を高める新技術を発表へ",
-      "summary_ja": "浄水器大手の安吉爾（Angel）が新製品発表会を予告し、厨房用水の新たなトレンドを提示します。健康意識の高まりを背景に、単に安全な水を飲むだけでなく、料理や野菜洗いなどキッチン全体の水質向上を求める需要に応えます。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.cn/tech/2026-10-20/detail-inivwcmp5774842.d.html?vt=4",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "アンジェル 浄水器",
-        "キッチン用 浄水器",
-        "ビルトイン 浄水器"
+        "エアフライヤー",
+        "ノンフライヤー"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "エアフライヤーの油汚れ、手作りペーストの浸け置きで手軽に除去",
-      "summary_ja": "人気の調理家電であるエアフライヤーは、性能や衛生状態を維持するために定期的な掃除が欠かせません。バスケットにこびりついた油汚れは、自作の洗浄ペーストに浸け置きすることで簡単に落とせると紹介されています。日々の後片付けの負担を軽くする掃除術です。",
-      "source": "Daily Express",
-      "url": "https://www.express.co.uk/life-style/food/2259161/air-fryer-grease-cleaning-hacks-natural",
+      "title_ja": "LOWYAが省スペースを叶えるコンパクト家電4品を発売",
+      "summary_ja": "家具ブランドのLOWYAから、限られた住空間を有効に活用できるコンパクト家電4品が登場した。小ささと多機能性を兼ね備え、快適な暮らしを支える。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19907969?news_ref=20_20",
       "score": 65,
-      "commercial_score": 50,
+      "commercial_score": 85,
       "product_keywords": [
-        "ノンフライヤー",
-        "エアフライヤー 掃除",
-        "重曹 ペースト"
+        "LOWYA",
+        "コンパクト家電"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "KEYUCAが食洗機で洗えて焦げ付きにくい土鍋シリーズを発売",
+      "summary_ja": "KEYUCAから、内側にセラミックコーティングを施した食洗機対応の土鍋シリーズが登場した。焦げ付きが落としやすく、冷たい水での後片付けの負担を軽減する。",
+      "source": "ラブすぽ",
+      "url": "https://love-spo.com/article/%E5%86%AC%E3%81%AE%E6%B4%97%E3%81%84%E7%89%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%82%92%E8%BB%BD%E6%B8%9B%E3%80%82keyuca%E3%81%8B%E3%82%89%E3%81%8A%E6%89%8B%E5%85%A5%E3%82%8C%E3%81%97%E3%82%84/",
+      "score": 65,
+      "commercial_score": 90,
+      "product_keywords": [
+        "KEYUCA",
+        "食洗機対応 土鍋"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "食洗機の自動ドアオープン機能が結露やにおい対策として普及",
+      "summary_ja": "食洗機の運転終了直後に自動で扉を開ける機能が普及している。庫内の結露や悪臭の発生を防いで自然乾燥を促す手法として、主要メーカーが採用を進めている。",
+      "source": "cristinaiglesias.com",
+      "url": "https://cristinaiglesias.com/newsday/newly-released-dishwasher-features-open-the-door-automatically-as-air-drying-debates-escalate/",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "食洗機",
+        "食器洗い乾燥機"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ベランダ設置の洗濯機用カバー、紫外線対策での選び方を検証",
-      "summary_ja": "日当たりの良いベランダに置く洗濯機の日焼け防止カバーについて、選び方の基準が検証されています。紫外線対策としてUPF50+の生地や劣化しにくいコーティング素材を選ぶことが推奨されており、価格帯は30〜150元が主流となっています。",
-      "source": "手机新浪网",
-      "url": "https://www.sina.cn/gc/article/nivysyi5435484.html",
+      "title_ja": "家庭で電力を大きく消費する衣類乾燥機と節電の見直し",
+      "summary_ja": "米国の家庭において、冷蔵庫や洗濯機よりも衣類乾燥機が電気代の大きな負担になっていると指摘されている。消費電力を抑えるための日頃の使い方の見直しが呼びかけられている。",
+      "source": "TheCoolist",
+      "url": "https://www.thecoolist.com/neither-the-fridge-nor-the-washing-machine-the-appliance-that-can-use-as-much-electricity-as-both-of-them-combined-h2r4-m1/",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "衣類乾燥機"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中が見えるガラス製バスケット採用のエアフライヤーが登場",
+      "summary_ja": "ネスター・ホームクックの6.2リットル容量のガラス製エアフライヤーが紹介された。透明なバスケットで調理の様子が確認しやすく、料理の温め直しに優れた性能を発揮する。",
+      "source": "MySmartPrice",
+      "url": "https://www.mysmartprice.com/gear/appliances/appliances-reviews/nester-home-cook-6-2l-glass-air-fryer-review-distinctive-design-meets-everyday-convenience/",
       "score": 65,
       "commercial_score": 80,
       "product_keywords": [
-        "洗濯機カバー 屋外",
-        "洗濯機 紫外線 防水 カバー",
-        "ベランダ 洗濯機"
+        "エアフライヤー",
+        "ノンフライヤー",
+        "ガラス"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "3COINSのにんにくを刻める時短調理グッズがSNSで話題",
+      "summary_ja": "3COINSの調理器具「ガーリックツイスト」が注目を集めている。ひねるだけでにんにくのみじん切りができ、手ににおいが付きにくく時短につながる設計となっている。",
+      "source": "All About ニュース",
+      "url": "https://news.allabout.co.jp/articles/o/131874/",
+      "score": 60,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ガーリックツイスト",
+        "3COINS",
+        "みじん切り器"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "家電の誤った使い方で電気代が余計にかかる日常の注意点",
+      "summary_ja": "食洗機や洗濯、暖房器具の誤った使い方が光熱費を増やす要因として挙げられている。待機電力の放置など、日常の習慣を見直して無駄な出費を抑える工夫が紹介されている。",
+      "source": "www.saga.co.uk",
+      "url": "https://www.saga.co.uk/magazine/homes/appliance-mistakes-energy-bills",
+      "score": 60,
+      "commercial_score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

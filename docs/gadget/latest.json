@@ -1,283 +1,274 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T15:38:48+09:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T15:38:23+09:00",
   "stories": [
     {
-      "title_ja": "ナッシング、新型スマホを10月27日に日本発売へ",
-      "summary_ja": "新型スマートフォン「Nothing Phone (4b)」が日本向けに10月27日に発売される。価格は5万9800円で予約受付が始まっており、FeliCaに対応する。楽天モバイルでも取り扱われる。",
-      "source": "s-max.jp",
-      "url": "https://s-max.jp/archives/1801917.html",
-      "score": 85,
+      "title_ja": "アップル初の折りたたみ機「iPhone Duo」発売へ",
+      "summary_ja": "アップルは同社初の折りたたみ型スマートフォンとなる「iPhone Duo」を発売する。また今月配信予定のiOS 27.2により、Siri AIが日本語に対応することも案内されている。",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
+      "score": 95,
       "commercial_score": 90,
       "product_keywords": [
-        "Nothing Phone",
-        "スマートフォン"
+        "iPhone Duo",
+        "Apple"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "富士通、約634gの世界最軽量14型ノートPCを発表",
-      "summary_ja": "富士通クライアントコンピューティングが2026年冬モデルのノートPC全5シリーズを発表した。14.0型で世界最軽量となる約634gの「FMV Note U」などが揃う。10月23日より順次販売が開始される。",
-      "source": "エルミタージュ秋葉原",
-      "url": "https://www.gdm.or.jp/pressrelease/2026/1022/657330",
-      "score": 85,
-      "commercial_score": 80,
+      "title_ja": "ソニーが新型PlayStation Pulseヘッドホンの価格を発表",
+      "summary_ja": "ソニーはPlayStation 5向けの最新ヘッドセット「PlayStation Pulse」の価格および発売日を公表した。PS5ユーザー向けに刷新されたオーディオ機器となっている。",
+      "source": "VICE",
+      "url": "https://www.vice.com/en/article/playstation-confirms-price-and-release-dates-for-new-pulse-headphones/",
+      "score": 88,
+      "commercial_score": 85,
       "product_keywords": [
-        "FMV",
-        "ノートパソコン",
-        "富士通"
+        "PlayStation Pulse ヘッドセット",
+        "PS5 ヘッドホン"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "オッポ、2億画素カメラ3台搭載の最上位スマホを発表",
-      "summary_ja": "オッポ（Oppo）がフラッグシップスマートフォン「Find X10 Pro Max」をグローバル発表した。ハッセルブラッドと共同開発した2億画素カメラを3基搭載し、8K動画撮影に対応する。6.78インチの高速有機ELディスプレイを備える。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Oppo-Find-X10-Pro-Max-launches-globally-with-Samsung-s-new-ISOCELL-HPC-sensor-and-8K-video-recording.1430155.0.html",
+      "title_ja": "オッポが2億画素カメラ3基の旗艦スマホを世界発表",
+      "summary_ja": "オッポ（Oppo）はフラッグシップスマートフォン「Find X10 Pro Max」をグローバル向けに発表した。3基の2億画素カメラと2nmプロセスのチップを搭載している。欧州向けモデルには7,150mAhのバッテリーが搭載される。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/oppo-find-x10-pro-max-makes-its-global-debut-with-triple-200mp-cameras",
       "score": 85,
       "commercial_score": 75,
       "product_keywords": [
-        "Oppo",
-        "スマートフォン"
+        "Oppo スマートフォン",
+        "Oppo Find"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Insta360が電子ペーパー画面付きワイヤレスマイクを発売",
+      "summary_ja": "Insta360は新型のワイヤレスマイク「Insta360 Mic」を79.99ドルで発売した。電子ペーパーディスプレイやmicroSDカードスロットを備え、バッテリー持ちの良さを特徴としている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Insta360-Mic-launches-with-E-Ink-display-and-microSD-card-support-for-79-99.1431063.0.html",
+      "score": 82,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Insta360 マイク",
+        "Insta360 Mic"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "アップルの折りたたみスマホ、初期供給が制限される可能性",
-      "summary_ja": "アップルの折りたたみスマートフォンについて、製造の難しさから初期供給が制限される見通しが報じられた。当初は米国市場向けのみの提供となる可能性や、価格設定の難しさが指摘されている。",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2454260",
-      "score": 85,
+      "title_ja": "ファーウェイが「暢享100」シリーズを28日に発表へ",
+      "summary_ja": "華為（Huawei）はスマートフォン新機種「暢享100」シリーズを10月28日に発表すると予告した。10月23日より予約受付を開始しており、大容量バッテリーやKirinプロセッサの搭載が案内されている。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xS5tlY63cH",
+      "score": 82,
       "commercial_score": 70,
       "product_keywords": [
-        "Apple",
-        "スマートフォン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "華為、1回の充電で3週間動くスマートウォッチを日本発表",
-      "summary_ja": "華為（ファーウェイ）・ジャパンが新型スマートウォッチ「HUAWEI WATCH GT 7」などを国内発表した。1回の充電で最長3週間駆動するバッテリー性能を備える。「GT 7 Pro」や「WATCH 6」もラインアップされる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/ae001421a873db4fd263dbbad30f618689ab5254",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "HUAWEI WATCH",
-        "スマートウォッチ",
+        "Huawei スマホ",
         "ファーウェイ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "エイスース、4K有機EL搭載の薄型高性能ノートPCを発表",
-      "summary_ja": "エイスース（Asus）が薄型ノートPC「ProArt P16」を発表した。高精細な4K有機ELパネルや優れた音響システムを搭載する。クリエイター向けの高性能なウィンドウズ機として位置付けられている。",
+      "title_ja": "アンカーがバッテリー寿命を延ばすノートPC充電器を発売",
+      "summary_ja": "アンカー（Anker）は米国で「Anker Laptop Charger Pro」を発売した。単一のUSB-Cポートから最大100Wの出力が可能で、価格は59.99ドルとなっている。バッテリー寿命を最大40%延ばすとされるケア機能を備えている。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/The-Asus-ProArt-P16-will-be-a-major-rival-to-the-new-Apple-MacBook-Ultra.1430583.0.html",
+      "url": "https://www.notebookcheck.net/New-Anker-Laptop-Charger-Pro-launches-with-battery-care-features.1431759.0.html",
       "score": 80,
-      "commercial_score": 75,
+      "commercial_score": 90,
       "product_keywords": [
-        "ASUS",
-        "ProArt",
-        "ノートパソコン"
+        "Anker ノートPC 充電器",
+        "Anker 100W USB-C"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "オナー、新型ゲーミングスマホ「WIN2」シリーズを発表",
-      "summary_ja": "オナー（Honor）がゲーミング向けスマートフォン「WIN2」シリーズを発表した。大画面タブレットなどの関連製品とともに展開され、価格は補助金適用後で3149元からとなる。本体の冷却性能などゲーム用途を重視した仕様となっている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1091069156_114760",
+      "title_ja": "サムスンが中国向け高級折りたたみ機「W27」を29日発表へ",
+      "summary_ja": "サムスン電子（Samsung）が中国市場向けの高級折りたたみスマートフォン「W27」を10月29日に正式発表する見通しとなった。核心的なスペックはGalaxy Z Fold8 Ultraと同等になる予定と報じられている。",
+      "source": "cnBeta.COM",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583482.htm",
       "score": 80,
-      "commercial_score": 75,
+      "commercial_score": 65,
       "product_keywords": [
-        "Honor",
-        "スマートフォン"
+        "Samsung Galaxy Fold",
+        "サムスン 折りたたみスマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "プラウド、イヤホン型の新型AIボイスレコーダーを発表",
-      "summary_ja": "プラウドが新型の録音機器「Plaud One」を発表した。ワイヤレスイヤホン型を採用しており、オンラインや対面での録音に対応する。進化したAIエージェント機能を備え、音声操作で作業を行える。",
-      "source": "Gizmodo",
-      "url": "https://www.gizmodo.jp/article/2610-plaud-one-review-ai-voice-recorder/",
-      "score": 75,
+      "title_ja": "デルが有機ELディスプレイ搭載の新型XPS 16を発売",
+      "summary_ja": "デル（Dell）はクリエイター向けノートPC「XPS 16」の最新モデルを世界各国で発売した。最大128GBのメモリや120Hz可変リフレッシュレート対応の有機ELディスプレイ、99Whのバッテリーを搭載している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Dell-releases-new-XPS-16-laptop-globally-with-1-600-nit-OLED-display-and-up-to-128-GB-RAM.1431301.0.html",
+      "score": 78,
       "commercial_score": 80,
       "product_keywords": [
-        "Plaud",
-        "AIボイスレコーダー"
+        "Dell XPS 16",
+        "Dell ノートパソコン"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "アンカー、画面付き100W多機能電源アダプターを発売",
-      "summary_ja": "アンカー（Anker）が画面表示機能を備えた4ポート充電器「Universal Charger」の展開国を拡大した。最大100Wの出力に対応し、4台の機器を同時に充電できる。200カ国以上で使えるプラグ形状を備える。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-Anker-4-in-1-travel-adapter-with-display-launches-in-more-countries.1429871.0.html",
+      "title_ja": "オナーがアクティブ冷却を備えた電競スマホ「WIN2」を発表",
+      "summary_ja": "荣耀（Honor）はゲーム特化型スマートフォン「WIN2」シリーズを発表した。フラッグシップ級チップやアクティブ冷却機構、大容量バッテリーを搭載し、価格は3,149元からとなっている。",
+      "source": "搜狐",
+      "url": "https://m.sohu.com/a/1091225838_120333371",
+      "score": 78,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Honor スマホ",
+        "ゲーミングスマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ワンプラスがゲーム時の発熱を抑える新冷却技術を公開",
+      "summary_ja": "ワンプラス（OnePlus）は最新スマートフォン「Ace 7」シリーズに搭載する新たな冷却システムを公表した。ゲームプレイ時の端末温度を最大10度下げられるとしており、10月29日に中国で正式発表される。",
+      "source": "Notebookcheck CN",
+      "url": "https://www.notebookcheck-cn.com/OnePlus-10-29.1431159.0.html",
+      "score": 76,
+      "commercial_score": 70,
+      "product_keywords": [
+        "OnePlus Ace",
+        "OnePlus スマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "Switch2用タッチペン2製品がサイバーガジェットから登場",
+      "summary_ja": "サイバーガジェットは、Nintendo Switch 2向けアクセサリーの新製品を発売した。「CYBER・2WAYタッチペン」と「CYBER・シンプルタッチペン」の2種類を用意している。参考価格はそれぞれ1,210円と765円となっている。",
+      "source": "GAME Watch",
+      "url": "https://game.watch.impress.co.jp/docs/news/2150572.html",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "Anker",
-        "充電器",
-        "電源アダプター"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アルファシータ、DJ向け小型ワイヤレスヘッドホンを発表",
-      "summary_ja": "アルファシータ（AlphaTheta）がDJ用ヘッドホンの新機種「HDJ-F9」を発表した。独自のワイヤレス技術「SonicLink」を小型のオンイヤー設計に搭載している。価格は329ポンドとなっている。",
-      "source": "Trusted Reviews",
-      "url": "https://www.trustedreviews.com/news/alphathetas-latest-pair-of-headphones-are-the-perfect-partner-for-djs",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "AlphaTheta",
-        "ヘッドホン",
-        "DJ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ソニーの新型ヘッドホン「WH-1000XM4C」を検証",
-      "summary_ja": "ソニーのワイヤレスヘッドホン「WH-1000XM4C」の実機レビューが公開された。専門家が2週間にわたって使用し、現在のヘッドホン環境における使い勝手や位置付けを検証している。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/sony-wh-1000xm4c-headphones-review",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ソニー",
-        "WH-1000X",
-        "ヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "サムスン、ギャラクシー向け新システム「One UI 9」の配信拡大",
-      "summary_ja": "サムスン電子が「Galaxy」シリーズ向けソフトウェア「One UI 9」の提供範囲を拡大している。米国に加えてより幅広い地域への配信が進められている。利用中の端末へのアップデート適用が案内されている。",
-      "source": "Samsung Magazine",
-      "url": "https://samsungmagazine.eu/zh-CN/2026/10/21/one-ui-10-21-2026/",
-      "score": 75,
-      "commercial_score": 50,
-      "product_keywords": [
-        "Galaxy",
-        "サムスン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ワンプラス、新型スマホ「Ace 7」シリーズを29日発表へ",
-      "summary_ja": "ワンプラス（OnePlus）が新型スマートフォン「Ace 7」と「Ace 7 Pro」の発表会を10月29日に開催すると告知した。性能向上を前面に打ち出した2種類のフラッグシップモデルとして登場する予定となっている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1090993499_114760",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "OnePlus",
-        "スマートフォン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "オットキャスト、車載用ワイヤレス接続アダプターの新型を発売",
-      "summary_ja": "オットキャストから車載用の新モデル「U2Air Neo」が登場した。車内でスマートフォンをケーブル接続する手間を省き、ワイヤレスで利用できる。接続の安定性にも配慮された設計となっている。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19904858?news_ref=top_newComments",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Ottocast",
-        "U2Air Neo",
-        "車載"
+        "Switch2 タッチペン",
+        "サイバーガジェット タッチペン"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ベースアス、新型アイフォーン対応の薄型磁気充電器を発売",
-      "summary_ja": "ベースアス（Baseus）が「iPhone Duo」に対応したQi2規格のマグセーフ対応モバイルバッテリーを発売した。従来のバッテリーでは装着時に不都合が生じる問題に対応している。発売記念のセールも案内されている。",
+      "title_ja": "テスラが家電へ給電できるアダプターを発表",
+      "summary_ja": "テスラは車両の充電口から家電へ給電できるV2Lアダプターを2027年1月に発売すると発表した。新型のModel 3、Model Y、Model Y Lに対応し、価格は15,000円を予定している。",
+      "source": "Touch Lab",
+      "url": "https://touchlab.jp/2026/10/tesla-v2l-adapter-japan/",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "テスラ 給電アダプター",
+        "V2L アダプター"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "カロスがソーラー充電対応サイクルコンピューターを発表",
+      "summary_ja": "カロス（Coros）は最新のサイクルコンピューター「Dura 2」を発表した。太陽電池とMiPディスプレイの組み合わせにより、十分な日光があれば実質無制限のバッテリー駆動が可能だとしている。音声操作への対応や、軽量で防水のカーボンファイバー製筐体も採用している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Coros-Dura-2-with-MiP-display-and-solar-promises-unlimited-battery-life.1431453.0.html",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Coros サイクルコンピューター",
+        "Coros Dura"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Amazfitのスマートウォッチにリアルタイム位置共有機能が追加",
+      "summary_ja": "アマズフィット（Amazfit）は「T-Rex Dual Solar」向けに新機能「LiveShare」を提供開始した。リアルタイムのGPS位置情報や心拍数、標高データを送信でき、ブラウザリンクを通じて家族などが登山時の安全を見守ることができる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/amazfit-liveshare-safety-feature-t-rex-dual-solar",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Amazfit T-Rex",
+        "Amazfit スマートウォッチ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "BaseusがiPhone Duo対応のQi2モバイルバッテリーを投入",
+      "summary_ja": "ベースアス（Baseus）は新型の「iPhone Duo」に対応したQi2規格のMagSafeモバイルバッテリーを発売した。既存のバッテリーで生じやすい干渉を抑えたデザインとなっている。",
       "source": "9to5Toys",
-      "url": "https://9to5toys.com/2026/10/21/baseus-new-iphone-duo-qi2-magsafe-power-bank-launch-deal/",
+      "url": "https://9to5toys.com/2026/10/22/baseus-new-iphone-duo-qi2-magsafe-power-bank-launch-deal/",
+      "score": 72,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Baseus MagSafe モバイルバッテリー",
+        "Qi2 モバイルバッテリー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "グラドがヘッドホン新作「Signature S150」を発表",
+      "summary_ja": "米音響機器メーカーのグラド（Grado）は、Signatureラインの最新ヘッドホン「Signature S150」を発表した。手頃な価格帯ながら豊かで音楽的なサウンド表現を目指しており、11月下旬より発売される予定となっている。",
+      "source": "What Hi-Fi?",
+      "url": "https://www.whathifi.com/headphones/wired-headphones/grados-latest-signature-line-headphones-promise-a-full-bodied-musical-presentation-at-an-accessible-price",
+      "score": 72,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Grado ヘッドホン",
+        "Grado Signature"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "車載システムを無線化するアダプター「U2Air Neo」発売",
+      "summary_ja": "オットキャスト（Ottocast）は車載アダプターの新製品「U2Air Neo」を発売した。純正の有線CarPlayやAndroid Autoをワイヤレス化でき、スマートフォン2台までの接続情報を記憶できる。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-22-102847-89/",
       "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "Baseus",
-        "モバイルバッテリー",
-        "MagSafe"
+        "Ottocast U2Air Neo",
+        "CarPlay ワイヤレスアダプター"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "スピークオン、AI音声操作ができるアイフォーン用ボタン発表",
-      "summary_ja": "スピークオン（SpeakON）がiPhoneの背面にマグネットで装着できる専用ボタンを発表した。内蔵されたAIエージェントが音声を認識し、メモや通知の作成、メール送信などを行う。画面操作を減らして音声で素早く作業できる。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/SpeakON-introduces-magnetic-iPhone-button-with-AI-powered-voice-actions.1429977.0.html",
+      "title_ja": "Rokuが144Hz対応の有機ELテレビ上位機を投入",
+      "summary_ja": "ロク（Roku）は「Pro Series LX OLED」テレビを発表した。144Hz駆動の有機ELパネルやWi-Fi 6、HDMI 2.1に対応し、2つの画面サイズを用意している。Amazon限定で1,299.99ドルから販売される。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/roku-pro-series-lx-oled-144hz-panel-starting-at-1299-99",
       "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "SpeakON",
-        "iPhone アクセサリー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ガーミン、スマートウォッチ向けに20項目以上の更新を配信",
-      "summary_ja": "ガーミン（Garmin）がスマートウォッチ「Venu 4」向けにベータ版更新の配信を開始した。14件の不具合修正を含む計23件の変更と機能改善が含まれている。対象プログラム向けに順次提供される。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Garmin-releases-major-update-to-popular-smartwatch-with-over-a-dozen-improvements.1430490.0.html",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "Garmin",
-        "スマートウォッチ",
-        "Venu"
+        "Roku テレビ",
+        "有機ELテレビ 144Hz"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ロールミー、地図やライトを備えた頑丈なスマートウォッチ発売",
-      "summary_ja": "ロールミー（Rollme）が59.99ドルの耐久性スマートウォッチ「Hero K1」を発売した。オフライン地図の案内機能やLEDライト、100種類以上の運動計測に対応する。大容量バッテリーや防水性能も備えている。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-affordable-smartwatch-promises-offline-maps-an-LED-flashlight-and-100-sports-modes.1430036.0.html",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "スマートウォッチ",
-        "アウトドア"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ラバ、背面に画面を備えた新型5Gスマホをインドで発表",
-      "summary_ja": "インドのラバ（LAVA）が新シリーズ「Aura Curve 5G」を発表した。背面に小型の有機ELディスプレイを備え、5000万画素のソニー製カメラを搭載する。価格は2万3999ルピーとなっている。",
-      "source": "MobiGyaan",
-      "url": "https://www.mobigyaan.com/lava-aura-curve-5g-india",
+      "title_ja": "JBLが秋の新作オーディオやイヤホンを展開",
+      "summary_ja": "JBLが秋の新作オーディオ機器やイヤホンを発表した。日々の生活で心地よく音楽を聴ける環境づくりを提案している。",
+      "source": "ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2610-harman-exploretokyo2026/",
       "score": 65,
-      "commercial_score": 60,
+      "commercial_score": 85,
       "product_keywords": [
-        "スマートフォン",
-        "LAVA"
+        "JBL イヤホン",
+        "JBL スピーカー"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

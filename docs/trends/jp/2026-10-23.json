@@ -1,0 +1,147 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T16:10:04+09:00",
+  "trends": [
+    {
+      "keyword": "iPhone Duo",
+      "reason_ja": "アップル初となる折りたたみ型スマートフォンが発売されたため。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "iPhone Duo",
+        "スマホケース"
+      ],
+      "product_keywords_ja": [
+        "iPhone Duo ケース",
+        "折りたたみ スマホ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "折りたたみiPhone発売で品薄と転売が発生",
+          "summary_ja": "アップル初となる折りたたみ式スマートフォンが発売されました。高額な価格設定ながら予約時から人気が集中し、品薄や転売の動きが起きています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6599790"
+        },
+        {
+          "title_ja": "アップルの折りたたみスマホ発売に購入客の列",
+          "summary_ja": "アップル初の折りたたみ型スマートフォンが国内で発売され、旗艦店には事前予約した来店客が並びました。高価格帯ながら初の大画面に対する期待が高まっています。",
+          "source": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/"
+        }
+      ]
+    },
+    {
+      "keyword": "ポータブル電源",
+      "reason_ja": "防災意識の高まりやセール開催に合わせて最新のポータブル電源に関心が集まっているため。",
+      "genre": "outdoor",
+      "commercial_score": 90,
+      "product_keywords": [
+        "ポータブル電源",
+        "ソーラーパネル"
+      ],
+      "product_keywords_ja": [
+        "Jackery ポータブル電源",
+        "ソーラーパネル 防災"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "防災対策に適したポータブル電源の新色が発売",
+          "summary_ja": "災害時のライフライン確保としてポータブル電源が注目されています。大容量かつ扱いやすい定番モデルに新色が加わり、家庭用備蓄としての実用性が評価されています。",
+          "source": "ヨムーノ",
+          "url": "https://yomuno.jp/posts/141328"
+        },
+        {
+          "title_ja": "楽天市場でソーラーパネルの大幅割引クーポン配布",
+          "summary_ja": "公式ストアにおいてソーラーパネルの大幅割引クーポンが配布されます。ポイント還元も適用され、防災や節電の備えとしてお得に購入できる機会となっています。",
+          "source": "Jetstream",
+          "url": "https://jetstream.blog/2026/10/22/jackery-solarsaga-100-prime-rakuten-discount-coupon-20261024/"
+        }
+      ]
+    },
+    {
+      "keyword": "Switch 2",
+      "reason_ja": "Switch 2向けソフトの登場や小型版モデルに関する報道が話題を集めているため。",
+      "genre": "gadget",
+      "commercial_score": 88,
+      "product_keywords": [
+        "Switch 2",
+        "ゲームソフト"
+      ],
+      "product_keywords_ja": [
+        "任天堂スイッチ",
+        "Switch 2 カバー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Switch 2向けに人気銃撃戦ゲームが登場",
+          "summary_ja": "人気アクションゲームシリーズの新作が発売されました。迫力ある戦場を舞台にした大人向けのゲーム体験が提供されています。",
+          "source": "Nintendo",
+          "url": "https://www.nintendo.com/jp/topics/article/66e77dbe-a23e-4e33-8ddb-fe0bf34098d5"
+        },
+        {
+          "title_ja": "Switch 2小型版にサムスン新技術導入の噂",
+          "summary_ja": "小型化や機能を絞った新モデルの噂があるなか、チップ製造に活用できる新技術の導入が報じられています。省電力化や軽量化への貢献が期待されています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/expert/articles/16c4a6f7182a2e7e08ef22fe34bed99491bb96da"
+        }
+      ]
+    },
+    {
+      "keyword": "自動運転車",
+      "reason_ja": "テスラがヒト型ロボットや無人タクシーの販売計画を相次いで発表したため。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "テスラ",
+        "ロボット"
+      ],
+      "product_keywords_ja": [
+        "テスラ グッズ",
+        "ロボット掃除機"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "テスラ、ヒト型ロボットの外部出荷を視野",
+          "summary_ja": "テスラを率いるマスク氏が、ヒト型ロボットの外部企業向け出荷について言及しました。来年末までの開始を目指すとしており、ロボット事業の進展に注目が集まっています。",
+          "source": "ダイヤモンド・オンライン",
+          "url": "https://diamond.jp/articles/-/401683"
+        }
+      ]
+    },
+    {
+      "keyword": "ジェームズ・ボンド",
+      "reason_ja": "映画『007』シリーズの次期主演を決める最終オーディションの候補者が報じられたため。",
+      "genre": "other",
+      "commercial_score": 55,
+      "product_keywords": [
+        "007",
+        "ブルーレイ"
+      ],
+      "product_keywords_ja": [
+        "ジェームズ・ボンド DVD",
+        "007 グッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "映画007の次期ジェームズボンド候補が判明",
+          "summary_ja": "歴代に続く新たなジェームズ・ボンドを選定する最終テストが始まる見通しとなりました。有力な俳優陣が候補に挙がり、配役に大きな関心が寄せられています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/b962e765f2960f8240dc44c4dc90b992bf235603"
+        }
+      ]
+    }
+  ]
+}
