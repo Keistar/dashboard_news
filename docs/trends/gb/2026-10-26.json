@@ -1,0 +1,131 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T16:08:16+09:00",
+  "trends": [
+    {
+      "keyword": "Christmas gifts",
+      "reason_ja": "年末のホリデーシーズンに向けておすすめのギフト特集や旅行プランが公開されたため。",
+      "genre": "sale",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Christmas gifts",
+        "luxury gift set",
+        "festive presents"
+      ],
+      "product_keywords_ja": [
+        "クリスマス ギフト",
+        "コフレ プレゼント",
+        "ホリデーギフト"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "女性向けクリスマスギフトの最新特集が公開",
+          "summary_ja": "幅広い世代に向けて厳選された贈り物の特集が掲載されました。定番の名品から心地よいアイテムまで幅広く紹介されています。",
+          "source": "Marie Claire UK",
+          "url": "https://www.marieclaire.co.uk/fashion/shopping/christmas-gift-guide-2026"
+        },
+        {
+          "title_ja": "冬の休暇を過ごす贅沢な宿泊先プラン特集",
+          "summary_ja": "休暇を特別に過ごすための宿泊施設情報がまとめられました。自然豊かなマナーハウスなど魅力的な滞在先が提案されています。",
+          "source": "Red magazine",
+          "url": "https://www.redonline.co.uk/travel/a74242494/christmas-breaks-uk/"
+        }
+      ]
+    },
+    {
+      "keyword": "Air fryer deals",
+      "reason_ja": "秋冬の調理家電セールでデザイン性の高いエアフライヤーや保温調理器が人気を集めているため。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "air fryer",
+        "heated lunch box",
+        "soup maker"
+      ],
+      "product_keywords_ja": [
+        "エアフライヤー",
+        "ノンフライヤー",
+        "スープメーカー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "おしゃれな新型オーブンの使い心地を検証",
+          "summary_ja": "スタイリッシュな調理家電の新型モデルが登場しました。大型化と使い勝手の向上を果たし食卓を彩る一台となっています。",
+          "source": "Ideal Home",
+          "url": "https://www.idealhome.co.uk/all-rooms/small-appliances/our-place-wonder-oven-pro"
+        },
+        {
+          "title_ja": "温かい食事を楽しめる保温式ランチボックス",
+          "summary_ja": "外出先でも温かい弁当が食べられる便利なケースが値下げされています。寒い季節に向けたお弁当作りを支えるアイテムです。",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/shopping/40771593/electric-heated-lunch-box-deal/"
+        }
+      ]
+    },
+    {
+      "keyword": "powerupgaming.co.uk",
+      "reason_ja": "ゲームメディアで新作インディータイトルの詳細インタビューや開発スタジオの動向が報じられたため。",
+      "genre": "gadget",
+      "commercial_score": 65,
+      "product_keywords": [
+        "indie games",
+        "Xbox game studio",
+        "PC games"
+      ],
+      "product_keywords_ja": [
+        "PCゲーム",
+        "ゲーミングPC",
+        "インディーゲーム"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "邪神シミュレーター新作の開発情報が公開",
+          "summary_ja": "開発者がメディアのインタビューに応じデビュー作の仕様を明かしました。独特の世界観を持つ新作ゲームとして話題になっています。",
+          "source": "Power Up Gaming",
+          "url": "https://powerupgaming.co.uk/2026/10/23/incorcism-interview-game-designer-sascha-ulreich-talks-inspirations-features-and-more-with-power-up-gaming/"
+        },
+        {
+          "title_ja": "ゲーム開発スタジオの今後に複数の選択肢",
+          "summary_ja": "傘下のスタジオを巡り今後の体制に関する報道がなされました。複数の解決策が模索されていると伝えられています。",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/report-microsoft-is-running-out-of-time-to-save-xbox-studio-arkane"
+        }
+      ]
+    },
+    {
+      "keyword": "dakota johnson",
+      "reason_ja": "俳優のダコタ・ジョンソンが新たな交際相手と公の場に登場しファッション誌で報じられたため。",
+      "genre": "beauty",
+      "commercial_score": 60,
+      "product_keywords": [
+        "casual chic outfit",
+        "celebrity style",
+        "designer sunglasses"
+      ],
+      "product_keywords_ja": [
+        "レディース サングラス",
+        "カジュアル ジャケット",
+        "トートバッグ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "俳優のダコタが休日の外出姿を披露",
+          "summary_ja": "話題の二人がカジュアルな装いで街中へ出かけた様子が伝えられました。落ち着いた私服スタイルが注目を集めています。",
+          "source": "Vogue",
+          "url": "https://www.vogue.co.uk/article/dakota-johnson-machine-gun-kelly"
+        }
+      ]
+    }
+  ]
+}

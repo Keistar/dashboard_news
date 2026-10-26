@@ -1,270 +1,241 @@
 {
   "genre": "outdoor",
   "genre_label_ja": "アウトドア",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:58:06+09:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:57:07+09:00",
   "stories": [
     {
-      "title_ja": "米アリゾナ州に6年ぶりとなる新国立公園が誕生",
-      "summary_ja": "米国で6年ぶりとなる新たな国立公園としてチリカフア国立公園が誕生した。高くそびえる火山岩の奇岩群や多彩な野生動物が生息する自然環境が広がっている。",
-      "source": "VICE",
-      "url": "https://www.vice.com/en/article/america-just-got-its-first-new-national-park-in-six-years-heres-what-to-know/",
-      "score": 78,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英湖水地方で冬時間移行に伴う遭難防止の注意喚起",
-      "summary_ja": "英国で冬時間への移行により日没が早まるため、山岳救助隊がハイカーに注意を促している。日没の早まりに気づかず下山できなくなる事態が多発する時期として警戒を強めている。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz06vx6llo",
-      "score": 78,
-      "commercial_score": 50,
-      "product_keywords": [
-        "ヘッドライト",
-        "登山"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ニコンが秋のキャンプ撮影に向けカメラ製品を提案",
-      "summary_ja": "晩秋の霜降を迎え、木々の色づきや朝霧が美しい秋のキャンプシーズンが訪れている。ニコン（Nikon）は自然探索やキャンプでの風景撮影に向け、多彩なカメラ機器と体験を提供している。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/dc/n/2026-10-23/doc-iniweqhs8155023.shtml?cre=tianyi&mod=pchp&loc=12&r=0&rfunc=19&tj=cxvertical_pc_hp&tr=12",
-      "score": 76,
-      "commercial_score": 88,
-      "product_keywords": [
-        "ニコン",
-        "ミラーレスカメラ",
-        "望遠レンズ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ノースフェイスの軽量パンツがキャンプに好適",
-      "summary_ja": "設営時の屈伸や焚き火チェアでの着座など、キャンプでは立ち座りの動きが頻繁に発生する。ノースフェイスのリッジライトパンツは突っ張らず快適に一日を過ごせる。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/750ba9cd9fd23d033bd79a81f6af7d3a9011b84d",
+      "title_ja": "5分で設営可能な10人用エアテントが登場",
+      "summary_ja": "アマゾンで最大10人が収容でき、わずか5分で設営できるインフレータブル式の大型グランピングテントが販売されている。天窓が付いた広々とした2部屋構造で、手軽に設営できる点が特徴となっている。",
+      "source": "Travel + Leisure",
+      "url": "https://www.travelandleisure.com/ficisog-10-person-inflatable-camping-tent-amazon-12190508",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "ノースフェイス",
-        "リッジライトパンツ"
+        "エアーテント",
+        "グランピング テント 10人用",
+        "インフレータブル テント"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ＳＮＳ主導の登山ツアーで安全への懸念が高まる",
-      "summary_ja": "資格を持たないインフルエンサーが登山初心者を山へ引率するツアーが増加し、事故のリスクが懸念されている。トラブル発生時の責任の所在など安全管理上の課題が浮き彫りになっている。",
-      "source": "Live for the Outdoors",
-      "url": "https://www.livefortheoutdoors.com/hiking/long-reads/influencer-led-mountain-hikes/",
+      "title_ja": "英政府助言に沿う防災兼アウトドア機器を検証",
+      "summary_ja": "停電や通信途絶に備えて手回し充電ラジオや懐中電灯の備蓄を促す英政府の助言を受け、両機能を備えた29.99ポンドの小型機器の実機検証が行われた。アマゾンで購入できる本製品には、非常時に役立つ機能が複数まとめられている。",
+      "source": "NationalWorld",
+      "url": "https://www.nationalworld.com/recommended/government-emergency-kit-wind-up-radio-amazon-review-9306329",
       "score": 75,
-      "commercial_score": 45,
+      "commercial_score": 80,
+      "product_keywords": [
+        "手回し充電ラジオ",
+        "防災ラジオ 懐中電灯",
+        "サバイバルラジオ"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国華北で万龍スキー場が今季初の大型オープン",
-      "summary_ja": "万龍スキー場が営業を開始し、華北地区で今シーズン最初の大型屋外スキー場がオープンした。秋から冬へと移り変わり、本格的なウインタースポーツのシーズンが幕を開けた。",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719651.shtml",
-      "score": 74,
-      "commercial_score": 75,
+      "title_ja": "vivoが野外向け大容量電池スマホを投入",
+      "summary_ja": "中国のvivo（ヴィーヴォ）が、アウトドア用途を意識したスマートフォン「vivo Y600」の評価を公開した。10000mAhの大容量バッテリーや軍用規格に準拠した耐衝撃性、最高クラスの防水性能、電波の弱い場所での通信改善機能を備えている。",
+      "source": "凤凰网",
+      "url": "https://pingce.ifeng.com/c/8xX4zqo2ezD",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "スキー板",
-        "スノーボード",
-        "スキーウェア"
+        "大容量バッテリー スマホ",
+        "防水スマホ",
+        "タフネススマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "コンバースがアウトドア仕様の新作スニーカー",
-      "summary_ja": "コンバースから秋冬の新作としてアウトドア仕様のオールスターなどが登場した。日常の街履きになじむデザインと快適な履き心地を兼ね備えている。",
-      "source": "MEN'S NON-NO WEB",
-      "url": "https://www.mensnonno.jp/fashion/new-topics/803967/",
-      "score": 72,
-      "commercial_score": 86,
+      "title_ja": "コトパクシが丸の内に初の直営店を開設",
+      "summary_ja": "アメリカ発のアウトドアブランドであるコトパクシ（Cotopaxi）が、10月30日に新丸の内ビルディング4階へ直営店舗を出店する。丸の内エリア初進出となり、店舗限定商品や開店記念のノベルティも用意される。",
+      "source": "STRAIGHT PRESS",
+      "url": "https://straightpress.jp/20261026/1738498",
+      "score": 70,
+      "commercial_score": 85,
       "product_keywords": [
-        "コンバース",
-        "オールスター",
-        "スニーカー"
+        "Cotopaxi",
+        "コトパクシ リュック",
+        "アウトドアギア"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ヘリーハンセンが最新の防寒防水ギアを投入",
-      "summary_ja": "アウター大手のヘリーハンセン（Helly Hansen）が培った技術を生かした最新防寒ギアを展開している。過酷な寒さや湿気から身体を守る機能性を追求している。",
-      "source": "Outside Magazine",
-      "url": "https://www.outsideonline.com/outdoor-gear/snow-sports-gear/winters-best-new-gear-has-been-decades-in-the-making/",
-      "score": 72,
-      "commercial_score": 88,
+      "title_ja": "撮影もできる小型暗視双眼鏡が90ドル弱で登場",
+      "summary_ja": "手軽に持ち運べるポケットサイズの暗視双眼鏡が89.99ドルで発売された。観察対象を見つけた際は、毎秒30フレームの1080p動画の録画や、最大1200万画素の写真撮影ができる。",
+      "source": "Popular Science",
+      "url": "https://www.popsci.com/sponsored-content/take-night-vision-on-the-go-with-these-pocket-sized-binoculars-sponsored-deal/",
+      "score": 70,
+      "commercial_score": 85,
       "product_keywords": [
-        "ヘリーハンセン",
-        "アウトドアウェア",
-        "防水ジャケット"
+        "暗視双眼鏡",
+        "ナイトビジョン 双眼鏡",
+        "デジタル双眼鏡"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国陝西省が秦嶺の登山ルートにデジタル案内整備",
-      "summary_ja": "中国陝西省で秦嶺山脈の登山やハイキングルートを対象とした測量調査が完了した。複数のモデル路線で測量地理情報を活用したデジタル案内が整備され、安全なアウトドア活動を支える。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1091467098_121443915/?pvid=000115_3w_a&scm=thor.7445_13-101000-0_922.0-0.0-0-0-0-0.a2_5X151X1227&spm=smpc.home.travel-news.6.17927136030525oXoZw5_1467",
-      "score": 72,
-      "commercial_score": 45,
+      "title_ja": "幼児連れの英母親2人がトルコ縦断自転車旅",
+      "summary_ja": "イギリスの母親2人が、幼児を牽引しながらトルコを自転車で1000キロ走破する挑戦に乗り出す。親友同士の2人は、母親になっても冒険は諦める必要がないことを示したいと意気込んでいる。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cw30e6977jd4o",
+      "score": 70,
+      "commercial_score": 30,
+      "product_keywords": [
+        "サイクルトレーラー",
+        "チャイルドトレーラー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "澳琴キャンプ祭に2日間で2万人超が来場",
+      "summary_ja": "マカオと横琴の露営イベント「澳琴露営節」が開催され、2日間で延べ2万2000人を超える来場者を集めた。6つの展示エリアが設けられ、自然体験やアウトドアの生活提案、関連産業の交流などを通じてキャンプの魅力を発信した。",
+      "source": "手机搜狐网",
+      "url": "https://m.sohu.com/a/1092731689_100116740",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "キャンプ用品",
+        "アウトドア"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "デイトナのシートバッグ専用ギアケースが登場",
-      "summary_ja": "バイクキャンプで形状が異なる道具を整頓して荷崩れを防ぐ専用ケースの受注が行われている。行きだけでなく疲れた撤収時でもバッグ内をすっきりと整理できる。",
+      "title_ja": "高尾山口駅前でアウトドア市が開催へ",
+      "summary_ja": "高尾山の自然やアウトドアを満喫できるマーケットイベント「高尾山の市 野市」が、高尾山口駅前広場やホテル「タカオネ」で2026年10月31日と11月1日に開催される。会場ではアウトドア用品や山に関するアイテムが販売されるほか、トークショーやミニ講座なども実施される。",
+      "source": "八王子ジャーニー",
+      "url": "https://8dabe.com/2026/10/26/takaosan-noichi/",
+      "score": 65,
+      "commercial_score": 80,
+      "product_keywords": [
+        "アウトドア用品",
+        "登山ウェア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ノースフェイスの新作19Lリュックが特価",
+      "summary_ja": "ザ・ノース・フェイス（THE NORTH FACE）の新作となる19リットル容量のリュックがセール価格で登場した。荷物をすっきりと整理しやすい設計で、キャンプから普段の外出まで財布や携行品を手軽に持ち運べる。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/14728922e865781c4e184899d0fb86a8af81d57a",
-      "score": 70,
-      "commercial_score": 88,
+      "url": "https://news.yahoo.co.jp/expert/articles/3c5ea222beff974853adab4bfd46eb8fe8980784",
+      "score": 65,
+      "commercial_score": 95,
       "product_keywords": [
-        "デイトナ",
-        "シートバッグ",
-        "ギアケース"
+        "ザ・ノース・フェイス リュック 19L",
+        "ノースフェイス バックパック"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "コールマンの2口キャンプ用コンロが割引販売",
-      "summary_ja": "米アマゾンでコールマンの2バーナー式キャンプストーブが割引価格で販売されている。通常価格から値引きされ、秋のシーズンにお得に購入できる。",
-      "source": "Mashable",
-      "url": "https://mashable.com/life/oct-14-coleman-cascade-2-burner-camping-stove-deal",
-      "score": 70,
-      "commercial_score": 92,
+      "title_ja": "充電器兼用の防滴キャンプ用照明が登場",
+      "summary_ja": "WeatherXからキャンピングカーやテント内で使える全天候型のパックライトが登場した。マグネット式マウントを備えるほか、USB経由でギアへの充電も行える。",
+      "source": "Albuquerque Journal",
+      "url": "https://www.abqjournal.com/lifestyles/essential-overland-gear-lights-on-charge/3136884",
+      "score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "コールマン",
-        "キャンプストーブ",
-        "2バーナー"
+        "キャンプ ライト",
+        "USB充電式 ランタン",
+        "パックライト"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "下山時の怪我を防ぐ適切な準備を専門家が呼びかけ",
-      "summary_ja": "英国の湖水地方の山で下山時に怪我をするハイカーが多いことを受け、専門家が入山前の十分な準備を呼びかけている。疲労がたまる下山時のトラブルを防ぐため、事前の備えが推奨されている。",
-      "source": "Westmorland Gazette",
-      "url": "https://www.thewestmorlandgazette.co.uk/news/26657405.common-lake-district-walking-injuries-avoid/",
-      "score": 70,
-      "commercial_score": 65,
+      "title_ja": "マタドールの18L防水折りたたみ鞄を検証",
+      "summary_ja": "マタドール（Matador）の18リットル防水パッカブルバックパックについて、実機テストの評価が公開された。収納時のコンパクトさや背負い心地、耐久性を検証しており、旅行やハイキング、日常使いに適している。",
+      "source": "Treeline Review",
+      "url": "https://www.treelinereview.com/gearreviews/matador-18l-packable-backpack-review",
+      "score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "トレッキングポール",
-        "登山靴"
+        "マタドール リュック",
+        "防水 パッカブル バックパック",
+        "Matador 18L"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国のアウトドア大手三夫が倉庫にＲＦＩＤを導入",
-      "summary_ja": "中国のアウトドア用品大手「三夫戸外」が、スマート倉庫にRFID識別機器と搬送ロボットを導入する。物流と在庫管理のデジタル化を進め、出荷作業の効率化を図る。",
-      "source": "RFID世界网",
-      "url": "https://www.rfidworld.com.cn/news/2610_1ABB783A3696F35D.html",
-      "score": 70,
-      "commercial_score": 70,
+      "title_ja": "福建省の野外スポーツ祭が武夷山で開幕",
+      "summary_ja": "2026年の福建省アウトドアスポーツカーニバルが武夷山で開幕した。自然の中での野外アクティビティと生態系保護の普及啓発を結びつける取り組みが行われている。",
+      "source": "央广网",
+      "url": "https://www.cnr.cn/xmfw/xczx/20261025/t20261025_527852814.shtml",
+      "score": 65,
+      "commercial_score": 40,
       "product_keywords": [
-        "三夫戸外",
         "アウトドア用品"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "米アウトドアブランドが女性用防寒つなぎを発売",
-      "summary_ja": "コロラド州のアウトドアブランドが女性向けの冬用オーバーオールを発表した。登山や自転車、クライミングから旅行まで多用途に着こなせる設計となっている。",
-      "source": "Outdoor Sportswire",
-      "url": "https://www.outdoorsportswire.com/allover-apparel-introduces-womens-fooses-winter-overall/",
-      "score": 68,
-      "commercial_score": 85,
+      "title_ja": "ホンダの軽アウトドア車N-BOX JOYが話題",
+      "summary_ja": "ホンダのアウトドア向け軽自動車「N-BOX JOY」が、若者の暮らしの質を高めるモデルとして注目を集めている。シンプルで趣味に使いやすい仕様が評価される一方、国ごとの市場環境や価値観の違いによる適応も議論されている。",
+      "source": "手机新浪网",
+      "url": "https://k.sina.com.cn/article_5821676751_m15affbccf03301ekam.html",
+      "score": 65,
+      "commercial_score": 70,
       "product_keywords": [
-        "アウトドア",
-        "オーバーオール",
-        "防寒着"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国でアウトドア向け天然電解質飲料が登場",
-      "summary_ja": "運動やアウトドアでの補給に適した「王者英雄」の天然エネルギー電解質飲料が発売された。運動中の発汗で失われる水分やエネルギーを1本でまとめて補給できる設計となっている。",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_7879923706_1d5ae17fa06801fbh4.html?from=health",
-      "score": 68,
-      "commercial_score": 82,
-      "product_keywords": [
-        "スポーツドリンク",
-        "電解質"
+        "N-BOX キャンプ",
+        "軽キャンパー",
+        "車中泊グッズ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "アイヴォル偏光グラスを釣りキャンプで検証",
-      "summary_ja": "キャンプでは強い日差しだけでなく水面や路面からの照り返しにも直面する。反射光を抑える偏光サングラスがアウトドアでの視界確保に役立つ。",
-      "source": "fashion tech news",
-      "url": "https://fashiontechnews.zozo.com/articles/mori_fumi08",
-      "score": 65,
+      "title_ja": "コロンビアの防水アウトドア靴が好評",
+      "summary_ja": "コロンビア独自のアウトドアシューズが、雪道でも高い防水性を発揮するとして注目を集めている。山歩きから平地、毎日の通勤まで疲れにくく履ける点が支持されており、街中でも使いやすいデザインに仕上がっている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/eb5558af9fcb645ab54c7116380b9b274353315a",
+      "score": 60,
+      "commercial_score": 90,
+      "product_keywords": [
+        "コロンビア",
+        "アウトドアシューズ",
+        "防水シューズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "高知の大月町で専用RVキャンプを開始",
+      "summary_ja": "高知県大月町の大月エコロジーキャンプ場が、1日1組限定のプライベートRV宿泊プランを2026年11月1日から開始する。区画にはAC100V電源や常設のアウトドア用品のほか、ドッグアンカーが用意され快適に過ごせる。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/2009469",
+      "score": 60,
+      "commercial_score": 75,
+      "product_keywords": [
+        "キャンプ場",
+        "RVパーク",
+        "ドッグアンカー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "蓄光機能を備えた6ドルのカラビナが登場",
+      "summary_ja": "暗闇での紛失を防ぐ蓄光機能を搭載した、6ドルのキャンプ用カラビナが注目されている。日常やアウトドアの持ち歩き装備として、手頃な価格で利便性を高められる。",
+      "source": "Yanko Design",
+      "url": "https://www.yankodesign.com/2026/10/25/this-6-glow-in-the-dark-carabiner-might-be-camping-edcs-biggest-upgrade/amp/",
+      "score": 60,
       "commercial_score": 85,
       "product_keywords": [
-        "アイヴォル",
-        "偏光サングラス"
+        "蓄光 カラビナ",
+        "アウトドア カラビナ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英スカイ島で地域主導の持続可能キャンプ場が稼働",
-      "summary_ja": "スコットランドのスカイ島で、地域社会が所有するキャンプ場が持続可能な発展を後押ししている。地域の自然環境を守りながら観光振興と経済成長の両立を図る。",
-      "source": "Highland Council",
-      "url": "https://www.highland.gov.uk/news/article/17522/community-owned-camping-site-drives-sustainable-growth-on-the-isle-of-skye",
-      "score": 65,
-      "commercial_score": 40,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "北海道のキャンプ場で4周年祝うウイスキー催し",
-      "summary_ja": "北海道仁木町の里山にあるキャンプ場「ノチウアウトドアPARK」で開業4周年イベントが開催される。世界各地のウイスキーやグルメをキャンプ場で味わえる。",
-      "source": "北海道新聞デジタル",
-      "url": "https://www.hokkaido-np.co.jp/article/1393840/",
-      "score": 60,
-      "commercial_score": 45,
-      "product_keywords": [
-        "ウイスキー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "世界的アウトドアブランドが米オレゴン州に進出",
-      "summary_ja": "世界展開するアウトドアギアブランドが米オレゴン州ベンドの中心部に新店舗を開設する。地元スケート店の跡地に出店し、地域での拠点網を広げる。",
-      "source": "Bend Bulletin",
-      "url": "https://bendbulletin.com/2026/10/22/global-outdoor-brand-coming-to-downtown-bend/",
-      "score": 60,
-      "commercial_score": 65,
       "country": "us",
       "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "茅ヶ崎のキャンプ場で国際交流バーベキュー開催",
-      "summary_ja": "神奈川県茅ヶ崎市の柳島キャンプ場で国際交流バーベキューが開催される。外国籍と日本国籍の参加者が食事を囲みながら親睦を深め、生活の悩み相談も行える。",
-      "source": "湘南人",
-      "url": "https://shonanjin.com/event/chigasaki-international-exchange-bbq/",
-      "score": 55,
-      "commercial_score": 40,
-      "country": "jp",
-      "country_label_ja": "日本"
     }
   ]
 }

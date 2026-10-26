@@ -1,290 +1,228 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:49:51+09:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:48:08+09:00",
   "stories": [
     {
-      "title_ja": "バーガーキングが秋の新作マッシュルームワッパー発売と割引を実施",
-      "summary_ja": "バーガーキングは10月23日から、きのこを使った期間限定品「オータムスペシャル マッシュルームワッパー」など3商品を発売する。あわせて対象セット6種を最大300円引きで提供するキャンペーンも実施する。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/94b63575d10c187215ca0fa0bc011f06d90560a3",
+      "title_ja": "ファミマがフルーチェのアイスなど発売",
+      "summary_ja": "ファミリーマートはハウス食品と組み、10月27日に全国の約1万6500店で「フルーチェアイスバー イチゴ」を発売する。あわせてチルドカップの「のむフルーチェ イチゴ」も展開する。",
+      "source": "マイナビニュース",
+      "url": "https://news.mynavi.jp/article/20261026-5194303/",
       "score": 85,
       "commercial_score": 90,
       "product_keywords": [
-        "バーガーキング"
+        "フルーチェ",
+        "ハウス食品"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "クリスピー・クリームとヌテラがコラボ新作ドーナツ3種を発売へ",
-      "summary_ja": "クリスピー・クリーム・ドーナツ・ジャパンが、イタリアのチョコレートスプレッド「ヌテラ」と共同開発したドーナツ3種を11月1日から期間限定で販売する。ストロベリーの新作などがラインアップに登場する。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/ff97669ce4770e1682a4c9afcebc2a7394108f77",
-      "score": 80,
-      "commercial_score": 90,
+      "title_ja": "ゲノム編集の野菜や果物が英店頭へ",
+      "summary_ja": "英国でゲノム編集技術を用いたバナナやトマト、ジャガイモ、小麦などが店頭に並び始めている。黄色を保つバナナやビタミンを高めたトマトなど、食料供給の安定化に向けた活用が注目される。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/food-and-drink/features/gene-edited-food-britain-supermarkets-b3063445.html",
+      "score": 85,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "重慶で火鍋産業博覧会が開催され閉幕",
+      "summary_ja": "重慶市で「第11回中国火鍋産業博覧会」が閉幕した。甘粛省の定西幅広春雨（定西寛粉）など特産品が紹介され、2000社以上が参加して3日間で13万8000人の来場者を集めた。",
+      "source": "Sohu",
+      "url": "https://www.sohu.com/a/1092790268_120578424",
+      "score": 85,
+      "commercial_score": 75,
       "product_keywords": [
-        "ヌテラ",
-        "クリスピークリームドーナツ"
+        "火鍋の素",
+        "中国 春雨",
+        "寛粉"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "米バーガーキングがハローキティとコラボした限定キッズミールを発売",
-      "summary_ja": "米バーガーキングは、「ハローキティ＆フレンズ」とコラボレーションした子ども向けセットを10月20日から期間限定で提供している。メイン料理やサイドメニュー、ドリンクにおもちゃが1つ付く構成となっている。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/burger-king-hello-kitty-and-friends-king-jr-meal-12182747",
+      "title_ja": "イオンが全国でイタリアフェア開催へ",
+      "summary_ja": "イオンはグループの全国約3700店で、10月30日から11月3日までイタリアフェアを実施する。直輸入のジェラートやチーズのほか、バリラの新作パスタなどを揃える。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d70c927d095058c84d4ea1d7ca356f3938be78ec",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "ハローキティ"
+        "バリラ パスタ",
+        "ジェラート",
+        "イタリア チーズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "食品各社がスナックを食事代替品へ改良",
+      "summary_ja": "食品メーカーがスナック類を栄養豊富な食事の代替品へと進化させている。時間に追われ利便性を求める消費者の需要に応える。",
+      "source": "朝日新聞",
+      "url": "https://www.asahi.com/ajw/articles/16892503",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "完全栄養食",
+        "プロテインスナック",
+        "栄養バー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国の9月食品インフレ率は1.3％を維持、英統計局が発表",
-      "summary_ja": "英国国家統計局（ONS）によると、2026年9月の英国における食品・ノンアルコール飲料のインフレ率は1.3%にとどまった。全体の消費者物価指数（CPI）が3.5%に上昇する中で横ばいを維持した。",
-      "source": "Grocery Trade News",
-      "url": "https://www.grocerytradenews.com/uk-food-inflation-september-2026/",
+      "title_ja": "英外食の約4割がおひとりさま利用に",
+      "summary_ja": "飲食店を訪れる客の約4割を単独の客（ソロ客）が占めていることが明らかになった。近年は自分自身と出かける「ソロデート」の考え方が広まり、1人での外食を楽しむ人が増えている。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/solo-date-restaurant-visits-b3073035.html",
       "score": 80,
       "commercial_score": 50,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国で第115回全国糖酒商品交易会が開催され食産業の最新動向を紹介",
-      "summary_ja": "中国で第115回全国糖酒商品交易会が開幕し、食品・飲料産業の発展大会や酒類トレンドの推介会などが実施された。オンラインでの輸出入商談会や食品技術の交流など、産販連携を推進する場となっている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1091579896_250147",
+      "title_ja": "中国茶百道の秋の新作が3000万杯突破",
+      "summary_ja": "中国の人気ティードリンクチェーン「茶百道（チャバイダオ）」で、秋の新商品が好調な売れ行きを見せている。同社のデータによると、秋以降の累計販売数が3000万杯を突破した。",
+      "source": "红餐网",
+      "url": "http://www.canyin88.com/zhuanlan/hongcanbianjibu/2026/1026/114145.html",
       "score": 80,
-      "commercial_score": 70,
+      "commercial_score": 80,
       "product_keywords": [
-        "中国酒",
-        "中国茶"
+        "中国茶",
+        "フルーツティー"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ローソンストア100が11月の新商品としてすき焼き風肉まんなど6品発売",
-      "summary_ja": "ローソンストア100は、2026年11月4日から11月の新作全6品を順次発売する。大きなすき焼き風肉まんやキャラメルクリームのシュークリームなどが登場する。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/90c1e1901863617c5c488af79bb0ede675b9ab35",
+      "title_ja": "成城石井が人気ハンバーグを刷新",
+      "summary_ja": "成城石井は2000年から販売する看板ハンバーグシリーズを刷新し、2026年10月24日から全国の店舗や公式通販で発売した。黒毛和牛の比率を高めて肉の存在感を強化している。",
+      "source": "Excite エキサイト",
+      "url": "https://www.excite.co.jp/news/article/Ssnp_708680/",
       "score": 75,
-      "commercial_score": 85,
+      "commercial_score": 90,
       "product_keywords": [
-        "肉まん",
-        "シュークリーム"
+        "成城石井",
+        "ハンバーグ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "寿がきやがカップ麺「辛辛魚らーめん」シリーズの激辛新作を発売",
-      "summary_ja": "寿がきやのカップ麺「辛辛魚らーめん」シリーズから、新作「麺処井の庄監修 辛めの辛め辛辛魚らーめん」が2026年10月19日に発売された。辛辛レベル7.5とされた激辛の仕上がりとなっている。",
-      "source": "ロケットニュース24",
-      "url": "https://rocketnews24.com/2026/10/22/2833504/",
+      "title_ja": "セブン中華まん全品20円引きセールへ",
+      "summary_ja": "セブン‐イレブンは全国の店舗で、10月27日から31日までの5日間限定で中華まん全品を20円引きで販売する。店頭の中華まんすべてが対象となる。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_708548/",
       "score": 75,
-      "commercial_score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "辛辛魚",
-        "寿がきや",
-        "カップ麺"
+        "中華まん",
+        "肉まん"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米アウトバック・ステーキハウスが巨額投資でステーキ品質を刷新",
-      "summary_ja": "カジュアルダイニングチェーンのアウトバック・ステーキハウスが、ステーキの品質向上のために数百万ドルを投じてメニューを改良した。刷新したステーキを味わってもらうため、顧客に来店を呼びかけている。",
-      "source": "Restaurant Business Magazine",
-      "url": "https://www.restaurantbusinessonline.com/food/how-outback-steakhouse-created-its-best-steaks-ever",
+      "title_ja": "米ワンダーがAI活用の外食網を急速拡大",
+      "summary_ja": "米フードテック企業のワンダー（Wonder）が170店舗を展開し、買収に10億ドル超を投じている。さらにクリエイター向けに月額10ドルの飲食店開設支援AIツールを立ち上げる計画だ。",
+      "source": "Briefs Finance",
+      "url": "https://www.briefs.co/news/marc-lore-s-wonder-is-stitching-together-food-brands-electri/",
       "score": 75,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英キャドバリーの人気チョコが18年ぶり復活",
+      "summary_ja": "英菓子大手キャドバリーのチョコレート菓子「アストロス（Astros）」が、18年ぶりに英国の店頭へ復活した。宇宙をテーマにしたビスケット入りチョコ菓子で、ディスカウント店などで販売されている。",
+      "source": "Dudleynews.co.uk",
+      "url": "https://www.dudleynews.co.uk/news/26660723.rare-cadbury-chocolate-back-uk-supermarket-18-years/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "キャドバリー",
+        "輸入チョコレート"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "米コストコに新作アップルパイスイーツ",
+      "summary_ja": "米国のコストコで、フードコートの新デザートが話題を集めている。アップルパイのような風味を再現した期間限定メニューとなっている。",
+      "source": "The Kitchn",
+      "url": "https://www.thekitchn.com/costco-apple-pie-sundae-review-23850913",
+      "score": 70,
       "commercial_score": 70,
       "product_keywords": [
-        "ステーキ"
+        "コストコ",
+        "アップルパイ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米タコベルがペプシコとの提携を11年間延長すると発表",
-      "summary_ja": "ヤム・ブランズ傘下のファストフードチェーンであるタコベルは、ペプシコとのパートナーシップを11年延長することを発表した。同じグループのKFCがコカ・コーラとの提携を発表した直後の決定となった。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/taco-bell-pepsico-partnership-expansion-12188248",
-      "score": 75,
+      "title_ja": "米スーパーが広告費削り低価格店を出店",
+      "summary_ja": "米カンザスシティのスーパーチェーンが、低価格を求める消費者の声に応えてディスカウント食料品店を開設した。広告費などの経費を削ることで、質の良い商品を安く提供するとしている。",
+      "source": "KCUR",
+      "url": "https://www.kcur.org/housing-development-section/2026-10-25/kansas-city-grocery-chain-launches-discount-store-as-customers-demand-value",
+      "score": 70,
       "commercial_score": 60,
-      "product_keywords": [
-        "タコベル",
-        "ペプシ"
-      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英スーパーのセインズベリーズが家族向け週3ポンドの食料支援を再開",
-      "summary_ja": "英スーパー大手のセインズベリーズが、クリスマスを前に家族向けに週3ポンドの食費上乗せ支援策を復活させた。対象の金額は果物や野菜、豆類の購入に充てることができる。",
-      "source": "InYourArea",
-      "url": "https://www.inyourarea.co.uk/news/sainsburys-brings-back-3-weekly-offer-for-families-ahead-of-christmas",
-      "score": 75,
+      "title_ja": "中国の料理人イベント「中国厨師節」閉幕",
+      "summary_ja": "中国料理の技術や文化を讃える「第35回中国厨師節」が江蘇省蘇州で閉幕した。職人の技を結集し、新たな味の幕開けを目指す取り組みが行われた。",
+      "source": "红餐网",
+      "url": "http://www.canyin88.com/zixun/2026/10/26/114146.html",
+      "score": 70,
+      "commercial_score": 40,
+      "product_keywords": [
+        "中華調味料"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "久原本家が道産さつまいもの限定品発売",
+      "summary_ja": "久原本家 北海道は、北海道産さつまいもを使った秋限定の3商品を10月26日より店舗限定で発売する。原料には「由栗いも」や「シルクスイート」を取り入れている。",
+      "source": "毎日キレイ",
+      "url": "https://mainichikirei.jp/prtimes/article/20261026prt00m100000567a.html",
+      "score": 65,
       "commercial_score": 75,
       "product_keywords": [
-        "セインズベリーズ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国美団が生鮮食品や外食事業を手がける新会社を四川省に設立",
-      "summary_ja": "生活関連サービス大手の美団（Meituan）傘下企業が、四川省に資本金1000万元で「四川楽鮮科技」を設立した。事業範囲には食品販売、飲食サービス、医薬品小売などが含まれている。",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-10-23/4614384.html",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "美団"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "浙江省寧波市で出前アプリの食品安全星評価システム「安心点」が始動",
-      "summary_ja": "浙江省寧波市で、出前プラットフォーム加盟店の食品安全水準を星の数で確認できる新評価制度「安心点」が導入された。市民が星評価を基準に注文できるようにし、デリバリー飲食の安全管理を向上させる狙いがある。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1091318467_121620820",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "デリバリー"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "三重県四日市市がミシュラン掲載の割烹と連携し西京焼き返礼品を開発",
-      "summary_ja": "三重県四日市市は、ミシュランガイドに掲載された市内の日本料理店「割烹 西むら」や食品メーカー3社と協力し、ふるさと納税の返礼品メニュー3種類を考案した。西京焼きなどの品が用意されている。",
-      "source": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/local/chubu/news/20261023-GYTNT00057/",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "西京焼き",
-        "ふるさと納税"
+        "久原本家",
+        "さつまいも",
+        "シルクスイート"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "広島県東広島市がふるさと納税返礼品に日本酒飲み比べ定期便を受注開始",
-      "summary_ja": "一般社団法人ディスカバー東広島が、東広島市のふるさと納税限定返礼品として「東広島日本酒飲み比べ定期便」の受付を開始した。蔵元が厳選したこだわりの日本酒が毎月自宅へ届く内容で、12月31日まで受け付けている。",
-      "source": "まんたんウェブ",
-      "url": "https://mantan-web.jp/prtimes/article/20261023prt00m200000842a.html",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "日本酒 飲み比べ",
-        "ふるさと納税 日本酒"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ダノン米国法人が料理学校と腸活向け発酵食品ツールキットを発表",
-      "summary_ja": "ダノン米国法人（Danone USA）と料理学校CIAが、腸内環境改善の科学をレシピやメニュー案に応用する「発酵食品ツールキット」を立ち上げた。シェフや医療従事者向けに腸の健康を考慮した食の提案を行う。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/danone-usa-fermented-foods-toolkit-culinary-nutrition-science-302917436",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ダノン",
-        "発酵食品"
-      ],
+      "title_ja": "カーニバルが新船上メニューをさらに展開",
+      "summary_ja": "米クルーズ大手のカーニバル・クルーズ・ラインは、新たなダイニングメニューを配備する客船を拡大している。10月からは新たに6隻の客船でこの新メニューの提供を始める。",
+      "source": "Cruise Industry News",
+      "url": "https://cruiseindustrynews.com/cruise-news/2026/10/carnival-to-roll-out-new-dining-menu-to-more-ships/",
+      "score": 65,
+      "commercial_score": 50,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "米リトル・シーザーズが4種フレーバーのブレッドスティックを発売",
-      "summary_ja": "ピザチェーンのリトル・シーザーズが、シェア向け新サイドメニュー「フォー・イン・ワン・スティックス」を発売した。チーズ、ペパロニ、ハラペーニョ、ベーコンの4つの味が楽しめるブレッドスティックとなっている。",
-      "source": "Mashed",
-      "url": "https://www.mashed.com/2293345/best-new-fast-food-item-2026-little-caesars-four-n-one-stix/",
-      "score": 70,
-      "commercial_score": 80,
+      "title_ja": "英国ケバブ賞のファイナリストが発表",
+      "summary_ja": "英国の「ブリティッシュ・ケバブ・アワード」で、リーズやブラッドフォードの飲食店が決勝進出候補にノミネートされた。現地で親しまれる名店の味わいに注目が集まっている。",
+      "source": "Yorkshire Evening Post",
+      "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/leeds-restaurant-named-as-finalist-british-kebab-awards-9307589",
+      "score": 65,
+      "commercial_score": 45,
       "product_keywords": [
-        "ブレッドスティック"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "地中海食品オディシーがセインズベリーズ向けリングイネ惣菜3種を発売",
-      "summary_ja": "ギリシャ・地中海高級食品メーカーのオディシー（Odysea）が、チルド調理済み惣菜市場へ参入し、3種類のリングイネ新商品を発売した。英スーパーのセインズベリーズで展開される。",
-      "source": "Retail Times",
-      "url": "https://retailtimes.co.uk/odysea-brings-restaurant-quality-mediterranean-cooking-to-sainsburys-with-new-linguine-ready-meals/",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "リングイネ",
-        "パスタ"
+        "ケバブ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英スーパー最大手テスコがスカイ島に2028年の初出店を計画",
-      "summary_ja": "英スーパー最大手テスコが、スコットランドのスカイ島ポートリーに2028年をめどに同島初の店舗を開設する計画を明らかにした。食料品店とガソリンスタンドを備えた施設が提案されている。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw80z31zkgn9o",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "テスコ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "セインズベリーズが家計逼迫を警戒、政府にコスト増を避けるよう要請",
-      "summary_ja": "英大手スーパーのセインズベリーズは、家計が圧迫される中で厳しいクリスマス商戦を予想している。次週の予算案において企業のコスト負担をこれ以上悪化させないよう、政府に求めている。",
-      "source": "AOL.co.uk",
-      "url": "https://www.aol.co.uk/articles/sainsbury-expects-challenging-run-christmas-103358000.html",
-      "score": 70,
-      "commercial_score": 60,
-      "product_keywords": [
-        "セインズベリーズ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "重慶市万州区で焼き魚消費シーズンが開幕し万州グルメマップを公開",
-      "summary_ja": "重慶市万州区で2026年三峡美食文化および万州焼き魚消費シーズンが10月22日夜に開幕した。あわせて地元の多彩な飲食店舗を巡ることができる「万州グルメマップ」が発表された。",
-      "source": "华龙网",
-      "url": "https://www.cqnews.net/web/content_1562942129905491968.html",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "焼き魚",
-        "重慶"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "中国乳業協会の幹部が乳製品の消費拡大に向け新シーンの創出を提唱",
-      "summary_ja": "中国乳業協会の周振峰副秘書長が2026新消費産業大会で、乳製品消費の拡大と質向上のための改革を呼びかけた。飲食や文化観光など新たな消費シーンへの乳製品の融合を進める方針を示している。",
-      "source": "证券之星",
-      "url": "https://stock.stockstar.com/IG2026102200036716.shtml",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "乳製品",
-        "牛乳"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
     }
   ]
 }

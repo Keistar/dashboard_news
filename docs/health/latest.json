@@ -1,218 +1,249 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:54:08+09:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:52:26+09:00",
   "stories": [
     {
-      "title_ja": "フィッシュオイルのサプリは記憶力改善に寄与せずとの研究結果",
-      "summary_ja": "脳の健康を目的に摂取されるフィッシュオイルのサプリメントについて、2年間の臨床試験で効果を検証した結果が報告された。成分は脳へ届くものの記憶力の向上やアルツハイマー病に伴う脳の萎縮を防ぐ効果は確認できず、サプリ単体ではなくバランスの良い食事からの摂取が重要だと研究者は指摘している。",
+      "title_ja": "歯を削らず虫歯の進行を抑える液体の臨床試験結果",
+      "summary_ja": "歯に短時間塗布するだけで、麻酔や切削を伴わずに虫歯を抑えられる安価な液体治療の大規模臨床試験が行われた。幼児を対象とした試験で有効性が示され、痛みを伴う歯科治療を減らす手法として認可拡大が期待されている。",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "score": 85,
+      "commercial_score": 60,
+      "product_keywords": [
+        "フッ素 歯磨きジェル",
+        "虫歯 予防 ケア"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "成人約9万人の調査で短時間の高強度運動に健康効果",
+      "summary_ja": "9万6000人の成人を対象とした研究で、短時間の激しい運動を行うことが疾患リスクの低下に関連していることが示された。日々の生活で短時間負荷をかける活動が長寿につながる可能性が示唆されている。",
+      "source": "Yahoo Health",
+      "url": "https://health.yahoo.com/wellness/fitness/exercise/articles/scientists-studied-96-000-adults-013936799.html",
+      "score": 80,
+      "commercial_score": 55,
+      "product_keywords": [
+        "トレーニング ウェア",
+        "縄跳び トレーニング"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "膝関節を長持ちさせる日常のケアと筋力維持の秘訣",
+      "summary_ja": "膝の痛みを抱える人が増える中、専門医が関節を守るための4つのポイントを紹介した。体重管理や太ももの筋力強化、適した運動の選択と早期の対処により、関節の負担を抑える重要性が呼びかけられている。",
+      "source": "新华网客户端",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20261026e3751a15932047429d245fcff817b4de",
       "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "フィッシュオイル",
-        "オメガ3 サプリ",
-        "DHA EPA"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "スマートリングのOuraとWHOOPが大規模な健康研究を開始",
-      "summary_ja": "スマートリングを手掛けるオーラ（Oura）とウエアラブル機器大手のウープ（WHOOP）が、24か月間にわたる健康研究を開始した。スマートリングによる早産の兆候検知や、肥満および高血圧など心血管代謝リスクのモニタリング性能を検証する。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261023/617116.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "スマートリング",
-        "Oura Ring",
-        "活動量計"
+        "膝 サポーター",
+        "ウォーキングシューズ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "指にも手首にも装着できるAI健康管理端末「Alloop」が発表",
-      "summary_ja": "指や手首のどちらにも装着可能なモジュール式の健康管理端末「Alloop」が発表された。ウェアラブル市場が活況を呈するなか、AI技術を中心に据えた設計で注目を集めている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/e3b112bb5ecb692582b2f9b2acb613f79daec5f3",
+      "title_ja": "正社員の4人に1人が睡眠6時間未満と回答",
+      "summary_ja": "正社員600人を対象にした調査で、約4人に1人の睡眠時間が国の推奨する6時間に満たないことが分かった。原因には労働時間や通勤による負担のほか、職場の人間関係などのストレスが挙げられている。",
+      "source": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/16993329",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "安眠グッズ",
+        "睡眠 サプリ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "画面非搭載の活動量計FitbitとWhoopを比較",
+      "summary_ja": "ディスプレイを搭載しないフィットネストラッカーのFitbit AirとWhoopの特徴が比較された。日々の活動や健康管理にどれだけ集中したいかに応じた選び方が提示されている。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
       "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "スマートリング",
-        "フィットネストラッカー",
-        "ウェアラブル端末"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "睡眠時無呼吸症候群による疲労感と糖尿病リスクに専門医が警鐘",
-      "summary_ja": "十分な睡眠をとっても疲労感が抜けない場合、睡眠時無呼吸症候群が影響している可能性があると指摘されている。50歳未満では糖尿病の発症リスクが3.3倍に高まるとされ、専門家が注意を促している。",
-      "source": "AERA DIGITAL",
-      "url": "https://dot.asahi.com/articles/-/295744",
-      "score": 75,
-      "commercial_score": 40,
-      "product_keywords": [
-        "いびき防止",
-        "快眠枕",
-        "睡眠グッズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "超加工食品の摂取と大腸がんリスクは関連せずとの米研究報告",
-      "summary_ja": "超加工食品が大腸がんの発症リスクを高めるという一般的な認識に異議を唱える研究成果が発表された。研究チームの調査により、両者の間に明確な関連性は認められなかったとしている。",
-      "source": "NewsNation",
-      "url": "https://www.newsnationnow.com/health/ultra-processed-food-colorectal-cancer-study/",
-      "score": 75,
-      "commercial_score": 50,
-      "product_keywords": [
-        "無添加食品",
-        "オーガニック食品",
-        "食物繊維"
+        "Fitbit",
+        "活動量計",
+        "スマートバンド"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "夕食時のクルミ摂取が睡眠の質改善に役立つとの研究",
-      "summary_ja": "就寝前にクルミを食べるとメラトニンの分泌が促され、入眠がスムーズになり途中で目が覚めにくくなるという研究が示された。手軽に睡眠の質を高める手段として期待されている。",
-      "source": "Health.com",
-      "url": "https://www.health.com/walnuts-a-day-to-improve-sleep-12184094",
+      "title_ja": "男性が風邪を重く感じる現象に科学的根拠か",
+      "summary_ja": "男性が風邪を引いた際に症状を重く訴える現象について、英国の総合診療医が科学的な背景を説明した。研究では男性のほうが呼吸器系ウイルスの症状を重く経験しやすい傾向が示唆されている。",
+      "source": "Southend Echo",
+      "url": "http://www.southendstandard.co.uk/news/26667747.man-flu-real-nhs-doctor-explains-men-can-feel-worse/",
       "score": 75,
-      "commercial_score": 85,
+      "commercial_score": 55,
       "product_keywords": [
-        "クルミ",
-        "生クルミ",
-        "ミックスナッツ"
+        "体温計",
+        "うがい薬"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "漢方薬を煎じる際に鉄鍋やアルミ鍋を避けるべき理由を専門家が解説",
-      "summary_ja": "中薬（漢方薬）を煎じる際の調理器具や火加減が薬効に影響するとして、専門家が注意点をまとめた。鉄鍋やアルミ鍋の使用を避けるべき理由や、滋養強壮薬と調体薬での火加減の違いなど、服用時に陥りやすい誤解について解説している。",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20261023/820f55c58d534cffae88f3b7d414aadc/c.html",
+      "title_ja": "中国の医療機器展で家庭用と臨床用の最新技術が集結",
+      "summary_ja": "北京で開催された国際医療機器博覧会で、呼吸器や人工関節、AIを活用した病棟システムなど多彩な医療技術が披露された。家庭用機器と臨床用機器の双方が進化しており、幅広い分野で国産化と技術刷新が進んでいる。",
+      "source": "经济观察网",
+      "url": "https://www.eeo.com.cn/2026/1026/1075809.shtml",
       "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "煎じ土鍋",
-        "漢方薬 ポット",
-        "土鍋"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "自宅用懸垂バーの落下やトレーニングチューブの劣化に医師が注意喚起",
-      "summary_ja": "自宅で使う穴あけ不要の懸垂バーの脱落事故や、ゴム製トレーニング器具の劣化リスクについて専門医が警鐘を鳴らしている。天然ラテックス製のバンドは日光や汗で微細な亀裂が生じやすく、強い力で引っ張った際の破損に注意が必要だと呼びかけている。",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1091449689_162522",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "懸垂バー",
-        "トレーニングチューブ",
-        "フィットネスバンド"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "座ったまま足を動かせる全自動ウォーキングマシンが登場",
-      "summary_ja": "椅子に座って足を乗せるだけで歩行動作を行う全自動マシン「ARUKI WALK」が紹介されている。リモコンで8段階の強度調整ができ、静音設計のため夜間でも周囲を気にせず運動しやすい。重さは約4.9キログラムで、立てかけて収納できるコンパクトさも備える。",
-      "source": "ライフハッカー・ジャパン",
-      "url": "https://www.lifehacker.jp/article/machi-ya-arukiwalk-review2-971237/",
-      "score": 70,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ウォーキングマシン",
-        "フィットネスマシン",
-        "健康器具"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "伊藤園が手軽に作れるボトル入り粉末麦茶を新発売",
-      "summary_ja": "伊藤園は専用ノズル付きボトルに入った粉末タイプの「健康ミネラルむぎ茶」を発売した。冷水にも手軽に溶け、やかんで煮出したような香ばしい風味をすぐに楽しめる。",
-      "source": "日本食糧新聞・電子版",
-      "url": "https://news.nissyoku.co.jp/foodsnews/260915-33-02",
-      "score": 70,
-      "commercial_score": 85,
-      "product_keywords": [
-        "粉末麦茶",
-        "インスタント麦茶",
-        "伊藤園 むぎ茶"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "青少年の学校朝食と血糖値リスクの関連性を示す米研究",
-      "summary_ja": "米国の青少年802人を調査した研究で、学校の朝食を週に1回以上食べる生徒は糖尿病予備軍の血糖マーカーを示す割合が30パーセント高いことが分かった。昼食では同様の関連は見られず、肥満傾向のある生徒ではビタミンEやB6、果物の摂取がリスクの低さと関連していた。",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20261022/A-study-of-802-teens-raises-questions-about-school-breakfast-and-blood-sugar.aspx",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "血糖値 測定器",
-        "ビタミン サプリ",
-        "低GI食品"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "第一パンの低糖質食パンが食品コンテストで最高賞を獲得",
-      "summary_ja": "第一パンが展開する「八穀豊穣食パン」が、第103回ジャパン・フード・セレクションの食品・飲料部門でグランプリを受賞した。健康志向に合わせて糖質を抑えた仕上がりが評価されている。",
-      "source": "朝日新聞",
-      "url": "https://www.asahi.com/articles/ASVBQ318QVBQDIFI01CM.html",
-      "score": 65,
-      "commercial_score": 80,
-      "product_keywords": [
-        "低糖質パン",
-        "食パン",
-        "雑穀パン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "完全菜食のキャットフードで猫の肥満率が低下との調査結果",
-      "summary_ja": "菜食フードを与えられている飼い猫は、従来の肉主体の食事を与えられた猫よりも肥満や関連する健康トラブルの割合が低かったとする調査が発表された。ペットの健康管理における新たな選択肢として注目されている。",
-      "source": "EurekAlert!",
-      "url": "https://www.eurekalert.org/news-releases/1148962",
-      "score": 65,
-      "commercial_score": 75,
-      "product_keywords": [
-        "キャットフード",
-        "ダイエット キャットフード",
-        "健康維持 猫用"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国・長治市の広場にスマートエアロバイクなど最新健康設備が導入",
-      "summary_ja": "山西省長治市の広場が改修され、スマートエアロバイクをはじめとする先端のフィットネス機器が設置された。利用者はゲーム感覚を取り入れた運動を楽しんでおり、健康づくりに活用されている。",
-      "source": "搜狐",
-      "url": "https://m.sohu.com/a/1091614494_362042",
-      "score": 65,
       "commercial_score": 65,
       "product_keywords": [
-        "エアロバイク",
-        "フィットネスバイク",
-        "スピンバイク"
+        "家庭用 酸素発生器",
+        "血圧計"
       ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "妊娠中の睡眠の悩みに約8割が我慢して対処と回答",
+      "summary_ja": "妊娠に伴う夜間の覚醒や姿勢の取りづらさなど、睡眠の変化に悩む人が多いことが調査で示された。いびきを経験した人も2割以上に上る一方、約8割が我慢してやり過ごしている実態が明らかになった。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d6c3dc27118a3dc26fbf703f7a2ac543ad3bdabe",
+      "score": 72,
+      "commercial_score": 65,
+      "product_keywords": [
+        "妊婦 抱き枕",
+        "マタニティ 快眠"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "全身の健康に関わる災害時の口腔ケアと乳酸菌",
+      "summary_ja": "避難生活の長期化に伴い健康悪化が懸念される中、全身の状態に影響を及ぼす口腔ケアの重要性が注目されている。口内環境を整える取り組みとして特定の乳酸菌への関心も高まっている。",
+      "source": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/tuf/3031675?display=1",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "オーラルケア",
+        "L8020乳酸菌",
+        "液体歯磨き"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "アマゾンが活動量計Haloの提供を終えた理由を解説",
+      "summary_ja": "アマゾンが2023年にフィットネスバンドのHalo事業を終了した背景が分析された。激しい市場競争に加え、声のトーンを追跡する機能への懸念や定額課金モデルの収益難が要因として挙げられている。",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2292234/why-amazon-stopped-making-halo-fitness/",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "フィットネストラッカー",
+        "スマートウォッチ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英NHSが提供する40歳以上向け無料健康診断の内容",
+      "summary_ja": "英国の国民保健サービスが40歳から74歳を対象に実施する無料健診の手順が紹介された。心疾患や脳卒中、糖尿病、腎臓病の予防を目的とした簡単な検査が案内されている。",
+      "source": "Kent Online",
+      "url": "https://www.kentonline.co.uk/news/native/what-to-expect-at-your-free-nhs-health-check-in-medway-345775/",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "家庭用 血圧計",
+        "健康測定器"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "冬の感染症予防に手洗いとワクチン接種を呼びかけ",
+      "summary_ja": "英国ウィラルの医療トラストが、冬に向けた感染予防策の徹底を呼びかけた。丁寧な手洗いや体調不良時の外出控え、インフルエンザなどのワクチン接種が高齢者や重症化リスクのある人々を守るために求められている。",
+      "source": "Wirral Globe",
+      "url": "https://www.wirralglobe.co.uk/news/26666294.wirral-health-trusts-share-winter-infection-advice/",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "薬用 ハンドソープ",
+        "除菌シート"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国南昌市で身近に球技を楽しめる地域運動施設を整備",
+      "summary_ja": "南昌市で住民が手軽に運動できるよう、バスケットボールやバドミントン、卓球などができる9カ所のコミュニティ体育センターの整備が進んでいる。日常的にスポーツを楽しめる環境を身近に整え、住民の健康づくりを後押しする狙いがある。",
+      "source": "凤凰网",
+      "url": "https://jx.ifeng.com/c/8xWu1fF8qRq",
+      "score": 70,
+      "commercial_score": 60,
+      "product_keywords": [
+        "バドミントン ラケット",
+        "卓球 ラケット"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "兵庫の温泉宿が滞在中の睡眠時酸素チェックを開始",
+      "summary_ja": "湯村温泉の旅館が、就寝中の酸素レベルを測定する新サービスの提供を始めた。睡眠の改善を目的として旅に出るスリープツーリズムの需要を取り込む狙いがある。",
+      "source": "トラベルボイス",
+      "url": "https://www.travelvoice.jp/20261026-160693",
+      "score": 68,
+      "commercial_score": 60,
+      "product_keywords": [
+        "酸素濃度測定器",
+        "快眠 まくら"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "別府明礬温泉の湯の花を用いた石けんを学生が企画",
+      "summary_ja": "日本文理大学の運動部の学生が、別府の明礬温泉で採れる湯の花を使った石けんを企画した。地元の製造販売元の協力を得てパッケージなどを考案し、大学の学園祭で販売された。",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOJC236ZT0T21C26A0000000/",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "湯の花 石鹸",
+        "明礬温泉 入浴剤"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "専門家が指導する腕を効果的に鍛えるアームカール",
+      "summary_ja": "フィットネスの専門家が、腕を理想的に鍛えるための正しいアームカールの手法を解説した。正しいフォームを身につけることで、効果的に上腕の筋肉を鍛えるポイントが紹介されている。",
+      "source": "The Manual",
+      "url": "https://www.themanual.com/fitness/the-perfect-bicep-curl/",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ダンベル",
+        "筋トレ グローブ",
+        "トレーニングチューブ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "地域イベントで100人以上が心臓検診を受診",
+      "summary_ja": "ダルリーで開催された健康イベントにおいて、127人の住民が心臓のスクリーニング検査を受けた。地域単位で心臓疾患の予防や早期発見を促す取り組みが進められている。",
+      "source": "Ardrossan and Saltcoats Herald",
+      "url": "https://www.ardrossanherald.com/news/26662095.127-people-receive-cardiac-screening-dalry-event/",
+      "score": 65,
+      "commercial_score": 50,
+      "product_keywords": [
+        "心拍計",
+        "スマートウォッチ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

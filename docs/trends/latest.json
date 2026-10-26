@@ -1,595 +1,558 @@
 {
   "feed": "trends",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T16:10:04+09:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T16:08:16+09:00",
   "trends": [
     {
       "keyword": "iPhone Duo",
-      "reason_ja": "アップル初となる折りたたみ型スマートフォンが発売されたため。",
+      "reason_ja": "アップル初の折りたたみスマートフォンが発売されアプリ最適化や競合製品との比較が議論されているため。",
       "genre": "gadget",
-      "commercial_score": 95,
+      "commercial_score": 90,
       "product_keywords": [
         "iPhone Duo",
-        "スマホケース"
+        "foldable phone",
+        "Apple foldable"
       ],
       "product_keywords_ja": [
-        "iPhone Duo ケース",
-        "折りたたみ スマホ"
+        "折りたたみスマホ",
+        "iPhone ケース",
+        "スマホスタンド"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "折りたたみiPhone発売で品薄と転売が発生",
-          "summary_ja": "アップル初となる折りたたみ式スマートフォンが発売されました。高額な価格設定ながら予約時から人気が集中し、品薄や転売の動きが起きています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/pickup/6599790"
+          "title_ja": "初の折りたたみ機でアプリ最適化が焦点に",
+          "summary_ja": "折りたたみ端末を巡り外部アプリへの対応状況が議論されています。使い勝手やヒンジの仕上がりについて関心が集まっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-iphone-duo-issues"
         },
         {
-          "title_ja": "アップルの折りたたみスマホ発売に購入客の列",
-          "summary_ja": "アップル初の折りたたみ型スマートフォンが国内で発売され、旗艦店には事前予約した来店客が並びました。高価格帯ながら初の大画面に対する期待が高まっています。",
-          "source": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/"
+          "title_ja": "競合する折りたたみ端末との使い心地を比較",
+          "summary_ja": "他社製折りたたみスマホと新型端末の操作性を比較した感想が語られています。双方の特徴や対抗策が注目されています。",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/mobile/xiaomi-18-fold-hands-on/"
         }
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Christmas gifts",
+      "reason_ja": "年末のホリデーシーズンに向けておすすめのギフト特集や旅行プランが公開されたため。",
+      "genre": "sale",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Christmas gifts",
+        "luxury gift set",
+        "festive presents"
+      ],
+      "product_keywords_ja": [
+        "クリスマス ギフト",
+        "コフレ プレゼント",
+        "ホリデーギフト"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "女性向けクリスマスギフトの最新特集が公開",
+          "summary_ja": "幅広い世代に向けて厳選された贈り物の特集が掲載されました。定番の名品から心地よいアイテムまで幅広く紹介されています。",
+          "source": "Marie Claire UK",
+          "url": "https://www.marieclaire.co.uk/fashion/shopping/christmas-gift-guide-2026"
+        },
+        {
+          "title_ja": "冬の休暇を過ごす贅沢な宿泊先プラン特集",
+          "summary_ja": "休暇を特別に過ごすための宿泊施設情報がまとめられました。自然豊かなマナーハウスなど魅力的な滞在先が提案されています。",
+          "source": "Red magazine",
+          "url": "https://www.redonline.co.uk/travel/a74242494/christmas-breaks-uk/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
       "keyword": "iPhone Duo",
-      "reason_ja": "アップル初の折りたたみスマートフォン発売を前に詳細スペックが公開されたため。",
+      "reason_ja": "アップル初の折りたたみスマートフォンの発売直後に内画面の不具合報告や価格変動が話題になったため。",
       "genre": "gadget",
-      "commercial_score": 95,
+      "commercial_score": 90,
       "product_keywords": [
         "iPhone Duo",
-        "foldable phone"
+        "苹果 折叠屏",
+        "折叠手机"
       ],
       "product_keywords_ja": [
-        "iPhone Duo",
-        "折りたたみスマホ"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "折りたたみiPhoneの詳細スペックが公式確認",
-          "summary_ja": "アップルが新型折りたたみスマートフォンの発売に向けて仕様を公表しました。バッテリー容量や画面の耐久性に関する詳細が明らかになっています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/apple-reveals-iphone-duo-battery-size-screen-scratch-resistance-hardness"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Black Friday 2026",
-      "reason_ja": "大手量販店のブラックフライデー商戦の開催日程や早期セール情報が公開されたため。",
-      "genre": "sale",
-      "commercial_score": 95,
-      "product_keywords": [
-        "Black Friday deals",
-        "Walmart sale"
-      ],
-      "product_keywords_ja": [
-        "ブラックフライデー",
-        "セール 家電"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "ウォルマートのブラックフライデー日程が公開",
-          "summary_ja": "大手量販店による年末商戦のセール概要が発表されました。店舗の営業時間や先行アクセスの仕組み、早期の注目商品が紹介されています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/walmart-black-friday-2026-everything-to-know"
-        },
-        {
-          "title_ja": "ベストバイの大型セール開始時期に関心集中",
-          "summary_ja": "家電量販店のブラックフライデーセールの詳細が取り上げられています。お得な商品を手に入れるための開始時期や購入のポイントが解説されています。",
-          "source": "NJ.com",
-          "url": "https://www.nj.com/shopping-deals/2026/10/when-does-best-buys-black-friday-sale-start-in-2026.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "when is black friday 2026",
-      "reason_ja": "ブラックフライデーの開催日や公式ギフトガイドが発表され、年末商戦への関心が高まったため。",
-      "genre": "sale",
-      "commercial_score": 95,
-      "product_keywords": [
-        "Black Friday sale",
-        "Holiday Gift Guide"
-      ],
-      "product_keywords_ja": [
-        "ブラックフライデー",
-        "クリスマスプレゼント"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "公式ホリデーギフトガイドで注目商品が発表",
-          "summary_ja": "年末商戦に向けた公式ギフトガイドが公開されました。人気ゲーム機やワイヤレスイヤホンなど、幅広い予算に応じたおすすめ品が掲載されています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/walmart-holiday-gift-guide-black-friday-2026"
-        },
-        {
-          "title_ja": "ブラックフライデーの先行セールがスタート",
-          "summary_ja": "本格的な年末商戦に先駆けて早期割引セールが開始されました。テレビや掃除機、スマートウォッチなどの人気家電が大幅に値下げされています。",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/best-early-black-friday-walmart-deals-2026"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "iPhone Duo反向带货华为阔折叠",
-      "reason_ja": "アップルの折りたたみスマホ発売を契機に競合であるファーウェイ端末の売上が急増したため。",
-      "genre": "gadget",
-      "commercial_score": 95,
-      "product_keywords": [
-        "华为折叠屏",
-        "iPhone Duo"
-      ],
-      "product_keywords_ja": [
-        "HUAWEI スマホ",
-        "折りたたみスマホ"
+        "iPhone 折りたたみ",
+        "スマホ保護フィルム",
+        "スマホケース"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "折りたたみiPhone発売でファーウェイも販売増",
-          "summary_ja": "アップル初の折りたたみスマートフォンの発売に合わせて、ファーウェイの折りたたみモデルの売上も大きく伸びています。大画面端末市場全体の盛り上がりが数字に表れています。",
-          "source": "凤凰网",
-          "url": "https://original.ifeng.com/c/8xS1PDlvge9"
+          "title_ja": "折りたたみiPhoneの画面割れ疑惑と増産",
+          "summary_ja": "発売されたばかりの端末で内面ディスプレイのトラブルが相次いで報告されています。一方で供給拡大に向けた生産加速の動きも伝えられています。",
+          "source": "观察者网",
+          "url": "https://www.guancha.cn/CaiJing/2026_10_26_905798.shtml"
+        },
+        {
+          "title_ja": "折りたたみ新型機の価格変動とメーカーの対応",
+          "summary_ja": "発売直後の価格変動を巡って波紋が広がり公式対応が注目されています。ユーザーの間で議論が続いています。",
+          "source": "金融界",
+          "url": "https://m.jrj.com.cn/madapter/stock/2026/10/26143658868650.shtml"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "ポータブル電源",
-      "reason_ja": "防災意識の高まりやセール開催に合わせて最新のポータブル電源に関心が集まっているため。",
-      "genre": "outdoor",
-      "commercial_score": 90,
+      "keyword": "リュウジ",
+      "reason_ja": "ファミリーマートと料理研究家のコラボによる惣菜やおむすびの新商品が発売されるため。",
+      "genre": "food",
+      "commercial_score": 85,
       "product_keywords": [
-        "ポータブル電源",
-        "ソーラーパネル"
+        "リュウジ 至高のレシピ",
+        "ファミリーマート"
       ],
       "product_keywords_ja": [
-        "Jackery ポータブル電源",
-        "ソーラーパネル 防災"
+        "リュウジ レシピ本",
+        "至高のレシピ"
       ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "防災対策に適したポータブル電源の新色が発売",
-          "summary_ja": "災害時のライフライン確保としてポータブル電源が注目されています。大容量かつ扱いやすい定番モデルに新色が加わり、家庭用備蓄としての実用性が評価されています。",
-          "source": "ヨムーノ",
-          "url": "https://yomuno.jp/posts/141328"
-        },
-        {
-          "title_ja": "楽天市場でソーラーパネルの大幅割引クーポン配布",
-          "summary_ja": "公式ストアにおいてソーラーパネルの大幅割引クーポンが配布されます。ポイント還元も適用され、防災や節電の備えとしてお得に購入できる機会となっています。",
-          "source": "Jetstream",
-          "url": "https://jetstream.blog/2026/10/22/jackery-solarsaga-100-prime-rakuten-discount-coupon-20261024/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Anker Charger",
-      "reason_ja": "アンカーが機器のバッテリー寿命を延ばす新機能を備えたノートPC向け充電器を発売したため。",
-      "genre": "gadget",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Anker charger",
-        "USB-C charger"
-      ],
-      "product_keywords_ja": [
-        "Anker 急速充電器",
-        "USB-C 充電器 100W"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "アンカーからバッテリーを保護する急速充電器発売",
-          "summary_ja": "アンカーが新型のノートPC向け充電器を発売しました。単ポートで高出力を供給しつつ、機器のバッテリー寿命を長持ちさせる保護機能を備えています。",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/New-Anker-Laptop-Charger-Pro-launches-with-battery-care-features.1431759.0.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Soundcore Space 2",
-      "reason_ja": "アンカーの新型ワイヤレスヘッドホンが発売直後から割引セールで話題になったため。",
-      "genre": "gadget",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Soundcore Space 2",
-        "wireless headphones"
-      ],
-      "product_keywords_ja": [
-        "Anker ヘッドホン",
-        "ノイズキャンセリング ワイヤレス"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "コスパに優れた人気ヘッドホンが割引対象に",
-          "summary_ja": "手頃な価格で高い評価を得ているワイヤレスヘッドホンが割引価格で販売されています。もともとの高コストパフォーマンスに加えてさらにお得に入手できる機会となっています。",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/"
-        },
-        {
-          "title_ja": "新型ノイキャンヘッドホンが早くも値下げ",
-          "summary_ja": "新型ヘッドホンが早くも割引価格で提供されています。強化されたノイズキャンセリング機能や快適な装着感、長時間の連続駆動が特徴です。",
-          "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/ankers-soundcore-space-2-headphones-deal-october-2026"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Switch 2",
-      "reason_ja": "Switch 2向けソフトの登場や小型版モデルに関する報道が話題を集めているため。",
-      "genre": "gadget",
-      "commercial_score": 88,
-      "product_keywords": [
-        "Switch 2",
-        "ゲームソフト"
-      ],
-      "product_keywords_ja": [
-        "任天堂スイッチ",
-        "Switch 2 カバー"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "Switch 2向けに人気銃撃戦ゲームが登場",
-          "summary_ja": "人気アクションゲームシリーズの新作が発売されました。迫力ある戦場を舞台にした大人向けのゲーム体験が提供されています。",
-          "source": "Nintendo",
-          "url": "https://www.nintendo.com/jp/topics/article/66e77dbe-a23e-4e33-8ddb-fe0bf34098d5"
-        },
-        {
-          "title_ja": "Switch 2小型版にサムスン新技術導入の噂",
-          "summary_ja": "小型化や機能を絞った新モデルの噂があるなか、チップ製造に活用できる新技術の導入が報じられています。省電力化や軽量化への貢献が期待されています。",
+          "title_ja": "ファミマからリュウジ監修の自信作が登場",
+          "summary_ja": "ファミリーマートが料理研究家のリュウジ氏監修による惣菜やおむすびなどの新商品を全国展開します。おむすびなどを揃えた自信作となっています。",
           "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/expert/articles/16c4a6f7182a2e7e08ef22fe34bed99491bb96da"
+          "url": "https://news.yahoo.co.jp/articles/05152f30f1440c2d2d33fc7427024ccaaf62c8e3"
+        },
+        {
+          "title_ja": "リュウジ監修のおむすびや弁当がファミマに",
+          "summary_ja": "ファミリーマートから料理研究家のリュウジ氏が監修したおむすびや弁当などが登場します。パウチ惣菜のポテトサラダなども展開されます。",
+          "source": "グルメ Watch",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2151074.html"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "Insta360 Mic",
-      "reason_ja": "電子ペーパー画面を搭載した手頃な価格の新型ワイヤレスマイクが発表されたため。",
-      "genre": "gadget",
-      "commercial_score": 88,
-      "product_keywords": [
-        "Insta360 Mic",
-        "wireless microphone"
-      ],
-      "product_keywords_ja": [
-        "Insta360 マイク",
-        "ワイヤレスマイク"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "電子ペーパー画面付きの新型マイクが登場",
-          "summary_ja": "外部記録に対応したワイヤレスマイクの新モデルが発表されました。電子ペーパーディスプレイを備え、手頃な価格帯で高性能な録音を実現しています。",
-          "source": "RedShark News",
-          "url": "https://www.redsharknews.com/insta360-mic-wireless-microphone-price-specs"
-        },
-        {
-          "title_ja": "動画制作者向けに扱いやすい無線マイクを投入",
-          "summary_ja": "内蔵ストレージの代わりにメモリーカードを採用し、低価格化を実現したワイヤレスマイクが登場しました。手軽に高品質な音声を収録できる実用的な機材として注目されています。",
-          "source": "Fstoppers",
-          "url": "https://fstoppers.com/audio/insta360-mic-new-iteration-combat-rising-storage-costs-905137"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "Oppo Find X10",
-      "reason_ja": "高性能カメラと大容量バッテリーを搭載した新型フラッグシップスマホが発表されたため。",
+      "keyword": "xbox fifty new games release",
+      "reason_ja": "Xbox向けに多数の新作ゲームタイトルが配信されるラインナップが発表されたため。",
       "genre": "gadget",
       "commercial_score": 85,
       "product_keywords": [
-        "Oppo Find X10",
-        "Android phone"
+        "Xbox Series X",
+        "Xbox games",
+        "Xbox Game Pass"
       ],
       "product_keywords_ja": [
-        "OPPO スマホ",
-        "SIMフリー スマホ"
+        "Xbox Series X",
+        "Xbox ゲームソフト",
+        "Xbox Game Pass"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Xbox向けに多数の新作ゲームが登場予定",
+          "summary_ja": "今週にかけて多くの新作タイトルがXbox向けに配信されます。注目の作品が順次リリースされる見込みです。",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/these-40plus-games-are-coming-to-xbox-next-week-october-26-31"
+        },
+        {
+          "title_ja": "公式がXbox向けの新作配信予定を公開",
+          "summary_ja": "公式情報にて配信予定の新作タイトル群が案内されました。多彩なジャンルの注目作がラインナップされています。",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Air fryer deals",
+      "reason_ja": "秋冬の調理家電セールでデザイン性の高いエアフライヤーや保温調理器が人気を集めているため。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "air fryer",
+        "heated lunch box",
+        "soup maker"
+      ],
+      "product_keywords_ja": [
+        "エアフライヤー",
+        "ノンフライヤー",
+        "スープメーカー"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "超高画素カメラと大容量電池の新型スマホが登場",
-          "summary_ja": "オッポが主力スマートフォンシリーズの最新モデルを投入しました。超高画素カメラと大型バッテリーを備えた高機能モデルとなっています。",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/oppo-find-x10-find-x10-pro-max-launched-with-200mp-cameras-8000mah-battery/articleshow/135132974.cms"
+          "title_ja": "おしゃれな新型オーブンの使い心地を検証",
+          "summary_ja": "スタイリッシュな調理家電の新型モデルが登場しました。大型化と使い勝手の向上を果たし食卓を彩る一台となっています。",
+          "source": "Ideal Home",
+          "url": "https://www.idealhome.co.uk/all-rooms/small-appliances/our-place-wonder-oven-pro"
         },
         {
-          "title_ja": "オッポ新型スマホの世界展開で購入前の注意点",
-          "summary_ja": "新型スマートフォンが世界市場に向けて展開されています。地域による仕様や機能の違いを事前に確認することが推奨されています。",
-          "source": "TechRepublic",
-          "url": "https://www.techrepublic.com/article/news-oppo-find-x10-series-global-launch/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "在星巴克开会1小时被提醒点单5次",
-      "reason_ja": "スターバックスが注文後の座席利用ルールを導入し運用の是非が議論を呼んだため。",
-      "genre": "food",
-      "commercial_score": 80,
-      "product_keywords": [
-        "星巴克 咖啡",
-        "咖啡豆"
-      ],
-      "product_keywords_ja": [
-        "スターバックス コーヒー",
-        "スタバ タンブラー"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "スタバの注文後着席ルールを巡る議論",
-          "summary_ja": "店舗の座席利用を注文客に限定する新ルールが導入され話題となっています。無料の席占領を防ぎ効率を高める効果がある一方、ブランドイメージへの影響も指摘されています。",
-          "source": "ThePaper.cn",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34316934"
-        },
-        {
-          "title_ja": "スタバの店頭に着席ルールを知らせる案内板",
-          "summary_ja": "全国の店舗で注文後の利用を促す案内板の設置が進んでいます。現場では柔軟な対応が行われており、消費者からは理解とともに親切な運用を求める声が上がっています。",
-          "source": "深圳新闻网",
-          "url": "https://www.sznews.com/news/content/2026-10/23/content_32198539.htm"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "自動運転車",
-      "reason_ja": "テスラがヒト型ロボットや無人タクシーの販売計画を相次いで発表したため。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "テスラ",
-        "ロボット"
-      ],
-      "product_keywords_ja": [
-        "テスラ グッズ",
-        "ロボット掃除機"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "テスラ、ヒト型ロボットの外部出荷を視野",
-          "summary_ja": "テスラを率いるマスク氏が、ヒト型ロボットの外部企業向け出荷について言及しました。来年末までの開始を目指すとしており、ロボット事業の進展に注目が集まっています。",
-          "source": "ダイヤモンド・オンライン",
-          "url": "https://diamond.jp/articles/-/401683"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "洗衣凝珠为何比洗衣液更伤眼",
-      "reason_ja": "ジェルボール型洗濯洗剤の成分による目への影響と安全な使い方が注目されたため。",
-      "genre": "kaji",
-      "commercial_score": 75,
-      "product_keywords": [
-        "洗衣凝珠",
-        "洗衣液"
-      ],
-      "product_keywords_ja": [
-        "ジェルボール 洗剤",
-        "洗濯洗剤 液体"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "洗濯用ジェルボールの危険性と正しい使用法",
-          "summary_ja": "手軽に使える洗濯用カプセル洗剤について、液が目に入った場合の健康リスクが解説されています。保管方法やトラブル時の注意点が呼びかけられています。",
-          "source": "新华网",
-          "url": "https://www.news.cn/fashion/20261022/deba539174954c3ebcada99de33d1c45/c.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "现货黄金跌破4000美元大关",
-      "reason_ja": "国際金先物価格が節目を割り込み宝飾品などの店頭価格にも影響が出ているため。",
-      "genre": "other",
-      "commercial_score": 70,
-      "product_keywords": [
-        "黄金 首饰",
-        "金条"
-      ],
-      "product_keywords_ja": [
-        "ゴールド ジュエリー",
-        "純金 バー"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "金相場が節目を割り込み数カ月ぶりの水準に",
-          "summary_ja": "現物金の取引価格が下落し、節目の水準を割り込みました。市場では金関連銘柄にも影響が及んでいます。",
-          "source": "东方财富",
-          "url": "https://wap.eastmoney.com/a/202610233905294338.html"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "娃哈哈集团董事长被曝辞职",
-      "reason_ja": "大手飲料メーカーの会長が辞職したとの報道が広まり経営体制に注目が集まったため。",
-      "genre": "food",
-      "commercial_score": 70,
-      "product_keywords": [
-        "娃哈哈 饮料",
-        "娃哈哈 纯净水"
-      ],
-      "product_keywords_ja": [
-        "中国 飲料",
-        "ミネラルウォーター"
-      ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "大手飲料メーカーのトップ辞任報道が浮上",
-          "summary_ja": "大手飲料グループの代表取締役が辞任したと報じられました。新制度の施行に伴う責任や社内の体制変更が背景にあるとみられています。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.com.cn/tech/shenji/2026-10-23/doc-iniweiyu8047858.shtml"
-        },
-        {
-          "title_ja": "中国の飲料大手でトップの退任が報じられる",
-          "summary_ja": "大手飲料メーカーを率いる代表者の辞職が現地メディアにより伝えられました。同社の今後の経営体制に大きな関心が寄せられています。",
-          "source": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/china/story20261023-9881554"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "hilary duff",
-      "reason_ja": "ヒラリー・ダフがオリジナル曲を含む新作クリスマスEPのリリースを発表したため。",
-      "genre": "other",
-      "commercial_score": 65,
-      "product_keywords": [
-        "Hilary Duff EP",
-        "Holiday Things"
-      ],
-      "product_keywords_ja": [
-        "ヒラリー・ダフ CD",
-        "クリスマス アルバム"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ヒラリーダフが新作クリスマスEPを発表",
-          "summary_ja": "人気歌手のヒラリー・ダフがホリデー向けの新作ミニアルバムの発売を告知しました。オリジナル楽曲が複数収録されることが明かされています。",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/hilary-duff-holiday-things-ep-release-date-1236364471/"
-        },
-        {
-          "title_ja": "伝統曲のカバーを含むクリスマス作品が配信開始",
-          "summary_ja": "ヒラリー・ダフのクリスマス向けミニアルバムの配信が始まりました。定番のクリスマス曲カバーに加えて新曲が収められています。",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/music/articles/hilary-duff-unwraps-early-christmas-040018450.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "monty don gardeners world departure",
-      "reason_ja": "英国の看板園芸番組で長年司会を務めた著名園芸家の番組降板が発表されたため。",
-      "genre": "outdoor",
-      "commercial_score": 65,
-      "product_keywords": [
-        "garden tools",
-        "gardening books"
-      ],
-      "product_keywords_ja": [
-        "園芸用品",
-        "ガーデニング 本"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "人気園芸番組の司会者が長年の出演に幕引き",
-          "summary_ja": "公共放送の園芸番組を長年率いた著名な園芸家が番組を勇退することが報じられました。最終回の放送を前に後任候補に関する話題が盛り上がっています。",
-          "source": "Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/monty-dons-replacement-odds-change-143215990.html"
-        },
-        {
-          "title_ja": "引退する伝説の園芸家へ著名人から賛辞",
-          "summary_ja": "長寿番組からの卒業を発表した人気園芸家に対して、各界の著名人から敬意を表するメッセージが寄せられています。園芸界への多大な貢献が称えられています。",
-          "source": "The Hereford Times",
-          "url": "https://www.herefordtimes.com/news/26657459.jeremy-clarksons-tribute-monty-don-leaves-gardeners-world/"
+          "title_ja": "温かい食事を楽しめる保温式ランチボックス",
+          "summary_ja": "外出先でも温かい弁当が食べられる便利なケースが値下げされています。寒い季節に向けたお弁当作りを支えるアイテムです。",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/shopping/40771593/electric-heated-lunch-box-deal/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "ジェームズ・ボンド",
-      "reason_ja": "映画『007』シリーズの次期主演を決める最終オーディションの候補者が報じられたため。",
+      "keyword": "vogue 大野 智",
+      "reason_ja": "ファッション誌の最新号に大野智が初登場し限定購入特典のアートワークグッズが発表されたため。",
       "genre": "other",
-      "commercial_score": 55,
+      "commercial_score": 80,
       "product_keywords": [
-        "007",
-        "ブルーレイ"
+        "VOGUE JAPAN 大野智",
+        "大野智 雑誌"
       ],
       "product_keywords_ja": [
-        "ジェームズ・ボンド DVD",
-        "007 グッズ"
+        "VOGUE JAPAN 大野智",
+        "大野智 雑誌"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "映画007の次期ジェームズボンド候補が判明",
-          "summary_ja": "歴代に続く新たなジェームズ・ボンドを選定する最終テストが始まる見通しとなりました。有力な俳優陣が候補に挙がり、配役に大きな関心が寄せられています。",
+          "title_ja": "大野智がファッション誌の表紙に初登場",
+          "summary_ja": "活動を終了した大野智がファッション誌の誌面に初めて登場します。誌面では自身のタトゥーや想いについて語っています。",
           "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/b962e765f2960f8240dc44c4dc90b992bf235603"
+          "url": "https://news.yahoo.co.jp/articles/f4421b260381e7c595afce91beb186e03d83bfc7"
+        },
+        {
+          "title_ja": "大野智のアートワーク特典が限定登場",
+          "summary_ja": "大野智が出演するファッション誌の購入特典として特製ステッカーやポストカードが用意されます。対象書店でのみ手に入る数量限定のアイテムです。",
+          "source": "Vogue Japan",
+          "url": "https://www.vogue.co.jp/article/2026-10-26-satoshi-ohno-exclusive-gift-with-purchase"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "blue planet 3",
-      "reason_ja": "BBCの自然ドキュメンタリー新シリーズでタコの脱出劇が話題になったため。",
-      "genre": "other",
-      "commercial_score": 55,
+      "keyword": "安踏",
+      "reason_ja": "スポーツ用品大手の最新の販売実績や今後の市場回復見通しを証券会社が評価したため。",
+      "genre": "outdoor",
+      "commercial_score": 80,
       "product_keywords": [
-        "Blue Planet",
-        "nature documentary"
+        "安踏 跑鞋",
+        "ANTA 运动鞋",
+        "安踏 运动服"
       ],
       "product_keywords_ja": [
-        "ブループラネット DVD",
-        "自然 ドキュメンタリー"
+        "ANTA ランニングシューズ",
+        "安踏 スニーカー",
+        "スポーツウェア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "連休中の好調な販売実績を受け高評価を維持",
+          "summary_ja": "大型連休での好調な売り上げを背景に証券会社が評価を維持しました。スポーツ用品の堅調な需要が支えとなっています。",
+          "source": "证券之星",
+          "url": "https://hk.stockstar.com/IG2026102600004897.shtml"
+        },
+        {
+          "title_ja": "スポーツ大手の年末商戦に向けた回復期待",
+          "summary_ja": "今後の事業運営について回復が見込まれるとの分析が示されました。市場環境の持ち直しに期待が寄せられています。",
+          "source": "证券之星",
+          "url": "https://hk.stockstar.com/IG2026102600004899.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "ebidanくじ",
+      "reason_ja": "超特急やM!LKなど所属グループの特別カットを使用したオンラインくじの販売が始まったため。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "EBiDAN オンラインくじ",
+        "EBiDAN グッズ"
+      ],
+      "product_keywords_ja": [
+        "EBiDAN グッズ",
+        "超特急 グッズ",
+        "M!LK グッズ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "英国自然番組の最新作でタコの脱出劇が話題",
-          "summary_ja": "有名ナレーターによる自然ドキュメンタリー番組の最新シリーズが注目を集めています。タコが危機を逃れる劇的な瞬間が公開され関心を呼んでいます。",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo"
+          "title_ja": "超特急やM!LKの限定くじが登場",
+          "summary_ja": "所属グループの特別カットを使用したオンラインくじの販売が始まりました。期間限定で手に入るグッズが用意されています。",
+          "source": "Infoseek",
+          "url": "https://news.infoseek.co.jp/article/oshiraku_29398/"
+        },
+        {
+          "title_ja": "特別カット景品が当たるオンラインくじ",
+          "summary_ja": "イベントでのカットを活用した景品が当たるくじの発売が決定しました。ファンに向けた特別なアイテムが展開されます。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000746.000034304.html"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Kimi致歉",
+      "reason_ja": "生成AIサービスの上位モデルで発生した利用制限や利用枠の消費トラブルについて運営が謝罪したため。",
+      "genre": "ai",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Kimi AI",
+        "月之暗面",
+        "Kimi 会员"
+      ],
+      "product_keywords_ja": [
+        "AIツール",
+        "生成AI サービス"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "AI上位モデルの不具合を巡り運営が謝罪",
+          "summary_ja": "高機能モデルの利用時に制限や不必要な枠消費が発生したとして謝罪声明が出されました。利用者への対応とリセット措置が行われています。",
+          "source": "观察者网",
+          "url": "https://www.guancha.cn/GongYe%C2%B7KeJi/2026_10_26_905771.shtml"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "shadowverse",
+      "reason_ja": "対戦カードゲームの大型アップデートとなる新カードパックの情報や大会詳細が公開されたため。",
+      "genre": "gadget",
+      "commercial_score": 70,
+      "product_keywords": [
+        "シャドウバース",
+        "シャドバ カード"
+      ],
+      "product_keywords_ja": [
+        "シャドウバース",
+        "シャドバ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "シャドバ新作の新カードパック情報が公開",
+          "summary_ja": "公式番組にて追加予定の新カードパック情報が公開されました。あわせて世界大会に関する詳細も発表されています。",
+          "source": "Gamer",
+          "url": "https://www.gamer.ne.jp/news/202610260002/"
+        },
+        {
+          "title_ja": "シャドバ新弾のナイトメア新カード紹介",
+          "summary_ja": "新たに登場するカードパックからナイトメアクラスの新カードが公開されました。特殊能力や回復効果を持つフォロワーが登場します。",
+          "source": "電撃オンライン",
+          "url": "https://dengekionline.com/article/202610/91560"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "東京国際映画祭",
+      "reason_ja": "国内外の話題作が集う映画祭が開幕しオープニングセレモニーや参加型企画が始まったため。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "東京国際映画祭",
+        "SUKIYAKI 映画"
+      ],
+      "product_keywords_ja": [
+        "映画 チケット",
+        "映画 パンフレット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "東京国際映画祭が開幕し豪華セレモニー開催",
+          "summary_ja": "東京国際映画祭が開幕を迎えレッドカーペットが華やかに行われました。オープニング作品として話題の邦画が上映されます。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/588ff89136c02e11fd6e0277ab723d4d9c5ab022"
+        },
+        {
+          "title_ja": "映画祭で観たい作品を募集する新企画開始",
+          "summary_ja": "今後の映画祭で上映したい作品を観客から募集する企画が始まりました。選ばれた作品が実際にスクリーンで上映される試みです。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/83fc6384b649787a2110d623e100266af4a7df7d"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "laika studios",
+      "reason_ja": "ストップモーションアニメ制作会社による長編映画の新作レビューが公開され最高傑作と絶賛されたため。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "Wildwood Laika",
+        "Laika Studios",
+        "Wildwood book"
+      ],
+      "product_keywords_ja": [
+        "ライカスタジオ",
+        "ワイルドウッド 洋書"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ライカの新作アニメ映画に傑作との高評価",
+          "summary_ja": "スタジオが長年かけて制作した新作ストップモーション作品が公開されました。スタジオ史上屈指の出来栄えとして絶賛されています。",
+          "source": "CBC",
+          "url": "https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321"
+        },
+        {
+          "title_ja": "監督が語る新作ストップモーション制作秘話",
+          "summary_ja": "長年の歳月を費やして完成させた監督が制作への想いを明かしました。魂を込めた最高傑作として注目を集めています。",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/wildwood-director-travis-knight-films-journey-interview-1236736246/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "charlize theron optical illusion outfit",
+      "reason_ja": "慈善イベントのレッドカーペットで錯視効果を取り入れた斬新な衣装を披露し話題を呼んだため。",
+      "genre": "beauty",
+      "commercial_score": 65,
+      "product_keywords": [
+        "optical illusion jumpsuit",
+        "evening jumpsuit",
+        "designer gown"
+      ],
+      "product_keywords_ja": [
+        "ジャンプスーツ レディース",
+        "パーティードレス",
+        "ワイドパンツ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "錯視効果を生かしたジャンプスーツが話題",
+          "summary_ja": "ガライベントの会場でドレッシーな錯視衣装を披露しました。パンツスタイルでありながらドレスのように見える仕立てが注目を集めています。",
+          "source": "InStyle",
+          "url": "https://www.instyle.com/charlize-theron-optical-illusion-jumpsuit-dallas-amfar-gala-12193431"
+        },
+        {
+          "title_ja": "従来のドレス概念を覆す斬新な衣装が登場",
+          "summary_ja": "華やかな舞台で固定観念を覆す見事な装いを見せました。計算されたデザインが来場者の視線を釘付けにしています。",
+          "source": "Istituto Impariamo",
+          "url": "https://www.istitutoimpariamo.it/charlize-theron-turns-heads-at-amfar-dallas-gala-in-mind-bending-optical-illusion-ensemble-that-redefines-red-carpet-tailoring/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "powerupgaming.co.uk",
+      "reason_ja": "ゲームメディアで新作インディータイトルの詳細インタビューや開発スタジオの動向が報じられたため。",
+      "genre": "gadget",
+      "commercial_score": 65,
+      "product_keywords": [
+        "indie games",
+        "Xbox game studio",
+        "PC games"
+      ],
+      "product_keywords_ja": [
+        "PCゲーム",
+        "ゲーミングPC",
+        "インディーゲーム"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "邪神シミュレーター新作の開発情報が公開",
+          "summary_ja": "開発者がメディアのインタビューに応じデビュー作の仕様を明かしました。独特の世界観を持つ新作ゲームとして話題になっています。",
+          "source": "Power Up Gaming",
+          "url": "https://powerupgaming.co.uk/2026/10/23/incorcism-interview-game-designer-sascha-ulreich-talks-inspirations-features-and-more-with-power-up-gaming/"
+        },
+        {
+          "title_ja": "ゲーム開発スタジオの今後に複数の選択肢",
+          "summary_ja": "傘下のスタジオを巡り今後の体制に関する報道がなされました。複数の解決策が模索されていると伝えられています。",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/10/report-microsoft-is-running-out-of-time-to-save-xbox-studio-arkane"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "october hunter moon",
+      "reason_ja": "秋の夜空をオレンジ色に照らす満月ハンターズムーンが観測され天体観測グッズが注目されたため。",
+      "genre": "outdoor",
+      "commercial_score": 60,
+      "product_keywords": [
+        "telescope",
+        "binoculars",
+        "stargazing gear"
+      ],
+      "product_keywords_ja": [
+        "天体望遠鏡",
+        "双眼鏡",
+        "アウトドア チェア"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "秋の夜空を飾るハンターズムーンの観測案内",
+          "summary_ja": "各地で晴天が広がり見事な満月の観測が期待されています。流星群の余波とともに夜空の美しい景観が楽しめます。",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/25/metro/hunters-moon-peak-sunday-2026/"
+        },
+        {
+          "title_ja": "夜空に浮かぶ満月と天体観測のおすすめ品",
+          "summary_ja": "オレンジ色に輝く特別な満月が夜空に姿を現します。鑑賞に適した場所や夜空観察に役立つアイテムが紹介されています。",
+          "source": "USA TODAY 10BEST",
+          "url": "https://10best.usatoday.com/lifestyle/hunters-moon-october-full-moon-2026/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "dakota johnson",
+      "reason_ja": "俳優のダコタ・ジョンソンが新たな交際相手と公の場に登場しファッション誌で報じられたため。",
+      "genre": "beauty",
+      "commercial_score": 60,
+      "product_keywords": [
+        "casual chic outfit",
+        "celebrity style",
+        "designer sunglasses"
+      ],
+      "product_keywords_ja": [
+        "レディース サングラス",
+        "カジュアル ジャケット",
+        "トートバッグ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "俳優のダコタが休日の外出姿を披露",
+          "summary_ja": "話題の二人がカジュアルな装いで街中へ出かけた様子が伝えられました。落ち着いた私服スタイルが注目を集めています。",
+          "source": "Vogue",
+          "url": "https://www.vogue.co.uk/article/dakota-johnson-machine-gun-kelly"
         }
       ],
       "country": "gb",

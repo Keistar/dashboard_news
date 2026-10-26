@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:34:06+09:00",
+  "stories": [
+    {
+      "title_ja": "血液検査データから病気を早期発見するAIプロジェクト始動",
+      "summary_ja": "研究組織のブラッドカウンツ（BloodCounts）が、シンガポールでAIを活用した医療プロジェクトを開始しました。全血球計算検査をAIモデルで分析し、病気の早期発見を目指します。",
+      "source": "Vietnam Investment Review - VIR",
+      "url": "https://vir.com.vn/bloodcounts-launches-healthcare-project-utilizing-artificial-intelligence-for-blood-tests-163687.html",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "カサバ、エヌビディアのモデルを導入しAI基盤を拡充",
+      "summary_ja": "カサバ・テクノロジーズは、エヌビディア（NVIDIA）のオープンモデル「Nemotron」を採用してAI機能を拡充すると発表しました。企業などが手頃な費用で効果的にAIを活用できるよう支援します。",
+      "source": "Cyprus Shipping News",
+      "url": "https://cyprusshippingnews.com/2026/10/26/cassava-artificial-intelligence-ai-deploys-nvidia-nemotron-to-accelerate-agentic-ai-adoption-across-its-markets/",
+      "score": 70,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "デイフォース、採用支援AIの米リボンAIを買収へ",
+      "summary_ja": "人事ソフトウェア大手のデイフォース（Dayforce）は、採用技術を手がけるリボンAI（Ribbon AI）を買収します。人員を増やさずに大量の応募者を迅速に選考したい企業の需要に対応します。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/dayforce-to-buy-ribbon-ai-for-recruiting-technology",
+      "score": 70,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "英プリマス大学、南西部の観光業でAI活用を促す事業を開始",
+      "summary_ja": "英国南西部の観光分野でAI導入を推進するプロジェクトが始動しました。プリマス大学の学生や卒業生が、現地の観光業界と連携して取り組みを進めます。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0l526j3xo",
+      "score": 65,
+      "commercial_score": 55,
+      "product_keywords": [
+        "イギリス 旅行"
+      ]
+    },
+    {
+      "title_ja": "建築実務におけるAI活用状況を探るアンケート調査が開始",
+      "summary_ja": "建築実務におけるAIの利用状況を把握するための新たなアンケート調査が始まりました。AIを利用しているかどうかにかかわらず、建築に関わる幅広い関係者からの回答を募っています。",
+      "source": "ArchitectureAu",
+      "url": "https://architectureau.com/articles/new-survey-seeks-feedback-on-how-ai-is-being-used-in-architectural-practice/",
+      "score": 60,
+      "commercial_score": 40
+    }
+  ]
+}

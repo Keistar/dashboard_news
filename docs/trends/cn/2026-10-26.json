@@ -1,0 +1,98 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T16:08:16+09:00",
+  "trends": [
+    {
+      "keyword": "iPhone Duo",
+      "reason_ja": "アップル初の折りたたみスマートフォンの発売直後に内画面の不具合報告や価格変動が話題になったため。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "iPhone Duo",
+        "苹果 折叠屏",
+        "折叠手机"
+      ],
+      "product_keywords_ja": [
+        "iPhone 折りたたみ",
+        "スマホ保護フィルム",
+        "スマホケース"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "折りたたみiPhoneの画面割れ疑惑と増産",
+          "summary_ja": "発売されたばかりの端末で内面ディスプレイのトラブルが相次いで報告されています。一方で供給拡大に向けた生産加速の動きも伝えられています。",
+          "source": "观察者网",
+          "url": "https://www.guancha.cn/CaiJing/2026_10_26_905798.shtml"
+        },
+        {
+          "title_ja": "折りたたみ新型機の価格変動とメーカーの対応",
+          "summary_ja": "発売直後の価格変動を巡って波紋が広がり公式対応が注目されています。ユーザーの間で議論が続いています。",
+          "source": "金融界",
+          "url": "https://m.jrj.com.cn/madapter/stock/2026/10/26143658868650.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "安踏",
+      "reason_ja": "スポーツ用品大手の最新の販売実績や今後の市場回復見通しを証券会社が評価したため。",
+      "genre": "outdoor",
+      "commercial_score": 80,
+      "product_keywords": [
+        "安踏 跑鞋",
+        "ANTA 运动鞋",
+        "安踏 运动服"
+      ],
+      "product_keywords_ja": [
+        "ANTA ランニングシューズ",
+        "安踏 スニーカー",
+        "スポーツウェア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "連休中の好調な販売実績を受け高評価を維持",
+          "summary_ja": "大型連休での好調な売り上げを背景に証券会社が評価を維持しました。スポーツ用品の堅調な需要が支えとなっています。",
+          "source": "证券之星",
+          "url": "https://hk.stockstar.com/IG2026102600004897.shtml"
+        },
+        {
+          "title_ja": "スポーツ大手の年末商戦に向けた回復期待",
+          "summary_ja": "今後の事業運営について回復が見込まれるとの分析が示されました。市場環境の持ち直しに期待が寄せられています。",
+          "source": "证券之星",
+          "url": "https://hk.stockstar.com/IG2026102600004899.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "Kimi致歉",
+      "reason_ja": "生成AIサービスの上位モデルで発生した利用制限や利用枠の消費トラブルについて運営が謝罪したため。",
+      "genre": "ai",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Kimi AI",
+        "月之暗面",
+        "Kimi 会员"
+      ],
+      "product_keywords_ja": [
+        "AIツール",
+        "生成AI サービス"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "AI上位モデルの不具合を巡り運営が謝罪",
+          "summary_ja": "高機能モデルの利用時に制限や不必要な枠消費が発生したとして謝罪声明が出されました。利用者への対応とリセット措置が行われています。",
+          "source": "观察者网",
+          "url": "https://www.guancha.cn/GongYe%C2%B7KeJi/2026_10_26_905771.shtml"
+        }
+      ]
+    }
+  ]
+}

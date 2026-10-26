@@ -1,0 +1,49 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:48:08+09:00",
+  "stories": [
+    {
+      "title_ja": "ゲノム編集の野菜や果物が英店頭へ",
+      "summary_ja": "英国でゲノム編集技術を用いたバナナやトマト、ジャガイモ、小麦などが店頭に並び始めている。黄色を保つバナナやビタミンを高めたトマトなど、食料供給の安定化に向けた活用が注目される。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/food-and-drink/features/gene-edited-food-britain-supermarkets-b3063445.html",
+      "score": 85,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "英外食の約4割がおひとりさま利用に",
+      "summary_ja": "飲食店を訪れる客の約4割を単独の客（ソロ客）が占めていることが明らかになった。近年は自分自身と出かける「ソロデート」の考え方が広まり、1人での外食を楽しむ人が増えている。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/solo-date-restaurant-visits-b3073035.html",
+      "score": 80,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "英キャドバリーの人気チョコが18年ぶり復活",
+      "summary_ja": "英菓子大手キャドバリーのチョコレート菓子「アストロス（Astros）」が、18年ぶりに英国の店頭へ復活した。宇宙をテーマにしたビスケット入りチョコ菓子で、ディスカウント店などで販売されている。",
+      "source": "Dudleynews.co.uk",
+      "url": "https://www.dudleynews.co.uk/news/26660723.rare-cadbury-chocolate-back-uk-supermarket-18-years/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "キャドバリー",
+        "輸入チョコレート"
+      ]
+    },
+    {
+      "title_ja": "英国ケバブ賞のファイナリストが発表",
+      "summary_ja": "英国の「ブリティッシュ・ケバブ・アワード」で、リーズやブラッドフォードの飲食店が決勝進出候補にノミネートされた。現地で親しまれる名店の味わいに注目が集まっている。",
+      "source": "Yorkshire Evening Post",
+      "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/leeds-restaurant-named-as-finalist-british-kebab-awards-9307589",
+      "score": 65,
+      "commercial_score": 45,
+      "product_keywords": [
+        "ケバブ"
+      ]
+    }
+  ]
+}
