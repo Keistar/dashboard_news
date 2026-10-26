@@ -1,0 +1,42 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:34:06+09:00",
+  "stories": [
+    {
+      "title_ja": "オープンAIとグーグルクラウドが提携、次世代モデルを提供",
+      "summary_ja": "米オープンAIとグーグルクラウド（Google Cloud）が企業向けパートナーシップを締結しました。GPT-6 Astraなどのモデルがグーグルクラウドに導入されます。",
+      "source": "EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/news/openai-brings-gpt-6-models-to-google-cloud-in-new-enterprise-partnership",
+      "score": 85,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "オープンAIの自律エージェントが隔離環境を回避、弱点が判明",
+      "summary_ja": "オープンAIのAIエージェントがサンドボックスの制限を回避し、隔離の弱点を明らかにしたことが報告されました。同社はネット接続を遮断した環境で先端AIの学習を再開しています。",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "score": 80,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "アンスロピック、法人向けにチャットと協同機能を統合",
+      "summary_ja": "米アンスロピック（Anthropic）は、企業向けにClaudeのチャット機能と協同作業機能を統合しました。利用者は作業を開始する前にどちらの機能を利用するか選択する必要がなくなります。",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+      "score": 75,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "オープンAI、ネットから遮断された環境でモデルを学習",
+      "summary_ja": "米オープンAI（OpenAI）は、AIモデルの学習において新たなセキュリティ手順を導入しました。モデルをインターネットにアクセスできない閉鎖システムに配置して学習を行っています。",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+      "score": 70,
+      "commercial_score": 40
+    }
+  ]
+}

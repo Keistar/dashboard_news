@@ -1,0 +1,63 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:34:06+09:00",
+  "stories": [
+    {
+      "title_ja": "国内の生成AI利用率が初めて5割を突破、民間調査で判明",
+      "summary_ja": "生成AIを利用している人の割合が、初めて半数を超えたことが民間調査会社の調べで分かりました。利用の広がりとともに、最も使われているサービスや具体的な用途にも関心が集まっています。",
+      "source": "nippon.com",
+      "url": "https://www.nippon.com/ja/japan-data/h02934/",
+      "score": 80,
+      "commercial_score": 55,
+      "product_keywords": [
+        "生成AI"
+      ]
+    },
+    {
+      "title_ja": "商用利用可能な画像生成AI「Moss-Image」が登場",
+      "summary_ja": "日本語の文字描画や多様な画風に対応したオープンウエイトの画像生成AI「Moss-Image」が公開されました。商用利用も可能で、行政の支援を受けた開発体制や今後の市場への影響が注目されています。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/445/4445534/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "パソコン",
+        "グラフィックボード"
+      ]
+    },
+    {
+      "title_ja": "安川電機、生成AIでロボットに作業を指示する仕組みを開発",
+      "summary_ja": "安川電機は米アマゾン・ウェブ・サービス（AWS）と連携し、生成AIがロボットに作業指示を出すシステムを構築しました。人間の要望をロボットが処理できる内容に変換する仕組みで、食品工場などへの拡大を目指します。",
+      "source": "日経クロステック",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12110/",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "青森県立美術館、生成AIアバターによる案内システムを実証",
+      "summary_ja": "青森県立美術館で、生成AIを活用したアバターによる案内システムの実証試験が行われています。目的地までの順路や展示内容などの質問に多言語で回答し、外国人観光客らを案内します。",
+      "source": "河北新報オンライン",
+      "url": "https://kahoku.news/articles/JY6YN030GPKHN.html",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "青森 旅行"
+      ]
+    },
+    {
+      "title_ja": "生成AIを活用した韓国ドラマがFODで独占配信へ",
+      "summary_ja": "生成AIによって制作された韓国の恋愛ドラマ「ついに、春～15年目の片思い～」が、11月8日からFODで独占配信されます。幼い頃からの片思いを描いた作品で、ノーカット完全版として届けられます。",
+      "source": "TVガイドWeb",
+      "url": "https://www.tvguide.or.jp/feature/ott26102602/",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "FOD"
+      ]
+    }
+  ]
+}

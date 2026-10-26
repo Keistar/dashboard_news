@@ -1,0 +1,59 @@
+{
+  "genre": "food",
+  "genre_label_ja": "食品・グルメ",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:48:08+09:00",
+  "stories": [
+    {
+      "title_ja": "食品各社がスナックを食事代替品へ改良",
+      "summary_ja": "食品メーカーがスナック類を栄養豊富な食事の代替品へと進化させている。時間に追われ利便性を求める消費者の需要に応える。",
+      "source": "朝日新聞",
+      "url": "https://www.asahi.com/ajw/articles/16892503",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "完全栄養食",
+        "プロテインスナック",
+        "栄養バー"
+      ]
+    },
+    {
+      "title_ja": "米ワンダーがAI活用の外食網を急速拡大",
+      "summary_ja": "米フードテック企業のワンダー（Wonder）が170店舗を展開し、買収に10億ドル超を投じている。さらにクリエイター向けに月額10ドルの飲食店開設支援AIツールを立ち上げる計画だ。",
+      "source": "Briefs Finance",
+      "url": "https://www.briefs.co/news/marc-lore-s-wonder-is-stitching-together-food-brands-electri/",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "米コストコに新作アップルパイスイーツ",
+      "summary_ja": "米国のコストコで、フードコートの新デザートが話題を集めている。アップルパイのような風味を再現した期間限定メニューとなっている。",
+      "source": "The Kitchn",
+      "url": "https://www.thekitchn.com/costco-apple-pie-sundae-review-23850913",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "コストコ",
+        "アップルパイ"
+      ]
+    },
+    {
+      "title_ja": "米スーパーが広告費削り低価格店を出店",
+      "summary_ja": "米カンザスシティのスーパーチェーンが、低価格を求める消費者の声に応えてディスカウント食料品店を開設した。広告費などの経費を削ることで、質の良い商品を安く提供するとしている。",
+      "source": "KCUR",
+      "url": "https://www.kcur.org/housing-development-section/2026-10-25/kansas-city-grocery-chain-launches-discount-store-as-customers-demand-value",
+      "score": 70,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "カーニバルが新船上メニューをさらに展開",
+      "summary_ja": "米クルーズ大手のカーニバル・クルーズ・ラインは、新たなダイニングメニューを配備する客船を拡大している。10月からは新たに6隻の客船でこの新メニューの提供を始める。",
+      "source": "Cruise Industry News",
+      "url": "https://cruiseindustrynews.com/cruise-news/2026/10/carnival-to-roll-out-new-dining-menu-to-more-ships/",
+      "score": 65,
+      "commercial_score": 50
+    }
+  ]
+}

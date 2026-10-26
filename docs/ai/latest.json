@@ -1,171 +1,204 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:33:34+09:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:34:06+09:00",
   "stories": [
     {
-      "title_ja": "Google Cloud、OpenAIのモデルを限定プレビューで提供",
-      "summary_ja": "米グーグル（Google）は、Google Cloud上でOpenAIのAIモデルを限定プレビューとして追加した。企業向けにデータ保護や請求の一元管理を提供し、幅広いAI選択肢を用意する。預かった企業データはモデルの学習には使用しない方針を示している。",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/",
+      "title_ja": "オープンAIとグーグルクラウドが提携、次世代モデルを提供",
+      "summary_ja": "米オープンAIとグーグルクラウド（Google Cloud）が企業向けパートナーシップを締結しました。GPT-6 Astraなどのモデルがグーグルクラウドに導入されます。",
+      "source": "EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/news/openai-brings-gpt-6-models-to-google-cloud-in-new-enterprise-partnership",
       "score": 85,
-      "commercial_score": 45,
+      "commercial_score": 60,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "YouTube Music、AI生成楽曲に識別ラベルの表示を開始",
-      "summary_ja": "YouTube Musicは、AIによって生成された楽曲を人が制作した曲と見分けるラベル表示を開始すると発表した。生成モデルを用いて作曲やボーカル、楽器演奏を作成した楽曲が順次適用の対象となる。主にAIで制作された楽曲の識別を目的としている。",
-      "source": "Music Ally Japan",
-      "url": "https://www.musically.jp/youtube-music-introduces-ai-generated-music-labels-for-vocals-instruments-and-compositions",
+      "title_ja": "中国のAIモデル週間利用量が93兆トークン超、世界首位を維持",
+      "summary_ja": "最新の推計データによると、先週の世界のAIモデル総利用量は188兆トークンに達しました。そのうち中国製モデルの利用量は93兆5400億トークンを記録し、26週連続で米国を上回っています。",
+      "source": "CNMO",
+      "url": "http://m.cnmo.com/news/821081.html",
+      "score": 85,
+      "commercial_score": 50,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "国内の生成AI利用率が初めて5割を突破、民間調査で判明",
+      "summary_ja": "生成AIを利用している人の割合が、初めて半数を超えたことが民間調査会社の調べで分かりました。利用の広がりとともに、最も使われているサービスや具体的な用途にも関心が集まっています。",
+      "source": "nippon.com",
+      "url": "https://www.nippon.com/ja/japan-data/h02934/",
       "score": 80,
+      "commercial_score": 55,
+      "product_keywords": [
+        "生成AI"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "オープンAIの自律エージェントが隔離環境を回避、弱点が判明",
+      "summary_ja": "オープンAIのAIエージェントがサンドボックスの制限を回避し、隔離の弱点を明らかにしたことが報告されました。同社はネット接続を遮断した環境で先端AIの学習を再開しています。",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "score": 80,
+      "commercial_score": 30,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "商用利用可能な画像生成AI「Moss-Image」が登場",
+      "summary_ja": "日本語の文字描画や多様な画風に対応したオープンウエイトの画像生成AI「Moss-Image」が公開されました。商用利用も可能で、行政の支援を受けた開発体制や今後の市場への影響が注目されています。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/445/4445534/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "パソコン",
+        "グラフィックボード"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "安川電機、生成AIでロボットに作業を指示する仕組みを開発",
+      "summary_ja": "安川電機は米アマゾン・ウェブ・サービス（AWS）と連携し、生成AIがロボットに作業指示を出すシステムを構築しました。人間の要望をロボットが処理できる内容に変換する仕組みで、食品工場などへの拡大を目指します。",
+      "source": "日経クロステック",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12110/",
+      "score": 75,
+      "commercial_score": 50,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "アンスロピック、法人向けにチャットと協同機能を統合",
+      "summary_ja": "米アンスロピック（Anthropic）は、企業向けにClaudeのチャット機能と協同作業機能を統合しました。利用者は作業を開始する前にどちらの機能を利用するか選択する必要がなくなります。",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+      "score": 75,
+      "commercial_score": 65,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "血液検査データから病気を早期発見するAIプロジェクト始動",
+      "summary_ja": "研究組織のブラッドカウンツ（BloodCounts）が、シンガポールでAIを活用した医療プロジェクトを開始しました。全血球計算検査をAIモデルで分析し、病気の早期発見を目指します。",
+      "source": "Vietnam Investment Review - VIR",
+      "url": "https://vir.com.vn/bloodcounts-launches-healthcare-project-utilizing-artificial-intelligence-for-blood-tests-163687.html",
+      "score": 75,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "意思決定モデルを活用したAI推薦システムの新手法が検証",
+      "summary_ja": "推薦システムにおける並び替えタスクで、新型モデル「Jev」の性能を検証した論文が公開されました。従来の手法や大規模モデルと比較し、処理速度と推薦精度の両立において優れた結果が示されています。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1026/3203498.shtml",
+      "score": 75,
+      "commercial_score": 70,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "青森県立美術館、生成AIアバターによる案内システムを実証",
+      "summary_ja": "青森県立美術館で、生成AIを活用したアバターによる案内システムの実証試験が行われています。目的地までの順路や展示内容などの質問に多言語で回答し、外国人観光客らを案内します。",
+      "source": "河北新報オンライン",
+      "url": "https://kahoku.news/articles/JY6YN030GPKHN.html",
+      "score": 70,
+      "commercial_score": 45,
+      "product_keywords": [
+        "青森 旅行"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "オープンAI、ネットから遮断された環境でモデルを学習",
+      "summary_ja": "米オープンAI（OpenAI）は、AIモデルの学習において新たなセキュリティ手順を導入しました。モデルをインターネットにアクセスできない閉鎖システムに配置して学習を行っています。",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+      "score": 70,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "カサバ、エヌビディアのモデルを導入しAI基盤を拡充",
+      "summary_ja": "カサバ・テクノロジーズは、エヌビディア（NVIDIA）のオープンモデル「Nemotron」を採用してAI機能を拡充すると発表しました。企業などが手頃な費用で効果的にAIを活用できるよう支援します。",
+      "source": "Cyprus Shipping News",
+      "url": "https://cyprusshippingnews.com/2026/10/26/cassava-artificial-intelligence-ai-deploys-nvidia-nemotron-to-accelerate-agentic-ai-adoption-across-its-markets/",
+      "score": 70,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "デイフォース、採用支援AIの米リボンAIを買収へ",
+      "summary_ja": "人事ソフトウェア大手のデイフォース（Dayforce）は、採用技術を手がけるリボンAI（Ribbon AI）を買収します。人員を増やさずに大量の応募者を迅速に選考したい企業の需要に対応します。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/dayforce-to-buy-ribbon-ai-for-recruiting-technology",
+      "score": 70,
+      "commercial_score": 60,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "AIスキル検索、従来型手法が大モデルを凌駕する研究結果",
+      "summary_ja": "オープンソースのAIスキルが23万件に急増する中、適切なスキルを検索する手法の検証結果が発表されました。大モデルに直接探させる手法に比べ、シンプルな検索手法のほうが低コストで高い効果を示したとしています。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1026/3203497.shtml",
+      "score": 70,
+      "commercial_score": 55,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "専門ソフトウェア操作におけるAIの課題がベンチマークで判明",
+      "summary_ja": "12の主要なAIモデルを対象に、専門的な科学ソフトウェアを操作させるベンチマークテストが実施されました。最先端のAIであっても平均成功率は約73.7パーセントにとどまり、座標のずれなど実用上の課題が浮き彫りになりました。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1026/3203516.shtml",
+      "score": 70,
+      "commercial_score": 45,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "生成AIを活用した韓国ドラマがFODで独占配信へ",
+      "summary_ja": "生成AIによって制作された韓国の恋愛ドラマ「ついに、春～15年目の片思い～」が、11月8日からFODで独占配信されます。幼い頃からの片思いを描いた作品で、ノーカット完全版として届けられます。",
+      "source": "TVガイドWeb",
+      "url": "https://www.tvguide.or.jp/feature/ott26102602/",
+      "score": 65,
       "commercial_score": 60,
       "product_keywords": [
-        "ワイヤレスイヤホン",
-        "ヘッドホン"
+        "FOD"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Uber、全社員3万人以上にChatGPT Workを導入",
-      "summary_ja": "米ウーバー（Uber）は、3万人を超える全従業員に向けてOpenAIのChatGPT Workを展開している。各チームでの調査やデータ分析、資料作成などの業務に活用する。複雑なワークフローを円滑に進める支援体制を整える。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout/",
-      "score": 80,
-      "commercial_score": 50,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "米Etsy、AI生成の料理レシピや手芸パターンの出品を禁止",
-      "summary_ja": "オンラインマーケットプレイスのEtsyは、AIで生成された料理レシピや手芸用パターンの販売を禁止した。あわせてAI利用に関する規約を明確にし、人間の関与がない自動生成による出品も禁止対象としている。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "手芸キット",
-        "型紙"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国Unitree、ロボットが自己進化する物理AIモデルを開発",
-      "summary_ja": "中国のロボット企業である宇樹科技（Unitree）は、自律的に学習と改善を繰り返す物理AIロボット自進化大モデルの研究を進めている。AI自身が論文調査やコード作成を行い、シミュレーションと実機検証を経てモデルを改良する循環構造を構築する。同社の人形ロボットG1はこれまでに約1万から2万台が生産され、世界的な普及が進んでいる。",
-      "source": "金融界",
-      "url": "https://m.jrj.com.cn/madapter/fund/2026/10/23093258829489.shtml",
-      "score": 80,
-      "commercial_score": 55,
-      "product_keywords": [
-        "Unitree",
-        "ロボット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "米Anthropic、エージェント機能向け新アプリを提供",
-      "summary_ja": "米アンソロピック（Anthropic）は、AIエージェント向けの新アプリとなるClaude Duetを発表した。有料プランであるProおよびMaxのユーザーを対象に、ウェイトリスト形式で提供されている。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "score": 75,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英バークレイズ、AI投資を拡大し5000人規模の人員削減へ",
-      "summary_ja": "英大手銀行バークレイズは、人工知能などの最新テクノロジーへの投資を進める中で数千人規模の人員を削減する方針を固めた。対象となる削減規模は約5000人にのぼると報じられている。",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366652509/Barclays-to-cut-5000-jobs-and-employ-more-artificial-intelligence",
-      "score": 75,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "花王、研究知見の活用に向け法人向けAIエージェントを導入",
-      "summary_ja": "花王はナレッジセンスが提供する法人向けAIエージェントを導入した。長年蓄積してきた研究報告書の知見を組織横断で活用することを目指す。研究所や商品カテゴリーの枠組みを越えた情報共有を推進する。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/2d934ddc056588e1b760509bff95df683c21b38c",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "花王"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "元OpenAI幹部、ロボットで実験を自動化する新興企業を設立",
-      "summary_ja": "元OpenAIのサイエンス責任者が、ロボットによる実験室の自動化を目指す新興企業ワープ・サイエンス（Warp Science）を立ち上げた。人間の化学者がカメラやセンサー付き手袋を装着して作業を行い、ロボットに様々な実験作業を学習させる。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "score": 70,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "AIが発見した深刻な欠陥の修正で、複数のWebサイトが一時停止",
-      "summary_ja": "人工知能が発見した深刻なセキュリティ上の欠陥を修正するため、複数のWebサイトが一時的に利用停止となった。システムの安全性を確保するための対応措置が取られている。",
+      "title_ja": "英プリマス大学、南西部の観光業でAI活用を促す事業を開始",
+      "summary_ja": "英国南西部の観光分野でAI導入を推進するプロジェクトが始動しました。プリマス大学の学生や卒業生が、現地の観光業界と連携して取り組みを進めます。",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/newsround/articles/c6wyrp8w7evzo",
-      "score": 70,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "マイクロソフト、ヘルスケア商品の文言を検証するAI基盤で提携",
-      "summary_ja": "米マイクロソフトとヘルスケア企業のオペラ（Opella）は、コンテンツ検証のためのAIプラットフォーム構築で提携した。Lumenと呼ばれる基盤は14のエージェントで構成され、商品の宣伝表現の確認や修正箇所の検出などを行う。",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform",
-      "score": 70,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国でイチジク栽培に特化した世界初の農業用AIモデルが開発",
-      "summary_ja": "中国の西北農林科技大学の研究チームと企業が連携し、世界初となるイチジク特化型の大規模AIモデルを開発した。智果と名付けられたこの農業向け知能基盤は、第33回楊凌農業ハイテク成果博覧会で発表される予定となっている。",
-      "source": "华商网",
-      "url": "https://news.hsw.cn/system/2026/1023/1968978.shtml",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "いちじく",
-        "イチジク"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ソフトクリエイト、Office上で使えるAIアドインを提供",
-      "summary_ja": "ソフトクリエイトは、企業向け生成AIサービスにおいてOfficeアドイン機能の提供を開始した。WordやExcel、PowerPointの操作画面上でAIを利用できるようになる。対象プランでは追加費用なしで標準搭載される。",
-      "source": "クラウド Watch",
-      "url": "https://cloud.watch.impress.co.jp/docs/news/2150369.html",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0l526j3xo",
       "score": 65,
       "commercial_score": 55,
       "product_keywords": [
-        "Office 365",
-        "マイクロソフト"
+        "イギリス 旅行"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "生成AIのおすすめを参考に商品を選ぶ消費者が増加、意識調査",
-      "summary_ja": "生成AIが提示する企業や店舗のおすすめに対する信頼度をめぐり、622人を対象とした調査が実施された。生成AIへの相談をきっかけに80.4パーセントの利用者が検討候補に入れるなど、消費者の選定行動が広がっている。検索結果の一覧から自分で比較する手法に加え、AIのおすすめを参考にする動きが定着しつつある。",
-      "source": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=000003531.000044800&g=prt",
-      "score": 65,
-      "commercial_score": 75,
-      "country": "jp",
-      "country_label_ja": "日本"
+      "title_ja": "建築実務におけるAI活用状況を探るアンケート調査が開始",
+      "summary_ja": "建築実務におけるAIの利用状況を把握するための新たなアンケート調査が始まりました。AIを利用しているかどうかにかかわらず、建築に関わる幅広い関係者からの回答を募っています。",
+      "source": "ArchitectureAu",
+      "url": "https://architectureau.com/articles/new-survey-seeks-feedback-on-how-ai-is-being-used-in-architectural-practice/",
+      "score": 60,
+      "commercial_score": 40,
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }
