@@ -1,228 +1,230 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T15:48:08+09:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:48:58+09:00",
   "stories": [
     {
-      "title_ja": "ファミマがフルーチェのアイスなど発売",
-      "summary_ja": "ファミリーマートはハウス食品と組み、10月27日に全国の約1万6500店で「フルーチェアイスバー イチゴ」を発売する。あわせてチルドカップの「のむフルーチェ イチゴ」も展開する。",
-      "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/article/20261026-5194303/",
+      "title_ja": "マクドナルド、ポテトM・Lサイズを特別価格250円で販売へ",
+      "summary_ja": "日本マクドナルドは、11月2日から13日までの期間限定で「マックフライポテト」のMサイズとLサイズを税込250円で販売する。あわせてポテトをモチーフにしたふわふわポーチも新たに登場する。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_708952/",
       "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "マクドナルド"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米マクドナルドとネットフリックスが提携、アニメ着想の特別セットを展開へ",
+      "summary_ja": "動画配信大手のネットフリックスと米マクドナルドが提携を発表した。作品「KPop Demon Hunters」の世界観に着想を得た新たな限定メニューを展開する予定となっている。",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/GMA/Food/mcdonalds-netflix-team-new-kpop-demon-hunters-inspired-meals/story?id=131368879",
+      "score": 85,
+      "commercial_score": 70,
+      "product_keywords": [
+        "マクドナルド",
+        "Netflix"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国のカフェ各社、ハンバーガーや揚げ物などフードメニューの拡充を加速",
+      "summary_ja": "中国のコーヒー各社が軽食の提供を強化している。M Standが手作りバーガーを扱う店舗を大都市で展開するほか、コッティコーヒー（Cotti Coffee）も生ビールや揚げ物の販売を開始した。競争が激化するカフェ市場において、新メニューの導入で単店あたりの売上増を図る動きが広がっている。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4900718.html",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ハンバーガー",
+        "クラフトビール"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ファミマとフルーチェがコラボ、アイスバーとのむデザートを発売",
+      "summary_ja": "ファミリーマートはハウス食品のロングセラー「フルーチェ」と共同開発した商品を全国約1万6500店で展開する。218円の「フルーチェアイスバー イチゴ」と、生クリームを配合してリニューアルした288円の「のむフルーチェ イチゴ」を10月27日より販売する。",
+      "source": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/32662190/",
+      "score": 82,
       "commercial_score": 90,
       "product_keywords": [
         "フルーチェ",
-        "ハウス食品"
+        "アイスバー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ゲノム編集の野菜や果物が英店頭へ",
-      "summary_ja": "英国でゲノム編集技術を用いたバナナやトマト、ジャガイモ、小麦などが店頭に並び始めている。黄色を保つバナナやビタミンを高めたトマトなど、食料供給の安定化に向けた活用が注目される。",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/food-and-drink/features/gene-edited-food-britain-supermarkets-b3063445.html",
-      "score": 85,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "重慶で火鍋産業博覧会が開催され閉幕",
-      "summary_ja": "重慶市で「第11回中国火鍋産業博覧会」が閉幕した。甘粛省の定西幅広春雨（定西寛粉）など特産品が紹介され、2000社以上が参加して3日間で13万8000人の来場者を集めた。",
-      "source": "Sohu",
-      "url": "https://www.sohu.com/a/1092790268_120578424",
-      "score": 85,
-      "commercial_score": 75,
+      "title_ja": "中国の王老吉、タウリンや人工カフェインを含まないエナジードリンク発売",
+      "summary_ja": "植物茶飲料で知られる中国大手の王老吉（ワンラオジー）が、エナジードリンク市場へ参入した。新商品「王者英雄」は、人工カフェインやタウリンを使用せず天然由来の成分を前面に押し出した仕様となっている。",
+      "source": "手机新浪网",
+      "url": "https://k.sina.com.cn/article_7879923728_1d5ae181006802cwu0.html?from=tech",
+      "score": 82,
+      "commercial_score": 85,
       "product_keywords": [
-        "火鍋の素",
-        "中国 春雨",
-        "寛粉"
+        "王老吉",
+        "エナジードリンク"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "イオンが全国でイタリアフェア開催へ",
-      "summary_ja": "イオンはグループの全国約3700店で、10月30日から11月3日までイタリアフェアを実施する。直輸入のジェラートやチーズのほか、バリラの新作パスタなどを揃える。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d70c927d095058c84d4ea1d7ca356f3938be78ec",
+      "title_ja": "築地銀だこが日清食品とコラボ、謎肉をトッピングしたたこ焼きを限定発売",
+      "summary_ja": "築地銀だこは、日清食品の「カップヌードル異世界合体」シリーズと連携した「一度は食べたい‼謎肉たこ焼」を11月9日から期間・数量限定で発売する。具材にはおなじみの謎肉やたまごがトッピングされる。同日からはたこ焼き味のカップヌードルも展開される。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_708772/",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "バリラ パスタ",
-        "ジェラート",
-        "イタリア チーズ"
+        "築地銀だこ",
+        "カップヌードル",
+        "謎肉"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "食品各社がスナックを食事代替品へ改良",
-      "summary_ja": "食品メーカーがスナック類を栄養豊富な食事の代替品へと進化させている。時間に追われ利便性を求める消費者の需要に応える。",
-      "source": "朝日新聞",
-      "url": "https://www.asahi.com/ajw/articles/16892503",
+      "title_ja": "米国吉野家、牛丼の牛肉などを選べる醤油ラーメンの提供とブランド刷新を発表",
+      "summary_ja": "米国の吉野家は、看板メニューである牛丼の牛肉や鶏肉をトッピングできる「醤油ラーメン」を導入した。長年の中で最大級となるメニュー改革にあわせ、ブランドアイデンティティの刷新も行っている。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/yoshinoya-shoyu-ramen-menu-brand-refresh-302918847",
       "score": 80,
       "commercial_score": 75,
       "product_keywords": [
-        "完全栄養食",
-        "プロテインスナック",
-        "栄養バー"
+        "吉野家",
+        "醤油ラーメン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英外食の約4割がおひとりさま利用に",
-      "summary_ja": "飲食店を訪れる客の約4割を単独の客（ソロ客）が占めていることが明らかになった。近年は自分自身と出かける「ソロデート」の考え方が広まり、1人での外食を楽しむ人が増えている。",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/solo-date-restaurant-visits-b3073035.html",
+      "title_ja": "英キャドバリーのミントチョコバー、3年ぶりにスーパーの店頭へ復活",
+      "summary_ja": "英菓子大手キャドバリー（Cadbury）の「ミント・トワール（Mint Twirl）」が、ディスカウント店B&Mにて1ポンドで再発売された。店頭から姿を消して以来3年ぶりの復活となり、英国の買い物客の間で大きな話題を呼んでいる。",
+      "source": "Cotswold Journal",
+      "url": "https://www.cotswoldjournal.co.uk/news/national/uk-today/26672058.rare-cadbury-chocolate-bar-returns-uk-3-years/",
       "score": 80,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国茶百道の秋の新作が3000万杯突破",
-      "summary_ja": "中国の人気ティードリンクチェーン「茶百道（チャバイダオ）」で、秋の新商品が好調な売れ行きを見せている。同社のデータによると、秋以降の累計販売数が3000万杯を突破した。",
-      "source": "红餐网",
-      "url": "http://www.canyin88.com/zhuanlan/hongcanbianjibu/2026/1026/114145.html",
-      "score": 80,
-      "commercial_score": 80,
-      "product_keywords": [
-        "中国茶",
-        "フルーツティー"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "成城石井が人気ハンバーグを刷新",
-      "summary_ja": "成城石井は2000年から販売する看板ハンバーグシリーズを刷新し、2026年10月24日から全国の店舗や公式通販で発売した。黒毛和牛の比率を高めて肉の存在感を強化している。",
-      "source": "Excite エキサイト",
-      "url": "https://www.excite.co.jp/news/article/Ssnp_708680/",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "成城石井",
-        "ハンバーグ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "セブン中華まん全品20円引きセールへ",
-      "summary_ja": "セブン‐イレブンは全国の店舗で、10月27日から31日までの5日間限定で中華まん全品を20円引きで販売する。店頭の中華まんすべてが対象となる。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_708548/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "中華まん",
-        "肉まん"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ワンダーがAI活用の外食網を急速拡大",
-      "summary_ja": "米フードテック企業のワンダー（Wonder）が170店舗を展開し、買収に10億ドル超を投じている。さらにクリエイター向けに月額10ドルの飲食店開設支援AIツールを立ち上げる計画だ。",
-      "source": "Briefs Finance",
-      "url": "https://www.briefs.co/news/marc-lore-s-wonder-is-stitching-together-food-brands-electri/",
-      "score": 75,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英キャドバリーの人気チョコが18年ぶり復活",
-      "summary_ja": "英菓子大手キャドバリーのチョコレート菓子「アストロス（Astros）」が、18年ぶりに英国の店頭へ復活した。宇宙をテーマにしたビスケット入りチョコ菓子で、ディスカウント店などで販売されている。",
-      "source": "Dudleynews.co.uk",
-      "url": "https://www.dudleynews.co.uk/news/26660723.rare-cadbury-chocolate-back-uk-supermarket-18-years/",
-      "score": 75,
       "commercial_score": 85,
       "product_keywords": [
         "キャドバリー",
-        "輸入チョコレート"
+        "チョコレート"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "米コストコに新作アップルパイスイーツ",
-      "summary_ja": "米国のコストコで、フードコートの新デザートが話題を集めている。アップルパイのような風味を再現した期間限定メニューとなっている。",
-      "source": "The Kitchn",
-      "url": "https://www.thekitchn.com/costco-apple-pie-sundae-review-23850913",
-      "score": 70,
+      "title_ja": "米チックフィレイ、スコットランドに英国内初のドライブスルー店舗を出店へ",
+      "summary_ja": "米大手チキンチェーンのチックフィレイ（Chick-fil-A）が、スコットランドのハミルトンに新店舗を出店する。同社にとって英国内では6番目の拠点となり、ドライブスルーを併設した形態としては英国内で初となる。",
+      "source": "STV News",
+      "url": "https://news.stv.tv/west-central/chick-fil-a-to-open-first-ever-uk-drive-thru-restaurant-in-hamilton",
+      "score": 78,
+      "commercial_score": 60,
+      "product_keywords": [
+        "チキン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国のNOWWA珈琲、海外でGSやコンビニに併設する店中店を展開",
+      "summary_ja": "中国のコーヒーチェーン「NOWWA（挪瓦珈琲）」が、海外での店舗展開を加速させている。自動車修理工場やレストラン、ガソリンスタンド、コンビニ内に併設する形式を活用し、すでに4カ国で52店舗を出店している。",
+      "source": "红餐网",
+      "url": "http://www.canyin88.com/zhuanlan/hongcanbianjibu/2026/1027/114164.html",
+      "score": 78,
       "commercial_score": 70,
       "product_keywords": [
-        "コストコ",
-        "アップルパイ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "米スーパーが広告費削り低価格店を出店",
-      "summary_ja": "米カンザスシティのスーパーチェーンが、低価格を求める消費者の声に応えてディスカウント食料品店を開設した。広告費などの経費を削ることで、質の良い商品を安く提供するとしている。",
-      "source": "KCUR",
-      "url": "https://www.kcur.org/housing-development-section/2026-10-25/kansas-city-grocery-chain-launches-discount-store-as-customers-demand-value",
-      "score": 70,
-      "commercial_score": 60,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国の料理人イベント「中国厨師節」閉幕",
-      "summary_ja": "中国料理の技術や文化を讃える「第35回中国厨師節」が江蘇省蘇州で閉幕した。職人の技を結集し、新たな味の幕開けを目指す取り組みが行われた。",
-      "source": "红餐网",
-      "url": "http://www.canyin88.com/zixun/2026/10/26/114146.html",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "中華調味料"
+        "コーヒー"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "久原本家が道産さつまいもの限定品発売",
-      "summary_ja": "久原本家 北海道は、北海道産さつまいもを使った秋限定の3商品を10月26日より店舗限定で発売する。原料には「由栗いも」や「シルクスイート」を取り入れている。",
-      "source": "毎日キレイ",
-      "url": "https://mainichikirei.jp/prtimes/article/20261026prt00m100000567a.html",
-      "score": 65,
-      "commercial_score": 75,
+      "title_ja": "ファミマ、「本気のチョコがけパン」新作の生コッペパンを全国発売",
+      "summary_ja": "ファミリーマートは、「本気のチョコがけパン」シリーズの最新作として「本気のチョコ生コッペパン（たっぷりチョコホイップ）」を発売する。チョコホイップを贅沢に挟んだ仕上がりで、10月27日より全国の約1万6500店で取り扱う。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/ef53589399572fe1626f4919b6e2bce0d95c2568",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "久原本家",
-        "さつまいも",
-        "シルクスイート"
+        "コッペパン",
+        "チョコレート"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "カーニバルが新船上メニューをさらに展開",
-      "summary_ja": "米クルーズ大手のカーニバル・クルーズ・ラインは、新たなダイニングメニューを配備する客船を拡大している。10月からは新たに6隻の客船でこの新メニューの提供を始める。",
-      "source": "Cruise Industry News",
-      "url": "https://cruiseindustrynews.com/cruise-news/2026/10/carnival-to-roll-out-new-dining-menu-to-more-ships/",
-      "score": 65,
-      "commercial_score": 50,
+      "title_ja": "米ファストフードのソニック、ホリデー向け新ドリンク3種とバーガーを発表",
+      "summary_ja": "米ファストフードチェーンのソニック（Sonic）が、冬のホリデーシーズンに向けた新作メニューを公開した。ベリー風味のスプライトやバニラシロップ入りコーラ、ソフトクリームをのせたチェリーバニラ味のスラッシュフロートなどが登場する。公式アプリで10月26日から先行提供され、一般販売は11月2日に開始される。",
+      "source": "Food & Wine",
+      "url": "https://www.foodandwine.com/sonic-winter-holiday-menu-2026-12189034",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スプライト",
+        "コカコーラ"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国ケバブ賞のファイナリストが発表",
-      "summary_ja": "英国の「ブリティッシュ・ケバブ・アワード」で、リーズやブラッドフォードの飲食店が決勝進出候補にノミネートされた。現地で親しまれる名店の味わいに注目が集まっている。",
-      "source": "Yorkshire Evening Post",
-      "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/leeds-restaurant-named-as-finalist-british-kebab-awards-9307589",
-      "score": 65,
-      "commercial_score": 45,
+      "title_ja": "英大手スーパーのアズダ、ネット注文で食料品が半額になる割引コードを提供",
+      "summary_ja": "英大手スーパーチェーンのアズダ（Asda）が、ネット通販の利用客向けに大幅な割引企画を実施している。オンラインで食料品を60ポンド以上購入した顧客を対象に、実質半額となる割引コードを提供している。",
+      "source": "Daily Record",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/asda-shoppers-can-50-60-37806624",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
-        "ケバブ"
+        "アズダ",
+        "紅茶"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国スターバックス、158元のトートバッグなどオリジナルグッズが人気",
+      "summary_ja": "中国のスターバックスで、158元で販売されているオリジナルバッグが注目を集めている。カフェ市場での価格競争が激しさを増すなか、ブランド雑貨やグッズの販売に注力して顧客の支持を集めようとする動きがみられる。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202610/570866.shtml",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "スターバックス",
+        "トートバッグ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ほっともっと、100円のサイドメニューや彩りサラダを新たに発売",
+      "summary_ja": "持ち帰り弁当のほっともっとは、手頃な価格で弁当に添えられるサイドメニューを拡充する。税込100円のシリーズ5商品に加え、「8種具材の彩りサラダ」と「ポテトサラダ」を11月1日より販売開始する。",
+      "source": "アットプレス",
+      "url": "https://www.atpress.ne.jp/news/644525",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ほっともっと",
+        "サラダ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米チキンチェーンのザックスビーズ、ホリデー向け新作シェイクと特製ソース発売",
+      "summary_ja": "米フライドチキンチェーンのザックスビーズ（Zaxbys）が、ホリデーシーズン向けの限定商品を投入する。ペパーミント風味のクッキー＆クリームミルクセーキのほか、看板のチキンに甘辛い風味を加えるハニーチポトレソースを新たに発売する。",
+      "source": "Allrecipes",
+      "url": "https://www.allrecipes.com/zaxbys-holiday-menu-2026-12190172",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "ミルクセーキ",
+        "チポトレ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

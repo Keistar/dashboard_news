@@ -1,0 +1,34 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:34:42+09:00",
+  "stories": [
+    {
+      "title_ja": "英国、生物学的脅威に備える世界初のAIバイオ研究所を新設",
+      "summary_ja": "英国で先端人工知能とバイオセキュリティ科学を融合した世界初の専門研究所が設立された。官民の資金を活用し、新たな生物学的脅威から社会を守る取り組みを進める。",
+      "source": "Open Access Government",
+      "url": "https://www.openaccessgovernment.org/uk-launches-world-first-ai-biosecurity-lab-backed-by-300m-public-private-funding/215853/",
+      "score": 75,
+      "commercial_score": 20
+    },
+    {
+      "title_ja": "IBM、AIエージェントの業務判断を支える新統合基盤を発表",
+      "summary_ja": "米IBMは企業向けシステムを連携する新基盤を発表した。AIエージェントが業務の文脈を把握し、より高い確信を持って判断や作業を実行できるように支援する。",
+      "source": "IBM",
+      "url": "https://www.ibm.com/new/announcements/ibm-integration-intelligence-hub-gives-ai-the-context-to-act-not-just-access",
+      "score": 70,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "英中銀とFCA、金融界のAIと機械学習の利用実態を調査",
+      "summary_ja": "イングランド銀行と英金融行動監視機構は、国内金融機関を対象にAIおよび機械学習の利用実態を調査した。金融サービスにおける人工知能技術の活用状況を把握する狙いがある。",
+      "source": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
+      "score": 65,
+      "commercial_score": 25
+    }
+  ]
+}

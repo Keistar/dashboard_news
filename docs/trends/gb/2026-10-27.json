@@ -1,0 +1,137 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T16:07:36+09:00",
+  "trends": [
+    {
+      "keyword": "beans and water sell out",
+      "reason_ja": "政府による緊急時備蓄の呼びかけを受けて水や缶詰などの必需品や防災グッズの売上が急増している。",
+      "genre": "food",
+      "commercial_score": 95,
+      "product_keywords": [
+        "canned beans",
+        "bottled water bulk",
+        "emergency supply kit"
+      ],
+      "product_keywords_ja": [
+        "非常食 缶詰",
+        "保存水 備蓄",
+        "防災セット 防災グッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "備蓄の呼びかけで懐中電灯や電源の売上急増",
+          "summary_ja": "政府による家庭備蓄の呼びかけを受け、必需品の売れ行きが急上昇しています。懐中電灯や携帯ラジオ、モバイルバッテリーなどの販売数が大幅に増加しています。",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5rmy84np001o"
+        },
+        {
+          "title_ja": "緊急時の食料備蓄を巡り市民の関心高まる",
+          "summary_ja": "非常時に備えた物資の備蓄が促される中、長期分の食料を確保する備えに関心が集まっています。家庭での事前準備の重要性に改めて注目が集まっています。",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4w84pez9o"
+        }
+      ]
+    },
+    {
+      "keyword": "supermarket Christmas food",
+      "reason_ja": "大手スーパーがクリスマス商戦に向けた限定メニューや予約枠を発表し試食レビューが注目を集めている。",
+      "genre": "food",
+      "commercial_score": 95,
+      "product_keywords": [
+        "supermarket Christmas food",
+        "pigs in blankets",
+        "Christmas dinner groceries"
+      ],
+      "product_keywords_ja": [
+        "クリスマス パーティー料理",
+        "ローストチキン オードブル",
+        "クリスマス ディナー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "英スーパー各社のクリスマス限定フードを試食",
+          "summary_ja": "大手スーパーが展開するホリデー向けの新メニューや予約枠が一足先に公開されました。食卓を華やかに彩る多彩なごちそうメニューが紹介されています。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/christmasgifts/best-christmas-food-supermarket-food-b3073399.html"
+        },
+        {
+          "title_ja": "二重巻きベーコンの定番ソーセージが高評価",
+          "summary_ja": "冬の定番メニューであるベーコン巻きソーセージの審査結果が発表されました。二重に巻かれた濃厚な仕上がりが高評価を獲得しています。",
+          "source": "Good Housekeeping",
+          "url": "https://www.goodhousekeeping.com/uk/food/a74245313/aldi-double-wrapped-pigs-in-blankets/"
+        }
+      ]
+    },
+    {
+      "keyword": "Cadbury chocolate",
+      "reason_ja": "キャドバリーの懐かしの人気チョコ菓子が量販店で再販されファンから歓喜の声が上がっている。",
+      "genre": "food",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Cadbury Mint Twirl",
+        "Cadbury Astros",
+        "Cadbury Heroes tub"
+      ],
+      "product_keywords_ja": [
+        "キャドバリー チョコレート",
+        "輸入チョコレート",
+        "英国 お菓子"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "キャドバリーの人気ミントチョコが再登場",
+          "summary_ja": "一度店頭から姿を消していたミント味のチョコレートバーが店頭に復活しました。手頃な価格での再販に多くの買い物客が沸いています。",
+          "source": "The Hereford Times",
+          "url": "https://www.herefordtimes.com/news/national/uk-today/26672058.rare-cadbury-chocolate-bar-returns-uk-3-years/"
+        },
+        {
+          "title_ja": "詰め合わせチョコを好みに選べる新サービス",
+          "summary_ja": "クリスマスシーズンを前に、定番のアソートボックスを自由にカスタマイズできる取り組みが導入されました。長年親しまれてきた商品で好みの味を選べるようになります。",
+          "source": "Witney Gazette",
+          "url": "https://www.witneygazette.co.uk/news/26668355.cadbury-makes-new-change-heroes-tubs-first-time/"
+        }
+      ]
+    },
+    {
+      "keyword": "polar vortex",
+      "reason_ja": "北極成層圏の極渦が急激に弱まり冬の厳しい寒波が襲来する可能性が報じられ防寒対策への関心が高まっている。",
+      "genre": "outdoor",
+      "commercial_score": 80,
+      "product_keywords": [
+        "winter thermal jacket",
+        "space heater",
+        "cold weather clothing"
+      ],
+      "product_keywords_ja": [
+        "防寒着 冬物",
+        "暖房器具 ヒーター",
+        "あったかグッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "北極成層圏の極渦が急速に弱まる予報",
+          "summary_ja": "北極上空の成層圏極渦における風速が急低下する見通しが発表されました。大気の変動により気象パターンが大きく変化する可能性が示唆されています。",
+          "source": "The Watchers - Watching the world evolve and transform",
+          "url": "https://watchers.news/2026/10/26/arctic-stratospheric-polar-vortex-forecast-to-weaken-sharply-in-early-november/"
+        },
+        {
+          "title_ja": "極渦崩壊による寒波襲来の可能性を予測",
+          "summary_ja": "異例の極渦変動により欧米など広範囲で寒波が発生する懸念が指摘されています。冬の到来に向けた気象の変化に注目が集まっています。",
+          "source": "Rus Tourism News",
+          "url": "https://www.rustourismnews.com/2026/10/26/polar-vortex-could-collapse-in-early-november-in-unprecedented-weather-event/"
+        }
+      ]
+    }
+  ]
+}

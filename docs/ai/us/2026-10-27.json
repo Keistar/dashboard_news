@@ -1,0 +1,26 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:34:42+09:00",
+  "stories": [
+    {
+      "title_ja": "CodeRabbitがGPT-6.1 Solでコード解析と修正支援を強化",
+      "summary_ja": "コード解析ツールのCodeRabbitは、GPT-6.1 Solを活用して複雑なコードの安全性を診断する。支援機能を通じて、開発者による問題箇所の確認や修正案の検討を後押しする。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security/",
+      "score": 75,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "OpenAIが数学や物理の研究成果を公開、学術界との協力を推進",
+      "summary_ja": "米OpenAIは掛谷予想や指数時間仮説、量子色力学に関するAIモデルの成果を公開した。研究者がこれらの結果を検証し、さらなる研究に活用できるよう支援する。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "score": 70,
+      "commercial_score": 20
+    }
+  ]
+}
