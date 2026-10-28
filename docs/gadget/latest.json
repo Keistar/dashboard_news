@@ -1,30 +1,150 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:38:44+09:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:37:34+09:00",
   "stories": [
     {
-      "title_ja": "アップルが新型iPad mini発表、有機EL搭載で11月発売",
-      "summary_ja": "アップルが新型のiPad miniを発表した。8.5インチの有機ELディスプレイやA20 Proチップを採用し、IP67等級の防水・防塵性能を備えている。10月29日に予約受付を開始し、11月6日に発売される。",
-      "source": "AppBank",
-      "url": "https://www.appbank.net/2026/10/27/goods-books/3144694.php",
-      "score": 95,
+      "title_ja": "米アップル、M6チップ搭載MacBook Pro発表",
+      "summary_ja": "アップルが「M6」チップを搭載した新型MacBook Proを発表した。前世代のM5モデルからの性能向上やスペック、価格情報などが明らかにされている。",
+      "source": "Macworld",
+      "url": "https://www.macworld.com/article/3203946/m6-macbook-pro-guide-release-date-specs.html",
+      "score": 92,
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "Apple",
+        "ノートパソコン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "小米、最上位チップ搭載の「REDMI K100」発表",
+      "summary_ja": "小米（シャオミ）が新型スマートフォン「REDMI K100」を発表した。最新の「Snapdragon 8 Elite」チップや165Hz駆動の6.83インチ有機EL画面を搭載し、2999元からの価格で提供される。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1093500080_122014422",
+      "score": 88,
       "commercial_score": 90,
       "product_keywords": [
-        "iPad mini",
-        "Apple タブレット"
+        "Xiaomi",
+        "シャオミ",
+        "Redmi"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "富士フイルム、タッチ画面搭載の新型チェキを発表",
+      "summary_ja": "富士フイルムがハイブリッドインスタントカメラ「instax mini Evo 2」を発表した。シリーズ初となるタッチパネル式液晶モニターを備え、スマートフォンのプリンターとしても活用できる。",
+      "source": "Fashionsnap.com",
+      "url": "https://www.fashionsnap.com/article/2026-10-27/instax-mini-evo-2/",
+      "score": 82,
+      "commercial_score": 90,
+      "product_keywords": [
+        "チェキ",
+        "instax mini Evo",
+        "富士フイルム"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Nothingが新型スマホPhone (4b)を発売",
-      "summary_ja": "Nothingがミドルレンジの新型スマートフォン「Phone (4b)」を発売した。プロセッサにはSnapdragon 6 Gen 4と第6世代AIエンジンを搭載している。楽天モバイルやワイモバイル、IIJmioなどの通信事業者でも取り扱われる。",
-      "source": "気になる、記になる…",
-      "url": "https://taisy0.com/2026/10/27/229511.html",
-      "score": 85,
-      "commercial_score": 95,
+      "title_ja": "アップル、M6搭載Mac新機種を据え置き価格で投入",
+      "summary_ja": "アップルが「M6」チップを搭載した14インチMacBook ProとiMacを発表した。処理性能が強化された一方で前世代から価格が据え置かれ、消費者から歓迎されている。",
+      "source": "数码科技",
+      "url": "https://digi.creaders.net/2026/10/27/3062812.html",
+      "score": 82,
+      "commercial_score": 88,
+      "product_keywords": [
+        "MacBook Pro",
+        "iMac",
+        "Apple"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "NECPC、長時間駆動の14型ノートPCなど発売へ",
+      "summary_ja": "NECパーソナルコンピュータが14型ノートパソコン「LAVIE X14」など5機種を発表した。大容量バッテリーを積み約1kgの軽さで最大51時間の駆動を実現しており、10月29日に発売される。",
+      "source": "エルミタージュ秋葉原",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/1027/658139",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "NEC",
+        "LAVIE",
+        "ノートパソコン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "iQOO、新型スマホと8.8型タブレットを即日発売",
+      "summary_ja": "ゲーム向けブランドのiQOOが、スマートフォン「Neo12」と8.8インチの小型タブレット「iQOO Pad Pro」を発表した。発表会終了後すぐに販売が開始される予定となっている。",
+      "source": "news.zdwang.com",
+      "url": "http://news.zdwang.com/a/202610/28102545.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "iQOO",
+        "ゲーミングスマホ",
+        "Androidタブレット"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ソニー、裸眼3D表示対応の6型ディスプレイ発表",
+      "summary_ja": "ソニーは6型の空間再現ディスプレイ「ELF-MN1」を発表した。メガネなしの裸眼で立体映像が見られ、スマートフォンやパソコンとUSB-Cケーブルでつないで手軽に利用できる。発売は12月11日の予定。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/mynavi_3241161/",
+      "score": 78,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ソニー",
+        "空間再現ディスプレイ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "モトローラ、7000mAh電池の新型スマホ発表",
+      "summary_ja": "モトローラが中価格帯のスマートフォン「Moto G47 Power」を発表した。7000mAhの大容量バッテリーと1億800万画素のメインカメラ、3.5mmイヤホン端子を搭載している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Motorola-Moto-G47-Power-launches-with-108-MP-7-000-mAh-and-3-5-mm-headphone-jack.1435220.0.html",
+      "score": 76,
+      "commercial_score": 82,
+      "product_keywords": [
+        "モトローラ",
+        "Motorola",
+        "スマートフォン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "画面付きの音声送信機「AirFly View」発表",
+      "summary_ja": "ワイヤレスヘッドホン用ドングル「AirFly」シリーズに新モデル「AirFly View」が登場した。画面が搭載され設定が容易になったほか、次世代規格「Bluetooth Auracast」に対応している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/AirFly-View-wireless-headphones-dongle-has-a-display-for-easy-setup-and-management.1435347.0.html",
+      "score": 76,
+      "commercial_score": 90,
+      "product_keywords": [
+        "AirFly",
+        "オーディオトランスミッター",
+        "Bluetooth送信機"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "Nothingが新スマホ「Phone (4b)」を発売",
+      "summary_ja": "Nothingの新機種「Nothing Phone (4b)」が発売された。本体価格は5万9800円となっている。",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2151620.html",
+      "score": 75,
+      "commercial_score": 85,
       "product_keywords": [
         "Nothing Phone",
         "スマートフォン"
@@ -33,157 +153,137 @@
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "シャオミが100W急速充電対応の新型スマホを発表",
-      "summary_ja": "シャオミが新型スマートフォン「Poco X8s」を世界向けに発売した。120Hz対応の有機ELディスプレイや5000万画素のデュアルカメラを備え、100Wの急速充電に対応している。",
+      "title_ja": "レノボ、高輝度有機EL搭載の15型ノートPC発表",
+      "summary_ja": "レノボが15型ノートパソコン「Yoga Pro 9n」を世界市場向けに発表した。1100ニトの高輝度有機ELディスプレイと92.5Whの大型バッテリーを搭載している。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Xiaomi-launches-new-Poco-smartphone-globally-with-120-Hz-VRR-display-and-dual-50-MP-cameras.1434052.0.html",
-      "score": 80,
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-15-inch-laptop-internationally-with-96-GB-VRAM-and-1-100-nit-OLED-display.1435237.0.html",
+      "score": 75,
       "commercial_score": 80,
       "product_keywords": [
-        "Xiaomi Poco",
-        "シャオミ スマホ"
+        "Lenovo",
+        "Yoga",
+        "ノートパソコン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "シャオミが最大21日駆動の新型スマートバンドを欧州発売",
-      "summary_ja": "シャオミが手頃な新型スマートバンド「Smart Band 11」を欧州市場に投入した。2,000ニトの有機ELディスプレイを備え、最長21日間のバッテリー持続時間を実現している。NFC対応モデルも選べる。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Xiaomi-releases-new-budget-smartwatch-in-Europe-with-optional-NFC-and-21-days-battery-life.1434054.0.html",
-      "score": 80,
-      "commercial_score": 85,
+      "title_ja": "サムスン、新型折りたたみスマホ「W27」発表へ",
+      "summary_ja": "サムスンの高級折りたたみスマートフォン「W27」のレンダリング画像が公開された。「Galaxy Z Fold8 Ultra」をベースにしたモデルで、中国での公式発表を控えている。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-10-28/doc-iniwueft3715479.shtml",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "Xiaomi Smart Band",
-        "スマートバンド"
+        "サムスン",
+        "Galaxy",
+        "折りたたみスマホ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "電子ペーパー端末「reMarkable」新機種登場",
+      "summary_ja": "電子ペーパー端末の新モデル「reMarkable paper pure」が発表された。従来機よりも画面表示の品質が向上し、動作の高速化とバッテリー駆動時間の延長を実現している。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/laptops-tablets/remarkable-paper-pure-review-b3073994.html",
+      "score": 74,
+      "commercial_score": 80,
+      "product_keywords": [
+        "reMarkable",
+        "電子ペーパー",
+        "電子ノート"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "グーグルのウェアラブル新機種Fitbit Edgeが登場",
-      "summary_ja": "グーグルのウェアラブル機器に新モデル「Fitbit Edge」が加わった。画面のないトラッカー「Fitbit Air」とスマートウォッチ「Pixel Watch 5」の中間に位置付けられている。",
-      "source": "ITmedia",
-      "url": "https://www.itmedia.co.jp/pcuser/amp/2610/27/news015.html",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Fitbit",
-        "スマートウォッチ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "レノボが7色展開の手頃なノートPCを発表",
-      "summary_ja": "レノボが新型ノートパソコン「IdeaPad Vibe」を発表した。699ドルからの手頃な価格帯で、2つの画面サイズと7色の多彩なカラーバリエーションを取り揃えている。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/ifa-2026-lenovo-ideapad-vibe-budget-laptop-price-specs",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Lenovo ノートパソコン",
-        "IdeaPad"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "HPが最新CPU搭載の14型ノートパソコンを世界発売",
-      "summary_ja": "HPが新型14インチノートパソコン「EliteBook 6 G2i 14」を世界市場に向けて発売した。インテルのPanther Lake設計を採用し、最大64GBのメモリや800ニトの高輝度ディスプレイを搭載できる。",
+      "title_ja": "HP、5G通信対応の16型ビジネスノートPC発売",
+      "summary_ja": "HPが新型の16型ノートパソコン「EliteBook 6 G2i 16」を発売した。インテルのPanther Lakeプロセッサを採用し、5Gモバイル通信や最大64GBのメモリに対応する。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-globally-with-up-to-64-GB-RAM-800-nit-display-and-Intel-Panther-Lake.1434385.0.html",
-      "score": 75,
-      "commercial_score": 70,
+      "url": "https://www.notebookcheck.net/HP-releases-new-16-inch-laptop-with-5G-cellular-connectivity-64-GB-RAM-and-Intel-Panther-Lake.1435238.0.html",
+      "score": 72,
+      "commercial_score": 78,
       "product_keywords": [
-        "HP ノートパソコン",
-        "EliteBook"
+        "HP",
+        "EliteBook",
+        "ノートパソコン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "グラドが新開発ドライバー搭載の開放型ヘッドホンを発表",
-      "summary_ja": "オーディオ機器のグラドが開放型ヘッドホンの新製品「Signature S150」を発表した。上位モデルの振動板技術を応用した新開発の44mmドライバーを搭載し、重さ220gの本体に着脱式ケーブルを採用している。価格は295ドル。",
-      "source": "audioXpress",
-      "url": "https://audioxpress.com/news/grado-brings-signature-driver-technology-to-s150-open-back-headphones",
-      "score": 75,
-      "commercial_score": 75,
+      "title_ja": "単体通信とカメラ対応の格安スマートウォッチ発売",
+      "summary_ja": "Rogbidが新型スマートウォッチ「Model R5」を発売した。2.4インチの有機EL画面に加えてSIMスロットを備え、スマートフォンなしでの単体通信や500万画素カメラでの撮影に対応する。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/New-affordable-smartwatch-promises-a-SIM-slot-5MP-camera-and-a-2-4-inch-AMOLED-screen.1435088.0.html",
+      "score": 72,
+      "commercial_score": 82,
       "product_keywords": [
-        "Grado ヘッドホン",
-        "開放型ヘッドホン"
+        "スマートウォッチ",
+        "SIMフリー スマートウォッチ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "マーシャルからアンプ風パーティースピーカーが登場",
-      "summary_ja": "オーディオブランドのマーシャルから、パーティースピーカーの新製品「Bromley 150」が登場した。ギターアンプのようなレトロな外観デザインを採用している。",
-      "source": "GetNavi web",
-      "url": "https://getnavi.jp/gadgets/1118873/",
+      "title_ja": "オットキャスト、車載用スマホ連携機器の新型発表",
+      "summary_ja": "車載機器メーカーのオットキャストが新製品3モデルを発表した。CarPlayやAndroid Autoのワイヤレス化や、物理ボタンでの操作性向上などに対応している。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/response_418278/",
       "score": 70,
       "commercial_score": 80,
       "product_keywords": [
-        "Marshall スピーカー",
-        "マーシャル"
+        "オットキャスト",
+        "CarPlay",
+        "OTTOCAST"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "Vivoが1万mAhバッテリー搭載スマホを発表",
-      "summary_ja": "中国のVivoが新型スマートフォン「Y600」を発表した。10,000mAhの大容量バッテリーを備えているのが特徴で、プロセッサにはMediaTekのDimensity 7300eを採用している。",
-      "source": "91Mobiles",
-      "url": "https://www.91mobiles.com/hub/vivo-y600-key-specifications-display-chipset-revealed/",
+      "title_ja": "英で人気、暖房の温風を循環させる節電器具",
+      "summary_ja": "部屋の生活空間の高さに温風を循環させる約70ポンドの暖房補助器具が英メディアで紹介された。効率よく部屋を暖めることで、寒い季節の光熱費節約につながると利用者の支持を集めている。",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/70-radiator-gadget-shoppers-say-34824322",
       "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "Vivo スマートフォン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "SNS非対応で屋外遊びを促す子ども向けスマホが登場",
-      "summary_ja": "子ども向け端末のFreckleが、屋外での探検を後押しする新型スマートフォンを発表した。InstagramやTikTokなどのSNSを排除し、子どもの最初のスマートフォンとして安心して持たせられる設計になっている。",
-      "source": "Popbee",
-      "url": "https://popbee.com/en/lifestyle/freckle-introduces-a-smartphone-for-kids-aged-7-13-featuring-ai-tools-a-discovery-camera-and-outdoor-quests-without-social-media-or-web-browsing",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "キッズスマホ",
-        "子ども用スマホ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "モンベルから指を出してスマホ操作できる新作グローブ登場",
-      "summary_ja": "モンベルから、着用したままスマートフォンを操作できる2026年新作グローブが登場した。親指と人差し指を出せる構造になっており、手袋を脱ぐ手間なく端末を扱える。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/665ed1337d1d566d002f22b3e31cfda4bedfc67c",
-      "score": 65,
       "commercial_score": 85,
       "product_keywords": [
-        "モンベル 手袋",
-        "スマホ対応 手袋"
+        "ラジエーターファン",
+        "暖房ファン",
+        "省エネ"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "レノボが画面とダイヤル付きの安価なキーボードを発売",
-      "summary_ja": "レノボが小型画面と操作ダイヤルを備えたキーボード「GK1077 Lite」を発売した。4,000mAhのバッテリーを内蔵しながら、約19ドル（129元）という手頃な価格設定となっている。",
+      "title_ja": "インフィニックス、液冷機構のゲーム用スマホ発売",
+      "summary_ja": "インフィニックスがゲーミングスマートフォン「GT 50 Pro」を発売した。水冷機構を備え、144Hz駆動の有機EL画面や6500mAhの大容量バッテリーを搭載している。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Lenovo-s-Aurora-GK1077-Lite-launches-with-built-in-screen-and-rotary-dial-for-around-19.1433991.0.html",
-      "score": 65,
-      "commercial_score": 75,
+      "url": "https://www.notebookcheck.net/Infinix-s-new-midrange-gaming-smartphone-with-liquid-cooling-now-available-in-more-markets.1435008.0.html",
+      "score": 68,
+      "commercial_score": 72,
       "product_keywords": [
-        "Lenovo キーボード",
-        "ワイヤレスキーボード"
+        "ゲーミングスマホ",
+        "スマートフォン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "Chuwi、18型大画面ゲーミングノート発表",
+      "summary_ja": "Chuwiが18型ディスプレイを搭載した大型ゲーミングノート「GameBook Max」を発表した。インテルのCore i9とNVIDIAのRTXグラフィックスを採用している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Chuwi-s-latest-gaming-laptop-makes-a-curious-hardware-trade-off.1435861.0.html",
+      "score": 68,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Chuwi",
+        "ゲーミングノートPC",
+        "ゲーミングPC"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

@@ -1,217 +1,233 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:52:49+09:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:52:37+09:00",
   "stories": [
     {
-      "title_ja": "英議員連盟が肥満治療薬への公的アクセス拡大を政府に要請",
-      "summary_ja": "英国の議員らは、国民保健サービス（NHS）を通じた肥満治療薬へのアクセスを拡大するよう政府に求めた。健康格差への懸念から、GLP-1受容体作動薬の新たな目標設定や診療体制の整備を要請している。",
-      "source": "Healthcare Management Magazine",
-      "url": "https://www.healthcare-management.uk/mps-urge-government-boost-weight-loss-drugs-access",
-      "score": 80,
-      "commercial_score": 75,
+      "title_ja": "高級オフィスチェアなど職場の健康器具に予防効果薄の指摘、米研究",
+      "summary_ja": "人間工学に基づいた特殊な椅子やデスク、キーボードなどの導入について、反復運動過多損傷の軽減にはほとんど寄与しないとする研究が示された。オフィス環境の改善策として高額な投資を行っても効果が薄い可能性が指摘されている。",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/27/health/workplace-wellness-staples-like-your-ergonomic-chair-might-be-huge-waste-of-money-study/",
+      "score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "体重計",
-        "体組成計"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ドコモがスマホ操作履歴から睡眠の質を推定するAIを提供開始",
-      "summary_ja": "NTTドコモは、画面操作や位置情報などの利用状況から睡眠の質を推定できるAIを開発した。同社の「HealthTech基盤」の新たな機能として提供されている。",
-      "source": "NTTドコモ",
-      "url": "https://www.docomo.ne.jp/info/news_release/2026/10/27_03.html",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "スマートウォッチ",
-        "睡眠計"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "身体活動がうつ病の遺伝的リスクを和らげる可能性を示す米研究",
-      "summary_ja": "フィットビット（Fitbit）の運動記録と遺伝情報を用いて、身体活動とうつ病の重症度との関係を調べる研究成果が公表された。運動を行うことが、遺伝的なうつ病リスクを緩和するのに役立つ可能性が示されている。",
-      "source": "EurekAlert!",
-      "url": "https://www.eurekalert.org/news-releases/1148937",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "スマートウォッチ",
-        "活動量計"
+        "オフィスチェア",
+        "エルゴノミクス",
+        "キーボード"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "デジタル技術で家庭の食事を管理する健康推進の動きが加速",
-      "summary_ja": "中国の全国衛生健康大会を受け、予防を重視した健康管理を日常生活に浸透させる取り組みが進められている。デジタル技術を活用して家庭の適正な食事管理を支援し、高齢者や子どもの健康づくりを促す。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tjhz/2026-10-27/doc-iniwruyt8834879.shtml",
-      "score": 75,
-      "commercial_score": 70,
+      "title_ja": "武漢のスーパーに高齢者向けAIジム、買い物ついでに運動を支援",
+      "summary_ja": "中国・武漢市のスーパーに、50歳以上を対象とした高齢者向けフィットネス施設が開設された。AIスマート設備を用いて一人ひとりの健康カルテを作成し、日々の買い物ついでに手軽に運動できる環境を整えている。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1093763475_100199096",
+      "score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "キッチンスケール",
-        "スマート調理器"
+        "シニアフィットネス",
+        "トレーニング器具",
+        "健康管理"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "香港のスポーツ総生産が拡大し24時間ジムが急増",
-      "summary_ja": "香港のスポーツ関連産業の域内総生産が700億香港ドルに達し、2019年比で19パーセント増加した。24時間営業のフィットネス施設が4年で1.5倍に増えたほか、マラソンの応募者数も過去最多を記録している。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261027/618553.html",
-      "score": 75,
-      "commercial_score": 80,
+      "title_ja": "ドコモ、スマホの利用状況から睡眠の質を推定するAIを開発",
+      "summary_ja": "NTTドコモは、端末の操作履歴や位置情報などのデータから睡眠の質を推定できるAI技術を開発した。10月から「HealthTech基盤」の機能として提供を開始し、自治体や企業向けのヘルスケア事業でも活用されている。",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2151616.html",
+      "score": 80,
+      "commercial_score": 65,
       "product_keywords": [
-        "ランニングシューズ",
+        "スマートウォッチ",
+        "ヘルスケア",
+        "睡眠"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "不眠症が脳卒中や認知症など重大な健康疾患リスクと関連、米研究",
+      "summary_ja": "新たな研究において、不眠症が脳卒中や認知症、複数の精神的健康疾患の発症リスク上昇と結びついていることが示された。継続的な睡眠障害が全身の重大な健康問題に及ぼす影響への注意が促されている。",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/Health/insomnia-linked-higher-risk-dementia-suicide-stroke-major/story?id=136747580",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "安眠グッズ",
+        "耳栓",
+        "アイマスク"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英議員ら、肥満患者向け減量注射薬の提供拡大を医療制度に要請",
+      "summary_ja": "イギリスの有力議員らが、国民保健サービス（NHS）に対し減量注射薬の普及計画を緊急に見直すよう求めた。肥満に直面する患者がより広く治療薬を利用できるよう、積極的な提供体制を求めている。",
+      "source": "Nursing Times",
+      "url": "https://www.nursingtimes.net/public-health/mps-call-for-wider-access-to-weight-loss-drugs-for-people-with-obesity-27-10-2026/",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "体脂肪計",
+        "体重計",
+        "サプリメント"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の地下鉄駅にジムや夜間教室が続々登場、通勤と暮らしが一体化",
+      "summary_ja": "広州や深センなど中国の主要都市の地下鉄駅で、フィットネスジムや飲食店、夜間スクールなどの誘致が進んでいる。通勤の移動空間と日常の生活利便サービスを結びつけ、駅の多機能化を図っている。",
+      "source": "新湖南",
+      "url": "https://www.hunantoday.cn/news/xhn/202610/34103563.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "フィットネスジム",
+        "ヨガマット",
         "スポーツウェア"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "旅先で自宅より眠れない人が6割超にのぼるとの民間調査",
-      "summary_ja": "睡眠ブランド「NELL」の調査によると、宿泊旅行者の64パーセントが旅先では自宅より眠れないと回答した。女性では72パーセントに達し、睡眠の状態が旅行満足度に影響している。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/398a315eb2cbb87b404b41e145ffd5d656510c47",
-      "score": 70,
-      "commercial_score": 85,
+      "title_ja": "朝の有酸素運動が夜間血圧の低下や睡眠改善に寄与、学会で発表",
+      "summary_ja": "帝京科学大学の研究チームが、有酸素運動を行う時間帯による血圧や睡眠への影響を調査した。朝に運動を行うことで、夕方に比べて夜間の収縮期血圧低下や睡眠の質改善に急性効果が見られたとしている。",
+      "source": "CareNet.com",
+      "url": "https://www.carenet.com/news/general/carenet/63803",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "マットレス",
-        "安眠枕",
-        "アイマスク"
+        "ランニングシューズ",
+        "血圧計",
+        "スマートウォッチ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "自宅での眼球運動訓練で手の協調性や認識力が向上と筑波大が発表",
-      "summary_ja": "筑波大学は、小中学生が在宅で動画を見ながら眼球運動トレーニングを24週間継続した研究成果を発表した。目と手を協調的に使う能力や、動く数字を正確に読み取る力の向上が確認された。",
-      "source": "QLifePro",
-      "url": "https://www.qlifepro.com/news/20261027/eye-movements.html",
-      "score": 70,
+      "title_ja": "ボランティアや運動などの社会活動が高齢者の認知機能維持を後押し",
+      "summary_ja": "ボランティア活動やスポーツクラブへの参加が、高齢者の認知機能の維持を助けるという研究成果が発表された。社会的なつながりを持つ生活習慣が、脳の健康維持に寄与する可能性を示している。",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/social-activities-later-in-life-could-boost-cognitive-health-study-finds",
+      "score": 75,
       "commercial_score": 50,
       "product_keywords": [
-        "ビジョントレーニング"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ビールや蒸留酒はワインより口腔内細菌に影響するとの米研究",
-      "summary_ja": "米国の成人5500人以上を対象とした調査で、飲酒と口腔内細菌の多様性や構成との強い関連が確認された。アルコール摂取量が多いほど細菌叢に違いが見られ、ワインに比べてビールや蒸留酒でより強い関連が示されている。",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20261026/Beer-and-liquor-show-more-oral-bacteria-links-than-wine-in-a-large-US-study.aspx",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "マウスウォッシュ",
-        "デンタルフロス"
+        "シニア",
+        "ウォーキングシューズ",
+        "フィットネス"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "若者の3人に1人が薬や飲酒の相談に生成AIを利用と米調査",
-      "summary_ja": "ラトガース大学の調査によると、若年層の3人に1人以上が薬物や飲酒に関する情報収集にチャットGPTなどのAIを利用している。研究者は健康や薬に関する情報をAIに頼る傾向に懸念を示している。",
-      "source": "WRNJ Radio",
-      "url": "https://wrnjradio.com/rutgers-study-finds-1-in-3-young-adults-use-ai-chatbots-for-drug-and-alcohol-information/",
-      "score": 70,
-      "commercial_score": 35,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英国で医療AIの更新時に医療従事者の訓練が必要と指摘",
-      "summary_ja": "英国の医療現場におけるAI導入で、モデル更新時に現場スタッフが対応するための訓練体制が必要だと指摘された。臨床試験で良好だったツールでも導入後に変化する可能性があり、医療従事者が変化を把握できる仕組みが求められている。",
-      "source": "Health Tech World",
-      "url": "https://htworld.co.uk/news/opinion/nhs-ai-tools-need-a-staff-rehearsal-when-the-model-changes-lead26/",
-      "score": 70,
-      "commercial_score": 45,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "「1日30分睡眠」を掲げた日本ショートスリーパー育成協会が解散",
-      "summary_ja": "「1日30分睡眠」を公言する実業家の堀大輔氏が代表を務める日本ショートスリーパー育成協会が解散した。官報で公告され、関連する情報商材の募集も終了している。",
-      "source": "産経ニュース",
-      "url": "https://www.sankei.com/article/20261027-GAH4FMAIZZHONOFMB7GWMEOTSA/",
-      "score": 65,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "自宅ピラティスを効果的にするおすすめ器具を専門家が紹介",
-      "summary_ja": "ピラティスの指導者が、自宅でのトレーニング効果を高めるおすすめ器具を紹介している。マットや軽量ダンベル、滑り止めソックス、リフォーマーなどの活用が提案されている。",
-      "source": "Prevention",
-      "url": "https://www.prevention.com/fitness/workout-clothes-gear/a73495620/best-pilates-gear/",
-      "score": 65,
-      "commercial_score": 95,
+      "title_ja": "遠隔モニタリング技術で心不全の悪化を早期検知、英病院が入院防止へ",
+      "summary_ja": "イギリスの病院グループが、遠隔モニタリング技術を活用して心不全の悪化を早期に察知する取り組みを進めている。迅速な治療介入を行うことで、患者の重症化や再入院を減らす成果を狙う。",
+      "source": "Royal Papworth Hospital",
+      "url": "https://royalpapworth.nhs.uk/our-hospital/latest-news/technology-helping-patients-heart-failure-avoid-hospital-admission",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "ピラティスマット",
-        "滑り止め靴下",
-        "ピラティスマシン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "マンチェスターで若者向け新メンタルヘルス支援計画が始動",
-      "summary_ja": "国民保健サービス（NHS）グレーター・マンチェスターは、若者を対象とした新たなメンタルヘルス支援事業を開始した。2029年までに7000人の若者を対象に、社会的ケアに精神保健の専門家を派遣する。",
-      "source": "Healthcare Management Magazine",
-      "url": "https://www.healthcare-management.uk/manchester-pilot-mental-health-programme-people",
-      "score": 65,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "冬の体調不安は地域薬局への相談を推奨と英メディア報道",
-      "summary_ja": "冬の到来に伴う医療現場の負担を軽減するため、地域薬局の活用が推奨されている。かかりつけ医や救急外来の逼迫を防ぎ、身近な健康不安の相談先として薬剤師が役割を担う。",
-      "source": "BusinessMole",
-      "url": "https://www.businessmole.com/local-pharmacists-step-up-your-go-to-for-winter-health-concerns-amid-nhs-strain/",
-      "score": 65,
-      "commercial_score": 65,
-      "product_keywords": [
-        "風邪薬",
-        "のど飴"
+        "スマートウォッチ",
+        "心拍計",
+        "ヘルスケアモニター"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "スイスの長寿健康ブランドが北京に進出し中国展開を推進",
-      "summary_ja": "スイスの長寿健康ブランドが北京に進出し、中国での市場展開を開始した。富隆グループとの連携により、健康寿命に関連する事業の推進を図る。",
-      "source": "中国经济网",
-      "url": "http://www.ce.cn/cysc/newmain/yc/jsxw/202610/t20261027_3272915.shtml",
-      "score": 65,
-      "commercial_score": 75,
+      "title_ja": "中国「男性健康の日」、不調の我慢から積極的な健康管理への転換喚起",
+      "summary_ja": "10月28日の中国「男性健康の日」に合わせて、男性のライフステージに応じた健康管理の重要性が呼びかけられた。健康は受け身で我慢するものではなく、自ら主体的に維持していくべきものとして啓発を行っている。",
+      "source": "手机新浪网",
+      "url": "https://k.sina.com.cn/article_1411163204_541ca44402001x1ve.html?from=health",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
-        "サプリメント",
+        "メンズヘルス",
+        "マルチビタミン",
         "健康食品"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "山東省済寧市で身近に運動できる15分健身圏の整備が進む",
-      "summary_ja": "山東省済寧市で市民が身近に利用できる「15分フィットネス圏」の整備が進められている。半程マラソン大会の開催をはじめ、市民が日常的に運動に親しめる環境づくりが活発化している。",
-      "source": "手机新浪网",
-      "url": "http://k.sina.com.cn/article_5170942053_13436506500101oyw4.html?cre=tianyi&mod=pcspth&loc=15&r=0&rfunc=64&tj=cxvertical_pc_spth&tr=12&from=sports&subch=cba",
-      "score": 60,
-      "commercial_score": 65,
+      "title_ja": "マイトレックス、音で睡眠を促す枕をクラウドファンディング発売",
+      "summary_ja": "美容健康ブランドのMYTREXが、音を活用して就寝をサポートする枕「MYTREX ZONE Pillow」を発表した。10月31日より応援購入サービスのMakuakeにて先行販売を開始する。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/446/4446367/?rss",
+      "score": 72,
+      "commercial_score": 95,
       "product_keywords": [
-        "ウォーキングシューズ",
-        "ランニングポーチ"
+        "MYTREX",
+        "安眠枕",
+        "快眠グッズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "40〜50代女性の半数が睡眠に不満、中途覚醒と栄養の関係が注目",
+      "summary_ja": "40〜50代の女性を対象とした意識調査で、約半数が理想的な睡眠を取れていないと答えた。夜中に目が覚めてしまう中途覚醒と栄養との関連については、85.5％の人が知らなかったと回答している。",
+      "source": "クレアウェブ",
+      "url": "https://crea.bunshun.jp/ud/pressrelease/6ae176f87079c87a3a000010",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "安眠グッズ",
+        "サプリメント",
+        "アイマスク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "骨折の多くは予防可能とする分析結果を受け、英政府が対応を表明",
+      "summary_ja": "王立骨粗鬆症協会が、骨折の多くは事前に対策することで防ぐことが可能だとする新たな分析結果を提示した。これに対して英国政府が骨粗鬆症対策などの支援方針を表明している。",
+      "source": "Cambridge News",
+      "url": "https://www.cambridge-news.co.uk/news/health/government-responds-royal-osteoporosis-society-34826858",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "カルシウム",
+        "ビタミンD",
+        "骨粗鬆症"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "高齢者の骨の健康、カルシウムだけでなく食事や睡眠からのケアを推奨",
+      "summary_ja": "高齢者の骨の健康維持について、単にカルシウムを補給するだけでなく日々の食事や睡眠習慣を通じたケアが呼びかけられている。生活習慣全体を見直して骨を強く保つ重要性が解説された。",
+      "source": "新华网",
+      "url": "https://www.news.cn/yinling/20261028/8f3dc05cc9674dd188092b9ccc6d977b/c.html",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "カルシウム",
+        "健康食品",
+        "シニアサプリ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "31歳時の男性ホルモン値が低くても15年後の健康状態は良好と報告",
+      "summary_ja": "フィンランド人男性約2700人を対象に、31歳時のテストステロン濃度と46歳時点の健康状態を追跡調査した。ホルモン濃度の高低にかかわらず、全体として良好な健康状態と優れた生活の質が報告されている。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261027/Men-with-lower-testosterone-at-31-reported-good-health-15-years-later.aspx",
+      "score": 65,
+      "commercial_score": 55,
+      "product_keywords": [
+        "メンズヘルス",
+        "亜鉛",
+        "サプリメント"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

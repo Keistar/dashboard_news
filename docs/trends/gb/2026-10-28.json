@@ -1,0 +1,125 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T16:07:01+09:00",
+  "trends": [
+    {
+      "keyword": "M6 MacBook Pro",
+      "reason_ja": "アップルがAI性能を大幅に引き上げたM6搭載MacBook Proを発表し英国内でも話題となっている。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "Apple MacBook M6"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "Apple ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "MacBook Proが最新チップへ刷新、性能向上",
+          "summary_ja": "主力ノートパソコンが最新チップに更新されて登場した。洗練された仕様を維持しながら内部性能が高められている。",
+          "source": "PCMag UK",
+          "url": "https://uk.pcmag.com/laptops/168114/apple-event-announces-14-inch-macbook-pro-m6-upgrade-starting-1999"
+        },
+        {
+          "title_ja": "AI機能と電池持ちを強化した新型ノートPC登場",
+          "summary_ja": "端末上での人工知能処理能力と電池の持続時間を強化した新型機が発表された。競合製品に対する優位性を維持する狙いがある。",
+          "source": "ChannelLife UK",
+          "url": "https://channellife.co.uk/story/apple-unveils-14-inch-macbook-pro-with-m6-ai-boost"
+        }
+      ]
+    },
+    {
+      "keyword": "Fitbit Edge",
+      "reason_ja": "最新の健康管理トラッカーFitbit Edgeのレビューが公開され買い替えの検討が進んでいる。",
+      "genre": "health",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Fitbit Edge",
+        "Fitbit fitness tracker"
+      ],
+      "product_keywords_ja": [
+        "Fitbit スマートウォッチ",
+        "フィットネストラッカー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "最新フィットネス端末の実用性を検証したレビュー",
+          "summary_ja": "新登場の健康管理端末を実際に身につけて使い心地を確かめた評価記事が掲載された。価格に見合う価値があるかが分析されている。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/fitbit-edge-review-b3073259.html"
+        },
+        {
+          "title_ja": "画面の明るさと健康計測を向上させた新端末を評価",
+          "summary_ja": "従来の端末と比べて画面の見やすさや測定機能が向上している。日常的な利用における利便性や他機種との違いが比較されている。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/google-fitbit-edge/"
+        }
+      ]
+    },
+    {
+      "keyword": "Radiator Booster",
+      "reason_ja": "冷え込みが厳しくなる中、暖房効率を高めて光熱費を抑えるラジエーターグッズが注目されている。",
+      "genre": "kaji",
+      "commercial_score": 85,
+      "product_keywords": [
+        "radiator booster",
+        "radiator fan heater"
+      ],
+      "product_keywords_ja": [
+        "ラジエーターファン",
+        "暖房 節電 グッズ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "暖房効率を上げて光熱費を抑える小型機器が話題",
+          "summary_ja": "部屋の低い位置に暖かい空気を循環させる暖房補助器具が人気を集めている。寒冷期に電気代や燃料代を抑えたい消費者から評価されている。",
+          "source": "Liverpool Echo",
+          "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/70-radiator-gadget-shoppers-say-34824322"
+        }
+      ]
+    },
+    {
+      "keyword": "UK Snow Forecast",
+      "reason_ja": "英国各地で今季初となる降雪の予報が出され、防寒対策や交通への関心が高まっている。",
+      "genre": "outdoor",
+      "commercial_score": 75,
+      "product_keywords": [
+        "winter jacket UK",
+        "snow boots UK",
+        "radiator"
+      ],
+      "product_keywords_ja": [
+        "防寒着",
+        "スノーブーツ",
+        "電気ヒーター"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "英国で今冬初の降雪予報、各地の天候マップ公開",
+          "summary_ja": "気象の変化に伴い国内各地で雪が降る見通しが伝えられている。地図を用いて降雪が予測される地域が示されている。",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/home-news/met-office-snow-weather-forecast-scottish-highlands-b3073910.html"
+        },
+        {
+          "title_ja": "気象庁の予測マップで国内複数地域に雪の影響",
+          "summary_ja": "暴風雨に続いて雪の影響が警戒されている。広い地域で生活や交通への注意が呼びかけられている。",
+          "source": "AOL.co.uk",
+          "url": "https://www.aol.co.uk/articles/met-office-maps-show-snow-035900000.html"
+        }
+      ]
+    }
+  ]
+}

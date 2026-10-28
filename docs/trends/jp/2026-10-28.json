@@ -1,0 +1,131 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T16:07:01+09:00",
+  "trends": [
+    {
+      "keyword": "M6 MacBook Pro",
+      "reason_ja": "Appleが最新のM6チップを搭載した新型MacBook Proを発表し関心を集めている。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "M6 MacBook Pro",
+        "Apple ノートパソコン"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "Apple ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "Appleが新型M6チップ搭載MacBook Proを発表",
+          "summary_ja": "Appleが新しいプロセッサを搭載したノートパソコンを発表した。一般向けに加えて学生や教職員向けの価格も案内されている。",
+          "source": "BRIDGE（ブリッジ）",
+          "url": "https://thebridge.jp/2026/10/apple-macbook-pro-14-m6"
+        },
+        {
+          "title_ja": "M6搭載MacBook ProはAIとグラフィック性能が向上",
+          "summary_ja": "新型プロセッサの採用により人工知能の処理能力や映像処理が強化された。通信規格の刷新や長時間のバッテリー駆動にも対応している。",
+          "source": "ITmedia",
+          "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/"
+        }
+      ]
+    },
+    {
+      "keyword": "楽天ブラックフライデー",
+      "reason_ja": "年に一度の大型セールである楽天ブラックフライデーの開催日程予想や攻略法が話題となっている。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "楽天 ブラックフライデー",
+        "楽天市場 セール"
+      ],
+      "product_keywords_ja": [
+        "楽天 ブラックフライデー",
+        "楽天市場 セール"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "楽天ブラックフライデーの日程予想と買いまわりのコツ",
+          "summary_ja": "年末に向けて楽天市場の大型セールへの関心が高まっている。家電から日用品までをお得に購入できる機会として注目されている。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/d432bcd8ed9599d72dd770517191e177c3f816eb"
+        },
+        {
+          "title_ja": "楽天ブラックフライデーの開催予測とお得な活用術",
+          "summary_ja": "過去の実績からセールの開催時期が予測され、ポイント還元を高める買い方の手順が紹介されている。カードの準備や対象商品の選び方なども解説されている。",
+          "source": "FUNQ",
+          "url": "https://www.funq.jp/flick/article/1095239/"
+        }
+      ]
+    },
+    {
+      "keyword": "ケンタライスBOX",
+      "reason_ja": "ケンタッキーフライドチキンがチキンと炊き込みご飯を組み合わせた新メニューを発表し話題を集めている。",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ケンタライスBOX",
+        "ケンタッキー チキン"
+      ],
+      "product_keywords_ja": [
+        "ケンタッキー チキン",
+        "フライドチキン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ケンタッキーが新メニューのケンタライスBOXを発売",
+          "summary_ja": "日本ケンタッキーが鶏だしのご飯にチキンを乗せたライスメニューを一部店舗にて数量限定で発売する。お箸で食べる新しいスタイルの商品となっている。",
+          "source": "グルメ Watch",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2151799.html"
+        },
+        {
+          "title_ja": "チキンと炊き込みご飯を合わせたケンタライスBOX登場",
+          "summary_ja": "KFC自慢のチキンと鶏の旨みが広がる炊き込みご飯を組み合わせた新メニューが展開される。手軽さと食べ応えを両立させた仕上がりとなっている。",
+          "source": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000497.000032088.html"
+        }
+      ]
+    },
+    {
+      "keyword": "空間再現ディスプレイ ELF-MN1",
+      "reason_ja": "ソニーがメガネ不要で立体映像を鑑賞できる小型空間再現ディスプレイを発表し話題を呼んでいる。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "空間再現ディスプレイ",
+        "ELF-MN1",
+        "ソニー ディスプレイ"
+      ],
+      "product_keywords_ja": [
+        "空間再現ディスプレイ",
+        "ソニー ディスプレイ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ソニーが裸眼で立体視できる小型ディスプレイを発表",
+          "summary_ja": "専用メガネを使わずに立体映像を楽しめる小型ディスプレイが披露された。デジタルフィギュアに対応しており、机の上にキャラクターを表示して鑑賞できる。",
+          "source": "ファミ通",
+          "url": "https://www.famitsu.com/article/202610/92291"
+        },
+        {
+          "title_ja": "ソニーが小型空間再現ディスプレイの新モデルを発表",
+          "summary_ja": "ソニーが立体的な映像表示が可能な小型機器を発表した。手頃な価格帯で卓上に置けるサイズ感となっている。",
+          "source": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2151827.html"
+        }
+      ]
+    }
+  ]
+}

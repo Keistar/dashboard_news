@@ -1,106 +1,204 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:34:42+09:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:34:22+09:00",
   "stories": [
     {
-      "title_ja": "テンセント、同時通訳AIモデルを発表し翻訳アプリで無料公開",
-      "summary_ja": "中国のテンセント（騰訊）は同時通訳AIモデル「Hy-SimulMT」を発表し、オープンソース化した。中英の音声リアルタイム翻訳や声色の再現に対応しており、同社の翻訳アプリにて無料で提供される。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261027/618646.html",
-      "score": 85,
+      "title_ja": "PFNが国産AI基盤の最新モデルを提供",
+      "summary_ja": "プリファードネットワークス（PFN）が、国産の生成AI基盤モデルの最新版「PLaMo 3.1 Prime」の提供を始めた。ウェブ検索機能や詳細な調査機能に対応している。チャットサービスのほか、APIやオンプレミス環境でも利用できる。",
+      "source": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2151522.html",
+      "score": 80,
+      "commercial_score": 65,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "オープンAIとオラクルが連携を拡大",
+      "summary_ja": "オープンAI（OpenAI）とオラクルが提携を拡大した。オラクルの業務向けアプリケーションやAIエージェントをChatGPTに導入し、オラクルの新たな製品群の強化を図る。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt/",
+      "score": 80,
+      "commercial_score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国の数学チームが国産AIで難問を証明",
+      "summary_ja": "中国の研究チームが、独自開発のマルチモーダルAIを活用して長年未解決だった数学の難問「ギース予想」を証明した。北京大学のチームが開発した検証システムにより、証明の正確性も厳格に確認された。",
+      "source": "智源社区",
+      "url": "https://hub.baai.ac.cn/view/59114",
+      "score": 80,
+      "commercial_score": 30,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "アンソロピックがAI活用で創薬を加速",
+      "summary_ja": "アンソロピック（Anthropic）が、AI「Claude（クロード）」を活用した疾患治療や創薬の進捗を報告した。6つの組織と提携しているほか、小児の希少な筋ジストロフィーなどに向けた独自の創薬研究も進めている。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 75,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "アンソロピックが1人運営の製薬企業を買収",
+      "summary_ja": "アンソロピックがバイオ企業のミスリル・メディシン（Mithril Medicine）を買収した。同社の唯一の従業員はClaudeを用いて11の外部研究所を統括し、筋ジストロフィー抗体の動物実験で成果を得ていた。",
+      "source": "R&D World",
+      "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
+      "score": 75,
+      "commercial_score": 40,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国の大型商戦前にAIを活用した購買比較",
+      "summary_ja": "中国の大型セール「双11（ダブルイレブン）」を控え、EC各社が消費クーポンの配布を強化している。一方で、セール価格と通常価格をAIで冷静に比較し、無駄遣いを防ごうとする動きも出ている。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1093780755_121345914",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "セール",
+        "日用品"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "中国で音声入力が意図を汲む新世代へ進化",
+      "summary_ja": "音声技術大手の科大訊飛（iFlytek）が、音声入力の最新機能「意図成稿」を発表した。利用者の発話内容を忠実に文字起こしするだけでなく、意図を汲み取って文章を自動で構成・成稿する。",
+      "source": "人工智能",
+      "url": "https://www.icloudnews.net/a/124291.html",
+      "score": 75,
       "commercial_score": 70,
       "product_keywords": [
-        "翻訳機",
-        "音声翻訳"
+        "ボイスレコーダー",
+        "マイク"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "上海でテック消費イベント開催、端末で動く生活向けAIが台頭",
-      "summary_ja": "上海で国際テクノロジー消費フェスティバルが開催され、400以上のブランドが出展した。人工知能技術がクラウドから端末へ、仮想空間から実生活へと広がる最新トレンドが紹介されている。",
-      "source": "新华网上海",
-      "url": "http://sh.news.cn/20261026/4990018e1eed4900879cb38b51f4683f/c.html",
-      "score": 80,
+      "title_ja": "生成AIで衣服の着用画像を作成する新興",
+      "summary_ja": "スタートアップ企業のCloverseが、生成AIを活用して衣服の着用画像を作成する事業を手がけている。2023年に設立された企業で、ファッション関連の画像生成技術で注目を集めている。",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961785?display=b",
+      "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "スマート家電",
-        "AIガジェット"
+        "レディースファッション",
+        "メンズファッション"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "専門家がAIの判断に従う割合を検証",
+      "summary_ja": "アンソロピックが実施した比較試験で、AIエージェントを使った専門アナリストが、AIが推奨する選択肢を86％の確率で採用した。AI支援業務において人間がどのように監視や判断を行うべきかについて考察している。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "score": 70,
+      "commercial_score": 30,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "セキュリティ企業がAIで脆弱性調査を迅速化",
+      "summary_ja": "セキュリティ企業のチェック・ポイントが、オープンAIの「Daybreak」を活用して脆弱性の調査を高速化している。脆弱性情報を素早く分析し、顧客向けの防御機能へ迅速に反映させている。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/check-point-daybreak/",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "セキュリティソフト"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英大学がAI支援の数学研究所を新設",
+      "summary_ja": "インペリアル・カレッジ・ロンドンが、500万ポンドの助成金を受けて「ラングランズ・ラボ」を設立する。人工知能が数学の研究や博士課程の教育をどのように変革できるかを探求する。",
+      "source": "Imperial College London",
+      "url": "https://www.imperial.ac.uk/news/articles/admin-services/giving/2026/5-million-grant-to-establish-new-laboratory-for-ai-assisted-mathematics-at-imperial/",
+      "score": 70,
+      "commercial_score": 30,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "AI時代に適した職種別の端末選定を提案",
+      "summary_ja": "AIの普及やハイブリッドワークの進展に伴い、従業員の職種ごとに適した機器選定が求められている。業務内容によって必要な技術要件が異なるため、全社一律の機器支給では効果が薄れている。",
+      "source": "CIO",
+      "url": "https://www.cio.com/article/4241396/the-right-device-for-every-role-in-the-ai-and-hybrid-era.html",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ノートパソコン",
+        "ビジネスPC"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "複数音が混ざる環境でも解析する音声基盤",
+      "summary_ja": "科大訊飛（iFlytek）が、新たな音声基盤モデル「SparkAudio 1.0」を公開した。複数の音源が重なり合って混ざった環境でも、正確に音声を認識・解析できる。",
+      "source": "智东西",
+      "url": "https://m.zhidx.com/p/604627.html",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スマートスピーカー",
+        "ワイヤレスイヤホン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "CodeRabbitがGPT-6.1 Solでコード解析と修正支援を強化",
-      "summary_ja": "コード解析ツールのCodeRabbitは、GPT-6.1 Solを活用して複雑なコードの安全性を診断する。支援機能を通じて、開発者による問題箇所の確認や修正案の検討を後押しする。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security/",
-      "score": 75,
-      "commercial_score": 55,
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "title_ja": "生成AI製のゲーム攻略サイト乱立が問題に",
+      "summary_ja": "ゲームの攻略情報を生成AIで作成したWikiサイトが乱立し、関係者の間で問題視されている。存在しないキャラクターの解放手順が掲載されるなどして、正確な攻略情報が埋もれる事態を招いている。",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261028-476063/",
+      "score": 65,
+      "commercial_score": 40,
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "英国、生物学的脅威に備える世界初のAIバイオ研究所を新設",
-      "summary_ja": "英国で先端人工知能とバイオセキュリティ科学を融合した世界初の専門研究所が設立された。官民の資金を活用し、新たな生物学的脅威から社会を守る取り組みを進める。",
-      "source": "Open Access Government",
-      "url": "https://www.openaccessgovernment.org/uk-launches-world-first-ai-biosecurity-lab-backed-by-300m-public-private-funding/215853/",
-      "score": 75,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "OpenAIが数学や物理の研究成果を公開、学術界との協力を推進",
-      "summary_ja": "米OpenAIは掛谷予想や指数時間仮説、量子色力学に関するAIモデルの成果を公開した。研究者がこれらの結果を検証し、さらなる研究に活用できるよう支援する。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "score": 70,
-      "commercial_score": 20,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "IBM、AIエージェントの業務判断を支える新統合基盤を発表",
-      "summary_ja": "米IBMは企業向けシステムを連携する新基盤を発表した。AIエージェントが業務の文脈を把握し、より高い確信を持って判断や作業を実行できるように支援する。",
-      "source": "IBM",
-      "url": "https://www.ibm.com/new/announcements/ibm-integration-intelligence-hub-gives-ai-the-context-to-act-not-just-access",
-      "score": 70,
+      "title_ja": "車両運行管理でAIによる分析支援が拡大",
+      "summary_ja": "車両運行管理の現場において、従来のダッシュボードによるデータ確認からAIを活用した知見の抽出への移行が進んでいる。自然言語で質問を入力することで、必要な分析結果を効率的に得られるようになる。",
+      "source": "Fleet News",
+      "url": "https://www.fleetnews.co.uk/news/ai-shifts-fleet-priorities-from-data-to-insight",
+      "score": 65,
       "commercial_score": 50,
+      "product_keywords": [
+        "ドライブレコーダー"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "清華大学、AIエージェント網で意見が先鋭化する仕組みを解明",
-      "summary_ja": "中国の清華大学の研究チームが、英科学誌ネイチャー・コミュニケーションズに論文を発表した。複数のAIエージェントが交流するネットワーク内で意見の極化が生じる現象と、そのメカニズムを解明している。",
-      "source": "清华大学",
-      "url": "https://www.tsinghua.edu.cn/info/1175/128897.htm",
-      "score": 70,
-      "commercial_score": 15,
-      "country": "cn",
-      "country_label_ja": "中国"
+      "title_ja": "新潟で初の大型AI展示商談会が開幕",
+      "summary_ja": "新潟県内で初となるAIの大型展示・商談イベント「NIIGATA AI EXPO」が開幕した。会場では生成AIによる業務効率化の提案やロボットの実走展示が行われている。新潟県が進めるAI活用推進事業の一環として開催されている。",
+      "source": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/bsn/3043321",
+      "score": 60,
+      "commercial_score": 50,
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "英中銀とFCA、金融界のAIと機械学習の利用実態を調査",
-      "summary_ja": "イングランド銀行と英金融行動監視機構は、国内金融機関を対象にAIおよび機械学習の利用実態を調査した。金融サービスにおける人工知能技術の活用状況を把握する狙いがある。",
-      "source": "Bank of England",
-      "url": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
-      "score": 65,
-      "commercial_score": 25,
+      "title_ja": "グーグルが英教育機関のAI活用を評価",
+      "summary_ja": "グーグル（Google）が、英国ベイジングストークにある専門学校の先進的なAI導入手法を高く評価した。同校には以前グーグルの幹部が訪問していた。",
+      "source": "Basingstoke Gazette",
+      "url": "https://www.basingstokegazette.co.uk/news/26670368.google-praises-bcots-ai-approach-follow-up-visit/",
+      "score": 60,
+      "commercial_score": 30,
       "country": "gb",
       "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "AIで方言音声を再現した短編ドラマが上海の生成AI大会で受賞",
-      "summary_ja": "AIを用いて方言の吹き替えを行った60話の短編ドラマが、上海国際AIGCイノベーション大会で脚本賞を受賞した。人工知能による音声制作を活用した映像作品として評価されている。",
-      "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_1308038710_4df7163600101wu1o.html?from=tech&subch=otech",
-      "score": 65,
-      "commercial_score": 35,
-      "country": "cn",
-      "country_label_ja": "中国"
     }
   ]
 }
