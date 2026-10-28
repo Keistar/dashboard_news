@@ -1,0 +1,49 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:34:22+09:00",
+  "stories": [
+    {
+      "title_ja": "英大学がAI支援の数学研究所を新設",
+      "summary_ja": "インペリアル・カレッジ・ロンドンが、500万ポンドの助成金を受けて「ラングランズ・ラボ」を設立する。人工知能が数学の研究や博士課程の教育をどのように変革できるかを探求する。",
+      "source": "Imperial College London",
+      "url": "https://www.imperial.ac.uk/news/articles/admin-services/giving/2026/5-million-grant-to-establish-new-laboratory-for-ai-assisted-mathematics-at-imperial/",
+      "score": 70,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "AI時代に適した職種別の端末選定を提案",
+      "summary_ja": "AIの普及やハイブリッドワークの進展に伴い、従業員の職種ごとに適した機器選定が求められている。業務内容によって必要な技術要件が異なるため、全社一律の機器支給では効果が薄れている。",
+      "source": "CIO",
+      "url": "https://www.cio.com/article/4241396/the-right-device-for-every-role-in-the-ai-and-hybrid-era.html",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ノートパソコン",
+        "ビジネスPC"
+      ]
+    },
+    {
+      "title_ja": "車両運行管理でAIによる分析支援が拡大",
+      "summary_ja": "車両運行管理の現場において、従来のダッシュボードによるデータ確認からAIを活用した知見の抽出への移行が進んでいる。自然言語で質問を入力することで、必要な分析結果を効率的に得られるようになる。",
+      "source": "Fleet News",
+      "url": "https://www.fleetnews.co.uk/news/ai-shifts-fleet-priorities-from-data-to-insight",
+      "score": 65,
+      "commercial_score": 50,
+      "product_keywords": [
+        "ドライブレコーダー"
+      ]
+    },
+    {
+      "title_ja": "グーグルが英教育機関のAI活用を評価",
+      "summary_ja": "グーグル（Google）が、英国ベイジングストークにある専門学校の先進的なAI導入手法を高く評価した。同校には以前グーグルの幹部が訪問していた。",
+      "source": "Basingstoke Gazette",
+      "url": "https://www.basingstokegazette.co.uk/news/26670368.google-praises-bcots-ai-approach-follow-up-visit/",
+      "score": 60,
+      "commercial_score": 30
+    }
+  ]
+}

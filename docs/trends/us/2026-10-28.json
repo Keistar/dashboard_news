@@ -1,0 +1,131 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T16:07:01+09:00",
+  "trends": [
+    {
+      "keyword": "M6 MacBook Pro",
+      "reason_ja": "アップルが最新プロセッサM6を搭載した新しいMacBook Proを発表し話題となっている。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "M6 MacBook Pro",
+        "Apple laptop"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "Apple ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが新型チップ搭載ノートPCを発表",
+          "summary_ja": "アップルが主力ノートパソコンの最新機種を発表した。最新の無線通信技術に対応し、長時間のバッテリー動作を実現している。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+        },
+        {
+          "title_ja": "アップルが新型チップ搭載で主要PC製品を刷新",
+          "summary_ja": "一体型デスクトップや標準型ノートに最新チップが採用された。新たな通信用チップの搭載によって接続性能が向上している。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+        }
+      ]
+    },
+    {
+      "keyword": "mes Haircare",
+      "reason_ja": "オスカー女優のジェニファー・ローレンスがヘアケアブランドを立ち上げ話題となっている。",
+      "genre": "beauty",
+      "commercial_score": 90,
+      "product_keywords": [
+        "mes haircare",
+        "Jennifer Lawrence beauty"
+      ],
+      "product_keywords_ja": [
+        "ヘアケア",
+        "シャンプー"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気女優が新たなビューティーブランドを発表",
+          "summary_ja": "著名な映画俳優がヘアケア製品を中心とした新ブランドを始動させた。雑誌の特集を通じて開発に込めた思いを語っている。",
+          "source": "The Cut",
+          "url": "https://www.thecut.com/article/jennifer-lawrence-cut-cover-mes-october-2026.html"
+        },
+        {
+          "title_ja": "自分らしさを引き出す新ヘアケアブランドが登場",
+          "summary_ja": "独自の美意識を反映した新しいヘアケアブランドが披露された。自身のお手入れの習慣や髪型の変遷についても明かされている。",
+          "source": "InStyle",
+          "url": "https://www.instyle.com/jennifer-lawrence-interview-hair-care-brand-mes-12195398"
+        }
+      ]
+    },
+    {
+      "keyword": "Cyberpunk 2077 Update 2.5",
+      "reason_ja": "人気ゲームのサイバーパンク2077に最新大型アップデートが配信され注目を集めている。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Cyberpunk 2077",
+        "Cyberpunk game"
+      ],
+      "product_keywords_ja": [
+        "サイバーパンク2077",
+        "Cyberpunk 2077"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "サイバーパンクの大型更新が無料配信開始",
+          "summary_ja": "ゲーム本編の所有者に向けて最新の大型アップデートが無償で提供開始された。作品のファンから大きな注目を集めている。",
+          "source": "cyberpunk.net",
+          "url": "https://www.cyberpunk.net/en/news/52125/cyberpunk-2077s-edgerunners-2-update-2-5-is-out-now"
+        },
+        {
+          "title_ja": "サイバーパンクの最新版で改造環境が大幅に改善",
+          "summary_ja": "アップデートによりゲームの拡張機能の利用環境が大幅に進化している。プレイヤーが自由なカスタマイズを楽しめるようになった。",
+          "source": "GAMINGbible",
+          "url": "https://www.gamingbible.com/news/cyberpunk-2077-players-turn-cars-into-tesla-roadster-622791-20261022"
+        }
+      ]
+    },
+    {
+      "keyword": "BlueChip Laptop",
+      "reason_ja": "アンドゥリルとクアルコムが米国製部品で構成される新型ノートPC構想を発表した。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "BlueChip laptop",
+        "Qualcomm laptop",
+        "Anduril"
+      ],
+      "product_keywords_ja": [
+        "クアルコム ノートPC",
+        "Windows ノートパソコン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "クアルコムと共同で新型ノートPC事業へ参入",
+          "summary_ja": "両社が提携して新たなコンピュータ開発計画を立ち上げた。ノートパソコンの製品群を展開していく方針を明らかにしている。",
+          "source": "DefenseScoop",
+          "url": "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm/"
+        },
+        {
+          "title_ja": "国内製造にこだわった新型ノートパソコンを発表",
+          "summary_ja": "組み立てだけでなく個別部品まで国内調達を目指す新しいノートPCが発表された。製造基盤を呼び戻す取り組みとして注目されている。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
+        }
+      ]
+    }
+  ]
+}

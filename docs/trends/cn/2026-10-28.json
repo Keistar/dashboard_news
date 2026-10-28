@@ -1,0 +1,99 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T16:07:01+09:00",
+  "trends": [
+    {
+      "keyword": "REDMI K100",
+      "reason_ja": "大容量バッテリーと高性能プロセッサを搭載した新型スマートフォンREDMI K100が正式発表された。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "REDMI K100",
+        "红米手机"
+      ],
+      "product_keywords_ja": [
+        "Xiaomi スマホ",
+        "Redmi"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "超大容量電池と高性能チップを積んだ新スマホ登場",
+          "summary_ja": "驚異的なバッテリー容量と強力なプロセッサを備えた新型スマートフォンが発表された。手頃な価格帯での競争を激化させる一台となっている。",
+          "source": "雷科技",
+          "url": "https://www.leikeji.com/article/80205"
+        },
+        {
+          "title_ja": "圧倒的な電池持ちを誇る新型スマホと周辺機器発表",
+          "summary_ja": "長時間の駆動を売りにする最新スマートフォンが披露された。あわせてノートパソコンやワイヤレスイヤホンなどの関連機器も同時に発表されている。",
+          "source": "搜狐网",
+          "url": "https://m.sohu.com/a/1093750830_121384255"
+        }
+      ]
+    },
+    {
+      "keyword": "手机国补",
+      "reason_ja": "スマートフォン買い替えに対する国家補助金政策が始まり、お得な購入方法が注目されている。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "手机国补",
+        "以旧换新 手机"
+      ],
+      "product_keywords_ja": [
+        "SIMフリー スマホ",
+        "中古スマホ 買取"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "国家補助金と下取りを重ねたスマホ買い替え術",
+          "summary_ja": "公的な補助制度とメーカーの下取り特典を併用して購入負担を大幅に減らす方法が紹介されている。各ブランドごとの割引額や手続きのしやすさが比較されている。",
+          "source": "手机新浪网",
+          "url": "https://k.sina.com.cn/article_7879777299_1d5abdc1306801nagk.html"
+        },
+        {
+          "title_ja": "スマホ購入補助金の受け取り手順と利用上の注意点",
+          "summary_ja": "端末購入時の補助金を受け取るための条件や申請の流れが解説されている。対象地域の確認や下取りキャンペーンとの組み合わせ方が案内されている。",
+          "source": "搜狐网",
+          "url": "https://m.sohu.com/a/1093457745_121761735"
+        }
+      ]
+    },
+    {
+      "keyword": "手机恢复出厂设置",
+      "reason_ja": "スマートフォンの初期化だけでは個人データが完全消去されない問題について注意喚起が広まっている。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "手机数据清除",
+        "二手手机"
+      ],
+      "product_keywords_ja": [
+        "スマホ データ消去ソフト",
+        "中古スマホ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "スマホの初期化だけでは個人情報は消えないと警告",
+          "summary_ja": "端末を売却する際に標準のリセット操作を行うだけでは情報が残る危険性があると解説されている。安全に手放すための対策が呼びかけられている。",
+          "source": "新浪财经",
+          "url": "https://cj.sina.cn/articles/view/2377587254/m8db71a3603301eprs?vt=4"
+        },
+        {
+          "title_ja": "中古端末売却時のデータ残存を防ぐ手順が話題に",
+          "summary_ja": "初期化操作はインデックスのみを消すため専用技術で復元される可能性があると指摘されている。容量をデータで上書きするなど確実な消去法が推奨されている。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwtxxy6655839.shtml"
+        }
+      ]
+    }
+  ]
+}

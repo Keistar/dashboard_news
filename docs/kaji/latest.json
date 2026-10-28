@@ -1,101 +1,150 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:42:18+09:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:40:36+09:00",
   "stories": [
     {
-      "title_ja": "ロボロックが温水とスチームで床掃除できる乾湿両用掃除機を英で投入",
-      "summary_ja": "ロボロックの最新型となる乾湿両用掃除機がイギリス市場で発売された。スチーム洗浄と温水洗浄の機能を備えており、床の汚れを強力に清掃できる製品として展開されている。",
-      "source": "T3",
-      "url": "https://www.t3.com/home-living/vacuum-cleaners/roborocks-new-wet-and-dry-vacuum-offers-steam-and-hot-water-cleaning-it-could-beat-dyson-at-its-own-game",
+      "title_ja": "アイロボット、温水水拭き対応の最上位ルンバ発売",
+      "summary_ja": "アイロボットジャパンは、ロボット掃除機ルンバの最上位機「マックス モンスター 875」を発売した。従来機種に比べ5倍の吸引力を誇り、温水ミストとローラーモップによる水拭き機能を新たに備えている。",
+      "source": "時事通信ニュース",
+      "url": "https://sp.m.jiji.com/article/show/3898333",
       "score": 85,
+      "commercial_score": 85,
+      "product_keywords": [
+        "アイロボット",
+        "ルンバ",
+        "ロボット掃除機"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ハイセンス、一人暮らし向けの薄型ドラム式洗濯乾燥機",
+      "summary_ja": "ハイセンスジャパンは、ドラム式洗濯乾燥機「HWF-B90SS-W」を11月下旬に発売する。奥行き576mmの薄型設計を採用し、単身世帯の住宅にも設置しやすいサイズを実現した。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/kaden_watch/trend/kaden_watch-2149277",
+      "score": 80,
       "commercial_score": 90,
       "product_keywords": [
-        "ロボロック 掃除機",
-        "水拭き掃除機",
-        "乾湿両用掃除機"
+        "ハイセンス",
+        "ドラム式洗濯機",
+        "洗濯乾燥機"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "中国の厨房機器大手と京東が提携、AI調理技術の家庭普及を推進",
-      "summary_ja": "厨房機器大手の老板電器と京東科技が戦略的提携を結び、AI調理エージェントを家庭のキッチンへ広げると発表した。老板電器の調理AIを京東のプラットフォームに接続し、技術連携やブランド共建など4つの方向で協業を進める。",
-      "source": "人工智能",
-      "url": "https://www.icloudnews.net/a/124190.html",
-      "score": 80,
+      "title_ja": "ツインバード、本格派エスプレッソマシンを発売",
+      "summary_ja": "ツインバードは、自宅で本格的なエスプレッソを味わえる「匠バリスタエスプレッソマシン」を12月9日に発売する。直販価格は9万8780円で、省スペースで設置しやすい本体設計となっている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/1519a568c5d8f05298e570228fa4d68482245106",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ツインバード",
+        "エスプレッソマシン",
+        "コーヒーメーカー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "サンコー、予約機能を備えたタンク式食洗機を発売",
+      "summary_ja": "サンコーは、工事不要のタンク式食洗機「ラクア Plus」を発売した。直販価格は3万9800円で、新たに予約タイマーや温風乾燥のキャンセル機能、チャイルドロックを搭載している。",
+      "source": "@DIME アットダイム",
+      "url": "https://dime.jp/genre/2165544/",
+      "score": 75,
+      "commercial_score": 90,
+      "product_keywords": [
+        "サンコー",
+        "食洗機",
+        "ラクア"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英消費者専門家、衣類乾燥に除湿機の利用を推奨",
+      "summary_ja": "英国の消費者アドバイザーであるマーティン・ルイス氏が、乾燥機の代わりに除湿機を使って洗濯物を乾かす方法を推奨している。記事では実際に検証されたおすすめの機種が紹介されている。",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/extras/indybest/house-garden/household-appliances/martin-lewis-dehumidifier-drying-clothes-b3073977.html",
+      "score": 75,
       "commercial_score": 75,
       "product_keywords": [
-        "スマート家電",
-        "スマート調理器"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ガラス容器採用のノンフライヤー「Ninja Crispi」を米CNETが評価",
-      "summary_ja": "米CNETが、モジュール式のガラスボウルを備えたノンフライヤー「Ninja Crispi」の長期検証レビューを公開した。類似品が数多く登場している中でも、依然としてキッチン家電の中でトップクラスの性能を保っていると評価されている。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/home/kitchen-and-household/ninja-crispi-review/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Ninja エアフライヤー",
-        "ノンフライヤー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ノンフライヤーの電気代について英専門機関やメーカーが試算を公開",
-      "summary_ja": "英インディペンデント紙が、ノンフライヤーを稼働させる際にかかる実際の電気代について伝えた。価格比較サイトのUswitchや家電量販のAO、調理器具メーカーのソルターなどの専門家による試算が示されている。",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/extras/indybest/house-garden/kitchen-appliances/how-much-does-it-cost-to-run-an-air-fryer-b3073324.html",
-      "score": 75,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ノンフライヤー",
-        "エアフライヤー"
+        "除湿機",
+        "衣類乾燥除湿機",
+        "部屋干し"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国・河南省がロボット掃除機や浄水器など家電10品目の購入補助を開始",
-      "summary_ja": "河南省の商務庁など3部門が、消費財の買い替えを促す補助金政策の公告を発表した。スマート掃除ロボットやスマート浄水器を含む10種類の製品を対象に、最大で1500元の補助金が支給される。",
-      "source": "新浪新闻_手机新浪网",
-      "url": "https://news.sina.cn/gn/2026-10-27/detail-iniwruyt8885428.d.html?vt=4&cid=56261&node_id=56261",
+      "title_ja": "シャーク、自動ゴミ収集と水拭き対応のロボ掃除機",
+      "summary_ja": "シャーク（Shark）のロボット掃除機は、ゴミの吸引だけでなくモップによる水拭き機能を兼ね備えている。ダスト容器が満杯になると、自動で大型の収集ステーションへ排出する構造を備えている。",
+      "source": "AOL.co.uk",
+      "url": "https://www.aol.co.uk/articles/shark-navigator-vacuums-well-mopping-213134000.html",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Shark",
+        "ロボット掃除機",
+        "水拭き"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "広交会にハイアールの家事ロボットなどが集結",
+      "summary_ja": "第140回広州交易会にて、暮らしを支援するスマート家電が公開された。ハイアール（Haier）のAI家事ロボットや自動清掃機などが出展され、海外のバイヤーから高い関心を集めた。",
+      "source": "新湖南",
+      "url": "https://www.hunantoday.cn/news/xhn/202610/34102548.html",
       "score": 75,
       "commercial_score": 65,
       "product_keywords": [
-        "ロボット掃除機",
+        "ハイアール",
         "スマート家電"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "BRUNOからスヌーピー柄のほったらかし調理家電など全5点が登場",
-      "summary_ja": "「PEANUTS」の公式オンラインショップにて、スヌーピーデザインを採用したBRUNOの調理家電や食器など全5点の新シリーズが登場した。食材を入れて手軽に調理できる家電やおそろいの食器がラインアップされている。",
-      "source": "ウォーカープラス",
-      "url": "https://www.walkerplus.com/article/1446695/",
+      "title_ja": "シロカ、加熱調理ができる新型ブレンダーを発売",
+      "summary_ja": "シロカのヒーター付きブレンダー「おうちシェフブレンダー」がリニューアルされた。8枚刃カッターにより冷凍フルーツや固い食材もそのまま粉砕可能で、温かいスープからスムージーまで幅広く調理できる。",
+      "source": "MonoMax web",
+      "url": "https://monomax.jp/archives/366957/",
       "score": 70,
       "commercial_score": 85,
       "product_keywords": [
-        "BRUNO スヌーピー",
-        "ほったらかし調理 家電"
+        "シロカ",
+        "ブレンダー",
+        "ミキサー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "大手スーパーのアルディがワンタッチ操作の新ノンフライヤーを発売へ",
-      "summary_ja": "大手スーパーチェーンのアルディが、ワンタッチ機能を備えた新しいノンフライヤーを店舗で発売する。手軽に扱える調理家電として、買い物客の間で大きな人気を集める商品になると見込まれている。",
-      "source": "Yahoo Lifestyle Australia",
-      "url": "https://au.lifestyle.yahoo.com/aldi-debuts-new-air-fryer-with-one-touch-feature-in-stores-this-week-005833492.html",
+      "title_ja": "ニンジャ、1台8役の省スペース調理オーブン",
+      "summary_ja": "ニンジャ（Ninja）の「フリップ・トースターオーブン＆エアフライヤー」が注目を集めている。1台で8通りの調理に対応し、素早く温まって短時間で家族向けの食事を作ることができる。",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/27/shopping/ninja-flip-toaster-oven-air-fryer-is-44-off-at-amazon/",
       "score": 70,
       "commercial_score": 85,
+      "product_keywords": [
+        "ノンフライヤー",
+        "オーブントースター",
+        "ニンジャ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "英リドル、約25ポンドの格安エアフライヤー発売へ",
+      "summary_ja": "英大手スーパーのリドルが、25ポンドの低価格エアフライヤーを英国内の店舗で発売する。1回の使用にかかる電気代を約9ペンスに抑えられ、上位モデルに匹敵する手軽な調理機器として注目されている。",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/money/shopping-deals/new-lidl-25-air-fryer-37813463",
+      "score": 70,
+      "commercial_score": 75,
       "product_keywords": [
         "ノンフライヤー",
         "エアフライヤー"
@@ -104,32 +153,32 @@
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "多機能なNinjaの8イン1エアフライヤーオーブンが大幅値引き",
-      "summary_ja": "1台で8つの機能をこなすNinjaのエアフライヤーオーブンが、ブラックフライデーの最安値に近い110ドル引きで販売されている。キッチンの調理スペースを節約しながら、家族向けの分量をまとめて調理できるのが特徴となっている。",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/ninja-flip-8-in-1-toaster-oven-air-fryer-deal/",
+      "title_ja": "老板電器、隙間がなく掃除しやすいガスコンロ発売",
+      "summary_ja": "中国の厨房機器大手である老板電器（Robam）が、穴や隙間のない完全フラット構造のガスコンロ「N1P」を発表した。継ぎ目のない一体型バーナー設計により、汚れが内部へ染み込むのを防ぎひと拭きで清掃できる。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1093453367_111100",
       "score": 70,
-      "commercial_score": 85,
+      "commercial_score": 75,
       "product_keywords": [
-        "Ninja オーブン",
-        "エアフライヤーオーブン"
+        "ガスコンロ",
+        "ビルトインコンロ"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "AIで空気質を測り自動換気する生活家電が拡大、浴室用も登場",
-      "summary_ja": "室内の空気管理への関心から、AIで空気の状態を測定して自動換気を行う家電の市場が拡大している。生活家電や建材各社が新規事業として製品群を増やしており、ウィニックスが浴室向けの複合換気扇を発売するなど新製品の投入が続いている。",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/jp/business/12186003",
+      "title_ja": "高級家電ASKO、薄型ビルトイン冷蔵庫を発表",
+      "summary_ja": "北欧の高級家電ブランドASKOが、キッチン空間と一体化する薄型ビルトイン冷蔵庫の新モデルを発表した。高度な保鮮技術を備え、現代の住まいに合わせたデザインと鮮度保持の両立を図っている。",
+      "source": "中华网",
+      "url": "https://m.tech.china.com/redian/2026/1028/102026_1970022.html",
       "score": 65,
-      "commercial_score": 60,
+      "commercial_score": 75,
       "product_keywords": [
-        "換気扇",
-        "浴室換気扇"
+        "冷蔵庫",
+        "ビルトイン冷蔵庫"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

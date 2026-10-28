@@ -1,237 +1,238 @@
 {
   "genre": "outdoor",
   "genre_label_ja": "アウトドア",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:56:05+09:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:55:27+09:00",
   "stories": [
     {
-      "title_ja": "中国企業がロウ・アルパインを買収",
-      "summary_ja": "中国のATGが、英国のエクイップから登山ブランドのロウ・アルパイン（Lowe Alpine）を買収した。新たな親会社はブランドに対する投資を行う意向を示している。",
-      "source": "London Evening Standard",
-      "url": "https://www.standard.co.uk/business/business-news/lowe-alpine-china-utah-santander-europe-b1302336.html",
+      "title_ja": "ナイキACGがヘリノックスと協業　超軽量アウトドアギアを発売",
+      "summary_ja": "ナイキのアウトドアライン「ナイキ ACG」がヘリノックス（Helinox）とタッグを組み、最新のアウトドアコレクションを展開する。2大ブランドのコラボレーションにより、徹底した軽量性を実現した3つの製品を投入する。",
+      "source": "T3",
+      "url": "https://www.t3.com/active/camping/nike-acg-helinox-collection-1026",
       "score": 80,
-      "commercial_score": 60,
+      "commercial_score": 85,
       "product_keywords": [
-        "Lowe Alpine",
-        "ロウアルパイン",
-        "リュック"
+        "ナイキ ACG",
+        "ヘリノックス",
+        "軽量チェア"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "アウトドア向け全地形対応SUVが中国発売",
-      "summary_ja": "軽アウトドアやオフロード走行を意識した新型SUV「猛士X700」が10月25日に発売された。全地形対応の走行性能を備え、駆動方式や航続距離の異なる4モデルが用意されている。",
-      "source": "央视网",
-      "url": "https://auto.cctv.com/2026/10/26/ARTIkIi2KLJosnCbGq1VDX9I261026.shtml",
-      "score": 80,
+      "title_ja": "中古アウトドア用品の需要が急拡大　節約と廃棄削減で人気",
+      "summary_ja": "中古のアウトドア用品に対する需要が大きく高まっている。購入費用の節約につながるだけでなく、まだ十分に使えるギアが埋め立て処分されるのを防ぐ環境面での利点も支持されている。",
+      "source": "Colorado State University News",
+      "url": "https://source.colostate.edu/market-for-pre-owned-outdoor-gear-is-booming-and-csu-students-have-front-row-seat/",
+      "score": 75,
       "commercial_score": 70,
       "product_keywords": [
-        "SUV",
-        "アウトドア 車"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ホカが長距離向けの軽量登山靴を発表",
-      "summary_ja": "シューズブランドのホカ（HOKA）が新作のテクニカルハイキングブーツを発表した。トレイルランニング用シューズの反応性を活かし、数日間にわたるスルーハイクに適した軽量な仕上がりとなっている。",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/footwear/hoka-speedgoat-7-hike-gtx-now-available/",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "HOKA",
-        "ハイキングシューズ",
-        "トレイルランニング"
+        "中古 アウトドア",
+        "アウトドア用品"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "スウェティ・ベティとメレルが共同開発靴",
-      "summary_ja": "スウェティ・ベティとシューズブランドのメレル（Merrell）が提携し、秋向けのウォーキングシューズを開発した。トレイル向けの機能性にチェック柄を取り入れたデザインを組み合わせている。",
-      "source": "Stylist",
-      "url": "https://www.stylist.co.uk/fashion/sweaty-betty-merrell-shoes/1122091",
+      "title_ja": "英ビボベアフットが日本のムーンライトギアと共同で野外靴を開発",
+      "summary_ja": "英国のベアフットシューズブランド「ビボベアフット（Vivobarefoot）」が、日本のウルトラライトギアメーカー「ムーンライトギア（Moonlight Gear）」とコラボレーションした。自然な身体の動きを追求する共通の哲学のもと、スノーサーフィン等に向けた2種類のシューズを発表した。",
+      "source": "Field Mag",
+      "url": "https://www.fieldmag.com/articles/vivobarefoot-x-moonlight-gear-snow-surf-boots",
       "score": 75,
-      "commercial_score": 90,
+      "commercial_score": 85,
       "product_keywords": [
-        "Merrell",
-        "ハイキングシューズ",
-        "メレル"
+        "Vivobarefoot",
+        "ベアフットシューズ",
+        "ムーンライトギア"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "シエラデザインズが中国に初の店舗を開設",
-      "summary_ja": "米国の登山ブランド「シエラデザインズ（Sierra Designs）」の中国1号店が開店する。現地のスポーツ流通企業と連携し、ブランドの専門性を保ちながら市場への本格展開を図る。",
-      "source": "凤凰网财经",
-      "url": "https://finance.ifeng.com/c/8xYnuGL3StY",
+      "title_ja": "中国主導のキャンプ観光に関する国際規格がISOから正式発行",
+      "summary_ja": "国際標準化機構（ISO）が、キャンプツーリズムにおけるキャンプ場施設およびサービス要求に関する国際標準を正式に発行した。本規格は中国が主導して策定されたものである。",
+      "source": "中国旅游新闻网",
+      "url": "https://www.ctnews.com.cn/jujiao/content/2026-10/28/content_193815.html",
       "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "SIERRA DESIGNS",
-        "シエラデザインズ",
-        "マウンテンパーカー"
-      ],
+      "commercial_score": 50,
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "栃木県茂木町にアウトドア向けホテルが開業",
-      "summary_ja": "栃木県茂木町の那珂川沿いにロッジ型の宿泊施設が開業した。2部屋限定でサウナや露天風呂を備えており、カヌー愛好家などのアウトドア客の誘致を目指す。",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCC263BV0W6A021C2000000/",
+      "title_ja": "カインズの1リットル保冷水筒が好評　持ち手付きで保冷力に支持",
+      "summary_ja": "ホームセンター「カインズ」が展開するオリジナル水筒「アウトドアボトル 1000ml」が利用者の支持を集めている。ハンドル付きで大容量を持ち歩きやすく、優れた保冷性能が高く評価されている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/allaboutnews/life/allaboutnews-166235",
       "score": 70,
-      "commercial_score": 65,
+      "commercial_score": 85,
       "product_keywords": [
-        "茂木町 ホテル",
-        "サウナ"
+        "カインズ 水筒",
+        "水筒 1L",
+        "保冷ボトル"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "車上に設置する空気注入式テントが登場",
-      "summary_ja": "スラッシュギアが空気注入式のルーフトップテント「ポータル・ノミス・ワン」を取り上げた。設営のしやすさや使い勝手の良さを備え、将来のキャンプ様式として注目を集めている。",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2296950/portal-nomis-one-inflatable-rooftop-tent-testing-camping/",
+      "title_ja": "MINIがヘリノックスらと連携　野外仕様の特別車を発表",
+      "summary_ja": "MINIがアウトドアブランドのヘリノックス（Helinox）およびオートホーム（Autohome）と提携した。2027年型「MINI カントリーマン アンテイムド・エディション」として、コンパクトクロスオーバー市場に向けた冒険仕様の選択肢を提案する。",
+      "source": "Overland Expo",
+      "url": "https://www.overlandexpo.com/compass/mini-teams-up-with-helinox-and-autohome-for-new-untamed-edition/",
       "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "ルーフトップテント",
-        "エアテント"
+        "ヘリノックス",
+        "MINI カントリーマン",
+        "ルーフトップテント"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英小売店でポータブル電源の需要が拡大",
-      "summary_ja": "英国のアウトドア用品店において、ポータブル電源が注目の商品分野として台頭している。かつては小型ガス缶の横に置かれるような一部愛好家向け製品だったが、小売業者にとって重要な商機へ成長している。",
-      "source": "365 Retail",
-      "url": "https://365retail.co.uk/why-portable-power-stations-are-becoming-a-serious-opportunity-for-uk-retailers/",
+      "title_ja": "英社が小型浄水ボトルを展開　家庭の備蓄や野外活動に対応",
+      "summary_ja": "ライフセーバー（LifeSaver）社の小型浄水ボトル「Bottle Solo」が注目を集めている。200ポンドで販売される携帯型ボトルで、ろ過機能を備えて省スペースでの水備蓄や屋外利用の実用的な手段を提供する。",
+      "source": "Country Living Magazine",
+      "url": "https://www.countryliving.com/uk/homes-interiors/property/a74259845/andy-burnham-compact-water-purifier-space-saving-backup/",
       "score": 70,
-      "commercial_score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "ポータブル電源",
-        "キャンプ 電源"
+        "携帯浄水器",
+        "浄水ボトル",
+        "防災ボトル"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "アウトドア向けエネルギー補給飲料が発売",
-      "summary_ja": "アウトドアでの運動向けに、天然エネルギーと電解質を同時に補給できる飲料「王者英雄」が発売された。登山の大量発汗時に水や単独の栄養ドリンクだけでは補いきれない成分を1本で賄える。",
-      "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_7879923706_1d5ae17fa06801fams.html?from=health",
+      "title_ja": "中国アウトドア企業が自動膨張式の全天候IGTテントを開発",
+      "summary_ja": "中国のアウトドア用品メーカー「喜马拉雅」が、グランピング需要に対応した製品開発を進めている。全シーン・全季節に対応し、自動で膨らむ自立式のIGT規格対応テントなどを新たに打ち出している。",
+      "source": "凤凰网",
+      "url": "https://hainan.ifeng.com/c/8xaTnhasPIq",
       "score": 70,
-      "commercial_score": 85,
+      "commercial_score": 80,
       "product_keywords": [
-        "スポーツドリンク",
-        "電解質"
+        "エアーテント",
+        "IGT テーブル",
+        "キャンプ テント"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "カインズがつなげて使える寝袋を発売",
-      "summary_ja": "ホームセンターのカインズが車中泊やキャンプ向けのクッションシュラフを販売している。2枚を連結して添い寝ができる設計で、普段はクッションとして収納袋なしで扱える。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d566d346d9c0979e70251a2f99b0d9af185423ad",
+      "title_ja": "あみプレミアム・アウトレットにアウトドア店など6店舗が順次出店",
+      "summary_ja": "茨城県稲敷郡の「あみプレミアム・アウトレット」で、10月から12月にかけて計6店舗が新規およびリニューアルオープンする。期間限定店を含む出店となり、アウトドアや時計、コスメ、飲食など多彩な店舗が登場する。",
+      "source": "流通ニュース",
+      "url": "https://www.ryutsuu.biz/store/s102876.html",
       "score": 65,
-      "commercial_score": 90,
+      "commercial_score": 80,
       "product_keywords": [
-        "カインズ",
-        "シュラフ",
+        "アウトレット",
+        "アウトドア用品"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "北海道栗山町の廃校キャンプ場で食と企画を楽しむヤムフェス開催へ",
+      "summary_ja": "北海道栗山町の複合型キャンプ場「Art × Outdoor Village 栗山」で、11月7日から8日にかけてキャンプイベント「ヤムフェス」が開かれる。廃校舎を活用した会場で地元グルメを味わえるほか、ミッションクリアでプレゼントがもらえる参加型企画も実施される。",
+      "source": "北海道新聞デジタル",
+      "url": "https://www.hokkaido-np.co.jp/article/1396204/",
+      "score": 65,
+      "commercial_score": 60,
+      "product_keywords": [
+        "キャンプ場",
+        "北海道 キャンプ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "寝袋ブランドのランプルが飲料メーカーとコラボ寝袋を発表",
+      "summary_ja": "高機能ブランケットで知られるアウトドアブランドのランプル（Rumpl）が、急成長中の飲料ブランド「リキッド・デス（Liquid Death）」と共同開発を実施した。遺体袋（ボディバッグ）をモチーフにした斬新なデザインの寝袋を投入し、野外での睡眠をユニークに演出する。",
+      "source": "Outdoor Sportswire",
+      "url": "https://www.outdoorsportswire.com/rumpl-and-liquid-death-introduce-a-body-bag-youll-actually-want-to-sleep-in/",
+      "score": 65,
+      "commercial_score": 70,
+      "product_keywords": [
+        "Rumpl",
+        "ランプル ブランケット",
         "寝袋"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ボルテックスが秋冬アウトドア衣料を発表",
-      "summary_ja": "光学機器メーカーのボルテックス（Vortex）が、2026年秋冬向けのアパレル製品群を発表した。人気製品に季節に合わせた新色などを追加し、アウトドア愛好家向けの衣料を拡充している。",
-      "source": "OutdoorHub",
-      "url": "https://www.outdoorhub.com/news/2026/10/26/new-vortex-fall-apparel-ohub-news/",
-      "score": 65,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Vortex",
-        "アウトドア ウェア"
-      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国で冬向け防寒ベストの人気が上昇",
-      "summary_ja": "英国で防寒性と保温性を兼ね備えたベスト（ジレ）が冬の重ね着として流行している。ファッションブランドのネクスト（Next）などが展開する手頃なデザインが注目されている。",
-      "source": "Cosmopolitan",
-      "url": "https://www.cosmopolitan.com/uk/fashion/style/a74246804/gilet-winter-layer-next/",
+      "title_ja": "英スカイ島の住民運営キャンプ場　収益を地域活性化に全額還元",
+      "summary_ja": "英国スコットランドのスカイ島において、地域住民が主導するキャンプ場運営が持続可能な成長を支えている。地元での雇用を生み出すとともに、得られたすべての利益を周辺地域のコミュニティ事業へ再投資している。",
+      "source": "West Coast Today",
+      "url": "https://www.westcoasttoday.co.uk/news/community-owned-camping-site-drives-sustainable-growth-on-the-isle-of-skye",
       "score": 65,
-      "commercial_score": 85,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "停電や非常時に役立つ備えとして使い捨てBBQコンロが見直し",
+      "summary_ja": "停電やインフラ停止時などの非常用装備として、簡易インスタントバーベキューコンロの有用性が注目されている。バーベクイック（Barbequick）社は、持ち運び可能な野外調理具が災害時の調理支援に役立つと解説している。",
+      "source": "London Daily News",
+      "url": "https://www.londondaily.news/the-unexpected-emergency-essential-why-an-instant-barbecue-could-be-a-must-have-for-uk-households/",
+      "score": 65,
+      "commercial_score": 75,
       "product_keywords": [
-        "ベスト",
-        "ジレ",
-        "防寒"
+        "使い捨てBBQコンロ",
+        "インスタントグリル"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "雲南省大理で古道を歩くハイキング開催",
-      "summary_ja": "雲南省大理州永平県で10月25日、古い村や街道を巡るウォーキングイベントが開催された。地域のアウトドアスポーツ振興や住民の健康づくりを目的とした催しとなっている。",
-      "source": "中国旅游新闻网",
-      "url": "https://www.ctnews.com.cn/dongtai/content/2026-10/26/content_193739.html",
+      "title_ja": "中国企業がアウトドア向けスマートオフロード四輪バギーを発表",
+      "summary_ja": "中国の軽車時代（北京）科技有限公司が、アウトドア向けのスマート四輪駆動車「M1」を開発した。自動車クラスの技術力を活用し、野外移動装備の新たなカテゴリーとして展開している。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-28/doc-iniwtxxy6708438.shtml",
       "score": 65,
-      "commercial_score": 40,
+      "commercial_score": 60,
       "product_keywords": [
-        "ハイキング",
-        "ウォーキング"
+        "四輪バギー",
+        "オフロード車両"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ブルーティの電源と太陽光パネルがセール",
-      "summary_ja": "ブルーティのポータブル電源とソーラーパネルのセットが57％オフで販売されている。非常時やキャンプでの電源確保に活用できる。",
-      "source": "ITmedia",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news070.html",
+      "title_ja": "コブマスターの広報車に英国老舗が改装したキャンパー仕様車が登場",
+      "summary_ja": "英国発のアウトドアブランド「コブマスター」の広報車両として、黄色のランドローバー「ディフェンダー」が採用されている。老舗のドーモービル社が手掛けたポップトップルーフを備え、キャンパー仕様に仕上がっている。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/089e71c9b8659f51cbe7106bcd22ef3930831a92",
       "score": 60,
-      "commercial_score": 85,
+      "commercial_score": 70,
       "product_keywords": [
-        "BLUETTI",
-        "ポータブル電源",
-        "ソーラーパネル"
+        "コブマスター",
+        "ディフェンダー",
+        "キャンピングカー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "パタゴニアの軽量防寒フーディをレビュー",
-      "summary_ja": "ベタートレイルがパタゴニアの防寒ジャケット「ナノエア・ライト・フーディ」の検証を行った。保温性や着心地、環境への配慮など複数の観点から製品の性能を評価している。",
-      "source": "Better Trail",
-      "url": "https://bettertrail.com/outdoor-gear/patagonia-nano-air-light-hoody-synthetic-insulated-jacket-review",
+      "title_ja": "安徽省無為市の湖畔にキャンプ場が整備され市民の憩いの場に",
+      "summary_ja": "安徽省無為市昆山鎮の双河村において、湖畔の林に囲まれたキャンプ・レジャー施設が整備されている。豊かな水辺と緑の景観を生かした空間として、市民の新たなアウトドアの行き先となっている。",
+      "source": "央广网",
+      "url": "https://www.cnr.cn/ah/tp/20261028/t20261028_527854876.shtml",
       "score": 60,
-      "commercial_score": 85,
-      "product_keywords": [
-        "パタゴニア",
-        "ナノエア",
-        "フーディ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "登山メディアの山旅が伊豆のイベントに出店",
-      "summary_ja": "登山情報を扱う山旅が伊豆市で開催されるアウトドア感謝祭に出店する。修善寺の登山店が主催し、キャンプ場を会場に行われる。",
-      "source": "山旅旅",
-      "url": "https://yamatabitabi.com/archives/195536",
-      "score": 50,
-      "commercial_score": 55,
+      "title_ja": "広島県福山市の公園で防災キャンプ体験イベントと見本市が開催へ",
+      "summary_ja": "福山市の駅家公園にて、防災キャンプ体験イベントと使い方の見本市が実施される。官民が連携した地域活性化の実証実験として取り組まれる。",
+      "source": "福山市ホームページ",
+      "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/koen/416155.html",
+      "score": 55,
+      "commercial_score": 40,
       "product_keywords": [
-        "山旅",
-        "登山"
+        "防災キャンプ"
       ],
       "country": "jp",
       "country_label_ja": "日本"

@@ -1,0 +1,54 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:34:22+09:00",
+  "stories": [
+    {
+      "title_ja": "中国の数学チームが国産AIで難問を証明",
+      "summary_ja": "中国の研究チームが、独自開発のマルチモーダルAIを活用して長年未解決だった数学の難問「ギース予想」を証明した。北京大学のチームが開発した検証システムにより、証明の正確性も厳格に確認された。",
+      "source": "智源社区",
+      "url": "https://hub.baai.ac.cn/view/59114",
+      "score": 80,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "中国の大型商戦前にAIを活用した購買比較",
+      "summary_ja": "中国の大型セール「双11（ダブルイレブン）」を控え、EC各社が消費クーポンの配布を強化している。一方で、セール価格と通常価格をAIで冷静に比較し、無駄遣いを防ごうとする動きも出ている。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1093780755_121345914",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "セール",
+        "日用品"
+      ]
+    },
+    {
+      "title_ja": "中国で音声入力が意図を汲む新世代へ進化",
+      "summary_ja": "音声技術大手の科大訊飛（iFlytek）が、音声入力の最新機能「意図成稿」を発表した。利用者の発話内容を忠実に文字起こしするだけでなく、意図を汲み取って文章を自動で構成・成稿する。",
+      "source": "人工智能",
+      "url": "https://www.icloudnews.net/a/124291.html",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ボイスレコーダー",
+        "マイク"
+      ]
+    },
+    {
+      "title_ja": "複数音が混ざる環境でも解析する音声基盤",
+      "summary_ja": "科大訊飛（iFlytek）が、新たな音声基盤モデル「SparkAudio 1.0」を公開した。複数の音源が重なり合って混ざった環境でも、正確に音声を認識・解析できる。",
+      "source": "智东西",
+      "url": "https://m.zhidx.com/p/604627.html",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "スマートスピーカー",
+        "ワイヤレスイヤホン"
+      ]
+    }
+  ]
+}

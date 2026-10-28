@@ -1,0 +1,74 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:37:34+09:00",
+  "stories": [
+    {
+      "title_ja": "米アップル、M6チップ搭載MacBook Pro発表",
+      "summary_ja": "アップルが「M6」チップを搭載した新型MacBook Proを発表した。前世代のM5モデルからの性能向上やスペック、価格情報などが明らかにされている。",
+      "source": "Macworld",
+      "url": "https://www.macworld.com/article/3203946/m6-macbook-pro-guide-release-date-specs.html",
+      "score": 92,
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "Apple",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "モトローラ、7000mAh電池の新型スマホ発表",
+      "summary_ja": "モトローラが中価格帯のスマートフォン「Moto G47 Power」を発表した。7000mAhの大容量バッテリーと1億800万画素のメインカメラ、3.5mmイヤホン端子を搭載している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Motorola-Moto-G47-Power-launches-with-108-MP-7-000-mAh-and-3-5-mm-headphone-jack.1435220.0.html",
+      "score": 76,
+      "commercial_score": 82,
+      "product_keywords": [
+        "モトローラ",
+        "Motorola",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "レノボ、高輝度有機EL搭載の15型ノートPC発表",
+      "summary_ja": "レノボが15型ノートパソコン「Yoga Pro 9n」を世界市場向けに発表した。1100ニトの高輝度有機ELディスプレイと92.5Whの大型バッテリーを搭載している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-15-inch-laptop-internationally-with-96-GB-VRAM-and-1-100-nit-OLED-display.1435237.0.html",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Lenovo",
+        "Yoga",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "HP、5G通信対応の16型ビジネスノートPC発売",
+      "summary_ja": "HPが新型の16型ノートパソコン「EliteBook 6 G2i 16」を発売した。インテルのPanther Lakeプロセッサを採用し、5Gモバイル通信や最大64GBのメモリに対応する。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-16-inch-laptop-with-5G-cellular-connectivity-64-GB-RAM-and-Intel-Panther-Lake.1435238.0.html",
+      "score": 72,
+      "commercial_score": 78,
+      "product_keywords": [
+        "HP",
+        "EliteBook",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "インフィニックス、液冷機構のゲーム用スマホ発売",
+      "summary_ja": "インフィニックスがゲーミングスマートフォン「GT 50 Pro」を発売した。水冷機構を備え、144Hz駆動の有機EL画面や6500mAhの大容量バッテリーを搭載している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Infinix-s-new-midrange-gaming-smartphone-with-liquid-cooling-now-available-in-more-markets.1435008.0.html",
+      "score": 68,
+      "commercial_score": 72,
+      "product_keywords": [
+        "ゲーミングスマホ",
+        "スマートフォン"
+      ]
+    }
+  ]
+}
