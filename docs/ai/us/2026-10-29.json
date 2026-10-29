@@ -1,0 +1,50 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:34:38+09:00",
+  "stories": [
+    {
+      "title_ja": "オープンAIとサービスナウが業務フロー統合で提携拡大",
+      "summary_ja": "オープンAI（OpenAI）とサービスナウ（ServiceNow）が提携の拡大を発表した。サービスナウの業務基盤にオープンAIのモデルやAIエージェントを組み込むほか、チャットGPTなどのツールから直接ワークフローを実行できるようにする。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion/",
+      "score": 85,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "AIの助言が人間の意思決定に強く影響するとの調査結果",
+      "summary_ja": "アンソロピックの調査によると、参加者の86%がAIである「Claude」の助言に従って判断を下した。一方で、その意思決定においてAIが役割を果たしたと自覚していた参加者はごく一部にとどまることが分かった。",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/expert-judgement-can-be-easily-hacked-by-ai-anthropic-study-finds-2000832143",
+      "score": 85,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "アンソロピックが科学研究支援AIプログラムを世界で拡大",
+      "summary_ja": "アンソロピック（Anthropic）が科学分野を支援する「AI for Science」プログラムの拡大を発表した。世界各国の20の科学財団や研究機関、研究グループと新たに提携を結んだことを明らかにしている。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "score": 80,
+      "commercial_score": 35
+    },
+    {
+      "title_ja": "グーグルが新AIモデル「Gemini 4 Carbon」を発表",
+      "summary_ja": "グーグルが最新のAIモデル「Gemini 4 Carbon」を発表した。アンソロピックの「Claude」に対抗し、割安な価格設定を打ち出している。",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
+      "score": 80,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "アンソロピックが企業のAI費用対効果を可視化する新ツール提供",
+      "summary_ja": "アンソロピックが企業向けに、AIモデルへの投資状況を把握できる新しい分析ツールを公開した。自社のモデルに投じられた費用がどのような用途で使われているかを企業側が確認できるようにする。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "score": 75,
+      "commercial_score": 55
+    }
+  ]
+}

@@ -1,487 +1,480 @@
 {
   "feed": "trends",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T16:07:01+09:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:12:24+09:00",
   "trends": [
     {
-      "keyword": "M6 MacBook Pro",
-      "reason_ja": "Appleが最新のM6チップを搭載した新型MacBook Proを発表し関心を集めている。",
+      "keyword": "タッチスクリーンMacBook Pro",
+      "reason_ja": "画面のタッチ操作に対応した新型ノートパソコンが発表されて関心を集めています。",
       "genre": "gadget",
       "commercial_score": 95,
       "product_keywords": [
         "MacBook Pro",
-        "M6 MacBook Pro",
+        "タッチスクリーン ノートPC",
         "Apple ノートパソコン"
       ],
       "product_keywords_ja": [
         "MacBook Pro",
-        "Apple ノートパソコン"
+        "タッチパネル ノートPC"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Appleが新型M6チップ搭載MacBook Proを発表",
-          "summary_ja": "Appleが新しいプロセッサを搭載したノートパソコンを発表した。一般向けに加えて学生や教職員向けの価格も案内されている。",
-          "source": "BRIDGE（ブリッジ）",
-          "url": "https://thebridge.jp/2026/10/apple-macbook-pro-14-m6"
-        },
-        {
-          "title_ja": "M6搭載MacBook ProはAIとグラフィック性能が向上",
-          "summary_ja": "新型プロセッサの採用により人工知能の処理能力や映像処理が強化された。通信規格の刷新や長時間のバッテリー駆動にも対応している。",
+          "title_ja": "画面タッチ対応の新型MacBook発表",
+          "summary_ja": "画面のタッチ操作に対応した新しいノートパソコンが発表されました。有機ELディスプレイを採用し、薄型化と軽量化を実現しています。高性能チップを搭載した上位機種として展開されます。",
           "source": "ITmedia",
-          "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/"
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/"
+        },
+        {
+          "title_ja": "タッチ対応有機EL画面の新型Pro登場",
+          "summary_ja": "タッチ操作と有機EL画面を備えた新しいノートパソコンが登場しました。従来機と比べて画面の構造が一新され、軽量化も図られています。用途に応じた画面選びが注目されています。",
+          "source": "https://www.apple-hacks.com/",
+          "url": "https://www.apple-hacks.com/entry/macbook-pro-proled-xdr-touch-japan-price"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "楽天ブラックフライデー",
-      "reason_ja": "年に一度の大型セールである楽天ブラックフライデーの開催日程予想や攻略法が話題となっている。",
+      "keyword": "Amazon スマイルSALE",
+      "reason_ja": "欲しい物や冬支度をテーマにした大規模なセール開催が予告され注目されています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
-        "楽天 ブラックフライデー",
-        "楽天市場 セール"
+        "Amazon セール",
+        "スマイルSALE",
+        "防寒グッズ"
       ],
       "product_keywords_ja": [
-        "楽天 ブラックフライデー",
-        "楽天市場 セール"
+        "防寒グッズ",
+        "快眠グッズ"
       ],
-      "trend_source": "ニュース",
+      "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "楽天ブラックフライデーの日程予想と買いまわりのコツ",
-          "summary_ja": "年末に向けて楽天市場の大型セールへの関心が高まっている。家電から日用品までをお得に購入できる機会として注目されている。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/d432bcd8ed9599d72dd770517191e177c3f816eb"
-        },
-        {
-          "title_ja": "楽天ブラックフライデーの開催予測とお得な活用術",
-          "summary_ja": "過去の実績からセールの開催時期が予測され、ポイント還元を高める買い方の手順が紹介されている。カードの準備や対象商品の選び方なども解説されている。",
-          "source": "FUNQ",
-          "url": "https://www.funq.jp/flick/article/1095239/"
+          "title_ja": "欲しい物と冬支度の大型セールが開催へ",
+          "summary_ja": "人気商品を特別価格で販売する大型セールが開催されます。今欲しい物や冬支度をテーマに、快眠や寒さ対策の特集が予定されています。季節の準備に向けた買い物が呼びかけられています。",
+          "source": "AV Watch",
+          "url": "https://av.watch.impress.co.jp/docs/news/2152194.html"
         }
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "keyword": "M6 MacBook Pro",
-      "reason_ja": "アップルが最新プロセッサM6を搭載した新しいMacBook Proを発表し話題となっている。",
+      "keyword": "touchscreen MacBook Pro",
+      "reason_ja": "タッチ操作に対応した有機ELディスプレイ搭載の新型ノートPCが発表されました。",
       "genre": "gadget",
       "commercial_score": 95,
       "product_keywords": [
-        "MacBook Pro",
-        "M6 MacBook Pro",
-        "Apple laptop"
+        "touchscreen MacBook Pro",
+        "Apple laptop",
+        "OLED laptop"
       ],
       "product_keywords_ja": [
         "MacBook Pro",
-        "Apple ノートパソコン"
+        "タッチパネル ノートPC"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップルが新型チップ搭載ノートPCを発表",
-          "summary_ja": "アップルが主力ノートパソコンの最新機種を発表した。最新の無線通信技術に対応し、長時間のバッテリー動作を実現している。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+          "title_ja": "有機ELタッチ画面搭載の新型ノート発表",
+          "summary_ja": "有機ELのタッチスクリーンを採用した新型ノートパソコンが披露されました。従来よりも薄く軽いデザインに仕上がっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-oled-macbook-pro-touchscreen-price-specs-release-date"
         },
         {
-          "title_ja": "アップルが新型チップ搭載で主要PC製品を刷新",
-          "summary_ja": "一体型デスクトップや標準型ノートに最新チップが採用された。新たな通信用チップの搭載によって接続性能が向上している。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+          "title_ja": "従来の方針を転換したタッチ対応PC登場",
+          "summary_ja": "画面へのタッチ操作に対応した新しいノートパソコンが発表されました。これまでの製品方針を大きく転換する注目の新機種となります。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "M6 MacBook Pro",
-      "reason_ja": "アップルがAI性能を大幅に引き上げたM6搭載MacBook Proを発表し英国内でも話題となっている。",
+      "keyword": "touchscreen MacBook Pro",
+      "reason_ja": "画面タッチに対応した薄型軽量の新型ノートパソコンが登場し注目されています。",
       "genre": "gadget",
       "commercial_score": 95,
       "product_keywords": [
-        "MacBook Pro",
-        "Apple MacBook M6"
+        "touchscreen MacBook",
+        "Apple laptop UK",
+        "OLED laptop"
       ],
       "product_keywords_ja": [
         "MacBook Pro",
-        "Apple ノートパソコン"
+        "タッチパネル ノートパソコン"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "MacBook Proが最新チップへ刷新、性能向上",
-          "summary_ja": "主力ノートパソコンが最新チップに更新されて登場した。洗練された仕様を維持しながら内部性能が高められている。",
-          "source": "PCMag UK",
-          "url": "https://uk.pcmag.com/laptops/168114/apple-event-announces-14-inch-macbook-pro-m6-upgrade-starting-1999"
+          "title_ja": "画面タッチ操作に対応した初のMac登場",
+          "summary_ja": "長年にわたり見送られてきた画面のタッチ操作に対応したノートパソコンが登場しました。最新技術を取り入れた新たな製品ラインとして注目されています。",
+          "source": "Silicon UK",
+          "url": "https://www.silicon.co.uk/mobility/laptops/apple-mac-touchscreen-632077"
         },
         {
-          "title_ja": "AI機能と電池持ちを強化した新型ノートPC登場",
-          "summary_ja": "端末上での人工知能処理能力と電池の持続時間を強化した新型機が発表された。競合製品に対する優位性を維持する狙いがある。",
-          "source": "ChannelLife UK",
-          "url": "https://channellife.co.uk/story/apple-unveils-14-inch-macbook-pro-with-m6-ai-boost"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "REDMI K100",
-      "reason_ja": "大容量バッテリーと高性能プロセッサを搭載した新型スマートフォンREDMI K100が正式発表された。",
-      "genre": "gadget",
-      "commercial_score": 95,
-      "product_keywords": [
-        "REDMI K100",
-        "红米手机"
-      ],
-      "product_keywords_ja": [
-        "Xiaomi スマホ",
-        "Redmi"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "超大容量電池と高性能チップを積んだ新スマホ登場",
-          "summary_ja": "驚異的なバッテリー容量と強力なプロセッサを備えた新型スマートフォンが発表された。手頃な価格帯での競争を激化させる一台となっている。",
-          "source": "雷科技",
-          "url": "https://www.leikeji.com/article/80205"
-        },
-        {
-          "title_ja": "圧倒的な電池持ちを誇る新型スマホと周辺機器発表",
-          "summary_ja": "長時間の駆動を売りにする最新スマートフォンが披露された。あわせてノートパソコンやワイヤレスイヤホンなどの関連機器も同時に発表されている。",
-          "source": "搜狐网",
-          "url": "https://m.sohu.com/a/1093750830_121384255"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "手机国补",
-      "reason_ja": "スマートフォン買い替えに対する国家補助金政策が始まり、お得な購入方法が注目されている。",
-      "genre": "sale",
-      "commercial_score": 95,
-      "product_keywords": [
-        "手机国补",
-        "以旧换新 手机"
-      ],
-      "product_keywords_ja": [
-        "SIMフリー スマホ",
-        "中古スマホ 買取"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "国家補助金と下取りを重ねたスマホ買い替え術",
-          "summary_ja": "公的な補助制度とメーカーの下取り特典を併用して購入負担を大幅に減らす方法が紹介されている。各ブランドごとの割引額や手続きのしやすさが比較されている。",
-          "source": "手机新浪网",
-          "url": "https://k.sina.com.cn/article_7879777299_1d5abdc1306801nagk.html"
-        },
-        {
-          "title_ja": "スマホ購入補助金の受け取り手順と利用上の注意点",
-          "summary_ja": "端末購入時の補助金を受け取るための条件や申請の流れが解説されている。対象地域の確認や下取りキャンペーンとの組み合わせ方が案内されている。",
-          "source": "搜狐网",
-          "url": "https://m.sohu.com/a/1093457745_121761735"
-        }
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "keyword": "mes Haircare",
-      "reason_ja": "オスカー女優のジェニファー・ローレンスがヘアケアブランドを立ち上げ話題となっている。",
-      "genre": "beauty",
-      "commercial_score": 90,
-      "product_keywords": [
-        "mes haircare",
-        "Jennifer Lawrence beauty"
-      ],
-      "product_keywords_ja": [
-        "ヘアケア",
-        "シャンプー"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "人気女優が新たなビューティーブランドを発表",
-          "summary_ja": "著名な映画俳優がヘアケア製品を中心とした新ブランドを始動させた。雑誌の特集を通じて開発に込めた思いを語っている。",
-          "source": "The Cut",
-          "url": "https://www.thecut.com/article/jennifer-lawrence-cut-cover-mes-october-2026.html"
-        },
-        {
-          "title_ja": "自分らしさを引き出す新ヘアケアブランドが登場",
-          "summary_ja": "独自の美意識を反映した新しいヘアケアブランドが披露された。自身のお手入れの習慣や髪型の変遷についても明かされている。",
-          "source": "InStyle",
-          "url": "https://www.instyle.com/jennifer-lawrence-interview-hair-care-brand-mes-12195398"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Fitbit Edge",
-      "reason_ja": "最新の健康管理トラッカーFitbit Edgeのレビューが公開され買い替えの検討が進んでいる。",
-      "genre": "health",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Fitbit Edge",
-        "Fitbit fitness tracker"
-      ],
-      "product_keywords_ja": [
-        "Fitbit スマートウォッチ",
-        "フィットネストラッカー"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "最新フィットネス端末の実用性を検証したレビュー",
-          "summary_ja": "新登場の健康管理端末を実際に身につけて使い心地を確かめた評価記事が掲載された。価格に見合う価値があるかが分析されている。",
+          "title_ja": "軽量化とタッチ画面を備えた新世代機発表",
+          "summary_ja": "タッチ操作に対応した新型ノートパソコンが発表されました。本体の軽量化が進められたほか、象徴的な背面の発光デザインも復活しています。",
           "source": "The Independent",
-          "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/fitbit-edge-review-b3073259.html"
-        },
-        {
-          "title_ja": "画面の明るさと健康計測を向上させた新端末を評価",
-          "summary_ja": "従来の端末と比べて画面の見やすさや測定機能が向上している。日常的な利用における利便性や他機種との違いが比較されている。",
-          "source": "WIRED",
-          "url": "https://www.wired.com/review/google-fitbit-edge/"
+          "url": "https://www.independent.co.uk/tech/macbook-pro-apple-touchscreen-new-release-b3075086.html"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "ケンタライスBOX",
-      "reason_ja": "ケンタッキーフライドチキンがチキンと炊き込みご飯を組み合わせた新メニューを発表し話題を集めている。",
-      "genre": "food",
-      "commercial_score": 85,
-      "product_keywords": [
-        "ケンタライスBOX",
-        "ケンタッキー チキン"
-      ],
-      "product_keywords_ja": [
-        "ケンタッキー チキン",
-        "フライドチキン"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "ケンタッキーが新メニューのケンタライスBOXを発売",
-          "summary_ja": "日本ケンタッキーが鶏だしのご飯にチキンを乗せたライスメニューを一部店舗にて数量限定で発売する。お箸で食べる新しいスタイルの商品となっている。",
-          "source": "グルメ Watch",
-          "url": "https://gourmet.watch.impress.co.jp/docs/news/2151799.html"
-        },
-        {
-          "title_ja": "チキンと炊き込みご飯を合わせたケンタライスBOX登場",
-          "summary_ja": "KFC自慢のチキンと鶏の旨みが広がる炊き込みご飯を組み合わせた新メニューが展開される。手軽さと食べ応えを両立させた仕上がりとなっている。",
-          "source": "PR TIMES",
-          "url": "https://prtimes.jp/main/html/rd/p/000000497.000032088.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "空間再現ディスプレイ ELF-MN1",
-      "reason_ja": "ソニーがメガネ不要で立体映像を鑑賞できる小型空間再現ディスプレイを発表し話題を呼んでいる。",
+      "keyword": "触屏MacBook Pro",
+      "reason_ja": "画面タッチ操作に対応した新型ノートパソコンが発表され大きな関心を集めています。",
       "genre": "gadget",
-      "commercial_score": 85,
+      "commercial_score": 95,
       "product_keywords": [
-        "空間再現ディスプレイ",
-        "ELF-MN1",
-        "ソニー ディスプレイ"
+        "触屏 MacBook Pro",
+        "苹果 笔记本电脑",
+        "OLED 笔记本"
       ],
       "product_keywords_ja": [
-        "空間再現ディスプレイ",
-        "ソニー ディスプレイ"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "ソニーが裸眼で立体視できる小型ディスプレイを発表",
-          "summary_ja": "専用メガネを使わずに立体映像を楽しめる小型ディスプレイが披露された。デジタルフィギュアに対応しており、机の上にキャラクターを表示して鑑賞できる。",
-          "source": "ファミ通",
-          "url": "https://www.famitsu.com/article/202610/92291"
-        },
-        {
-          "title_ja": "ソニーが小型空間再現ディスプレイの新モデルを発表",
-          "summary_ja": "ソニーが立体的な映像表示が可能な小型機器を発表した。手頃な価格帯で卓上に置けるサイズ感となっている。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2151827.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Cyberpunk 2077 Update 2.5",
-      "reason_ja": "人気ゲームのサイバーパンク2077に最新大型アップデートが配信され注目を集めている。",
-      "genre": "gadget",
-      "commercial_score": 85,
-      "product_keywords": [
-        "Cyberpunk 2077",
-        "Cyberpunk game"
-      ],
-      "product_keywords_ja": [
-        "サイバーパンク2077",
-        "Cyberpunk 2077"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "サイバーパンクの大型更新が無料配信開始",
-          "summary_ja": "ゲーム本編の所有者に向けて最新の大型アップデートが無償で提供開始された。作品のファンから大きな注目を集めている。",
-          "source": "cyberpunk.net",
-          "url": "https://www.cyberpunk.net/en/news/52125/cyberpunk-2077s-edgerunners-2-update-2-5-is-out-now"
-        },
-        {
-          "title_ja": "サイバーパンクの最新版で改造環境が大幅に改善",
-          "summary_ja": "アップデートによりゲームの拡張機能の利用環境が大幅に進化している。プレイヤーが自由なカスタマイズを楽しめるようになった。",
-          "source": "GAMINGbible",
-          "url": "https://www.gamingbible.com/news/cyberpunk-2077-players-turn-cars-into-tesla-roadster-622791-20261022"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Radiator Booster",
-      "reason_ja": "冷え込みが厳しくなる中、暖房効率を高めて光熱費を抑えるラジエーターグッズが注目されている。",
-      "genre": "kaji",
-      "commercial_score": 85,
-      "product_keywords": [
-        "radiator booster",
-        "radiator fan heater"
-      ],
-      "product_keywords_ja": [
-        "ラジエーターファン",
-        "暖房 節電 グッズ"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "暖房効率を上げて光熱費を抑える小型機器が話題",
-          "summary_ja": "部屋の低い位置に暖かい空気を循環させる暖房補助器具が人気を集めている。寒冷期に電気代や燃料代を抑えたい消費者から評価されている。",
-          "source": "Liverpool Echo",
-          "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/70-radiator-gadget-shoppers-say-34824322"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "BlueChip Laptop",
-      "reason_ja": "アンドゥリルとクアルコムが米国製部品で構成される新型ノートPC構想を発表した。",
-      "genre": "gadget",
-      "commercial_score": 80,
-      "product_keywords": [
-        "BlueChip laptop",
-        "Qualcomm laptop",
-        "Anduril"
-      ],
-      "product_keywords_ja": [
-        "クアルコム ノートPC",
-        "Windows ノートパソコン"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "クアルコムと共同で新型ノートPC事業へ参入",
-          "summary_ja": "両社が提携して新たなコンピュータ開発計画を立ち上げた。ノートパソコンの製品群を展開していく方針を明らかにしている。",
-          "source": "DefenseScoop",
-          "url": "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm/"
-        },
-        {
-          "title_ja": "国内製造にこだわった新型ノートパソコンを発表",
-          "summary_ja": "組み立てだけでなく個別部品まで国内調達を目指す新しいノートPCが発表された。製造基盤を呼び戻す取り組みとして注目されている。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "UK Snow Forecast",
-      "reason_ja": "英国各地で今季初となる降雪の予報が出され、防寒対策や交通への関心が高まっている。",
-      "genre": "outdoor",
-      "commercial_score": 75,
-      "product_keywords": [
-        "winter jacket UK",
-        "snow boots UK",
-        "radiator"
-      ],
-      "product_keywords_ja": [
-        "防寒着",
-        "スノーブーツ",
-        "電気ヒーター"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "英国で今冬初の降雪予報、各地の天候マップ公開",
-          "summary_ja": "気象の変化に伴い国内各地で雪が降る見通しが伝えられている。地図を用いて降雪が予測される地域が示されている。",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/news/uk/home-news/met-office-snow-weather-forecast-scottish-highlands-b3073910.html"
-        },
-        {
-          "title_ja": "気象庁の予測マップで国内複数地域に雪の影響",
-          "summary_ja": "暴風雨に続いて雪の影響が警戒されている。広い地域で生活や交通への注意が呼びかけられている。",
-          "source": "AOL.co.uk",
-          "url": "https://www.aol.co.uk/articles/met-office-maps-show-snow-035900000.html"
-        }
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "keyword": "手机恢复出厂设置",
-      "reason_ja": "スマートフォンの初期化だけでは個人データが完全消去されない問題について注意喚起が広まっている。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "手机数据清除",
-        "二手手机"
-      ],
-      "product_keywords_ja": [
-        "スマホ データ消去ソフト",
-        "中古スマホ"
+        "MacBook Pro",
+        "タッチパネル ノートPC"
       ],
       "trend_source": "百度热搜",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "スマホの初期化だけでは個人情報は消えないと警告",
-          "summary_ja": "端末を売却する際に標準のリセット操作を行うだけでは情報が残る危険性があると解説されている。安全に手放すための対策が呼びかけられている。",
-          "source": "新浪财经",
-          "url": "https://cj.sina.cn/articles/view/2377587254/m8db71a3603301eprs?vt=4"
-        },
-        {
-          "title_ja": "中古端末売却時のデータ残存を防ぐ手順が話題に",
-          "summary_ja": "初期化操作はインデックスのみを消すため専用技術で復元される可能性があると指摘されている。容量をデータで上書きするなど確実な消去法が推奨されている。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwtxxy6655839.shtml"
+          "title_ja": "画面タッチ対応の新型ノートパソコン登場",
+          "summary_ja": "画面のタッチ操作に対応した新しいノートパソコンが正式に発表されました。高性能な新世代ディスプレイを搭載し、製品方針の大きな転換点として話題を呼んでいます。",
+          "source": "京报网",
+          "url": "https://news.bjd.com.cn/2026/10/29/12010830.shtml"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
+    },
+    {
+      "keyword": "Anker Liberty Buds 2",
+      "reason_ja": "独自チップを搭載した小型軽量の完全ワイヤレスイヤホンが新発売されました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker Liberty Buds",
+        "ワイヤレスイヤホン",
+        "ノイズキャンセリング"
+      ],
+      "product_keywords_ja": [
+        "Anker ワイヤレスイヤホン",
+        "ノイズキャンセリング イヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "小型軽量な完全ワイヤレスイヤホン発売",
+          "summary_ja": "シリーズの中で最も小さく軽い完全ワイヤレスイヤホンが発売されました。強力なノイズ遮断機能を備え、複数のカラーバリエーションが用意されています。",
+          "source": "AV Watch",
+          "url": "https://av.watch.impress.co.jp/docs/news/2151785.html"
+        },
+        {
+          "title_ja": "独自チップでノイズ低減を強化した新作",
+          "summary_ja": "シリーズ最小かつ最軽量となる完全ワイヤレスイヤホンが登場しました。独自の処理チップを搭載することでノイズ低減性能を高めています。直営店やオンライン通販などで販売が始まります。",
+          "source": "PHILE WEB",
+          "url": "https://www.phileweb.com/news/d-av/202610/29/66265.html"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "Echo Time",
+      "reason_ja": "音声アシスタントを内蔵した多機能なスマート目覚まし時計が新たに登場しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Echo Time",
+        "smart alarm clock",
+        "Alexa device"
+      ],
+      "product_keywords_ja": [
+        "Echo スマートスピーカー",
+        "スマート目覚まし時計"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "音声AI搭載のスマート目覚まし時計登場",
+          "summary_ja": "音声アシスタントを搭載した新しいスマート目覚まし時計が発表されました。日の出のような光での起床機能や自由に調整できる画面を備えています。朝夕の生活リズムを快適に整える機器です。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock"
+        },
+        {
+          "title_ja": "写真立て型機器や時計など新端末が発表",
+          "summary_ja": "新しいスマート目覚まし時計や写真立て型デバイスが披露されました。スピーカー製品などの既存ラインナップもあわせて刷新されています。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "Anker Space 2",
+      "reason_ja": "人気オーディオブランドのノイズキャンセリングヘッドホンが大幅値引きされています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker headphones",
+        "noise canceling headphones",
+        "wireless headset"
+      ],
+      "product_keywords_ja": [
+        "Anker ヘッドホン",
+        "ノイズキャンセリング ヘッドホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気ワイヤレスヘッドホンが大幅割引販売",
+          "summary_ja": "定評のあるワイヤレスヘッドホンが通販サイトにて特別割引価格で提供されています。特定の色を対象に手頃な価格で購入できるようになっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/oct-22-soundcore-anker-q20i-headphones-deal"
+        },
+        {
+          "title_ja": "高性能ノイズ遮断ヘッドホンが割引特価に",
+          "summary_ja": "自動適応型のノイズ低減機能や長時間バッテリーを備えた上位モデルが値下げされています。高音質再生にも対応した機種がお買い得となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/oct-26-anker-soundcore-space-one-pro-deal"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "Wind-up radios",
+      "reason_ja": "緊急時の備えを呼びかける政府方針を受けて手回し充電式ラジオの売り上げが急増しています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "wind up radio",
+        "emergency crank radio",
+        "stockpile supplies"
+      ],
+      "product_keywords_ja": [
+        "手回し充電ラジオ",
+        "防災ラジオ",
+        "非常用ラジオ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "緊急時の備蓄呼びかけで手回しラジオ急売",
+          "summary_ja": "異常気象などの緊急事態に備える指針が出たことを受け、手回し式ラジオや懐中電灯の売れ行きが急増しています。小売店では備蓄用品の品薄が相次いでいます。",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice"
+        },
+        {
+          "title_ja": "防災への備えからラジオなどの完売相次ぐ",
+          "summary_ja": "備蓄を促す呼びかけに対し、各家庭で準備を整える動きが広がっています。非常用のラジオや飲料水などの需要が急速に高まっています。",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/uk/2026/10/27/beans-water-and-radios-sell-out-after-uks-stockpile-warning/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "影之刃零",
+      "reason_ja": "独自開発の大型アクションゲームが世界同時発売されランキング上位を獲得しています。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "影之刃零",
+        "PS5 游戏",
+        "Steam 游戏"
+      ],
+      "product_keywords_ja": [
+        "PS5 ゲームソフト",
+        "ゲーミングPC"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "大型武侠アクションゲームが正式発売",
+          "summary_ja": "最新のゲーム制作エンジンを採用した武侠アクションゲームが世界に向けて発売されました。家庭用ゲーム機やパソコンなど多様な環境でプレイ可能となっています。",
+          "source": "3DM",
+          "url": "https://www.3dmgame.com/news/202610/3958201.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "大金镯",
+      "reason_ja": "金相場の高騰を背景に日常使いできる軽量な金アクセサリーへと需要が移っています。",
+      "genre": "beauty",
+      "commercial_score": 85,
+      "product_keywords": [
+        "黄金首饰",
+        "足金手镯",
+        "金饰配饰"
+      ],
+      "product_keywords_ja": [
+        "ゴールド バングル",
+        "24金 ブレスレット",
+        "純金 アクセサリー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "金相場の影響で小ぶりの金飾りに人気集中",
+          "summary_ja": "金価格の高止まりが続く中で消費者の購買傾向に変化が生じています。重厚な腕輪よりも手軽に身につけられる小型の装飾品が好まれるようになっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261029/49826577.html"
+        },
+        {
+          "title_ja": "価格動向の変化で金装飾品の購入客が増加",
+          "summary_ja": "相場の変動を受けてこれまで様子を見ていた人々の購入意欲が高まっています。装飾品だけでなく資産向けの需要も活発化し店舗の売り上げが伸びています。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1093403911_121345914"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "dc universe",
+      "reason_ja": "映画シリーズの統括責任者が主要キャラクターの位置づけについて発言し関心を集めています。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "DC Universe figures",
+        "Batman comics",
+        "Superman merchandise"
+      ],
+      "product_keywords_ja": [
+        "DC コミックス フィギュア",
+        "バットマン グッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "アメコミ主要キャラへの言及が反響を呼ぶ",
+          "summary_ja": "映画製作を率いる責任者が主要ヒーローの重要性を強調しました。新たな世界観の構築に向けて作品展開への関心が高まっています。",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/"
+        },
+        {
+          "title_ja": "アメコミ新シリーズの方向性に注目集まる",
+          "summary_ja": "新作映画やドラマの公開が続く中で作品ごとの特徴が議論されています。今後の展開に向けた制作体制の行方が注目されています。",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/clayface-dcu-lesson-james-gunn-181211220.html"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "pride and prejudice netflix trailer",
+      "reason_ja": "名作文学の新たなドラマシリーズの予告映像が公開されて大きな反響を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Pride and Prejudice book",
+        "Jane Austen novels",
+        "Netflix gift card"
+      ],
+      "product_keywords_ja": [
+        "高慢と偏見 文庫",
+        "ジェーン・オースティン 小説"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "名作古典の新ドラマ化予告動画が配信開始",
+          "summary_ja": "世界的に有名な恋愛文学の新たな映像化作品について予告映像が公開されました。動画配信サービスを通じて多様な端末から視聴できるようになります。",
+          "source": "Netflix",
+          "url": "https://www.netflix.com/tudum/articles/dolly-alderton-pride-and-prejudice-trailer-emma-corrin-jack-lowden"
+        },
+        {
+          "title_ja": "名作恋愛小説の全編ドラマ化予告が解禁",
+          "summary_ja": "古典小説をもとにした新しいドラマシリーズの予告映像が公開されました。主要な登場人物たちの姿が披露され、配信に向けた期待が高まっています。",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/10/pride-and-prejudice-series-trailer-netflix-teaser-1236734188/"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "naomi osaka",
+      "reason_ja": "東京の大会で和の意匠を取り入れた試合着を着用して勝利し注目されています。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "tennis dress",
+        "tennis racquet",
+        "sportswear women"
+      ],
+      "product_keywords_ja": [
+        "テニスウェア レディース",
+        "テニス ラケット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "和風の独自衣装をまといストレート勝利",
+          "summary_ja": "日本を題材にした特別な衣装を着用して試合会場に入場しました。強豪相手にストレート勝ちを収めて好調な滑り出しを見せています。",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/tennis/news/13604425/wta-tour-naomi-osaka-wears-japan-inspired-outfit-during-tokyo-win-as-venus-williams-loses-to-teenager-at-guangzhou-open"
+        },
+        {
+          "title_ja": "接戦を制して東京の大会で初戦を突破",
+          "summary_ja": "相手の猛追を振り切って接戦を制し次の回へと駒を進めました。過去の大会覇者として大会の頂点を目指す戦いを続けています。",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/videos/4599556/osaka-saves-triple-set-point-vs-paolini-advances-to-tokyo-second-round"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "大坂なおみ",
+      "reason_ja": "東京で開催中の国際大会で個性的な試合衣装を披露し話題を集めています。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "テニスウェア",
+        "テニスラケット",
+        "スポーツウェア"
+      ],
+      "product_keywords_ja": [
+        "テニスウェア レディース",
+        "テニスラケット ヨネックス"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "鮮やかな特注衣装でコートに立ち話題に",
+          "summary_ja": "女子テニスの国際大会において華やかな羽織風の衣装で登場し観客を沸かせました。前回の試合に続き個性的な装いを披露して注目を浴びています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/23a238e9f26b673b48fe990992c825544ebc5560"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:34:38+09:00",
+  "stories": [
+    {
+      "title_ja": "アマゾンが対話型AI「Alexa+」の国内提供を開始",
+      "summary_ja": "アマゾンが生成AIを搭載した次世代アシスタント「Alexa+」の早期アクセス提供を国内で開始した。日本の文化や習慣を理解して自然に対話し、飲食店予約や各種作業の代行に対応する。好みを学習して個別化された体験を提供し、プライム会員は追加料金なしで利用できる。",
+      "source": "MEDIAMIXI",
+      "url": "https://mediamixi.jp/news/17585/",
+      "score": 95,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Amazon Echo",
+        "スマートスピーカー"
+      ]
+    },
+    {
+      "title_ja": "One人事がChatGPTと連携しデータ分析や帳票作成を支援",
+      "summary_ja": "One人事が人事データ基盤「OneDB」と生成AI「ChatGPT」をつなぐ「MCP機能」の提供を開始した。自然な言葉で指示を出すだけで、人材検索やデータ集計、グラフ分析から帳票作成までを行える。作成したエクセルやCSVファイルはチャット画面から直接ダウンロードできる。",
+      "source": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=000000282.000082048&g=prt",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "人事労務 システム"
+      ]
+    },
+    {
+      "title_ja": "青山学院中等部が生成AI講座でゲーム制作授業を実施",
+      "summary_ja": "青山学院中等部が生成AI講座を開き、生徒たちがシューティングや陣取り合戦などのゲーム制作に取り組んだ。教育現場において生成AIとの向き合い方が問われる中、実践的な学習機会を提供している。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2147bb1d97c79d28886a6895153b2ce4edfbaef8",
+      "score": 70,
+      "commercial_score": 30,
+      "product_keywords": [
+        "プログラミング 学習",
+        "生成AI 教材"
+      ]
+    },
+    {
+      "title_ja": "初開催の「京都AI文芸賞」報告会で小説執筆の未来を議論",
+      "summary_ja": "小説執筆における生成AI活用の可能性を探る「京都AI文芸賞」が初開催され、報告会が行われた。参加者の間で作品に関する感想が交わされたほか、生成AIが文学をどのように変えていくかについて意見交換がなされた。",
+      "source": "京都新聞デジタル",
+      "url": "https://www.kyoto-np.co.jp/articles/thekyoto/1815643",
+      "score": 65,
+      "commercial_score": 25,
+      "product_keywords": [
+        "AI 文芸"
+      ]
+    }
+  ]
+}

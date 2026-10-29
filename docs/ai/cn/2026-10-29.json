@@ -1,0 +1,41 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:34:38+09:00",
+  "stories": [
+    {
+      "title_ja": "中国で自動車への車載エッジAI大モデル搭載と量産化が進展",
+      "summary_ja": "中国において車載エッジAI大規模モデルの実用化と量産化が進められている。自動車へのAI搭載が国家産業戦略へと位置づけられる中、量産体制の実現に向けた取り組みが続いている。",
+      "source": "信息化观察网",
+      "url": "https://www.infoobs.com/article/20261029/72060.html",
+      "score": 80,
+      "commercial_score": 65,
+      "product_keywords": [
+        "車載 AI",
+        "スマートカー"
+      ]
+    },
+    {
+      "title_ja": "山東省青島港が港湾業界初のAI大モデル「星港」を導入",
+      "summary_ja": "中国の山東港口青島港において、港湾業界初となるAI大規模モデル「星港」が導入された。現場における安全管理と統制業務の支援に活用されている。",
+      "source": "人民政协网",
+      "url": "https://www.rmzxw.com.cn/c/2026-10-29/3996736.shtml?n2m=1",
+      "score": 75,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "貴州省で方言を聞き取る生活支援AI大モデルの成果が公開",
+      "summary_ja": "貴州省貴陽市で開催された発表イベントで、地域の生活ニーズに合わせたAI大規模モデルの成果が公開された。省内9つの市や州の方言を理解できる機能などが盛り込まれている。",
+      "source": "手机新浪网",
+      "url": "https://k.sina.com.cn/article_5953189932_162d6782c067052bg4.html?from=tech",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "音声認識 AI"
+      ]
+    }
+  ]
+}
