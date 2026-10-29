@@ -1,0 +1,133 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:12:24+09:00",
+  "trends": [
+    {
+      "keyword": "touchscreen MacBook Pro",
+      "reason_ja": "タッチ操作に対応した有機ELディスプレイ搭載の新型ノートPCが発表されました。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "touchscreen MacBook Pro",
+        "Apple laptop",
+        "OLED laptop"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "タッチパネル ノートPC"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "有機ELタッチ画面搭載の新型ノート発表",
+          "summary_ja": "有機ELのタッチスクリーンを採用した新型ノートパソコンが披露されました。従来よりも薄く軽いデザインに仕上がっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-oled-macbook-pro-touchscreen-price-specs-release-date"
+        },
+        {
+          "title_ja": "従来の方針を転換したタッチ対応PC登場",
+          "summary_ja": "画面へのタッチ操作に対応した新しいノートパソコンが発表されました。これまでの製品方針を大きく転換する注目の新機種となります。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Echo Time",
+      "reason_ja": "音声アシスタントを内蔵した多機能なスマート目覚まし時計が新たに登場しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Echo Time",
+        "smart alarm clock",
+        "Alexa device"
+      ],
+      "product_keywords_ja": [
+        "Echo スマートスピーカー",
+        "スマート目覚まし時計"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "音声AI搭載のスマート目覚まし時計登場",
+          "summary_ja": "音声アシスタントを搭載した新しいスマート目覚まし時計が発表されました。日の出のような光での起床機能や自由に調整できる画面を備えています。朝夕の生活リズムを快適に整える機器です。",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock"
+        },
+        {
+          "title_ja": "写真立て型機器や時計など新端末が発表",
+          "summary_ja": "新しいスマート目覚まし時計や写真立て型デバイスが披露されました。スピーカー製品などの既存ラインナップもあわせて刷新されています。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
+        }
+      ]
+    },
+    {
+      "keyword": "dc universe",
+      "reason_ja": "映画シリーズの統括責任者が主要キャラクターの位置づけについて発言し関心を集めています。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "DC Universe figures",
+        "Batman comics",
+        "Superman merchandise"
+      ],
+      "product_keywords_ja": [
+        "DC コミックス フィギュア",
+        "バットマン グッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "アメコミ主要キャラへの言及が反響を呼ぶ",
+          "summary_ja": "映画製作を率いる責任者が主要ヒーローの重要性を強調しました。新たな世界観の構築に向けて作品展開への関心が高まっています。",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/"
+        },
+        {
+          "title_ja": "アメコミ新シリーズの方向性に注目集まる",
+          "summary_ja": "新作映画やドラマの公開が続く中で作品ごとの特徴が議論されています。今後の展開に向けた制作体制の行方が注目されています。",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/clayface-dcu-lesson-james-gunn-181211220.html"
+        }
+      ]
+    },
+    {
+      "keyword": "naomi osaka",
+      "reason_ja": "東京の大会で和の意匠を取り入れた試合着を着用して勝利し注目されています。",
+      "genre": "other",
+      "commercial_score": 65,
+      "product_keywords": [
+        "tennis dress",
+        "tennis racquet",
+        "sportswear women"
+      ],
+      "product_keywords_ja": [
+        "テニスウェア レディース",
+        "テニス ラケット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "和風の独自衣装をまといストレート勝利",
+          "summary_ja": "日本を題材にした特別な衣装を着用して試合会場に入場しました。強豪相手にストレート勝ちを収めて好調な滑り出しを見せています。",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/tennis/news/13604425/wta-tour-naomi-osaka-wears-japan-inspired-outfit-during-tokyo-win-as-venus-williams-loses-to-teenager-at-guangzhou-open"
+        },
+        {
+          "title_ja": "接戦を制して東京の大会で初戦を突破",
+          "summary_ja": "相手の猛追を振り切って接戦を制し次の回へと駒を進めました。過去の大会覇者として大会の頂点を目指す戦いを続けています。",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/videos/4599556/osaka-saves-triple-set-point-vs-paolini-advances-to-tokyo-second-round"
+        }
+      ]
+    }
+  ]
+}

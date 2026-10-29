@@ -1,0 +1,81 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:37:41+09:00",
+  "stories": [
+    {
+      "title_ja": "米アップル、従来の姿勢を転換し初のタッチ画面ノートPCを発表",
+      "summary_ja": "米アップル（Apple）は、画面に触れて操作できる新型ノートパソコンを発表した。タッチスクリーン搭載に慎重だった長年の方針を転換する形となった。新最高経営責任者（CEO）であるジョン・ターナス氏の体制下で3番目の大型製品投入となる。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "score": 95,
+      "commercial_score": 85,
+      "product_keywords": [
+        "MacBook",
+        "Apple"
+      ]
+    },
+    {
+      "title_ja": "ソニー、眼鏡なしで立体視できる6型3Dディスプレイを発表",
+      "summary_ja": "ソニーは、専用メガネなしでアバターやアニメーションを立体表示できる6インチの空間再現ディスプレイ「ELF-MN1」を発表した。目の位置を追跡してリアルタイムに立体映像を生成し、スマートフォンやパソコンと接続できる。日本国内で12月11日に発売される予定。",
+      "source": "디지털투데이",
+      "url": "https://www.digitaltoday.co.kr/en/view/121250/sony-to-launch-smartphone-connected-3d-display-in-december",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ソニー 空間再現ディスプレイ",
+        "ELF-MN1"
+      ]
+    },
+    {
+      "title_ja": "米HP、5G通信や最大64GBメモリ対応の14型ノートPCを発売",
+      "summary_ja": "米HPは、新型の14インチノートパソコン「EliteBook 6 G2a 14」を世界市場向けに発売した。5Gモバイル通信に対応し、最大64GBのメモリを搭載できる。最大800ニトの高輝度ディスプレイやAMD製プロセッサの選択肢も揃える。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-with-800-nit-display-5G-cellular-connectivity-and-64-GB-RAM.1436557.0.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "HP EliteBook",
+        "HP ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "アマゾン、スマート写真立てなどアレクサ対応の新作5機種を発表",
+      "summary_ja": "米アマゾン（Amazon）は、音声アシスタントに対応した5種類の新端末を発表した。199.99ドルのスマートフォトフレームやスマート時計「Echo Time」などがラインアップに含まれる。家庭内の各部屋に応じた機能を提供し、自社サービスとの連携を強化する。",
+      "source": "Gadget Review",
+      "url": "https://www.gadgetreview.com/amazon-launches-alexa-photo-frame-and-four-new-echo-devices",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Amazon Echo",
+        "スマートフォトフレーム"
+      ]
+    },
+    {
+      "title_ja": "レノボ、新型CPUと大容量電池搭載の16型ノートPCを発表",
+      "summary_ja": "レノボ（Lenovo）は、中国市場向けにノートパソコン「Lecoo Pro 16 Core Edition」を発売した。インテルの最新世代プロセッサを採用し、90Whの大容量バッテリーや120Hz駆動の画面、OCuLink端子を備える。発売価格は9,999元となっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lenovo-launches-Panther-Lake-powered-laptop-with-large-90Wh-battery-and-OCuLink-port.1436211.0.html",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Lenovo ノートPC"
+      ]
+    },
+    {
+      "title_ja": "ツーウェイ、18型大画面の新型ゲーミングノートPCを発表",
+      "summary_ja": "ツーウェイ（CHUWI）は、新型ゲーミングノートパソコン「GameBook Max」を発表した。18インチで144Hz駆動の大型ディスプレイを備え、インテル製Core HXシリーズとRTX 5060グラフィックスを搭載する。価格は1,799ドルからとなっている。",
+      "source": "XiaomiToday",
+      "url": "https://xiaomitoday.com/chuwi-launches-gamebook-max-gaming-laptop-featuring-core-i9-14900hx-and-rtx-5060/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "CHUWI ノートPC",
+        "CHUWI"
+      ]
+    }
+  ]
+}

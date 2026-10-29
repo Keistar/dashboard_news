@@ -1,242 +1,284 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T15:48:31+09:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:48:50+09:00",
   "stories": [
     {
-      "title_ja": "ファミマのチョコがけパンシリーズにチョコ生コッペパンが新登場",
-      "summary_ja": "ファミリーマートが「本気のチョコがけパン」シリーズの新作として「本気のチョコ生コッペパン（たっぷりチョコホイップ）」を10月27日に発売した。同シリーズではこれまでチョコクリームパンやデニッシュメロンパンなどが展開されている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4fd28a350db53a86058b0bd8d470f4afc4ba8c46",
-      "score": 85,
-      "commercial_score": 90,
+      "title_ja": "米マクドナルドがクリスマス向けホリデー新メニューを発表",
+      "summary_ja": "米マクドナルドは、ハロウィンを前に早くもクリスマスシーズンに向けたホリデー新メニューを発表しました。冬のホリデー気分を先取りした季節限定商品が展開されます。",
+      "source": "FOX 8 News",
+      "url": "https://fox8.com/news/mcdonalds-unveils-new-menu-items-for-the-holiday/",
+      "score": 82,
+      "commercial_score": 75,
       "product_keywords": [
-        "ファミリーマート",
-        "コッペパン",
-        "チョコパン"
+        "マクドナルド"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ローソンがバターやチーズを使った濃厚グルメを11月2日より順次発売",
+      "summary_ja": "コンビニエンスストアのローソンは、バターやチーズを使ったおにぎりやラーメンなどの新商品を11月2日から順次発売します。寒い季節に向けて濃厚な味わいを楽しめるラインナップを展開します。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/sankei/business/sankei-_economy_business_SJ7UDI7K7NLA5HE6ZQU2U5XKBY?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ローソン",
+        "チーズ グルメ",
+        "バター グルメ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米マクドナルドがクランベリー飲料やクッキーバター珈琲を発売へ",
-      "summary_ja": "米マクドナルドが11月3日よりホリデー向けの期間限定ドリンク5品を発売する。クランベリー風味のフローズンドリンク2種と、クッキーバターを使用したコーヒー3種が展開される。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/new-mcdonalds-holiday-drinks-menu-2026-12195002",
-      "score": 85,
-      "commercial_score": 75,
+      "title_ja": "米ダンキンが2026年ホリデー展開で限定キャラや人気ドリンクを復活",
+      "summary_ja": "米国のダンキンは、2026年のホリデーシーズンに向けて独自のキャラクター「ドーナツクラッカー」を披露しました。11月4日から全国のカップやドーナツ箱に新デザインが登場するほか、クッキーバターなどの人気ドリンクも復活します。",
+      "source": "Dunkin",
+      "url": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
+      "score": 78,
+      "commercial_score": 80,
       "product_keywords": [
-        "マクドナルド",
-        "クッキーバター",
-        "フレーバーコーヒー"
+        "ダンキン",
+        "ドーナツ",
+        "ホリデー カップ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "バーガーキングのプレッツェルバンズが米スーパーで一般発売へ",
-      "summary_ja": "バーガーキングのバーガーに使用されていたスーパープレッツェル（SuperPretzel）のバンズが、11月1日より大手スーパーのクローガーで発売される。消費者がファストフードの看板バーガーの味を自宅で再現できるようになる。",
-      "source": "Allrecipes",
-      "url": "https://www.allrecipes.com/superpretzel-bavarian-pretzel-buns-12195250",
-      "score": 85,
-      "commercial_score": 85,
+      "title_ja": "中国の茶系カフェで注文客優先の座席対応、各社は店舗判断と回答",
+      "summary_ja": "スターバックスの着席ルールを巡る議論を受け、中国の茶系カフェ大手「覇王茶姫」や「奈雪の茶」の対応が注目されています。両社は本部としての統一規定ではないとしつつ、購入客を優先しつつ店舗ごとに柔軟に対応していると説明しました。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1094348165_120388781",
+      "score": 78,
+      "commercial_score": 65,
       "product_keywords": [
-        "プレッツェルバンズ",
-        "ハンバーガーバンズ",
-        "冷凍パン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "コメダ珈琲店が秋冬の新作ケーキ4種を全国で発売",
-      "summary_ja": "コメダ珈琲店が全国の店舗で秋冬向けの新作ケーキ4種類を発売した。「フローラルチョコムース」や「キャラメルドルチェ」、「おいもの煌めき」といった季節感のあるケーキが揃っている。",
-      "source": "いいものタウン",
-      "url": "https://iimono.town/topic/gourmet/188167/",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "コメダ珈琲店",
-        "ケーキ",
-        "チョコムース"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ジャック・イン・ザ・ボックスが映画アベンジャーズ特別品を発表",
-      "summary_ja": "米ファストフードのジャック・イン・ザ・ボックスが、映画『アベンジャーズ：ドゥームズデイ』とコラボレーションした新メニューを発表した。人気商品を集めた限定ボックスや、作品をイメージした専用ソースのラインナップが登場する。",
-      "source": "People.com",
-      "url": "https://people.com/jack-in-the-box-teams-up-with-avengers-doomsday-for-special-menu-items-exclusive-12194883",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "アベンジャーズ",
-        "ファストフード"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "賞味期限切れ食品を安売りする英スーパーが全国規模の展開を計画",
-      "summary_ja": "余剰食品や賞味期限を過ぎた食品を割引価格で販売する英国のスーパーマーケットが、全国規模での店舗拡大計画を明らかにした。食品廃棄の削減や割安な価格設定で注目を集めている。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40824990/supermarket-sells-cheap-food-past-best-before-date/",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "訳あり食品",
-        "フードロス",
-        "激安スーパー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英セインズベリーズがリモンチェッロティラミスなど予約食品発表",
-      "summary_ja": "英国の大手スーパーであるセインズベリーズ（Sainsbury's）が、クリスマス向けの予約食品を発表した。注目商品のリモンチェッロ・ティラミスのほか、ガーリックバターを添えたロブスターテールやグレーズドターキーなどが並ぶ。",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/extras/indybest/christmasgifts/food/sainsburys-christmas-food-to-order-2026-b3074045.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ティラミス",
-        "リモンチェッロ",
-        "クリスマスケーキ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "巴黎貝甜が大学入試向けにチョコや抹茶の合格祈願餅菓子を発売",
-      "summary_ja": "ベーカリーチェーンの巴黎貝甜（パリバゲット）が、2027学年度の大学入試（高考）に向けて受験生を応援する「高考礼品」シリーズを発表した。チョコレート味や抹茶味の新作の餅菓子をはじめ、合格を祈願する各種焼き菓子が展開される。",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/cn/article/2026102808150798574",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "餅菓子",
-        "焼き菓子 ギフト",
-        "抹茶 スイーツ"
+        "中国茶",
+        "ティードリンク"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "がってん寿司が初のフードコート業態をイオンレイクタウンに開業",
-      "summary_ja": "グルメ回転寿司の「がってん寿司」を運営するジーエスアールが、初となるフードコートモデルの店舗をイオンレイクタウンkazeにオープンした。買い物の合間に本格的な寿司が楽しめる業態として展開される。",
-      "source": "フーズチャネル",
-      "url": "https://foods-ch.infomart.co.jp/news/348760",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "がってん寿司",
-        "寿司"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "明星食品が具だくさんタルタルソース付きの一平ちゃん大盛を発売へ",
-      "summary_ja": "明星食品がカップ焼そばの新商品「一平ちゃん夜店の焼そば 大盛 えびフライ味」を11月9日に税別385円で発売する。玉ねぎやたまご入りの具だくさんタルタルソースが付いており、えびフライ自体は具材として入っていない。",
-      "source": "ライブドアニュース",
-      "url": "https://news.livedoor.com/topics/detail/32674818/",
+      "title_ja": "銀座コージーコーナーがロッテと共同開発した紗々ミルクレープに抹茶味を追加",
+      "summary_ja": "銀座コージーコーナーは、ロッテと共同開発した紗々ミルクレープの新作として抹茶味を2026年11月1日から発売します。全国の生ケーキ取扱店で展開され、定番と合わせた2種類が並びます。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_709398/",
       "score": 75,
       "commercial_score": 90,
       "product_keywords": [
-        "一平ちゃん",
-        "明星食品",
-        "カップ焼きそば"
+        "紗々",
+        "ミルクレープ",
+        "コージーコーナー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ほっともっとが春巻シェア盛プレートを11月1日より発売",
-      "summary_ja": "持ち帰り弁当チェーンのほっともっとが、人気のおかずを一度に楽しめる「春巻シェア盛プレート」を11月1日より新発売する。家族やグループで分け合って楽しめる惣菜プレートとなっている。",
-      "source": "アットプレス",
-      "url": "https://www.atpress.ne.jp/news/644896",
-      "score": 70,
-      "commercial_score": 85,
+      "title_ja": "米セブン-イレブンがビビゴと連携した韓国料理の新メニューを導入",
+      "summary_ja": "米国のセブン-イレブンは、韓国の味わいを楽しめる「フレーバーズ・オブ・コリア」メニューを開始しました。ラインナップにはビビゴ（Bibigo）のスパイシーチキン餃子や、コチュジャンソースの骨なしチキンなどが含まれます。",
+      "source": "CSP Daily News",
+      "url": "https://www.cspdailynews.com/foodservice/7-eleven-debuts-flavors-korea-menu",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "ほっともっと",
-        "オードブル",
-        "春巻き"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "チキン店ポヨ・カンペロがスパイシーとアボカドの新作ソース提供",
-      "summary_ja": "ファストフードチェーンのポヨ・カンペロ（Pollo Campero）がソースのラインナップを拡充した。新たにスパイシーソースとアボカドランチソースが加わり、全米150以上の店舗にて無料で提供される。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/pollo-campero-spicy-avocado-ranch-signature-sauce-lineup-302920526",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "アボカドソース",
-        "ランチドレッシング"
+        "ビビゴ",
+        "マンドゥ",
+        "コチュジャン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英バーガー店The Beefy Boysが新店開業前に試食テスターを募集",
-      "summary_ja": "受賞歴を持つ英国のハンバーガー店「The Beefy Boys」が、12月のケンブリッジ新店舗開店に先立ち試食テスターを募集している。正式オープン前に20％割引で自慢のバーガーを体験できる機会を提供する。",
-      "source": "Encore PR",
-      "url": "https://www.encorepr.co.uk/wanted-cambridge-burger-testers-to-trial-the-beefy-boys-before-new-restaurant-opens/",
-      "score": 70,
-      "commercial_score": 70,
+      "title_ja": "英大手スーパーが人気セールを再開、1000店舗超で家計節約を応援",
+      "summary_ja": "英国の大手スーパーマーケットチェーンが、10品を10ポンドで購入できる人気セールを1000店舗以上で復活させました。学校の学期休み期間に合わせた家計支援の取り組みとなっています。",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/money/40831649/uk-supermarkets-bring-back-deal/",
+      "score": 75,
+      "commercial_score": 80,
       "product_keywords": [
-        "ハンバーガー",
-        "グルメバーガー"
+        "イギリス スーパー",
+        "セール"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "英スーパー大手アイスランドが大型店フード・ウェアハウスを開業へ",
-      "summary_ja": "英国のスーパー大手アイスランドが、ホーリーヘッドのリテールパークに「Food Warehouse」新店舗をオープンする日程を発表した。新店舗の開店により、現地で28人の雇用が創出される見通しである。",
-      "source": "North Wales Live",
-      "url": "https://www.dailypost.co.uk/news/north-wales-news/iceland-confirms-opening-date-new-34822560",
-      "score": 70,
+      "title_ja": "中国茶飲料チェーンの滬上阿姨が朝食などの軽食を含む新戦略を発表",
+      "summary_ja": "中国の大手茶飲料チェーン「滬上阿姨（フーシャンアイー）」は、全時間帯・全品類をカバーする「全時茶珈食」戦略を発表しました。朝の需要に応えるコーヒーとベーカリーの組み合わせなど、ドリンクに軽食を加えて店舗の利用機会を広げます。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1094365621_121426544",
+      "score": 75,
       "commercial_score": 75,
       "product_keywords": [
-        "冷凍食品",
-        "業務用食品"
+        "中国茶",
+        "ベーカリー"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "英大手スーパーがハニカムとキャラメル入りの新作板チョコを発売",
+      "summary_ja": "英国の大手スーパーが、厚切りのハニカムと塩キャラメルを合わせたミルクチョコレートバーを3ポンドで発売しました。人気ブランドに対抗する贅沢な味わいの板チョコとして投入されています。",
+      "source": "Metro.co.uk",
+      "url": "https://metro.co.uk/2026/10/28/major-supermarket-unveils-drool-worthy-chocolate-bar-rival-tonys-chocolonely-29744976/",
+      "score": 74,
+      "commercial_score": 90,
+      "product_keywords": [
+        "塩キャラメル チョコレート",
+        "ハニカム チョコ",
+        "板チョコレート"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "洋菓子ブランドのSALTRAが1周年記念のショコラクッキー発売",
-      "summary_ja": "洋菓子ブランドのSALTRA（ソルトラ）が、ブランド1周年を記念した新商品「ショコラサンドクッキー」を11月1日より発売する。ショコラの優しい甘みに塩味が重なる仕立てで、同日よりオリジナルトートバッグのプレゼント企画も実施される。",
-      "source": "毎日キレイ",
-      "url": "https://mainichikirei.jp/prtimes/article/20261027prt00m100000457a.html",
-      "score": 65,
+      "title_ja": "英グレッグスの名物ホリデー向けパイがスーパーの店頭に復活",
+      "summary_ja": "英国の人気ベーカリーチェーン「グレッグス」でホリデーの定番となっているベイク商品が、英スーパーの店頭に再登場しました。街中のベーカリー店舗で買うよりも割安な価格設定で販売され、買い物客から歓迎されています。",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/money/40836958/greggs-bake-returns-supermarkets-cheaper/",
+      "score": 73,
       "commercial_score": 85,
       "product_keywords": [
-        "クッキー",
-        "ショコラサンド",
-        "洋菓子 ギフト"
+        "ミートパイ",
+        "冷凍パイ",
+        "イギリス パン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "米コーヒーチェーンが完売人気のティラミスドリンクをホリデーで再販",
+      "summary_ja": "コーヒービーン＆ティーリーフ（The Coffee Bean & Tea Leaf）は、2026年のホリデーメニューを発表しました。過去に完売した人気のティラミスドリンクを復活させるほか、ポール・フランクとのコラボレーションなども展開します。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/coffee-bean-tea-leaf-tiramisu-holiday-menu-2026-302922654",
+      "score": 72,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ティラミス",
+        "コーヒービーン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ほっともっとが春巻シェア盛プレートを発売、人気おかず4種を詰め合わせ",
+      "summary_ja": "持ち帰り弁当チェーンのほっともっとは、人気のおかず4種類を盛り合わせた春巻シェア盛プレートを11月1日に発売します。価格は950円で、あわせてチキン竜田シェア盛プレートのリニューアルも行われます。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3378841a2892963769468fd1e0cf63e5bc3cc315",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ほっともっと",
+        "春巻",
+        "チキン竜田"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英スリランカ料理店が10周年記念で無料料理や10ポンド食べ放題",
-      "summary_ja": "英国のスリランカ料理レストラングループが、創業10周年を記念して1日限定の特別キャンペーンを実施する。料理の無料提供や10ポンドでの無制限ダイニングなどの特典が用意されている。",
-      "source": "Yahoo News UK",
-      "url": "https://uk.news.yahoo.com/restaurant-offers-free-food-10-050000152.html",
-      "score": 65,
+      "title_ja": "ジョリビーが甘辛いハニーガーリックチキンとサンドを北米で発売",
+      "summary_ja": "ファストフードチェーンのジョリビーは、チキンメニューの新たなラインナップとしてハニーガーリック味のフライドチキンとチキンサンドを発表しました。甘辛い味わいが特徴で、米国とカナダの対象店舗にて期間限定で販売されます。",
+      "source": "QSR Web",
+      "url": "https://www.qsrweb.com/news/jollibee-adds-honey-garlic-fried-chicken-sandwich-to-menus/",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "フライドチキン",
+        "ジョリビー"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ロンドンに新たなフードホールが11月開業、14店舗が出店へ",
+      "summary_ja": "ロンドンのエレファント＆キャッスルに、新たなフードホール「エレファント・エクスチェンジ」が2026年11月12日にオープンします。世界各国の屋台料理を提供する独立系飲食店14店が集まり、セルフ式のワインやカフェバーも備えます。",
+      "source": "Hospitality & Catering News",
+      "url": "https://www.hospitalityandcateringnews.com/2026/10/elephant-exchange-food-hall-reveals-14-food-partners-ahead-of-november-opening/",
+      "score": 70,
       "commercial_score": 65,
       "product_keywords": [
-        "スリランカカレー",
-        "スリランカ料理"
+        "ストリートフード",
+        "フードホール",
+        "輸入ワイン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国蘭州で地元の伝統食材を使った新感覚の茶系ドリンクが人気",
+      "summary_ja": "中国甘粛省の蘭州では、杏皮茶など地元の伝統的な食材を取り入れた個性的な茶系ドリンクが注目を集めています。伝統的な食文化と現代のティードリンクを融合させ、観光客や若者を中心に人気を博しています。",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-28/detail-iniwttrx3857277.d.html?vt=4&wm=1029?q",
+      "score": 70,
+      "commercial_score": 70,
+      "product_keywords": [
+        "中国茶",
+        "ハーブティー",
+        "ドライフルーツ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ほっかほっか亭がダブルにんにく仕立ての牛プルコギ弁当を発売",
+      "summary_ja": "持ち帰り弁当チェーンのほっかほっか亭は、新商品「牛プルコギ弁当」を11月1日から税込み890円で発売します。牛肉や玉ねぎ、にんにくの芽を甘辛い特製だれで香ばしく炒め、おろしにんにくを合わせたスタミナ感のある仕立てです。",
+      "source": "Excite エキサイト",
+      "url": "https://www.excite.co.jp/news/article/Ssnp_709408/",
+      "score": 68,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ほっかほっか亭",
+        "プルコギ弁当",
+        "牛プルコギ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ハラルフードチェーンがウェールズ初進出、カーディフに出店",
+      "summary_ja": "ニューヨーク発祥の人気アメリカンファストフードチェーン「シャーズ・ハラルフード」が、ウェールズのカーディフ中心部に初出店します。手軽に楽しめるハラルフードの提供店舗として注目されています。",
+      "source": "Wales 247",
+      "url": "https://www.wales247.co.uk/popular-new-york-fast-food-chain-to-open-first-welsh-restaurant-in-cardiff",
+      "score": 68,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ハラルフード",
+        "ハラル"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "神戸風月堂がクリスマス限定のゴーフルを11月1日より発売",
+      "summary_ja": "神戸風月堂は、クリスマスに向けた限定商品「ボネ・ショー・アン・レーヌ」を11月1日に発売します。季節限定の特別なゴーフルとして店頭に登場します。",
+      "source": "いいものタウン",
+      "url": "https://iimono.town/topic/gourmet/188181/",
+      "score": 65,
+      "commercial_score": 85,
+      "product_keywords": [
+        "神戸風月堂",
+        "ゴーフル",
+        "クリスマス お菓子"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "フィリップスがコーヒーメーカー発売70周年を記念し上海で催事",
+      "summary_ja": "フィリップスは、コーヒーメーカーの誕生70周年を記念した期間限定のポップアップストアを上海市で開催しました。ブランドの歴史を振り返りながらコーヒー体験を提供する場となりました。",
+      "source": "中国日报网",
+      "url": "https://cn.chinadaily.com.cn/a/202610/28/WS6ae1df4de4b09a165c792304.html",
+      "score": 65,
+      "commercial_score": 80,
+      "product_keywords": [
+        "フィリップス コーヒーメーカー",
+        "全自動コーヒーマシン"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
     }
   ]
 }

@@ -1,0 +1,91 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:12:24+09:00",
+  "trends": [
+    {
+      "keyword": "触屏MacBook Pro",
+      "reason_ja": "画面タッチ操作に対応した新型ノートパソコンが発表され大きな関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "触屏 MacBook Pro",
+        "苹果 笔记本电脑",
+        "OLED 笔记本"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "タッチパネル ノートPC"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "画面タッチ対応の新型ノートパソコン登場",
+          "summary_ja": "画面のタッチ操作に対応した新しいノートパソコンが正式に発表されました。高性能な新世代ディスプレイを搭載し、製品方針の大きな転換点として話題を呼んでいます。",
+          "source": "京报网",
+          "url": "https://news.bjd.com.cn/2026/10/29/12010830.shtml"
+        }
+      ]
+    },
+    {
+      "keyword": "影之刃零",
+      "reason_ja": "独自開発の大型アクションゲームが世界同時発売されランキング上位を獲得しています。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "影之刃零",
+        "PS5 游戏",
+        "Steam 游戏"
+      ],
+      "product_keywords_ja": [
+        "PS5 ゲームソフト",
+        "ゲーミングPC"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "大型武侠アクションゲームが正式発売",
+          "summary_ja": "最新のゲーム制作エンジンを採用した武侠アクションゲームが世界に向けて発売されました。家庭用ゲーム機やパソコンなど多様な環境でプレイ可能となっています。",
+          "source": "3DM",
+          "url": "https://www.3dmgame.com/news/202610/3958201.html"
+        }
+      ]
+    },
+    {
+      "keyword": "大金镯",
+      "reason_ja": "金相場の高騰を背景に日常使いできる軽量な金アクセサリーへと需要が移っています。",
+      "genre": "beauty",
+      "commercial_score": 85,
+      "product_keywords": [
+        "黄金首饰",
+        "足金手镯",
+        "金饰配饰"
+      ],
+      "product_keywords_ja": [
+        "ゴールド バングル",
+        "24金 ブレスレット",
+        "純金 アクセサリー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "金相場の影響で小ぶりの金飾りに人気集中",
+          "summary_ja": "金価格の高止まりが続く中で消費者の購買傾向に変化が生じています。重厚な腕輪よりも手軽に身につけられる小型の装飾品が好まれるようになっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261029/49826577.html"
+        },
+        {
+          "title_ja": "価格動向の変化で金装飾品の購入客が増加",
+          "summary_ja": "相場の変動を受けてこれまで様子を見ていた人々の購入意欲が高まっています。装飾品だけでなく資産向けの需要も活発化し店舗の売り上げが伸びています。",
+          "source": "搜狐网",
+          "url": "https://www.sohu.com/a/1093403911_121345914"
+        }
+      ]
+    }
+  ]
+}

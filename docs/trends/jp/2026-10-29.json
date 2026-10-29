@@ -1,0 +1,121 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:12:24+09:00",
+  "trends": [
+    {
+      "keyword": "タッチスクリーンMacBook Pro",
+      "reason_ja": "画面のタッチ操作に対応した新型ノートパソコンが発表されて関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "タッチスクリーン ノートPC",
+        "Apple ノートパソコン"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "タッチパネル ノートPC"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "画面タッチ対応の新型MacBook発表",
+          "summary_ja": "画面のタッチ操作に対応した新しいノートパソコンが発表されました。有機ELディスプレイを採用し、薄型化と軽量化を実現しています。高性能チップを搭載した上位機種として展開されます。",
+          "source": "ITmedia",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/"
+        },
+        {
+          "title_ja": "タッチ対応有機EL画面の新型Pro登場",
+          "summary_ja": "タッチ操作と有機EL画面を備えた新しいノートパソコンが登場しました。従来機と比べて画面の構造が一新され、軽量化も図られています。用途に応じた画面選びが注目されています。",
+          "source": "https://www.apple-hacks.com/",
+          "url": "https://www.apple-hacks.com/entry/macbook-pro-proled-xdr-touch-japan-price"
+        }
+      ]
+    },
+    {
+      "keyword": "Amazon スマイルSALE",
+      "reason_ja": "欲しい物や冬支度をテーマにした大規模なセール開催が予告され注目されています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Amazon セール",
+        "スマイルSALE",
+        "防寒グッズ"
+      ],
+      "product_keywords_ja": [
+        "防寒グッズ",
+        "快眠グッズ"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "欲しい物と冬支度の大型セールが開催へ",
+          "summary_ja": "人気商品を特別価格で販売する大型セールが開催されます。今欲しい物や冬支度をテーマに、快眠や寒さ対策の特集が予定されています。季節の準備に向けた買い物が呼びかけられています。",
+          "source": "AV Watch",
+          "url": "https://av.watch.impress.co.jp/docs/news/2152194.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Anker Liberty Buds 2",
+      "reason_ja": "独自チップを搭載した小型軽量の完全ワイヤレスイヤホンが新発売されました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker Liberty Buds",
+        "ワイヤレスイヤホン",
+        "ノイズキャンセリング"
+      ],
+      "product_keywords_ja": [
+        "Anker ワイヤレスイヤホン",
+        "ノイズキャンセリング イヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "小型軽量な完全ワイヤレスイヤホン発売",
+          "summary_ja": "シリーズの中で最も小さく軽い完全ワイヤレスイヤホンが発売されました。強力なノイズ遮断機能を備え、複数のカラーバリエーションが用意されています。",
+          "source": "AV Watch",
+          "url": "https://av.watch.impress.co.jp/docs/news/2151785.html"
+        },
+        {
+          "title_ja": "独自チップでノイズ低減を強化した新作",
+          "summary_ja": "シリーズ最小かつ最軽量となる完全ワイヤレスイヤホンが登場しました。独自の処理チップを搭載することでノイズ低減性能を高めています。直営店やオンライン通販などで販売が始まります。",
+          "source": "PHILE WEB",
+          "url": "https://www.phileweb.com/news/d-av/202610/29/66265.html"
+        }
+      ]
+    },
+    {
+      "keyword": "大坂なおみ",
+      "reason_ja": "東京で開催中の国際大会で個性的な試合衣装を披露し話題を集めています。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "テニスウェア",
+        "テニスラケット",
+        "スポーツウェア"
+      ],
+      "product_keywords_ja": [
+        "テニスウェア レディース",
+        "テニスラケット ヨネックス"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "鮮やかな特注衣装でコートに立ち話題に",
+          "summary_ja": "女子テニスの国際大会において華やかな羽織風の衣装で登場し観客を沸かせました。前回の試合に続き個性的な装いを披露して注目を浴びています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/23a238e9f26b673b48fe990992c825544ebc5560"
+        }
+      ]
+    }
+  ]
+}

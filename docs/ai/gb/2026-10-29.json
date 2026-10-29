@@ -1,0 +1,45 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:34:38+09:00",
+  "stories": [
+    {
+      "title_ja": "英国でネジを識別し先端ビットを自動案内する電動工具が開発",
+      "summary_ja": "英国でAIを搭載した初のスマート電動ドライバーが開発された。内蔵カメラでネジを識別して52種類のビットから必要なものを光で提示し、締め付けトルクも自動で調整する。出荷は4月に開始される予定である。",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://unn.ua/en/news/the-uks-first-smart-screwdriver-with-artificial-intelligence-which-selects-the-attachments-itself-has-been-created",
+      "score": 85,
+      "commercial_score": 95,
+      "product_keywords": [
+        "スマートドライバー",
+        "電動ドライバー",
+        "精密ドライバー"
+      ]
+    },
+    {
+      "title_ja": "ユニセフが子どものAI利用に関する機会とリスクの指針発表",
+      "summary_ja": "国連児童基金（ユニセフ）が子どもと人工知能に関する機会とリスクをまとめたガイドラインを発表した。直面する課題に対処し、子どもたちの安全な利用を支援するための指針を示している。",
+      "source": "Unicef",
+      "url": "https://www.unicef.org/lac/en/crianza/seguridad-proteccion/artificial-intelligence-childhood",
+      "score": 75,
+      "commercial_score": 25,
+      "product_keywords": [
+        "知育 AI"
+      ]
+    },
+    {
+      "title_ja": "英国新興が顧客データを社内保護する軽量AIモデルを開発",
+      "summary_ja": "スコットランドの新興企業Vidai UKが、機密顧客データを保護するための軽量AIモデルを発表した。重要なデータを社内の境界内に安全に留めることで、セキュリティ上の課題解決を支援する。",
+      "source": "Daily Business",
+      "url": "https://dailybusinessgroup.co.uk/2026/10/vidai-uks-ai-model-helps-solve-data-privacy-issue/",
+      "score": 70,
+      "commercial_score": 55,
+      "product_keywords": [
+        "データセキュリティ"
+      ]
+    }
+  ]
+}

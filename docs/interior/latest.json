@@ -1,249 +1,291 @@
 {
   "genre": "interior",
   "genre_label_ja": "収納・インテリア・文具",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T16:00:59+09:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:06:41+09:00",
   "stories": [
     {
-      "title_ja": "広州交易会でAI家事ロボットなど最新のスマートホーム製品が登場",
-      "summary_ja": "第140回広州交易会の第2期が閉幕し、質の高い住環境に向けた生活用品が注目を集めた。会場では海爾（ハイアール）のAI家事ロボットなど革新的なスマートホーム製品が公開され、暮らしを快適にする新提案として海外のバイヤーから高い評価を得た。",
-      "source": "新湖南",
-      "url": "https://www.hunantoday.cn/news/xhn/202610/34102548.html",
-      "score": 85,
-      "commercial_score": 80,
+      "title_ja": "イケア、引越しが多い都市生活者に向けた新家具シリーズを発表",
+      "summary_ja": "イケア（IKEA）が住み替えの多い生活者に向けて、新しい家具シリーズ「Kompishäng」を発表した。都市で暮らす人々の移動が多いライフスタイルの変化に着目し、持ち運びや扱いやすさを考慮した設計となっている。",
+      "source": "Monocle",
+      "url": "https://monocle.com/design/furniture-design/ikea-kompishang-furniture-is-designed-for-people-who-move-house-a-lot/",
+      "score": 86,
+      "commercial_score": 85,
       "product_keywords": [
-        "ハイアール スマート家電",
-        "家事ロボット",
-        "スマートホーム"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "イケアが商業施設内5店舗目となる「IKEA豊洲」を出店",
-      "summary_ja": "イケアの新店舗「IKEA豊洲」が、アーバンドック ららぽーと豊洲内に2026年9月3日にオープンする。商業施設内の店舗としては国内5店舗目の展開となる。北欧のインテリア雑貨から食品まで幅広く取り揃える。",
-      "source": "ファッションプレス",
-      "url": "https://www.fashion-press.net/news/144922",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "イケア 北欧雑貨",
-        "IKEA インテリア"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "サンキューマートが文具キャラ「しずくちゃん」の限定雑貨を発売",
-      "summary_ja": "文具メーカー・クーリアの人気キャラクター「しずくちゃん」とサンキューマートのコラボ商品が登場した。平成レトロなデザインを取り入れた文房具や雑貨など全24種類の限定アイテムが、2026年10月28日より先行予約され11月下旬から店頭で販売される。",
-      "source": "コラボカフェ",
-      "url": "https://collabo-cafe.com/zh-hans/events/collabo/shizuku-heisei-fancy-goods-thankyoumart-2026/",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "しずくちゃん 文房具",
-        "サンキューマート 雑貨",
-        "クーリア キャラクター"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "3COINSが小さいこたつなど冬向けの新作ペット用品を発売へ",
-      "summary_ja": "スリーコインズから、冬に向けたペット用品の新作が登場する。小さいこたつや形状が変わるベッドハウスなど、犬や猫が暖かく快適に過ごせる居場所づくりに適したアイテムが揃う。2026年10月30日に発売される予定だ。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d35e002d7937736c6ad58c6c5eb3d79f061ca550",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "ペット こたつ",
-        "ペット ベッドハウス",
-        "スリーコインズ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ミラーノールと3D Cloudが家具の3D構成ツールを発表",
-      "summary_ja": "米国の大手家具メーカーであるミラーノールと3D Cloudが、家具製品向けのコンフィギュレーターを発表した。利用者がオンライン上で家具の仕様を自由にカスタマイズし、立体的に確認できる機能を提供する。",
-      "source": "Home Furnishings Business",
-      "url": "https://hfbusiness.com/hfbnow/ArticleId/29397/millerknoll-3d-cloud-announce-product-configurators",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "MillerKnoll チェア",
-        "ハーマンミラー 椅子"
+        "IKEA 家具",
+        "組み立て家具",
+        "コンパクト家具"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "セレブに愛される名作モジュールソファ「マ・ジョン」の魅力",
-      "summary_ja": "著名なアーティストやセレブに愛用されるロッシュボボアの銘作「マ・ジョン」ソファが改めて注目を集めている。自由に組み合わせられるモジュラー式のデザインで、好みに応じた空間のスタイリングを可能にする。",
-      "source": "The New Indian Express",
-      "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Oct/28/falling-into-place-styling-the-celeb-favourite-mah-jong-sofa",
-      "score": 75,
-      "commercial_score": 75,
+      "title_ja": "アマゾン、16型画面搭載などスマートホーム新製品5種を発表",
+      "summary_ja": "アマゾンがスマートホーム事業を強化し、新製品5機種を一度に発表した。16インチの大型スマートディスプレイ端末を投入するなど、家庭向けスマート機器のラインナップを拡充している。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2518478",
+      "score": 85,
+      "commercial_score": 88,
       "product_keywords": [
-        "ローソファ モジュール",
-        "ロッシュボボア",
-        "フロアソファ"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英エディンバラ発の壁面アートブランドがインテリアの悩みを解消",
-      "summary_ja": "部屋の空白の壁をどう飾るかというインテリアの悩みに着目した、英エディンバラの「アトリエ・プリントワークス」が注目を集めている。住まいのリノベーション経験から生まれたオーダーメイドのアートが多くの支持を獲得し、好調な成長を遂げている。",
-      "source": "Edinburgh News",
-      "url": "https://www.edinburghnews.scotsman.com/your-world/independent-edinburgh-wall-art-brand-reaches-ps1m-revenue-by-tackling-common-interior-design-dilemma-9312651",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ウォールアート ポスター",
-        "アートフレーム 壁掛け",
-        "インテリア ポスター"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "イケアがサラワク州に初出店、約5000種の家具や生活用品を展開",
-      "summary_ja": "マレーシアのサラワク州初となるイケア店舗が、2026年11月27日にオープンする。店頭では約5000種類の家具や生活用品を取り揃え、地域間格差のない統一価格で販売される。",
-      "source": "Saluran 122",
-      "url": "https://www.tvsarawak.my/2026/10/28/%E7%A0%82ikea%E4%B8%8B%E6%9C%8827%E6%97%A5%E5%BC%80%E5%B9%95-%E4%BA%94%E5%8D%83%E7%A7%8D%E5%95%86%E5%93%81%E4%B8%8E%E8%A5%BF%E9%A9%AC%E5%90%8C%E4%BB%B7/",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "イケア 家具",
-        "IKEA 収納"
+        "スマートディスプレイ",
+        "Amazon Echo",
+        "スマート家電"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "タンスのゲンが自由に組み合わせ可能な大容量2段収納ボックスを発売",
-      "summary_ja": "タンスのゲンから幅60センチの2段収納ボックスが登場した。半扉や対角扉、全扉の3タイプを自由に組み合わせられるユニット式で、収納物や量に応じたレイアウトが可能となっている。大きなものや日用品のまとめ収納に対応する。",
-      "source": "Mantan Web",
-      "url": "https://mantan-web.jp/prtimes/article/20261028prt00m200000293a.html",
-      "score": 70,
-      "commercial_score": 95,
-      "product_keywords": [
-        "タンスのゲン",
-        "収納ボックス 2段",
-        "ユニット収納"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "文具のハイタイドが渋谷に旗艦店を開業、コラボアイテムも展開",
-      "summary_ja": "文具ブランドのハイタイドが、東京の渋谷・原宿エリアに旗艦店「ハイタイドラボ トーキョー」を2026年8月29日にオープンする。店頭ではディガウェルと協業したノートの罫線柄シャツなどの限定アイテムも揃う。",
-      "source": "ファッションプレス",
-      "url": "https://www.fashion-press.net/news/150295",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ハイタイド 文具",
-        "HIGHTIDE 手帳"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英デザイン・ギルド・マーク賞が2027年度の作品募集を開始",
-      "summary_ja": "英国の優れた家具やインテリアを顕彰するデザイン・ギルド・マーク賞が、2027年度の応募受付を開始した。英国内のデザイナーやデザイン事務所を対象に、優れたデザイン作品の応募を呼びかけている。",
-      "source": "Big Furniture Group",
-      "url": "https://www.bigfurnituregroup.com/entries-now-open-for-the-design-guild-mark-awards-2027/",
-      "score": 70,
+      "title_ja": "英紙、ミッドセンチュリー調家具の人気低下と新たな好みの台頭を分析",
+      "summary_ja": "かつてすっきりとしたラインと機能的な美しさで人気を博したミッドセンチュリーモダンの家具に、若年層の関心が薄れつつあると英紙が伝えた。機能性重視のスタイルに代わり、素朴なカントリー調やクロム素材を取り入れた空間作りが注目を集めている。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/29/the-rise-and-fall-of-mid-century-modern-how-millennials-fell-out-of-love-with-their-favourite-look",
+      "score": 78,
       "commercial_score": 55,
       "product_keywords": [
-        "英国 デザイン 家具",
-        "北欧 デザイナーズ家具"
+        "ミッドセンチュリー 家具",
+        "ビンテージ調 家具"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "AI検索の普及で家具小売のオンライン購買競争に変化",
-      "summary_ja": "AI技術を活用した検索機能の普及が、家具小売市場のオンラインショッピング競争に大きな影響を与えている。デジタル化と新たな検索手法に対応した事業者が消費者の支持を集め、市場での存在感を高めている。",
-      "source": "Interior Daily",
-      "url": "https://www.interiordaily.com/article/9886625/ai-search-shake-up-exposes-furniture-retailers-winning-france-s-digital-shopping-race/",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "家具 通販",
-        "インテリア ショッピング"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国の家具産地・南康と木材産地が連携し無垢材家具作りを強化",
-      "summary_ja": "無垢材家具の産地として知られる江西省南康区と、香杉の産地である貴州省榕江県が産業連携を進めている。良質な木材資源と家具製造のノウハウを組み合わせ、無垢材家具のサプライチェーン強化を目指す。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-10-28/doc-iniwuefz9581711.shtml",
-      "score": 70,
-      "commercial_score": 70,
+      "title_ja": "京東、無垢材家具サミットを開催し品質認証ラベルと生活館を新設",
+      "summary_ja": "中国EC大手の京東（JD.com）がセール期に合わせて無垢材家具サミットを開催した。確かな品質を示す「好木実料」認証ラベルを導入するとともに、同名の実店舗生活館を開設して信頼性向上を図る。",
+      "source": "亿邦动力网",
+      "url": "https://www.ebrun.com/20261029/717780.shtml",
+      "score": 78,
+      "commercial_score": 85,
       "product_keywords": [
         "無垢材 家具",
-        "木製インテリア"
+        "木製家具"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ダイソーから推しグッズをおしゃれに飾れる新作フォトフレームが登場",
-      "summary_ja": "ダイソーから、推しグッズなどをセンス良くディスプレイできる新作のフォトフレームが登場した。ボードを自作する手間をかけずに、部屋の雰囲気に馴染む高見えなインテリア空間を作ることができる。",
-      "source": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/32675458/",
-      "score": 65,
-      "commercial_score": 85,
+      "title_ja": "フライングタイガー、冬の暮らしを彩る新作クリスマス雑貨を発売",
+      "summary_ja": "雑貨店のフライング タイガーから、冬のシーズンに向けた新作クリスマス雑貨が登場した。部屋を彩り季節の気分を盛り上げるデザインアイテムが多数展開されている。",
+      "source": "HugKum",
+      "url": "https://hugkum.sho.jp/820259",
+      "score": 74,
+      "commercial_score": 88,
       "product_keywords": [
-        "ダイソー フォトフレーム",
-        "推し活 ディスプレイ"
+        "フライングタイガー",
+        "クリスマス雑貨",
+        "クリスマス オーナメント"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "照明ブランドのアブナーがスペイン産アラバスターを用いた新作を展開",
-      "summary_ja": "照明ブランドのアブナーが、スペイン産のアラバスターや大理石、コンクリートを取り入れた装飾照明のデザインを展開している。創業者シャシャンク・ナヤクのもと、天然素材の質感を活かした建築的でモダンな照明器具を提案する。",
-      "source": "Architectural Digest India",
-      "url": "https://www.architecturaldigest.in/story/this-lighting-designs-brand-is-putting-spanish-alabaster-in-the-spotlight/",
-      "score": 65,
+      "title_ja": "高級家具ステラワークス、英ロンドンに常設ショールームをオープン",
+      "summary_ja": "家具ブランドのステラワークス（Stellar Works）が、ロンドンのクラーケンウェルに新たな常設ショールームを開設した。コレクションの展示や特注対応の案内を行い、欧州におけるブランドの常設拠点として展開する。",
+      "source": "officeinsight",
+      "url": "https://officeinsight.com/officenewswire/stellar-works-the-design-worlds-best-kept-secret-heads-to-london/",
+      "score": 74,
+      "commercial_score": 70,
+      "product_keywords": [
+        "ステラワークス",
+        "デザイナーズ チェア"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "2026南康家具秋季商談会が開幕、シニア需要や海外販路の開拓へ",
+      "summary_ja": "中国・江西省にて2026南康家具秋季商談会が開催された。高齢者向け健康・介護消費との連携や越境ECを通じた海外販路の拡大を図り、家具産業を価格競争から品質とブランドを重視した展開へと転換させている。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1093911608_123753",
+      "score": 74,
+      "commercial_score": 68,
+      "product_keywords": [
+        "家具 まとめ買い",
+        "シニア向け家具"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "北欧フロック、今年傘下ブランドから登場した新作チェア群を公開",
+      "summary_ja": "北欧の家具グループであるフロック（Flokk）が、今年傘下ブランドから発売された注目のシーティング製品を公開した。特徴的なタスクチェアから広々としたモジュール式システムまで、デザイン性と機能性に優れた座席を取り揃えている。",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/28/flokk-design-forward-seating-task-chairs-modular-dezeen-showroom/",
+      "score": 73,
       "commercial_score": 75,
       "product_keywords": [
-        "大理石 テーブルランプ",
-        "アラバスター 照明"
+        "オフィスチェア 北欧",
+        "タスクチェア"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "gb",
+      "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "米ShelfGenieが奥の物を取り出しやすくする収納改善を提供",
-      "summary_ja": "米国オースティンの収納ブランド「ShelfGenie」が、使いにくい戸棚を快適に整える収納ソリューションを提供している。キャビネットの奥にある物が埋もれてしまう悩みを解消し、住まいの収納スペースを機能的に変える提案を行う。",
-      "source": "KEYE",
-      "url": "https://cbsaustin.com/features/we-are-austin/cabinet-chaos-shelfgenie-of-austin-brings-a-little-magic-to-home-organization",
-      "score": 65,
+      "title_ja": "Suicaのペンギン新作グッズ全9種がECで10月30日発売へ",
+      "summary_ja": "JR東日本のキャラクター「Suicaのペンギン」の新作グッズ全9種類が登場する。公式ECサイトのグランスタモールにて、10月30日12時頃から順次販売が開始される。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19931411?news_ref=search_search",
+      "score": 72,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Suicaのペンギン",
+        "ペンギン 雑貨"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ノートのペーパーブランクス、ニューヨーク植物園コラボ文具を発売",
+      "summary_ja": "文具ブランドのペーパーブランクス（Paperblanks）が、ニューヨーク植物園と提携した新コレクションを発売した。「Golden Fritillaria」と名付けられた植物画モチーフのステーショナリーを展開する。",
+      "source": "License Global",
+      "url": "https://www.licenseglobal.com/heritage/paperblanks-and-new-york-botanical-garden-launch-golden-fritillaria-collection",
+      "score": 72,
       "commercial_score": 80,
       "product_keywords": [
-        "キャビネット 収納 スライド",
-        "キッチン 引き出し 収納"
+        "ペーパーブランクス ノート",
+        "洋書風ノート",
+        "おしゃれ 文房具"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "高級家具のエドラが光とデザインをテーマにした専門誌第6号を刊行",
-      "summary_ja": "高級家具ブランドのエドラが、自社デザイン誌「エドラ・マガジン」の第6号を刊行した。誌面では光とデザインがどのように空間を形作るかに焦点を当て、建築の魅力や造形美を深く掘り下げている。",
-      "source": "freeyork",
-      "url": "https://freeyork.org/architecture/edra-magazine-explores-architectural-wonders-throu/",
-      "score": 60,
-      "commercial_score": 60,
+      "title_ja": "中国の我楽家居、敦煌をテーマにした新作インテリア家具を発表",
+      "summary_ja": "カスタム家具大手の我楽家居（OLO Home）が、敦煌をテーマにした新製品発表会を開催した。従来の画一的な展示発表にとらわれない独創的な空間演出を行い、家具業界における高いデザイン性を打ち出している。",
+      "source": "中华网",
+      "url": "https://mtz.china.com/touzi/2026/1029/267119.html",
+      "score": 72,
+      "commercial_score": 75,
       "product_keywords": [
-        "Edra 家具",
-        "デザイナーズ インテリア"
+        "中国インテリア",
+        "オリエンタル家具"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "アンダーカバー、家具作家バレンティン・レルマンと初のコラボを発表",
+      "summary_ja": "ファッションブランドのアンダーカバー（Undercover）が、スタジオ・バレンティン・レルマンとの初のコラボレーションを発表した。デザインと家具製作の技巧を融合させた特別な作品を展開する。",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com/news/Undercover-and-studio-valentin-loellmann-release-first-ever-collaboration,1879802.html",
+      "score": 71,
+      "commercial_score": 68,
+      "product_keywords": [
+        "アンダーカバー インテリア",
+        "デザイナーズ家具"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "裾付きスカート家具が再び流行、部屋を圧迫しない取り入れ方を提案",
+      "summary_ja": "脚元を布で覆うスカート付きの家具が、再びインテリアのトレンドとして人気を集めている。プリーツやギャザーなどのデザインを活かしつつ、部屋全体が重くならないようにバランスよく配置するコツが紹介されている。",
+      "source": "House Beautiful",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74248701/skirted-furniture-trend-designer-advice/",
+      "score": 71,
+      "commercial_score": 72,
+      "product_keywords": [
+        "スカートソファ",
+        "ソファカバー おしゃれ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "タンスのゲン、組み合わせて使える大容量2段キューブボックスを発売",
+      "summary_ja": "タンスのゲンから本や日用品を収納できる2段キューブボックスが発売された。幅60cmのワイドな設計で、3種類の収納タイプを自由に組み合わせて設置できる。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19928329?news_ref=20_20",
+      "score": 70,
+      "commercial_score": 92,
+      "product_keywords": [
+        "キューブボックス",
+        "2段 カラーボックス",
+        "タンスのゲン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "英家具ブランドSwyft、手軽さとデザイン性を兼ねた家具で注目",
+      "summary_ja": "英家具ブランドのスウィフト（Swyft）が、インテリア愛好家の間で注目を集めている。洗練された美しいデザインに使い勝手の良い機能性と手軽な利便性を融合させ、現代の暮らしに合った家具を提案している。",
+      "source": "EVOKE",
+      "url": "https://evoke.ie/2026/10/28/life-style/interiors/swyft-furniture-design",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Swyft ソファ",
+        "組み立て ソファ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国・長虹、心地よい暮らしを提案する新シリーズ「熊猫懶」を発表",
+      "summary_ja": "家電・住設大手の長虹が、快適な生活体験を提案する新シリーズ「熊猫懶（パンダ・レイジー）」を発表した。心地よくくつろげる住まいづくりを目指し、生活空間に向けた新製品を展開する。",
+      "source": "中国新闻网",
+      "url": "https://www.sc.chinanews.com.cn/bwbd/2026-10-28/251359.html",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "リビング家具",
+        "リラックスチェア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "COFOの新作ワークデスクが2026年度グッドデザイン賞を受賞",
+      "summary_ja": "COFOの新作デスク「COFO Desk Studio」が2026年度グッドデザイン賞を受賞した。国内のデザイン賞において機能や意匠が高く評価されている。",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/elem/000/004/446/4446451/",
+      "score": 68,
+      "commercial_score": 78,
+      "product_keywords": [
+        "COFO デスク",
+        "パソコンデスク"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ミラーノール、傘下ブランド向けに共通の3D家具ライブラリを導入",
+      "summary_ja": "米家具大手のミラーノール（MillerKnoll）が、ノールなどの傘下ブランドを対象に共通の3Dライブラリを導入した。3D家具コンフィギュレーターの活用を推進し、顧客の家具選びを支援する。",
+      "source": "Trend Hunter",
+      "url": "https://www.trendhunter.com/trends/furniture-3d-configurators",
+      "score": 68,
+      "commercial_score": 72,
+      "product_keywords": [
+        "ミラーノール",
+        "デザイナーズチェア"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "モレスキンからスヌーピー柄のノートや手帳など新作8種が登場",
+      "summary_ja": "モレスキンからスヌーピーデザインを採用したノートや関連グッズの第2弾が登場した。ノートや手帳に加え、ミニチャームやシールなど全8種類のアイテムが揃う。",
+      "source": "ウォーカープラス",
+      "url": "https://www.walkerplus.com/article/1447490/",
+      "score": 65,
+      "commercial_score": 82,
+      "product_keywords": [
+        "モレスキン スヌーピー",
+        "モレスキン ノート",
+        "スヌーピー 手帳"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "サンブレラ、見本市でインテリア向け新生地コレクションを発表",
+      "summary_ja": "米ファブリックブランドのサンブレラ（Sunbrella）が、テキスタイル展示会のInterwovenにて新コレクションを発表した。「Velvet Allure」と題したインテリア向けの上質な生地を提案している。",
+      "source": "Home Furnishings Business",
+      "url": "http://hfbusiness.com/hfbnow/ArticleId/29399/sunbrella-presents-interiors-velvet-allure-at-interwoven",
+      "score": 64,
+      "commercial_score": 65,
+      "product_keywords": [
+        "サンブレラ 生地",
+        "インテリアファブリック"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
