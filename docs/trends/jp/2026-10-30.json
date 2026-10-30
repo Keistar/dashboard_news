@@ -1,0 +1,109 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T16:07:47+09:00",
+  "trends": [
+    {
+      "keyword": "MacBook Pro",
+      "reason_ja": "アップルが有機ELとタッチ操作に対応した新型MacBook Proを発表し大きな注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 95,
+      "product_keywords": [
+        "MacBook Pro",
+        "Apple"
+      ],
+      "product_keywords_ja": [
+        "MacBook Pro",
+        "アップル"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルがタッチ操作対応の新型MacBook発表",
+          "summary_ja": "アップルがタッチ操作に対応した新型MacBook Proを発表しました。長年導入されてこなかったタッチスクリーンを搭載したモデルとして登場します。来月上旬の発売が予定されています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6600509"
+        },
+        {
+          "title_ja": "MacBookへのタッチ画面搭載と方針転換の背景",
+          "summary_ja": "アップルが長年否定してきたMacへのタッチスクリーン搭載に踏み切りました。新型MacBook Proの登場に伴い方針を転換した理由について幹部への取材が行われています。操作性やディスプレイの進化が背景にあるとみられます。",
+          "source": "WIRED.jp",
+          "url": "https://wired.jp/article/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/"
+        }
+      ]
+    },
+    {
+      "keyword": "Xiaomi Smart Band 11",
+      "reason_ja": "シャオミが最新型スマートバンドの日本発売を発表し話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Xiaomi Smart Band 11",
+        "Xiaomi"
+      ],
+      "product_keywords_ja": [
+        "Xiaomi Smart Band 11",
+        "シャオミ スマートバンド"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "シャオミが新型スマートバンドを発表",
+          "summary_ja": "シャオミが最新スマートバンドを発表しました。直販サイトでの先行受付を経て来月上旬に発売される予定です。手頃な価格と豊富な健康管理機能が期待されています。",
+          "source": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2152054.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Anker Liberty Buds 2",
+      "reason_ja": "アンカーが独自AIチップ搭載の最軽量完全ワイヤレスイヤホンを発売し注目されています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Anker Liberty Buds 2",
+        "Anker"
+      ],
+      "product_keywords_ja": [
+        "Anker Liberty Buds 2",
+        "アンカー イヤホン"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アンカーが独自AIチップ搭載の新型イヤホン発売",
+          "summary_ja": "アンカー・ジャパンが軽量な完全ワイヤレスイヤホンの最新モデルを発売しました。独自開発のAIチップを搭載し、高度なノイズキャンセリング機能を実現しています。装着感の良さと高い遮音性を両立したモデルです。",
+          "source": "CNET Japan",
+          "url": "https://japan.cnet.com/article/35254184/"
+        }
+      ]
+    },
+    {
+      "keyword": "Disney+",
+      "reason_ja": "Disney+が広告付きプランの導入と既存プランの値上げを発表したことで関心を集めています。",
+      "genre": "other",
+      "commercial_score": 75,
+      "product_keywords": [
+        "Disney+"
+      ],
+      "product_keywords_ja": [
+        "Disney+"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Disney+が広告付きプラン新設と値上げを発表",
+          "summary_ja": "ディズニープラスが広告付きの新プランを導入し、既存プランの価格引き上げを発表しました。新プランは広告が表示される一方で高画質再生や複数機器での同時視聴に対応します。既存プランも新規加入者を対象に月額料金が改定される予定です。",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/en/view/121662/disney-plus-launches-7000-won-ad-supported-plan-raises-prices-for-existing-tiers"
+        }
+      ]
+    }
+  ]
+}

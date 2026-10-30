@@ -1,0 +1,105 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T16:07:47+09:00",
+  "trends": [
+    {
+      "keyword": "Black Friday",
+      "reason_ja": "大手ホームセンターのホームデポがブラックフライデーの早期セール企画を発表し関心を集めています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Black Friday deals",
+        "Home Depot tools"
+      ],
+      "product_keywords_ja": [
+        "ブラックフライデー",
+        "工具セット"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ホームデポがブラックフライデー早期セールを開始",
+          "summary_ja": "米ホームデポがブラックフライデーに先駆けて早期セールを開始しました。有名ブランドの工具セットなどが大幅な割引価格で提供されています。実店舗とオンラインの双方でホリデー商戦が本格化しています。",
+          "source": "BobVila.com",
+          "url": "https://www.bobvila.com/reviews/home-depot-early-black-friday-mechanics-sets-oct-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "Chipotle",
+      "reason_ja": "米カジュアルファストフード大手のチポトレが好調な既存店売上を発表し話題となっています。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Chipotle Mexican Grill",
+        "fast casual"
+      ],
+      "product_keywords_ja": [
+        "メキシカン フード",
+        "タコス"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "米チポトレが好調な売上継続で株価上昇",
+          "summary_ja": "米外食大手のチポトレが好調な売上成長の継続見通しを示しました。幅広い顧客層による利用の伸びが業績を支えていると説明されています。これを受けて同社の株価も大幅に上昇しました。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html"
+        }
+      ]
+    },
+    {
+      "keyword": "fire detection system",
+      "reason_ja": "火災の早期発見と迅速な対応を目的とした火災警報システムの普及が進み検索されています。",
+      "genre": "gadget",
+      "commercial_score": 75,
+      "product_keywords": [
+        "fire detection system",
+        "smoke detector"
+      ],
+      "product_keywords_ja": [
+        "火災報知器",
+        "煙感知器"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "火災警報機器の導入で初期対応の迅速化を推進",
+          "summary_ja": "火災の早期発見と初期対応の効率化に向けて火災警報機器の設置が推奨されています。通報時間の短縮や被害防止に寄与するソリューションとして導入が進められています。事業所や施設における安全対策の一環として注目されています。",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/en/thiet-bi-truyen-tin-bao-chay-nang-cao-hieu-qua-xu-ly-su-co-tu-som"
+        }
+      ]
+    },
+    {
+      "keyword": "diet",
+      "reason_ja": "短期間の高脂肪食が免疫記憶や皮膚の炎症を悪化させるという研究結果が注目されています。",
+      "genre": "health",
+      "commercial_score": 70,
+      "product_keywords": [
+        "diet health",
+        "healthy food"
+      ],
+      "product_keywords_ja": [
+        "健康食品",
+        "低脂質食品"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "短期間の高脂肪食が炎症を悪化させる研究結果",
+          "summary_ja": "短期間の高脂肪食でも体内の炎症反応を強めることが研究で示されました。食事内容を戻した後も組織が刺激に過敏な状態が続くことが確認されています。日頃の食生活が免疫機能に与える影響として注目されています。",
+          "source": "UA.NEWS",
+          "url": "https://ua.news/en/health/chotiri-dni-visokozhirovogo-ratsionu-posilili-zapalennia-u-mishei-news-medical"
+        }
+      ]
+    }
+  ]
+}

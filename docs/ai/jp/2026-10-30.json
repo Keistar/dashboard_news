@@ -1,0 +1,54 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:34:34+09:00",
+  "stories": [
+    {
+      "title_ja": "国産生成AIの無償版公開、ソフトバンク子会社",
+      "summary_ja": "ソフトバンク子会社のSB Intuitionsが、国産AI「Sarashina」の無料ベータ版を提供開始した。文章作成や翻訳、検索などに対応した6種類のモデルを公開し、チャットやAPIから利用できる。",
+      "source": "DXマガジン",
+      "url": "https://dxmagazine.jp/news/ytoda2646-49/",
+      "score": 85,
+      "commercial_score": 72
+    },
+    {
+      "title_ja": "JR西日本、現場映像を解析するAIシステム開発",
+      "summary_ja": "JR西日本は、映像を解析して必要な通知を行うシステム「ミトコカスー」を開発した。線路の安全確認だけでなく、食品工場の検品や飲食店、工事現場など幅広い現場への導入を目指す。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/4a3c7d3d41c38231c82460a6d44554b48e4cfb64",
+      "score": 78,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "JASRAC、AI生成楽曲の検知へ向け対策推進",
+      "summary_ja": "日本音楽著作権協会（JASRAC）が、人が制作した楽曲を保護するための取り組みを進めている。AIが自立的に作った曲を著作権管理から除外するため、生成楽曲の検知技術などの導入を図る。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/85e366919356c7205191379528eead81a9a45f97",
+      "score": 75,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "リコーとKDDI、国内拠点で機密保護AIを検証",
+      "summary_ja": "リコーとKDDIは、国内のデータセンター上でAIエージェントを動かす実証実験を開始した。大阪堺の推論環境を活用し、企業の機密情報を守りながら業務でAIを活用できる仕組みを検証する。",
+      "source": "DXマガジン",
+      "url": "https://dxmagazine.jp/news/ytoda2646-46/",
+      "score": 72,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "生成AIの美容液調査、キュレルが言及首位",
+      "summary_ja": "化粧品選びでAIに質問する利用者が増える中、主要な生成AIツールを対象に美容液の回答傾向が調査された。対象となった10ブランドのうち、キュレルが言及率や公式サイトの引用率で最も高い結果となった。",
+      "source": "週刊粧業オンライン",
+      "url": "https://www.syogyo.jp/news/2026/10/post_045073",
+      "score": 70,
+      "commercial_score": 88,
+      "product_keywords": [
+        "キュレル",
+        "美容液"
+      ]
+    }
+  ]
+}

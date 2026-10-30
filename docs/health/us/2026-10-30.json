@@ -1,0 +1,56 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:53:16+09:00",
+  "stories": [
+    {
+      "title_ja": "魚油サプリの認知症予防効果に新たな研究",
+      "summary_ja": "2年間の臨床試験により、高用量のオメガ3サプリメントには記憶力や思考力、脳構造を改善する効果が見られなかったと報告された。アルツハイマー病のリスクが高い高齢者を対象に検証された。",
+      "source": "Healthline",
+      "url": "https://www.healthline.com/health-news/fish-oil-supplements-no-benefit-alzheimers-prevention",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "オメガ3 サプリ",
+        "フィッシュオイル",
+        "DHA EPA サプリ"
+      ]
+    },
+    {
+      "title_ja": "オーラが指輪データで薬の効果を臨床研究",
+      "summary_ja": "スマートリングを手掛けるオーラ（Oura）が、カリフォルニア大学サンディエゴ校ヘルスとの共同臨床試験を開始した。スマートリングの継続的な生体データを活用し、GLP-1治療薬の効果を検証する。",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
+      "score": 76,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Oura Ring",
+        "スマートリング"
+      ]
+    },
+    {
+      "title_ja": "歩行マシンの利点や注意点を専門家が解説",
+      "summary_ja": "フィットネストレーナーがウォーキングパッドを毎日最大60分利用する利点や安全のヒントを解説した。座りっぱなしを防ぎ歩行目標を達成しやすくする機器が紹介されている。",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/select/shopping/expert-approved-walking-pads-rcna341231",
+      "score": 72,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ウォーキングパッド",
+        "ルームランナー",
+        "ウォーキングマシン"
+      ]
+    },
+    {
+      "title_ja": "健康的な食事が挫折しやすい理由を米調査",
+      "summary_ja": "大学職員232人を対象とした調査で、健康的な食事法を理解していても継続に苦労する実態が報告された。食事プランを妨げる要因について分析が行われている。",
+      "source": "MindBodyGreen",
+      "url": "https://www.mindbodygreen.com/articles/new-study-of-232-workers-exposed-why-healthy-eating-fails-how-the-study-worked-and-why-it-matters",
+      "score": 68,
+      "commercial_score": 50
+    }
+  ]
+}

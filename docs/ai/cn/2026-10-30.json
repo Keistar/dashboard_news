@@ -1,0 +1,56 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:34:34+09:00",
+  "stories": [
+    {
+      "title_ja": "華為のOS連携、AI搭載の法人向けスマホ発表",
+      "summary_ja": "深蘭科技（ディープブルー）が、華為（Huawei）の鴻蒙（HarmonyOS）と連携したAI搭載スマートフォン「Wowoker」を発表した。顧客獲得から再購入までの管理機能を備え、企業向けの専用端末として展開される。",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/article/20261029/620729.html",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "科大訊飛、国産計算基盤で動く最新AIを発表",
+      "summary_ja": "中国の科大訊飛（iFLYTEK）が、最新の大規模AIモデル「星火X2.6」を公開した。中国国内の計算インフラを基盤に性能向上を図り、産業向けの新技術や応用事例を披露した。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1094857295_430392",
+      "score": 80,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "ディープシーク、開発支援ツールの試験提供開始",
+      "summary_ja": "中国のAI企業DeepSeekが、V4モデルの公開に伴い開発者向け支援ツール「DeepSeek Harness」の先行テストを開始した。開発者が独自の大規模モデルを検証しやすくする環境を提供する。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2453889",
+      "score": 79,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "チェスAI、指し手の理由を言葉で解説可能に",
+      "summary_ja": "研究チームが40億パラメータの国際チェス向けAIモデル「QUEEN」を発表した。強力な対局能力を持ちながら、どのような戦術で駒を動かしたかを自然な言葉で説明できる。",
+      "source": "科技行者",
+      "url": "https://www.techwalker.com/2026/1030/3204175.shtml",
+      "score": 76,
+      "commercial_score": 62,
+      "product_keywords": [
+        "チェス盤"
+      ]
+    },
+    {
+      "title_ja": "医療向けAI、患者の退院後ケアを自動支援",
+      "summary_ja": "訊飛医療が、院内診療と退院後のリハビリを結ぶ患者管理システムの最新版を公開した。医療向けAIを活用して患者ごとの状態を把握し、自律的な経過観察や個別の支援を行う。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1094773091_100150",
+      "score": 74,
+      "commercial_score": 50
+    }
+  ]
+}

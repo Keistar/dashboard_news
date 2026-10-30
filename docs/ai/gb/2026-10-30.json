@@ -1,0 +1,56 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:34:34+09:00",
+  "stories": [
+    {
+      "title_ja": "グーグル、隔離クラウド向けにジェミニ機能追加",
+      "summary_ja": "グーグル（Google）が、外部ネットワークから切り離された完全閉域クラウドにAIツールを追加した。機密データを外部へ持ち出すことなく、手元の文書や音声、動画をGeminiで直接検索・分析できる。",
+      "source": "IT Brief UK",
+      "url": "https://itbrief.co.uk/story/google-adds-ai-partner-tools-to-air-gapped-cloud",
+      "score": 76,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "AIとロボットが連携、研究室の実験作業を自動化",
+      "summary_ja": "AIとロボット工学を組み合わせた自動運転型の研究拠点が開発された。実験の一貫性を保ち再現性を高めることで、新素材の開発などを効率的に進めることができる。",
+      "source": "IOM3",
+      "url": "https://www.iom3.org/resource/laboratory-combines-ai-and-robotics-to-automate-tasks.html",
+      "score": 75,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "店舗でAI万引き検知の導入拡大、懸念の声も",
+      "summary_ja": "小売店などでAIを活用した万引き検知システムの導入が広がっている。防犯対策としての期待がある一方で、監視に対する懸念や疑問の声も一部の専門家から上がっている。",
+      "source": "ABC7 Chicago",
+      "url": "https://abc7chicago.com/post/artificial-intelligence-news-ai-powered-shoplifting-detection-expands-chicago-area-stores-raise-concerns/19997709/",
+      "score": 73,
+      "commercial_score": 60,
+      "product_keywords": [
+        "防犯カメラ"
+      ]
+    },
+    {
+      "title_ja": "AI利用で電力消費急増、環境負荷の抑制が課題に",
+      "summary_ja": "AIの普及に伴いマイクロソフトやグーグルなどの電力消費量が増加している。IT業界全体の排出量が世界規模で影響を及ぼす中、持続可能な運用の確立が求められている。",
+      "source": "infoq.com",
+      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/",
+      "score": 71,
+      "commercial_score": 45
+    },
+    {
+      "title_ja": "AI占いサービスの普及に現役の占い師が反発",
+      "summary_ja": "AIが結果を作成する占いサービスの利用が広がる中、本職の占い師たちから異論が出ている。機械による鑑定には、占いの本質である共感や人間同士のつながりが欠けていると指摘している。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "タロットカード"
+      ]
+    }
+  ]
+}

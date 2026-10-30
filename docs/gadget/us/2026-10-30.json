@@ -1,0 +1,66 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:38:32+09:00",
+  "stories": [
+    {
+      "title_ja": "アップルが同社初となるタッチ操作対応のノートパソコンを発表",
+      "summary_ja": "アップルは同社初となるタッチスクリーン搭載のノートパソコンを発表した。スティーブ・ジョブズ氏らが過去に否定的な見解を示していた方針を転換した形となる。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/chicago/video/apple-launches-touch-screen-laptop/",
+      "score": 95,
+      "commercial_score": 85,
+      "product_keywords": [
+        "MacBook",
+        "Apple"
+      ]
+    },
+    {
+      "title_ja": "ゲーミングスマホ「REDMAGIC 12 Pro」が世界向け発表",
+      "summary_ja": "ゲーミングスマートフォン「REDMAGIC 12 Pro」が世界向けに発表された。185Hz駆動の画面下カメラディスプレイや液冷機構を備え、899ドルからの価格で11月18日に発売される。",
+      "source": "Gadget Pilipinas",
+      "url": "https://www.gadgetpilipinas.net/2026/10/redmagic-12-pro-launch/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "REDMAGIC",
+        "ゲーミングスマホ"
+      ]
+    },
+    {
+      "title_ja": "9000mAhバッテリー搭載の高性能スマホ「iQOO Neo 12」が登場",
+      "summary_ja": "中国市場向けに新型スマートフォン「iQOO Neo 12」が発表された。Snapdragon 8 Elite Gen 5プロセッサや9000mAhバッテリー、185Hz駆動ディスプレイを搭載している。",
+      "source": "91Mobiles",
+      "url": "https://www.91mobiles.com/hub/iqoo-neo-12-china-launch-price-specifications-availability/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "iQOO",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "モトローラが最上位スマホ「Signature 27」の発表日を告知",
+      "summary_ja": "モトローラは最新スマートフォン「Signature 27」の発表日を11月5日と正式に公表した。インド市場初となるSnapdragon 8 Elite Extreme Gen 6プロセッサの搭載が予告されている。",
+      "source": "91Mobiles",
+      "url": "https://www.91mobiles.com/hub/motorola-signature-27-confirmed-launch-india-november-5th/",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "モトローラ",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "紙のカードでアプリを動かすユニークな木製端末がドイツで登場",
+      "summary_ja": "ドイツで開発された「SOOOT Box」は、タッチ画面やリモコンの代わりにパンチカードを使ってアプリ起動や音楽再生を行う端末だ。レトロな操作感ながらバッテリーやUSB-C、Wi-Fi、モーションセンサーなどの機能も備えている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/SOOOT-Box-from-Germany-uses-apps-made-from-paper.1437547.0.html",
+      "score": 65,
+      "commercial_score": 60
+    }
+  ]
+}
