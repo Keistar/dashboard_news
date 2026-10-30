@@ -1,0 +1,59 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:38:32+09:00",
+  "stories": [
+    {
+      "title_ja": "NECのLAVIEブランドが最長30時間駆動の新型ノートを発表",
+      "summary_ja": "NECのブランドであるLAVIEが新型ノートPC「X14」を発表した。8コアのIntel Panther Lake CPUと32GBメモリを搭載し、30時間のバッテリー駆動時間を実現している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Japan-made-laptop-with-32-GB-RAM-and-8-core-CPU-arrives-with-30-hour-battery-life.1437425.0.html",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "LAVIE",
+        "NEC",
+        "ノートパソコン"
+      ]
+    },
+    {
+      "title_ja": "モトローラが大容量電池搭載の「Moto G47 Power」を英国で発売",
+      "summary_ja": "モトローラは英国市場でスマートフォン「Moto G47 Power」を発売した。7000mAhバッテリーや1億800万画素カメラ、Dimensity 6300を搭載し、価格は299.99ポンドとなっている。",
+      "source": "The Tech Outlook",
+      "url": "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-moto-g47-power-launched-in-the-uk-with-dimensity-6300-chipset-108mp-main-camera-and-7000mah-battery-at-299-99/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "モトローラ",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "サンロボットがRTX 5060搭載のゲーミングノートを発表",
+      "summary_ja": "サンロボット（Thunderobot）はゲーミングノートPC「Radiant 16」を2,199ドルで発表した。Core i9プロセッサとRTX 5060、64GBのメモリや4TBのSSD、300Hz駆動のディスプレイを備えている。",
+      "source": "MIXED News",
+      "url": "https://mixed-news.com/en/thunderobot-radiant-16-rtx-5060-64gb-4tb-2199-amazon/",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Thunderobot",
+        "ゲーミングノートPC"
+      ]
+    },
+    {
+      "title_ja": "HPがSnapdragon搭載の14型ノートPCの展開国を拡大",
+      "summary_ja": "HPはQualcommのSnapdragon X2プラットフォームを採用した14型ノートPC「EliteBook 6 G2q」の展開国を拡大した。最大64GBのメモリや有機ELディスプレイを搭載できるモデルとなっている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-in-more-countries-with-64-GB-RAM-and-OLED-display.1437348.0.html",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "HP",
+        "ノートパソコン"
+      ]
+    }
+  ]
+}

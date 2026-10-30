@@ -1,0 +1,104 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T16:07:47+09:00",
+  "trends": [
+    {
+      "keyword": "Black Friday 2026",
+      "reason_ja": "英国で旅行や航空券のブラックフライデー特別セール情報が公開され関心が高まっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Black Friday travel deals",
+        "holiday discounts"
+      ],
+      "product_keywords_ja": [
+        "ブラックフライデー セール",
+        "旅行 クーポン"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "英旅行業界がブラックフライデー割引を発表",
+          "summary_ja": "旅行会社各社がブラックフライデーに向けた割引プランを発表しました。パッケージツアーやクルーズなどを対象に大幅な割引特典が用意されています。年末年始や休暇シーズンの予約需要を取り込む動きが広がっています。",
+          "source": "Travel Weekly - Home",
+          "url": "https://travelweekly.co.uk/news/black-friday-2026-travel-companies-unveil-deals-and-incentives-for-agents"
+        }
+      ]
+    },
+    {
+      "keyword": "Moto G47 Power",
+      "reason_ja": "モトローラが大容量バッテリーを搭載した新型スマホを英国向けに発表しました。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Moto G47 Power",
+        "Motorola phone"
+      ],
+      "product_keywords_ja": [
+        "モトローラ スマホ",
+        "SIMフリー スマホ"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "モトローラが大容量電池の新型スマホを発表",
+          "summary_ja": "モトローラが大容量バッテリーを搭載した新型スマートフォンを発表しました。高画素カメラや最新プロセッサを備えた手頃なモデルとして展開されます。英国および欧州地域での販売が開始されています。",
+          "source": "91Mobiles",
+          "url": "https://www.91mobiles.com/hub/moto-g47-power-launched-europe-uk-price-specifications/"
+        }
+      ]
+    },
+    {
+      "keyword": "Reddit",
+      "reason_ja": "Redditがログイン必須化のテスト方針を発表しユーザーの間で議論を呼んでいます。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Reddit app",
+        "Reddit Premium"
+      ],
+      "product_keywords_ja": [
+        "Reddit"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "Redditがログイン必須化の試験導入を計画",
+          "summary_ja": "米掲示板サイトのレディットが全閲覧者にアカウント作成を義務付ける方針を明らかにしました。検索エンジン経由の流入変化に対応した措置と説明されています。コミュニティの利用方法に影響を与える動きとして注目されています。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html"
+        }
+      ]
+    },
+    {
+      "keyword": "Bruce Willis",
+      "reason_ja": "ブルース・ウィリス出演の代表的SF映画がネットフリックスで配信開始されるため話題です。",
+      "genre": "other",
+      "commercial_score": 70,
+      "product_keywords": [
+        "Bruce Willis movies",
+        "Netflix subscription"
+      ],
+      "product_keywords_ja": [
+        "ブルース・ウィリス DVD",
+        "動画配信"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ブルース・ウィリスの出演作にまつわる回顧記事",
+          "summary_ja": "俳優ブルース・ウィリスが出演した名作映画を振り返る記事が関心を集めています。本人が当初戸惑いを見せながらも世界的なヒットを記録した背景が語られています。配信サービスでの再注目とともに話題となっています。",
+          "source": "Far Out Magazine",
+          "url": "https://faroutmagazine.co.uk/2013-bruce-willis-movie-baffled/"
+        }
+      ]
+    }
+  ]
+}

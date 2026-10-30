@@ -1,284 +1,215 @@
 {
   "genre": "food",
   "genre_label_ja": "食品・グルメ",
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T15:48:50+09:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:49:14+09:00",
   "stories": [
     {
-      "title_ja": "米マクドナルドがクリスマス向けホリデー新メニューを発表",
-      "summary_ja": "米マクドナルドは、ハロウィンを前に早くもクリスマスシーズンに向けたホリデー新メニューを発表しました。冬のホリデー気分を先取りした季節限定商品が展開されます。",
-      "source": "FOX 8 News",
-      "url": "https://fox8.com/news/mcdonalds-unveils-new-menu-items-for-the-holiday/",
-      "score": 82,
-      "commercial_score": 75,
-      "product_keywords": [
-        "マクドナルド"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ローソンがバターやチーズを使った濃厚グルメを11月2日より順次発売",
-      "summary_ja": "コンビニエンスストアのローソンは、バターやチーズを使ったおにぎりやラーメンなどの新商品を11月2日から順次発売します。寒い季節に向けて濃厚な味わいを楽しめるラインナップを展開します。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/sankei/business/sankei-_economy_business_SJ7UDI7K7NLA5HE6ZQU2U5XKBY?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ローソン",
-        "チーズ グルメ",
-        "バター グルメ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ダンキンが2026年ホリデー展開で限定キャラや人気ドリンクを復活",
-      "summary_ja": "米国のダンキンは、2026年のホリデーシーズンに向けて独自のキャラクター「ドーナツクラッカー」を披露しました。11月4日から全国のカップやドーナツ箱に新デザインが登場するほか、クッキーバターなどの人気ドリンクも復活します。",
-      "source": "Dunkin",
-      "url": "https://news.dunkindonuts.com/news/dunkin-holiday-menu-november-2026",
-      "score": 78,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ダンキン",
-        "ドーナツ",
-        "ホリデー カップ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "中国の茶系カフェで注文客優先の座席対応、各社は店舗判断と回答",
-      "summary_ja": "スターバックスの着席ルールを巡る議論を受け、中国の茶系カフェ大手「覇王茶姫」や「奈雪の茶」の対応が注目されています。両社は本部としての統一規定ではないとしつつ、購入客を優先しつつ店舗ごとに柔軟に対応していると説明しました。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094348165_120388781",
-      "score": 78,
-      "commercial_score": 65,
-      "product_keywords": [
-        "中国茶",
-        "ティードリンク"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "銀座コージーコーナーがロッテと共同開発した紗々ミルクレープに抹茶味を追加",
-      "summary_ja": "銀座コージーコーナーは、ロッテと共同開発した紗々ミルクレープの新作として抹茶味を2026年11月1日から発売します。全国の生ケーキ取扱店で展開され、定番と合わせた2種類が並びます。",
-      "source": "Excite エキサイト",
-      "url": "http://www.excite.co.jp/news/article/Ssnp_709398/",
-      "score": 75,
-      "commercial_score": 90,
-      "product_keywords": [
-        "紗々",
-        "ミルクレープ",
-        "コージーコーナー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米セブン-イレブンがビビゴと連携した韓国料理の新メニューを導入",
-      "summary_ja": "米国のセブン-イレブンは、韓国の味わいを楽しめる「フレーバーズ・オブ・コリア」メニューを開始しました。ラインナップにはビビゴ（Bibigo）のスパイシーチキン餃子や、コチュジャンソースの骨なしチキンなどが含まれます。",
-      "source": "CSP Daily News",
-      "url": "https://www.cspdailynews.com/foodservice/7-eleven-debuts-flavors-korea-menu",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ビビゴ",
-        "マンドゥ",
-        "コチュジャン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英大手スーパーが人気セールを再開、1000店舗超で家計節約を応援",
-      "summary_ja": "英国の大手スーパーマーケットチェーンが、10品を10ポンドで購入できる人気セールを1000店舗以上で復活させました。学校の学期休み期間に合わせた家計支援の取り組みとなっています。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40831649/uk-supermarkets-bring-back-deal/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "イギリス スーパー",
-        "セール"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国茶飲料チェーンの滬上阿姨が朝食などの軽食を含む新戦略を発表",
-      "summary_ja": "中国の大手茶飲料チェーン「滬上阿姨（フーシャンアイー）」は、全時間帯・全品類をカバーする「全時茶珈食」戦略を発表しました。朝の需要に応えるコーヒーとベーカリーの組み合わせなど、ドリンクに軽食を加えて店舗の利用機会を広げます。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094365621_121426544",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "中国茶",
-        "ベーカリー"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "英大手スーパーがハニカムとキャラメル入りの新作板チョコを発売",
-      "summary_ja": "英国の大手スーパーが、厚切りのハニカムと塩キャラメルを合わせたミルクチョコレートバーを3ポンドで発売しました。人気ブランドに対抗する贅沢な味わいの板チョコとして投入されています。",
-      "source": "Metro.co.uk",
-      "url": "https://metro.co.uk/2026/10/28/major-supermarket-unveils-drool-worthy-chocolate-bar-rival-tonys-chocolonely-29744976/",
-      "score": 74,
-      "commercial_score": 90,
-      "product_keywords": [
-        "塩キャラメル チョコレート",
-        "ハニカム チョコ",
-        "板チョコレート"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "英グレッグスの名物ホリデー向けパイがスーパーの店頭に復活",
-      "summary_ja": "英国の人気ベーカリーチェーン「グレッグス」でホリデーの定番となっているベイク商品が、英スーパーの店頭に再登場しました。街中のベーカリー店舗で買うよりも割安な価格設定で販売され、買い物客から歓迎されています。",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/money/40836958/greggs-bake-returns-supermarkets-cheaper/",
-      "score": 73,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ミートパイ",
-        "冷凍パイ",
-        "イギリス パン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "米コーヒーチェーンが完売人気のティラミスドリンクをホリデーで再販",
-      "summary_ja": "コーヒービーン＆ティーリーフ（The Coffee Bean & Tea Leaf）は、2026年のホリデーメニューを発表しました。過去に完売した人気のティラミスドリンクを復活させるほか、ポール・フランクとのコラボレーションなども展開します。",
-      "source": "Food & Beverage Magazine",
-      "url": "https://www.fb101.com/coffee-bean-tea-leaf-tiramisu-holiday-menu-2026-302922654",
-      "score": 72,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ティラミス",
-        "コーヒービーン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ほっともっとが春巻シェア盛プレートを発売、人気おかず4種を詰め合わせ",
-      "summary_ja": "持ち帰り弁当チェーンのほっともっとは、人気のおかず4種類を盛り合わせた春巻シェア盛プレートを11月1日に発売します。価格は950円で、あわせてチキン竜田シェア盛プレートのリニューアルも行われます。",
+      "title_ja": "ファミマ、味仙監修の台湾ラーメンなど新商品5品を地域限定発売",
+      "summary_ja": "ファミリーマートは台湾料理「味仙本店」が監修した新商品全5品を、11月3日から中部・東海・甲信地方の約3250店で順次発売する。元祖台湾ラーメンの味を再現したラーメンや春雨スープなどを展開する。",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/3378841a2892963769468fd1e0cf63e5bc3cc315",
-      "score": 70,
+      "url": "https://news.yahoo.co.jp/articles/0d91a3a918cfa586abb7ff804ce0b609107b7c22",
+      "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "ほっともっと",
-        "春巻",
-        "チキン竜田"
+        "台湾ラーメン",
+        "味仙"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ジョリビーが甘辛いハニーガーリックチキンとサンドを北米で発売",
-      "summary_ja": "ファストフードチェーンのジョリビーは、チキンメニューの新たなラインナップとしてハニーガーリック味のフライドチキンとチキンサンドを発表しました。甘辛い味わいが特徴で、米国とカナダの対象店舗にて期間限定で販売されます。",
-      "source": "QSR Web",
-      "url": "https://www.qsrweb.com/news/jollibee-adds-honey-garlic-fried-chicken-sandwich-to-menus/",
+      "title_ja": "ローソン、全国でバターやチーズのグルメフェア開催へ",
+      "summary_ja": "ローソンは11月2日より2週間にわたり、「香るバター!とろーりチーズ!グルメフェア」を全国の店舗で開催する。気温の低下に伴う濃厚な味わいへの需要に応え、全15品の新商品を展開する。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/3d93784ea24d75fbd008f361b6f6fc845ac33724",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ローソン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ロイヤルホスト、ステーキ肉を豪州産に変更し一部メニューを値下げ",
+      "summary_ja": "ファミリーレストラン「ロイヤルホスト」は、ステーキ肉を米国産から豪州南部産に順次切り替えて新価格で提供する。225グラムのステーキを従来の4323円から3773円に値下げするなど改定を行う。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_709417/",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ステーキ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米チキン大手チックフィレイ、英国初のドライブスルー店舗を出店へ",
+      "summary_ja": "米チキンチェーン大手のチックフィレイが、英国初となるドライブスルー併設店舗をオープンする。1億ドルの投資を背景に進める英国内での事業拡大の一環となる。",
+      "source": "NBC26",
+      "url": "https://www.nbc26.com/life/food-and-drink/chick-fil-a-takes-its-drive-thru-experience-across-the-pond",
+      "score": 75,
+      "commercial_score": 70,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ロンドンの老舗パブでタイ料理の提供が定着した歴史に迫る",
+      "summary_ja": "ロンドンの路地裏にあるパブでは、ビールとともに本格的なタイ料理を提供する文化が定着している。意外な組み合わせに見えるビールとパッタイの融合には、驚くべき歴史的背景が存在する。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/travel/article/20261028-why-are-so-many-thai-restaurants-hidden-inside-london-pubs",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "パッタイ",
+        "タイ料理"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の人気茶系飲料「茶顔悦色」、広州に新会社を設立",
+      "summary_ja": "人気ティードリンクブランド「茶顔悦色」の関連会社が、広州に新会社を設立したことが判明した。資本金は200万元で、飲食管理や食品販売、ネット通販などを手がけ、事業基盤を強化する。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1094743359_120000222",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "中国茶",
+        "ミルクティー"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "チロルチョコ、丸粒の「まるまるきなこもち」をコンビニ先行発売",
+      "summary_ja": "チロルチョコは手につきにくい丸粒タイプの「まるまるきなこもち」を、11月9日から全国のコンビニで順次発売する。2028年のブランド発売25周年に向け、きなこもち関連の品揃え拡充を進める。",
+      "source": "Excite エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Ssnp_709532/",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "チロルチョコ",
+        "きなこもち"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米ユナイテッド航空、ビジネスクラス機内食に新作30品を導入へ",
+      "summary_ja": "米ユナイテッド航空は11月1日より、ビジネスクラス「ポラリス」にてシェフ監修の機内食30品を新たに導入する。利用客の満足度スコアが約20ポイント上昇した成果を受けたメニュー刷新となる。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/united-chefs-table-new-polaris-menu-november-1-302923625",
+      "score": 70,
+      "commercial_score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "米レストランBJ's、ヌテラと共同開発した限定スイーツを発売",
+      "summary_ja": "米外食チェーンのBJ'sは、ヌテラ（Nutella）とコラボした新作デザートを期間限定で全米発売する。ファンの投票で選ばれた商品で、同社初となるバナナブレッドクッキー生地を採用している。",
+      "source": "Food & Beverage Magazine",
+      "url": "https://www.fb101.com/bjs-nutella-gone-bananas-pizookie-launch-302924088",
       "score": 70,
       "commercial_score": 75,
       "product_keywords": [
-        "フライドチキン",
-        "ジョリビー"
+        "ヌテラ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ロンドンに新たなフードホールが11月開業、14店舗が出店へ",
-      "summary_ja": "ロンドンのエレファント＆キャッスルに、新たなフードホール「エレファント・エクスチェンジ」が2026年11月12日にオープンします。世界各国の屋台料理を提供する独立系飲食店14店が集まり、セルフ式のワインやカフェバーも備えます。",
-      "source": "Hospitality & Catering News",
-      "url": "https://www.hospitalityandcateringnews.com/2026/10/elephant-exchange-food-hall-reveals-14-food-partners-ahead-of-november-opening/",
+      "title_ja": "英大手スーパー、人気酒「ベイリーズ」を最安値で販売",
+      "summary_ja": "英国の大手スーパー「モリソンズ」が、クリスマス向けに人気リキュール「ベイリーズ」を国内最安値となる9.97ポンドで販売している。情報サイトのMSEが明らかにしたもので、11月1日までの期間限定となる。",
+      "source": "Metro.co.uk",
+      "url": "https://metro.co.uk/2026/10/29/martin-lewis-mse-reveals-uk-supermarket-cheapest-baileys-christmas-2026-29745771/",
       "score": 70,
-      "commercial_score": 65,
+      "commercial_score": 80,
       "product_keywords": [
-        "ストリートフード",
-        "フードホール",
-        "輸入ワイン"
+        "ベイリーズ",
+        "リキュール"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国蘭州で地元の伝統食材を使った新感覚の茶系ドリンクが人気",
-      "summary_ja": "中国甘粛省の蘭州では、杏皮茶など地元の伝統的な食材を取り入れた個性的な茶系ドリンクが注目を集めています。伝統的な食文化と現代のティードリンクを融合させ、観光客や若者を中心に人気を博しています。",
-      "source": "finance.sina.com.cn",
-      "url": "https://finance.sina.cn/2026-10-28/detail-iniwttrx3857277.d.html?vt=4&wm=1029?q",
+      "title_ja": "中国の老舗食品ブランド泰奇、食養生の新製品群を全国展開へ",
+      "summary_ja": "34年の歴史を持つ泰奇食品はブランド戦略を刷新し、原缶鮮煮込み製法を生かした日常向け食養生の新領域へ参入した。新たな2つの商品シリーズを中国全土で発売し、健康的な食生活を提案する。",
+      "source": "资鲸",
+      "url": "http://www.capwhale.com/newsfile/details/20261030/d763e4c2ef1f412a9219722c768ed361.shtml",
       "score": 70,
-      "commercial_score": 70,
+      "commercial_score": 75,
       "product_keywords": [
-        "中国茶",
-        "ハーブティー",
-        "ドライフルーツ"
+        "薬膳スープ",
+        "食養生"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ほっかほっか亭がダブルにんにく仕立ての牛プルコギ弁当を発売",
-      "summary_ja": "持ち帰り弁当チェーンのほっかほっか亭は、新商品「牛プルコギ弁当」を11月1日から税込み890円で発売します。牛肉や玉ねぎ、にんにくの芽を甘辛い特製だれで香ばしく炒め、おろしにんにくを合わせたスタミナ感のある仕立てです。",
+      "title_ja": "中国の元祖食品、輸入博覧会で世界原料を生かした新作菓子を発表へ",
+      "summary_ja": "中国の菓子メーカーである元祖食品が、第9回中国国際輸入博覧会に初出展する。世界の食材と東洋の製菓技術を融合させた新作スイーツを披露し、グローバルな視点をアピールする。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1094509811_121200023",
+      "score": 70,
+      "commercial_score": 75,
+      "product_keywords": [
+        "中華菓子"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "中国の千禾味業、無添加調味料の新製品ラインナップを発表",
+      "summary_ja": "調味料メーカーの千禾味業は10月28日、四川省眉山市で新商品発表会を開催した。「原材料クリーン」を掲げた製品戦略に基づき、添加物に配慮した新たな調味料群を投入して市場開拓を図る。",
+      "source": "证券之星",
+      "url": "http://stock.stockstar.com/IG2026102900032972.shtml",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "無添加醤油",
+        "中国調味料"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "秋田のはちみつ専門店、9種の味が楽しめるクッキー缶を新発売",
+      "summary_ja": "秋田県田沢湖のはちみつ専門店「山のはちみつ屋」が、新商品「はちみつクッキー缶」を11月2日に発売する。はちみつのおいしさを身近に楽しんでもらうため、はちみつを生かした9つの味わいを詰め合わせている。",
       "source": "Excite エキサイト",
-      "url": "https://www.excite.co.jp/news/article/Ssnp_709408/",
-      "score": 68,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ほっかほっか亭",
-        "プルコギ弁当",
-        "牛プルコギ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米ハラルフードチェーンがウェールズ初進出、カーディフに出店",
-      "summary_ja": "ニューヨーク発祥の人気アメリカンファストフードチェーン「シャーズ・ハラルフード」が、ウェールズのカーディフ中心部に初出店します。手軽に楽しめるハラルフードの提供店舗として注目されています。",
-      "source": "Wales 247",
-      "url": "https://www.wales247.co.uk/popular-new-york-fast-food-chain-to-open-first-welsh-restaurant-in-cardiff",
-      "score": 68,
-      "commercial_score": 70,
-      "product_keywords": [
-        "ハラルフード",
-        "ハラル"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "神戸風月堂がクリスマス限定のゴーフルを11月1日より発売",
-      "summary_ja": "神戸風月堂は、クリスマスに向けた限定商品「ボネ・ショー・アン・レーヌ」を11月1日に発売します。季節限定の特別なゴーフルとして店頭に登場します。",
-      "source": "いいものタウン",
-      "url": "https://iimono.town/topic/gourmet/188181/",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "神戸風月堂",
-        "ゴーフル",
-        "クリスマス お菓子"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "フィリップスがコーヒーメーカー発売70周年を記念し上海で催事",
-      "summary_ja": "フィリップスは、コーヒーメーカーの誕生70周年を記念した期間限定のポップアップストアを上海市で開催しました。ブランドの歴史を振り返りながらコーヒー体験を提供する場となりました。",
-      "source": "中国日报网",
-      "url": "https://cn.chinadaily.com.cn/a/202610/28/WS6ae1df4de4b09a165c792304.html",
+      "url": "http://www.excite.co.jp/news/article/Atpress_644555/",
       "score": 65,
       "commercial_score": 80,
       "product_keywords": [
-        "フィリップス コーヒーメーカー",
-        "全自動コーヒーマシン"
+        "はちみつ",
+        "クッキー缶"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米外食ディグ・イン、秋の旬野菜を生かした新メニューを展開",
+      "summary_ja": "米国のファストカジュアルチェーン「ディグ・イン」が、秋の農産物を生かした新メニューを発表した。持続可能性を考慮しつつ独自の技法や世界各地の風味を取り入れ、意外性のある味わいを提案する。",
+      "source": "Restaurant Business",
+      "url": "https://www.restaurantbusinessonline.com/food/dig-inn-spotlights-fall-produce-unexpected-flavor-twists",
+      "score": 65,
+      "commercial_score": 60,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英国内でパスタの調理法を巡る議論がSNS上で白熱",
+      "summary_ja": "英国の家庭やソーシャルメディア上で、パスタの食べ方や調理法を巡る議論が巻き起こっている。伝統的な製法を守る層と新しい調理法を取り入れる層の間で意見が大きく分かれている。",
+      "source": "Supermarket News",
+      "url": "https://supermarketnews.co.nz/global/the-great-pasta-debate-dividing-dinner-tables-across-the-uk/",
+      "score": 65,
+      "commercial_score": 65,
+      "product_keywords": [
+        "パスタ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

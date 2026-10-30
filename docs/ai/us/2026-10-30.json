@@ -1,0 +1,46 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:34:34+09:00",
+  "stories": [
+    {
+      "title_ja": "オープンAI、最上位プランの利用上限を倍増",
+      "summary_ja": "米オープンAI（OpenAI）が、有料サービス「ChatGPT Pro」の利用回数の上限を2倍に引き上げた。当初計画していた利用枠の半減案に対して利用者から強い反発が起きたため、方針を見直した。",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "score": 85,
+      "commercial_score": 75
+    },
+    {
+      "title_ja": "運動記録アプリにジェミニ連携、助言を提供",
+      "summary_ja": "フィットネス管理アプリのストラバ（Strava）が、グーグル（Google）のAI「Gemini」と連携した新機能を導入した。利用者の運動履歴をもとに、一人ひとりに合わせた分析やアドバイスを有料会員に届ける。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+      "score": 80,
+      "commercial_score": 82,
+      "product_keywords": [
+        "スマートウォッチ",
+        "ランニングシューズ"
+      ]
+    },
+    {
+      "title_ja": "クロード、業務外利用を管理者に伝える新機能",
+      "summary_ja": "米アンソロピック（Anthropic）が、AI「Claude」の新しいレポート機能を発表した。雇用主が従業員の利用状況を細かく確認でき、業務と無関係な使い方をしていないかを把握できる。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
+      "score": 78,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "AI開発ツールに欠陥、主要各社で未修正",
+      "summary_ja": "研究チームが5つのAI開発者向けツールに不具合を発見したと報告した。内蔵ブラウザの処理に問題があり、オープンAIやマイクロソフトなどの製品で修正が完了していない状態にある。",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+      "score": 72,
+      "commercial_score": 40
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "genre": "health",
+  "genre_label_ja": "健康・フィットネス",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:53:16+09:00",
+  "stories": [
+    {
+      "title_ja": "電子タバコ禁煙を支援する無料アプリ公開",
+      "summary_ja": "ウェールズ公衆衛生局が電子タバコをやめたい人向けに無料のアプリ機能を公開した。科学的根拠に基づき、吸いたい欲求の管理や計画的な禁煙をサポートする。",
+      "source": "Wired Gov",
+      "url": "https://www.wired-gov.net/wg/news.nsf/articles/Free+NHS+app+support+to+quit+vaping+launched+as+new+sales+restrictions+enforced+29102026141500?open",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "禁煙 パッチ",
+        "電子タバコ"
+      ]
+    },
+    {
+      "title_ja": "肥満治療薬などの処方に大きな地域差と報告",
+      "summary_ja": "オゼンピックやマンジャロなどのGLP-1薬に関する調査報告が公表された。地域の保健機関ごとに薬の処方状況に大きなばらつきがあることが指摘されている。",
+      "source": "STV News",
+      "url": "https://news.stv.tv/scotland/report-finds-substantial-variation-in-health-board-prescribing-of-glp-1-drugs",
+      "score": 72,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "精神科医が心の健康を保つ実践策を助言",
+      "summary_ja": "英国の精神科医が心の健康を保つための実践的な助言を公表した。人とのつながりや身体活動を維持することや、必要に応じて相談窓口を利用することの重要性を伝えている。",
+      "source": "Somerset County Gazette",
+      "url": "http://www.thisisthewestcountry.co.uk/news/26674571.hear-nhs-small-steps-mental-health-support/",
+      "score": 65,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "連休中の子供の体調不良に備える注意喚起",
+      "summary_ja": "ハロウィンの祝祭や学期の休暇期間を前に、保護者に向けて健康管理の注意喚起が行われた。子供が体調を崩した際に適切な医療窓口を利用するよう呼びかけている。",
+      "source": "The Argus",
+      "url": "https://www.theargus.co.uk/news/26680725.nhs-sussex-issues-half-term-health-advice-parents/",
+      "score": 60,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "不安や気分の落ち込みを支える窓口を案内",
+      "summary_ja": "不安やストレス、気分の落ち込みを抱える人向けに各種相談サービスが案内されている。地域窓口やオンラインでの相談、服薬指導など個人の状況に応じた支援が提供される。",
+      "source": "Knowsley News",
+      "url": "https://www.knowsleynews.co.uk/mental-health-support-finding-the-right-help-at-the-right-time/",
+      "score": 60,
+      "commercial_score": 30
+    }
+  ]
+}
