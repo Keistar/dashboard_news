@@ -1,215 +1,231 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:34:34+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:34:23+09:00",
   "stories": [
     {
-      "title_ja": "国産生成AIの無償版公開、ソフトバンク子会社",
-      "summary_ja": "ソフトバンク子会社のSB Intuitionsが、国産AI「Sarashina」の無料ベータ版を提供開始した。文章作成や翻訳、検索などに対応した6種類のモデルを公開し、チャットやAPIから利用できる。",
-      "source": "DXマガジン",
-      "url": "https://dxmagazine.jp/news/ytoda2646-49/",
-      "score": 85,
-      "commercial_score": 72,
+      "title_ja": "アマゾンがAI搭載のアレクサ先行提供開始",
+      "summary_ja": "アマゾンジャパンは10月29日、生成AIを搭載した新しい音声アシスタント「Alexa+」の早期アクセスを国内で開始した。一度呼びかけるだけで自然に対話を続けられ、家電操作やスケジュール管理、情報検索を円滑に行える。",
+      "source": "日本ネット経済新聞",
+      "url": "https://netkeizai.com/articles/detail/20386",
+      "score": 90,
+      "commercial_score": 95,
+      "product_keywords": [
+        "Amazon Echo",
+        "スマートスピーカー",
+        "スマートホーム"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "オープンAI、最上位プランの利用上限を倍増",
-      "summary_ja": "米オープンAI（OpenAI）が、有料サービス「ChatGPT Pro」の利用回数の上限を2倍に引き上げた。当初計画していた利用枠の半減案に対して利用者から強い反発が起きたため、方針を見直した。",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "score": 85,
-      "commercial_score": 75,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "華為のOS連携、AI搭載の法人向けスマホ発表",
-      "summary_ja": "深蘭科技（ディープブルー）が、華為（Huawei）の鴻蒙（HarmonyOS）と連携したAI搭載スマートフォン「Wowoker」を発表した。顧客獲得から再購入までの管理機能を備え、企業向けの専用端末として展開される。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261029/620729.html",
-      "score": 82,
+      "title_ja": "中国版アップル知能が12月提供へ千問連携",
+      "summary_ja": "中国向け「アップル知能（Apple Intelligence）」が12月に提供開始となる見通しで、アリババのAI「通義千問」との連携が決まった。中国国内でのAIサービス提供に必要な現地規制の適応を早めるとともに、端末とクラウドの分担によってシステム全体の利便性を向上させる。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1095387328_128075",
+      "score": 90,
       "commercial_score": 85,
       "product_keywords": [
+        "iPhone",
+        "スマートフォン",
+        "Apple"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "生成AIが買い物の相談相手から代理人へ",
+      "summary_ja": "日本の若年層を中心に、生成AIが買い物の相談相手として定着しつつある。AIが利用者の潜在ニーズを言語化し、欲しいという購買欲求を生み出すなど、単なる相談役を超えて買い物の代理人へと役割を広げている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs_bb/business/tbs_bb-3038224",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "AIアシスタント",
+        "スマート家電"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "華為と深蘭が世界初のAI業務スマホを発表",
+      "summary_ja": "深蘭科技は10月29日、華為（ファーウェイ）と共同開発した世界初の大規模言語モデルAIエージェント業務端末「Wowoker」を発表した。スマートフォンに高度なAIエージェント機能を組み込み、ビジネス現場での実用性を高める新たな試みとなる。",
+      "source": "手机新浪网",
+      "url": "https://k.sina.com.cn/article_1914880192_7222c0c002001pum2.html?from=tech",
+      "score": 85,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ファーウェイ",
         "スマートフォン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "運動記録アプリにジェミニ連携、助言を提供",
-      "summary_ja": "フィットネス管理アプリのストラバ（Strava）が、グーグル（Google）のAI「Gemini」と連携した新機能を導入した。利用者の運動履歴をもとに、一人ひとりに合わせた分析やアドバイスを有料会員に届ける。",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+      "title_ja": "米OpenAIが若者保護と暴力防止策を強化",
+      "summary_ja": "米OpenAIは、対話型AI「ChatGPT」において青少年の暴力被害を防ぐための保護対策を強化すると発表した。セーフガードの適用範囲を広げて早期介入を可能にし、公共の安全に関する定期的な報告にも取り組む。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
       "score": 80,
-      "commercial_score": 82,
+      "commercial_score": 50,
       "product_keywords": [
-        "スマートウォッチ",
-        "ランニングシューズ"
+        "見守り",
+        "セキュリティソフト"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "科大訊飛、国産計算基盤で動く最新AIを発表",
-      "summary_ja": "中国の科大訊飛（iFLYTEK）が、最新の大規模AIモデル「星火X2.6」を公開した。中国国内の計算インフラを基盤に性能向上を図り、産業向けの新技術や応用事例を披露した。",
+      "title_ja": "中国の可霊AIが動画生成4.0と資金調達発表",
+      "summary_ja": "動画生成AIを手がける中国の可霊AIが、最新モデル「Kling 4.0」を発表するとともに198億元の資金調達を完了した。国家級ファンドや産業資本などの支援を受け、モデルの進化と商業化の推進を一段と加速させる。",
       "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094857295_430392",
+      "url": "https://m.sohu.com/a/1095291243_430392",
       "score": 80,
-      "commercial_score": 60,
+      "commercial_score": 65,
+      "product_keywords": [
+        "動画編集",
+        "クリエイターPC"
+      ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ディープシーク、開発支援ツールの試験提供開始",
-      "summary_ja": "中国のAI企業DeepSeekが、V4モデルの公開に伴い開発者向け支援ツール「DeepSeek Harness」の先行テストを開始した。開発者が独自の大規模モデルを検証しやすくする環境を提供する。",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2453889",
-      "score": 79,
-      "commercial_score": 55,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "JR西日本、現場映像を解析するAIシステム開発",
-      "summary_ja": "JR西日本は、映像を解析して必要な通知を行うシステム「ミトコカスー」を開発した。線路の安全確認だけでなく、食品工場の検品や飲食店、工事現場など幅広い現場への導入を目指す。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4a3c7d3d41c38231c82460a6d44554b48e4cfb64",
-      "score": 78,
-      "commercial_score": 60,
+      "title_ja": "グーグルのAI半導体が宇宙で俳句を生成",
+      "summary_ja": "米グーグルは、試作衛星に搭載したAI半導体「TPU」で生成AIを動作させ、宇宙を題材にした俳句を生成することに成功したと発表した。宇宙での計算基盤構築を目指す研究の一環で、軌道上のデータセンター向け半導体からAIの応答を得たのは世界初とされる。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35254241/",
+      "score": 75,
+      "commercial_score": 30,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "クロード、業務外利用を管理者に伝える新機能",
-      "summary_ja": "米アンソロピック（Anthropic）が、AI「Claude」の新しいレポート機能を発表した。雇用主が従業員の利用状況を細かく確認でき、業務と無関係な使い方をしていないかを把握できる。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
-      "score": 78,
-      "commercial_score": 55,
+      "title_ja": "JASRACがAI生成楽曲の検知導入を検討",
+      "summary_ja": "日本音楽著作権協会（JASRAC）は、人間が創作した音楽を守るため、AIが自律的に生成した楽曲を管理対象から外す方針を進めている。この取り組みの一環として、生成AIによって作られた楽曲を検知する技術の導入を検討している。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600711",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "音楽配信",
+        "DTM"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "米アンソロピックがClaudeの制限を一部撤廃",
+      "summary_ja": "米アンソロピックは、認証済みのUltraユーザーを対象に対話型AI「Claude」の5時間セッション上限を撤廃した。これによりプログラミング支援などの作業を長時間続けられるようになったが、週間利用制限は継続して適用される。",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/claude-ultra-session-limit/",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "プログラミング",
+        "PCソフト"
+      ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "グーグル、隔離クラウド向けにジェミニ機能追加",
-      "summary_ja": "グーグル（Google）が、外部ネットワークから切り離された完全閉域クラウドにAIツールを追加した。機密データを外部へ持ち出すことなく、手元の文書や音声、動画をGeminiで直接検索・分析できる。",
-      "source": "IT Brief UK",
-      "url": "https://itbrief.co.uk/story/google-adds-ai-partner-tools-to-air-gapped-cloud",
-      "score": 76,
-      "commercial_score": 55,
+      "title_ja": "英政府がAI振興へ6億ポンド超の投資を発表",
+      "summary_ja": "英政府は、国内のAI能力を強化するため6億ポンドを超える大規模な投資パッケージを発表した。英財務相が打ち出したこの計画は、英国の技術革新を後押しするとともに安全保障の基盤強化を図ることを目的としている。",
+      "source": "Open Access Government",
+      "url": "https://www.openaccessgovernment.org/uk-chancellor-sets-out-600m-ai-investment-plan-to-boost-british-innovation-and-security/216011/",
+      "score": 75,
+      "commercial_score": 30,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "チェスAI、指し手の理由を言葉で解説可能に",
-      "summary_ja": "研究チームが40億パラメータの国際チェス向けAIモデル「QUEEN」を発表した。強力な対局能力を持ちながら、どのような戦術で駒を動かしたかを自然な言葉で説明できる。",
-      "source": "科技行者",
-      "url": "https://www.techwalker.com/2026/1030/3204175.shtml",
-      "score": 76,
-      "commercial_score": 62,
-      "product_keywords": [
-        "チェス盤"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "JASRAC、AI生成楽曲の検知へ向け対策推進",
-      "summary_ja": "日本音楽著作権協会（JASRAC）が、人が制作した楽曲を保護するための取り組みを進めている。AIが自立的に作った曲を著作権管理から除外するため、生成楽曲の検知技術などの導入を図る。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/85e366919356c7205191379528eead81a9a45f97",
+      "title_ja": "AI生成コードの脆弱性が38％に大幅改善",
+      "summary_ja": "最先端のAIモデルが生成するプログラムコードの安全性が、この1年間で初めて大幅な改善を示した。コードに含まれる脆弱性の発生率は、これまでの44％から38％へと低下している。",
+      "source": "SC Media",
+      "url": "https://www.scworld.com/brief/ai-generated-code-security-shows-first-significant-improvement-in-a-year",
       "score": 75,
-      "commercial_score": 45,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "AIとロボットが連携、研究室の実験作業を自動化",
-      "summary_ja": "AIとロボット工学を組み合わせた自動運転型の研究拠点が開発された。実験の一貫性を保ち再現性を高めることで、新素材の開発などを効率的に進めることができる。",
-      "source": "IOM3",
-      "url": "https://www.iom3.org/resource/laboratory-combines-ai-and-robotics-to-automate-tasks.html",
-      "score": 75,
-      "commercial_score": 50,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "医療向けAI、患者の退院後ケアを自動支援",
-      "summary_ja": "訊飛医療が、院内診療と退院後のリハビリを結ぶ患者管理システムの最新版を公開した。医療向けAIを活用して患者ごとの状態を把握し、自律的な経過観察や個別の支援を行う。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094773091_100150",
-      "score": 74,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "店舗でAI万引き検知の導入拡大、懸念の声も",
-      "summary_ja": "小売店などでAIを活用した万引き検知システムの導入が広がっている。防犯対策としての期待がある一方で、監視に対する懸念や疑問の声も一部の専門家から上がっている。",
-      "source": "ABC7 Chicago",
-      "url": "https://abc7chicago.com/post/artificial-intelligence-news-ai-powered-shoplifting-detection-expands-chicago-area-stores-raise-concerns/19997709/",
-      "score": 73,
-      "commercial_score": 60,
+      "commercial_score": 40,
       "product_keywords": [
-        "防犯カメラ"
+        "パソコン",
+        "セキュリティソフト"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "リコーとKDDI、国内拠点で機密保護AIを検証",
-      "summary_ja": "リコーとKDDIは、国内のデータセンター上でAIエージェントを動かす実証実験を開始した。大阪堺の推論環境を活用し、企業の機密情報を守りながら業務でAIを活用できる仕組みを検証する。",
-      "source": "DXマガジン",
-      "url": "https://dxmagazine.jp/news/ytoda2646-46/",
-      "score": 72,
-      "commercial_score": 55,
+      "title_ja": "特別支援学校の表現支援で生成AI活用進む",
+      "summary_ja": "宮城県内の特別支援教育の現場で、生徒の自己表現や意思疎通を補助するツールとして生成AIの導入が進んでいる。県教育委員会は生成AIを用いた絵画コンクールを開催し、学校現場での活用を後押ししている。",
+      "source": "河北新報オンライン",
+      "url": "https://kahoku.news/articles/JY6YV9RQZSKHN.html",
+      "score": 70,
+      "commercial_score": 40,
+      "product_keywords": [
+        "タブレット端末",
+        "知育教材"
+      ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "AI開発ツールに欠陥、主要各社で未修正",
-      "summary_ja": "研究チームが5つのAI開発者向けツールに不具合を発見したと報告した。内蔵ブラウザの処理に問題があり、オープンAIやマイクロソフトなどの製品で修正が完了していない状態にある。",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
-      "score": 72,
+      "title_ja": "米IT大手がAI巡回拒否の新標準を支持",
+      "summary_ja": "米グーグルや米アンソロピックなどの大手IT企業が、AIによるウェブ巡回を拒否するための新たなオプトアウト標準規格を支持することを表明した。ウェブサイト管理者がAI学習へのデータ提供を拒絶しやすくする仕組みを目指す。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+      "score": 70,
       "commercial_score": 40,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "AI利用で電力消費急増、環境負荷の抑制が課題に",
-      "summary_ja": "AIの普及に伴いマイクロソフトやグーグルなどの電力消費量が増加している。IT業界全体の排出量が世界規模で影響を及ぼす中、持続可能な運用の確立が求められている。",
-      "source": "infoq.com",
-      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/",
-      "score": 71,
-      "commercial_score": 45,
+      "title_ja": "英音楽界がAI共存に向けた生き残り策を議論",
+      "summary_ja": "英マンチェスターで開催された音楽イベントにおいて、音楽業界の指導者や政治家が集まり議論を交わした。AIが進化する時代の中で音楽文化が生き残るために必要な条件を整理し、英国が主導的な役割を果たす方策を模索している。",
+      "source": "NME",
+      "url": "https://www.nme.com/news/music/ai-music-industry-future-native-models-beyond-the-music-manchester-principles-3974661",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "オーディオ",
+        "イヤホン"
+      ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "生成AIの美容液調査、キュレルが言及首位",
-      "summary_ja": "化粧品選びでAIに質問する利用者が増える中、主要な生成AIツールを対象に美容液の回答傾向が調査された。対象となった10ブランドのうち、キュレルが言及率や公式サイトの引用率で最も高い結果となった。",
-      "source": "週刊粧業オンライン",
-      "url": "https://www.syogyo.jp/news/2026/10/post_045073",
+      "title_ja": "北京の教員がAIに生徒の指導法を教授",
+      "summary_ja": "数学の解答作成や作文の添削などAIの能力が高まる中、学校の教育現場では答えを知っていることと適切に指導できることの違いが課題となっている。北京海淀区の教員たちは、単なる問題解答にとどまらず生徒に寄り添った指導ができるAIの育成に取り組んでいる。",
+      "source": "京报网",
+      "url": "https://news.bjd.com.cn/2026/10/31/12013131.shtml",
       "score": 70,
-      "commercial_score": 88,
+      "commercial_score": 40,
       "product_keywords": [
-        "キュレル",
-        "美容液"
+        "電子辞書",
+        "学習参考書"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "AI占いサービスの普及に現役の占い師が反発",
-      "summary_ja": "AIが結果を作成する占いサービスの利用が広がる中、本職の占い師たちから異論が出ている。機械による鑑定には、占いの本質である共感や人間同士のつながりが欠けていると指摘している。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
-      "score": 70,
-      "commercial_score": 65,
+      "title_ja": "米アンソロピックがゲーム複製の中止を指示",
+      "summary_ja": "米アンソロピックが自社のAI「Claude」に対し、ビデオゲームの再制作をやめるよう指示したことが利用者からの報告で明らかになった。ユーザーの間でAIによるゲームの模倣やリメイクを制限する動きが確認されている。",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "score": 65,
+      "commercial_score": 40,
       "product_keywords": [
-        "タロットカード"
+        "ゲームソフト"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "英でAIと検査装置がエネルギー生産を支援",
+      "summary_ja": "英国のエネルギー生産現場において、配管検査ロボットとAIを活用して生産性を高める取り組みが進んでいる。運用事業者はこうした先端技術を導入し、余剰ガスの燃焼処分を最小限に抑えつつメタン排出量の削減を進めている。",
+      "source": "Energy Live News",
+      "url": "https://www.energylivenews.com/2026/10/30/intelligent-pigs-and-ai-boosts-uk-energy-production/",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "省エネ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"

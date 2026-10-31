@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:34:23+09:00",
+  "stories": [
+    {
+      "title_ja": "米OpenAIが若者保護と暴力防止策を強化",
+      "summary_ja": "米OpenAIは、対話型AI「ChatGPT」において青少年の暴力被害を防ぐための保護対策を強化すると発表した。セーフガードの適用範囲を広げて早期介入を可能にし、公共の安全に関する定期的な報告にも取り組む。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
+      "score": 80,
+      "commercial_score": 50,
+      "product_keywords": [
+        "見守り",
+        "セキュリティソフト"
+      ]
+    },
+    {
+      "title_ja": "米アンソロピックがClaudeの制限を一部撤廃",
+      "summary_ja": "米アンソロピックは、認証済みのUltraユーザーを対象に対話型AI「Claude」の5時間セッション上限を撤廃した。これによりプログラミング支援などの作業を長時間続けられるようになったが、週間利用制限は継続して適用される。",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/claude-ultra-session-limit/",
+      "score": 75,
+      "commercial_score": 60,
+      "product_keywords": [
+        "プログラミング",
+        "PCソフト"
+      ]
+    },
+    {
+      "title_ja": "米IT大手がAI巡回拒否の新標準を支持",
+      "summary_ja": "米グーグルや米アンソロピックなどの大手IT企業が、AIによるウェブ巡回を拒否するための新たなオプトアウト標準規格を支持することを表明した。ウェブサイト管理者がAI学習へのデータ提供を拒絶しやすくする仕組みを目指す。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+      "score": 70,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "米アンソロピックがゲーム複製の中止を指示",
+      "summary_ja": "米アンソロピックが自社のAI「Claude」に対し、ビデオゲームの再制作をやめるよう指示したことが利用者からの報告で明らかになった。ユーザーの間でAIによるゲームの模倣やリメイクを制限する動きが確認されている。",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "ゲームソフト"
+      ]
+    }
+  ]
+}

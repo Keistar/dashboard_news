@@ -1,71 +1,89 @@
 {
   "genre": "sale",
   "genre_label_ja": "セール・キャンペーン",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:59:12+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:59:48+09:00",
   "stories": [
     {
-      "title_ja": "成城石井がオンライン限定福袋の予約受付を11月1日から開始へ",
-      "summary_ja": "成城石井は公式通販サイトやECモール限定の福袋について、11月1日から注文受付を開始する。惣菜やデザート、ワインなど20種類以上を取り揃えたラインアップとなっている。",
-      "source": "イザ！",
-      "url": "https://www.iza.ne.jp/article/20261030-3VFD3BICTFF7VK67P7YFNWL5KE/?outputType=theme_osusume",
-      "score": 78,
+      "title_ja": "楽天トラベル、長崎県の「九州ふっこう応援割」予約を11月2日に再開",
+      "summary_ja": "楽天トラベルは、旅行支援策である「九州ふっこう応援割」の長崎県対象プランについて、11月2日10時より予約受付を再び開始する。事前にクーポンが公開されており、最大50％の割引が適用される。",
+      "source": "トラベル Watch",
+      "url": "https://travel.watch.impress.co.jp/docs/news/2152709.html",
+      "score": 85,
       "commercial_score": 90,
       "product_keywords": [
-        "成城石井 福袋"
+        "楽天トラベル",
+        "九州ふっこう応援割"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "マウスコンピューターがPC最大13万円引きのセールを開催中",
-      "summary_ja": "マウスコンピューターの公式通販サイトにて、ゲーミングPCなどが最大13万円引きになるハロウィンセールが実施されている。GeForce RTX 5060を搭載したノートPCが8万円引きになるなど対象商品が並び、セール期間は11月18日10時59分までとなっている。",
-      "source": "ファミ通",
-      "url": "https://www.famitsu.com/article/202610/92544",
-      "score": 74,
-      "commercial_score": 90,
-      "product_keywords": [
-        "マウスコンピューター ゲーミングPC"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "クロックスの裏ボアサンダルが半額の4400円で販売",
-      "summary_ja": "クロックスのボア付きサンダル「バヤ ラインド クロッグ」が、通常8800円から半額の4400円で登場している。フリースのようなライニングを備え、秋冬の寒い季節に屋内外で暖かく履ける仕様となっている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4075746/",
-      "score": 72,
-      "commercial_score": 95,
-      "product_keywords": [
-        "クロックス バヤ ラインド クロッグ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "Kindleで漫画『賢者の弟子を名乗る賢者』1〜10巻が無料に",
-      "summary_ja": "AmazonのKindleにて、『賢者の弟子を名乗る賢者 THE COMIC』の電子書籍版セールが開催されている。シリーズ最終巻の発売に合わせて、コミカライズ版の1巻から10巻までが無料で提供されている。",
-      "source": "電撃オンライン",
-      "url": "https://dengekionline.com/article/202610/92458",
-      "score": 70,
+      "title_ja": "楽天ぐるなび、忘年会でポイント還元や1万円引きクーポンの祭典開催",
+      "summary_ja": "飲食店情報サイトの楽天ぐるなびは、11月2日12時から12月31日まで「得トク祭」を開催する。忘年会の予約で人数に応じて最大400ポイントが付与されるほか、最大1万円引きのクーポンも配布される。",
+      "source": "AppBank",
+      "url": "https://www.appbank.net/2026/10/30/iphone-news/3148817.php",
+      "score": 85,
       "commercial_score": 85,
       "product_keywords": [
-        "賢者の弟子を名乗る賢者 Kindle"
+        "楽天ぐるなび",
+        "忘年会 クーポン"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "楽天ブックスでゲームソフトなどの在庫一掃セールが開催",
-      "summary_ja": "楽天ブックスにてゲームやおもちゃを対象とした在庫一掃セールが実施されている。『聖塔神記 トリニティトリガー』が65％オフになるなど、複数の注目タイトルが割引価格で販売されている。",
-      "source": "ファミ通",
-      "url": "https://www.famitsu.com/article/202610/92490",
-      "score": 68,
-      "commercial_score": 95,
+      "title_ja": "AliExpress、最大80％オフの大型セールを11月1日より開始",
+      "summary_ja": "通販サイトのAliExpressで、年間最大級の企画である「11.11セール」が11月1日からスタートする。対象商品が最大80％割引となるほか、決済サービス「ペイディ」との合同企画も同時に実施される。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000033_000159095/",
+      "score": 75,
+      "commercial_score": 90,
       "product_keywords": [
-        "ソウルハッカーズ2",
-        "トリニティトリガー"
+        "AliExpress",
+        "ペイディ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "メレルの全天候シューズがAmazonで33％引きセール中",
+      "summary_ja": "Amazonのセールにおいて、メレルの全天候型シューズ「YOKOTA 3 WATERPROOF」が33％割引で提供されている。同サイトでは毎日タイムセールが行われており、家電や日用品など幅広い商品がセール価格で販売されている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1119243",
+      "score": 65,
+      "commercial_score": 90,
+      "product_keywords": [
+        "メレル",
+        "ウォーキングシューズ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "SWALLOW、大阪に特定原付のアウトレット専門店をオープン",
+      "summary_ja": "電動モビリティを手掛けるSWALLOWは、大阪市港区の弁天町に特定原付のアウトレット専門店を開設した。店名は「SWALLOW OUTLET OSAKA」で、10月29日より営業を開始している。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19938713",
+      "score": 65,
+      "commercial_score": 75,
+      "product_keywords": [
+        "特定原付",
+        "電動モビリティ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "『天体戦士サンレッド』電子書籍が全巻各30円、Kindleでセール中",
+      "summary_ja": "AmazonのKindleで、くぼたまことによる漫画『天体戦士サンレッド』の電子書籍版が各30円となるセールが行われている。全20巻をそろえても合計600円で購入できる。",
+      "source": "電撃オンライン",
+      "url": "https://dengekionline.com/article/202610/92708",
+      "score": 60,
+      "commercial_score": 85,
+      "product_keywords": [
+        "天体戦士サンレッド",
+        "Kindle"
       ],
       "country": "jp",
       "country_label_ja": "日本"

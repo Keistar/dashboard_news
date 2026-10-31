@@ -1,0 +1,53 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:34:23+09:00",
+  "stories": [
+    {
+      "title_ja": "英政府がAI振興へ6億ポンド超の投資を発表",
+      "summary_ja": "英政府は、国内のAI能力を強化するため6億ポンドを超える大規模な投資パッケージを発表した。英財務相が打ち出したこの計画は、英国の技術革新を後押しするとともに安全保障の基盤強化を図ることを目的としている。",
+      "source": "Open Access Government",
+      "url": "https://www.openaccessgovernment.org/uk-chancellor-sets-out-600m-ai-investment-plan-to-boost-british-innovation-and-security/216011/",
+      "score": 75,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "AI生成コードの脆弱性が38％に大幅改善",
+      "summary_ja": "最先端のAIモデルが生成するプログラムコードの安全性が、この1年間で初めて大幅な改善を示した。コードに含まれる脆弱性の発生率は、これまでの44％から38％へと低下している。",
+      "source": "SC Media",
+      "url": "https://www.scworld.com/brief/ai-generated-code-security-shows-first-significant-improvement-in-a-year",
+      "score": 75,
+      "commercial_score": 40,
+      "product_keywords": [
+        "パソコン",
+        "セキュリティソフト"
+      ]
+    },
+    {
+      "title_ja": "英音楽界がAI共存に向けた生き残り策を議論",
+      "summary_ja": "英マンチェスターで開催された音楽イベントにおいて、音楽業界の指導者や政治家が集まり議論を交わした。AIが進化する時代の中で音楽文化が生き残るために必要な条件を整理し、英国が主導的な役割を果たす方策を模索している。",
+      "source": "NME",
+      "url": "https://www.nme.com/news/music/ai-music-industry-future-native-models-beyond-the-music-manchester-principles-3974661",
+      "score": 70,
+      "commercial_score": 50,
+      "product_keywords": [
+        "オーディオ",
+        "イヤホン"
+      ]
+    },
+    {
+      "title_ja": "英でAIと検査装置がエネルギー生産を支援",
+      "summary_ja": "英国のエネルギー生産現場において、配管検査ロボットとAIを活用して生産性を高める取り組みが進んでいる。運用事業者はこうした先端技術を導入し、余剰ガスの燃焼処分を最小限に抑えつつメタン排出量の削減を進めている。",
+      "source": "Energy Live News",
+      "url": "https://www.energylivenews.com/2026/10/30/intelligent-pigs-and-ai-boosts-uk-energy-production/",
+      "score": 65,
+      "commercial_score": 30,
+      "product_keywords": [
+        "省エネ"
+      ]
+    }
+  ]
+}

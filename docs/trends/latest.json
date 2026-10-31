@@ -1,35 +1,37 @@
 {
   "feed": "trends",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T16:07:47+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T16:10:52+09:00",
   "trends": [
     {
-      "keyword": "MacBook Pro",
-      "reason_ja": "アップルが有機ELとタッチ操作に対応した新型MacBook Proを発表し大きな注目を集めています。",
-      "genre": "gadget",
+      "keyword": "ブラックフライデー",
+      "reason_ja": "年末の大型商戦であるブラックフライデーに向けて大手小売各社が先行セールや特売企画を相次いで発表しています。",
+      "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
-        "MacBook Pro",
-        "Apple"
+        "ブラックフライデー セール",
+        "イオン ブラックフライデー",
+        "ドンキ セール"
       ],
       "product_keywords_ja": [
-        "MacBook Pro",
-        "アップル"
+        "ブラックフライデー",
+        "セール 家電",
+        "福袋"
       ],
-      "trend_source": "ニュース",
+      "trend_source": "ニュース（セール）",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "アップルがタッチ操作対応の新型MacBook発表",
-          "summary_ja": "アップルがタッチ操作に対応した新型MacBook Proを発表しました。長年導入されてこなかったタッチスクリーンを搭載したモデルとして登場します。来月上旬の発売が予定されています。",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/pickup/6600509"
+          "title_ja": "イオンがネット先行セールを開始",
+          "summary_ja": "大手流通が公式通販サイトでブラックフライデーのネット限定先行セールを開始します。家電や寝具などの特価販売に加えて割引クーポンも用意されています。",
+          "source": "福井新聞社",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2733351"
         },
         {
-          "title_ja": "MacBookへのタッチ画面搭載と方針転換の背景",
-          "summary_ja": "アップルが長年否定してきたMacへのタッチスクリーン搭載に踏み切りました。新型MacBook Proの登場に伴い方針を転換した理由について幹部への取材が行われています。操作性やディスプレイの進化が背景にあるとみられます。",
-          "source": "WIRED.jp",
-          "url": "https://wired.jp/article/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/"
+          "title_ja": "ドンキがブラックフライデー商品を公開",
+          "summary_ja": "ディスカウント店が先行セールの対象商品を公開しました。美容家電や生活雑貨などの特価品やお得な福袋が販売されます。",
+          "source": "トラベル Watch",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2152751.html"
         }
       ],
       "country": "jp",
@@ -37,387 +39,519 @@
     },
     {
       "keyword": "Black Friday",
-      "reason_ja": "大手ホームセンターのホームデポがブラックフライデーの早期セール企画を発表し関心を集めています。",
+      "reason_ja": "大手量販店をはじめとする各小売企業がブラックフライデーの先行セールや開催詳細を続々と公表しています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
         "Black Friday deals",
-        "Home Depot tools"
+        "Walmart Black Friday",
+        "Cyber Monday sale"
       ],
       "product_keywords_ja": [
         "ブラックフライデー",
-        "工具セット"
+        "海外通販 セール",
+        "サイバーマンデー"
       ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "ホームデポがブラックフライデー早期セールを開始",
-          "summary_ja": "米ホームデポがブラックフライデーに先駆けて早期セールを開始しました。有名ブランドの工具セットなどが大幅な割引価格で提供されています。実店舗とオンラインの双方でホリデー商戦が本格化しています。",
-          "source": "BobVila.com",
-          "url": "https://www.bobvila.com/reviews/home-depot-early-black-friday-mechanics-sets-oct-2026/"
+          "title_ja": "米量販大手がブラックフライデー詳細発表",
+          "summary_ja": "米大手量販店が年末セールの営業時間や先行アクセスの詳細を明らかにしました。注目の早期特価商品などが買い物客の関心を集めています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/walmart-black-friday-2026-everything-to-know"
+        },
+        {
+          "title_ja": "早くも始まる年末商戦の先行セール",
+          "summary_ja": "年末の大型セールに向けて各小売チェーンが早期割引の提供を開始しています。感謝祭直後の本番に先駆けてお得な購入機会が広がっています。",
+          "source": "TODAY.com",
+          "url": "https://www.today.com/shop/black-friday-sales-2026-rcna605702"
         }
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "Black Friday 2026",
-      "reason_ja": "英国で旅行や航空券のブラックフライデー特別セール情報が公開され関心が高まっています。",
+      "keyword": "black friday sales",
+      "reason_ja": "英国で年末商戦に向けたブラックフライデーの早期割引商品への関心が急上昇しています。",
       "genre": "sale",
       "commercial_score": 95,
       "product_keywords": [
-        "Black Friday travel deals",
-        "holiday discounts"
+        "Black Friday UK",
+        "early Black Friday deals",
+        "tech discounts"
       ],
       "product_keywords_ja": [
-        "ブラックフライデー セール",
-        "旅行 クーポン"
+        "ブラックフライデー",
+        "海外 セール",
+        "ガジェット 特価"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "英旅行業界がブラックフライデー割引を発表",
-          "summary_ja": "旅行会社各社がブラックフライデーに向けた割引プランを発表しました。パッケージツアーやクルーズなどを対象に大幅な割引特典が用意されています。年末年始や休暇シーズンの予約需要を取り込む動きが広がっています。",
-          "source": "Travel Weekly - Home",
-          "url": "https://travelweekly.co.uk/news/black-friday-2026-travel-companies-unveil-deals-and-incentives-for-agents"
+          "title_ja": "早期ブラックフライデーの注目商品",
+          "summary_ja": "年末の大型セールに先駆けて早くもお買い得な特価商品が登場しています。最新ガジェットなどをいち早く手に入れたい消費者の間で話題です。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/black-friday-deals-10-27-2026/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Xiaomi Smart Band 11",
-      "reason_ja": "シャオミが最新型スマートバンドの日本発売を発表し話題となっています。",
-      "genre": "gadget",
-      "commercial_score": 90,
+      "keyword": "Dyson",
+      "reason_ja": "ダイソンが人気コードレス掃除機の大幅値引きを行う先行セールを開始し注目されています。",
+      "genre": "kaji",
+      "commercial_score": 95,
       "product_keywords": [
-        "Xiaomi Smart Band 11",
-        "Xiaomi"
+        "Dyson vacuum cleaner",
+        "Dyson Black Friday",
+        "cordless stick vacuum"
       ],
       "product_keywords_ja": [
-        "Xiaomi Smart Band 11",
-        "シャオミ スマートバンド"
+        "ダイソン 掃除機",
+        "ダイソン コードレス",
+        "ダイソン セール"
       ],
       "trend_source": "ニュース",
       "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "シャオミが新型スマートバンドを発表",
-          "summary_ja": "シャオミが最新スマートバンドを発表しました。直販サイトでの先行受付を経て来月上旬に発売される予定です。手頃な価格と豊富な健康管理機能が期待されています。",
-          "source": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2152054.html"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Anker Liberty Buds 2",
-      "reason_ja": "アンカーが独自AIチップ搭載の最軽量完全ワイヤレスイヤホンを発売し注目されています。",
-      "genre": "gadget",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Anker Liberty Buds 2",
-        "Anker"
-      ],
-      "product_keywords_ja": [
-        "Anker Liberty Buds 2",
-        "アンカー イヤホン"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
+          "title_ja": "高機能掃除機のテストとおすすめ機種",
+          "summary_ja": "多数の掃除機を検証した結果から人気ブランドのモデルが紹介されています。カーペットやペットの毛に強い高性能な製品が評価されています。",
+          "source": "Good Housekeeping",
+          "url": "https://www.goodhousekeeping.com/uk/product-reviews/house-garden/g74295441/best-vacuum-cleaners/"
+        },
         {
-          "title_ja": "アンカーが独自AIチップ搭載の新型イヤホン発売",
-          "summary_ja": "アンカー・ジャパンが軽量な完全ワイヤレスイヤホンの最新モデルを発売しました。独自開発のAIチップを搭載し、高度なノイズキャンセリング機能を実現しています。装着感の良さと高い遮音性を両立したモデルです。",
-          "source": "CNET Japan",
-          "url": "https://japan.cnet.com/article/35254184/"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "Moto G47 Power",
-      "reason_ja": "モトローラが大容量バッテリーを搭載した新型スマホを英国向けに発表しました。",
-      "genre": "gadget",
-      "commercial_score": 90,
-      "product_keywords": [
-        "Moto G47 Power",
-        "Motorola phone"
-      ],
-      "product_keywords_ja": [
-        "モトローラ スマホ",
-        "SIMフリー スマホ"
-      ],
-      "trend_source": "ニュース",
-      "trend_source_type": "news",
-      "articles": [
-        {
-          "title_ja": "モトローラが大容量電池の新型スマホを発表",
-          "summary_ja": "モトローラが大容量バッテリーを搭載した新型スマートフォンを発表しました。高画素カメラや最新プロセッサを備えた手頃なモデルとして展開されます。英国および欧州地域での販売が開始されています。",
-          "source": "91Mobiles",
-          "url": "https://www.91mobiles.com/hub/moto-g47-power-launched-europe-uk-price-specifications/"
+          "title_ja": "ダイソンが先行セールで人気掃除機を割引",
+          "summary_ja": "大手家電メーカーが年末商戦に向けた先行セールをスタートさせました。人気のコードレス掃除機が大幅に値下げされ買い物客の関心を引いています。",
+          "source": "Manchester Evening News",
+          "url": "https://www.manchestereveningnews.co.uk/news/money-saving/dyson-launches-black-friday-sale-34834996"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "影之刃零",
-      "reason_ja": "中国発の新作アクションゲームが発売され海外メディアで高評価を獲得し話題となっています。",
+      "keyword": "双十一",
+      "reason_ja": "中国最大のネット通販セールが本格化しデジタル製品や家電のお得な購入攻略法が注目されています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "双十一 优惠券",
+        "双11 手机 数码",
+        "扫地机器人 优惠"
+      ],
+      "product_keywords_ja": [
+        "ダブルイレブン セール",
+        "中国 EC 割引",
+        "ロボット掃除機"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "大型セールでデジタル製品の割引が本格化",
+          "summary_ja": "大型ネットセールに向けて人気スマートフォンやタブレットの割引施策が強化されています。各プラットフォームで事前クーポンの配布が進んでいます。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixavkz4019233.shtml"
+        },
+        {
+          "title_ja": "通販各社でお得な割引クーポンを配布",
+          "summary_ja": "主要ネット通販サイトで家電やデジタル製品を対象とした大型割引が展開されています。各種割引の組み合わせ方に関心が集まっています。",
+          "source": "凤凰网",
+          "url": "https://feng.ifeng.com/c/8xdyt1ktpa7"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "スタバ新作",
+      "reason_ja": "スターバックスがホリデーシーズンの新作ビバレッジや限定グッズコレクションを発表し話題を集めています。",
+      "genre": "food",
+      "commercial_score": 90,
+      "product_keywords": [
+        "スタバ 新作",
+        "スターバックス ホリデー グッズ",
+        "アールグレイ チョコレート フラペチーノ"
+      ],
+      "product_keywords_ja": [
+        "スターバックス タンブラー",
+        "スターバックス ギフト",
+        "スタバ ホリデー"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "スタバのホリデーグッズコレクション",
+          "summary_ja": "スターバックスリザーブロースタリー東京から冬の限定グッズコレクションが登場します。上品なパールやグリッターが煌めくドリンクウェアなど華やかなアイテムが揃います。",
+          "source": "スターバックス ストーリーズ",
+          "url": "https://stories.starbucks.co.jp/press/2026/pr-2026-1028-2/"
+        },
+        {
+          "title_ja": "アールグレイの新作フラペチーノ",
+          "summary_ja": "スターバックスから新作のアールグレイチョコレートフラペチーノが登場しました。華やかな香りと濃厚なコクが楽しめる冬のご褒美ビバレッジです。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/sweetweb/trend/sweetweb-185228"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "PlayStation 5",
+      "reason_ja": "家庭用ゲーム機各社による年末セール情報や期間限定キャンペーンが話題を集めています。",
       "genre": "gadget",
       "commercial_score": 90,
       "product_keywords": [
-        "影之刃零",
-        "Steam游戏"
+        "PlayStation 5",
+        "PS5 console",
+        "gaming console deals"
       ],
       "product_keywords_ja": [
-        "影之刃零",
-        "アクションゲーム",
-        "PCゲーム"
+        "プレイステーション5",
+        "PS5 本体",
+        "ゲーム機 セール"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "国産3Aアクションゲームが主要メディアで高評価",
-          "summary_ja": "新作アクションゲームのメディアレビューが一斉に公開され高い評価を獲得しています。迫力ある戦闘アクションやボス戦の作り込みが絶賛されています。新たなアクション作品の代表作として期待が寄せられています。",
-          "source": "机核GCORES",
-          "url": "https://www.gcores.com/articles/221488"
+          "title_ja": "人気ゲーム機の年末セール情報が公開",
+          "summary_ja": "年末商戦に向けた家庭用ゲーム機の特価情報や本体セットの販売予定が話題になっています。各メーカーの価格競争が関心を引いています。",
+          "source": "https://tech-insider.org/",
+          "url": "https://tech-insider.org/black-friday-console-deals-switch-2-499-99-vs-ps5-2026/"
+        },
+        {
+          "title_ja": "家庭用ゲーム機でセール開催",
+          "summary_ja": "主要な家庭用ゲーム機プラットフォームで季節のダウンロードセールが実施されています。人気タイトルがお得な価格で購入可能となっています。",
+          "source": "Shacknews",
+          "url": "https://www.shacknews.com/article/151217/weekend-console-download-deals-for-oct-30-halloween-sales-continue"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "keyword": "谷歌大模型",
-      "reason_ja": "グーグルがGeminiの機能拡張を発表しチャット内での直接文書編集が可能になったことで話題です。",
-      "genre": "ai",
+      "keyword": "advent calendar",
+      "reason_ja": "クリスマスをカウントダウンする人気のアドベントカレンダー特集が各メディアで公開されています。",
+      "genre": "food",
+      "commercial_score": 90,
+      "product_keywords": [
+        "advent calendar",
+        "Christmas calendar UK",
+        "chocolate advent calendar"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー",
+        "クリスマス スイーツ",
+        "輸入 チョコレート"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "洗練されたアドベントカレンダー特集",
+          "summary_ja": "クリスマスに向けたスタイリッシュなアドベントカレンダーが紹介されています。職人技のチョコレートやデザイン雑貨など多彩な商品が並びます。",
+          "source": "House & Garden",
+          "url": "https://www.houseandgarden.co.uk/article/best-advent-calendars-2026"
+        },
+        {
+          "title_ja": "グルメな食品系アドベントカレンダー",
+          "summary_ja": "スイーツやお酒などを詰め合わせた食品系のアドベントカレンダーが人気を集めています。毎日のカウントダウンを美味しく彩る商品が選ばれています。",
+          "source": "AOL.com",
+          "url": "https://www.aol.co.uk/articles/food-advent-calendars-good-ll-211640000.html"
+        }
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "keyword": "ちいかわ",
+      "reason_ja": "人気キャラクターのクリスマスイベント限定グッズが公開されチケット販売も始まり注目を集めています。",
+      "genre": "other",
       "commercial_score": 85,
       "product_keywords": [
-        "Google Gemini",
-        "AI大模型"
+        "ちいかわ クリスマス",
+        "ちいかわ マスコット",
+        "ちいかわ グッズ"
       ],
       "product_keywords_ja": [
-        "Google Gemini",
-        "生成AI"
+        "ちいかわ ぬいぐるみ",
+        "ちいかわ クリスマス",
+        "ちいかわ 雑貨"
       ],
-      "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "Geminiがチャット内で文書編集可能にアップデート",
-          "summary_ja": "グーグルの対話型AIが機能強化され、チャット画面上で文書や表を直接編集できるようになりました。オフィス文書やテキスト、コードファイルのプレビューと編集に対応しています。作業効率を高める新機能として注目されています。",
-          "source": "凤凰网科技",
-          "url": "https://tech.ifeng.com/c/8xdhu88EGxw"
+          "title_ja": "ちいかわクリスマスグッズが公開",
+          "summary_ja": "人気キャラクターの体験型イベントより限定オリジナルグッズが公開されました。サンタ姿のマスコットやスノードームなど多彩な商品が登場します。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/9bb611890953db42a1ea322b0c3e667cf9c68533"
+        },
+        {
+          "title_ja": "クリスマスイベントのチケット発売",
+          "summary_ja": "限定グッズが揃うクリスマスマーケットの先着チケットが販売開始となりました。イベントの世界観を楽しめる企画として関心を集めています。",
+          "source": "推し楽",
+          "url": "https://fan.books.rakuten.co.jp/articles/yxxf84stb28s6mnkh08fec2l"
         }
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "keyword": "智能健康魔镜",
-      "reason_ja": "顔をスキャンして健康指標を測定できるAI搭載スマートミラーが展示され話題です。",
-      "genre": "health",
+      "keyword": "evercold release date",
+      "reason_ja": "人気オンラインゲームの最新拡張パッケージの発売延期と新日程がファンイベントで発表されました。",
+      "genre": "gadget",
       "commercial_score": 85,
       "product_keywords": [
-        "智能健康镜",
-        "AI健康检测"
+        "Final Fantasy XIV",
+        "FF14 expansion",
+        "gaming PC"
       ],
       "product_keywords_ja": [
-        "スマートミラー",
-        "健康チェック"
+        "ファイナルファンタジーXIV",
+        "FF14 拡張",
+        "ゲーミングPC"
       ],
-      "trend_source": "百度热搜",
+      "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "顔スキャンで健康測定できるAIスマート鏡が登場",
-          "summary_ja": "わずかな時間で顔をスキャンし健康状態を測定するスマートミラーが公開されました。バイタルサインの計測と健康リスクの評価を同時に行うことができます。医療やヘルスケア分野での新たな応用製品として注目されています。",
-          "source": "新浪网",
-          "url": "https://t.cj.sina.cn/articles/view/1784473157/m6a5ce64502003ywb6?vt=4"
+          "title_ja": "人気オンラインゲームの新作拡張が延期",
+          "summary_ja": "オンラインRPGの最新拡張パッケージについて新たな発売時期がファンイベントで発表されました。当初の予定から延期となり注目が集まっています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "古力娜扎 直播卸妆",
+      "reason_ja": "人気女優が配信でスキンケアや素顔を披露しクレンジングや美容法への関心が高まっています。",
+      "genre": "beauty",
+      "commercial_score": 85,
+      "product_keywords": [
+        "卸妆油",
+        "面膜 护肤",
+        "古力娜扎 同款"
+      ],
+      "product_keywords_ja": [
+        "クレンジングオイル",
+        "シートマスク パック",
+        "中国コスメ スキンケア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "人気女優の素顔配信が話題に",
+          "summary_ja": "人気女優がクレンジングとスキンケアを行う配信を公開し注目を集めました。メイクを落とした後も変わらない美しさに多くの感想が寄せられています。",
+          "source": "手机新浪网",
+          "url": "http://k.sina.com.cn/article_2155987804_m8081c35c03301kn78.html"
+        },
+        {
+          "title_ja": "配信でスキンケアとパックを実演",
+          "summary_ja": "女優が配信の中でスキンケアの手順やフェイスパックの使用を披露しました。素顔の美しさと合わせて丁寧な肌の手入れ方法が関心を集めています。",
+          "source": "手机新浪网",
+          "url": "https://www.sina.cn/news/detail/5360072911753325.html"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "Chipotle",
-      "reason_ja": "米カジュアルファストフード大手のチポトレが好調な既存店売上を発表し話題となっています。",
+      "keyword": "秋裤",
+      "reason_ja": "各地で急激な冷え込みが進み防寒インナーや厚手の肌着を準備する動きが広がっています。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "保暖内衣",
+        "秋裤 加绒",
+        "防寒 打底裤"
+      ],
+      "product_keywords_ja": [
+        "ヒートテック インナー",
+        "防寒 レギンス",
+        "あったかインナー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "気温低下で防寒インナーの着用が進む",
+          "summary_ja": "各地で気温が下がり防寒用のインナーを着用する市民が増えています。季節の変わり目における適切な防寒対策について関心が高まっています。",
+          "source": "手机新浪网",
+          "url": "https://k.sina.com.cn/article_5952915720_162d249080670512c4.html?from=health"
+        },
+        {
+          "title_ja": "全国で気温低下に伴う防寒対策が話題",
+          "summary_ja": "冷え込みの強まりに伴い各地で防寒インナーの準備が呼びかけられています。寒さに備えて厚手の肌着や重ね着グッズへの需要が高まっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261030/49829382.html"
+        }
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "keyword": "札幌ドーム",
+      "reason_ja": "人気アイドルグループの全国ドームツアー開幕に伴い開催地の宿泊施設や推し活需要が大きく盛り上がっています。",
+      "genre": "other",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Snow Man グッズ",
+        "推し活 グッズ",
+        "札幌 ホテル"
+      ],
+      "product_keywords_ja": [
+        "Snow Man アルバム",
+        "推し活 収納",
+        "遠征 バッグ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ドームツアー開幕で推し活需要が拡大",
+          "summary_ja": "人気グループのドームツアー開幕に合わせて全国からファンが集結しています。推しカラーで彩る宿泊プランや仮眠プランなど周辺で経済効果が広がっています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/890c59d69ae0b1119510c5e0db82fd10d2a2cfa2"
+        },
+        {
+          "title_ja": "ライブ開催に合わせて臨時便を運行",
+          "summary_ja": "ドームでのライブ開催に合わせてバスや鉄道などの臨時交通が運行されます。大規模な観客の移動を支えるための特別な運行体制が組まれています。",
+          "source": "日テレNEWS NNN",
+          "url": "https://news.ntv.co.jp/n/stv/category/society/st01d6370c2884438fbb1eb81e8585832d"
+        }
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "keyword": "星巴克 消费入座",
+      "reason_ja": "大手カフェチェーンが全国店舗で着席利用に関する新ルールを導入し大きな反響を呼んでいます。",
       "genre": "food",
       "commercial_score": 80,
       "product_keywords": [
-        "Chipotle Mexican Grill",
-        "fast casual"
+        "星巴克 咖啡",
+        "星巴克 饮品",
+        "咖啡豆"
       ],
       "product_keywords_ja": [
-        "メキシカン フード",
-        "タコス"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "米チポトレが好調な売上継続で株価上昇",
-          "summary_ja": "米外食大手のチポトレが好調な売上成長の継続見通しを示しました。幅広い顧客層による利用の伸びが業績を支えていると説明されています。これを受けて同社の株価も大幅に上昇しました。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Disney+",
-      "reason_ja": "Disney+が広告付きプランの導入と既存プランの値上げを発表したことで関心を集めています。",
-      "genre": "other",
-      "commercial_score": 75,
-      "product_keywords": [
-        "Disney+"
-      ],
-      "product_keywords_ja": [
-        "Disney+"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "Disney+が広告付きプラン新設と値上げを発表",
-          "summary_ja": "ディズニープラスが広告付きの新プランを導入し、既存プランの価格引き上げを発表しました。新プランは広告が表示される一方で高画質再生や複数機器での同時視聴に対応します。既存プランも新規加入者を対象に月額料金が改定される予定です。",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/en/view/121662/disney-plus-launches-7000-won-ad-supported-plan-raises-prices-for-existing-tiers"
-        }
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "keyword": "fire detection system",
-      "reason_ja": "火災の早期発見と迅速な対応を目的とした火災警報システムの普及が進み検索されています。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "fire detection system",
-        "smoke detector"
-      ],
-      "product_keywords_ja": [
-        "火災報知器",
-        "煙感知器"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
-        {
-          "title_ja": "火災警報機器の導入で初期対応の迅速化を推進",
-          "summary_ja": "火災の早期発見と初期対応の効率化に向けて火災警報機器の設置が推奨されています。通報時間の短縮や被害防止に寄与するソリューションとして導入が進められています。事業所や施設における安全対策の一環として注目されています。",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/en/thiet-bi-truyen-tin-bao-chay-nang-cao-hieu-qua-xu-ly-su-co-tu-som"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "电视开机广告",
-      "reason_ja": "テレビの起動時広告の禁止と操作の簡素化を義務付ける新規定が発表され関心を集めています。",
-      "genre": "gadget",
-      "commercial_score": 75,
-      "product_keywords": [
-        "智能电视",
-        "电视机"
-      ],
-      "product_keywords_ja": [
-        "スマートテレビ",
-        "液晶テレビ"
+        "スターバックス コーヒー",
+        "スタバ ギフト",
+        "カフェ グッズ"
       ],
       "trend_source": "百度热搜",
-      "trend_source_type": "search",
+      "trend_source_type": "news",
       "articles": [
         {
-          "title_ja": "テレビの起動時広告禁止と操作簡素化の新規定",
-          "summary_ja": "テレビの起動時に広告を流さず直接番組を表示させる新たな管理規定が発表されました。リモコン操作の簡素化や有料項目の見直しなども求められています。視聴者の利便性を向上させる取り組みとして広く支持されています。",
-          "source": "中华网",
-          "url": "https://news.china.com/socialgd/10000169/20261030/49828461.html"
+          "title_ja": "カフェ店舗で着席ルールの導入が話題に",
+          "summary_ja": "大手カフェチェーンが全国の店舗で注文後の利用を促す案内を設置しました。店内の利用マナーや座席の運用方法を巡って関心が集まっています。",
+          "source": "新浪军事",
+          "url": "https://mil.news.sina.com.cn/2026-10-31/doc-inixavkz4016776.shtml"
+        },
+        {
+          "title_ja": "カフェの座席利用を巡る新方針が注目",
+          "summary_ja": "カフェチェーンが店舗空間の快適性を高めるため新たな利用提案を行っています。長時間の座席利用への対応方針が注目を集めています。",
+          "source": "ThePaper.cn",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34363471"
         }
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "keyword": "diet",
-      "reason_ja": "短期間の高脂肪食が免疫記憶や皮膚の炎症を悪化させるという研究結果が注目されています。",
-      "genre": "health",
-      "commercial_score": 70,
+      "keyword": "qatar airways",
+      "reason_ja": "主要長距離路線の機材運用見直しやロンドン発着便の運航スケジュール調整が発表されました。",
+      "genre": "outdoor",
+      "commercial_score": 75,
       "product_keywords": [
-        "diet health",
-        "healthy food"
+        "Qatar Airways flights",
+        "London flight booking",
+        "travel luggage"
       ],
       "product_keywords_ja": [
-        "健康食品",
-        "低脂質食品"
+        "カタール航空 航空券",
+        "スーツケース",
+        "海外旅行 グッズ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "短期間の高脂肪食が炎症を悪化させる研究結果",
-          "summary_ja": "短期間の高脂肪食でも体内の炎症反応を強めることが研究で示されました。食事内容を戻した後も組織が刺激に過敏な状態が続くことが確認されています。日頃の食生活が免疫機能に与える影響として注目されています。",
-          "source": "UA.NEWS",
-          "url": "https://ua.news/en/health/chotiri-dni-visokozhirovogo-ratsionu-posilili-zapalennia-u-mishei-news-medical"
-        }
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "keyword": "Reddit",
-      "reason_ja": "Redditがログイン必須化のテスト方針を発表しユーザーの間で議論を呼んでいます。",
-      "genre": "other",
-      "commercial_score": 70,
-      "product_keywords": [
-        "Reddit app",
-        "Reddit Premium"
-      ],
-      "product_keywords_ja": [
-        "Reddit"
-      ],
-      "trend_source": "Google トレンド",
-      "trend_source_type": "search",
-      "articles": [
+          "title_ja": "大手航空が大型機の路線計画を変更",
+          "summary_ja": "中東の大手航空会社が長距離路線での超大型旅客機の運航計画を見直しました。今後の路線網再編や機材運用の行方に注目が集まっています。",
+          "source": "Simple Flying",
+          "url": "https://simpleflying.com/qatar-airways-cancels-all-a380-flights-on-major-long-haul-route/"
+        },
         {
-          "title_ja": "Redditがログイン必須化の試験導入を計画",
-          "summary_ja": "米掲示板サイトのレディットが全閲覧者にアカウント作成を義務付ける方針を明らかにしました。検索エンジン経由の流入変化に対応した措置と説明されています。コミュニティの利用方法に影響を与える動きとして注目されています。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html"
+          "title_ja": "ロンドン発着便のスケジュール調整を発表",
+          "summary_ja": "長距離路線の機材変更に伴いロンドン路線などの運航スケジュールが調整されます。旅行者やビジネス客の間で旅程への影響が確認されています。",
+          "source": "IndianEagle",
+          "url": "https://www.indianeagle.com/traveldiary/qatar-airways-a380-flights-2027-singapore-london/"
         }
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "keyword": "Bruce Willis",
-      "reason_ja": "ブルース・ウィリス出演の代表的SF映画がネットフリックスで配信開始されるため話題です。",
-      "genre": "other",
-      "commercial_score": 70,
+      "keyword": "when does the time change",
+      "reason_ja": "冬時間への移行に伴い夏時間の終了時刻や時計の調整に関する検索が急増しています。",
+      "genre": "health",
+      "commercial_score": 65,
       "product_keywords": [
-        "Bruce Willis movies",
-        "Netflix subscription"
+        "alarm clock",
+        "sleep aid",
+        "sunrise alarm"
       ],
       "product_keywords_ja": [
-        "ブルース・ウィリス DVD",
-        "動画配信"
+        "目覚まし時計",
+        "光目覚まし時計",
+        "快眠グッズ"
       ],
       "trend_source": "Google トレンド",
       "trend_source_type": "search",
       "articles": [
         {
-          "title_ja": "ブルース・ウィリスの出演作にまつわる回顧記事",
-          "summary_ja": "俳優ブルース・ウィリスが出演した名作映画を振り返る記事が関心を集めています。本人が当初戸惑いを見せながらも世界的なヒットを記録した背景が語られています。配信サービスでの再注目とともに話題となっています。",
-          "source": "Far Out Magazine",
-          "url": "https://faroutmagazine.co.uk/2013-bruce-willis-movie-baffled/"
+          "title_ja": "夏時間の終了と時計の切り替え",
+          "summary_ja": "米国で夏時間が終了を迎え時計の針を戻す時期となりました。多くの人々が生活リズムを整えながら冬の生活に備えています。",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/"
+        }
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "keyword": "wordle hint",
+      "reason_ja": "人気の日替わり単語パズルゲームのヒントや解答を求める検索が連日人気を集めています。",
+      "genre": "other",
+      "commercial_score": 60,
+      "product_keywords": [
+        "Wordle game",
+        "NYT puzzle",
+        "word board games"
+      ],
+      "product_keywords_ja": [
+        "ボードゲーム パズル",
+        "ワードゲーム",
+        "英単語 ゲーム"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気単語パズルのヒントと攻略情報",
+          "summary_ja": "毎日の習慣として親しまれている単語パズルゲームのヒント情報が公開されています。正解を導くための手がかりがプレイヤーに役立てられています。",
+          "source": "Insider Gaming",
+          "url": "https://insider-gaming.com/wordle-hints-answer-october-30-2026-1959/"
         }
       ],
       "country": "gb",

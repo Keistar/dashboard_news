@@ -1,0 +1,137 @@
+{
+  "feed": "trends",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T16:10:52+09:00",
+  "trends": [
+    {
+      "keyword": "双十一",
+      "reason_ja": "中国最大のネット通販セールが本格化しデジタル製品や家電のお得な購入攻略法が注目されています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "双十一 优惠券",
+        "双11 手机 数码",
+        "扫地机器人 优惠"
+      ],
+      "product_keywords_ja": [
+        "ダブルイレブン セール",
+        "中国 EC 割引",
+        "ロボット掃除機"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "大型セールでデジタル製品の割引が本格化",
+          "summary_ja": "大型ネットセールに向けて人気スマートフォンやタブレットの割引施策が強化されています。各プラットフォームで事前クーポンの配布が進んでいます。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixavkz4019233.shtml"
+        },
+        {
+          "title_ja": "通販各社でお得な割引クーポンを配布",
+          "summary_ja": "主要ネット通販サイトで家電やデジタル製品を対象とした大型割引が展開されています。各種割引の組み合わせ方に関心が集まっています。",
+          "source": "凤凰网",
+          "url": "https://feng.ifeng.com/c/8xdyt1ktpa7"
+        }
+      ]
+    },
+    {
+      "keyword": "古力娜扎 直播卸妆",
+      "reason_ja": "人気女優が配信でスキンケアや素顔を披露しクレンジングや美容法への関心が高まっています。",
+      "genre": "beauty",
+      "commercial_score": 85,
+      "product_keywords": [
+        "卸妆油",
+        "面膜 护肤",
+        "古力娜扎 同款"
+      ],
+      "product_keywords_ja": [
+        "クレンジングオイル",
+        "シートマスク パック",
+        "中国コスメ スキンケア"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "sns",
+      "articles": [
+        {
+          "title_ja": "人気女優の素顔配信が話題に",
+          "summary_ja": "人気女優がクレンジングとスキンケアを行う配信を公開し注目を集めました。メイクを落とした後も変わらない美しさに多くの感想が寄せられています。",
+          "source": "手机新浪网",
+          "url": "http://k.sina.com.cn/article_2155987804_m8081c35c03301kn78.html"
+        },
+        {
+          "title_ja": "配信でスキンケアとパックを実演",
+          "summary_ja": "女優が配信の中でスキンケアの手順やフェイスパックの使用を披露しました。素顔の美しさと合わせて丁寧な肌の手入れ方法が関心を集めています。",
+          "source": "手机新浪网",
+          "url": "https://www.sina.cn/news/detail/5360072911753325.html"
+        }
+      ]
+    },
+    {
+      "keyword": "秋裤",
+      "reason_ja": "各地で急激な冷え込みが進み防寒インナーや厚手の肌着を準備する動きが広がっています。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "保暖内衣",
+        "秋裤 加绒",
+        "防寒 打底裤"
+      ],
+      "product_keywords_ja": [
+        "ヒートテック インナー",
+        "防寒 レギンス",
+        "あったかインナー"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "気温低下で防寒インナーの着用が進む",
+          "summary_ja": "各地で気温が下がり防寒用のインナーを着用する市民が増えています。季節の変わり目における適切な防寒対策について関心が高まっています。",
+          "source": "手机新浪网",
+          "url": "https://k.sina.com.cn/article_5952915720_162d249080670512c4.html?from=health"
+        },
+        {
+          "title_ja": "全国で気温低下に伴う防寒対策が話題",
+          "summary_ja": "冷え込みの強まりに伴い各地で防寒インナーの準備が呼びかけられています。寒さに備えて厚手の肌着や重ね着グッズへの需要が高まっています。",
+          "source": "中华网",
+          "url": "https://news.china.com/socialgd/10000169/20261030/49829382.html"
+        }
+      ]
+    },
+    {
+      "keyword": "星巴克 消费入座",
+      "reason_ja": "大手カフェチェーンが全国店舗で着席利用に関する新ルールを導入し大きな反響を呼んでいます。",
+      "genre": "food",
+      "commercial_score": 80,
+      "product_keywords": [
+        "星巴克 咖啡",
+        "星巴克 饮品",
+        "咖啡豆"
+      ],
+      "product_keywords_ja": [
+        "スターバックス コーヒー",
+        "スタバ ギフト",
+        "カフェ グッズ"
+      ],
+      "trend_source": "百度热搜",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "カフェ店舗で着席ルールの導入が話題に",
+          "summary_ja": "大手カフェチェーンが全国の店舗で注文後の利用を促す案内を設置しました。店内の利用マナーや座席の運用方法を巡って関心が集まっています。",
+          "source": "新浪军事",
+          "url": "https://mil.news.sina.com.cn/2026-10-31/doc-inixavkz4016776.shtml"
+        },
+        {
+          "title_ja": "カフェの座席利用を巡る新方針が注目",
+          "summary_ja": "カフェチェーンが店舗空間の快適性を高めるため新たな利用提案を行っています。長時間の座席利用への対応方針が注目を集めています。",
+          "source": "ThePaper.cn",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34363471"
+        }
+      ]
+    }
+  ]
+}

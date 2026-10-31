@@ -1,0 +1,125 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T16:10:52+09:00",
+  "trends": [
+    {
+      "keyword": "Black Friday",
+      "reason_ja": "大手量販店をはじめとする各小売企業がブラックフライデーの先行セールや開催詳細を続々と公表しています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "Black Friday deals",
+        "Walmart Black Friday",
+        "Cyber Monday sale"
+      ],
+      "product_keywords_ja": [
+        "ブラックフライデー",
+        "海外通販 セール",
+        "サイバーマンデー"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "米量販大手がブラックフライデー詳細発表",
+          "summary_ja": "米大手量販店が年末セールの営業時間や先行アクセスの詳細を明らかにしました。注目の早期特価商品などが買い物客の関心を集めています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/walmart-black-friday-2026-everything-to-know"
+        },
+        {
+          "title_ja": "早くも始まる年末商戦の先行セール",
+          "summary_ja": "年末の大型セールに向けて各小売チェーンが早期割引の提供を開始しています。感謝祭直後の本番に先駆けてお得な購入機会が広がっています。",
+          "source": "TODAY.com",
+          "url": "https://www.today.com/shop/black-friday-sales-2026-rcna605702"
+        }
+      ]
+    },
+    {
+      "keyword": "PlayStation 5",
+      "reason_ja": "家庭用ゲーム機各社による年末セール情報や期間限定キャンペーンが話題を集めています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "PlayStation 5",
+        "PS5 console",
+        "gaming console deals"
+      ],
+      "product_keywords_ja": [
+        "プレイステーション5",
+        "PS5 本体",
+        "ゲーム機 セール"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気ゲーム機の年末セール情報が公開",
+          "summary_ja": "年末商戦に向けた家庭用ゲーム機の特価情報や本体セットの販売予定が話題になっています。各メーカーの価格競争が関心を引いています。",
+          "source": "https://tech-insider.org/",
+          "url": "https://tech-insider.org/black-friday-console-deals-switch-2-499-99-vs-ps5-2026/"
+        },
+        {
+          "title_ja": "家庭用ゲーム機でセール開催",
+          "summary_ja": "主要な家庭用ゲーム機プラットフォームで季節のダウンロードセールが実施されています。人気タイトルがお得な価格で購入可能となっています。",
+          "source": "Shacknews",
+          "url": "https://www.shacknews.com/article/151217/weekend-console-download-deals-for-oct-30-halloween-sales-continue"
+        }
+      ]
+    },
+    {
+      "keyword": "evercold release date",
+      "reason_ja": "人気オンラインゲームの最新拡張パッケージの発売延期と新日程がファンイベントで発表されました。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Final Fantasy XIV",
+        "FF14 expansion",
+        "gaming PC"
+      ],
+      "product_keywords_ja": [
+        "ファイナルファンタジーXIV",
+        "FF14 拡張",
+        "ゲーミングPC"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "人気オンラインゲームの新作拡張が延期",
+          "summary_ja": "オンラインRPGの最新拡張パッケージについて新たな発売時期がファンイベントで発表されました。当初の予定から延期となり注目が集まっています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest"
+        }
+      ]
+    },
+    {
+      "keyword": "when does the time change",
+      "reason_ja": "冬時間への移行に伴い夏時間の終了時刻や時計の調整に関する検索が急増しています。",
+      "genre": "health",
+      "commercial_score": 65,
+      "product_keywords": [
+        "alarm clock",
+        "sleep aid",
+        "sunrise alarm"
+      ],
+      "product_keywords_ja": [
+        "目覚まし時計",
+        "光目覚まし時計",
+        "快眠グッズ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "夏時間の終了と時計の切り替え",
+          "summary_ja": "米国で夏時間が終了を迎え時計の針を戻す時期となりました。多くの人々が生活リズムを整えながら冬の生活に備えています。",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/"
+        }
+      ]
+    }
+  ]
+}

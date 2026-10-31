@@ -1,0 +1,137 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T16:10:52+09:00",
+  "trends": [
+    {
+      "keyword": "ブラックフライデー",
+      "reason_ja": "年末の大型商戦であるブラックフライデーに向けて大手小売各社が先行セールや特売企画を相次いで発表しています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "ブラックフライデー セール",
+        "イオン ブラックフライデー",
+        "ドンキ セール"
+      ],
+      "product_keywords_ja": [
+        "ブラックフライデー",
+        "セール 家電",
+        "福袋"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "イオンがネット先行セールを開始",
+          "summary_ja": "大手流通が公式通販サイトでブラックフライデーのネット限定先行セールを開始します。家電や寝具などの特価販売に加えて割引クーポンも用意されています。",
+          "source": "福井新聞社",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2733351"
+        },
+        {
+          "title_ja": "ドンキがブラックフライデー商品を公開",
+          "summary_ja": "ディスカウント店が先行セールの対象商品を公開しました。美容家電や生活雑貨などの特価品やお得な福袋が販売されます。",
+          "source": "トラベル Watch",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2152751.html"
+        }
+      ]
+    },
+    {
+      "keyword": "スタバ新作",
+      "reason_ja": "スターバックスがホリデーシーズンの新作ビバレッジや限定グッズコレクションを発表し話題を集めています。",
+      "genre": "food",
+      "commercial_score": 90,
+      "product_keywords": [
+        "スタバ 新作",
+        "スターバックス ホリデー グッズ",
+        "アールグレイ チョコレート フラペチーノ"
+      ],
+      "product_keywords_ja": [
+        "スターバックス タンブラー",
+        "スターバックス ギフト",
+        "スタバ ホリデー"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "スタバのホリデーグッズコレクション",
+          "summary_ja": "スターバックスリザーブロースタリー東京から冬の限定グッズコレクションが登場します。上品なパールやグリッターが煌めくドリンクウェアなど華やかなアイテムが揃います。",
+          "source": "スターバックス ストーリーズ",
+          "url": "https://stories.starbucks.co.jp/press/2026/pr-2026-1028-2/"
+        },
+        {
+          "title_ja": "アールグレイの新作フラペチーノ",
+          "summary_ja": "スターバックスから新作のアールグレイチョコレートフラペチーノが登場しました。華やかな香りと濃厚なコクが楽しめる冬のご褒美ビバレッジです。",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/sweetweb/trend/sweetweb-185228"
+        }
+      ]
+    },
+    {
+      "keyword": "ちいかわ",
+      "reason_ja": "人気キャラクターのクリスマスイベント限定グッズが公開されチケット販売も始まり注目を集めています。",
+      "genre": "other",
+      "commercial_score": 85,
+      "product_keywords": [
+        "ちいかわ クリスマス",
+        "ちいかわ マスコット",
+        "ちいかわ グッズ"
+      ],
+      "product_keywords_ja": [
+        "ちいかわ ぬいぐるみ",
+        "ちいかわ クリスマス",
+        "ちいかわ 雑貨"
+      ],
+      "trend_source": "ニュース",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ちいかわクリスマスグッズが公開",
+          "summary_ja": "人気キャラクターの体験型イベントより限定オリジナルグッズが公開されました。サンタ姿のマスコットやスノードームなど多彩な商品が登場します。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/9bb611890953db42a1ea322b0c3e667cf9c68533"
+        },
+        {
+          "title_ja": "クリスマスイベントのチケット発売",
+          "summary_ja": "限定グッズが揃うクリスマスマーケットの先着チケットが販売開始となりました。イベントの世界観を楽しめる企画として関心を集めています。",
+          "source": "推し楽",
+          "url": "https://fan.books.rakuten.co.jp/articles/yxxf84stb28s6mnkh08fec2l"
+        }
+      ]
+    },
+    {
+      "keyword": "札幌ドーム",
+      "reason_ja": "人気アイドルグループの全国ドームツアー開幕に伴い開催地の宿泊施設や推し活需要が大きく盛り上がっています。",
+      "genre": "other",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Snow Man グッズ",
+        "推し活 グッズ",
+        "札幌 ホテル"
+      ],
+      "product_keywords_ja": [
+        "Snow Man アルバム",
+        "推し活 収納",
+        "遠征 バッグ"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "ドームツアー開幕で推し活需要が拡大",
+          "summary_ja": "人気グループのドームツアー開幕に合わせて全国からファンが集結しています。推しカラーで彩る宿泊プランや仮眠プランなど周辺で経済効果が広がっています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/890c59d69ae0b1119510c5e0db82fd10d2a2cfa2"
+        },
+        {
+          "title_ja": "ライブ開催に合わせて臨時便を運行",
+          "summary_ja": "ドームでのライブ開催に合わせてバスや鉄道などの臨時交通が運行されます。大規模な観客の移動を支えるための特別な運行体制が組まれています。",
+          "source": "日テレNEWS NNN",
+          "url": "https://news.ntv.co.jp/n/stv/category/society/st01d6370c2884438fbb1eb81e8585832d"
+        }
+      ]
+    }
+  ]
+}
