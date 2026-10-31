@@ -1,274 +1,250 @@
 {
   "genre": "interior",
   "genre_label_ja": "収納・インテリア・文具",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T16:02:38+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T16:04:18+09:00",
   "stories": [
     {
-      "title_ja": "ニトリが大阪・梅田茶屋町に世界最大の旗艦店をオープン",
-      "summary_ja": "大阪の茶屋町にある旧梅田ロフトの跡地に、ニトリの世界最大規模となる旗艦店が開業した。オープンを記念したセールも実施される。家具や生活雑貨の大型拠点として注目を集めている。",
-      "source": "AGARA 紀伊民報",
-      "url": "https://www.agara.co.jp/article/705955?top=oricon",
-      "score": 85,
+      "title_ja": "イケアがららぽーと豊洲に新店舗出店、北欧インテリアや食品を販売",
+      "summary_ja": "イケアの新店舗「IKEA豊洲」がアーバンドック ららぽーと豊洲内にオープンする。国内5店舗目となる商業施設内店舗として展開される。北欧デザインのインテリア雑貨から食品まで幅広い商品を取り扱う。",
+      "source": "ファッションプレス",
+      "url": "https://www.fashion-press.net/news/144922",
+      "score": 82,
+      "commercial_score": 80,
+      "product_keywords": [
+        "IKEA 北欧 インテリア",
+        "IKEA 雑貨"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "アマゾンがスマートホーム新製品5種発表、16インチのスマート画面も",
+      "summary_ja": "アマゾン（Amazon）がスマートホーム分野の強化に向け、一度に5種類の新製品を発表した。16インチの大型スマートディスプレイなどがラインナップされている。家庭内のスマート環境を拡充するデバイスとして展開する。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2518478",
+      "score": 82,
+      "commercial_score": 75,
+      "product_keywords": [
+        "スマートディスプレイ",
+        "スマートホーム"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "スターバックスがホリデーグッズ発売、タンブラーやキャニスターなど",
+      "summary_ja": "スターバックスがホリデーシーズン向けの新作グッズ「ホリデー コレクション2026」を発表した。サンタ帽を被ったベアリスタのタンブラーや、リボンモチーフのマグカップ、キャニスターなどが揃う。2026年11月2日より発売される。",
+      "source": "るるぶWeb",
+      "url": "https://rurubu.jp/andmore/article/25651",
+      "score": 80,
+      "commercial_score": 88,
+      "product_keywords": [
+        "スターバックス タンブラー",
+        "スタバ マグカップ",
+        "スタバ キャニスター"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ロッシュ・ボボア、名作アームチェア「OVALIA」を復刻発売",
+      "summary_ja": "仏家具ブランドのロッシュ・ボボア（Roche Bobois）が、1968年にデンマークのデザイナーが手掛けたアームチェア「OVALIA」を復刻した。最新の製造技術とカスタマイズ仕様を取り入れて再登場させた。現代の住空間に調和する未来派デザインとして展開される。",
+      "source": "中宏网",
+      "url": "https://www.zhonghongwang.com/show-140-476624-1.html",
+      "score": 78,
+      "commercial_score": 78,
+      "product_keywords": [
+        "名作 チェア",
+        "アームチェア 回転",
+        "デザイナーズ チェア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ポルトローナ・フラウが新作家具発表、イタリアの高級デザインを再定義",
+      "summary_ja": "イタリアの高級家具ブランドであるポルトローナ・フラウ（Poltrona Frau）が、2026年新作コレクションを発表した。イタリアンラグジュアリーを再定義するデザインコンセプトを提示している。伝統と革新を融合させた上質なインテリア家具を展開する。",
+      "source": "欢迎访问ConCall",
+      "url": "https://cn.concall.com/article/detail/article_id/6365",
+      "score": 76,
+      "commercial_score": 75,
+      "product_keywords": [
+        "イタリア製 ソファ",
+        "レザー アームチェア"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "不二貿易、家の中の隙間を有効活用できる収納ワゴン2種を発売",
+      "summary_ja": "家具やインテリア雑貨を手がける不二貿易が、隙間収納ワゴン「Sutto」と「Flat」を発売した。室内の隙間を収納場所として活用できる設計となっている。収納量を重視したワゴンとして展開される。",
+      "source": "Dellows News",
+      "url": "https://news.dellows.jp/640982/",
+      "score": 75,
+      "commercial_score": 92,
+      "product_keywords": [
+        "隙間収納 ワゴン",
+        "不二貿易 収納"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "伝統的な編み家具「ウィッカー」が再び注目、手仕事の魅力に再評価",
+      "summary_ja": "籐などの編み細工を用いたウィッカー家具が、世代を超えて受け継がれた手仕事の魅力によって新たな支持を集めている。伝統的なクラフト技術で作られた家具の価値が再評価されている。暮らしに自然素材を取り入れるインテリアとして関心が高まっている。",
+      "source": "House & Garden",
+      "url": "https://www.houseandgarden.co.uk/article/wicker-is-having-a-moment-and-its-not-because-of-alexander-skarsgard",
+      "score": 75,
+      "commercial_score": 75,
+      "product_keywords": [
+        "ラタン チェア",
+        "籐 家具",
+        "ウィッカー バスケット"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "デザイナーのジェレミア・ブレントが建築美を映したラグ新作を発表",
+      "summary_ja": "インテリアデザイナーのジェレミア・ブレント（Jeremiah Brent）がロロイ（Loloi）と組み、新作コレクションを発表した。建築のディテールから着想を得た幾何学模様や彫刻的なフォルムを取り入れている。ラグやピロークッションなどが展開される。",
+      "source": "Design Milk",
+      "url": "https://design-milk.com/jeremiah-brent-loloi-collection/",
+      "score": 74,
+      "commercial_score": 80,
+      "product_keywords": [
+        "デザイナー ラグ",
+        "幾何学模様 ラグ",
+        "クッション"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ダイソーが「くまのプーさん」新作グッズ発売、収納アイテムも展開",
+      "summary_ja": "100円ショップのダイソーから「くまのプーさん」のキャラクターをデザインした新作グッズが登場した。ナチュラルカラーを採用した収納アイテムなどがラインナップされている。公式SNSを通じて新商品の情報が公開された。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/crankin_trend/trend/crankin_trend-19350618",
+      "score": 72,
       "commercial_score": 90,
       "product_keywords": [
-        "ニトリ 家具",
-        "ニトリ 収納"
+        "ダイソー プーさん",
+        "プーさん 収納"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "イケア中国が大型店を縮小し短尺動画通販や小型店へ転換",
-      "summary_ja": "イケア中国が大型店舗の閉鎖を経て、短尺動画プラットフォーム上に公式旗艦店を開設した。地域密着型の小型店舗や即時配送の導入を進め、価格改定や手軽なカスタマイズにも対応する。消費者の購買行動の変化に合わせて販売網の刷新を図っている。",
-      "source": "虎嗅网",
-      "url": "https://www.huxiu.com/article/4901478.html",
-      "score": 85,
-      "commercial_score": 80,
+      "title_ja": "インヴィエ、家具をスピーカーに変える音響パネルを発表",
+      "summary_ja": "音響関連プラットフォームのインヴィエ（Inviye）が、家具をスピーカーに変化させるパネル「トーンウッド（Tonewood）」を発表した。家具に音響機能を直接組み込める設計となっている。空間デザインを損なわずに音楽再生環境を構築できる。",
+      "source": "HiddenWires",
+      "url": "https://www.hiddenwires.co.uk/products/article/inviye-unveils-tonewood-a-panel-that-transforms-furniture-into-speakers",
+      "score": 72,
+      "commercial_score": 70,
       "product_keywords": [
-        "イケア 家具",
-        "IKEA 収納"
+        "家具 一体型 スピーカー",
+        "音響 パネル"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "定番だったミッドセンチュリー家具の人気に変化の兆し",
-      "summary_ja": "すっきりとした機能美で長く支持されてきたミッドセンチュリーモダンの家具について、人気の変化が論じられている。定番とされてきたスタイルから、温かみのある素朴な装飾やクローム素材など新たな好みへの移行が進んでいる。インテリアの流行の移り変わりを示している。",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/29/the-rise-and-fall-of-mid-century-modern-how-millennials-fell-out-of-love-with-their-favourite-look",
-      "score": 80,
-      "commercial_score": 65,
+      "title_ja": "ドーシ・レヴィエンがオフィス家具発表、柔軟なワークスペースを提案",
+      "summary_ja": "家具メーカーのブルナーグループ（Brunner Group）とデザインスタジオのドーシ・レヴィエン（Doshi Levien）が「セッション（Session）」コレクションを発表した。現代のオフィス環境のニーズに応えるフレキシブルな家具で構成されている。スタイリッシュなシーティングなどを提案する。",
+      "source": "Wallpaper*",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/brunner-group-doshi-levien-session-collection-office-furniture",
+      "score": 72,
+      "commercial_score": 68,
       "product_keywords": [
-        "ミッドセンチュリー 家具",
-        "ヴィンテージ インテリア"
+        "オフィス チェア",
+        "ワークチェア デザイン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ダイソーがプーさんデザインの収納バスケットなど新作を公開",
-      "summary_ja": "ダイソーが「くまのプーさん」のキャラクターをデザインした新作グッズを公開した。収納バスケットは2種類のサイズから選べる仕様となっている。部屋の片付けやインテリアに役立つアイテムが揃う。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/9a365c1141e115662d25adf90e5f2c48d9f66140",
-      "score": 75,
+      "title_ja": "中国の全友家居が新作ダイニングテーブル発売、イタリア風ミニマル設計",
+      "summary_ja": "家具大手の全友家居が新しいダイニングテーブル関連の製品を発売した。「Less is more」を掲げるイタリアンミニマリズムの美学を取り入れ、すっきりとした上質なデザインに仕上げている。空間の格調を高める家具として展開される。",
+      "source": "中华网",
+      "url": "https://hb.china.com/gongsi/20003196/20261030/26023152.html",
+      "score": 70,
+      "commercial_score": 88,
+      "product_keywords": [
+        "ダイニングテーブル モダン",
+        "ミニマリスト 家具"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "モンタナファニチャーがデンマークのデザイン家具ブランドTAKTを買収",
+      "summary_ja": "家具ブランドのモンタナファニチャー（Montana Furniture）が、デンマークのデザイン家具ブランドであるTAKTを買収した。北欧家具のデザインと事業展開の強化につながる動きとなる。",
+      "source": "Interior Daily",
+      "url": "https://www.interiordaily.com/article/9887565/montana-furniture-acquires-danish-design-brand-takt/",
+      "score": 68,
+      "commercial_score": 55,
+      "product_keywords": [
+        "北欧 家具 チェア",
+        "モンタナ 収納"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ヘンリー・ホランドが陶芸の意匠を布地に表現、新作テキスタイル登場",
+      "summary_ja": "デザイナーのヘンリー・ホランド（Henry Holland）がインテリアブランドのハーレクイン（Harlequin）と協業した。陶芸作品のアート要素を大胆なテキスタイルパターンへと落とし込んでいる。鮮やかで個性的なインテリアファブリックのコレクションが展開される。",
+      "source": "freeyork",
+      "url": "https://freeyork.org/design/henry-holland-textile-design-henry-holland-transfo/",
+      "score": 68,
+      "commercial_score": 72,
+      "product_keywords": [
+        "北欧 テキスタイル",
+        "カーテン ファブリック"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "「マンダロリアン」のグローグー新作グッズ、タンブラーなどが登場",
+      "summary_ja": "『スター・ウォーズ／マンダロリアン・アンド・グローグー』の人気キャラクター「グローグー」をあしらった新作グッズが登場した。メラミンタンブラーやマグボトルなどのアイテムが同日発売される。目を閉じたグローグーやアンゼランを描いたデザインなどが用意されている。",
+      "source": "朝日新聞",
+      "url": "https://www.asahi.com/and/entertainment/17012282",
+      "score": 65,
       "commercial_score": 85,
       "product_keywords": [
-        "ダイソー 収納",
-        "プーさん 収納バスケット"
+        "グローグー タンブラー",
+        "マンダロリアン マグボトル"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "山崎実業、隠しバーを引き出して部屋干しできる2段ハンガーラック",
-      "summary_ja": "山崎実業から部屋干しの負担を軽減する2段ハンガーラックが登場した。普段は上着掛けとして省スペースに置け、必要な時だけ2本目の隠れたバーを広げて干すスペースを確保できる。部屋干しラックを出す手間を省ける工夫が施されている。",
-      "source": "ROOMIE（ルーミー）",
-      "url": "https://www.roomie.jp/2026/10/1914043/",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "山崎実業 ハンガーラック",
-        "部屋干し ハンガーラック"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "デンマークのモンタナがサステナブル家具メーカーのタクトを買収",
-      "summary_ja": "デンマークの収納家具ブランドであるモンタナが、家具メーカーのタクトを買収した。タクトは無垢材を用いた家具や先進的なサステナブル設計で知られている。環境に配慮した家具デザインの強化に向けた動きとして注目される。",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/10/29/montana-takt-acquisition/",
-      "score": 75,
-      "commercial_score": 60,
-      "product_keywords": [
-        "北欧家具 モンタナ",
-        "無垢材 家具"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "現代の住まいに美しく備えるパントリー収納のアイデア",
-      "summary_ja": "すっきりと美しく食材や日用品を収めるキッチンパントリーの収納提案が取り上げられた。備蓄や整理整頓の重要性が高まるなか、実用性とデザイン性を両立した空間づくりが紹介されている。住まいの収納スペースを有効活用するヒントとなる。",
-      "source": "ELLE Decoration UK",
-      "url": "https://www.elledecoration.co.uk/inspiration/kitchens/a74270209/stockpile-in-style-pantry-inspiration/",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "パントリー 収納",
-        "キッチン収納 ラック"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ミラノ発表のインテリアが新宿と日本橋の高島屋で発売",
-      "summary_ja": "ミラノデザインウィークで披露されたインテリアブランド「CASA TATSUMURA」のコレクションが、新宿と日本橋の高島屋で取り扱い開始となった。日本の伝統技術と現代の住空間デザインを融合させた製品が並ぶ。暮らしに上質な和の美を取り入れる提案となっている。",
-      "source": "PREMIUM JAPAN",
-      "url": "https://premium-j.jp/en/features/20261029_81497/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "高島屋 インテリア",
-        "伝統織物 インテリア"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "メゾン・マルジェラがNUDAKEと協業し解体的な茶器を発表",
-      "summary_ja": "ファッションブランドのメゾン・マルジェラが、スイーツブランドのNUDAKEと提携した茶器を発表した。ブランドを象徴する解体やコーティングの技法をティーセットのデザインに取り入れている。食卓やインテリアに前衛的なアクセントを加えるコレクションとなっている。",
-      "source": "SocialBeta",
-      "url": "https://socialbeta.com/campaign/28870",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "メゾンマルジェラ 雑貨",
-        "デザイン ティーセット"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ファーウェイ、本のように本棚に馴染む着せ替えルーター発表",
-      "summary_ja": "華為（Huawei）が本のような形状を採用したルーター「X2 Pro」を発表した。マグネット式で外装を着せ替えできる設計で、従来の無骨な外観を一新している。本棚や机の上でインテリアの一部として自然に調和するデザインとなっている。",
-      "source": "人工智能",
-      "url": "https://www.icloudnews.net/a/124366.html",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "本型 インテリア",
-        "デザイン Wi-Fiルーター"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ペットと暮らす住空間の提案が家具やオーダー収納で急成長",
-      "summary_ja": "ペットと快適に暮らすための家具や室内設計が、住まい関連業界で新たな需要を生んでいる。従来の家具にペット用設備を後付けするのではなく、収納や棚の構造そのものに美しく一体化させる提案が支持されている。暮らしの質と空間の有効活用を両立する工夫が広がっている。",
-      "source": "文轩新闻",
-      "url": "https://www.wenxuan.news/qiyezixun/23493.html",
-      "score": 75,
-      "commercial_score": 75,
-      "product_keywords": [
-        "ペット用 家具",
-        "キャットウォーク 収納"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ウィリアム・モリスの名作柄を採用した新作小物が発売",
-      "summary_ja": "ライフスタイルブランド「ウィリアム・モリス・アットホーム」から新作コレクションが登場した。「いちご泥棒」や「コンプトン」などの伝統的な名作デザインを取り入れた小物が展開される。日常の暮らしに英国テキスタイルの彩りを添えるアイテムとなっている。",
-      "source": "LASISA",
-      "url": "https://lasisa.net/post/166797",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ウィリアムモリス 雑貨",
-        "いちご泥棒 小物"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "デンマーク家具老舗カール・ハンセンの職人技と名作製造の舞台裏",
-      "summary_ja": "デンマークの家具メーカーであるカール・ハンセン＆サンの製造拠点を訪ねたレポートが公開された。名作家具が生み出される現場での職人技や家具づくりへの情熱が紹介されている。上質な木製家具を支えるこだわりのものづくりに迫っている。",
-      "source": "Livingetc",
-      "url": "https://www.livingetc.com/features/carl-hansen-and-son",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "カールハンセン チェア",
-        "北欧家具 ダイニングチェア"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ジュリアン・ムーアの自宅に学ぶ洗練された部屋づくり",
-      "summary_ja": "俳優のジュリアン・ムーアが暮らすニューヨークの邸宅を参考に、洗練された住空間のコーディネート手法が紹介されている。歴史ある建築の魅力を生かしつつ、こだわりの家具や小物が配置されている。落ち着きのある上品なインテリアを再現するヒントが得られる。",
-      "source": "House & Garden",
-      "url": "https://www.houseandgarden.co.uk/article/julianne-moore-shop-her-elegant-new-york-home",
-      "score": 70,
-      "commercial_score": 65,
-      "product_keywords": [
-        "ヴィンテージ家具",
-        "海外 インテリア 雑貨"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国で国風デザインの手帳が人気、オリジナル文具市場が活況",
-      "summary_ja": "中国の大型商戦に向けて、伝統的な趣を取り入れた手帳などのオリジナル文房具が人気を集めている。手帳の表紙や包装へのデザイン展開を支援するツールの活用も進んでいる。個性豊かな文具ブランドが注目を集め、市場が盛り上がりを見せている。",
-      "source": "凤凰网",
-      "url": "https://baby.ifeng.com/c/8xdpu4MOFE1",
-      "score": 70,
-      "commercial_score": 75,
-      "product_keywords": [
-        "手帳 ノート",
-        "中国雑貨 文具"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "KAYOU＋、入門に適したカートリッジ式万年筆レロンを発売",
-      "summary_ja": "ステーショナリーブランドのKAYOU＋から、ブランド初となる万年筆「Leron（レロン）」が発売された。手軽に使えるカートリッジ式を採用し、初めて万年筆を使う人にも向いている。全国の文具専門店や量販店などで取り扱われる。",
-      "source": "STRAIGHT PRESS",
-      "url": "https://straightpress.jp/20261029/1749449",
-      "score": 65,
-      "commercial_score": 80,
-      "product_keywords": [
-        "万年筆 カートリッジ式",
-        "KAYOU 万年筆"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "デザイン賞の候補作から読み解くインテリアの人気カラートレンド",
-      "summary_ja": "インテリアデザイン賞の注目事例から、現代の室内空間を彩る人気のカラートレンドが紹介された。住まいの雰囲気を形づくる配色として注目のカラーが取り上げられている。部屋の模様替えやインテリア選びのヒントとなる情報が示されている。",
-      "source": "Homes To Love",
-      "url": "https://www.homestolove.com.au/decorating/trends/colour-trends-belle-fanuli-interior-design-awards-2026/",
-      "score": 65,
-      "commercial_score": 65,
-      "product_keywords": [
-        "インテリア カラー",
-        "インテリア コーディネート"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "1980年代のインテリアスタイルが現代の住まいに再燃の兆し",
-      "summary_ja": "インテリアデザイン賞の候補作品において、1980年代のデザインを取り入れたスタイルが再び注目を集めている。個性的な造形や大胆な色使いなど、かつての手法が現代の住まいに再解釈されている。住空間の新たなトレンドとして関心が高まっている。",
-      "source": "Homes To Love",
-      "url": "https://www.homestolove.com.au/decorating/trends/80s-interiors-belle-fanuli-interior-design-awards-2026/",
-      "score": 65,
-      "commercial_score": 60,
-      "product_keywords": [
-        "レトロ インテリア",
-        "80年代 デザイン 家具"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ベルリンの家具ブランドが椅子や収納を揃えた店舗を開設",
-      "summary_ja": "ベルリンの家具・デザインブランドであるARWENNが、ギャラリーを兼ねた新店舗を開設した。椅子やテーブル、照明、収納家具、インテリア小物など60種類以上の製品を展開している。空間をトータルに彩る多彩なラインナップが揃う。",
-      "source": "We Heart",
-      "url": "https://www.we-heart.com/2026/10/29/arwenn-berlin-furniture-and-design-gallery-store-friedrichstrase/",
+      "title_ja": "ハイエンド収納ブランド「トゥールビヨン」、福州に旗艦店をオープン",
+      "summary_ja": "HIGOLD（悍高グループ）傘下の高級イタリアン収納ブランド「トゥールビヨン（Tourbillon）」が、福州に新店舗を開設した。世界で12店舗目となる旗艦店のオープンとなる。高品質な収納空間の提案を推進する。",
+      "source": "中华网",
+      "url": "https://mtz.china.com/touzi/2026/1030/267178.html",
       "score": 65,
       "commercial_score": 70,
       "product_keywords": [
-        "北欧 デザイナーズ家具",
-        "収納 インテリア"
+        "システム収納",
+        "高級 ワードローブ"
       ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "仏メルジャックが真鍮製読書灯の新作発表、照明会社と共同開発",
+      "summary_ja": "高級配線器具を手がけるフランスのメルジャック（Meljac）が、真鍮製の読書灯「バンブー（Bambou）」を発表した。FDエクレラージュ（FD Éclairage）との共同開発による製品である。同社の読書灯ラインナップを拡充するモデルとなる。",
+      "source": "www.v2com-newswire.com",
+      "url": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2630-23/meljac-expands-its-range-of-brass-reading-lamps-with-the-bambou-model",
+      "score": 60,
+      "commercial_score": 65,
+      "product_keywords": [
+        "真鍮 読書灯",
+        "ブラス テーブルランプ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

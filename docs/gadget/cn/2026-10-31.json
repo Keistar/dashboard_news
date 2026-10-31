@@ -1,0 +1,56 @@
+{
+  "genre": "gadget",
+  "genre_label_ja": "ガジェット",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:37:51+09:00",
+  "stories": [
+    {
+      "title_ja": "サムスンが超薄型高級折りたたみスマホ「W27」を中国で発表",
+      "summary_ja": "サムスンが中国市場向けの高級折りたたみスマートフォン「W27」を発表した。本体重量215グラムの薄型設計で天通衛星通信に対応し、価格は1万8999元からとなっている。予約受付がすでに始まっている。",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/m/show/621393",
+      "score": 88,
+      "commercial_score": 75,
+      "product_keywords": [
+        "Galaxy Fold",
+        "サムスン スマホ",
+        "折りたたみスマホ"
+      ]
+    },
+    {
+      "title_ja": "中国の智元ロボットがロボット同士で学習する新AI技術を発表",
+      "summary_ja": "人型ロボットを開発する智元が清華大学などと共同で、新学習技術「CEL」を発表した。実機96台を活用してロボット同士の経験を共有し、作業の信頼性を向上させて自律進化を目指す。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202610/571141.shtml",
+      "score": 82,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "アマゾンが16インチスマート画面などスマート家電5製品を発表",
+      "summary_ja": "米アマゾンがスマートホーム向けの新製品を一度に5機種発表した。16インチの大型スマートディスプレイなどを投入し、家庭用スマート端末の製品展開を強化している。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2518478",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Amazon Echo",
+        "スマートディスプレイ",
+        "スマートホーム"
+      ]
+    },
+    {
+      "title_ja": "華為と深蘭科技、企業向けAIエージェント搭載スマホを発表",
+      "summary_ja": "深蘭科技がファーウェイ（華為）と共同で、AIエージェント機能を備えた業務用スマートフォン「Wowoker」を発表した。マーケティングの自動化や顧客データの活用など、企業の営業活動を支援する端末として製品化された。",
+      "source": "Sohu",
+      "url": "https://m.sohu.com/a/1095005561_120285954",
+      "score": 75,
+      "commercial_score": 65,
+      "product_keywords": [
+        "HUAWEI",
+        "スマート端末"
+      ]
+    }
+  ]
+}

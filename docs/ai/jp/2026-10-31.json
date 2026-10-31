@@ -1,0 +1,67 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:34:23+09:00",
+  "stories": [
+    {
+      "title_ja": "アマゾンがAI搭載のアレクサ先行提供開始",
+      "summary_ja": "アマゾンジャパンは10月29日、生成AIを搭載した新しい音声アシスタント「Alexa+」の早期アクセスを国内で開始した。一度呼びかけるだけで自然に対話を続けられ、家電操作やスケジュール管理、情報検索を円滑に行える。",
+      "source": "日本ネット経済新聞",
+      "url": "https://netkeizai.com/articles/detail/20386",
+      "score": 90,
+      "commercial_score": 95,
+      "product_keywords": [
+        "Amazon Echo",
+        "スマートスピーカー",
+        "スマートホーム"
+      ]
+    },
+    {
+      "title_ja": "生成AIが買い物の相談相手から代理人へ",
+      "summary_ja": "日本の若年層を中心に、生成AIが買い物の相談相手として定着しつつある。AIが利用者の潜在ニーズを言語化し、欲しいという購買欲求を生み出すなど、単なる相談役を超えて買い物の代理人へと役割を広げている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs_bb/business/tbs_bb-3038224",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "AIアシスタント",
+        "スマート家電"
+      ]
+    },
+    {
+      "title_ja": "グーグルのAI半導体が宇宙で俳句を生成",
+      "summary_ja": "米グーグルは、試作衛星に搭載したAI半導体「TPU」で生成AIを動作させ、宇宙を題材にした俳句を生成することに成功したと発表した。宇宙での計算基盤構築を目指す研究の一環で、軌道上のデータセンター向け半導体からAIの応答を得たのは世界初とされる。",
+      "source": "CNET Japan",
+      "url": "https://japan.cnet.com/article/35254241/",
+      "score": 75,
+      "commercial_score": 30
+    },
+    {
+      "title_ja": "JASRACがAI生成楽曲の検知導入を検討",
+      "summary_ja": "日本音楽著作権協会（JASRAC）は、人間が創作した音楽を守るため、AIが自律的に生成した楽曲を管理対象から外す方針を進めている。この取り組みの一環として、生成AIによって作られた楽曲を検知する技術の導入を検討している。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600711",
+      "score": 75,
+      "commercial_score": 50,
+      "product_keywords": [
+        "音楽配信",
+        "DTM"
+      ]
+    },
+    {
+      "title_ja": "特別支援学校の表現支援で生成AI活用進む",
+      "summary_ja": "宮城県内の特別支援教育の現場で、生徒の自己表現や意思疎通を補助するツールとして生成AIの導入が進んでいる。県教育委員会は生成AIを用いた絵画コンクールを開催し、学校現場での活用を後押ししている。",
+      "source": "河北新報オンライン",
+      "url": "https://kahoku.news/articles/JY6YV9RQZSKHN.html",
+      "score": 70,
+      "commercial_score": 40,
+      "product_keywords": [
+        "タブレット端末",
+        "知育教材"
+      ]
+    }
+  ]
+}

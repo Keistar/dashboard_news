@@ -1,89 +1,72 @@
 {
   "genre": "beauty",
   "genre_label_ja": "美容・コスメ",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:45:33+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:46:42+09:00",
   "stories": [
     {
-      "title_ja": "フェンティ・ビューティとケースティファイ、コスメが装着できるスマホグッズ発売",
-      "summary_ja": "リアーナが手掛けるフェンティ・ビューティが、テックアクセサリーブランドのケースティファイ（CASETiFY）と協業した。スマホケースやMagSafe対応アクセサリなど全29種類のアイテムを展開する。ミニサイズのリップグロスやパウダーを装着できるホルダーなどが含まれる。",
-      "source": "Fashion Times UK",
-      "url": "https://www.fashiontimes.co.uk/fenty-beauty-casetify-mini-makeup-phone-accessories-1766581",
-      "score": 86,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Fenty Beauty",
-        "フェンティビューティ",
-        "CASETiFY"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "レディー・ガガが自身のコスメブランド「ハウス・ラボ」のCEOに就任",
-      "summary_ja": "歌手のレディー・ガガが、自身のコスメブランド「ハウス・ラボ（Haus Labs）」の最高経営責任者（CEO）に就任した。共同創業者で前CEOのベン・ジョーンズ氏が退任したことに伴う人事となる。自らブランド運営の指揮を執る体制へと移行した。",
-      "source": "TheIndustry.beauty",
-      "url": "https://theindustry.beauty/lady-gaga-takes-over-as-ceo-of-haus-labs/",
+      "title_ja": "SK-IIからブランド初のハンドクリームが11月に登場",
+      "summary_ja": "スキンケアブランド「SK-II」から初となるハンドクリーム「ハンド トリートメント クリーム」が発表された。独自成分ピテラを取り入れた処方で、2026年11月20日に発売される。",
+      "source": "MAQUIA",
+      "url": "https://maquia.hpplus.jp/body/news/123778/",
       "score": 85,
-      "commercial_score": 70,
+      "commercial_score": 92,
       "product_keywords": [
-        "Haus Labs",
-        "ハウスラボ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "キャンメイク、貝殻パッケージの限定パウダーと新作ハイライターを発売",
-      "summary_ja": "キャンメイクが10月下旬に一部限定で新作コスメを発売する。定番の「マシュマロフィニッシュパウダー」に貝殻デザインのパッケージが登場した。あわせて星のきらめきをイメージしたハイライターも展開される。",
-      "source": "CanCam.jp",
-      "url": "https://cancam.jp/archives/1767710",
-      "score": 82,
-      "commercial_score": 95,
-      "product_keywords": [
-        "キャンメイク",
-        "マシュマロフィニッシュパウダー",
-        "ハイライター"
+        "SK-II ハンドクリーム",
+        "SK-II ピテラ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ジェニファー・ローレンスが毎日洗髪しない女性向けヘアケアブランド設立",
-      "summary_ja": "俳優のジェニファー・ローレンスがヘアケアブランド「Mes」を立ち上げた。毎日髪を洗いたくない女性をターゲットにした製品を展開する。日々のヘアケアの手間を減らすアプローチが話題を集めている。",
-      "source": "Newswav",
-      "url": "https://newswav.com/article/jennifer-lawrence-just-launched-her-own-haircare-brand-and-it-s-made-for-wo-A2610_brnALY",
-      "score": 82,
-      "commercial_score": 85,
+      "title_ja": "男性の36％が5年前より外見を重視、ニールセンIQ調査",
+      "summary_ja": "調査会社ニールセンIQ（NIQ）の調査によると、36％の男性が5年前よりも美容やスキンケアを含む外見を重視するようになったと回答した。また54％が年齢相応に良い年の重ね方をすることが大切になったと答えており、男性向けにとどまらない美容市場の広がりが示されている。",
+      "source": "STT Info",
+      "url": "https://www.sttinfo.fi/tiedote/72460761/mens-interest-in-appearance-is-growing-36percent-say-looking-their-best-matters-more-than-five-years-ago-niq-finds?publisherId=58763726",
+      "score": 80,
+      "commercial_score": 65,
       "product_keywords": [
-        "ヘアケア",
-        "ドライシャンプー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "シャーロット・ティルブリー、人気色ピロートークの限定セットを発売",
-      "summary_ja": "シャーロット・ティルブリーがブラックフライデーに先駆け、クリスマスコフレを特別価格で展開している。人気シリーズ「ピロートーク」のベストセラー3品が入った72ポンド相当のセットが30ポンドで販売されている。ホリデー向けの華やかなギフトセットとなっている。",
-      "source": "Manchester Evening News",
-      "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/charlotte-tilbury-fans-snap-up-34833443.amp",
-      "score": 82,
-      "commercial_score": 90,
-      "product_keywords": [
-        "シャーロットティルブリー",
-        "ピロートーク",
-        "リップ"
+        "メンズコスメ",
+        "メンズスキンケア"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "京東がダブル11コスメセール開催、高級ブランドのまとめ買い施策を展開",
-      "summary_ja": "中国EC大手の京東（JD.com）が、大型セール「11.11（ダブルイレブン）」のコスメキャンペーンを開催している。SK-IIやランコム、エスティローダーなどの人気ブランドを対象に、購入特典や大幅割引を提供している。スキンケアや美容液、メイク用品など全品目でクーポンが配布されている。",
+      "title_ja": "HERAがくるみ割り人形に着想した限定ホリデーコスメ発売",
+      "summary_ja": "韓国コスメブランド「HERA（ヘラ）」がホリデー限定コレクションを発売した。バレエ作品「くるみ割り人形」の名場面である「雪のワルツ」をイメージしたカラーアイテムが揃っている。",
+      "source": "VOCE",
+      "url": "https://i-voce.jp/feed/5239744/",
+      "score": 78,
+      "commercial_score": 90,
+      "product_keywords": [
+        "HERA ホリデー",
+        "HERA コフレ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "90年代風ブラウンリップが再燃、品薄のMACリップが再入荷",
+      "summary_ja": "1990年代のスーパーモデルを思わせるブラウンリップの人気が再燃している。SNSで話題となり品薄が続いていたM・A・C（マック）のリップスティック「アローンタイム」が再び在庫を確保した。",
+      "source": "Grazia Daily UK",
+      "url": "https://graziadaily.co.uk/beauty-hair/makeup/mac-alone-time-lipstick/",
+      "score": 78,
+      "commercial_score": 88,
+      "product_keywords": [
+        "MAC リップスティック",
+        "ブラウンリップ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国EC大手の京東が独身の日の大型コスメセールを本格化",
+      "summary_ja": "中国のEC大手「京東（JD.com）」で、11月11日の「独身の日」に向けたコスメセールが本格化している。SK-IIやランコム、エスティ ローダーなどの有名ブランドを対象に、クーポン割引や購入特典を組み合わせた施策が展開されている。",
       "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwyncy2309815.shtml",
-      "score": 80,
-      "commercial_score": 85,
+      "url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzazt8130605.shtml",
+      "score": 78,
+      "commercial_score": 82,
       "product_keywords": [
         "SK-II",
         "ランコム",
@@ -93,165 +76,185 @@
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "THREEが2026ホリデーコレクション発売、アイシャドウやリップを展開",
-      "summary_ja": "コスメブランドのTHREEが2026年ホリデーコレクションを発売した。冬に適した繊細な光と美しい色合いのコスメを取りそろえている。アイシャドウやリップなど多彩な限定アイテムが登場している。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d8c849aa037f44d40922b6667239bd10faa381a8",
-      "score": 78,
-      "commercial_score": 90,
-      "product_keywords": [
-        "THREE",
-        "ホリデーコレクション",
-        "アイシャドウ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "韓国コスメfwee、新作ルースパウダーと化粧下地の新色を先行発売",
-      "summary_ja": "韓国コスメブランドのfweeが秋冬ホリデーシーズン向けの新作コスメを発表した。新作の「シルクスキンルースパウダー」と、人気化粧下地の新色「レモン下地」が登場する。11月1日よりQoo10の公式ショップにて先行発売される。",
-      "source": "美ST ONLINE",
-      "url": "https://be-story.jp/prtimes/294378/",
+      "title_ja": "カーディ・Bが娘の名前を冠したスキンケアの商標を出願",
+      "summary_ja": "人気アーティストのカーディ・B（Cardi B）が新たなスキンケアブランド「Kulture Skin」の商標を出願した。洗顔料や化粧水、ニキビケア製品などが対象に含まれているが、発売時期などはまだ確定していない。",
+      "source": "Fashion Times UK",
+      "url": "https://www.fashiontimes.co.uk/cardi-b-kulture-skin-skincare-trademark-application-1766660",
       "score": 76,
-      "commercial_score": 90,
+      "commercial_score": 72,
       "product_keywords": [
-        "fwee",
-        "ルースパウダー",
-        "化粧下地"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ロレアル出資の中国コスメ「ティロウェイ」、ヘア・ボディケアに進出",
-      "summary_ja": "仏ロレアルが出資する中国のコスメブランド「ティロウェイ（蒂洛薇）」が、ヘアケアおよびボディケアの新ブランドを投入した。同ブランドは短編動画プラットフォーム「抖音（Douyin）」のコスメ部門でトップの販売実績を記録している。急成長を背景に、パーソナルケア領域への事業拡大を図る。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094829433_329832",
-      "score": 76,
-      "commercial_score": 75,
-      "product_keywords": [
-        "中国コスメ",
-        "ヘアケア",
-        "ボディケア"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "東急百貨店が冬のコスメフェア開催、限定コフレや予約制メイクを展開",
-      "summary_ja": "東急百貨店が冬のコスメティックフェアを開催する。数量限定のコフレやフェア限定キットを取りそろえるほか、予約制のメイク体験などを実施する。プロのアドバイスを受けながらホリデーコスメを選べる企画となっている。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19938123?news_ref=20_20",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "東急百貨店",
-        "クリスマスコフレ",
-        "ホリデーコスメ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英スキンケアのフェイスセオリー、大手ドラッグストアのブーツで店頭販売開始",
-      "summary_ja": "オンライン専業で12年間展開してきた英スキンケアブランド「フェイスセオリー（Facetheory）」が、大手ドラッグストア「ブーツ（Boots）」で初の実店舗販売を開始した。実店舗への進出を通じてブランド再生を図る。顧客との接点を広げる戦略に注力している。",
-      "source": "Retail Gazette",
-      "url": "https://www.retailgazette.co.uk/blog/2026/10/facetheory-bricks-and-mortar/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Facetheory",
-        "フェイスセオリー",
+        "セレブコスメ",
         "スキンケア"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "大手総合商社の丸紅、敏感肌コスメのエトヴォスを軸に買収拡大",
-      "summary_ja": "日本の総合商社である丸紅が、コスメ事業の買収展開を強化している。タイの美粧グループへの出資に加え、敏感肌向けコスメブランド「エトヴォス（ETVOS）」を完全子会社化した。エトヴォスの商品開発力と多チャンネル販売網を基盤に、さらなるブランド買収を進める方針を示している。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094832089_329832",
-      "score": 74,
-      "commercial_score": 70,
+      "title_ja": "バイオヒールボの人気シリーズに洗顔料と泡美容液が追加",
+      "summary_ja": "韓国のスキンケアブランド「バイオヒールボ」の「3Dリフティング」ラインに新商品が加わった。クレンジングオイルと濃密な泡美容液が登場し、肌を引き締めるケアを提案している。",
+      "source": "MAQUIA",
+      "url": "https://maquia.hpplus.jp/special/biohealboh2610/",
+      "score": 75,
+      "commercial_score": 90,
       "product_keywords": [
-        "ETVOS",
-        "エトヴォス"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "LOHACOがコスメセールを開催、11月9日まで限定企画を実施",
-      "summary_ja": "通販サイトのLOHACOがコスメイベント「LOHACO COSME DAYS」を開始した。アスクルが運営する同サイトにて11月9日まで開催される。各種コスメ商品のセールや限定企画が展開されている。",
-      "source": "ニコニコニュース",
-      "url": "https://news.nicovideo.jp/watch/nw19935580?news_ref=top_newComments",
-      "score": 72,
-      "commercial_score": 85,
-      "product_keywords": [
-        "LOHACO",
-        "コスメ"
+        "バイオヒールボ",
+        "3Dリフティング",
+        "泡美容液"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米クリーンボディケアのBeiin、専門店クレド・ビューティーで発売",
-      "summary_ja": "クリーンボディケアブランド「Beiin」がコスメセレクトショップのクレド・ビューティー（Credo Beauty）で販売を開始した。ボディウォッシュ、ローション、ボディオイルを取りそろえている。価格は28ドルから展開されている。",
-      "source": "BeautyNewsDaily",
-      "url": "https://beautynewsdaily.com/beiin-credo-beauty/",
-      "score": 72,
-      "commercial_score": 80,
+      "title_ja": "Judydollの親会社がスキンケアやヘアケア事業を強化",
+      "summary_ja": "コスメブランド「Judydoll（橘朵）」などを手掛ける中国の橘宜グループが、スキンケアやヘアケア分野の事業展開を加速させている。仏ピエール・ファーブル社との提携によるヘアケアブランド運営など、研究開発と事業基盤の強化を進めている。",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1095108127_237556",
+      "score": 75,
+      "commercial_score": 75,
       "product_keywords": [
-        "ボディオイル",
-        "ボディローション",
-        "ボディウォッシュ"
+        "Judydoll",
+        "橘朵"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "英ジョン・ルイス、人気コスメ詰め合わせバッグを特別価格で提供",
-      "summary_ja": "英百貨店のジョン・ルイスが、人気コスメを詰め合わせた「ビューティーバッグ」の割引販売を実施している。メディク8（Medik8）やエレミス（Elemis）などの商品が入った65ポンド相当のセットが37ポンドに値下げされている。定価を払わずに試せるお得なキットとして注目されている。",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/money/shopping-deals/john-lewis-65-beauty-bag-37820110.amp",
-      "score": 72,
-      "commercial_score": 85,
+      "title_ja": "ミュアイスが冬の限定コスメ発売、ウォンジョンヨとのコラボも",
+      "summary_ja": "コスメブランド「muice（ミュアイス）」が冬の限定コレクションを発売した。ピンクを中心とした色合いのアイテムに加え、Wonjungyo（ウォンジョンヨ）とコラボレーションした涙袋ライナーも登場している。",
+      "source": "MAQUIA",
+      "url": "https://maquia.hpplus.jp/column/beautynewsflash/123739/",
+      "score": 74,
+      "commercial_score": 88,
       "product_keywords": [
-        "Elemis",
-        "エレミス",
-        "コスメセット"
+        "muice",
+        "ミュアイス",
+        "ウォンジョンヨ 涙袋"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "マクドナルドが人気ソースを模したハロウィンコスメを発表",
+      "summary_ja": "マクドナルドが定番ソースをモチーフにしたユニークなハロウィン向けコスメを展開した。フライドポテト型のメイクブラシなど、遊び心あふれるデザインが話題を呼んでいる。",
+      "source": "media-marketing.com",
+      "url": "https://www.media-marketing.com/en/news/mcdonalds-turns-its-iconic-sauces-into-halloween-makeup-fries-now-double-as-makeup-brushes/",
+      "score": 74,
+      "commercial_score": 60,
+      "product_keywords": [
+        "メイクブラシ"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ミラノ発グルーミングブランドのエレディ・ズッカが米国に進出",
-      "summary_ja": "ミラノ発のグルーミングブランド「エレディ・ズッカ（Eredi Zucca）」が米国市場に進出する。高級コスメセレクトショップのViolet Greyを通じて独占的に販売される。創業者のダヴィデ・デ・ジリオ氏が手掛けるブランドとして注目を集めている。",
-      "source": "WWD",
-      "url": "https://wwd.com/beauty-industry-news/beauty-features/italian-beauty-brand-eredi-zucca-violet-grey-launch-usa-market-1239391301/",
-      "score": 70,
+      "title_ja": "英プリティリトルシングがお得なアドベントカレンダーを発売",
+      "summary_ja": "英ファストファッションブランドのPrettyLittleThing（プリティリトルシング）がクリスマス向けのアドベントカレンダーを発売した。297ポンド相当の美容アイテムが詰め合わされており、80ポンドで提供されている。",
+      "source": "Metro.co.uk",
+      "url": "https://metro.co.uk/2026/10/30/get-297-worth-beauty-products-80-prettylittlethings-advent-calendar-29747828/amp/",
+      "score": 73,
+      "commercial_score": 85,
+      "product_keywords": [
+        "アドベントカレンダー コスメ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "コティがマークジェイコブスのコスメをシドニー空港で展開",
+      "summary_ja": "米大手コティ（Coty）はハインマンと提携し、シドニー空港で「マーク ジェイコブス ビューティ」の販売を開始した。アジア太平洋地域における同ブランドの展開拡大の一環となる。",
+      "source": "TRBusiness",
+      "url": "https://www.trbusiness.com/regional-news/asia-pacific/coty-launches-marc-jacobs-beauty-at-sydney-airport/285238",
+      "score": 72,
       "commercial_score": 75,
       "product_keywords": [
-        "グルーミング",
+        "マークジェイコブス コスメ",
+        "マークジェイコブス ビューティ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "韓国の化粧品など46社が中国・重慶でバイヤーと商談会",
+      "summary_ja": "中国の重慶市で韓国企業46社と現地バイヤー40社以上が参加する商談会が開催された。スキンケアやコスメ、健康食品などの品類が出展され、中国内陸市場への販路開拓が進められている。",
+      "source": "凤凰网",
+      "url": "https://cq.ifeng.com/c/8xeNQYWzFUP",
+      "score": 72,
+      "commercial_score": 65,
+      "product_keywords": [
+        "韓国コスメ",
+        "シートマスク"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "メンズスキンケアのエナンスが米百貨店ノードストロームで発売",
+      "summary_ja": "ファッション界出身のエヴァンジェロ・ブーシス氏が立ち上げたメンズスキンケアブランド「Enhanse（エナンス）」が米大手百貨店ノードストロームで取り扱いを開始する。全米20店舗で展開される予定だ。",
+      "source": "WWD",
+      "url": "https://wwd.com/beauty-industry-news/skin-care/enhanse-skin-care-nordstrom-launch-1239389023/",
+      "score": 71,
+      "commercial_score": 68,
+      "product_keywords": [
+        "メンズスキンケア",
         "メンズコスメ"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国・滄州青県、メイクブラシの国内一大生産地としてシェア拡大",
-      "summary_ja": "中国河北省の滄州青県が、メイクブラシの国内主要生産地として市場の大半を占めている。数多くのブラシ製品を製造し、コスメ市場を支えている。現地の放送局がその生産規模を伝えている。",
-      "source": "河北广播电视台",
-      "url": "https://www.hebtv.com/19/19js/dsfpt/12574827.shtml",
+      "title_ja": "韓国コスメのLUNAが新作チークとティントを発売",
+      "summary_ja": "韓国のメイクアップブランド「LUNA（ルナ）」から新作の「クラウドレイヤー」シリーズが登場した。コンシーラーの発想を取り入れたチークやティントが展開される。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/aretto/trend/aretto-3539",
       "score": 70,
-      "commercial_score": 75,
+      "commercial_score": 85,
       "product_keywords": [
-        "メイクブラシ",
-        "化粧筆"
+        "LUNA チーク",
+        "LUNA ティント"
       ],
-      "country": "cn",
-      "country_label_ja": "中国"
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "伊ミラノ発のグルーミングブランドが米セレクト店で発売へ",
+      "summary_ja": "イタリア・ミラノ発のグルーミングブランド「Eredi Zucca（エレディ・ズッカ）」が米国市場に進出する。高級コスメ店Violet Grey（ヴァイオレット・グレイ）での独占販売となる。",
+      "source": "WWD",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/italian-beauty-brand-eredi-zucca-violet-grey-launch-usa-market-1239391301/",
+      "score": 70,
+      "commercial_score": 65,
+      "product_keywords": [
+        "グルーミング"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ハンズのスキンケア「HACCO」に化粧水やクリームが登場",
+      "summary_ja": "株式会社ハンズの発酵スキンケアブランド「HACCO（ハッコウ）」から新商品が発売された。化粧水や保湿クリームに加え、手軽に試せるトライアルセットがラインナップされている。",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/beautynews/trend/beautynews-29388",
+      "score": 68,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ハンズ HACCO",
+        "発酵化粧水"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "唇のバリア機能に着目した新リップケアブランドが登場",
+      "summary_ja": "英スキンケアブランドGlow Hubの創業者ティファニー・サーモン・ミルズが新ブランド「BYORBE」を立ち上げた。2段階のケアシステムによって唇のバリア機能を整え、保護するアプローチを特徴としている。",
+      "source": "Cosmetics Business",
+      "url": "https://cosmeticsbusiness.com/exclusive-tiffany-salmon-mills-barrier-first-lip-care",
+      "score": 68,
+      "commercial_score": 70,
+      "product_keywords": [
+        "リップケア",
+        "リップバーム"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     }
   ]
 }

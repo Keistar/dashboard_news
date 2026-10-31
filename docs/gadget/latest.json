@@ -1,260 +1,286 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:38:32+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:37:51+09:00",
   "stories": [
     {
-      "title_ja": "アップルが同社初となるタッチ操作対応のノートパソコンを発表",
-      "summary_ja": "アップルは同社初となるタッチスクリーン搭載のノートパソコンを発表した。スティーブ・ジョブズ氏らが過去に否定的な見解を示していた方針を転換した形となる。",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/chicago/video/apple-launches-touch-screen-laptop/",
-      "score": 95,
-      "commercial_score": 85,
-      "product_keywords": [
-        "MacBook",
-        "Apple"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "アップルが有機ELとタッチ操作に対応した新型MacBook Proを発表",
-      "summary_ja": "アップルは同社ノートPCで初となるタッチ操作と有機ELディスプレイに対応したMacBook Proを発表した。指先での操作向けにUIが最適化され、従来モデルよりも薄型軽量化されている。",
-      "source": "週刊アスキー",
-      "url": "https://weekly.ascii.jp/elem/000/004/447/4447080/",
-      "score": 90,
-      "commercial_score": 85,
-      "product_keywords": [
-        "MacBook Pro",
-        "Apple"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "サムスンが超高級折りたたみスマホ「W27 心系天下」を発表",
-      "summary_ja": "サムスンは高級折りたたみスマートフォン「心系天下 W27」を発表した。Galaxy Z Fold8 Ultraをベースにした設計で、価格は1万8999元からとなっている。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-29/doc-iniwwtus6020764.shtml",
-      "score": 85,
+      "title_ja": "サムスンが超薄型高級折りたたみスマホ「W27」を中国で発表",
+      "summary_ja": "サムスンが中国市場向けの高級折りたたみスマートフォン「W27」を発表した。本体重量215グラムの薄型設計で天通衛星通信に対応し、価格は1万8999元からとなっている。予約受付がすでに始まっている。",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/m/show/621393",
+      "score": 88,
       "commercial_score": 75,
       "product_keywords": [
-        "Galaxy",
-        "サムスン",
+        "Galaxy Fold",
+        "サムスン スマホ",
         "折りたたみスマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "華為が新型スマホ「Pura 90 Plus」の星閃オーディオ対応を発表",
-      "summary_ja": "華為（Huawei）はスマートフォン「Pura 90 Plus」を発表し、近距離無線技術「星閃（NearLink）」のオーディオ機能に対応すると明らかにした。麒麟9025チップを初搭載し、キャンペーン価格は5199元からとなっている。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1094607590_114760",
+      "title_ja": "ナッシングが約6万円の新型スマホ「Phone (4b)」を発売",
+      "summary_ja": "英Nothingのスマートフォン「Phone (4b)」が5万9800円で登場した。背面のライトが光って通知を知らせるほか、大容量の5200mAhバッテリーを備える。おサイフケータイや最長6年のセキュリティ更新にも対応している。",
+      "source": "Gizmodo",
+      "url": "https://www.gizmodo.jp/article/2610-amazon-nothing-phone4b/",
       "score": 85,
-      "commercial_score": 80,
+      "commercial_score": 90,
       "product_keywords": [
-        "HUAWEI",
-        "スマートフォン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "シャオミがスマートバンド「Smart Band 11」の国内発売を発表",
-      "summary_ja": "シャオミ・ジャパンはスマートバンドの最新モデル「Xiaomi Smart Band 11」を発表した。直販サイトで10月30日から先行購入の受け付けを開始し、11月4日に発売する。",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2152054.html",
-      "score": 80,
-      "commercial_score": 95,
-      "product_keywords": [
-        "Xiaomi Smart Band",
-        "シャオミ",
-        "スマートバンド"
+        "Nothing Phone",
+        "スマートフォン",
+        "SIMフリー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "NECのLAVIEブランドが最長30時間駆動の新型ノートを発表",
-      "summary_ja": "NECのブランドであるLAVIEが新型ノートPC「X14」を発表した。8コアのIntel Panther Lake CPUと32GBメモリを搭載し、30時間のバッテリー駆動時間を実現している。",
+      "title_ja": "ソノスがANC搭載ヘッドホン「Ace Ultra」を日本で発売",
+      "summary_ja": "Sonos（ソノス）の新型ヘッドホン「Ace Ultra」が国内向けに発売された。価格は6万9800円で、ノイズキャンセリング使用時でも最長35時間のバッテリー持ちを実現している。",
+      "source": "インターネットコム",
+      "url": "https://internetcom.jp/211266/sonos-ace-ultra-japan",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Sonos",
+        "ヘッドホン",
+        "ノイズキャンセリング"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エイスース、最大26時間駆動の有機ELノートPCをお手頃価格で投入",
+      "summary_ja": "エイスース（ASUS）は14型ノートPC「ExpertBook A7」の新仕様を発表した。120Hz駆動の有機EL画面と最長26時間の駆動時間を保ちつつ、899ドルの手頃な価格帯に設定されている。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Japan-made-laptop-with-32-GB-RAM-and-8-core-CPU-arrives-with-30-hour-battery-life.1437425.0.html",
+      "url": "https://www.notebookcheck.net/Asus-launches-new-budget-laptop-with-120-Hz-OLED-and-26-hours-battery-life.1438179.0.html",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ASUS",
+        "ExpertBook",
+        "ノートパソコン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ボーズの第2世代「QuietComfort」ヘッドホンを海外メディアが評価",
+      "summary_ja": "ボーズ（Bose）のワイヤレスヘッドホン「QuietComfort Headphones」第2世代モデルの実機レビューが公開された。従来機から複数の改良が施され、完成度の高いオーバーイヤー型ヘッドホンと評されている。",
+      "source": "Trusted Reviews",
+      "url": "https://www.trustedreviews.com/reviews/bose-quietcomfort-headphones-2nd-gen",
+      "score": 82,
+      "commercial_score": 88,
+      "product_keywords": [
+        "Bose",
+        "QuietComfort",
+        "ボーズ ヘッドホン"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "中国の智元ロボットがロボット同士で学習する新AI技術を発表",
+      "summary_ja": "人型ロボットを開発する智元が清華大学などと共同で、新学習技術「CEL」を発表した。実機96台を活用してロボット同士の経験を共有し、作業の信頼性を向上させて自律進化を目指す。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202610/571141.shtml",
+      "score": 82,
+      "commercial_score": 50,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "DJIとハッセルブラッドの旗艦店が東京・表参道に開店",
+      "summary_ja": "DJI JAPANの国内正規代理店であるセキドが、東京・表参道に複合旗艦店をオープンする。店内ではドローンの屋内飛行体験なども用意される。開店日は10月31日となっている。",
+      "source": "マイナビニュース",
+      "url": "https://news.mynavi.jp/article/20261030-5222631/",
+      "score": 80,
+      "commercial_score": 75,
+      "product_keywords": [
+        "DJI",
+        "ドローン",
+        "Hasselblad"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "マイクロソフトの小型「Surface Laptop 13」を海外誌がレビュー",
+      "summary_ja": "マイクロソフトの薄型ノートPC「Surface Laptop 13」のレビューが掲載された。明るいIPSタッチ画面や省電力なSnapdragon X2 Plusを積み、標準で16GB以上のメモリを備える日常向けモデルとして評価されている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Microsoft-s-new-Surface-Laptop-13-is-a-very-good-everyday-laptop.1438111.0.html",
       "score": 80,
       "commercial_score": 85,
       "product_keywords": [
-        "LAVIE",
-        "NEC",
+        "Surface Laptop",
+        "マイクロソフト",
         "ノートパソコン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "ワンプラスが9000mAh電池を積むAce 7シリーズを発表",
-      "summary_ja": "ワンプラス（OnePlus）は新型スマートフォン「Ace 7」シリーズを発表した。9000mAhバッテリーや185Hz駆動ディスプレイ、2億画素カメラを搭載し、補助金適用後の価格は2761.65元からとなっている。",
-      "source": "17173",
-      "url": "http://news.17173.com/content/10292026/200129864.shtml",
+      "title_ja": "アマゾンが16インチスマート画面などスマート家電5製品を発表",
+      "summary_ja": "米アマゾンがスマートホーム向けの新製品を一度に5機種発表した。16インチの大型スマートディスプレイなどを投入し、家庭用スマート端末の製品展開を強化している。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2518478",
       "score": 80,
       "commercial_score": 85,
+      "product_keywords": [
+        "Amazon Echo",
+        "スマートディスプレイ",
+        "スマートホーム"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "サムスン公式店で折りたたみ機「Galaxy Z Fold8」が割引",
+      "summary_ja": "サムスンの公式オンラインショップで、創業記念日に合わせた期間限定セールが開催されている。最新の折りたたみスマートフォン「Galaxy Z Fold8」が5パーセント引きの対象となっている。セール期間は11月4日までとなる。",
+      "source": "GetNavi web",
+      "url": "https://getnavi.jp/gadgets/1119393/",
+      "score": 78,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Galaxy Z Fold",
+        "サムスン",
+        "折りたたみスマホ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "エイサーが2.8K有機ELを積む軽量ノートPCを11月発売へ",
+      "summary_ja": "エイサー（Acer）は新型の軽量ノートPC「Swift Air 14」を11月に発売することを公表した。AMDのRyzenプロセッサを搭載し、リフレッシュレート90Hzに対応した2.8K解像度の有機EL画面を採用している。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Acer-launching-new-lightweight-laptop-in-November-with-2-8K-and-90-Hz-OLED.1438405.0.html",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "Acer",
+        "Swift",
+        "有機EL ノートパソコン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "ソニーのノイキャンヘッドホン「WH-CH720N」が米アマゾンで半額に",
+      "summary_ja": "ソニーのワイヤレスヘッドホン「WH-CH720N」が米Amazonで51パーセント引きのセール価格で販売されている。手頃な価格帯のヘッドホンとして90ドル未満の特価になっている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/oct-22-sony-wh-ch720n-headphones-cheap-deal",
+      "score": 77,
+      "commercial_score": 90,
+      "product_keywords": [
+        "ソニー ヘッドホン",
+        "WH-CH720N",
+        "ノイズキャンセリング"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "NECが最大32GBメモリ搭載の日本製「LAVIE」新モデルを発表",
+      "summary_ja": "NECがパソコンブランド「LAVIE」から「S13」と「N13」の新モデルを投入した。日本製のプレミアムノートPCとして位置づけられ、インテルのCPUや最大32GBのメモリを搭載できる。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Lavie-S13-and-N13-arrive-as-premium-Japan-made-laptops-with-up-to-32-GB-RAM.1437428.0.html",
+      "score": 76,
+      "commercial_score": 82,
+      "product_keywords": [
+        "NEC",
+        "LAVIE",
+        "ノートパソコン"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "冷却ファン搭載の高性能スマホ「OnePlus Ace 7 Pro」発表",
+      "summary_ja": "中国OnePlus（ワンプラス）が新型スマートフォン「Ace 7 Pro」を発表した。内部に冷却ファンと大容量の9000mAhバッテリーを積み、ゲーム向けに185Hz駆動の画面を備える。現地価格は4799元からとなっている。",
+      "source": "インターネットコム",
+      "url": "https://internetcom.jp/211267/oneplus-ace-7-pro-japan",
+      "score": 75,
+      "commercial_score": 70,
       "product_keywords": [
         "OnePlus",
-        "スマートフォン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "アンカーが最小最軽量のワイヤレスイヤホン新製品を発売",
-      "summary_ja": "アンカー・ジャパンは完全ワイヤレスイヤホン「Anker Liberty Buds 2」を発売した。シリーズで最小かつ最軽量となる設計で、価格は税込み2万1990円となっている。",
-      "source": "AppBank",
-      "url": "https://www.appbank.net/2026/10/29/goods-books/3147986.php",
-      "score": 75,
-      "commercial_score": 95,
-      "product_keywords": [
-        "Anker",
-        "ワイヤレスイヤホン"
+        "ゲーミングスマホ"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "ゲーミングスマホ「REDMAGIC 12 Pro」が世界向け発表",
-      "summary_ja": "ゲーミングスマートフォン「REDMAGIC 12 Pro」が世界向けに発表された。185Hz駆動の画面下カメラディスプレイや液冷機構を備え、899ドルからの価格で11月18日に発売される。",
-      "source": "Gadget Pilipinas",
-      "url": "https://www.gadgetpilipinas.net/2026/10/redmagic-12-pro-launch/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "REDMAGIC",
-        "ゲーミングスマホ"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "9000mAhバッテリー搭載の高性能スマホ「iQOO Neo 12」が登場",
-      "summary_ja": "中国市場向けに新型スマートフォン「iQOO Neo 12」が発表された。Snapdragon 8 Elite Gen 5プロセッサや9000mAhバッテリー、185Hz駆動ディスプレイを搭載している。",
-      "source": "91Mobiles",
-      "url": "https://www.91mobiles.com/hub/iqoo-neo-12-china-launch-price-specifications-availability/",
-      "score": 75,
-      "commercial_score": 80,
-      "product_keywords": [
-        "iQOO",
-        "スマートフォン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "モトローラが大容量電池搭載の「Moto G47 Power」を英国で発売",
-      "summary_ja": "モトローラは英国市場でスマートフォン「Moto G47 Power」を発売した。7000mAhバッテリーや1億800万画素カメラ、Dimensity 6300を搭載し、価格は299.99ポンドとなっている。",
-      "source": "The Tech Outlook",
-      "url": "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-moto-g47-power-launched-in-the-uk-with-dimensity-6300-chipset-108mp-main-camera-and-7000mah-battery-at-299-99/",
+      "title_ja": "エイリアンウェアのRTX 5070搭載有機ELノートPCが約1950ドルに",
+      "summary_ja": "ゲーミングPCブランドのAlienware（エイリアンウェア）による「16X Aurora」が米ベストバイで1949.99ドルに値下げされた。RTX 5070やCore Ultra 9、240Hz駆動の有機ELディスプレイなどを備える高性能モデルだ。",
+      "source": "MIXED News",
+      "url": "https://mixed-news.com/en/alienware-16x-aurora-rtx-5070-oled-best-buy-deal/",
       "score": 75,
       "commercial_score": 85,
       "product_keywords": [
-        "モトローラ",
-        "スマートフォン"
+        "Alienware",
+        "ゲーミングノートPC",
+        "RTX"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "マウスがクリエイター向け16型ノート「DAIV Z6」4機種を発売",
-      "summary_ja": "マウスコンピューターはクリエイター向けブランド「DAIV」から、16型ノートPC「DAIV Z6」計4機種を発表した。Core Ultra 7 255HとGeForce RTX 50シリーズを搭載し、価格は税込み38万9000円からで即日販売が始まっている。",
-      "source": "エルミタージュ秋葉原",
-      "url": "https://www.gdm.or.jp/pressrelease/2026/1029/658572",
-      "score": 70,
-      "commercial_score": 80,
+      "title_ja": "華為と深蘭科技、企業向けAIエージェント搭載スマホを発表",
+      "summary_ja": "深蘭科技がファーウェイ（華為）と共同で、AIエージェント機能を備えた業務用スマートフォン「Wowoker」を発表した。マーケティングの自動化や顧客データの活用など、企業の営業活動を支援する端末として製品化された。",
+      "source": "Sohu",
+      "url": "https://m.sohu.com/a/1095005561_120285954",
+      "score": 75,
+      "commercial_score": 65,
       "product_keywords": [
-        "DAIV",
-        "マウスコンピューター",
-        "ノートパソコン"
+        "HUAWEI",
+        "スマート端末"
       ],
-      "country": "jp",
-      "country_label_ja": "日本"
+      "country": "cn",
+      "country_label_ja": "中国"
     },
     {
-      "title_ja": "モトローラが最上位スマホ「Signature 27」の発表日を告知",
-      "summary_ja": "モトローラは最新スマートフォン「Signature 27」の発表日を11月5日と正式に公表した。インド市場初となるSnapdragon 8 Elite Extreme Gen 6プロセッサの搭載が予告されている。",
-      "source": "91Mobiles",
-      "url": "https://www.91mobiles.com/hub/motorola-signature-27-confirmed-launch-india-november-5th/",
-      "score": 70,
+      "title_ja": "旧型iPodなどをBluetooth化する音響アダプタがiFiから登場",
+      "summary_ja": "英iFi audioから新機器「iFi Up Travel Max」が登場した。3.5mmイヤホン端子で旧型iPodや車載オーディオなどに接続し、aptX Lossless対応のワイヤレスで最大2台のヘッドホンへ音楽を伝送できる。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Apple-iPod-cars-and-more-get-Bluetooth-aptX-Lossless-thanks-to-brand-new-iFi-gadget.1438317.0.html",
+      "score": 74,
+      "commercial_score": 80,
+      "product_keywords": [
+        "iFi",
+        "Bluetooth トランスミッター",
+        "aptX Lossless"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "モトローラが2億画素カメラ搭載スマホの発売日を11月5日に予告",
+      "summary_ja": "モトローラ（Motorola）が新型スマートフォン「Signature 27」の発表日を11月5日に決定した。2億画素のカメラや最新のSnapdragonチップを搭載し、Android 17を採用する見込みだ。",
+      "source": "TechJuice",
+      "url": "https://www.techjuice.pk/motorola-confirms-launch-date-for-its-signature-27-smartphone/",
+      "score": 72,
       "commercial_score": 75,
       "product_keywords": [
         "モトローラ",
+        "Motorola",
         "スマートフォン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "サンロボットがRTX 5060搭載のゲーミングノートを発表",
-      "summary_ja": "サンロボット（Thunderobot）はゲーミングノートPC「Radiant 16」を2,199ドルで発表した。Core i9プロセッサとRTX 5060、64GBのメモリや4TBのSSD、300Hz駆動のディスプレイを備えている。",
-      "source": "MIXED News",
-      "url": "https://mixed-news.com/en/thunderobot-radiant-16-rtx-5060-64gb-4tb-2199-amazon/",
-      "score": 70,
-      "commercial_score": 80,
+      "title_ja": "ビボがイヤーカフ型イヤホンなど新アクセサリー群を投入",
+      "summary_ja": "中国のスマートフォン大手vivo（ビボ）がフィリピンで新たな周辺機器を発表した。オーバーイヤー型の「Headphones Studio」やイヤーカフ型の「Buds Clip」などの音響機器が含まれている。",
+      "source": "YugaTech",
+      "url": "https://www.yugatech.com/news/vivo-headphones-studio-buds-clip-specs-and-price-in-the-philippines/",
+      "score": 68,
+      "commercial_score": 75,
       "product_keywords": [
-        "Thunderobot",
-        "ゲーミングノートPC"
+        "vivo",
+        "イヤーカフ イヤホン",
+        "ワイヤレスイヤホン"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "HPがSnapdragon搭載の14型ノートPCの展開国を拡大",
-      "summary_ja": "HPはQualcommのSnapdragon X2プラットフォームを採用した14型ノートPC「EliteBook 6 G2q」の展開国を拡大した。最大64GBのメモリや有機ELディスプレイを搭載できるモデルとなっている。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/HP-releases-new-14-inch-laptop-in-more-countries-with-64-GB-RAM-and-OLED-display.1437348.0.html",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "HP",
-        "ノートパソコン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "シャオミが「澎湃OS4」正式版の配信対象機種を拡大",
-      "summary_ja": "シャオミは「澎湃OS4（HyperOS 4）」正式版の配信対象となる機種を拡大した。Xiaomi 17 MaxやXiaomi 17T Proなどのスマートフォン向けに順次配信が開始されている。",
-      "source": "智电网",
-      "url": "http://news.zdwang.com/a/202610/30102634.html",
-      "score": 70,
-      "commercial_score": 70,
-      "product_keywords": [
-        "Xiaomi",
-        "シャオミ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ギコムが重さ約1kgの14型ノートPC「GeekBook」を発売",
-      "summary_ja": "ギコムは薄型軽量デザインを採用した14型ノートPC「GeekBook X14 Pro」を発売する。重さ約1kgの軽量な筐体にCore Ultraプロセッサを搭載している。",
-      "source": "ITmedia",
-      "url": "https://www.itmedia.co.jp/pcuser/amp/2610/30/news069.html",
-      "score": 65,
-      "commercial_score": 85,
-      "product_keywords": [
-        "GEEKOM",
-        "ノートパソコン"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "紙のカードでアプリを動かすユニークな木製端末がドイツで登場",
-      "summary_ja": "ドイツで開発された「SOOOT Box」は、タッチ画面やリモコンの代わりにパンチカードを使ってアプリ起動や音楽再生を行う端末だ。レトロな操作感ながらバッテリーやUSB-C、Wi-Fi、モーションセンサーなどの機能も備えている。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/SOOOT-Box-from-Germany-uses-apps-made-from-paper.1437547.0.html",
-      "score": 65,
-      "commercial_score": 60,
-      "country": "us",
-      "country_label_ja": "アメリカ"
     }
   ]
 }
