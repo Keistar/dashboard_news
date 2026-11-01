@@ -1,220 +1,221 @@
 {
   "genre": "kaji",
   "genre_label_ja": "時短家電・家事",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:41:30+09:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:41:06+09:00",
   "stories": [
     {
-      "title_ja": "米新興企業が人型ロボットによるトイレ掃除などの家事代行を開始",
-      "summary_ja": "米サンフランシスコのスタートアップ企業タウ・ロボティクス（Tau Robotics）が、人型ロボットを使った有料の家庭清掃サービスを開始した。ロボットがトイレの内側を磨いたり照明を消したりする作業を担当する。家庭内の清掃作業を人型ロボットが担う新たな時代の到来として注目されている。",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/542da71e-0df7-4e14-a574-bcdd4051cb6d",
-      "score": 90,
-      "commercial_score": 30,
+      "title_ja": "DJIがドローン技術応用のロボット掃除機開発",
+      "summary_ja": "ドローン大手のDJIがロボット掃除機「Romo P」を開発した。ドローンで培った技術を応用し、高水準のナビゲーション性能とあらゆる床面での清掃力を備えている。年間を代表する家庭向けデバイスとして高い評価を獲得している。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/robot-vacuums/the-dji-romo-p-is-our-home-device-of-the-year",
+      "score": 88,
+      "commercial_score": 80,
       "product_keywords": [
-        "家庭用ロボット",
+        "DJI ロボット掃除機",
         "ロボット掃除機"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ケユカが食洗機対応で手入れしやすい土鍋発売",
+      "summary_ja": "ケユカから、冷たい水での洗い物や後片付けの負担を軽減する冬の新商品が登場した。焦げ付きを落としやすく食洗機にも対応する土鍋やセラミックIH両手鍋などを揃えている。調理から片付けまでを快適にすることを目指している。",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/2008232",
+      "score": 85,
+      "commercial_score": 90,
+      "product_keywords": [
+        "KEYUCA 土鍋",
+        "食洗機対応 土鍋",
+        "IH両手鍋"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "中国主要ロボット掃除機4機種の機能比較が公開",
+      "summary_ja": "エコバックスやロボロック、ドリーミー、雲鯨（Narwal）の最新ロボット掃除機4機種が比較されている。温水モップ洗浄や強力な吸引力、水拭き機能など各社の特徴が検証された。間取りやペットの有無などに応じた選び方が示されている。",
+      "source": "新浪网",
+      "url": "https://www.sina.cn/gc/article/nixferx3095709.html",
+      "score": 85,
+      "commercial_score": 85,
+      "product_keywords": [
+        "エコバックス ロボット掃除機",
+        "Narwal 水拭き"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "ニンジャの1台3役マルチトースターが登場",
+      "summary_ja": "ニンジャから「Ninja Foodi 3-in-1」トースターが登場した。トースターだけでなくグリルやパニーニプレスの機能も兼ね備えている。朝食や軽食の調理に幅広く活用できるキッチン家電として評価されている。",
+      "source": "Woman & Home",
+      "url": "https://www.womanandhome.com/homes/kitchen/ninja-foodi-3-in-1-toaster-grill-panini-press/",
+      "score": 82,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Ninja トースター",
+        "パニーニメーカー",
+        "マルチグリル"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "サーモスの食洗機対応タンブラーが好評",
+      "summary_ja": "サーモスの真空断熱タンブラーが、優れた保温保冷機能と洗練されたデザインで人気を集めている。冷たい飲料でも結露しにくく、熱い飲み物を入れても外側が熱くならない点が評価されている。食洗機で丸洗いできる扱いやすさも注目されている。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/research/articles/4077462/comments/",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "サーモス タンブラー 食洗機対応",
+        "真空断熱タンブラー"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ロボロックが新型ロボット掃除機を米国発売",
+      "summary_ja": "ロボロックの新型ロボット掃除機「Qrevo 2 Pro」が米国で発売された。製品の仕様が公開されたほか、期間限定の割引価格も提示されている。床掃除の手間を減らす最新モデルとして注目されている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/aug-28-roborock-qrevo-2-pro-launch-discount",
+      "score": 80,
+      "commercial_score": 85,
+      "product_keywords": [
+        "Roborock ロボット掃除機",
+        "ロボロック 水拭き"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ニンジャの1台多役トースターは跳ね上げ収納でキッチンの省スペースを実現",
-      "summary_ja": "ニンジャ（Ninja）の省スペース型多機能トースターオーブン兼エアフライヤーが、直近の1か月だけで1万人以上の購入者を集めている。電子レンジやトースター、エアフライヤーの機能を1台に兼ね備えている。使わない時は垂直に跳ね上げて調理台のスペースを広く確保できる点が人気となっている。",
-      "source": "Food & Wine",
-      "url": "https://www.foodandwine.com/ninja-flip-toaster-oven-air-fryer-deal-amazon-12201103",
-      "score": 85,
-      "commercial_score": 95,
-      "product_keywords": [
-        "Ninja トースター",
-        "ノンフライオーブン",
-        "多機能調理家電"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "アンカーのロボ掃除機ユーフィOmni S2は水拭きと香りの機能が充実",
-      "summary_ja": "アンカー（Anker）の家電ブランドであるユーフィ（Eufy）のロボット掃除機「Omni S2」のレビューが紹介された。強力な吸引力に加えて高性能なローラーモップを搭載し、さらに心地よいフレグランス機能を備えている。価格は高価であるものの、高い清掃能力を持つ製品として評されている。",
-      "source": "The Ambient",
-      "url": "https://www.the-ambient.com/reviews/eufy-omni-s2-review/",
-      "score": 85,
-      "commercial_score": 90,
-      "product_keywords": [
-        "Eufy ロボット掃除機",
-        "Anker ロボット掃除機",
-        "水拭き ロボット掃除機"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "ハイセンスが日本の住宅事情に合わせた新型冷蔵庫と洗濯機を展開",
-      "summary_ja": "ハイセンスが日本の狭い住環境に合わせた新型の冷蔵庫と洗濯機を展開している。食材保存や日々の洗濯の手間に配慮した機能を備えており、安さだけでなく機能性でも競争力を高めている。開発力と製品化のスピードを武器に日本市場での存在感を増している。",
-      "source": "VAGUE(ヴァーグ)",
-      "url": "https://vague.style/post/466577",
+      "title_ja": "実測テストで中国製空気清浄機の性能向上が判明",
+      "summary_ja": "中国中央テレビの実測検証により、国産空気清浄機が微小粒子や有害物質の浄化効率で高い性能を示した。上位ブランドの過半数を中国メーカーが占めている。部屋の広さや除去したい対象に応じた機種の選び方が紹介されている。",
+      "source": "新浪网",
+      "url": "https://www.sina.cn/gc/article/nixferx3076268.html",
       "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ハイセンス 冷蔵庫",
-        "ハイセンス 洗濯機"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "タニタが千石と共同開発した魚料理も手軽に焼けるトースターを発売",
-      "summary_ja": "タニタが千石と共同開発した多機能オーブントースターを発売した。魚料理などを手軽に調理できる機能を備えているのが特徴である。毎日の食事作りを簡単にする時短家電として提案されている。",
-      "source": "電波新聞デジタル",
-      "url": "https://dempa-digital.com/article/729213",
-      "score": 80,
-      "commercial_score": 90,
-      "product_keywords": [
-        "タニタ オーブントースター",
-        "千石 トースター"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "英国で家庭用人型ロボットの損害や事故を補償する初の家庭保険が登場",
-      "summary_ja": "英国のエイドリアン・フラックスと東京海上HCCインターナショナルが、家庭用人型ロボットを対象とする保険の取り扱いを開始した。ロボットによる家庭内での損害や機体自体の破損に加え、賠償責任や緊急停止に関わるリスクを補償する。人型ロボットが家庭に普及する時代に備えた先駆的な取り組みとなっている。",
-      "source": "Martin Cid Magazine",
-      "url": "https://www.martincid.com/technology-sv/humanoid-robot-home-insurance-uk-adrian-flux/",
-      "score": 80,
-      "commercial_score": 40,
-      "product_keywords": [
-        "家庭用ロボット",
-        "人型ロボット"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国の長虹がAI連携で快適な暮らしを支える新家電シリーズを発表",
-      "summary_ja": "中国の大手家電メーカー・長虹（Changhong）が「熊猫懶」シリーズのテレビやエアコンの新製品を発表した。AI技術を活用して室内空気の管理や家庭内機器の連携を支援する。快適な住環境と手間の少ないスマートな生活体験を提供する試みとなっている。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095257024_120578424",
-      "score": 80,
-      "commercial_score": 70,
-      "product_keywords": [
-        "長虹 家電",
-        "スマートエアコン"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "創維が秋季発表会で生活家電など全シーンに対応するAI製品群を披露",
-      "summary_ja": "中国の創維（スカイワース / Skyworth）が秋季新製品発表会を開催し、生活個体ケアやスマート家電など4分野の製品と10のAI応用シーンを披露した。家電業界の競争が単体のスペック重視から生活全体のスマート体験へと移り変わる流れを反映している。家庭内のあらゆる場面をつなぐ暮らしの提案が進んでいる。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwysmz4728843.shtml",
-      "score": 80,
-      "commercial_score": 65,
-      "product_keywords": [
-        "創維 家電",
-        "スマート家電"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "サーモスの食洗機対応スープジャーが温かい食事を持参できると好評",
-      "summary_ja": "サーモスの「真空断熱スープジャー」が外出先でも温かい食事を楽しめる容器として好評を博している。優れた保温・保冷機能を備え、スープやシチュー、カレーや味噌汁の持ち運びに活用されている。食洗機に対応している手入れのしやすさも高く評価されている。",
-      "source": "ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/research/articles/4071268/comments/",
-      "score": 75,
-      "commercial_score": 95,
-      "product_keywords": [
-        "サーモス スープジャー",
-        "真空断熱スープジャー 食洗機対応"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "スイッチボットの小型ロボ掃除機S30は従来機のステーションと非互換",
-      "summary_ja": "「SwitchBot お掃除ロボット S30 Mini」は、従来機であるS10やS20の各種ステーションと互換性がないことがサポート情報で明らかになった。自動ゴミ収集ステーションや多機能ステーション、水交換ステーションのいずれも流用できない。専用の設備が必要となる点に注意が必要である。",
-      "source": "Jetstream",
-      "url": "https://jetstream.blog/2026/10/31/switchbot-robot-vacuum-cleaner-s30-mini-incompatible-s10-s20/",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "SwitchBot ロボット掃除機",
-        "SwitchBot S30"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "メリコーニがエアフライヤーと電子レンジ専用の油汚れ落とし洗剤を発売",
-      "summary_ja": "イタリアのメリコーニ（Meliconi）が、エアフライヤーと電子レンジの掃除専用スプレー洗剤を新たに発売した。これら2種類の調理家電のメンテナンスをより容易にすることを目的としている。頑固な油汚れを落とし、調理器具のお手入れにかかる手間を軽減する。",
-      "source": "Distribuzione Moderna",
-      "url": "https://distribuzionemoderna.info/en/products/meliconi-launches-the-spray-degreaser-designed-for-cleaning-air-fryers-and-microwaves",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "油汚れ用洗剤",
-        "電子レンジ クリーナー"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "シーメンスのオゾン洗浄洗濯機がスマートホーム連携で自動家事を実現",
-      "summary_ja": "シーメンスのオゾン洗浄機能を備えた洗濯機をスマートホームと連携させる要件が整理された。対応モデルや通信環境を満たすことで、洗濯の終了に合わせて自動でカーテンを下ろしたり換気システムを作動させたりできる。日々の家事の手間を減らすスマート家電連携の具体例となっている。",
-      "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_7879923205_1d5ae1605068016188.html?from=tech",
-      "score": 75,
       "commercial_score": 80,
       "product_keywords": [
-        "シーメンス 洗濯機",
-        "スマート家電 洗濯機"
+        "空気清浄機",
+        "Xiaomi 空気清浄機"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ロボロックのPシリーズロボット掃除機におけるモップ乾燥性能を比較",
-      "summary_ja": "ロボロック（Roborock）のPシリーズロボット掃除機について、モップ乾燥機能の温度設定や電気代の違いが検証された。各モデルが45度から63度の熱風乾燥を採用しており、ヒートポンプ型との電気代の差はわずかであるとしている。乾燥時間や室内の湿度環境に合わせた機種選びのポイントが示されている。",
+      "title_ja": "ドリーミーがロボット掃除機主力3機種を展開",
+      "summary_ja": "ドリーミー（追觅）が最新ロボット掃除機の主力3機種を展開している。コスパ重視のモデルから、ステーション自動洗浄や段差に対応した上位機まで揃えた。家庭環境や床のタイプに応じた選び方が提案されている。",
       "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_7879996639_1d5af34df06809dg46.html?from=digit",
-      "score": 75,
-      "commercial_score": 90,
+      "url": "https://www.sina.cn/gc/article/nixazsv7484134.html",
+      "score": 78,
+      "commercial_score": 85,
       "product_keywords": [
-        "Roborock ロボット掃除機",
-        "ロボロック Pシリーズ"
+        "Dreame ロボット掃除機",
+        "追觅 掃除機"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "ケユカの食洗機対応ステンレスマグが保温保冷性能と丸い形で好評",
-      "summary_ja": "ケユカ（KEYUCA）の「食洗機対応 pomaステンレスマグ 400ml」が高い保温力と保冷力で支持を集めている。ぽってりとした丸みのあるシルエットが特徴となっている。食洗機で丸洗いできる手軽さも備え、日常使いで人気となっている。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/allaboutnews/life/allaboutnews-166554",
-      "score": 70,
-      "commercial_score": 90,
+      "title_ja": "多機能で分解収納できる小型調理器が注目",
+      "summary_ja": "ノンフライ調理とスロークッカーの機能を併せ持つ小型調理家電「Magnifique」が紹介されている。1台で多くの調理に対応する多機能さを備えている。使用後は分解して簡単に収納できる点も評価されている。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/kitchen-and-household/review-of-glass-air-fryer-and-slow-cooker/",
+      "score": 76,
+      "commercial_score": 75,
       "product_keywords": [
-        "KEYUCA pomaステンレスマグ",
-        "食洗機対応 マグカップ"
+        "マルチクッカー",
+        "ノンフライヤー",
+        "スロークッカー"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "ニトリの160mlミニ水筒が手軽さで好評",
+      "summary_ja": "ニトリが販売する160ミリリットル容量のミニ水筒が評価を集めている。外出時にポケットへ入れて軽く持ち運べるサイズ感が好評を得ている。保温効果も備え、乾燥する季節のこまめな水分補給に役立つとされている。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/research/articles/4071170/2/",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "ニトリ ミニ水筒",
+        "ポケット水筒 160ml"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "身近な日用品を使って20分でエアフライヤーを掃除する裏技が公開",
-      "summary_ja": "家電の専門家が、身近にある一般的な日用品を使ってエアフライヤーを20分で掃除する簡単な技を公開した。手間がかかりがちな調理器具の手入れを短時間で済ませる方法として紹介されている。日々の家事の負担を減らす実用的な知識となっている。",
-      "source": "Southend Echo",
-      "url": "http://www.southendstandard.co.uk/news/26686500.expert-reveals-20-minute-cleaning-trick-air-fryers/",
-      "score": 70,
-      "commercial_score": 50,
+      "title_ja": "ディーン＆デルーカの食洗機対応弁当箱に注目",
+      "summary_ja": "ディーン＆デルーカのお弁当箱が愛用者から注目を集めている。使いやすいサイズや軽さに加え、仕切り付きで便利な点が高く評価されている。食洗機で洗える使い勝手の良さも好評を得ている。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/research/articles/4070097/",
+      "score": 72,
+      "commercial_score": 80,
       "product_keywords": [
-        "エアフライヤー クリーナー",
-        "エアフライヤー"
+        "ディーンアンドデルーカ 弁当箱",
+        "食洗機対応 弁当箱"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "京東の配送設置サービスでスマート家電急伸",
+      "summary_ja": "中国ECの京東で、配送と設置を一体化した家電サービスの利用が拡大している。待ち時間の短縮や買い替え促進策により、スマート家電の取引が急増した。実店舗と連携したサービス向上が需要を後押ししている。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1095479213_104421",
+      "score": 72,
+      "commercial_score": 70,
+      "product_keywords": [
+        "スマート家電",
+        "生活家電"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "コンロの隙間汚れを防ぐシリコンカバーが話題",
+      "summary_ja": "オーブンとキッチンカウンターの隙間を塞ぐシリコン製カバーが紹介されている。食べこぼしが隙間に落ちるのを防ぎ、害虫の発生や汚れを抑えられる。隠れた隙間を清潔に保つキッチンアイテムとして注目されている。",
+      "source": "Food & Wine",
+      "url": "https://www.foodandwine.com/lindas-essentials-silicone-stove-gap-covers-amazon-12202927",
+      "score": 70,
+      "commercial_score": 80,
+      "product_keywords": [
+        "コンロ 隙間カバー",
+        "隙間テープ キッチン",
+        "シリコン隙間ガード"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "炊飯後の蒸らしとすぐほぐす判断を解説",
+      "summary_ja": "炊飯器の炊飯終了後にすぐ開けてほぐすべきか、蒸らすべきかが議論されている。炊飯後に10分から15分蒸らす昔ながらの習慣で待つ人も少なくない。どちらがおいしく仕上がるかについて解説されている。",
+      "source": "All About（オールアバウト）",
+      "url": "https://allabout.co.jp/gm/gc/522260/",
+      "score": 68,
+      "commercial_score": 50,
+      "product_keywords": [
+        "炊飯器"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "炊飯器横にお茶碗を置く散らからない収納術",
+      "summary_ja": "調理道具や食器が集まり散らかりやすいキッチンを片付ける工夫が紹介されている。4人家族で暮らす整理収納アドバイザーが、お茶碗を炊飯器の横に置くなど出し入れしやすい工夫を提案している。散らからないキッチン作りの工夫を解説している。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/33b26da9df379c33b5530bbb1cedc11a0e850842",
+      "score": 62,
+      "commercial_score": 45,
+      "product_keywords": [
+        "キッチン収納",
+        "食器棚 収納"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }

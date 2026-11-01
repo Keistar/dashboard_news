@@ -1,0 +1,125 @@
+{
+  "feed": "trends",
+  "country": "us",
+  "country_label_ja": "アメリカ",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T16:10:15+09:00",
+  "trends": [
+    {
+      "keyword": "MacBook Neo",
+      "reason_ja": "アップルの新モデルに関する報道や年間ベストノートPCへの選出が重なり関心を集めています。",
+      "genre": "gadget",
+      "commercial_score": 92,
+      "product_keywords": [
+        "MacBook",
+        "Apple laptop",
+        "MacBook Neo"
+      ],
+      "product_keywords_ja": [
+        "MacBook",
+        "アップル ノートパソコン",
+        "MacBook Air"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "アップルが次世代ノートPCの刷新を準備",
+          "summary_ja": "アップルが主力ノートパソコンの主要ラインナップ刷新を準備していると報じられました。新型モデルの登場に向けて期待が高まっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-prepares-next-generation-mac-imac-macbook-pro-macbook-neo"
+        },
+        {
+          "title_ja": "今年を代表するノートPCに選出",
+          "summary_ja": "専門メディアによる年間アワードにて、アップルの新型ノートパソコンが受賞を果たしました。新たなトレンドを切り開く製品として高く評価されています。",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/computing/macbooks/weve-crowned-our-laptop-of-the-year-and-there-really-was-only-one-choice-the-apple-macbook-neo"
+        }
+      ]
+    },
+    {
+      "keyword": "Roborock Qrevo",
+      "reason_ja": "最新のフラッグシップロボット掃除機がセール価格で販売され注目されています。",
+      "genre": "kaji",
+      "commercial_score": 88,
+      "product_keywords": [
+        "Roborock Qrevo",
+        "robot vacuum",
+        "smart mop"
+      ],
+      "product_keywords_ja": [
+        "ロボロック",
+        "ロボット掃除機",
+        "水拭き掃除機"
+      ],
+      "trend_source": "ニュース（家電）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ロボロックの高性能掃除機が特別価格に",
+          "summary_ja": "大手通販サイトにて、最新のロボット掃除機が大幅割引価格で販売されています。吸引と水拭きの両方に対応した上位モデルが手頃に入手可能となっています。",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/oct-22-roborock-qrevo-2-pro-set-robot-vacuum-mop-deal"
+        }
+      ]
+    },
+    {
+      "keyword": "fortnite",
+      "reason_ja": "ワンピースとのコラボレーションを含む新シーズンの予告映像が公開され注目を集めています。",
+      "genre": "gadget",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Fortnite V-Bucks",
+        "One Piece merchandise",
+        "gaming console"
+      ],
+      "product_keywords_ja": [
+        "フォートナイト",
+        "ワンピース グッズ",
+        "ゲーム機"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "フォートナイト新シーズン予告が公開",
+          "summary_ja": "バトルロイヤルゲームのフォートナイトにて、新シーズンのゲームプレイトレイラーが公開されました。ワンピースとのコラボレーションや新たなマップの登場が予告されています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/videos/fortnite-official-treasure-hunters-gameplay-trailer"
+        }
+      ]
+    },
+    {
+      "keyword": "crimson desert",
+      "reason_ja": "大型DLCの配信開始と記念の無料プレイ実施により話題となっています。",
+      "genre": "gadget",
+      "commercial_score": 80,
+      "product_keywords": [
+        "Crimson Desert game",
+        "PlayStation 5",
+        "Xbox Series X"
+      ],
+      "product_keywords_ja": [
+        "クリムゾンデザート",
+        "PS5 ソフト",
+        "Xbox ゲーム"
+      ],
+      "trend_source": "Google トレンド",
+      "trend_source_type": "search",
+      "articles": [
+        {
+          "title_ja": "大型DLCの先行レビューが公開",
+          "summary_ja": "話題のアクションゲーム向けに配信された大型追加コンテンツのレビューが公開されました。豊富な新コンテンツが追加されている点が報告されています。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review"
+        },
+        {
+          "title_ja": "DLC配信を記念し期間限定で無料プレイ化",
+          "summary_ja": "大型追加コンテンツの配信開始を記念し、家庭用ゲーム機向けに期間限定で無料プレイが提供されています。人気作をお得に体験できる機会となっています。",
+          "source": "GAMINGbible",
+          "url": "https://www.gamingbible.com/news/crimson-desert-free-to-play-celebrate-dlc-launch-133980-20261030"
+        }
+      ]
+    }
+  ]
+}

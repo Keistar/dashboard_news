@@ -1,232 +1,224 @@
 {
   "genre": "ai",
   "genre_label_ja": "AI",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:34:23+09:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:34:27+09:00",
   "stories": [
     {
-      "title_ja": "アマゾンがAI搭載のアレクサ先行提供開始",
-      "summary_ja": "アマゾンジャパンは10月29日、生成AIを搭載した新しい音声アシスタント「Alexa+」の早期アクセスを国内で開始した。一度呼びかけるだけで自然に対話を続けられ、家電操作やスケジュール管理、情報検索を円滑に行える。",
-      "source": "日本ネット経済新聞",
-      "url": "https://netkeizai.com/articles/detail/20386",
-      "score": 90,
-      "commercial_score": 95,
-      "product_keywords": [
-        "Amazon Echo",
-        "スマートスピーカー",
-        "スマートホーム"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "中国版アップル知能が12月提供へ千問連携",
-      "summary_ja": "中国向け「アップル知能（Apple Intelligence）」が12月に提供開始となる見通しで、アリババのAI「通義千問」との連携が決まった。中国国内でのAIサービス提供に必要な現地規制の適応を早めるとともに、端末とクラウドの分担によってシステム全体の利便性を向上させる。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095387328_128075",
-      "score": 90,
+      "title_ja": "アップル、中国向けiPhoneにアリババの「千問」を統合",
+      "summary_ja": "アップルが中国市場においてアリババと提携し、AI機能「Apple Intelligence」に「通義千問」を組み込むことを発表した。Siriや文章作成ツール、画像認識機能などで千問の言語・画像処理能力が利用できるようになる。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixazsv7493418.shtml",
+      "score": 92,
       "commercial_score": 85,
       "product_keywords": [
         "iPhone",
-        "スマートフォン",
-        "Apple"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "生成AIが買い物の相談相手から代理人へ",
-      "summary_ja": "日本の若年層を中心に、生成AIが買い物の相談相手として定着しつつある。AIが利用者の潜在ニーズを言語化し、欲しいという購買欲求を生み出すなど、単なる相談役を超えて買い物の代理人へと役割を広げている。",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs_bb/business/tbs_bb-3038224",
-      "score": 85,
-      "commercial_score": 90,
-      "product_keywords": [
-        "AIアシスタント",
-        "スマート家電"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "華為と深蘭が世界初のAI業務スマホを発表",
-      "summary_ja": "深蘭科技は10月29日、華為（ファーウェイ）と共同開発した世界初の大規模言語モデルAIエージェント業務端末「Wowoker」を発表した。スマートフォンに高度なAIエージェント機能を組み込み、ビジネス現場での実用性を高める新たな試みとなる。",
-      "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_1914880192_7222c0c002001pum2.html?from=tech",
-      "score": 85,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ファーウェイ",
         "スマートフォン"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "米OpenAIが若者保護と暴力防止策を強化",
-      "summary_ja": "米OpenAIは、対話型AI「ChatGPT」において青少年の暴力被害を防ぐための保護対策を強化すると発表した。セーフガードの適用範囲を広げて早期介入を可能にし、公共の安全に関する定期的な報告にも取り組む。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
-      "score": 80,
-      "commercial_score": 50,
-      "product_keywords": [
-        "見守り",
-        "セキュリティソフト"
-      ],
+      "title_ja": "DeepSeek、AIが自律連携する新型エージェントを公開",
+      "summary_ja": "中国のDeepSeekが「Super-agent」と呼ばれる新しいAIエージェント構造を発表し、プロトタイプをオープンソースで公開した。単一のチャットにとどまらず、常時稼働しながら複数のタスクを並行処理し環境変化に自律対応することを目指す。",
+      "source": "浙江新闻",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202611/t20261101_32001328.shtml",
+      "score": 88,
+      "commercial_score": 60,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "OpenAI、セキュリティ対話データをAI学習に利用へ",
+      "summary_ja": "OpenAIはサイバーセキュリティ機能の対話データを、学習オフ設定のユーザーも含めてモデル学習に利用する方針を示した。反発を受けて個別の除外手段を設けると案内したものの、同意なきデータ利用への懸念が再燃している。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "score": 86,
+      "commercial_score": 45,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "中国の可霊AIが動画生成4.0と資金調達発表",
-      "summary_ja": "動画生成AIを手がける中国の可霊AIが、最新モデル「Kling 4.0」を発表するとともに198億元の資金調達を完了した。国家級ファンドや産業資本などの支援を受け、モデルの進化と商業化の推進を一段と加速させる。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095291243_430392",
-      "score": 80,
-      "commercial_score": 65,
+      "title_ja": "Anthropic、創薬やバイオ研究など生命科学分野を強化へ",
+      "summary_ja": "AnthropicはIPO関連文書の中で、Claudeが創薬や生物学研究のスピードを大きく向上させると強調した。ライフサイエンス領域を今後の重要な事業の柱として位置づけ、アピールを進めている。",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10",
+      "score": 85,
+      "commercial_score": 55,
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "音声リングや歩行外骨骼など、AIを活用した新端末が続々登場",
+      "summary_ja": "音声で操作できるスマートリングや会議内容を自動整理する端末、歩行を支援する外骨骼など新たなAI機器が展示された。日常生活やビジネスの現場を支える消費者向けAI製品の実用化が進んでいる。",
+      "source": "新浪新闻_手机新浪网",
+      "url": "https://news.sina.com.cn/zx/gj/2026-11-01/doc-inixfers4095077.shtml",
+      "score": 84,
+      "commercial_score": 85,
       "product_keywords": [
-        "動画編集",
-        "クリエイターPC"
+        "スマートリング",
+        "外骨格",
+        "AIボイスレコーダー"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "グーグルのAI半導体が宇宙で俳句を生成",
-      "summary_ja": "米グーグルは、試作衛星に搭載したAI半導体「TPU」で生成AIを動作させ、宇宙を題材にした俳句を生成することに成功したと発表した。宇宙での計算基盤構築を目指す研究の一環で、軌道上のデータセンター向け半導体からAIの応答を得たのは世界初とされる。",
-      "source": "CNET Japan",
-      "url": "https://japan.cnet.com/article/35254241/",
-      "score": 75,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "JASRACがAI生成楽曲の検知導入を検討",
-      "summary_ja": "日本音楽著作権協会（JASRAC）は、人間が創作した音楽を守るため、AIが自律的に生成した楽曲を管理対象から外す方針を進めている。この取り組みの一環として、生成AIによって作られた楽曲を検知する技術の導入を検討している。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600711",
-      "score": 75,
-      "commercial_score": 50,
-      "product_keywords": [
-        "音楽配信",
-        "DTM"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米アンソロピックがClaudeの制限を一部撤廃",
-      "summary_ja": "米アンソロピックは、認証済みのUltraユーザーを対象に対話型AI「Claude」の5時間セッション上限を撤廃した。これによりプログラミング支援などの作業を長時間続けられるようになったが、週間利用制限は継続して適用される。",
-      "source": "The New Stack",
-      "url": "https://thenewstack.io/claude-ultra-session-limit/",
-      "score": 75,
+      "title_ja": "Anthropic、Claudeによるゲームの解析や複製を制限",
+      "summary_ja": "Anthropicがゲームのリバースエンジニアリングや複製を防ぐため、Claudeに新たな制限を設けた。この制限が広範に及んでいるため、正規の開発業務や基本的なトラブルシューティング作業にも支障が出ている。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "score": 82,
       "commercial_score": 60,
       "product_keywords": [
-        "プログラミング",
-        "PCソフト"
+        "PCゲーム"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英政府がAI振興へ6億ポンド超の投資を発表",
-      "summary_ja": "英政府は、国内のAI能力を強化するため6億ポンドを超える大規模な投資パッケージを発表した。英財務相が打ち出したこの計画は、英国の技術革新を後押しするとともに安全保障の基盤強化を図ることを目的としている。",
-      "source": "Open Access Government",
-      "url": "https://www.openaccessgovernment.org/uk-chancellor-sets-out-600m-ai-investment-plan-to-boost-british-innovation-and-security/216011/",
-      "score": 75,
-      "commercial_score": 30,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "AI生成コードの脆弱性が38％に大幅改善",
-      "summary_ja": "最先端のAIモデルが生成するプログラムコードの安全性が、この1年間で初めて大幅な改善を示した。コードに含まれる脆弱性の発生率は、これまでの44％から38％へと低下している。",
-      "source": "SC Media",
-      "url": "https://www.scworld.com/brief/ai-generated-code-security-shows-first-significant-improvement-in-a-year",
-      "score": 75,
-      "commercial_score": 40,
-      "product_keywords": [
-        "パソコン",
-        "セキュリティソフト"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "特別支援学校の表現支援で生成AI活用進む",
-      "summary_ja": "宮城県内の特別支援教育の現場で、生徒の自己表現や意思疎通を補助するツールとして生成AIの導入が進んでいる。県教育委員会は生成AIを用いた絵画コンクールを開催し、学校現場での活用を後押ししている。",
-      "source": "河北新報オンライン",
-      "url": "https://kahoku.news/articles/JY6YV9RQZSKHN.html",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "タブレット端末",
-        "知育教材"
-      ],
+      "title_ja": "ソフトバンク系、国産LLM「Sarashina」初の思考モデルを発表",
+      "summary_ja": "SB Intuitionsが独自の大規模言語モデルシリーズ初となる思考モデルを発表した。無償ベータ版のAPIとして提供され、外部ツール呼び出しや検索、コーディングの処理性能を高めている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187994",
+      "score": 80,
+      "commercial_score": 55,
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "米IT大手がAI巡回拒否の新標準を支持",
-      "summary_ja": "米グーグルや米アンソロピックなどの大手IT企業が、AIによるウェブ巡回を拒否するための新たなオプトアウト標準規格を支持することを表明した。ウェブサイト管理者がAI学習へのデータ提供を拒絶しやすくする仕組みを目指す。",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-      "score": 70,
-      "commercial_score": 40,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英音楽界がAI共存に向けた生き残り策を議論",
-      "summary_ja": "英マンチェスターで開催された音楽イベントにおいて、音楽業界の指導者や政治家が集まり議論を交わした。AIが進化する時代の中で音楽文化が生き残るために必要な条件を整理し、英国が主導的な役割を果たす方策を模索している。",
-      "source": "NME",
-      "url": "https://www.nme.com/news/music/ai-music-industry-future-native-models-beyond-the-music-manchester-principles-3974661",
-      "score": 70,
-      "commercial_score": 50,
+      "title_ja": "具身AIロボット、生活導入に向け未知環境での自律移動を強化",
+      "summary_ja": "ロボットが日常生活に普及するためには、作業動作だけでなく見知らぬ環境で指示を理解して移動する能力が求められる。軽量な学習手法を取り入れ、実空間で確実に自律移動できるナビゲーション技術の開発が進んでいる。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixferu0858548.shtml",
+      "score": 80,
+      "commercial_score": 70,
       "product_keywords": [
-        "オーディオ",
-        "イヤホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "北京の教員がAIに生徒の指導法を教授",
-      "summary_ja": "数学の解答作成や作文の添削などAIの能力が高まる中、学校の教育現場では答えを知っていることと適切に指導できることの違いが課題となっている。北京海淀区の教員たちは、単なる問題解答にとどまらず生徒に寄り添った指導ができるAIの育成に取り組んでいる。",
-      "source": "京报网",
-      "url": "https://news.bjd.com.cn/2026/10/31/12013131.shtml",
-      "score": 70,
-      "commercial_score": 40,
-      "product_keywords": [
-        "電子辞書",
-        "学習参考書"
+        "家庭用ロボット",
+        "自律移動ロボット"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "米アンソロピックがゲーム複製の中止を指示",
-      "summary_ja": "米アンソロピックが自社のAI「Claude」に対し、ビデオゲームの再制作をやめるよう指示したことが利用者からの報告で明らかになった。ユーザーの間でAIによるゲームの模倣やリメイクを制限する動きが確認されている。",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "score": 65,
-      "commercial_score": 40,
-      "product_keywords": [
-        "ゲームソフト"
-      ],
+      "title_ja": "文章から図解を自動生成するWebアプリ「Napkin AI」が登場",
+      "summary_ja": "テキストを貼り付けるだけで指示文なしに図解を自動生成できる無料のWebアプリが公開された。元の文章がない場合でもテキスト生成機能で下書きを作成し、そのまま図解の編集作業を行える。",
+      "source": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp/library/software/napkinai/",
+      "score": 78,
+      "commercial_score": 65,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "Claudeの透かし機能導入が拡大、一部の旧モデルに回避の抜け道",
+      "summary_ja": "Anthropicは欧州のAI規制に対応するため、Claudeの4モデルにテキスト透かしの適用を拡大した。しかし旧世代の特定モデルではパラメータ変更で透かしを回避できる状態となっており、警告のみに留まっている。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "score": 78,
+      "commercial_score": 45,
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英でAIと検査装置がエネルギー生産を支援",
-      "summary_ja": "英国のエネルギー生産現場において、配管検査ロボットとAIを活用して生産性を高める取り組みが進んでいる。運用事業者はこうした先端技術を導入し、余剰ガスの燃焼処分を最小限に抑えつつメタン排出量の削減を進めている。",
-      "source": "Energy Live News",
-      "url": "https://www.energylivenews.com/2026/10/30/intelligent-pigs-and-ai-boosts-uk-energy-production/",
-      "score": 65,
-      "commercial_score": 30,
+      "title_ja": "出版社がAI学習を簡単に拒否できる新標準規格が検討",
+      "summary_ja": "ウェブサイトの設定に共通の識別子を導入し、複数のAI企業に対して記事の無断学習を拒否できる仕組みが提案されている。コンテンツ権利者が自らの記事の利用可否を容易に管理できるようになる。",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/new-standard-publishers-opt-out-ai-training-10945678/",
+      "score": 77,
+      "commercial_score": 40,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "画像1枚から素早く3Dモデルを作るAI「TripoSR」が公開",
+      "summary_ja": "1枚の画像データから低リソースかつ高速に3Dモデルを生成するAIモデルが共同開発された。ソースコードと重みデータが無償ライセンスで公開されており、誰でもダウンロードして利用できる。",
+      "source": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp/library/software/triposr/",
+      "score": 76,
+      "commercial_score": 60,
       "product_keywords": [
-        "省エネ"
+        "3Dプリンター"
       ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "産業特化型AIモデル、3.3億パラメータで高コスパを実現",
+      "summary_ja": "大規模な汎用AIモデルに対し、特定の産業用途に絞ることで小型かつ高いコストパフォーマンスを実現する手法が注目されている。業務課題の解決には巨大なモデルを必要としないとする実践的なアプローチが広がっている。",
+      "source": "ThePaper.cn",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34372310",
+      "score": 76,
+      "commercial_score": 60,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "北海道中央バスなど、生成AI活用の多言語音声ガイドを開発",
+      "summary_ja": "北海道中央バスとTISIは、訪日外国人観光客への案内強化に向けて生成AIを使ったモビリティ型音声ガイドを共同開発した。急増するインバウンド需要に対応し、業務の効率化と案内サービスの充実を図る。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c9c251e67199a6e01e3bbc59966dd54927a00ea3",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "音声ガイド",
+        "観光バス"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "フィットネス機器のWahoo、AI活用とランニング分野へ拡大",
+      "summary_ja": "フィットネス機器大手のWahooが、ハードウェア展開を慎重に進めつつランニング分野への進出を加速させている。AI技術に価値を見出し、今後の事業成長に向けた重要な機会として投資を検討している。",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/cycling-culture/training/wahoo-ceo-talks-finances-artificial-intelligence-and-the-companys-next-big-opportunity/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "スマートトレーナー",
+        "サイクルコンピューター",
+        "ランニングウォッチ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "デジタル庁、政府職員18万人へAI環境を整備しエージェント自作へ",
+      "summary_ja": "デジタル庁が政府職員18万人規模に向けてAI利用環境の配布を進めている。職員自身がAIエージェントを作成して業務に役立てられる体制を目指し、運用の工夫を重ねている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19944175?news_ref=search_search",
+      "score": 74,
+      "commercial_score": 40,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "医療データとAIを活用し患者ケアと診療体制の改善へ",
+      "summary_ja": "実際の医療現場から得られるデータをAIで解析し、医療提供モデルの改善や健康トレンドの把握に役立てる取り組みが注目されている。患者ケアの質を高める新たな医療支援としての活用が期待されている。",
+      "source": "InSight+",
+      "url": "https://insightplus.mja.com.au/2026/42/we-need-to-be-better-at-improving-healthcare-and-ai-can-help",
+      "score": 73,
+      "commercial_score": 50,
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "LINEヤフー子会社、生成AI前提の運営で年36万時間分の拡大に対応",
+      "summary_ja": "LINEヤフー子会社が生成AIと自動化を中心とした運営モデルへ転換することを発表した。年30万時間相当の業務効率化を土台とし、サービス品質の向上や現場のキャリア拡大を進める。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000058_000152561/",
+      "score": 72,
+      "commercial_score": 50,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "生成AIの普及が人間の創作プロセスと創造性に与える影響",
+      "summary_ja": "AIが短時間で完成度の高い芸術作品を生成できるようになった一方で、創作の過程が置き換わることによる損失を論じた論文が発表された。人間の創造性そのものの意義や価値が改めて問い直されている。",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/science/how-artificial-intelligence-is-changing-the-meaning-of-human-creativity/",
+      "score": 70,
+      "commercial_score": 40,
       "country": "gb",
       "country_label_ja": "イギリス"
     }

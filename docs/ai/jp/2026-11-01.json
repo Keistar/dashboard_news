@@ -1,0 +1,65 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:34:27+09:00",
+  "stories": [
+    {
+      "title_ja": "ソフトバンク系、国産LLM「Sarashina」初の思考モデルを発表",
+      "summary_ja": "SB Intuitionsが独自の大規模言語モデルシリーズ初となる思考モデルを発表した。無償ベータ版のAPIとして提供され、外部ツール呼び出しや検索、コーディングの処理性能を高めている。",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/187994",
+      "score": 80,
+      "commercial_score": 55
+    },
+    {
+      "title_ja": "文章から図解を自動生成するWebアプリ「Napkin AI」が登場",
+      "summary_ja": "テキストを貼り付けるだけで指示文なしに図解を自動生成できる無料のWebアプリが公開された。元の文章がない場合でもテキスト生成機能で下書きを作成し、そのまま図解の編集作業を行える。",
+      "source": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp/library/software/napkinai/",
+      "score": 78,
+      "commercial_score": 65
+    },
+    {
+      "title_ja": "画像1枚から素早く3Dモデルを作るAI「TripoSR」が公開",
+      "summary_ja": "1枚の画像データから低リソースかつ高速に3Dモデルを生成するAIモデルが共同開発された。ソースコードと重みデータが無償ライセンスで公開されており、誰でもダウンロードして利用できる。",
+      "source": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp/library/software/triposr/",
+      "score": 76,
+      "commercial_score": 60,
+      "product_keywords": [
+        "3Dプリンター"
+      ]
+    },
+    {
+      "title_ja": "北海道中央バスなど、生成AI活用の多言語音声ガイドを開発",
+      "summary_ja": "北海道中央バスとTISIは、訪日外国人観光客への案内強化に向けて生成AIを使ったモビリティ型音声ガイドを共同開発した。急増するインバウンド需要に対応し、業務の効率化と案内サービスの充実を図る。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c9c251e67199a6e01e3bbc59966dd54927a00ea3",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "音声ガイド",
+        "観光バス"
+      ]
+    },
+    {
+      "title_ja": "デジタル庁、政府職員18万人へAI環境を整備しエージェント自作へ",
+      "summary_ja": "デジタル庁が政府職員18万人規模に向けてAI利用環境の配布を進めている。職員自身がAIエージェントを作成して業務に役立てられる体制を目指し、運用の工夫を重ねている。",
+      "source": "ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19944175?news_ref=search_search",
+      "score": 74,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "LINEヤフー子会社、生成AI前提の運営で年36万時間分の拡大に対応",
+      "summary_ja": "LINEヤフー子会社が生成AIと自動化を中心とした運営モデルへ転換することを発表した。年30万時間相当の業務効率化を土台とし、サービス品質の向上や現場のキャリア拡大を進める。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000058_000152561/",
+      "score": 72,
+      "commercial_score": 50
+    }
+  ]
+}
