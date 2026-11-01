@@ -1,0 +1,105 @@
+{
+  "feed": "trends",
+  "country": "jp",
+  "country_label_ja": "日本",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T16:10:15+09:00",
+  "trends": [
+    {
+      "keyword": "ブラックフライデー",
+      "reason_ja": "物価高を背景に、年末商戦の本格化に先駆けて各社がセールを開始したことで注目が集まっています。",
+      "genre": "sale",
+      "commercial_score": 95,
+      "product_keywords": [
+        "ブラックフライデー",
+        "セール",
+        "ゲーミングPC"
+      ],
+      "product_keywords_ja": [
+        "ブラックフライデー",
+        "セール",
+        "ゲーミングPC"
+      ],
+      "trend_source": "ニュース（セール）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "流通大手がブラックフライデーを先行開始",
+          "summary_ja": "米国発祥の大型商戦に向け、一部の流通大手が先行してセールを始めています。物価高により節約志向が高まる中、各社はクーポンなどで消費者の獲得を狙っています。",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6600845"
+        },
+        {
+          "title_ja": "フロンティアでブラックフライデーセール開催",
+          "summary_ja": "フロンティアの公式通販サイトにてブラックフライデーセールが開催されています。最新グラフィックボードを搭載したゲーミングパソコンがお得な価格で登場しています。",
+          "source": "ファミ通",
+          "url": "https://www.famitsu.com/article/202610/92599"
+        }
+      ]
+    },
+    {
+      "keyword": "クリスマスコフレ",
+      "reason_ja": "デパートコスメ各社から限定ポーチ付きのキットやフレグランスセットが発表され関心を集めています。",
+      "genre": "beauty",
+      "commercial_score": 94,
+      "product_keywords": [
+        "クリスマスコフレ",
+        "ホリデーコスメ",
+        "限定キット"
+      ],
+      "product_keywords_ja": [
+        "クリスマスコフレ",
+        "ホリデーコレクション",
+        "限定コスメ"
+      ],
+      "trend_source": "ニュース（美容）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気ブランドの限定ポーチ付きコフレ特集",
+          "summary_ja": "人気コスメブランドから登場する限定ポーチやバッグ付きのコフレが紹介されています。限定色のコスメを詰め込んだ豪華なセットなどが注目されています。",
+          "source": "ファッションプレス",
+          "url": "https://www.fashion-press.net/news/152564"
+        },
+        {
+          "title_ja": "ドルセーから限定ポーチ付きのフレグランス",
+          "summary_ja": "フランスのフレグランスブランドから限定ポーチ付きの香水セットが登場します。森をイメージしたキャンドルなども展開されます。",
+          "source": "ファッションプレス",
+          "url": "https://www.fashion-press.net/news/152748"
+        }
+      ]
+    },
+    {
+      "keyword": "リップモンスター",
+      "reason_ja": "ケイトから高保湿の新作リップが登場し、色味や質感のレビューが話題となっています。",
+      "genre": "beauty",
+      "commercial_score": 92,
+      "product_keywords": [
+        "リップモンスターQ",
+        "ケイト リップ",
+        "口紅"
+      ],
+      "product_keywords_ja": [
+        "リップモンスター",
+        "ケイト リップ",
+        "口紅"
+      ],
+      "trend_source": "ニュース（美容）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ケイトの新作リップモンスターQが登場",
+          "summary_ja": "ケイトから秋の新作として高保湿なリップが登場しました。クリーミーな質感とうるおいが特徴で、パーソナルカラーに合わせた色選びが注目を集めています。",
+          "source": "MAQUIA",
+          "url": "https://maquia.hpplus.jp/makeup/matome/123688/"
+        },
+        {
+          "title_ja": "リップモンスターQの全色レビュー公開",
+          "summary_ja": "発売されたケイトの新作リップ全三色の発色や仕上がりが紹介されています。うるおい感のあるツヤとクリーミーな塗り心地が評価されています。",
+          "source": "MAQUIA",
+          "url": "https://maquia.hpplus.jp/blog/riho_maquia/123794/"
+        }
+      ]
+    }
+  ]
+}

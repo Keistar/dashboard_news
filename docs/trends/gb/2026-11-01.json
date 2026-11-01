@@ -1,0 +1,125 @@
+{
+  "feed": "trends",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T16:10:15+09:00",
+  "trends": [
+    {
+      "keyword": "Boots No7 Advent Calendar",
+      "reason_ja": "大手ドラッグストアの豪華なホリデー向けスキンケアギフトセットが大幅値引きで話題を集めています。",
+      "genre": "beauty",
+      "commercial_score": 92,
+      "product_keywords": [
+        "Boots No7",
+        "Advent Calendar",
+        "skincare gift set"
+      ],
+      "product_keywords_ja": [
+        "アドベントカレンダー",
+        "スキンケア コフレ",
+        "クリスマスコフレ"
+      ],
+      "trend_source": "ニュース（美容）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "人気ブランドのクリスマスセットに購入殺到",
+          "summary_ja": "人気コスメブランドのベストセラーを集めた限定ギフトセットが登場しました。専用ポーチ付きで手頃な価格設定となっているため注目を集めています。",
+          "source": "Liverpool Echo",
+          "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/boots-clinique-christmas-shopping-buy-34838431"
+        },
+        {
+          "title_ja": "人気コスメの豪華ギフトセットが大幅割引",
+          "summary_ja": "大手ドラッグストアにて、高級スキンケアセットが割引コード利用でお得に購入できると話題になっています。定価よりも大幅に安く手に入るため人気を集めています。",
+          "source": "Manchester Evening News",
+          "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/boots-no7-shoppers-race-buy-34835319"
+        }
+      ]
+    },
+    {
+      "keyword": "Bose QuietComfort Ultra",
+      "reason_ja": "ボーズの最上位ノイズキャンセリングヘッドホンが過去最安値水準のセール価格となり注目されています。",
+      "genre": "gadget",
+      "commercial_score": 90,
+      "product_keywords": [
+        "Bose QuietComfort Ultra",
+        "noise cancelling headphones",
+        "wireless headphones"
+      ],
+      "product_keywords_ja": [
+        "Bose ノイズキャンセリング",
+        "ワイヤレスヘッドホン",
+        "ボーズ ヘッドホン"
+      ],
+      "trend_source": "ニュース（ガジェット）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "ボーズの最上位ヘッドホンが異例のセール",
+          "summary_ja": "音響機器ブランドの旗艦ヘッドホンが異例の特別セール価格で販売されています。これまでで最も手頃な価格設定になっているとして注目を集めています。",
+          "source": "Gear Patrol",
+          "url": "https://www.gearpatrol.com/audio/bose-quietcomfort-ultra-headphones-2nd-gen-deal/"
+        },
+        {
+          "title_ja": "旗艦モデルを含むヘッドホンが大幅値引き",
+          "summary_ja": "ブランドの主力ヘッドホンシリーズが大幅な割引価格で提供されています。高性能なノイズキャンセリングモデルをお得に入手できる好機となっています。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/bose-deals-october-2026/"
+        }
+      ]
+    },
+    {
+      "keyword": "Ninja Toaster",
+      "reason_ja": "グリルやパニーニプレスとしても使える多機能トースターが秋の時短調理機器として注目されています。",
+      "genre": "kaji",
+      "commercial_score": 88,
+      "product_keywords": [
+        "Ninja Foodi Toaster",
+        "panini press",
+        "3-in-1 toaster"
+      ],
+      "product_keywords_ja": [
+        "トースター パニーニ",
+        "マルチトースター",
+        "ホットサンドメーカー"
+      ],
+      "trend_source": "ニュース（家電）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "一台三役の多機能トースターが話題に",
+          "summary_ja": "トースターだけでなくグリルやパニーニプレスとしても機能する調理家電が評価されています。朝食や軽食作りを素早くこなせる時短アイテムとして人気です。",
+          "source": "Woman & Home",
+          "url": "https://www.womanandhome.com/homes/kitchen/ninja-foodi-3-in-1-toaster-grill-panini-press/"
+        }
+      ]
+    },
+    {
+      "keyword": "Starbucks Red Cups",
+      "reason_ja": "英国スタバに米国発祥の人気ホリデードリンクが初上陸することが発表され話題を呼んでいます。",
+      "genre": "food",
+      "commercial_score": 85,
+      "product_keywords": [
+        "Starbucks festive drink",
+        "Peppermint Mocha",
+        "holiday cup"
+      ],
+      "product_keywords_ja": [
+        "スターバックス ホリデー",
+        "ペパーミントモカ",
+        "スタバ タンブラー"
+      ],
+      "trend_source": "ニュース（フード）",
+      "trend_source_type": "news",
+      "articles": [
+        {
+          "title_ja": "スタバの定番ホリデードリンクが英初上陸",
+          "summary_ja": "米国で人気の高い名物クリスマスドリンクが英国で初めて提供されることが決まりました。新たなホリデー向けドリンクやフードも合わせて展開されます。",
+          "source": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/10/30/starbucks-confirms-iconic-american-christmas-drink-finally-coming-uk-29753496/"
+        }
+      ]
+    }
+  ]
+}

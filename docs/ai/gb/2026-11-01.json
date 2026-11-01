@@ -1,0 +1,47 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "gb",
+  "country_label_ja": "イギリス",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:34:27+09:00",
+  "stories": [
+    {
+      "title_ja": "出版社がAI学習を簡単に拒否できる新標準規格が検討",
+      "summary_ja": "ウェブサイトの設定に共通の識別子を導入し、複数のAI企業に対して記事の無断学習を拒否できる仕組みが提案されている。コンテンツ権利者が自らの記事の利用可否を容易に管理できるようになる。",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/new-standard-publishers-opt-out-ai-training-10945678/",
+      "score": 77,
+      "commercial_score": 40
+    },
+    {
+      "title_ja": "フィットネス機器のWahoo、AI活用とランニング分野へ拡大",
+      "summary_ja": "フィットネス機器大手のWahooが、ハードウェア展開を慎重に進めつつランニング分野への進出を加速させている。AI技術に価値を見出し、今後の事業成長に向けた重要な機会として投資を検討している。",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/cycling-culture/training/wahoo-ceo-talks-finances-artificial-intelligence-and-the-companys-next-big-opportunity/",
+      "score": 75,
+      "commercial_score": 80,
+      "product_keywords": [
+        "スマートトレーナー",
+        "サイクルコンピューター",
+        "ランニングウォッチ"
+      ]
+    },
+    {
+      "title_ja": "医療データとAIを活用し患者ケアと診療体制の改善へ",
+      "summary_ja": "実際の医療現場から得られるデータをAIで解析し、医療提供モデルの改善や健康トレンドの把握に役立てる取り組みが注目されている。患者ケアの質を高める新たな医療支援としての活用が期待されている。",
+      "source": "InSight+",
+      "url": "https://insightplus.mja.com.au/2026/42/we-need-to-be-better-at-improving-healthcare-and-ai-can-help",
+      "score": 73,
+      "commercial_score": 50
+    },
+    {
+      "title_ja": "生成AIの普及が人間の創作プロセスと創造性に与える影響",
+      "summary_ja": "AIが短時間で完成度の高い芸術作品を生成できるようになった一方で、創作の過程が置き換わることによる損失を論じた論文が発表された。人間の創造性そのものの意義や価値が改めて問い直されている。",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/science/how-artificial-intelligence-is-changing-the-meaning-of-human-creativity/",
+      "score": 70,
+      "commercial_score": 40
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "genre": "ai",
+  "genre_label_ja": "AI",
+  "country": "cn",
+  "country_label_ja": "中国",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:34:27+09:00",
+  "stories": [
+    {
+      "title_ja": "アップル、中国向けiPhoneにアリババの「千問」を統合",
+      "summary_ja": "アップルが中国市場においてアリババと提携し、AI機能「Apple Intelligence」に「通義千問」を組み込むことを発表した。Siriや文章作成ツール、画像認識機能などで千問の言語・画像処理能力が利用できるようになる。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixazsv7493418.shtml",
+      "score": 92,
+      "commercial_score": 85,
+      "product_keywords": [
+        "iPhone",
+        "スマートフォン"
+      ]
+    },
+    {
+      "title_ja": "DeepSeek、AIが自律連携する新型エージェントを公開",
+      "summary_ja": "中国のDeepSeekが「Super-agent」と呼ばれる新しいAIエージェント構造を発表し、プロトタイプをオープンソースで公開した。単一のチャットにとどまらず、常時稼働しながら複数のタスクを並行処理し環境変化に自律対応することを目指す。",
+      "source": "浙江新闻",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202611/t20261101_32001328.shtml",
+      "score": 88,
+      "commercial_score": 60
+    },
+    {
+      "title_ja": "音声リングや歩行外骨骼など、AIを活用した新端末が続々登場",
+      "summary_ja": "音声で操作できるスマートリングや会議内容を自動整理する端末、歩行を支援する外骨骼など新たなAI機器が展示された。日常生活やビジネスの現場を支える消費者向けAI製品の実用化が進んでいる。",
+      "source": "新浪新闻_手机新浪网",
+      "url": "https://news.sina.com.cn/zx/gj/2026-11-01/doc-inixfers4095077.shtml",
+      "score": 84,
+      "commercial_score": 85,
+      "product_keywords": [
+        "スマートリング",
+        "外骨格",
+        "AIボイスレコーダー"
+      ]
+    },
+    {
+      "title_ja": "具身AIロボット、生活導入に向け未知環境での自律移動を強化",
+      "summary_ja": "ロボットが日常生活に普及するためには、作業動作だけでなく見知らぬ環境で指示を理解して移動する能力が求められる。軽量な学習手法を取り入れ、実空間で確実に自律移動できるナビゲーション技術の開発が進んでいる。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixferu0858548.shtml",
+      "score": 80,
+      "commercial_score": 70,
+      "product_keywords": [
+        "家庭用ロボット",
+        "自律移動ロボット"
+      ]
+    },
+    {
+      "title_ja": "産業特化型AIモデル、3.3億パラメータで高コスパを実現",
+      "summary_ja": "大規模な汎用AIモデルに対し、特定の産業用途に絞ることで小型かつ高いコストパフォーマンスを実現する手法が注目されている。業務課題の解決には巨大なモデルを必要としないとする実践的なアプローチが広がっている。",
+      "source": "ThePaper.cn",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34372310",
+      "score": 76,
+      "commercial_score": 60
+    }
+  ]
+}

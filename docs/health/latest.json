@@ -1,257 +1,297 @@
 {
   "genre": "health",
   "genre_label_ja": "健康・フィットネス",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:55:26+09:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:52:48+09:00",
   "stories": [
     {
-      "title_ja": "シャオミが睡眠改善を提案する最新スマートバンドを発表",
-      "summary_ja": "シャオミ・ジャパンは、睡眠データや生活習慣を分析して改善策を提案するスマートバンド「Xiaomi Smart Band 11」を発表した。通常モデルが7980円、セラミックエディションが1万800円で、11月4日に発売される。",
-      "source": "CNET Japan",
-      "url": "https://japan.cnet.com/article/35254215/",
-      "score": 85,
-      "commercial_score": 95,
+      "title_ja": "ファーウェイが健康指標を短時間で測る最新ウォッチ発売",
+      "summary_ja": "ファーウェイ・ジャパンは最上位スマートウォッチ「HUAWEI WATCH 6」を2026年11月5日に発売します。最大9つの健康指標を60秒で確認できる管理機能や多彩な運動測定機能を備えています。46ミリなどのモデルが展開されます。",
+      "source": "@DIME アットダイム",
+      "url": "https://dime.jp/genre/2166032/",
+      "score": 80,
+      "commercial_score": 85,
       "product_keywords": [
-        "スマートバンド",
-        "シャオミ",
-        "スマートウォッチ"
+        "スマートウォッチ",
+        "ファーウェイ",
+        "HUAWEI WATCH"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "少量飲酒でも健康リスク上昇か、新研究が酒量抑制を警告",
-      "summary_ja": "新たな研究により、一般に適量とされる1日2杯程度の飲酒でも、がんや心臓病、早期死亡などのリスクが高まる可能性があると警告された。健康のためには飲酒量は「少ないほどよい」と示されている。",
-      "source": "SmartNews",
-      "url": "https://www.smartnews.com/news/article/5007068442172331202-1%E6%97%A52%E6%9D%AF%E3%81%A7%E3%82%82%E5%81%A5%E5%BA%B7%E3%83%AA%E3%82%B9%E3%82%AF%E9%AB%98%E3%81%BE%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%80%E9%85%92%E9%87%8F%E3%81%AF%E3%80%8C%E5%B0%91%E3%81%AA%E3%81%84%E3%81%BB%E3%81%A9%E3%82%88%E3%81%84%E3%80%8D%E3%80%80%E6%96%B0%E7%A0%94%E7%A9%B6%E3%81%8C%E8%AD%A6%E5%91%8A",
-      "score": 78,
-      "commercial_score": 20,
+      "title_ja": "自分に合う睡眠時間の見極め方を専門家が解説",
+      "summary_ja": "「7時間睡眠が最適」といわれる一方で、十分眠っても疲労が抜けない人もいます。大切なのは一般的な目安に合わせるのではなく、自分に適した睡眠時間を見極めることです。専門家が死亡率との関係や自分に合う睡眠の判断法を解説しています。",
+      "source": "朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVBX2QQQVBXDIFI00FM.html",
+      "score": 75,
+      "commercial_score": 40,
       "product_keywords": [
-        "ノンアルコールビール",
-        "休肝日"
+        "安眠枕",
+        "マットレス"
       ],
       "country": "jp",
       "country_label_ja": "日本"
     },
     {
-      "title_ja": "英リーズで喫煙歴ある9万人対象に肺がん検診を開始",
-      "summary_ja": "英国リーズで、55歳から74歳の喫煙者および喫煙経験者9万人を対象としたNHSの肺がん検診プログラムが始まった。移動式のCTスキャン車を活用して早期発見を図り、多くの命を救うことを目指す。",
-      "source": "National Health Executive",
-      "url": "https://www.nationalhealthexecutive.com/articles/leeds-launches-major-nhs-lung-cancer-screening-programme-aimed-saving-hundreds-lives",
-      "score": 78,
-      "commercial_score": 20,
-      "country": "gb",
-      "country_label_ja": "イギリス"
+      "title_ja": "運動と栄養の組み合わせが高齢者の認知機能維持に効果",
+      "summary_ja": "4000人以上の高齢者を対象とした2026年のメタ分析研究が公表されました。運動と栄養面への介入を組み合わせることで、認知機能が大幅に向上することが示されています。加齢に伴う脳の健康維持に向けた有効なアプローチとして注目されます。",
+      "source": "MindBodyGreen",
+      "url": "https://www.mindbodygreen.com/articles/stop-choosing-between-fitness-and-diet-both-help-aging-brain-as-you-age",
+      "score": 75,
+      "commercial_score": 55,
+      "product_keywords": [
+        "DHA サプリメント",
+        "健康食品"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "野菜や果物の皮や茎に豊富な食物繊維、米研究で確認",
-      "summary_ja": "新たな研究により、果物や野菜の皮、種、茎には多くの食物繊維が含まれていることが明らかになった。食材を無駄なく安全に取り入れることで、日々の栄養補給に役立てることが推奨されている。",
-      "source": "Everyday Health",
-      "url": "https://www.everydayhealth.com/diet-nutrition/for-more-fiber-dont-scrap-fruit-and-vegetable-peels/",
-      "score": 76,
+      "title_ja": "コーヒー習慣が腸内環境や気分に影響を与える可能性",
+      "summary_ja": "日々のコーヒー摂取が覚醒作用だけでなく気分や認知機能に変化をもたらすという研究結果が示されました。カフェイン入りだけでなくカフェインレスのコーヒーでも、腸内細菌やストレス度合いとの関連が見られたと報告されています。専門家が脳や身体への影響について見解を述べています。",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/food-drink/daily-coffee-habit-affect-brain-mood-unexpected-ways-study-finds",
+      "score": 75,
       "commercial_score": 70,
       "product_keywords": [
-        "食物繊維",
-        "ファイバー",
-        "ジューサー"
+        "コーヒー豆",
+        "デカフェ",
+        "カフェインレスコーヒー"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "AIチャットボットが不要な医療検査を特定できると判明",
-      "summary_ja": "イスラエルの研究チームにより、AIチャットボットが不必要な医療検査を見分けられることが示された。過剰な検査は患者に不安を与えたり不要な治療につながる懸念があり、AIによる適切な検査判断の支援が期待されている。",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/health-and-wellness/article-913210",
+      "title_ja": "マイクロプラスチックが体内で炎症を引き起こす要因",
+      "summary_ja": "マイクロプラスチックは従来考えられていたよりも化学的に揮発しやすい性質を持つことが新たな研究で明らかになりました。この特性が生体内の炎症や疾患の発生に関与している可能性が示唆されています。人体への健康影響を解明する手がかりとして注目されています。",
+      "source": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/31102026/microplastics-human-health-dangers/",
       "score": 75,
-      "commercial_score": 30,
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "完全菜食主義者で腸内細菌の多様性が低い傾向、米研究",
-      "summary_ja": "新たな研究により、完全菜食主義（ヴィーガン）を続ける人の腸内細菌叢の多様性が予想に反して低いことが分かった。体調維持には腸内フローラのバランスが重要とされている。",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20261030/Study-finds-unexpected-lower-gut-bacterial-diversity-in-vegans.aspx",
-      "score": 74,
-      "commercial_score": 65,
+      "commercial_score": 40,
       "product_keywords": [
-        "プロバイオティクス",
-        "乳酸菌サプリ",
-        "腸活"
+        "浄水器",
+        "ガラス 保存容器"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "重慶で中医学の伝統療法を体験する健康イベントが開幕",
-      "summary_ja": "重慶市璧山区で、中医学の伝統的な技法43項目を披露する健康イベントが開催された。会場ではヨモギや白芷などの生薬が展示され、医師によるお灸や推拿（整体マッサージ）の実演、薬膳香袋づくりなどの体験が行われた。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095307202_120578424",
-      "score": 74,
-      "commercial_score": 75,
+      "title_ja": "高強度ウォーキングが通常歩行より虚弱改善に高い効果",
+      "summary_ja": "早歩きなどの高強度ウォーキングは、通常の歩行に比べてフレイル（虚弱状態）の改善により効果的であるとする研究結果が発表されました。健康的なエイジングを目指す上で、日常の運動習慣に高強度の歩行を取り入れる方法が紹介されています。週の生活リズムに無理なく組み込む工夫が提案されています。",
+      "source": "Yahoo Health",
+      "url": "https://health.yahoo.com/wellness/healthy-aging/articles/type-walking-better-healthy-aging-120000507.html",
+      "score": 75,
+      "commercial_score": 60,
       "product_keywords": [
-        "お灸",
-        "ツボ押し",
-        "漢方"
+        "ウォーキングポール",
+        "スマートウォッチ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "中国家電大手が最新のスマートマッサージ機器を展示",
+      "summary_ja": "健康機器メーカーの栄泰健康（RONGTAI）が広州交易会で最新のスマートマッサージチェアなどを披露しました。11インチのスマート操作画面や4D駆動メカニズム、165度フレキシブルレールなどを搭載した主力機種が展示されています。日常生活の疲労回復や健康管理を支援する機器としてアピールされています。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1095704468_122014422",
+      "score": 75,
+      "commercial_score": 85,
+      "product_keywords": [
+        "マッサージチェア",
+        "マッサージ器"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "貯蓄や借金返済がメンタルヘルスを改善、米研究で明らかに",
-      "summary_ja": "新たな研究により、貯蓄を増やしたり借金を返済したりすることがストレスを和らげ、精神的な健康を高めることが示された。経済的な健全化が心の健康維持にも寄与するとされている。",
-      "source": "money.com",
-      "url": "https://money.com/smart-money-habits-mental-health-study/",
-      "score": 72,
+      "title_ja": "健康診断結果の正しい見方と注目のオプション検査",
+      "summary_ja": "健康診断の結果における重要な判定や数値の確認ポイントが紹介されました。自身のリスクに応じたおすすめのオプション検査についても触れられています。専門医が結果の正しい読み解き方を解説しています。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/059fff69392fb4917b0482436053832831b41ecc",
+      "score": 70,
       "commercial_score": 30,
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "ジム不要の坂道ダッシュで筋力と心肺機能を鍛える方法",
+      "summary_ja": "39歳の元五輪走り幅跳び選手が、筋力や全身の持久力を取り戻すために坂道ダッシュ（ヒルスプリント）を取り入れています。専用ジムに通わなくても筋力と心肺機能の両方を高められるトレーニング法として取り上げられています。運動不足の解消やコンディショニング再建の手段として解説されています。",
+      "source": "Men's Health",
+      "url": "https://www.menshealth.com/uk/fitness/cardio-exercise/a74296255/greg-rutherford-hill-sprints/",
+      "score": 70,
+      "commercial_score": 50,
       "product_keywords": [
-        "家計簿",
-        "貯金箱"
+        "ランニングシューズ",
+        "スポーツウェア"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "英国NHSアプリ、視覚障害者らから利用しづらいとの指摘",
-      "summary_ja": "英国の眼科保健と視覚障害に関する超党派議員連盟（APPG）の調査で、NHSアプリのアクセシビリティ不足が報告された。調査に応じた人の半数以上が、アプリを「利用できない」または「ほとんど利用できない」と評価している。",
-      "source": "Association of Optometrists (AOP)",
-      "url": "https://www.aop.org.uk/ot/news/2026/10/30/accessibility-failings-in-nhs-app-appg-report-says",
-      "score": 72,
+      "title_ja": "電子タバコ販売規制に伴い禁煙支援アプリの提供開始",
+      "summary_ja": "英国ウェールズで18歳未満への電子タバコやニコチンパウチの販売禁止、大幅な値引き規制などが施行されました。これに合わせて、電子タバコをやめたい人を支援するNHSの無料アプリが提供されています。若年層の健康保護と禁煙を後押しする施策が進められています。",
+      "source": "Wrexham.com",
+      "url": "https://wrexham.com/news/free-nhs-app-help-to-quit-vaping-launched-as-new-sales-rules-start-301622.html",
+      "score": 70,
+      "commercial_score": 30,
+      "product_keywords": [
+        "禁煙 パッチ",
+        "禁煙 パイポ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "初期の精神疾患を調べる英国初の専門クリニックが開設",
+      "summary_ja": "英オックスフォードのウォーンフォード病院に、初発精神病のバイオマーカー検査を行う専門クリニックが開設されました。国内初となる拠点として、早期の診断や状態把握を支援します。迅速な治療介入やメンタルヘルスの改善につながることが期待されています。",
+      "source": "Oxford Mail",
+      "url": "https://www.oxfordmail.co.uk/news/26675143.oxford-launches-uk-first-clinic-psychosis-care/",
+      "score": 70,
       "commercial_score": 15,
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "中国の大学でVR機器を活用したメンタルケア体験を実施",
-      "summary_ja": "陝西服装工程学院の健康学院で、新入生がピコ（PICO）のVRヘッドセットを装着して心理シナリオを体験する取り組みが行われた。学生らはリラックス室でバイオフィードバック機器なども体験し、科学技術を活用したストレス軽減法を学んだ。",
-      "source": "Nweon",
-      "url": "https://news.nweon.com/143918",
-      "score": 72,
-      "commercial_score": 80,
-      "product_keywords": [
-        "VRゴーグル",
-        "VRヘッドセット",
-        "PICO"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "話題のリカバリーウェアの生地感や着心地を編集部が検証",
-      "summary_ja": "睡眠時の着用で話題を集める人気のリカバリーウェアについて、美容誌「VOCE」の編集部員が実際に試して生地感などを比較検証した。SNSなどで注目される機能性ウェアの実用性を確かめている。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/ccb164b85f37df1740a3c455791dbec5c8a4b0bd",
+      "title_ja": "英当局が副作用リスクから降圧薬の一部ロットを自主回収",
+      "summary_ja": "英国の医薬品・医療製品規制庁（MHRA）は、降圧薬レルカニジピンの特定ロットについて自主回収と注意喚起を行いました。患者や医療関係者に対して速やかな確認が呼びかけられています。副作用への懸念から即時対応が求められています。",
+      "source": "Cambridge News",
+      "url": "https://www.cambridge-news.co.uk/news/health/lercanidipine-batch-blood-pressure-tablets-34844936",
       "score": 70,
-      "commercial_score": 90,
+      "commercial_score": 15,
       "product_keywords": [
-        "リカバリーウェア",
-        "パジャマ",
-        "ルームウェア"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ピラティスで鍛えにくい体幹や姿勢を改善、専門家が解説",
-      "summary_ja": "理学療法士がピラティスによる健康やフィットネスへの利点を解説した。普段の運動で見落とされがちな筋肉や体幹を鍛えることで、姿勢の改善や身体の強化につながるとしている。",
-      "source": "Yahoo Health",
-      "url": "https://health.yahoo.com/your-body/womens-health/endometriosis/articles/m-physical-therapist-trainer-6-184800546.html",
-      "score": 70,
-      "commercial_score": 80,
-      "product_keywords": [
-        "ピラティス",
-        "ヨガマット",
-        "フォームローラー"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英自治体が冬期の持病管理とワクチン接種の重要性を喚起",
-      "summary_ja": "英国のグレーター・マンチェスターNHSは、冬場における持病や慢性疾患の健康管理について注意を呼びかけた。継続的な健康問題を抱える人々に向けて、各種ワクチンの最新接種を保つことが不可欠であると促している。",
-      "source": "Marketing Stockport",
-      "url": "https://marketingstockport.co.uk/news/nhs-greater-manchester-how-to-manage-long-term-health-conditions-in-winter/",
-      "score": 70,
-      "commercial_score": 25,
-      "product_keywords": [
-        "加湿器",
-        "体温計"
+        "家庭用 血圧計"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "北九州市が市内の薬局に女性の健康相談窓口を設置へ",
-      "summary_ja": "北九州市は、10月29日に市内の薬局へ「女性の健康相談窓口」を設置する計画を公表した。地域の薬局を通じて、女性特有の健康上の悩みに対応する体制づくりを進める。",
-      "source": "ドラビズ on-line",
-      "url": "https://www.dgs-on-line.com/articles/3383",
-      "score": 68,
-      "commercial_score": 30,
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "米学生が健康や食事管理を統合するフィットネスアプリ開発",
-      "summary_ja": "テキサス工科大学の学生3人が、フィットネスアプリ「Glide and fitness」を開発した。健康状態の記録や食事計画、日々の目標管理を1つのアプリにまとめて管理できる設計となっている。",
-      "source": "EverythingLubbock.com",
-      "url": "https://www.everythinglubbock.com/news/latest/texas-tech-students-launch-all-in-one-fitness-app/",
-      "score": 68,
-      "commercial_score": 60,
-      "product_keywords": [
-        "スマートウォッチ",
-        "体組成計"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "英医療技術企業が臨床連携基盤の開発でNHS資金を獲得",
-      "summary_ja": "ヘルステック企業のフィードバック社は、臨床コラボレーション基盤「Bleepa」の開発に向けてNHSからの資金を確保した。12万7000ポンドの契約延長に加え、さらに24万9000ポンドの追加支援を受けて開発を進める。",
-      "source": "Health Tech World",
-      "url": "https://htworld.co.uk/news/digital-health/feedback-secures-nhs-funding-to-develop-bleepa-platform-mipo26/",
-      "score": 68,
-      "commercial_score": 25,
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "広州の病院と地域が高齢者向け健康コミュニティを開設",
-      "summary_ja": "中山大学付属第一医院の健康管理センターと広州市越秀区の街道が連携し、高齢者向けの健康体験プログラムを開始した。地域コミュニティの文化空間を活用し、住民が主体的に健康維持に取り組む新たなモデルを推進している。",
+      "title_ja": "医療と運動を結びつけた健康指導センターが中国で開設",
+      "summary_ja": "中国の地域コミュニティで運動促進健康センターが始動し、医療とスポーツを融合させた健康づくりが進められています。住民は施設で体力測定を行い、身近な地域で健康相談や具体的な運動処方箋を受け取れます。無理なく継続できる科学的な運動の実践を後押ししています。",
       "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095342341_161795",
-      "score": 68,
-      "commercial_score": 25,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "深圳で健康知識を生活に届ける参加型健康イベント開催",
-      "summary_ja": "深圳市福田区で、専門医療機関と地域が連携した健康普及イベントが開催された。「健康を箱に詰めて持ち帰る」をテーマに、健康相談や体験型ゲームなどを通じて、市民が日々の生活で実践できる健康管理能力の向上を促している。",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095259957_100116740",
-      "score": 66,
+      "url": "https://www.sohu.com/a/1095683987_121448078",
+      "score": 70,
       "commercial_score": 35,
       "product_keywords": [
-        "血圧計",
-        "健康手帳"
+        "フィットネスバンド",
+        "活動量計"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "松山市で健康や美容の最新商品が集まる健康フェスタ開催",
-      "summary_ja": "愛媛県松山市で、健康や美容に関連する最新の商品を集めたイベント「健康フェスタ」が開催されている。会場には薬剤師の体験コーナーなども設けられている。",
-      "source": "日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/n/rnb/category/society/rb4ac749cb221147de8ea86fc157faf2ee",
-      "score": 65,
-      "commercial_score": 75,
+      "title_ja": "目の健康と医療イノベーションを議論する国際会議が開幕",
+      "summary_ja": "2026年視覚健康イノベーション発展国際会議が10月30日に中国温州で開幕しました。世界の眼科医療専門家が集まり、眼の健康分野における最新技術や産業発展の成果が共有されています。研究成果の実用化と視覚ケアの普及促進を目指した取り組みが進められています。",
+      "source": "欧洲头条",
+      "url": "https://www.xinouzhou.com/wenzhang/185562-2026shi-jue-jian-kang-chuang-xin-fa-zhan-guo-ji-hui-yi-zai-wen-zhou-kai-mu-zhong-guo-yan-gu-liang-chu-liu-nian-cheng-ji-dan",
+      "score": 70,
+      "commercial_score": 45,
       "product_keywords": [
-        "健康グッズ",
-        "美容グッズ"
+        "アイマッサージャー",
+        "ホットアイマスク",
+        "PCメガネ"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "内向的な子どもが安心して通える運動教室が山形で開始",
+      "summary_ja": "山形県天童市で人見知りや内向的な性格の子どもを対象とした運動教室が始まりました。自己表現が苦手な子どもたちが運動を楽しみ、自信を育むことを目指しています。安心して参加できるレッスン環境が整えられています。",
+      "source": "47NEWS",
+      "url": "https://www.47news.jp/15168187.html",
+      "score": 65,
+      "commercial_score": 25,
+      "product_keywords": [
+        "子ども用 室内遊具",
+        "キッズ スニーカー"
       ],
       "country": "jp",
       "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "坂道を楽に歩くための脚力を鍛える2つの筋トレ法",
+      "summary_ja": "上り坂をより楽に歩行できるようになるための2種のエクササイズが紹介されています。片脚ずつ負荷をかける動作を行うことで、必要な脚力を効果的に鍛えられます。山登りやウォーキングを行う人の筋力強化に役立つ内容です。",
+      "source": "Fit&Well",
+      "url": "https://www.fitandwell.com/exercise/walking/leg-exercises-for-hiking",
+      "score": 65,
+      "commercial_score": 50,
+      "product_keywords": [
+        "トレーニングチューブ",
+        "ウォーキングシューズ"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "リバプールのNHS歯科で新規患者の受入態勢が整う",
+      "summary_ja": "リバプール地域において、一部の英国民保健サービス（NHS）管轄の歯科医院が新規患者の受け入れを行っています。地域によって予約の空き状況には差があるものの、受診機会が提供されています。住民への歯科医療アクセスの改善につながる動きです。",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/31-liverpool-nhs-dentists-taking-34831561",
+      "score": 65,
+      "commercial_score": 20,
+      "product_keywords": [
+        "電動歯ブラシ",
+        "デンタルフロス"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "繁華街が屋外ジムに変化し科学的な運動を市民へ届ける",
+      "summary_ja": "中国湖北省の主要商業エリアに屋外フィットネス空間が設置され、市民への運動普及が進められています。活動には3段階の難易度が設定され、初心者から運動愛好家まで各自に合った種目に参加できます。身近な場所で科学的なトレーニングを体験できる機会を提供しています。",
+      "source": "新华网",
+      "url": "http://hb.news.cn/20261101/a7a8e020b4674be29d8d0252dd53425a/c.html",
+      "score": 65,
+      "commercial_score": 40,
+      "product_keywords": [
+        "トレーニングマット",
+        "縄跳び"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "スマート健康機器の最先端技術を議論する学会が厦門で開催",
+      "summary_ja": "2026年スマート健康エレクトロニクスシンポジウムが10月30日から11月1日にかけて中国・厦門で開催されました。厦門大学が主催し、フレキシブルエレクトロニクスなどの先進技術を活用したヘルスケア機器について議論が行われました。健康管理を支える電子技術の進化に向けた研究発表がなされています。",
+      "source": "中新网福建",
+      "url": "https://www.fj.chinanews.com.cn/news/2026/2026-11-01/593033.html",
+      "score": 65,
+      "commercial_score": 55,
+      "product_keywords": [
+        "スマートウォッチ",
+        "健康管理 体組成計"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "伝統の薬膳料理を日常の食卓へ届ける大会が中国で開催へ",
+      "summary_ja": "中国南寧で薬膳コンテストの決勝大会と薬食同源産業発展大会が開催されます。病院や教育機関、食品企業などのチームが連携し、伝統的な薬膳を日々の暮らしに取り入れる工夫を発表します。美味しく健康的な食生活を提案する機会となっています。",
+      "source": "广西新闻网",
+      "url": "http://health.gxnews.com.cn/staticpages/20261101/newgx6ae6b942-22010505.shtml",
+      "score": 65,
+      "commercial_score": 65,
+      "product_keywords": [
+        "薬膳スープ キット",
+        "クコの実",
+        "薬膳"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "冬の健康を支える無料の住民向け健診イベントが英で開催",
+      "summary_ja": "英国のバーンリーとネルソンで、冬を健やかに過ごすための無料コミュニティイベントが開催されます。健康診断やNHSによる医療アドバイスのほか、福祉支援や家族向けアクティビティが提供されます。地域住民のウェルビーイング向上を支援する取り組みです。",
+      "source": "Lancashire Telegraph",
+      "url": "https://www.lancashiretelegraph.co.uk/news/26682371.burnley-nelson-host-free-winter-wellbeing-events/",
+      "score": 60,
+      "commercial_score": 20,
+      "product_keywords": [
+        "血圧計",
+        "防寒グッズ"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
     }
   ]
 }

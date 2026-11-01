@@ -1,286 +1,264 @@
 {
   "genre": "gadget",
   "genre_label_ja": "ガジェット",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:37:51+09:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:37:33+09:00",
   "stories": [
     {
-      "title_ja": "サムスンが超薄型高級折りたたみスマホ「W27」を中国で発表",
-      "summary_ja": "サムスンが中国市場向けの高級折りたたみスマートフォン「W27」を発表した。本体重量215グラムの薄型設計で天通衛星通信に対応し、価格は1万8999元からとなっている。予約受付がすでに始まっている。",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/m/show/621393",
-      "score": 88,
-      "commercial_score": 75,
-      "product_keywords": [
-        "Galaxy Fold",
-        "サムスン スマホ",
-        "折りたたみスマホ"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "ナッシングが約6万円の新型スマホ「Phone (4b)」を発売",
-      "summary_ja": "英Nothingのスマートフォン「Phone (4b)」が5万9800円で登場した。背面のライトが光って通知を知らせるほか、大容量の5200mAhバッテリーを備える。おサイフケータイや最長6年のセキュリティ更新にも対応している。",
-      "source": "Gizmodo",
-      "url": "https://www.gizmodo.jp/article/2610-amazon-nothing-phone4b/",
+      "title_ja": "アップルがMacBookの主要モデル刷新を準備中",
+      "summary_ja": "アップルがMacBookのほぼ全ラインにわたる大幅な刷新を進めている。報道によると、MacBook NeoやAir、Proの新型モデルが準備されているという。",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/apple-prepares-next-generation-mac-imac-macbook-pro-macbook-neo",
       "score": 85,
-      "commercial_score": 90,
+      "commercial_score": 80,
       "product_keywords": [
-        "Nothing Phone",
-        "スマートフォン",
-        "SIMフリー"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "ソノスがANC搭載ヘッドホン「Ace Ultra」を日本で発売",
-      "summary_ja": "Sonos（ソノス）の新型ヘッドホン「Ace Ultra」が国内向けに発売された。価格は6万9800円で、ノイズキャンセリング使用時でも最長35時間のバッテリー持ちを実現している。",
-      "source": "インターネットコム",
-      "url": "https://internetcom.jp/211266/sonos-ace-ultra-japan",
-      "score": 82,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Sonos",
-        "ヘッドホン",
-        "ノイズキャンセリング"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "エイスース、最大26時間駆動の有機ELノートPCをお手頃価格で投入",
-      "summary_ja": "エイスース（ASUS）は14型ノートPC「ExpertBook A7」の新仕様を発表した。120Hz駆動の有機EL画面と最長26時間の駆動時間を保ちつつ、899ドルの手頃な価格帯に設定されている。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Asus-launches-new-budget-laptop-with-120-Hz-OLED-and-26-hours-battery-life.1438179.0.html",
-      "score": 82,
-      "commercial_score": 85,
-      "product_keywords": [
-        "ASUS",
-        "ExpertBook",
-        "ノートパソコン"
+        "Apple",
+        "MacBook"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ボーズの第2世代「QuietComfort」ヘッドホンを海外メディアが評価",
-      "summary_ja": "ボーズ（Bose）のワイヤレスヘッドホン「QuietComfort Headphones」第2世代モデルの実機レビューが公開された。従来機から複数の改良が施され、完成度の高いオーバーイヤー型ヘッドホンと評されている。",
-      "source": "Trusted Reviews",
-      "url": "https://www.trustedreviews.com/reviews/bose-quietcomfort-headphones-2nd-gen",
+      "title_ja": "アイフォーン18eの噂が流出 手頃な価格で登場か",
+      "summary_ja": "アップルの手頃な価格帯のスマートフォン「iPhone 18e」に関する噂が明らかになった。2027年春の登場が見込まれており、6.12インチの有機ELディスプレイや次世代のA20プロセッサが搭載される可能性がある。",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/iphone-18e-rumors-specs-4/",
+      "score": 82,
+      "commercial_score": 75,
+      "product_keywords": [
+        "iPhone",
+        "Apple"
+      ],
+      "country": "us",
+      "country_label_ja": "アメリカ"
+    },
+    {
+      "title_ja": "新型Surface Laptop 13は静音性に優れた薄型ノートPC",
+      "summary_ja": "マイクロソフトの新型「Surface Laptop 13」が高い評価を得ている。省電力なSnapdragon X2 Plusプロセッサを採用しており、普段使いではほぼ無音で動作する点が評価されている。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/The-new-Surface-Laptop-13-is-the-best-Windows-alternative-to-the-fanless-Apple-MacBook-Air.1438955.0.html",
       "score": 82,
       "commercial_score": 88,
       "product_keywords": [
-        "Bose",
-        "QuietComfort",
-        "ボーズ ヘッドホン"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "中国の智元ロボットがロボット同士で学習する新AI技術を発表",
-      "summary_ja": "人型ロボットを開発する智元が清華大学などと共同で、新学習技術「CEL」を発表した。実機96台を活用してロボット同士の経験を共有し、作業の信頼性を向上させて自律進化を目指す。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202610/571141.shtml",
-      "score": 82,
-      "commercial_score": 50,
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "DJIとハッセルブラッドの旗艦店が東京・表参道に開店",
-      "summary_ja": "DJI JAPANの国内正規代理店であるセキドが、東京・表参道に複合旗艦店をオープンする。店内ではドローンの屋内飛行体験なども用意される。開店日は10月31日となっている。",
-      "source": "マイナビニュース",
-      "url": "https://news.mynavi.jp/article/20261030-5222631/",
-      "score": 80,
-      "commercial_score": 75,
-      "product_keywords": [
-        "DJI",
-        "ドローン",
-        "Hasselblad"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "マイクロソフトの小型「Surface Laptop 13」を海外誌がレビュー",
-      "summary_ja": "マイクロソフトの薄型ノートPC「Surface Laptop 13」のレビューが掲載された。明るいIPSタッチ画面や省電力なSnapdragon X2 Plusを積み、標準で16GB以上のメモリを備える日常向けモデルとして評価されている。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Microsoft-s-new-Surface-Laptop-13-is-a-very-good-everyday-laptop.1438111.0.html",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Surface Laptop",
         "マイクロソフト",
-        "ノートパソコン"
+        "Surface Laptop"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
     },
     {
-      "title_ja": "アマゾンが16インチスマート画面などスマート家電5製品を発表",
-      "summary_ja": "米アマゾンがスマートホーム向けの新製品を一度に5機種発表した。16インチの大型スマートディスプレイなどを投入し、家庭用スマート端末の製品展開を強化している。",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2518478",
-      "score": 80,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Amazon Echo",
-        "スマートディスプレイ",
-        "スマートホーム"
-      ],
-      "country": "cn",
-      "country_label_ja": "中国"
-    },
-    {
-      "title_ja": "サムスン公式店で折りたたみ機「Galaxy Z Fold8」が割引",
-      "summary_ja": "サムスンの公式オンラインショップで、創業記念日に合わせた期間限定セールが開催されている。最新の折りたたみスマートフォン「Galaxy Z Fold8」が5パーセント引きの対象となっている。セール期間は11月4日までとなる。",
-      "source": "GetNavi web",
-      "url": "https://getnavi.jp/gadgets/1119393/",
-      "score": 78,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Galaxy Z Fold",
-        "サムスン",
-        "折りたたみスマホ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "エイサーが2.8K有機ELを積む軽量ノートPCを11月発売へ",
-      "summary_ja": "エイサー（Acer）は新型の軽量ノートPC「Swift Air 14」を11月に発売することを公表した。AMDのRyzenプロセッサを搭載し、リフレッシュレート90Hzに対応した2.8K解像度の有機EL画面を採用している。",
+      "title_ja": "倍思が145W急速充電対応の大容量モバイルバッテリー発売",
+      "summary_ja": "倍思（Baseus）が大容量モバイルバッテリー「Enerfill FC41」の刷新版を発売した。容量が2万5000mAhに増え、145Wの急速充電と2本の一体型USB-Cケーブルに対応しており、アマゾンでの掲載価格は79.99ドルとなっている。",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Acer-launching-new-lightweight-laptop-in-November-with-2-8K-and-90-Hz-OLED.1438405.0.html",
-      "score": 78,
-      "commercial_score": 80,
-      "product_keywords": [
-        "Acer",
-        "Swift",
-        "有機EL ノートパソコン"
-      ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
-    },
-    {
-      "title_ja": "ソニーのノイキャンヘッドホン「WH-CH720N」が米アマゾンで半額に",
-      "summary_ja": "ソニーのワイヤレスヘッドホン「WH-CH720N」が米Amazonで51パーセント引きのセール価格で販売されている。手頃な価格帯のヘッドホンとして90ドル未満の特価になっている。",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/oct-22-sony-wh-ch720n-headphones-cheap-deal",
-      "score": 77,
+      "url": "https://www.notebookcheck.net/High-capacity-Baseus-power-bank-launches-with-145W-fast-charging-and-dual-built-in-USB-C-cables.1438688.0.html",
+      "score": 80,
       "commercial_score": 90,
       "product_keywords": [
-        "ソニー ヘッドホン",
-        "WH-CH720N",
-        "ノイズキャンセリング"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "NECが最大32GBメモリ搭載の日本製「LAVIE」新モデルを発表",
-      "summary_ja": "NECがパソコンブランド「LAVIE」から「S13」と「N13」の新モデルを投入した。日本製のプレミアムノートPCとして位置づけられ、インテルのCPUや最大32GBのメモリを搭載できる。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Lavie-S13-and-N13-arrive-as-premium-Japan-made-laptops-with-up-to-32-GB-RAM.1437428.0.html",
-      "score": 76,
-      "commercial_score": 82,
-      "product_keywords": [
-        "NEC",
-        "LAVIE",
-        "ノートパソコン"
+        "Baseus",
+        "モバイルバッテリー",
+        "急速充電"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "冷却ファン搭載の高性能スマホ「OnePlus Ace 7 Pro」発表",
-      "summary_ja": "中国OnePlus（ワンプラス）が新型スマートフォン「Ace 7 Pro」を発表した。内部に冷却ファンと大容量の9000mAhバッテリーを積み、ゲーム向けに185Hz駆動の画面を備える。現地価格は4799元からとなっている。",
-      "source": "インターネットコム",
-      "url": "https://internetcom.jp/211267/oneplus-ace-7-pro-japan",
-      "score": 75,
-      "commercial_score": 70,
-      "product_keywords": [
-        "OnePlus",
-        "ゲーミングスマホ"
-      ],
-      "country": "jp",
-      "country_label_ja": "日本"
-    },
-    {
-      "title_ja": "エイリアンウェアのRTX 5070搭載有機ELノートPCが約1950ドルに",
-      "summary_ja": "ゲーミングPCブランドのAlienware（エイリアンウェア）による「16X Aurora」が米ベストバイで1949.99ドルに値下げされた。RTX 5070やCore Ultra 9、240Hz駆動の有機ELディスプレイなどを備える高性能モデルだ。",
-      "source": "MIXED News",
-      "url": "https://mixed-news.com/en/alienware-16x-aurora-rtx-5070-oled-best-buy-deal/",
-      "score": 75,
-      "commercial_score": 85,
-      "product_keywords": [
-        "Alienware",
-        "ゲーミングノートPC",
-        "RTX"
-      ],
-      "country": "gb",
-      "country_label_ja": "イギリス"
-    },
-    {
-      "title_ja": "華為と深蘭科技、企業向けAIエージェント搭載スマホを発表",
-      "summary_ja": "深蘭科技がファーウェイ（華為）と共同で、AIエージェント機能を備えた業務用スマートフォン「Wowoker」を発表した。マーケティングの自動化や顧客データの活用など、企業の営業活動を支援する端末として製品化された。",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1095005561_120285954",
-      "score": 75,
+      "title_ja": "アップルの折りたたみスマホは初期供給が限定的か",
+      "summary_ja": "アップルが開発を進める折りたたみスマートフォンについて、生産の難しさから発売初期の供給が限られる可能性が報じられた。米国市場限定での展開や価格設定の難しさも指摘されている。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2454260",
+      "score": 80,
       "commercial_score": 65,
       "product_keywords": [
-        "HUAWEI",
-        "スマート端末"
+        "Apple",
+        "折りたたみスマホ"
       ],
       "country": "cn",
       "country_label_ja": "中国"
     },
     {
-      "title_ja": "旧型iPodなどをBluetooth化する音響アダプタがiFiから登場",
-      "summary_ja": "英iFi audioから新機器「iFi Up Travel Max」が登場した。3.5mmイヤホン端子で旧型iPodや車載オーディオなどに接続し、aptX Lossless対応のワイヤレスで最大2台のヘッドホンへ音楽を伝送できる。",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Apple-iPod-cars-and-more-get-Bluetooth-aptX-Lossless-thanks-to-brand-new-iFi-gadget.1438317.0.html",
-      "score": 74,
-      "commercial_score": 80,
+      "title_ja": "DJIの最新ジンバルカメラOsmo Pocket 4Pが登場",
+      "summary_ja": "DJIから最新のジンバルカメラ「Osmo Pocket 4P」が登場した。手ブレを抑えて安定した映像を撮影できる機材として注目を集めている。",
+      "source": "STORY",
+      "url": "https://storyweb.jp/lifestyle/817440/",
+      "score": 78,
+      "commercial_score": 90,
       "product_keywords": [
-        "iFi",
-        "Bluetooth トランスミッター",
-        "aptX Lossless"
+        "DJI",
+        "Osmo Pocket",
+        "ジンバルカメラ"
       ],
-      "country": "us",
-      "country_label_ja": "アメリカ"
+      "country": "jp",
+      "country_label_ja": "日本"
     },
     {
-      "title_ja": "モトローラが2億画素カメラ搭載スマホの発売日を11月5日に予告",
-      "summary_ja": "モトローラ（Motorola）が新型スマートフォン「Signature 27」の発表日を11月5日に決定した。2億画素のカメラや最新のSnapdragonチップを搭載し、Android 17を採用する見込みだ。",
-      "source": "TechJuice",
-      "url": "https://www.techjuice.pk/motorola-confirms-launch-date-for-its-signature-27-smartphone/",
-      "score": 72,
+      "title_ja": "ガーミンが旗艦スマートウォッチ向け大型更新を配信",
+      "summary_ja": "ガーミンが最新の旗艦スマートウォッチ向けに大型アップデートの配信を開始した。Fenix 9やFenix 9 Pro、Enduro 4を対象に、多数の新機能追加や不具合修正が世界中で提供される。",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Garmin-releases-major-update-to-latest-flagship-smartwatches-with-dozens-of-new-features-and-improvements.1439018.0.html",
+      "score": 78,
+      "commercial_score": 80,
+      "product_keywords": [
+        "ガーミン",
+        "スマートウォッチ",
+        "Garmin"
+      ],
+      "country": "gb",
+      "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "華為が手頃な新ブランド星芒のスマホを投入へ",
+      "summary_ja": "華為（ファーウェイ）の新たな「星芒」ブランドから最初のスマートフォンが登場する見通しとなった。オンライン販売を中心とするストレート型の端末で、横型カメラを搭載し手頃な価格設定になるという。",
+      "source": "快科技",
+      "url": "https://m.mydrivers.com/newsview/1162152.html",
+      "score": 78,
       "commercial_score": 75,
       "product_keywords": [
-        "モトローラ",
-        "Motorola",
+        "ファーウェイ",
+        "HUAWEI",
+        "スマートフォン"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "オッポがAI機能と高性能カメラ搭載のFind X10を発表",
+      "summary_ja": "オッポ（OPPO）が高性能スマートフォン「Find X10」シリーズを発表した。高度なハッセルブラッド製カメラや最新のAI機能、高い処理性能を備えている。",
+      "source": "Passionate In Marketing",
+      "url": "https://www.passionateinmarketing.com/asif-ali-launches-oppo-find-x10-series-in-kochi/",
+      "score": 76,
+      "commercial_score": 80,
+      "product_keywords": [
+        "OPPO",
         "スマートフォン"
       ],
       "country": "us",
       "country_label_ja": "アメリカ"
     },
     {
-      "title_ja": "ビボがイヤーカフ型イヤホンなど新アクセサリー群を投入",
-      "summary_ja": "中国のスマートフォン大手vivo（ビボ）がフィリピンで新たな周辺機器を発表した。オーバーイヤー型の「Headphones Studio」やイヤーカフ型の「Buds Clip」などの音響機器が含まれている。",
-      "source": "YugaTech",
-      "url": "https://www.yugatech.com/news/vivo-headphones-studio-buds-clip-specs-and-price-in-the-philippines/",
-      "score": 68,
-      "commercial_score": 75,
+      "title_ja": "オッポがReno17や新型スマートウォッチを11月発表へ",
+      "summary_ja": "オッポ（OPPO）が11月発売予定の新製品「OPPO Reno17」シリーズの予告を開始した。新型スマートフォンに加え、スマートウォッチ「OPPO Watch 5」やタブレット端末も登場する見込みとなっている。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1095445311_359616",
+      "score": 76,
+      "commercial_score": 82,
       "product_keywords": [
-        "vivo",
-        "イヤーカフ イヤホン",
-        "ワイヤレスイヤホン"
+        "OPPO",
+        "スマートウォッチ",
+        "タブレット"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "モトローラの次期旗艦スマホのスコアが判明",
+      "summary_ja": "モトローラが2026年11月5日に発表を予定している次期旗艦スマートフォン「Motorola Signature 27」のベンチマークスコアが判明した。最新の2nmプロセスチップを搭載し、負荷の高いゲームも快適に動作する性能を備えている。",
+      "source": "デイリーガジェット",
+      "url": "https://daily-gadget.net/smartphone_tablet/122587/",
+      "score": 75,
+      "commercial_score": 70,
+      "product_keywords": [
+        "モトローラ",
+        "スマートフォン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "智元ロボティクスが作業経験を共有する学習方式を発表",
+      "summary_ja": "智元（Agibot）が清華大学などとともに、ロボットの集団経験学習の新方式を発表した。実作業での成功や失敗の経験をロボット間で共有することで、人の手本なしに作業成功率を大きく向上させている。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610313917592390.html",
+      "score": 75,
+      "commercial_score": 40,
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "フィリップスの新型ヘッドホンFidelio L5レビュー",
+      "summary_ja": "フィリップスの最新ヘッドホン「Fidelio L5」の実機レビューが公開された。手頃な価格設定ながら大きな魅力を備えた製品として評価されている。",
+      "source": "T3",
+      "url": "https://www.t3.com/tech/headphones/philips-fidelio-l5-review",
+      "score": 74,
+      "commercial_score": 82,
+      "product_keywords": [
+        "フィリップス",
+        "ヘッドホン",
+        "Fidelio"
       ],
       "country": "gb",
       "country_label_ja": "イギリス"
+    },
+    {
+      "title_ja": "finalが約40gの軽量ワイヤレスヘッドホンを発売",
+      "summary_ja": "finalからオンイヤー型ワイヤレスヘッドホン「PORTA」が10月23日に発売された。本体の重さは約40gで、細いワイヤー状フレームのエアワイヤーを採用して頭頂部への圧力を抑えている。",
+      "source": "ライフハッカー",
+      "url": "https://www.lifehacker.jp/article/2610-amazon-final-porta-wirelessheadphone/",
+      "score": 72,
+      "commercial_score": 88,
+      "product_keywords": [
+        "final",
+        "ヘッドホン",
+        "PORTA"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "倍思がファン冷却付きの急速充電器を発表",
+      "summary_ja": "倍思（Baseus）が急速充電器「颶風3号」を発表した。ファンによる風冷アクティブ放熱機能を備え、ノートPCやスマホなど複数機器の充電時でも高出力を維持できる。",
+      "source": "中华网",
+      "url": "https://tech.china.com/articles/20261031/202610311971821.html",
+      "score": 72,
+      "commercial_score": 90,
+      "product_keywords": [
+        "Baseus",
+        "急速充電器"
+      ],
+      "country": "cn",
+      "country_label_ja": "中国"
+    },
+    {
+      "title_ja": "SOUNDPEATSのイヤーカフ型イヤホンが登場",
+      "summary_ja": "SOUNDPEATSがオープンイヤーイヤホン「CC3 Pro」を米国などで発売した。2種類のドライバーを積み高音質コーデックのLDACに対応しており、米国での価格は69.99ドルとなっている。",
+      "source": "インターネットコム",
+      "url": "https://internetcom.jp/amp/211268/soundpeats-cc3-pro-japan",
+      "score": 70,
+      "commercial_score": 85,
+      "product_keywords": [
+        "SOUNDPEATS",
+        "ワイヤレスイヤホン",
+        "イヤーカフ"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "無印良品の完全ワイヤレスイヤホンを実機比較レビュー",
+      "summary_ja": "無印良品のガジェットコーナーに完全ワイヤレスイヤホン「MUJI-ME1」が登場した。ダイソーのイヤホン「TWS009」とスペックや実機の性能を比較検証している。",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/amp/article/iza_QDXMM4B3RRHPDFJQU4RHOEJXHI/",
+      "score": 68,
+      "commercial_score": 75,
+      "product_keywords": [
+        "無印良品",
+        "完全ワイヤレスイヤホン"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
+    },
+    {
+      "title_ja": "MOFTのスタンドシリーズに新作アイテムが登場",
+      "summary_ja": "人気のアクセサリーブランドMOFTのスタンドシリーズから新商品が登場した。外出時にも活用できるアイテムとして注目されている。",
+      "source": "トレンドお届けメディア Trepo",
+      "url": "https://trepo.jp/life-style/357462/",
+      "score": 65,
+      "commercial_score": 85,
+      "product_keywords": [
+        "MOFT",
+        "スマホスタンド"
+      ],
+      "country": "jp",
+      "country_label_ja": "日本"
     }
   ]
 }
